@@ -7,7 +7,7 @@
 
 ### Regulasi WCA
 
-Pedoman WCA melengkapi <regs>Regulasi WCA. Lihat Regulasi untuk informasi lebih lengkap tentang WCA.  
+Pedoman WCA melengkapi [Regulasi WCA](regulations). Lihat Regulasi untuk informasi lebih lengkap tentang WCA.  
 
 ### Penomoran
 
@@ -24,12 +24,12 @@ Agar lebih informatif, tiap pedoman digolongkan menggunakan salah satu dari labe
 - <label>[REMINDER] Informasi yang mungkin disebutkan oleh regulasi atau peraturan lain, tapi berhubungan, hendaknya ditegaskan kembali.
 
 
-<contents>
+##<contents> [Contents](guidelines:contents)
 
 <table-of-contents>
 
 
-## <officials><officials> Pasal 1: Panitia
+## <article-1><officials><officials> Pasal 1: Panitia
 
 - 1c3+) [RECOMMENDATION] Hasil sebaiknya sudah siap pada akhir dari hari terakhir kompetisi.
 - 1c3b+) [CLARIFICATION] Jika ada lebih dari satu grup, tidak perlu mengidentifikasi kompetitor berada pada grup mana.
@@ -40,7 +40,7 @@ Agar lebih informatif, tiap pedoman digolongkan menggunakan salah satu dari labe
 - 1h1+) [CLARIFICATION] Scrambler/judge sebaiknya hanya mengacak untuk/mewasiti kompetitor lain dalam grup yang sama hanya jika itu penting untuk logistik kompetisi.
 
 
-## <competitors><competitors> Pasal 2 : Kompetitor
+## <article-2><competitors><competitors> Pasal 2 : Kompetitor
 
 - 2c+) [ADDITION] Kompetitor yang baru pertama kali ikut sebaiknya mendaftar menggunakan nama aslinya. Mereka boleh mendaftar menggunakan nama panggilan yang masuk akal, berdasarkan kebijaksaan WCA Delegate.
 - 2c++) [ADDITION] Kompetitor tidak boleh memberikan informasi yang salah dengan sengaja, dan kompetitor yang sudah pernah ikut sebaiknya memberikan informasi konsisten dengan informasi sebelumnya (contohnya nama dan WCA ID).
@@ -51,7 +51,7 @@ Agar lebih informatif, tiap pedoman digolongkan menggunakan salah satu dari labe
 - 2s+) [REMINDER] Akomodasi khusus harus dicatatkan di laporan WCA Delegate.
 
 
-## <puzzles><puzzles> Pasal 3: Puzzle
+## <article-3><puzzles><puzzles> Pasal 3: Puzzle
 
 - 3a+) [CLARIFICATION] Kompetitor boleh menggunakan puzzle dengan ukuran yang masuk akal, berdasarkan kebijaksanaan WCA delegate.
 - 3a++) [ADDITION] Secara default, seorang kompetitor sebaiknya menggunakan puzzle yang sama untuk attempt yang berurutan dalam sebuah round speedsolving. Seorang kompetitor boleh mengganti puzzle diantara attempt, berdasarkan kebijaksanaan judge atau WCA Delegate.
@@ -61,7 +61,7 @@ Agar lebih informatif, tiap pedoman digolongkan menggunakan salah satu dari labe
 - 3h++) [EXAMPLE] Contoh peningkatan termasuk: Gerakan baru menjadi mungkin, gerakan normal tidak memungkinkan, lebih banyak piece atau muka yang terlihat, warna di sisi belakang puzzle terlihat, gerakan dapat dilakukan otomatis, atau puzzle memiliki keadaan terselesaikan yang berbeda/lebih banyak.
 
 
-## <scrambling><scrambling> Pasal 4 : Pengacakan
+## <article-4><scrambling><scrambling> Pasal 4: Pengacakan
 
 - 4b1+) [REMINDER] WCA Delegate tidak boleh menghasilkan ulang acakan untuk mengganti acakan yang lain dengan tujuan penyaringan. Sebagai contoh, tidak dibolehkan untuk melihat sekilas acakan untuk kompetisi dan menghasilkan seluruh acakannya kembali untuk menghasilkan acakan "yang lebih baik". 
 - 4b2+) [CLARIFICATION] Umumnya, seluruh urutan acakan resmi sebaiknya dirahasiakan selama kompetisi dan dipublikasikan setelah kompetisi berakhir (lihat <Regulation 1c3a>). Dalam beberapa kasus (misalnya rekor dunia/world records), tim panitia boleh meminta untuk mengeluarkan acakan tersebut sesaat setelah babak selesai.
@@ -70,13 +70,13 @@ Agar lebih informatif, tiap pedoman digolongkan menggunakan salah satu dari labe
 - 4f++) [REMINDER] Jika WCA Delegate menghasilkan acakan tambahan selama kompetisi, dia harus menyimpannya (lihat <Regulation 1c3a>).
 
 
-## <puzzle-defects><puzzledefects> Pasal 5: Kerusakan Puzzle
+## <article-5><puzzle-defects><puzzledefects> Pasal 5: Kerusakan Puzzle
 
 - 5b5+) [EXAMPLE] Contoh kerusakan puzzle: centre dari 5x5x5 terputar di tempat.
 - 5b5++) [EXAMPLE] Contoh kerusakan puzzle di akhir attempt: Pyraminx dengan tip yang lepas dapat disusun kembali dengan tiga cara, salah satunya adalah keadaan terselesaikan, dan sisanya adalah keadaan "+2". Attempt yang berakhir seperti demikian diberi hukuman "+2".
 
 
-## <awards><awards> Pasal 6 : Penghargaan/hadiah/kehormatan
+## <article-6><awards><awards> Pasal 6: Penghargaan/hadiah/kehormatan
 
 - 6a+) [SEPARATE][ADDITION] Penghargaan, hadiah, atau kehormatan bisa diberikan kepada kompetitor berdasarkan pengumuman kompetisi.
 - 6b+) [SEPARATE][RECOMMENDATION] Kompetitor sebaiknya menghadiri upacara pemenang untuk menerima penghargaan/hadiah/kehormatan.
@@ -85,20 +85,20 @@ Agar lebih informatif, tiap pedoman digolongkan menggunakan salah satu dari labe
 - 6d+) [SEPARATE][RECOMMENDATION] Tim panitia sebaiknya memiliki sertifikat untuk semua kategori pemenang, ditandatangani oleh ketua tim panitia dan WCA delegate.
 
 
-## <environment><environment> Pasal 7: Lingkungan
+## <article-7><environment><environment> Pasal 7: Lingkungan
 
 - 7d+) [SEPARATE][ADDITION] Suhu di lingkungan kompetisi sebaiknya dari 21 sampai 25 derajat Celsius.
 - 7h2+) [SEPARATE][ADDITION] Kompetitor di area kompetitor sebaiknya tidak dapat melihat puzzle kompetitor di panggung.
 
 
-## <competitions><competitions> Pasal 8: Kompetisi
+## <article-8><competitions><competitions> Pasal 8: Kompetisi
 
 - 8a4+) [RECOMMENDATION] Perubahan untuk menambah jumlah maksimum peserta di qualification round dan round pertama, atau untuk menambah qualificaton round untuk peserta yang baru terdaftar di WCA, sebaiknya dibuat setidaknya 1 (satu) bulan sebelum kompetisi dimulai (lihat <Regulation 9r3>).
 - 8a4++) [RECOMMENDATION] Kompetisi sebaiknya diumumkan setidaknya 1 (satu) bulan sebelum kompetisi dimulai.
 - 8a5+) [SEPARATE][RECOMMENDATION] Kompetisi sebaiknya diikuti oleh setidaknya 12 (dua belas) peserta.
 
 
-## <events><events> Pasal 9: Events
+## <article-9><events><events> Pasal 9: Events
 
 - 9b+) [ADDITION] Format yang lebih didahulukan untuk sebuah event adalah "Average of 5" atau "Mean of 3", jika memungkinkan.
 - 9b++) [ADDITION] Event selain yang disebutkan di <Regulation 9b> dapat dilakukan selama kompetisi berlangsung, tapi dianggap tidak resmi dan tidak diikutsertakan dalam hasil kompetisi.
@@ -107,54 +107,54 @@ Agar lebih informatif, tiap pedoman digolongkan menggunakan salah satu dari labe
 - 9r+) [EXPLANATION] Tujuan dari qualification round adalah untuk menyaring peserta yang tidak berperingkat atau berperingkat rendah di dalam kompetisi yang berpeserta banyak.
 
 
-## <solved-state><solvedstate> Pasal 10: Keadaan Terselesaikan
+## <article-10><solved-state><solvedstate> Pasal 10: Keadaan Terselesaikan
 
 - 10f+) [EXPLANATION] Batas-batas ketidaksesuaian ditetapkan sehingga menghasilkan batas alami antara keadaan terselesaikan dan keadaan kurang 1 (satu) gerakan.
 
 
-## <incidents><incidents> Pasal 11: Insiden
+## <article-11><incidents><incidents> Pasal 11: Insiden
 
 - 11e+) [CLARIFICATION] Karena perbandingan tidak bisa dipastikan sukses, kompetitor boleh memilih untuk tetap membiarkan timer berjalan selagi meminta banding, dan kembali meneruskan attempt ketika urusan selesai.
 - 11e1+) [REMINDER] Attempt tambahan harus di scramble dengan rangkaian scramble yang tidak diubah, yang di-generate dengan scrambler resmi (lihat <Regulation 4f>, <Guidelines 4f>).
 
 
-## <speedsolving><speedsolving> Article A: Speed Solving
+## <article-A><speedsolving><speedsolving> Article A: Speed Solving
 
 - A1a2+) [ADDITION] Dalam kasus dimana waktu menyentuh batas waktu, judge menulis waktu di sebelah "DNF" dalam tanda kurung. misal, DNF (1:02.27).
 - A1a3+) [REMINDER] Tim organisasi dan WCA delegate harus sadar bahwa batas waktu bisa mengubah strategi beberapa kompetitor (misal, buru-buru menyelesaikan 2 attempt pertama dengan harapan dapat melewati cut-off dalam combined round), dan mengganti batas waktu setelah dimulainya sebuah round dapat memberikan ketidakadilan bagi beberapa kompetitor.
 - A1a4+) [REMINDER]Jika ada kompetitor yang tidak sengaja diberikan kesempatan untuk melewati batas waktu, batas waktu harus diterapkan secara retroaktif, dan judge, kompetitor serta WCA Delegate sebaiknya diberitahukan (lihat <Regulation 1g2>). Judge harus selalu memperhatikan time limit untuk attempt yang sedang berlangsung (yang mungkin saja bergantung dengan attempt sebelumnya, dalam kasus batas waktu kumulatif).
-A2c1+) CLARIFICATION Sebelumnya, score sheet sering digunakan untuk menjadi cover sehingga beberapa sisi dari puzzle terlihat. Hal ini sudah tidak diperbolehkan.
+- A2c1+) CLARIFICATION Sebelumnya, score sheet sering digunakan untuk menjadi cover sehingga beberapa sisi dari puzzle terlihat. Hal ini sudah tidak diperbolehkan.
 - A2c1+) [CLARIFICATION] Sebelumnya, score sheet sering digunakan untuk menjadi cover sehingga beberapa sisi dari puzzle terlihat. Hal ini sudah tidak diperbolehkan.
 - A3c3+) [CLARIFICATION] Walau judge diminta untuk me-reset timer untuk kompetitor (lihat <Regulation A3b>), kompetitor boleh me-reset-nya sebelum atau pada saat fase inspeksi jika judge tidak sengaja lupa untuk melakukannya.
 - A6b+) [EXPLANATION] Angka asal 0.06 dipilih untuk mengakomodir masalah-masalah yang terjadi akibat malfungsinya Stackmat Timer.
 - A6g+) [ADDITION] Ketika sedang menentukan perlunya memberikan penalti untuk putaran yang kurang, judge sebaiknya jangan menyentuh puzzle.
 
 
-## <blindfolded-solving><Blindfodled Solving> Pasal B: Blindfolded Solving
+## <article-B><blindfolded-solving><Blindfodled Solving> Pasal B: Blindfolded Solving
 
 - B1+) [REMINDER] Kompetitor harus menggunakan puzzle tanpa tekstur-tekstur, tanda-tanda, atau ciri-ciri lain yang membedakan piece yang sama(lihat regulasi 3k). Hal ini harus diberikan perhatian khusus dalam Blindfolded Solving (penyelesaian dengan mata tertutup).
 - B1b+) [RECOMMENDATION] Penutup mata harus dicek terlebih dahulu oleh WCA delegate sebelum digunakan dalam kompetisi.
 
 
-## <one-handed><One Handed Solving> Pasal C: One-Handed Solving
+## <article-C><one-handed><One Handed Solving> Pasal C: One-Handed Solving
 
- C1b+) [CLARIFICATION] Kompetitor dapat menggunakan kedua tangannya selama waktu inspeksi.
+- C1b+) [CLARIFICATION] Kompetitor dapat menggunakan kedua tangannya selama waktu inspeksi.
 - C1b++) [CLARIFICATION] Kompetitor tidak diharuskan untuk menggunakan tangan yang sama dalam pengambilan attempt lain dalam round yang sama.
 - C1b2+) [REMINDER] Menggunakan permukaan meja selama membenarkan atau memperbaiki cube diperbolehkan.
 
 
-## <with-feet><solving with feet> Solving With Feet
+## <article-D><with-feet><solving with feet> Pasal D: Solving With Feet
 
 - D1b+) [CLARIFICATION] Kompetitor diperbolehkan menggunakan kaus kaki selama solving.
 - D1c+) [REMINDER] Selama membenarkan puzzle yang rusak, anggota tubuh lain tidak diperbolehkan untuk menyentuk puzzle.
 
 
-## <fewest-moves><fewest moves solving> Fewest Moves Solving
+## <article-E><fewest-moves><fewest moves solving> Pasal E: Fewest Moves Solving
 
 - E2b+) [CLARIFICATION] Kompetitor dapat memilih untuk menghentikan attemptnya lebih cepat dengan cara memberikan solusinya sebelum batas waktu yang ditentukan
 
 
-## <multiple-blindfolded><multipleblindfoldedsolving> Pasal H: Multiple Blindfolded Solving
+## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Pasal H: Multiple Blindfolded Solving
 
 
 - H1b1+) [REMINDER] Attempt tidak didiskualifikasi apabila mencapai batas waktu, dikarenakan pengecualian untuk Multiple Blindfolded Solving (Lihat regulasi A1a4 dan A1a5).

@@ -8,7 +8,7 @@
 ### Regulasi dan Pedoman WCA
 
 Regulasi WCA berisi Regulasi lengkap yang berlaku dalam semua kompetisi yang disetujui oleh World Cube Association.
-Regulasi WCA juga dilengkapi oleh <guides>Pedoman WCA. Regulasi WCA sebaiknya dipertimbangkan sebagai dokumen lengkap, sedangkan Pedoman WCA berisi klarifikasi dan penjelasan tambahan.
+Regulasi WCA juga dilengkapi oleh [Pedoman WCA](guidelines). Regulasi WCA sebaiknya dipertimbangkan sebagai dokumen lengkap, sedangkan Pedoman WCA berisi klarifikasi dan penjelasan tambahan.
 
 
 ### Informasi di Internet
@@ -22,14 +22,14 @@ Perkembangan Regulasi WCA dan Pedoman WCA terbuka secara umum [di GitHub](https:
 ### Kontak
 Untuk pertanyaan dan saran, hubungi [WCA Regulations Committee (WRC)](http://www.worldcubeassociation.org/contact-information).
 
-<contents>
+##<contents> [Contents](regulations:contents)
 
 Catatan: Karena nomor Pasal dan Regulasi tidak diatur kembali saat ada Regulasi yang dihapus, akan ada bagian kosong pada penomoran.
 
 <table-of-contents>
 
 
-## <officials><officials> Pasal 1: Panitia
+## <article-1><officials><officials> Pasal 1: Panitia
 
 - 1a) Sebuah kompetisi harus dihadiri seorang WCA Delegate dan memiliki tim panitia (beranggotakan 1 atau lebih anggota): judges, pengacak dan pengambil skor.
 - 1b) Tim panitia dari sebuah kompetisi bertanggungjawab atas logistik sebelum, selama dan sesudah kompetisi.
@@ -61,7 +61,7 @@ Catatan: Karena nomor Pasal dan Regulasi tidak diatur kembali saat ada Regulasi 
 - 1k) Panitia dapat menjalankan beberapa peran (contoh: tim panitia, WCA Delegate, judge, pengambil skor, scrambler).
 
 
-## <competitors><competitors> Pasal 2: Kompetitor
+## <article-2><competitors><competitors> Pasal 2: Kompetitor
 
 - - 2a) Semua orang dapat berkompetisi dalam suatu kompetisi WCA jika:
   - 2a1) Menaati Regulasi WCA.
@@ -102,7 +102,7 @@ Catatan: Karena nomor Pasal dan Regulasi tidak diatur kembali saat ada Regulasi 
 - 2t) Setiap kompetitor harus familiar dan mengerti Regulasi WCA sebelum kompetisi dilangsungkan.
 
 
-## <puzzles><puzzles> Pasal 3: Puzzle
+## <article-3><puzzles><puzzles> Pasal 3: Puzzle
 
 - 3a) Kompetitor harus membawa puzzle mereka sendiri untuk kompetisi.
   - 3a1) Kompetitor harus hadir dan siap untuk berkompetisi saat mereka dipanggil untuk berkompetisi dalam satu round. Penalti: diskualifikasi dari event tersebut.
@@ -124,7 +124,7 @@ Catatan: Karena nomor Pasal dan Regulasi tidak diatur kembali saat ada Regulasi 
 - 3m) Semua merk dari puzzle dan bagian puzzle diijinkan, selama puzzle tersebut memenuhi semua Regulasi WCA.
 
 
-## <scrambling><scrambling> Pasal 4: Pengacakan
+## <article-4><scrambling><scrambling> Pasal 4: Pengacakan
 
 - 4a) Pengacak menerapkan rangkaian scramble kepada puzzle.
 - 4b) Puzzle harus teracak oleh rangkaian acakan yang digenerate oleh komputer.
@@ -139,7 +139,7 @@ Catatan: Karena nomor Pasal dan Regulasi tidak diatur kembali saat ada Regulasi 
   - 4g1) Pengecualian: untuk puzzle kubus 6x6x6 dan 7x7x7, pengulangan pengacakan tidak usah dilakukan, dengan keputusan WCA Delegate.
 
 
-## <puzzle-defects><puzzledefects> Pasal 5: Kecacatan/Kerusakan Puzzle
+## <article-5><puzzle-defects><puzzledefects> Pasal 5: Kecacatan/Kerusakan Puzzle
 
 - 5a) Kecacatan/kerusakan puzzle meliputi piece yang pop, piece yang terputar di tempat, dan komponen yang lepas seperti baut, center cap, dan stiker.
 - 5b) Jika kecacatan/kerusakan puzzle terjadi selama attempt berlangsung, kompetitor boleh memperbaiki puzzle nya dan melanjutkan attempt, atau menghentikan attempt tersebut.
@@ -154,7 +154,7 @@ Catatan: Karena nomor Pasal dan Regulasi tidak diatur kembali saat ada Regulasi 
 - 5c) Jika kompetitor mengalami kecacatan/kerusakan puzzle, kompetitor tidak memiliki hak untuk menerima attempt tambahan.
 
 
-## <environment><environment> Pasal 7: Lingkungan
+## <article-7><environment><environment> Pasal 7: Lingkungan
 
 - 7b) Penonton harus tetap berada setidaknya sejauh 1,5 meter dari area solving.
 - 7c) Pencahayaan dari area kompetisi harus diberikan perhatian khusus. Pencahayaan harus netral, seperti kompetitor dapat dengan mudah membedakan warna pada puzzle.
@@ -171,7 +171,7 @@ Catatan: Karena nomor Pasal dan Regulasi tidak diatur kembali saat ada Regulasi 
   - 7h1) Tim panitia mungkin mengharuskan kompetitor yang sudah dipanggil berkompetisi untuk harus tetap berada di dalam area kompetitor sampai dia sudah menyelesaikan semua attempt-nya dalam round tersebut.
 
 
-## <competitions><competitions> Pasal 8: Kompetisi
+## <article-8><competitions><competitions> Pasal 8: Kompetisi
 
 - 8a) Sebuah kompetisi resmi WCA harus:
   - 8a1) Disetujui oleh WCA Board.
@@ -184,7 +184,7 @@ Catatan: Karena nomor Pasal dan Regulasi tidak diatur kembali saat ada Regulasi 
 - 8f) Jika Regulasi WCA tidak ditaati secara sepenuhnya ketika kompetisi, WCA Board dapat mendiskualifikasi attempt yang terkait.
 
 
-## <events><events> Pasal 9: Event
+## <article-9><events><events> Pasal 9: Event
 
 - 9a) WCA menyelenggarakan kompetisi untuk:
   - 9a1) Puzzle yang dikenal dengan puzzle Rubik's.
@@ -243,7 +243,7 @@ Catatan: Karena nomor Pasal dan Regulasi tidak diatur kembali saat ada Regulasi 
 - 9s) Setiap round dari setiap event harus mempunyai batas waktu (lihat <Regulation A1a>).
 
 
-## <solved-state><solvedstate> Pasal 10: Kondisi terselesaikan
+## <article-1><solved-state><solvedstate> Pasal 10: Kondisi terselesaikan
 
 - 10b) Hanya kondisi puzzle yang diam setelah timer dihentikan yang dianggap.
 - 10c) Puzzle dapat berada di orientasi apapun di akhir attempt.
@@ -261,7 +261,7 @@ Catatan: Karena nomor Pasal dan Regulasi tidak diatur kembali saat ada Regulasi 
 - 10h) Puzzle yang tidak dijelaskan di pasal ini diwasiti secara umum untuk mencapai keadaan terselesaikan, menerapkan regulasi yang relevan dengan Kubus Rubik's (Rubik's Cube).
 
 
-## <incidents><incidents> Pasal 11: Insiden
+## <article-1><incidents><incidents> Pasal 11: Insiden
 
 - 11a) Insiden termasuk:
   - 11a1) Penyelenggaraan prosedur kompetisi yang tidak sesuai dengan regulasi, baik oleh penyelenggara maupun kompetitor.
@@ -274,7 +274,7 @@ Catatan: Karena nomor Pasal dan Regulasi tidak diatur kembali saat ada Regulasi 
 - 11f) Keputusan tentang insiden dapat didukung dengan video atau analisis fotografi, tergantung kebijaksanaan WCA delegate.
 
 
-## <notasi><notasi> Pasal 12: Notasi
+## <article-1><notasi><notasi> Pasal 12: Notasi
 - 12a) Notasi untuk Rubik's Cube dan cube-cube sejenis:
   - 12a1) Gerakan Sisi:
     - 12a1a) Searah dengan jarum jam, 90 derajat: F (sisi depan), B (sisi belakang), R (sisi kanan), L (sisi kiri), U (sisi atas), D (sisi bawah).
@@ -312,7 +312,7 @@ Catatan: Karena nomor Pasal dan Regulasi tidak diatur kembali saat ada Regulasi 
   - 12g4) Putar puzzle dengan angka 12 tetap diatas, lalu putar semua pin kebawah: y2.
 
 
-## <speedsolving><speedsolving> Pasal A: Speed Solving
+## <article-A><speedsolving><speedsolving> Pasal A: Speed Solving
 
 - A1) Semua attempt Speed Solving harus menuruti semua prosedur berikut.
   - A1a) Tim organisasi diperbolehkan untuk melaksanakan batas waktu untuk tiap attempt dan/atau round.
@@ -382,7 +382,7 @@ Catatan: Karena nomor Pasal dan Regulasi tidak diatur kembali saat ada Regulasi 
   - A7f) Jika score sheet seorang kompetitor untuk sebuah round telah dilengkapi, judge memberikan score sheet kepada score taker.
 
 
-## <blindfolded><blindfoldedsolving> Pasal B: Blindfolded Solving
+## <article-B><blindfolded><blindfoldedsolving> Pasal B: Blindfolded Solving
 
 - B1) Prosedur standar speed solving diterapkan, seperti yang telah dijelaskan di <Article A> (Speed Solving). Regulasi tambahan yang kana membatalkan prosedur tertentu di <Pasal A> akan dijelaskan di bawah ini.
   - B1a) Tidak ada waktu inspeksi.
@@ -413,7 +413,7 @@ Catatan: Karena nomor Pasal dan Regulasi tidak diatur kembali saat ada Regulasi 
   - B5c) Jika kompetitor tidak menyentuh puzzle, dia diperbolehkan memlepaskan blindfold sebelum dia menghentikan timer. Setelah itu, dia tidak diperbolehkan melakukan gerakan apapun akhir attempt tersebut. Penalti: diskualifikasi attempt tersebut (DNF/Did Not Finished/Did Not Finished).
 
 
-## <one-handed><onehandedsolving> Pasal C: One-Handed Solving
+## <article-C><one-handed><onehandedsolving> Pasal C: One-Handed Solving
 
 - C1) Prosedur standar speed solving diterapkan, seperti yang telah dijelaskan di <pasal A (Speed Solving)>. Regulasi tambahan yang kana membatalkan prosedur tertentu di Pasal A akan dijelaskan di bawah ini.
   - C1b) Ketika solve, kompetitor hanya boleh menggunakan satu tangan untuk menyentuh puzzle. Penalti: diskualifikasi attempt tersebut (DNF/Did Not Finished/Did Not Finished).
@@ -422,7 +422,7 @@ Catatan: Karena nomor Pasal dan Regulasi tidak diatur kembali saat ada Regulasi 
   - C1c) Ketika solve, begitu salah satu tangan kompetitor menyetuh puzzle, dia tidak diizinkan menyentuh puzzle tersebut dengan tangannya yang satu lagi. Penalti: diskualifikasi attempt tersebut (DNF/Did Not Finished/Did Not Finished).
 
 
-## <feet><solvingwithfeet> Pasal D: Solving With Feet
+## <article-D><feet><solvingwithfeet> Pasal D: Solving With Feet
 
 - D1) Prosedur standar speed solving diterapkan, seperti yang telah dijelaskan di <Article A> (Speed Solving). Regulasi tambahan yang kana membatalkan prosedur tertentu di Pasal A akan dijelaskan di bawah ini.
   - D1a) Ketika attempt, kompetitor harus duduk di sebuah kursi, duduk di permukaan lantai, atau berdiri
@@ -435,7 +435,7 @@ Catatan: Karena nomor Pasal dan Regulasi tidak diatur kembali saat ada Regulasi 
   - D4a) Kompetitor memberhentikan timer dengan cara menaruh kakinya di atas sensor timer.
   
 
-## <fewest-moves><fewestmovessolving> Pasal E: Fewest Moves Solving
+## <article-E><fewest-moves><fewestmovessolving> Pasal E: Fewest Moves Solving
 
 - E2) Prosedur untuk Fewest Moves Solving
   - E2a) Judge membagikan rangkaian scramble kepada semua kompetitor. Judge kemudian menjalankan stopwatch dan meneriakan "GO".
@@ -452,14 +452,14 @@ Catatan: Karena nomor Pasal dan Regulasi tidak diatur kembali saat ada Regulasi 
   - E3c) stiker berwarna (disediakan sendiri).
 
 
-## <clock><clocksolving> Pasal F: Clock solving
+## <article-F><clock><clocksolving> Pasal F: Clock solving
 
 - F1) Prosedur standar speed solving diterapkan, seperti yang telah dijelaskan di <Article A> (Speed Solving). Regulasi tambahan yang kana membatalkan prosedur tertentu di Pasal A akan dijelaskan di bawah ini.
 - F2) Judge memposisikan puzzle yang telah diacak di atas alas meja dalam posisi berdiri.
 - F3) Di akhir waktu inspeksi, kompetitor menaruh kembali puzzle di atas alas meja dalam posisi berdiri. Dia tidak boleh mengganti satupun posisi pin dari posisi acakannya sebelum memulai solve. Penalti: diskualifikasi (DNF/Did Not Finished/Did Not Finished).
 
 
-## <multiple-blindfolded><multipleblindfoldedsolving> Pasal H: Multiple Blindfolded Solving
+## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Pasal H: Multiple Blindfolded Solving
 
 - H1) Prosedur standar speed solving diterapkan, seperti yang telah dijelaskan di <Article B> (Blindfolded Solving). Regulasi tambahan yang akan membatalkan prosedur-prosedur tertentu di <Article B> akan dijelaskan di bawah ini.
   - H1a) Sebelum sebuah attempt, kompetitor harus memberitahu judge jumlah puzzle yang diinginkan untuk diselesaikan. Jumlah puzzle harus sedikitnya berjumlah 2.
@@ -470,7 +470,7 @@ Catatan: Karena nomor Pasal dan Regulasi tidak diatur kembali saat ada Regulasi 
   - H1d) Penalti waktu untuk puzzle-puzzle attempt tersebut bersifat kumulatif.
 
 
-## <optional><optional> Pasal Z: Regulasi Opsional
+## <article-Z><optional><optional> Pasal Z: Regulasi Opsional
 
 Tim panitia boleh mengadopsi regulasi-regulasi optional untuk mengfasilitasi administrasi kompetisi.
 WCA Board harus menyetujui semua regulasi opsional yang akan diterapkan di sebuah kompetisi.
