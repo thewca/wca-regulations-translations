@@ -132,32 +132,32 @@ A2c1+) CLARIFICATION Sebelumnya, score sheet sering digunakan untuk menjadi cove
 
 ## <blindfolded-solving><Blindfodled Solving> Pasal B: Blindfolded Solving
 
-B1+) [REMINDER] Kompetitor harus menggunakan puzzle tanpa tekstur-tekstur, tanda-tanda, atau ciri-ciri lain yang membedakan piece yang sama(lihat regulasi 3k). Hal ini harus diberikan perhatian khusus dalam Blindfolded Solving (penyelesaian dengan mata tertutup).
-B1b+) [RECOMMENDATION] Penutup mata harus dicek terlebih dahulu oleh WCA delegate sebelum digunakan dalam kompetisi.
+- B1+) [REMINDER] Kompetitor harus menggunakan puzzle tanpa tekstur-tekstur, tanda-tanda, atau ciri-ciri lain yang membedakan piece yang sama(lihat regulasi 3k). Hal ini harus diberikan perhatian khusus dalam Blindfolded Solving (penyelesaian dengan mata tertutup).
+- B1b+) [RECOMMENDATION] Penutup mata harus dicek terlebih dahulu oleh WCA delegate sebelum digunakan dalam kompetisi.
 
 
-<one-handed><One Handed Solving> Pasal C: One-Handed Solving
+## <one-handed><One Handed Solving> Pasal C: One-Handed Solving
 
-C1b+) [CLARIFICATION] Kompetitor dapat menggunakan kedua tangannya selama waktu inspeksi.
-C1b++) [CLARIFICATION] Kompetitor tidak diharuskan untuk menggunakan tangan yang sama dalam pengambilan attempt lain dalam round yang sama.
-C1b2+) [REMINDER] Menggunakan permukaan meja selama membenarkan atau memperbaiki cube diperbolehkan.
-
-
-#<with-feet><solving with feet> Solving With Feet
-
-D1b+) [CLARIFICATION] Kompetitor diperbolehkan menggunakan kaus kaki selama solving.
-D1c+) [REMINDER] Selama membenarkan puzzle yang rusak, anggota tubuh lain tidak diperbolehkan untuk menyentuk puzzle.
+ C1b+) [CLARIFICATION] Kompetitor dapat menggunakan kedua tangannya selama waktu inspeksi.
+- C1b++) [CLARIFICATION] Kompetitor tidak diharuskan untuk menggunakan tangan yang sama dalam pengambilan attempt lain dalam round yang sama.
+- C1b2+) [REMINDER] Menggunakan permukaan meja selama membenarkan atau memperbaiki cube diperbolehkan.
 
 
-<fewest-moves><fewest moves solving> Fewest Moves Solving
+## <with-feet><solving with feet> Solving With Feet
 
-E2b+) [CLARIFICATION] Kompetitor dapat memilih untuk menghentikan attemptnya lebih cepat dengan cara memberikan solusinya sebelum batas waktu yang ditentukan
+- D1b+) [CLARIFICATION] Kompetitor diperbolehkan menggunakan kaus kaki selama solving.
+- D1c+) [REMINDER] Selama membenarkan puzzle yang rusak, anggota tubuh lain tidak diperbolehkan untuk menyentuk puzzle.
+
+
+## <fewest-moves><fewest moves solving> Fewest Moves Solving
+
+- E2b+) [CLARIFICATION] Kompetitor dapat memilih untuk menghentikan attemptnya lebih cepat dengan cara memberikan solusinya sebelum batas waktu yang ditentukan
 
 
 ## <multiple-blindfolded><multipleblindfoldedsolving> Pasal H: Multiple Blindfolded Solving
 
 
-H1b1+) [REMINDER] Attempt tidak didiskualifikasi apabila mencapai batas waktu, dikarenakan pengecualian untuk Multiple Blindfolded Solving (Lihat regulasi A1a4 dan A1a5).
-H1b1++) [ADDITION] Judge dapat membiarkan kompetitor untuk melanjutkan attempt nya secara tidak resmi, namun attempt nya harus diberhentikan dan dijudge terlebih dahulu sesuai dengan Regulasi.
-H1d+) [EXAMPLE] Contoh: Apabila kompetitor mengambil 10 cubes dalam attemptnya, berhenti pada waktu 59:57, dan mendapantkan dua pinalti waktu, waka hasil waktu keseluruhannya yaitu 59:57 + 2*2 = 60:01 (lihat juga <Regulation A1a5>).
-H1d+) [EXAMPLE] COntoh: Apabila kompetitor mengambil 10 cubes dalam attemptnya, dan judge menghentikannya pada waktu mencapai 60 menit, dan mendapatkan dua pinati waktu, maka hasil waktunya yaitu 60:00 + 2*2 = 60:04.
+- H1b1+) [REMINDER] Attempt tidak didiskualifikasi apabila mencapai batas waktu, dikarenakan pengecualian untuk Multiple Blindfolded Solving (Lihat regulasi A1a4 dan A1a5).
+- H1b1++) [ADDITION] Judge dapat membiarkan kompetitor untuk melanjutkan attempt nya secara tidak resmi, namun attempt nya harus diberhentikan dan dijudge terlebih dahulu sesuai dengan Regulasi.
+- H1d+) [EXAMPLE] Contoh: Apabila kompetitor mengambil 10 cubes dalam attemptnya, berhenti pada waktu 59:57, dan mendapantkan dua pinalti waktu, waka hasil waktu keseluruhannya yaitu 59:57 + 2*2 = 60:01 (lihat juga <Regulation A1a5>).
+- H1d+) [EXAMPLE] COntoh: Apabila kompetitor mengambil 10 cubes dalam attemptnya, dan judge menghentikannya pada waktu mencapai 60 menit, dan mendapatkan dua pinati waktu, maka hasil waktunya yaitu 60:00 + 2*2 = 60:04.
