@@ -65,7 +65,7 @@ Catatan: Karena nomor Pasal dan Regulasi tidak diatur kembali saat ada Regulasi 
 
 ## <article-2><competitors><competitors> Pasal 2: Kompetitor
 
-- - 2a) Semua orang dapat berkompetisi dalam suatu kompetisi WCA jika:
+- 2a) Semua orang dapat berkompetisi dalam suatu kompetisi WCA jika:
   - 2a1) Menaati Regulasi WCA.
   - 2a2) Memenuhi persyaratan kompetisi, yang harus secara jelas diumumkan sebelum kompetisi.
   - 2a3) Sedang tidak dihukum oleh WCA Board.
