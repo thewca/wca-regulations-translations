@@ -1,161 +1,161 @@
-# <wca-title>WCA Guidelines 2013
+# <wca-title>WCA Útmutató 2013
 
-<version>Version: January 1, 2013
+<version>Verzió: 2013. január 1.
 
 
-## Notes
+## Megjegyzések
 
-### WCA Regulations 
+### WCA Szabályzat
 
-The WCA Guidelines supplement the [WCA Regulations](regulations:top). Please see the Regulations for more information about the WCA.  
+A WCA Útmutató kiegészíti a WCA Szabályzatot. További információk a WCA Szabályzatban találhatók.
 
-### Numbering
+### Számozás
+Az Útmutató a vonatkozó szabályoknak megfelelően van számozva. Fontos megjegyezni, hogy egy szabályhoz több útmutatás is tartozhat, valamint néhány útmutatás már nem hatályban lévő szabályokhoz kapcsolódik.
 
-Guidelines are numbered in correspondence with related regulations. Note that mutiple Guidelines may correspond to the same Regulation, and some Guidelines correspond to Regulations that do not exist anymore.
+### Címkék
 
-### Labels 
+A hatékonyabb megértés segítségéül minden útmutatás a következő címkék egyeikével van ellátva. Fontos megjegyezni, hogy ezek csak plusz információt adnak, és nem a fontosságuk jelzésére szolgálnak.
 
-To be more informative, each Guideline is classified using one of the following labels. Note that this should be treated as metadata, not as a description of importance.
-
-- <label>[ADDITION] Additional information to supplement the Regulations.
-- <label>[CLARIFICATION] Information to address any possible questions about interpretation of the Regulations.
-- <label>[EXPLANATION] Information that clarifies the intent of Regulations.
-- <label>[RECOMMENDATION] Something that is not strictly mandatory, but that should be done if possible.
-- <label>[REMINDER] Information that may be addressed other Regulations/Guideline, but whose relevance is worth reiterating.
-
+- <label>[KIEGÉSZÍTÉS] A szabályok kiegészítésére szolgálnak.
+- <label>[PONTOSÍTÁS] A szabályok értelmezésével kapcsolatos kérdésekre ad választ.
+- <label>[MAGYARÁZAT] A szabályok szándékát pontosító információk.
+- <label>[AJÁNLÁS] Betartásuk nem kötelező, de ha lehetséges eszerint kell cselekedni.
+- <label>[EMLÉKEZTETŐ] Olyan szabályok/iránymutatások, amelyek már máshol említve voltak, de a jelentőségük miatt fontos a megismétlésük.
 
 ## <contents> [Contents](guidelines:contents)
 
 <table-of-contents>
 
 
-## <article-1><officials><officials> Article 1: Officials
+## <article-1><officials><officials> 1. Cikk: Hivatalos személyek
 
-- 1c3+) [RECOMMENDATION] Results should be ready at the end of the last day of competition.
-- 1c3b+) [CLARIFICATION] If there are multiple groups, it is not necessary to identify which competitor was in which groups.
-- 1c4+) [RECOMMENDATION] Corrections to the results should be available within one week of the competition date.
-- 1c10+) [CLARIFICATION] It is sufficient to ensure access to a digital copy of the Regulations.
-- 1h+) [RECOMMENDATION] Competitors in the same group should use the same scramble sequences. Different groups should use different scramble sequences.
-- 1h+) [RECOMMENDATION] All final rounds of all events, as well as all Fewest Moves Solving rounds, should have the same scrambles for all competitors (i.e. only 1 group).
-- 1h1+) [CLARIFICATION] Scramblers/judges should only scramble for/judge other competitors in the same group only if it is important for competition logistics.
-
-
-## <article-2><competitors><competitors> Article 2: Competitors
-
-- 2c+) [ADDITION] First-time competitors should register using their legal name. They may register using a reasonable nickname, at the discretion of the WCA Delegate.
-- 2c++) [ADDITION] Competitors must not provide intentionally misleading information, and returning competitors should provide information consistent with past information (e.g. exact name and WCA ID).
-- 2d+) [ADDITION] Date of birth and contact information should be especially secured.
-- 2d++) [RECOMMENDATION] If a third party (e.g. journalist) asks the organisation team to be put in contact with any competitor(s), the competitor(s) should first be asked for consent.
-- 2h+) [CLARIFICATION] Competitors may be barefoot for Solving With Feet.
-- 2j2+) [EXAMPLE] For example, if a competitor is disqualified from an event for failing to show up for the final round, his results from earlier rounds remain valid.
-- 2s+) [REMINDER] Special accommodations must be noted in the Delegate Report.
+- 1c3+) [AJÁNLÁS] Az eredményeknek készen kell lenniük legkésőbb a verseny utolsó napjára.
+- 1c3b+) [PONTOSÍTÁS] Ha több csoport is van egy fordulóban, akkor nem szükséges megnevezni, hogy melyik versenyző melyik csoportba volt beosztva.
+- 1c4+) [AJÁNLÁS] Az eredmények javításának a versenyt követő egy héten belül készen kell lennie.
+- 1c10+) [PONTOSÍTÁS] A versenyeken elegendő a Szabályzat digitális változatához való hozzáférést biztosítani.
+- 1h+) [AJÁNLÁS] Az azonos csoportba beosztott versenyzőknek ugyanazt a keverést kell kapniuk, míg a nem azonos csoportba beosztott versenyzőknek különbözőt.
+- 1h+) [AJÁNLÁS] Minden versenyszám utolsó fordulójában, csak úgy, mint a Legkevesebb mozdulattal való kirakásnál, a versenyzőknek ugyanazt a keverést kell kapniuk (azaz csak 1 csoport lehet).
+- 1h1+) [PONTOSÍTÁS] A keverők/bírók csak akkor keverhetnek/bíráskodhatnak a saját csoportjukban, ha az a verseny lebonyolítása érdekében elkerülhetetlen.
 
 
-## <article-3><puzzles><puzzles> Article 3: Puzzles
+## <article-2><competitors><competitors> 2. Cikk: Versenyzők
 
-- 3a+) [CLARIFICATION] Competitors may use puzzles of any reasonable size, at the discretion of the WCA Delegate.
-- 3a++) [ADDITION] By default, a competitor should use the same puzzle for consecutive attempts in a speed solving round. A competitor may switch puzzles between attempts, at the discretion of the judge or WCA Delegate.
-- 3a++) [CLARIFICATION] Competitors may borrow puzzles from other competitors privately, to use in competition.
-- 3a1+) [CLARIFICATION] Competitors may be disqualified if they do not come when they are called, or if they do not have a puzzle ready to submit (e.g. if they planned to use a puzzle that another competitor is currently using, and therefore cannot submit their puzzle at the moment).
-- 3h+) [CLARIFICATION] Puzzles may be refined internally by sanding or lubricating.
-- 3h++) [EXAMPLE] Examples of enhancements include: new moves are possible, normal moves are impossible, more pieces or faces are visible, colours on the backside of the puzzle are visible, moves are done automatically, or the puzzles has more/different solved states.
-
-
-## <article-4><scrambling><scrambling> Article 4: Scrambling
-
-- 4b1+) [REMINDER] The WCA Delegate must never re-generate any scrambles to replace other ones for the purpose of filtering. For example, it is not be permitted to glance at the scrambles for a competition and generate the entire set again in order to generate "fairer" scrambles.
-- 4b2+) [CLARIFICATION] In general, all official scramble sequences should be kept secret during the competition and published together after the end of the competition (see [Regulation 1c3a](regulations:regulation:1c3a)). In some cases (e.g. world records), the organisation team may wish to release specific scrambles sooner after the end of a round.
-- 4d+) [CLARIFICATION] Some puzzles use standard colour schemes, except that black is replaced with white. In this case, black is the darkest colour and must not be treated as white.
-- 4f+) [RECOMMENDATION] The WCA Delegate should generate sufficient scrambles for the entire competition ahead of time, including spare scrambles for extra attempts.
-- 4f++) [REMINDER] If the WCA Delegate generates any additional scrambles during the competition, he must save them (see [Regulation 1c3a](regulations:regulation:1c3a)).
+- 2c+) [KIEGÉSZÍTÉS] Az új versenyzőknek a valódi nevükkel kell regisztrálniuk, de a WCA delegált jóváhagyásával a versenyen használhatnak ésszerű beceneveket.
+- 2c++) [KIEGÉSZÍTÉS] A versenyző nem adhat szándékosan félrevezető információkat, és a már regisztrált versenyzőknek a korábbi regisztrációval összhangban lévő adatokat kell használnia (pl. pontos név, WCA ID).
+- 2d+) [KIEGÉSZÍTÉS] A születési időt és az elérhetőségeket különösen bizalmasan kell kezelni.
+- 2d++) [AJÁNLÁS] A versenyzők adatainak harmadik fél számára (pl. újságírók) való kiadását megelőzően, szükséges a versenyzők beleegyezése.
+- 2h+) [PONTOSÍTÁS] A Lábbal való kirakásnál a versenyző lehet mezítláb.
+- 2j2+) [PÉLDA] Ha egy versenyzőt kizárnak egy versenyszám utolsó fordulójából, mert nem jelenik meg, attól még a korábbi eredményei érvényesek maradnak.
+- 2s+) [EMLÉKEZTETŐ] A különleges intézkedéseket fel kell tűntetni a WCA delegált jelentésében.
 
 
-## <article-5><puzzle-defects><puzzledefects> Article 5: Puzzle Defects
+## <article-3><puzzles><puzzles> 3. Cikk: Játékok
 
-- 5b5+) [EXAMPLE] Example of a piece not fully placed: a 5x5x5 centre piece twisted in its spot.
-- 5b5++) [EXAMPLE] Example of judging an attempt ending with a defective puzzle: A Pyraminx with a detached tip may be reassembled in three states, one fully solved, and two "+2" states. An attempt ending in such a situation would be assigned a "+2" penalty.
-
-
-## <article-6><awards><awards> Article 6: Awards/prizes/honours
-
-- 6a+) [SEPARATE][ADDITION] Awards, prizes or honours may be given to competitors according to the announcement of the competition.
-- 6b+) [SEPARATE][RECOMMENDATION] Competitors should attend the winner's ceremony to receive awards/prizes/honours.
-- 6b1+) [SEPARATE][RECOMMENDATION] The winner's ceremony should be held in the competition venue, within one hour after the end of the last event.
-- 6c+) [SEPARATE][RECOMMENDATION] Winners of awards, prizes or honours should be prepared to talk to journalists or any media covering the competition.
-- 6d+) [SEPARATE][RECOMMENDATION] Organisation teams of competitions should have certificates for all category winners, signed by the leader of the organisation team and by the WCA delegate.
+- 3a+) [PONTOSÍTÁS] A versenyzők bármilyen ésszerű méretű játékot használhatnak a kirakások során, a WCA delegált beleegyezésével.
+- 3a++) [KIEGÉSZÍTÉS] Alapértelmezésként a versenyző használhatja ugyanazt a játékot az egymást követő kirakásoknál. A kirakások között a versenyző változtathat a használt játékon, a bíró vagy a WCA delegált beleegyezésével.
+- 3a++) [PONTOSÍTÁS] A versenyzők kölcsönkérhetnek egymástól játékokat a versenyen való használatra.
+- 3a1+) [PONTOSÍTÁS] A versenyzők kizárhatók, ha nem jelennek meg, amikor versenyezni szólítják őket, vagy ha  nem tudnak játékot biztosítani a bekeveréshez. (pl. Ha egy másik versenyző játékát kívánja használni, de azzal éppen valaki más versenyzik, így nem tudja időben leadni a játékát a bekeveréshez.)
+- 3h+) [PONTOSÍTÁS] A játékokon lehet belsőleg finomítani csiszolással, vagy szilikonozással illetve egyéb forgatást segítő anyagokkal.
+- 3h++) [PÉLDA] A nem megengedett módosítások közé tartozik ha: új forgatások lehetségesek; az eredeti forgatások nem lehetségesek a játékon; több darab vagy rész, (illetve a hátsó oldal) látható, mint az eredeti játékon; ha a mozdulatok automatikusan végrehatódnak vagy több/más kirakott állás és létezik.
 
 
-## <article-7><environment><environment> Article 7: Environment
+## <article-4><scrambling><scrambling> 4. Cikk: Keverés
 
-- 7d+) [SEPARATE][ADDITION] The temperature of the competition area should be 21 to 25 degrees Celsius.
-- 7h2+) [SEPARATE][ADDITION] The competitors in the competitors area should not be able to see the puzzles of the competitors on stage.
-
-
-## <article-8><competitions><competitions> Article 8: Competitions
-
-- 8a4+) [RECOMMENDATION] Changes to increase the maximum number of competitors in qualification round or first round, or to add a qualification round for newly registered competitors should be made at least one month before the competition (see [Regulation 9r3](regulations:regulation:9r3)).
-- 8a4++) [RECOMMENDATION] The competition should be announced at least one month before the beginning of the competition.
-- 8a5+) [SEPARATE][RECOMMENDATION] The competition should have at least 12 competitors.
+- 4b1+) [EMLÉKEZTETŐ] A WCA delegáltnak tilos újra generálnia az algoritmusokat, egyes algoritmusok kiszűrésére. Például nem megengedett belenézni a verseny keveréseibe és új algoritmusokat generálni az igazságosabb keverések érdekében sem.
+- 4b2+) [PONTOSÍTÁS] Általánosságban a verseny minden hivatalos keverését titkosan kell kezelni a verseny alatt, és csak a verseny befejeztével együtt lehet őket nyilvánosságra hozni (lásd Szabályzat 1c3a). Bizonyos esetekben (pl. világrekord) a szervező csapat kérheti a keverések korábbi kiadását, a forduló befejezését követően.
+- 4d+) [PONTOSÍTÁS] Egyes játékoknál ugyanazt a színsémát használják, azzal a változtatással, hogy a fehér színt néhány esetben fehérrel helyettesítik. Ilyen esetben a fekete nem a fehér színt helyettesíti, hanem ez válik a legsötétebb színné a játékon.
+- 4f+) [AJÁNLÁS] A WCA delegált előre elkészítheti a keveréseket az egész versenyre, beleértve az extra kirakásokhoz használtakat is.
+- 4f++) [EMLÉKEZTETŐ] Ha a versenyző a verseny ideje alatt további keveréseket generál, azokat is el kell menteni (lásd Szabályzat 1c3a).
 
 
-## <article-9><events><events> Article 9: Events
+## <article-5><puzzle-defects><puzzledefects> 5. Cikk: Játékok meghibásodása
 
-- 9b+) [ADDITION] The preferred format for the final of an event is "Average of 5" or "Mean of 3", if possible.
-- 9b++) [ADDITION] Events other than those specified in [Regulation 9b](regulations:regulation:9b) may be held during a competition, but will be considered unofficial and therefore will not be included in the official results of the competition.
-- 9f5+) [CLARIFICATION] The result for an attempt is DNS if the competitor was eligible for the attempt and did not attempt it. If the competitor did not qualify for an attempt (e.g. in a combined round), he does not have any result for the attempt.
-- 9q+) [SEPARATE][RECOMMENDATION] Events and rounds should have at least 2 competitors.
-- 9r+) [EXPLANATION] The goal of a qualification round is to let unranked or low ranked competitors qualify for the first round of an event with many registered competitors.
+- 5b5+) [PÉLDA] Példa arra az esetre, amikor egy elem nincs teljesen a helyén: amikor az 5x5x5-ös kocka egyik középső eleme helyben el van fordulva.
+- 5b5++) [PÉLDA] Példa arra az esetre, amikor egy kirakás nem meg megfelelő állapotban lévő játékkal zárul: Egy Pyraminx, aminek a csúcsa nincs a helyén. Az elemet 3 állásban lehetne visszahelyezni a játékra. Ebből 2 esetben +2 másodperc időbüntetés járna, illetve 1 esetben helyesen kerülne vissza. Mivel a legrosszabb esetet kell nézni, így ennek az esetnek a büntetése +2 másodperc.
 
 
-## <article-0><solved-state><solvedstate> Article 10: Solved State
+## <article-6><awards><awards> 6. Cikk: Díjak/nyeremények/jutalmak
 
-- 10f+) [EXPLANATION] The misalignment limits are selected so that they provide a natural cutoff between one state of a puzzle (without penalty) and a state one move away.
-
-
-## <article-1><incidents><incidents> Article 11: Incidents
-
-- 11e+) [CLARIFICATION] Since an appeal is not guaranteed to be successful, the competitor may choose to keep the timer running while appealing it, and resume the attempt when appropriate.
-- 11e1+) [REMINDER] The extra attempt must be scrambled using an unmodified scramble sequence generated by an official scrambler (see [Regulation 4f](regulations:regulation:4f), [Guideline 4f+](guidelines:guideline:4f+)).
+- 6a+) [EGYÉNI] [KIEGÉSZÍTÉS] A versenyzők részesülhetnek díjakban, nyereményekben, jutalmaknak, a verseny meghirdetésének megfelelően.
+- 6b+) [EGYÉNI] [AJÁNLÁS] A versenyzőknek részt kell vennie az eredményhirdetésen, hogy részesülhessenek a díjazásukban.
+- 6b1+) [EGYÉNI] [AJÁNLÁS] Az eredményhirdetést a verseny helyszínén kell tartani, legfeljebb 1 órával az utolsó versenyszám befejezését követően.
+- 6c+) [EGYÉNI] [AJÁNLÁS] A díjazottaknak késznek kell lennie beszélni a versenyen megjelenő médiák képviselőivel.
+- 6d+) [EGYÉNI] [AJÁNLÁS] A szervező csapatnak okleveleket kell biztosítania minden kategória nyerteseinek, a Szervező csapat vezetőjének és a WCA delegált aláírásával.
 
 
-## <article-A><speedsolving><speedsolving> Article A: Speed Solving
+## <article-7><environment><environment> 7. Cikk: Környezet
 
-- A1a2+) [ADDITION] In case of a cumulative time limit, the judge records the original recorded time for a DNF on the score sheet in parentheses, e.g. "DNF (1:02.27)".
-- A1a3+) [REMINDER] The organisation team and the WCA Delegate must be mindful that time limits influence the strategies of the competitors (e.g. rushing the first two attempts in hopes of meeting a cutoff in a combined round), and that changing time limits after the beginning of the round can disadvantage some competitors unfairly.
-- A1a4+) [REMINDER] If a competitor has accidentally been permitted to exceed the time limit, the time limit must be enforced retroactively, and the judge, competitor, and WCA Delegate should be informed (see [Regulation 1g2](regulations:regulation:1g2)). Judges must always be aware of the time limit for a current attempt (which might depend on previous attempts, in the case of a cumulative time limit).
-- A2c1+) [CLARIFICATION] In the past, score cards have been used to cover puzzles while leaving some sides exposed. This is no longer permitted.
-- A3c3+) [CLARIFICATION] Although the judge is required to reset the timer for the competitor (see [Regulation A3b](regulations:regulation:A3b)), the competitor may reset it before/during the inspection phase if the judge accidentally neglected to do so.
-- A6b+) [EXPLANATION] The arbitrary value of 0.06 seconds was chosen to accommodate concerns about Stackmat timer malfunctions.
-- A6g+) [ADDITION] While he is determining whether to assign a penalty for misalignment, the judge should not touch the puzzle.
+- 7d+) [EGYÉNI] [KIEGÉSZÍTÉS] A verseny helyszínén a hőmérsékletet 21-25°C között kell tartani.
+- 7h2+) [EGYÉNI] [KIEGÉSZÍTÉS] A várakozó versenyzők számára kijelölt helyen tartózkodó versenyzők nem láthatják az éppen kirakást végrehajtó versenyzők játékait.
 
 
-## <article-B><blindfolded><blindfoldedsolving> Article B: Blindfolded Solving
+## <article-8><competitions><competitions> 8. Cikk: Versenyek
 
-- B1+) [REMINDER] The competitor must use a puzzle without textures, markings, or other features that distinguish similar pieces (see [Regulation 3k](regulations:regulation:3k)). This should be given special attention for Blindfolded Solving
-- B1b+) [RECOMMENDATION] Blindfolds should be checked by the WCA Delegate before use in the competition.
-
-
-## <article-C><one-handed><onehandedsolving> Article C: One-Handed Solving
-
-- C1b+) [CLARIFICATION] The competitor may use both hands during inspection.
-- C1b++) [CLARIFICATION] The competitor is not required to use the same solving hand for different attempts of the same round.
-- C1b2+) [REMINDER] Use of the surface is permitted while repairing the puzzle.
+- 8a4+) [AJÁNLÁS] Az kvalifikációs forduló indításának illetve a kvalifikációs vagy az első fordulóban indulható versenyzők számának változtatásait legalább 1 hónappal a verseny időpontja előtt végre kell hajtani.
+- 8a4++) [AJÁNLÁS] A versenyt az időpontját megelőzően legalább 1 hónappal meg kell hirdetni.
+- 8a5+) [EGYÉNI] [AJÁNLÁS] A versenyen legalább 12 versenyzőnek indulnia kell.
 
 
-## <article-D><feet><solvingwithfeet> Article D: Solving With Feet
+## <article-9><events><events> 9. Cikk: Versenyszámok
 
-- D1b+) [CLARIFICATION] The competitor may wear socks while solving.
-- D1c+) [REMINDER] While repairing puzzle defects, other body parts must not touch the puzzle.
-
-
-## <article-E><fewest-moves><fewestmovessolving> Article E: Fewest Moves Solving
-
-- E2b+) [CLARIFICATION] A competitor may choose to stop his attempt early by handing in a solution before the time limit.
+- 9b+) [KIEGÉSZÍTÉS] A döntő fordulóban az 5 átlaga és a Legjobb eredmény 3-ból az ajánlott formátum.
+- 9b++) [KIEGÉSZÍTÉS] A Szabályzat 9b pontjában szabályozott versenyszámokon kívül más versenyszámok is tarthatók a versenyen, de nem számítanak hivatalosnak, és az elért eredmények nem is lesznek feltüntetve a hivatalos eredmények között. 
+- 9f5+) [PONTOSÍTÁS] A kirakás eredménye DNS ha a versenyző jogosult a kirakásra, de nem vesz részt benne. Ha a versenyző nem kvalifikálja magát egy fordulóba (pl. kombinált fordulók), nem lehet eredménye az adott fordulóban.
+- 9q+) [EGYÉNI] [AJÁNLÁS] Minden versenyszámban és fordulóban legalább 2 embernek el kell indulnia.
+- 9r+) [MAGYARÁZAT] A kvalifikációs kör célja, az új illetve az alacsony helyen rangsorolt versenyzők első fordulóba juttatása a többi regisztrált versenyzővel.
 
 
-## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Article H: Multiple Blindfolded Solving
+## <article-0><solved-state><solvedstate> 10. Cikk: Kirakott állapot
 
-- H1b1+) [REMINDER] The attempt is not disqualified for reaching the time limit, due to exceptions for Multiple Blindfolded Solving (see [Regulation A1a4](regulations:regulation:A1a4) and [Regulation A1a5](regulations:regulation:A1a5)).
-- H1b1++) [ADDITION] The judge may permit the competitor to continue the attempt unofficially, but the attempt must be stopped and judged first, in full accordance with the Regulations.
-- H1d+) [EXAMPLE] Example: If a competitor attempts 10 cubes, stops with a time of 59:57, and has two time penalties, the time for the result is 59:57 + 2*2 = 60:01 (also see [Regulation A1a5](regulations:regulation:A1a5)).
-- H1d+) [EXAMPLE] Example: If a competitor attempts 10 cubes, and the judge stops him at one 60 minutes, and has two time penalties, the time for the result is 60:00 + 2*2 = 60:04.
+- 10f+) [MAGYARÁZAT] Az eltérések határértékét úgy határozták meg, hogy a játék egy (büntetést nem érdemlő) állapota és az egy mozdulattal eltérő állapot között félúton helyezkedjen el.
+
+
+## <article-1><incidents><incidents> 11. Cikk: Incidensek
+
+- 11e+) [PONTOSÍTÁS] Mivel az extra kirakás kérése nem garantálja a versenyzőnek, hogy meg is kapja azt, így dönthet úgy, hogy bekapcsolva hagyja a timer-t és az idő múlása közben vitatja meg a bíróval/WCA delegálttal, hogy elutasítás esetén folytathassa a kirakást.
+- 11e1+) [EMLÉKEZTETŐ] A extra kirakásnál a játékot egy a hivatalos keverőprogram által generált, módosítás nélküli algoritmussal kell bekeverni (Szabályzat 4f, Útmutató 4f+).
+
+
+## <article-A><speedsolving><speedsolving> A Cikk: Speed Solving
+
+- A1a2+) [KIEGÉSZÍTÉS] Abban az esetben, ha kumulált időlimitet alkalmaznak, és a versenyző DNF eredményt ér el, a bírónak rögzítenie kell zárójelben a kirakáshoz tartozó időeredményt is a pontkártyán.
+- A1a3+) [EMLÉKEZTETŐ] A szervező csapatnak és a WCA delegáltnak ügyelniük kell arra, hogy az időlimitek befolyásolják a versenyzők stratégiáját (pl. megpróbálni gyorsan kirakni az első 2 kirakást, hogy megfeleljen a kombinált forduló időlimitének), így a forduló megkezdését követően az időlimitek megváltoztatása igazságtalanul hathat egyes versenyzőkre.
+- A1a4+) [EMLÉKEZTETŐ] Ha egy versenyzőnek véletlenül megengedték az időlimit átlépését, a versenyző időeredményét visszamenőleg el kell törölni, és a bírót, a versenyzőt és a WCA delegáltat is tájékoztatni kell róla (lásd Szabályzat 1g2). A bíróknak mindig tisztában kell lenniük az adott forduló az időlimitével (ami kumulált időlimit esetén függ az előző kirakásoktól).
+- A2c1+) [PONTOSÍTÁS] Korábban a pontkártyákat használhatták a játékok eltakarására, de így néhány oldala kilátszott. Ez már nem megengedett.
+- A3c3+) [PONTOSÍTÁS] Habár a bíró felelős a timer lenullázásáért (lásd Szabályzat A3b), a versenyző is lenullázhatja a megtekintési idő előtt/közben, ha a bíró elmulasztotta volna.
+- A6b+) [MAGYARÁZAT] Az önkényesen választott 0,06 másodpercet a Stackmat meghibásodásainak alapján határozták meg.
+- A6g+) [KIEGÉSZÍTÉS] Amíg a bíró megállapítja, hogy kell-e büntetést adnia a kirakásért, nem érhet hozzá a játékhoz.
+
+
+## <article-B><blindfolded><blindfoldedsolving> B Cikk: Vakon kirakás
+
+- B1+) [EMLÉKEZTETŐ] A játékok nem tartalmazhatnak jelöléseket, elemelkedett darabokat, sérüléseket vagy más eltéréseket, amelyek megkülönböztetik az egyes darabjaikat egymástól (Szabályzat 3k). Erre különösen figyelni kell a vakon kirakásnál.
+- B1b+) [AJÁNLÁS] A WCA delegáltnak ellenőriznie kell a szemtakarókat a versenyben való használat előtt.
+
+
+## <article-C><one-handed><onehandedsolving> C Cikk: Egy kézzel való kirakás
+
+- C1b+) [PONTOSÍTÁS] A megtekintés alatt a versenyző mindkét kezét használhatja.
+- C1b++) [PONTOSÍTÁS] A versenyzőnek nem kell ugyanazt a kezét használnia az egy fordulóban lévő kirakásoknál.
+- C1b2+) [EMLÉKEZTETŐ] A javítás során a felület használata megengedett.
+
+
+## <article-D><feet><solvingwithfeet> D Cikk: Lábbal való kirakás
+
+- D1b+) [PONTOSÍTÁS] A versenyző viselhet zoknit kirakás közben.
+- D1c+) [EMLÉKEZTETŐ] Javítás közben a versenyző más testrészével nem érhet a játékhoz.
+
+
+## <article-E><fewest-moves><fewestmovessolving> E Cikk: Legkevesebb mozdulattal való kirakás
+
+- E2b+) [PONTOSÍTÁS] A versenyző korábban is befejezheti a versenyszámot a megoldás leadásával.
+
+
+## <article-H><multiple-blindfolded><multipleblindfoldedsolving> H Cikk: Több kocka vakon kirakása
+
+- H1b1+) [EMLÉKEZTETŐ] Az időlimit elérése nem feltétlenül vonja magával a DNF eredményt, a Több kocka vakon kirakására vonatkozó kivételeknek megfelelően (lásd Szabályzat A1a5).
+- H1b1++) [KIEGÉSZÍTÉS] A bíró engedélyezheti a kirakás nem hivatalos kirakását, de a bírónak először meg kell állítania a hivatalos kirakást és befejeznie a bíráskodást a Szabályzatnak megfelelően.
+- H1d+) [PÉLDA] Ha a versenyző 10 kockát rak ki, és 59:57-nél állítja le a stoppert, valamint 2 időbüntetést kap, az eredménye: 59:57+2*2=60:01 (lásd Szabályzat A1a5).
+- H1d+) [PÉLDA] Ha a versenyző 10 kockát rak ki, és 60:00-nál a bíró leállítja a kirakást, valamint 2 időbüntetést kap, az eredménye: 60:00+2*2=60:04.
+
+

@@ -1,488 +1,490 @@
-# <wca-title>WCA Regulations 2013
+# <wca-title>WCA Szabályzat 2013
 
-<version>Version: January 1, 2013
-
-
-## Notes
-
-### WCA Regulations and Guidelines
-
-The WCA Regulations contains the full set of Regulations that apply to all official competitions sanctioned by the World Cube Association.  
-The WCA Regulations are also supplemented by the [WCA Guidelines](guidelines:top). The Regulations should be considered a complete document, but the Guidelines contain additional clarifications and explanations.
-
-### Wording
-To make the Regulations and Guidelines easier to read we use "he" where the reader should read "she or he".  
-Uses of the words "must", "must not", "should", "should not" and "may" match [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt).
-
-### Information on the Internet
-Website of World Cube Association: [www.worldcubeassociation.org](http://www.worldcubeassociation.org/)  
-Original source of the WCA regulations: [www.worldcubeassociation.org/regulations](http://www.worldcubeassociation.org/regulations/)  
-WCA Regulations in [PDF format](wca-regulations-and-guidelines-2013.pdf)
-
-### Source
-Development of the WCA Regulations and Guidelines is public [on GitHub](https://github.com/cubing/wca-documents).
-
-### Contact
-For questions and feedback, please contact the [WCA Regulations Committee (WRC)](http://www.worldcubeassociation.org/contact-information).
+<version>Verzió: 2013. január 1.
 
 
-## <contents> [Contents](regulations:contents)
+## Megjegyzések
 
-Note: Because Article and Regulation numbers are not reassigned when Regulations are deleted, there may be gaps in numbering.
+### WCA Szabályzat és Útmutató
+
+A WCA Szabályzat teljes mértékben tartalmazza a World Cube Associaton (továbbiakban WCA) által hivatalosnak nyilvánított versenyeken alkalmazott szabályokat.  
+A WCA Szabályzatot kiegészíti a [WCA Útmutató](guidelines:top). A WCA Szabályzatot teljes dokumentumnak kell tekinteni, az Útmutató csak további pontosításokkal és magyarázatokkal szolgál.
+
+### Szóhasználat
+
+Az eredeti, angol nyelvű szövegben az olvashatóság könnyebbé tétele érdekében minden esetben a „he” névmást alkalmazták, de „she or he”-ként kell értelmezni.  
+A „must”, „must not”, „should”, „should not” és „may” szavak az [RFC 2119-szerint](https://www.ietf.org/rfc/rfc2119.txt) értelmezendőek.
+
+### Információk az interneten
+
+A WCA weboldala: [www.worldcubeassociation.org](http://www.worldcubeassociation.org/)  
+Az eredeti WCA Szabályzat elérhetősége: [www.worldcubeassociation.org/regulations](http://www.worldcubeassociation.org/regulations/)  
+A WCA Szabályzat [PDF formátumban](wca-regulations-and-guidelines-2013.pdf).
+
+### Források
+
+A WCA Szabályzat és Útmutató fejlesztése érthető a [GitHub-on](https://github.com/cubing/wca-documents).
+
+### Kapcsolat
+
+Kérdésekkel és visszajelzésekkel a [WCA Regulations Commitee-t (WRC)](http://www.worldcubeassociation.org/contact-information) kell keresni.
+
+## [Tartalom](regulations:contents)
+
+Megjegyzés: A Szabályzat változtatásával a Cikkek és a Szabályzat számozása nem változik, így hiányosságok lehetnek a számozásban.
 
 <table-of-contents>
 
 
-## <article-1><officials><officials> Article 1: Officials
+## <article-1><officials><officials> 1. Cikk: Hivatalos személyek
 
-- 1a) A competition must include a WCA Delegate and an organisation team (consisting of one or more individuals) with the following officials: judges, scramblers and score takers.
-- 1b) The organisation team of a competition is responsible for logistics before, during, and after the competition.
-- 1c) The WCA Delegate may delegate responsibilities to other members of the organisation team, but is ultimately accountable for how these responsibilities are carried out. The WCA Delegate for a competition is responsible for:
-  - 1c1) Reporting to the WCA Board regarding adherence to WCA Regulations during the competition, the overall course of the competition, and any incidents. The report must be submitted to the WCA Board within one week of the competition date.
-  - 1c3) Sending the competition results to the WCA Results Team.
-    - 1c3a) All scramble sequences used during a competition must be sent with the results of the competition.
-    - 1c3b) Scramble sequences must be labelled with the events, rounds, and groups for which they were used.
-  - 1c4) Sending corrections to the competition results to the WCA Board.
-  - 1c5) Advising the other officials where necessary.
-  - 1c6) Approving all events and round formats of a competition, before the competition starts, and if changes are required during the competition.
-  - 1c7) Decisions about disqualifying competitors during the competition.
-  - 1c8) Providing the scramble sequences.
-  - 1c9) Decisions about changes to the scheduled times of rounds. In cases of such changes, a clear announcement must be made to all competitors.
-  - 1c10) Making a copy of the WCA Regulations available at the competition.
-- 1e) Each event must have one or more judges.
-  - 1e1) A judge is responsible for executing the procedures of the event.
-    - 1e1a) A judge may judge multiple competitors simultaneously at the discretion of the Delegate, as long as the judge is able to ensure that all WCA Regulations are followed at all times.
-  - 1e2) Capable competitors must be available for judging, if needed by organisation team. Penalty: disqualification from the competition.
-- 1f) Each event must have one or more scramblers. Exception: Fewest Moves Solving.
-  - 1f1) A scrambler applies scramble sequences to prepare puzzles for attempts.
-  - 1f2) Capable competitors must be available for scrambling, if needed by organisation team. Penalty: disqualification from the competition.
-- 1g) Each event must have one or more score takers.
-  - 1g1) A score taker is responsible for compiling results.
-  - 1g2) Any change to the result on a score sheet must be made at the discretion of the WCA Delegate.
-- 1h) Competitors in the same round of an event may be divided into groups.
-  - 1h1) Scramblers and judges for a round should not scramble for/judge competitors in their own group before they have finished all of their attempts for the round. They may scramble for/judge competitors in their own group at the discretion of the WCA Delegate, but the organisation team must ensure that scramblers and judges cannot see any scrambles for their attempts that they have not attempted yet.
-- 1j) All officials may compete in the competition.
-- 1k) Officials may serve multiple roles (e.g. organisation team, WCA Delegate, judge, score taker, scrambler).
-
-
-## <article-2><competitors><competitors> Article 2: Competitors
-
-- 2a) Any person may compete in a WCA competition if he:
-  - 2a1) Complies with WCA Regulations.
-  - 2a2) Meets the competition requirements, which must be clearly announced before the competition.
-  - 2a3) Is not suspended by WCA Board.
-- 2b) Competitors below the age of 18 must obtain consent from their parent(s)/guardian(s) to register and compete.
-- 2c) Competitors register by providing all information required by the organisation team (including: name, country, date of birth, gender, contact information, selected events).
-  - 2c1) A competitor is not be eligible to compete without a completed registration, as determined by the organisation team.
-- 2d) A competitor's name, country, gender, and competition results are considered public information. All other personal information is considered confidential, and must not be disclosed to outside organisations/persons without the consent of the competitor.
-- 2e) Competitors must represent a country of which they hold citizenship. The WCA Delegate should verify citizenship standing by means of documents (e.g. a passport). If a competitor is found ineligible to represent the country under which they have registered, the competitor may be disqualified retroactively and/or suspended, at the discretion of the WCA Board.
-  - 2e1) The eligible countries are defined by the Wikipedia article "List of sovereign states" ("UN member states and observer states" and "Other states").
-  - 2e2) Competitors with updates to their citizenship status may change their country of representation in their first competition of a calendar year.
-- 2f) Competitors must obey venue rules and conduct themselves in a considerate manner.
-- 2g) Competitors must remain quiet when inside the designated competition area. Talking is permitted, but must be kept at a reasonable level, and away from competitors who are actively competing.
-  - 2g3) Competitors in the Competitors Area must not communicate with each other about the scrambled states of the puzzles of the round in progress. Penalty: disqualification of the competitor from the event, at the discretion of the WCA Delegate.
-- 2h) Competitors must be fully dressed while in the competition venue. At the discretion of the Delegate, competitors may be disqualified from the competition for inappropriate clothing.
-- 2i) While competing, competitors must not use electronics or audio equipment (e.g. cell phones, MP3 players, dictaphones, additional lighting).
-  - 2i1) Competitors may use certain non-electronic aids that do not give the competitor an unfair advantage, at the discretion of the WCA Delegate. This includes:
-    - 2i1a) Medical/physical aids worn by the competitor (etc. glasses, wrist brace, hearing aids).
-    - 2i1b) Earplugs and earmuffs (but not electronic noise-cancelling headphones).
-- 2j) The WCA Delegate may disqualify a competitor from a specific event.
-  - 2j1) If a competitor is disqualified from an event for any reason, he is not eligible for any more attempts in the event.
-  - 2j2) If a competitor is disqualified during the course of an event, his earlier results remains valid. Exception: cheating or defrauding (see [Regulation 2k2a](regulations:regulation:2k2a)).
-- 2k) The WCA Delegate may disqualify a competitor from the competition (i.e. from all events of the competition) if the competitor:
-  - 2k1) Fails to check in or register in time for the competition.
-  - 2k2) Is suspected of cheating or defrauding the officials during the competition.
-    - 2k2a) The WCA Delegate may disqualify any suspected results.
-  - 2k3) Behaves in a way that is unlawful, violent or indecent; or intentionally damages venue facilities or personal property within the venue.
-  - 2k4) Interferes with, or distracts others during, the competition.
-  - 2k5) Fails to abide by WCA Regulations during the competition.
-- 2l) A competitor may be disqualified immediately, or after a warning, depending on the nature and severity of the infraction.
-  - 2l1) A disqualified competitor is not eligible for the refund of any expenses due to participating in the competition.
-- 2n) Competitors may verbally dispute a ruling to the WCA Delegate.
-  - 2n1) Disputes are only permitted during the competition, within 30 minutes after the disputed incident happened and before the beginning of any following rounds of the relevant event.
-  - 2n2) The WCA Delegate must resolve the dispute before the beginning of the next round of the event.
-  - 2n3) The competitor must accept all final rulings of the WCA Delegate. Penalty: disqualification from the competition.
-- 2s) Competitors with other disabilities that may prevent them from abiding by one or more WCA Regulations may request special accommodations from the WCA Delegate. Competitors requesting such accommodations should contact the organisation team and WCA Delegate at least two weeks before the competition.
-- 2t) Each competitor must be familiar with and understand the WCA Regulations before the competition.
+- 1a) Minden versenyen részt kell vennie: egy WCA delegáltnak, egy szervező csapatnak (ami egy vagy több személyből áll), illetve bíróknak, keverőknek és adatrögzítőknek.
+- 1b) A szervező csapat felelős a verseny előtti, közbeni és utáni logisztikai feladatok ellátásáért.
+- 1c) A WCA delegált átruházhat feladatokat a szervező csapat tagjaira, de ő felelős a következő feladatok elvégzéséért:
+    - 1c1) Jelentés készítése és elküldése a WCA Board-nak a WCA Szabályzat betartásáról, a verseny teljes lefolyásáról, illetve az esetleges incidensekről. A jelentést a verseny napjától számított egy héten belül be kell nyújtani.
+    - 1c3) A verseny eredményeinek elküldése a WCA Results Team-nek.
+        - 1c3a) A verseny során használt minden keverési algoritmust az eredményekkel együtt el kell küldeni a WCA Results Teamnek.
+        - 1c3b) A keverési algoritmusokat el kell látni a megfelelő címkékkel - versenyszám, forduló, csoport - amelyekben használva voltak.
+    - 1c4) Az eredmények korrekciójának elküldése a WCA Board-nak.
+    - 1c5) Jelentés küldése a többi hivatalos személyről, amennyiben szükséges.
+    - 1c6) A versenyszámok, formátumok jóváhagyása a verseny megkezdése előtt, és ha a szükséges a verseny közben is.
+    - 1c7) Döntés versenyzők kizárásáról a verseny időtartama alatt.
+    - 1c8) A keverési algoritmusok biztosítása.
+    - 1c9) Döntés az időbeosztásban történő változtatásokról. Amennyiben ez szükséges, minden versenyzőt tájékoztatni kell a történt változtatásokról.
+    - 1c10) Biztosítani a WCA Szabályzat egy példányának elérhetőségét a versenyen.
+- 1e) Minden versenyszámnak rendelkeznie kell legalább egy bíróval.
+    - 1e1) A bíró felelős a versenyszám követelményeinek betartásáért.
+        - 1e1a) A bíró egyidejűleg több versenyzőt is bírálhat a WCA delegált beleegyezésével, amennyiben biztosítani tudja a WCA szabályok betartását ezen idő alatt.
+    - 1e2) Az arra képes versenyzőknek készen kell állniuk a bíráskodásra, amennyiben a szervező csapatnak szüksége van a segítségére. Büntetés: kizárás a versenyből.
+- 1f) Minden versenyszámnak rendelkeznie kell legalább egy keverővel. Kivétel: Legkevesebb mozdulattal való kirakás (FMC).
+    - 1f1) A keverő alkalmazza a keverési algoritmust, így készítve elő a játékokat a kirakásra.
+    - 1f2) Az arra képes versenyzőknek készen kell állniuk a keverésre, amennyiben a szervező csapatnak szüksége van a segítségére. Büntetés: kizárás a versenyből.
+- 1g) Minden versenyszámnak rendelkeznie kell legalább egy adatrögzítővel.
+    - 1g1) Az adatrögzítő felelős az eredmények rögzítéséért, összeállításáért.
+    - 1g2) A pontkártyán történő bármely változtatáshoz szükséges a WCA delegált engedélye.
+- 1h) Egy versenyszám adott fordulójában a versenyzőket csoportokba lehet osztani.
+    - 1h1) Egy adott forduló versenyzői nem keverhetnek/bíráskodhatnak az adott fordulóban, a saját csoportjukban, amíg nem bejezték be az összes kirakásukat a fordulóban. A WCA delegált engedélyével ez módosítható, amennyiben a szervező csapat biztosítja, hogy nem láthatják egyik keverésüket sem, amelyet még nem teljesítettek. 
+- 1j) Minden hivatalos személy versenyezhet az adott versenyen.
+- 1k) A hivatalos személyek egyszerre több szerepet is betölthetnek. (pl. szervező, WCA delegált, bíró, adatrögzítő, keverő)
 
 
-## <article-3><puzzles><puzzles> Article 3: Puzzles
+## <article-2><competitors><competitors> 2. Cikk: Versenyzők
 
-- 3a) Competitors must provide their own puzzles for the competition.
-  - 3a1) Competitors must be present and ready to compete when they are called to compete for a round. Penalty: disqualification from the event.
-  - 3a2) Puzzles must be fully operational, such that normal scrambling is possible.
-  - 3a3) Polyhedral puzzles must use a colour scheme with one unique colour per face in the solved state. Each puzzle variation must have moves, states, and solutions functionally identical to the original puzzle.
-- 3d) Puzzles must have coloured stickers, coloured tiles, or painted/printed colours.
-  - 3d1) Exception: Competitors with a medically documented visual disability may use textured puzzles with different textures on different faces. Textures/patterns must be uniform per face. Each face should have a distinct colour, to aid in scrambling and judging.
-  - 3d2) The colours of puzzles must be solid, with one uniform colour per face. Each colour on the puzzle must be clearly distinct from the other colours.
-  - 3d3) Stickers/tiles/textures/paint must not be thicker than 1.5 mm, or the generally available thickness for non-cube puzzles.
-- 3h) Modifications that enhance the basic concept of a puzzle are not permitted.  Modified versions of puzzles are permitted only if the modification does not make any additional information available to the competitor (e.g. identity of pieces), compared to an unmodified version of the same puzzle.
-  - 3h1) "Pillowed" puzzles are not permitted. Exception: Pillowed 7x7x7 cubes are permitted.
-  - 3h2) "Stickerless" cubes, and other cubes whose face colours are visible inside the cube, are not permitted.
-  - 3h3) Any modifications to a puzzle that result in poor performance by a competitor are not grounds for additional attempts.
-- 3j) Puzzles must be clean, and must not have any markings, elevated pieces, damage, or other differences that distinguish any piece from a similar piece.
-  - 3j1) Puzzles are permitted to have reasonable wear, at the discretion of the WCA Delegate.
-- 3k) Puzzles must be approved by the WCA Delegate before use in the competition.
-- 3l) A cube puzzle may have a logo, but it must have at most one logo. For the Rubik's Cube or bigger cube puzzles the logo must be placed on one of the centre pieces.
-  - 3l1) Colourless engravings (max. 1 per face) are not considered logos.
-- 3m) All brands of puzzles and puzzle parts are permitted, as long as the puzzles comply with all WCA Regulations.
-
-
-## <article-4><scrambling><scrambling> Article 4: Scrambling
-
-- 4a) A scrambler applies scramble sequences to the puzzles.
-- 4b) Puzzles must be scrambled using computer-generated random scramble sequences.
-  - 4b1) Generated scramble sequences must not be inspected before the competition, and must not be filtered or selected in any way by the WCA Delegate.
-  - 4b2) Scramble sequences for a round must be available only to the WCA Delegate and the scramblers for the event, until the end of the round. Exception: For Fewest Moves Solving, competitors receive scrambling sequences during the round (see [Article E](regulations:article:E)).
-- 4d) Scrambling orientation:
-  - 4d1) Cube puzzles and Megaminx are scrambled with the white face (if not possible, then the lightest face) on top and the green face (if not possible, then the darkest adjacent face) on the front.
-  - 4d2) Pyraminx are scrambled with the yellow face (if not possible, then the lightest face) on bottom and the green face (if not possible, then the darkest adjacent face) on the front.
-  - 4d3) Square-1 are scrambled with the darker colour on front (out of the 2 possible scrambling orientations).
-- 4f) Competition scramble sequences must be generated using the current official version of the official WCA scramble program (available via the WCA website).
-- 4g) After scrambling a puzzle, the scrambler must verify that he has scrambled the puzzle correctly. If the puzzle state is wrong, he must correct it (e.g. by solving the puzzle and applying the scramble sequence again).
-  - 4g1) Exception: For the 6x6x6 Cube and the 7x7x7 Cube, it is not necessary to correct the scramble, at the discretion of the WCA Delegate.
-
-
-## <article-5><puzzle-defects><puzzledefects> Article 5: Puzzle Defects
-
-- 5a) Examples of puzzle defects include: popped pieces, pieces twisted in place, and detached screws/caps/stickers.
-- 5b) If a puzzle defect occurs during an attempt, the competitor may choose to either repair the defect and continue the attempt, or to stop the attempt.
-  - 5b1) If a competitor chooses to repair the puzzle, he must repair only the defective pieces. Tools and/or pieces of other puzzles must not be used to repair the original puzzle. Penalty: disqualification of the attempt (DNF).
-  - 5b2) Any repair to a puzzle must not give the competitor any advantage in solving the puzzle. Penalty: disqualification of the attempt (DNF).
-  - 5b3) Permitted repairs:
-    - 5b3a) If any pieces have fallen out or moved out of place, the competitor may place them back.
-    - 5b3b) If, after repairing the puzzle but before the end of the attempt, the competitor finds that the puzzle is unsolvable, he may disassemble and reassemble a maximum of 4 pieces to make the puzzle solvable.
-    - 5b3c) If the puzzle is unsolvable, and can be made solvable by rotating a single corner piece, the competitor may correct the corner piece by twisting it in place without disassembling the puzzle.
-  - 5b4) During blindfolded events, a puzzle defect must be repaired during the attempt, and all repairs must be performed blindfolded. Penalty: disqualification of the attempt (DNF).
-  - 5b5) If parts of the puzzle are still defective or not fully placed at the end of the attempt, the result is recorded as the worst state obtainable by repairing the puzzle (see [Regulation 5b3](regulations:regulation:5b3)).
-- 5c) If a competitor has a puzzle defect, this does not give him the right to an extra attempt.
+- 2a) Bárki versenyezhet egy WCA által szervezett versenyen, amennyiben:
+    - 2a1) Megfelel a WCA Szabályzatnak.
+    - 2a2) Megfelel a verseny követelményeinek, melyeket a verseny előtt közzétesznek.
+    - 2a3) Nincs felfüggesztve a WCA Board által.
+- 2b) Minden 18 év alatti versenyző regisztrációjához, és versenyen való részvételéhez szükséges a szülő/gondviselő beleegyezése.
+- 2c) A regisztrációhoz szükséges a szervező csapat által kért személyes információk megadása. (Többek között: név, ország, születési idő, nem, elérhetőség, választott versenyszámok)
+    - 2c1) A versenyző nem jogosult versenyezni, amennyiben nem rendelkezik a szervező csapat által elismert regisztrációval.
+- 2d) A versenyző neve, állampolgársága, neme és az eredményei nyilvánosak. Minden más személyes információ bizalmasan kezelendő, és nem adható ki külső szervezetnek/személynek a versenyző beleegyezése nélkül.
+- 2e) A versenyzők az állampolgárságuknak megfelelő országot képviselik. A WCA delegáltnak ellenőriznie kell az állampolgárságot valamely okirat alapján (pl. útlevél). Amennyiben egy versenyző nem jogosultan képviseli a regisztráció során megadott országot, a versenyző visszamenőlegesen kizárható és/vagy felfüggeszthető, a WCA Board döntésének megfelelően.
+    - 2e1) Az elfogadható országok listáját a „List of sovereign states” című Wikipedia cikk tartalmazza („UN member states and observer states” és „Other states”).
+    - 2e2) A versenyzők minden évben frissíthetik állampolgárságukat, és változtathatnak országot az első verseny alkalmával, amin részt vesznek.
+- 2f) A versenyzőknek be kell tartaniuk a helyszíni szabályokat, és megfelelő módon kell viselkedniük.
+- 2g) A versenyzőnek csendben kell maradniuk a verseny kijelölt helyszínén. A beszéd megengedett, de ésszerű szinten kell tartani, valamint megfelelő távolságban azoktól, akik éppen aktívan versenyeznek.
+    - 2g3) A versenyzők a várakozó versenyzők számára kijelölt helyen nem kommunikálhatnak egymással a keverésekről, amíg az adott forduló le nem zajlott. Büntetés: kizárás az adott versenyszámból, a WCA delegált döntésének megfelelően.
+- 2h) A versenyzőknek teljes öltözetben kell a verseny helyszínén tartózkodniuk. A WCA delegált döntésének megfelelően a nem megfelelően öltözött versenyzők kizárhatóak a versenyből.
+- 2i) A versenyzés alatt a versenyzőknek tilos elektronikus vagy audio eszközöket használniuk (pl. mobiltelefon, MP3 lejátszó, diktafon, kiegészítő világítás).
+    - 2i1) A versenyzők használhatnak bizonyos nem elektronikus segédeszközöket, melyek nem juttatják tisztességtelen előnyhöz, melyekről a WCA delegált dönt. Ez tartalmazza: 
+        - 2i1a) A versenyző által viselt orvosi/fizikai segédeszközöket (pl. szemüveg, csuklópánt, hallókészülék).
+        - 2i1b) Füldugók és fülhallgatók (a nem elektronikus zajszűrő fülhallgatók).
+- 2j) A WCA delegált kizárhat egy versenyzőt egy adott versenyszámból.
+    - 2j1) Ha egy versenyzőt bármilyen okból kizártak az adott versenyszámból, nem jogosult a további kirakásainak teljesítésére.
+    - 2j2) Ha egy versenyzőt egy versenyszám alatt zárnak ki a versenyből, a korábbi eredményei érvényesek maradnak. Kivétel: csalás vagy megtévesztés (lásd Szabályzat 2k2a).
+- 2k) A WCA delegált kizárhatja a versenyzőt a versenyből (azaz a versenyen összes versenyszámából) amennyiben a versenyző:
+    - 2k1) Elmulasztja a bejelentkezést vagy regisztrációt az annak megfelelő időben.
+    - 2k2) Gyaníthatóan csal vagy megtéveszti a hivatalos személyeket a versenyen.
+        - 2k2a) A WCA delegált törölheti a gyanús eredményeit
+    - 2k3) Jogellenesen, erőszakosan, trágár módon viselkedik, szándékosan kárt tesz a helyszínen található eszközökben, vagy személyes vagyontárgyakban a helyszínen.
+    - 2k4) Gátolja vagy elvonja mások figyelmét a verseny alatt.
+    - 2k5) Nem tesz eleget a WCA szabályzatnak a verseny alatt.
+- 2l) A versenyző azonnal vagy figyelmeztetés után kizárható, a szabálysértés természetétől és súlyosságától függően.
+    - 2l1) A kizárt versenyző nem jogosult a versenyzésből fakadó bármilyen költségének visszatérítésére.
+- 2n) A versenyző szóban megvitathatja a döntést a WCA delegálttal.
+    - 2n1) A döntés megvitatása csak a verseny ideje alatt, a kérdéses esetet követő 30 percen belül megengedett, másik forduló illetve versenyszám kezdete előtt.
+    - 2n2) A WCA delegáltnak rendeznie kell a vitát a következő forduló illetve versenyszám megkezdése előtt.
+    - 2n3) A versenyzőnek el kell fogadnia a WCA delegált végleges döntését. Büntetés: kizárás a versenyből.
+- 2s) A fogyatékkal élő versenyzők, akik számára egy vagy több WCA szabály betartása nem lehetséges, kérhetnek különleges elbánást a WCA delegálttól. Ebben az esetben legalább 2 héttel a verseny előtt meg kell keresnie a szervező csapatot és a WCA delegáltat ennek biztosítására.
+- 2t) Minden versenyzőnek ismernie és értenie kell a WCA Szabályzatot a verseny megkezdése előtt.
 
 
-## <article-7><environment><environment> Article 7: Environment
+## <article-3><puzzles><puzzles> 3. Cikk: Játékok
 
-- 7b) Spectators must remain at least 1.5 metres away from the solving stations when they are in use.
-- 7c) Lighting of the competition area must be given special attention. Lighting should be neutral, such that competitors can easily differentiate among the colours on the puzzles.
-- 7e) The competition area must be smoke-free.
-- 7f) Solving station:
-  - 7f1) Definitions:
-    - 7f1a) Stackmat: The Speedstacks Stackmat timer and a full-size compatible mat.
-    - 7f1b) Mat: The mat of the Stackmat.
-    - 7f1c) Timer: The timer of the Stackmat.
-    - 7f1d) Surface: The flat surface on which the Stackmat has been placed. The mat is considered a part of the surface. The timer is not considered a part of the surface.
-  - 7f2) The timer must be attached to the mat and placed on the surface, with the timer on the side of the mat nearest to the competitor.
-    - 7f2a) Exception: For Solving With Feet, the Stackmat must be placed directly on the floor. The timer device may be placed on the side of the mat farthest from the competitor.
-- 7h) The competition area must have a Competitors Area.
-  - 7h1) The organisation team may require that a competitor who has been called to compete must remain within the Competitors Area until he has finished all of his attempts for the round.
-
-
-## <article-8><competitions><competitions> Article 8: Competitions
-
-- 8a) An official WCA competition must:
-  - 8a1) Be approved by the WCA Board.
-  - 8a2) Follow the WCA Regulations.
-  - 8a3) Have a designated WCA Delegate in attendance.
-  - 8a4) Be announced on the WCA website at least two weeks before the beginning of the competition.
-  - 8a6) Be publicly accessible.
-  - 8a7) Use the authentic Speed Stacks Stackmat timer (Generation 2 or Pro) for time measurement.
-  - 8a8) Be open to all who wish to compete. Restrictions must be approved by the WCA Board and clearly stated when the competition is announced.
-- 8f) If WCA Regulations are not correctly observed during a competition, the WCA Board may disqualify affected attempts.
+- 3a) A versenyzőknek maguknak kell biztosítaniuk a játékokat a verseny során.
+    - 3a1) A versenyzőknek meg kell jelenniük és készen kell állniuk a versenyzésre, amikor szólítják őket. Büntetés: kizárás a versenyszámból.
+    - 3a2) A játékoknak teljesen működőképesnek kell lenniük, hogy a normál keverés elvégezhető legyen rajtuk.
+    - 3a3) A több oldalú játékoknál kirakott állapotban egy azonos színnel kell, hogy rendelkezzen minden oldal. Minden játékvariáció forgathatósága, állásai és megoldása funkcionálisan ugyanaz kell, hogy legyen, mint az eredeti játéké.
+- 3d) A játékoknak színes matricákkal, csempékkel kell rendelkezniük, vagy lehetnek festettek vagy nyomtatottak. 
+    - 3d1) Kivétel: Orvosi igazolással rendelkező, vizuális fogyatékossággal élő versenyzők használhatnak minden oldalon különböző mintákkal ellátott játékokat. A mintáknak azonosnak kell lennie az egyes oldalakon. Minden oldalnak eltérő színűnek kell lennie, ezzel megkönnyítve a keverést és a bíráskodást.
+    - 3d2) A játékok színeinek szolidnak kell lenniük, egy egységes színnel az egyes oldalakon. Minden színnek egyértelműen megkülönböztethetőnek kell lennie a többitől.
+    - 3d3) A matricák/csempék/minták/festés nem lehetnek vastagabbak 1,5mm-nél vagy a nem kocka alakú játékoknál megszokott átlagos vastagságnál.
+- 3h) Nem megengedettek olyan módosítások, amelyek változtatnak a játék eredeti koncepcióján. A módosított játékok megengedettek, amennyiben nem juttatja több információhoz a versenyzőt (pl. az elemek azonosításában) a nem módosított játékhoz képest.
+    - 3h1) A lekerekített játékok nem megengedettek. Kivétel: a lekerekített 7x7x7-es kocka.
+    - 3h2) A matrica nélküli és az átlátszó kockák nem megengedettek.
+    - 3h3) Bármely módosítás, amely gyenge teljesítményhez vezet, nem jogosítja fel a versenyzőt új kísérletre.
+- 3j) A játékoknak tisztának kell lenniük, nem tartalmazhatnak jelöléseket, elemelkedett darabokat, sérüléseket vagy más eltéréseket, amelyek megkülönböztetik az egyes elemeit egymástól.
+    - 3j1) A játékoknál megengedett a természetes kopás, erről a WCA delegált dönt.
+- 3k) A játékokat a WCA delegáltnak jóvá kell hagynia a versenyben való használat előtt.
+- 3l) A kocka alakú játékok tartalmazhatnak maximum egy logót. A Rubik kockán vagy a nagyobb kocka alakú játékokon a logót valamelyik középső elemen kell elhelyezni.
+    - 3l1) A színtelen gravírozások (maximum 1/oldal) nem tekinthetők logónak.
+- 3m) Minden játék márka vagy játék alkatrész megengedett, amennyiben a játékok megfelelnek a WCA Szabályzatnak.
 
 
-## <article-9><events><events> Article 9: Events
+## <article-4><scrambling><scrambling> 4. Cikk: Keverés
 
-- 9a) The WCA governs competitions for:
-  - 9a1) Puzzles known as Rubik's puzzles.
-  - 9a2) Other puzzles that are manipulated by twisting the sides, commonly known as "twisty puzzles".
-- 9b) The official puzzles and event formats of the WCA are:
-  - 9b1) Rubik's Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, Clock, Megaminx, Pyraminx, Square-1, and Rubik's Cube: One-Handed.
-    - 9b1a) Competition formats for these events are: "Best of X" (where X is 1, 2, or 3), and "Average of 5".
-  - 9b2) Rubik's Cube: With Feet, 6x6x6 Cube, and 7x7x7 Cube.
-    - 9b2a) Competition formats for these events are: "Best of X" (where X is 1, 2, or 3) and "Mean of 3".
-  - 9b3) Rubik's Cube: Fewest Moves, Rubik's Cube: Blindfolded, 4x4x4 Cube: Blindfolded, 5x5x5 Cube: Blindfolded, and Rubik's Cube: Multiple Blindfolded.
-    - 9b3a) Competition formats for these events are: "Best of X" (where X is 1, 2, or 3).
-- 9f) The results of a round are measured as follows:
-  - 9f1) All timed results under 10 minutes are measured and rounded down to the nearest hundredth of a second. All timed averages and means under 10 minutes are measured and rounded to the nearest hundredth of a second. 
-  - 9f2) All timed results, averages, and means over 10 minutes are measured and rounded to the nearest second (e.g. x.4 becomes x, x.5 becomes x+1).
-  - 9f4) The result of an attempt is recorded as DNF (Did Not Finish) if the attempt is disqualified or unsolved/unfinished.
-  - 9f5) The result of an attempt is recorded as DNS (Did Not Start) if the competitor is eligible for an attempt but declines it.
-  - 9f6) For "Best of X" rounds, each competitor is allotted X attempts. The best result of these attempts counts for the competitor's ranking in the round.
-  - 9f7) For "Best of X" rounds, a DNF or DNS is the worst possible result.
-  - 9f8) For "Average of 5" rounds, competitors are allotted 5 attempts. Of these 5 attempts, the best and worst attempts is removed, and the arithmetic mean of the remaining 3 attempts counts for the competitor's ranking in the round.
-  - 9f9) For "Average of 5" rounds, one DNF or DNS is permitted to count as the competitor's worst result of the round. If a competitor has more than one DNF and/or DNS result in the round, his average score for the round is DNF.
-  - 9f10) For "Mean of 3" rounds competitors are allotted 3 attempts. The arithmetic mean of the 3 attempts counts for the competitor's ranking in the round.
-  - 9f11) For "Mean of 3" rounds, if the competitor has at least one DNF or DNS result, his average score for the round is DNF.
-  - 9f12) For "Best of X" rounds, rankings are assessed based on the best result per competitor. The following are used to compare results:
-    - 9f12a) For timed results, "better" is defined as the shorter time.
-    - 9f12b) For Fewest Moves Solving, "better" is defined as the shorter solution length.
-    - 9f12c) For Multiple Blindfolded Solving, rankings are assessed based on number of puzzles solved minus the number of puzzles not solved, where a greater difference is better. If the difference is less than 0, the attempt is considered unsolved (DNF). If competitors achieve the same result, rankings are assessed based on total time, where the shorter recorded time is better. If competitors achieve the same result and the same time, rankings are assessed based on the number of puzzles the competitors failed to solve, where fewer unsolved puzzles is better.
-  - 9f13) For "Mean of 3" and "Average of 5" rounds, rankings are assessed based on the ordering of the averages/means of the competitors, where "better" is the shorter recorded time.
-  - 9f14) For "Mean of 3" and "Average of 5" rounds, if two or more competitors achieve identical average/mean results, rankings are assessed based on the best attempt per competitor, where "better" is defined as the shorter time.
-  - 9f15) Competitors who achieve the same result in a round receive an identical ranking for the round.
-- 9g) A Combined Round consists of two phases of attempts, where competitors advance to the second phase if they meet a designated cutoff during the first phase.
-  - 9g2) Whether a competitor proceeds to next phase of a Combined round, must be decided by ranking (best x competitors) or by result (all competitors with a best result under x) of the first phase.
-- 9i) Results of official WCA competitions must be listed on the WCA world rankings.
-  - 9i1) The WCA recognises the following types of regional records: national records, continental records, and world records.
-  - 9i2) All the results of a round are considered to take place on the last calendar date of the round. If a regional record is broken multiple times on the same calendar date, only the best result is recognised as breaking that regional record.
-  - 9i3) If the WCA Regulations for an event are changed, existing regional records stand until they are broken under the new WCA Regulations.
-- 9j) Each event must be held at most once per competition.
-- 9k) All competitors may participate in all events of a competition, except in cases specifically approved by the Board.
-- 9l) Each round must be completed before any following round of the same event starts.
-- 9m) Events must have at most four rounds.
-  - 9m1) Events with 99 or fewer competitors must have at most three rounds.
-  - 9m2) Events with 15 or fewer competitors must have at most two rounds.
-  - 9m3) Events with 7 or fewer competitors must have at most one round.
-- 9o) Combined rounds and Qualification rounds each count as one round when counting the number of rounds per event.
-- 9p) If an event has multiple rounds, then:
-  - 9p1) At least 25% of competitors must be eliminated between consecutive rounds of the same event.
-  - 9p2) The competitors who advance to the next round must be determined by either a cutoff ranking or a cutoff time in the preceding elimination round.
-  - 9p3) If a qualifying competitor withdraws from a round, he may be replaced by the best-ranked competitor below the cutoff from the preceding round.
-- 9r) A qualification round must be held before the first round of the event.
-  - 9r1) When announcing an event, the organisation team must include:
-    - 9r1a) Any limit to the number of competitors permitted in the first round of the event.
-    - 9r1b) Any limit to the number of competitors permitted in the qualification round of the event, and any limit to the maximum number of those competitors who will proceed to the first round.
-    - 9r1c) The average/mean result or single solve result, achieved in a previous competition, required to qualify directly for the first round of the event.
-    - 9r1d) The latest permitted date used to determine the qualifying average/mean result or single solve result in the WCA rankings.
-  - 9r2) Each competitor of an event who has not directly qualified for the first round of the event must compete in the qualification round in order to participate in the first round.
-  - 9r3) A qualification round may be added to specifically accommodate newly registered competitors, and/or the maximum number of competitors in the qualification round or first round of an event may be increased. These changes must be made at least two weeks before the competition.
-- 9s) Each round of each event must have a time limit (see [Regulation A1a](regulation:A1a)).
+- 4a) A keverő a keverési algoritmust alkalmazza a játékokra.
+- 4b) A játékokat számítógép által generált random keverési algoritmusokkal kell bekeverni.
+    - 4b1) A generált keverési algoritmusokat tilos a WCA delegáltnak ellenőrizni, kiszűrni vagy kiválogatni a verseny előtt
+    - 4b2) Egy adott forduló keverési algoritmusait kizárólag a WCA delegált és a keverők láthatják a forduló befejezéséig. Kivétel: Legkevesebb mozdulattal való kirakás, amikor a versenyzők megkapják a keverési algoritmust (lásd E cikk).
+- 4d) Alapállás a keveréshez:
+    - 4d1) A kocka alakú játékokat és a Megaminx-et a fehér oldallal (ha nincs, akkor a legvilágosabb oldallal) felfelé, és a zöld oldallal (ha nincs, akkor a legsötétebb oldallal) szemben kell elkezdeni keverni.
+    - 4d2) A Pyraminx-et a sárga oldallal (ha nincs, akkor a legvilágosabb oldallal) lefelé és a zöld oldallal (ha nincs, akkor a legsötétebb oldallal) szemben kell elkezdeni keverni.
+    - 4d3) A Square-1-t a legsötétebb oldallal szemben kell elkezdeni keverni (a 2 lehetséges keverési beállítás közül).
+- 4f) A verseny keverési algoritmusait a WCA keverő programjának legfrissebb verziójával kell generálni (elérhető a WCA honlapján).
+- 4g) A keverés után a keverőnek meg kell bizonyosodnia róla, hogy a keverés helyes volt. Ha a keverés hibás, akkor ki kell javítania (pl. kirakni a játékot és újra elvégezni rajta a keverési algoritmust).
+    - 4g1) Kivétel: A 6x6x6-os és 7x7x7-es kockáknál nem szükséges az elrontott keverés kijavítása, a WCA delegált beleegyezésével.
 
 
-## <article-10><solved-state><solvedstate> Article 10: Solved State
+## <article-5><puzzle-defects><puzzledefects> 5. Cikk: Játékok meghibásodása
 
-- 10b) Only the resting state of the puzzle, after the timer has been stopped, is considered.
-- 10c) The puzzle may be in any orientation at the end of the attempt.
-- 10d) All pieces of a puzzle must be fully attached to the puzzle in their required positions. Exception: see [Regulation 5b5](regulations:regulation:5b5).
-- 10e) A puzzle is solved when all face colours are reassembled and all parts are aligned within the limits specified below:
-  - 10e1) For each two adjacent parts (e.g. two parallel, adjacent slices of a cube) of the puzzle that are misaligned more than the limit described in [Regulation 10f](regulations:regulation:10f), the puzzle is considered to require one additional move to solve (see "Outer Block Turn Metric" in [Article 12][(regulations:article:12)).
-  - 10e2) If no further moves are required to bring the puzzle to its solved state, the puzzle is considered solved without penalty.
-  - 10e3) If one move is required, the puzzle is be considered solved with a time penalty (+2 seconds).
-  - 10e4) If more than one move is required, the puzzle is considered unsolved (DNF).
-- 10f) Limits of acceptable misalignment for puzzles:
-  - 10f1) Cube-shaped puzzles: at most 45 degrees.
-  - 10f2) Megaminx: at most 36 degrees.
-  - 10f3) Pyraminx: at most 60 degrees.
-  - 10f4) Square-1: at most 45 degrees (U/D) or 90 degrees (/).
-- 10h) Puzzles not specified in this article are judged according to the solved state as defined by the generally accepted goal of the puzzle, applying the relevant regulations for the Rubik's Cube.
+- 5a) Példák a játékok meghibásodására: kiesett, helyben elfordult darabok, levált csavarok, sapkák, matricák.
+- 5b) Ha a meghibásodás a kirakás alatt történik a versenyző dönthet, hogy megjavítja a játékot, vagy leállíthatja a rakást.
+    - 5b1) Ha a versenyző úgy dönt, hogy megjavítja a játékot, csak a hibás darabokat hozhatja helyre. A játék darabjait vagy más eszközöket tilos eközben használni.  Büntetés: érvénytelen kirakás. (DNF)
+    - 5b3) Engedélyezett javítások:
+        - 5b3a) Ha az elemek kiestek, vagy elmozdultak a helyükről a versenyző visszateheti őket.
+        - 5b3b) Ha a javítás után, de még a kirakás befejezése előtt a versenyző észreveszi, hogy kirakhatatlan a játék, akkor szétszedheti, és maximum 4 elem kiszedévésel kirakható állapotba hozhatja.
+        - 5b3c) Ha a játék kirakhatatlan, és egy sarokelem helyben történő elforgatásával kirakhatóvá tehető, akkor a versenyző megteheti, hogy helyben elforgatja hibás sarokelemet.
+    - 5b4) Vakon kirakásnál a játékok hibáit csak a kirakás alatt és vakon lehet kijavítani. Büntetés: érvénytelen kirakás. (DNF)
+    - 5b5) Ha a kirakást követően a játék egyes darabjai még mindig hibásak, vagy nincsenek teljesen a helyükön, a játék javításával kapható legrosszabb eredmény kerül rögzítésre (lásd: Szabályzat 5b3).
+- 5c) Ha a versenyzőnek meghibásodik a játéka, az nem jogosítja fel egy új kirakásra.
 
 
-## <article-11><incidents><incidents> Article 11: Incidents
+## <article-7><environment><environment> 7. Cikk: Környezet 
 
-- 11a) Incidents include:
-  - 11a1) Incorrect execution of event procedures, by officials or competitors.
-  - 11a2) Interference or facility interruptions (e.g. power failure, emergency alarm activation).
-  - 11a3) Equipment malfunction.
-- 11b) If an incident occurs, the WCA Delegate determines an impartial and appropriate course of action.
-- 11d) If the WCA Regulations are not fully clear or if the incident is not covered by the WCA Regulations, then the WCA Delegate must make his decision based on fair sportsmanship.
-- 11e) If an incident occurs during an attempt, the WCA Delegate may award a competitor an extra attempt, replacing the attempt during which the incident occurred. The competitor must appeal verbally or in writing to the judge and WCA Delegate at the time of the incident, before finishing the original attempt, to be eligible for an extra attempt. An appeal does not guarantee the competitor an extra attempt.
-  - 11e1) If a competitor is awarded an extra attempt, the extra attempt must be scrambled using a different scramble sequence. This scramble sequence must be generated using the current official version of the official WCA scramble program (see [Regulation 4f](regulations:regulation:4f)).
-- 11f) Decisions about an incident may be supported with video or photographic analysis, at the discretion of the WCA Delegate.
-
-
-## <article-12><notation><notation> Article 12: Notation
-
-- 12a) Notation for Rubik's Cube and similar puzzles:
-  - 12a1) Face Moves:
-    - 12a1a) Clockwise, 90 degrees: F (front face), B (back face), R (right face), L (left face), U (upper face), D (bottom face).
-    - 12a1b) Anti-clockwise, 90 degrees: F', B', R', L', U', D'.
-    - 12a1c) 180 degrees: F2, B2, R2, L2, U2, D2.
-  - 12a2) Multiple Outer Slice Moves (outer slice plus adjacent inner slices; n is defined as total number of slices to move; n may be omitted for two slices):
-    - 12a2a) Clockwise, 90 degrees: nFw, nBw, nRw, nLw, nUw, nDw.
-    - 12a2b) Anti-clockwise, 90 degrees: nFw', nBw', nRw', nLw', nUw', nDw'.
-    - 12a2c) 180 degrees: nFw2, nBw2, nRw2, nLw2, nUw2, nDw2.
-  - 12a3) Outer Block Turn Metric (OBTM) is defined as:
-    - 12a3a) Each move of the categories Face Moves and Multiple Outer Slice Moves is counted as 1 move.
-    - 12a3b) Each rotation is counted as 0 moves.
-- 12b) Rotations for all cube shaped puzzles:
-  - 12b1) Clockwise, 90 degrees: [f] or z, [b] or z', [r] or x, [l] or x', [u] or y, [d] or y'.
-  - 12b2) Anti-clockwise, 90 degrees: [f'] or z', [b'] or z, [r'] or x', [l'] or x, [u'] or y', [d'] or y.
-  - 12b3) 180 degrees: [f2] or z2, [b2] or z2, [r2] or x2, [l2] or x2, [u2] or y2, [d2] or y2.
-- 12c) Notation for Square-1:
-  - 12c1) Moves are applied with the smallest slice of the middle layer on left side of front face.
-  - 12c2) (x,y) means: turn upper layer x times 30 degrees clockwise, turn bottom layer y times 30 degrees clockwise.
-  - 12c3) "/" means: turn the right half of the puzzle 180 degrees.
-- 12d) Notation for Megaminx (scrambling notation only):
-    - 12d1a) Clockwise, 72 degrees: U (upper face).
-    - 12d1b) Anti-clockwise, 72 degrees: U' (upper face).
-  - 12d2) Other moves are applied while keeping 3 pieces fixed at top left of the puzzle:
-    - 12d2c) Clockwise 144 degrees move of whole puzzle except for the slice of top left three pieces: R++ (vertical slices), D++ (horizontal slices).
-    - 12d2d) Anti-clockwise 144 degrees move of whole puzzle except for the slice of top left three pieces: R-- (vertical slices), D-- (horizontal slices).
-- 12e) Notation for Pyraminx:
-  - 12e1) The puzzle is oriented with the bottom face completely horizontal and the front face facing the person who holds the Pyraminx.
-  - 12e2) Clockwise, 120 degrees: U (upper 2 layers), L (left 2 layers), R (right 2 layers), B (back 2 layers), u (upper vertex), l (left vertex), r (right vertex), b (back vertex).
-  - 12e3) Anti-clockwise, 120 degrees: U' (upper 2 layers), L' (left 2 layers), R' (right 2 layers), B' (back 2 layers), u' (upper vertex), l' (left vertex), r' (right vertex), b' (back vertex).
-- 12g) Notation for Clock:
-  - 12g1) The puzzle is oriented with twelve on top, and either side in front.
-  - 12g2) Move pins up: UR (top-right), DR (bottom-right), DL (bottom-left), UL (top-left), U (both top), R (both right), D (both bottom), L (both left), ALL (all).
-  - 12g3) Turn a wheel next to an up-position pin and move all pins down afterwards: x+ (x clockwise turns), x- (x anti-clockwise turns).
-  - 12g4) Turn around the puzzle so that twelve is still on top, and then move all pins down: y2.
+- 7b) A nézőknek legalább 1,5 méter távolságot kell tartaniuk az éppen kirakásra használt helyszíntől.
+- 7c) A versenyzői tér megvilágítására különösen nagy figyelmet kell fordítani. Semleges világításra van szükség, hogy a versenyzők könnyen megkülönböztethessék egymástól a játékok színeit.
+- 7e) A versenyzői térnek dohányfüst-mentesnek kell lennie.
+- 7f) Kirakás helyszíne:
+    - 7f1) Definíciók:
+        - 7f1a) Stackmat: A Speedstacks időmérő Stackmat és egy teljes méretű, hozzá illő szőnyeg.
+        - 7f1b) Szőnyeg: A Stackmat-hez tartozó szőnyeg.
+        - 7f1c) Timer: A Stackmat időmérő része.
+        - 7f1d) Felület: Az a sík felület, ahol a Stackmat elhelyezésre került. A szőnyeg a felülethez tartozik. A timer nem része a felületnek.
+    - 7f2) A timer-t hozzá kell rögzíteni a szőnyeghez, és úgy kell elhelyezni a felületen, hogy a timer a szőnyeg versenyzőhöz közelebbi oldalán legyen.
+        - 7f2a) Kivétel: A Lábbal való kirakás során a Stackmat-et közvetlenül a földre kell tenni. A timer-t el lehet helyezni a szőnyeg versenyzőtől távolabb eső oldalára is.
+- 7h) A verseny helyszínén kell lennie egy a várakozó versenyzők számára kijelölt területnek.
+    - 7h1) A szervező csapat megkövetelheti, hogy a versenyzéshez szólított versenyzőknek a számukra kijelölt várakozó helyen kelljen tartózkodniuk az adptt forduló összes kirakásának befejezéséig.
 
 
-## <article-A><speedsolving><speedsolving> Article A: Speed Solving
+## <article-8><competitions><competitions> 8. Cikk: Versenyek
 
-- A1) Speed Solving attempts must abide by the following procedure.
-  - A1a) The organisation team may enforce time limits for attempts and/or rounds.
-    - A1a1) The default time limit per attempt is 10 minutes, though the organisation team may announce a higher or lower time limit.
-    - A1a2) Cumulative time limits may be enforced (e.g. 3 attempts with a cumulative time limit of 20 minutes). The time elapsed in a DNF result counts towards the cumulative time limit.
-    - A1a3) For each round, any time limits must be announced before the round starts, and should not be changed after it has begun. Changes must be made at the discretion of the WCA Delegate, who must carefully consider the fairness of the change.
-    - A1a4) The competitor must end each attempt within the time limit. If a competitor reaches the time limit for an attempt/round, the judge stops the attempt immediately and record the result as DNF. Exception: Multiple Blindfolded Solving (see [Regulation H1b1](regulations:regulation:H1b1)).
-    - A1a5) An attempt is considered to meet the time limit if and only if the final result, after any time penalties are applied, is less than the time limit. Exception: Multiple Blindfolded Solving (see [Regulation H1b1](regulations:regulation:H1b1)).
-  - A1b) If the time limit for an attempt is greater than 10 minutes, a stopwatch must be used for timekeeping.
-    - A1b1) Simultaneous use of a Stackmat timer is optional.
-    - A1b2) If a time from the Stackmat timer is available, it is the original recorded time. Otherwise, the stopwatch time is the original recorded time. 
-  - A1c) A competitor participating in an event must be able to fulfill the event's requirements (e.g. know how to solve the puzzle). A competitor competing with expectation of a DNF result may be disqualified from the event, at the discretion of the WCA Delegate.
-- A2) Scrambling:
-  - A2a) When called for a round, the competitor submits his puzzle, in its solved state, to the scrambler and waits in the Competitors Area until he is called to compete.
-  - A2b) A scrambler scrambles the puzzle according to the regulations in [Article 4](regulations:article:4).
-  - A2c) After the scrambler starts scrambling the puzzle, the competitor must not see the puzzle until the inspection phase starts.
-    - A2c1) The scrambler places a cover over the scrambled puzzle that makes it impossible for any competitors or spectators to see any part of the puzzle. The cover remains over the puzzle until the beginning of the attempt.
-  - A2d) When taking a puzzle from the scrambler, the judge briefly inspects the puzzle to ensure thorough scrambling of the puzzle. The judge raises any concerns with the scrambler, who then conducts a detailed check.
-  - A2e) The judge places the puzzle onto the mat in an arbitrary orientation and ensures that it is covered completely. The competitor is not permitted to request a specific orientation.
-- A3) Inspection:
-  - A3a) The competitor may inspect the puzzle at the beginning of each attempt.
-    - A3a1) The competitor is allotted a maximum of 15 seconds to inspect the puzzle and start the solve.
-  - A3b) Before the competitor starts the attempt, the judge resets the timer and, where applicable, the stopwatch.
-    - A3b1) When the judge believes the competitor is ready, he asks "READY?". The competitor must be ready to start the attempt within one minute of being called. Penalty: disqualification of the attempt (DNF), at the discretion of the judge.
-    - A3b2) When the competitor confirms his readiness, the judge uncovers the puzzle. If the attempt requires a stopwatch, the judge starts it at the same time.
-  - A3c) The competitor may pick up the puzzle during inspection.
-    - A3c1) The competitor must not apply moves during inspection. Penalty: disqualification of the attempt (DNF).
-    - A3c2) If the pieces of the puzzle are not fully aligned, then the competitor may align the faces, as long as misalignments stay within the limits 10f.
-    - A3c3) The competitor may reset the timer before he starts the solve.
-  - A3d) At the end of the inspection, the competitor places the puzzle on the mat, in any orientation and position.
-    - A3d1) The puzzle must not rest on the timer. Penalty: time penalty (+2 seconds).
-    - A3d2) When 8 seconds of inspection have elapsed, the judge calls "8 SECONDS".
-    - A3d3) When 12 seconds of inspection have elapsed, the judge calls "12 SECONDS".
-- A4) Starting the solve:
-  - A4b) The competitor places his hands on the elevated sensor unit of the timer, with his fingers touching the sensors and palms down. Penalty: time penalty (+2 seconds).
-    - A4b1) The competitor must have no physical contact with the puzzle between the inspection period and the beginning of the solve. Penalty: time penalty (+2 seconds).
-  - A4d) The competitor starts the solve by confirming that the timer light is green and then removing his hands from the timer, thus starting the timer.
-    - A4d1) The competitor must start the solve within 15 seconds of the beginning of the inspection. Penalty: time penalty (+2 seconds).
-    - A4d2) The competitor must start the solve within 17 seconds of the beginning of the inspection. Penalty: disqualification of the attempt (DNF).
-  - A4e) Time penalties for starting the solve are cumulative.
-- A5) During the solve:
-  - A5a) While inspecting or solving the puzzle, the competitor must not communicate with anyone other than the judge. Penalty: disqualification of the attempt (DNF).
-  - A5b) While inspecting or solving the puzzle, the competitor must not receive assistance from anyone or any object other than the surface (also see [Regulation 2i](regulations:regulation:2i)). Penalty: disqualification of the attempt (DNF).
-- A6) Stopping the solve:
-  - A6a) The competitor stops the solve by releasing the puzzle and then stopping the timer.
-    - A6a1) If a stopwatch is in use as the timing device, the competitor ends the solve by releasing the puzzle and notifying the judge that he has stopped the solve.
-    - A6a2) When using a stopwatch without a Stackmat, the competitor's default notification signal consists of releasing the puzzle(s) in his hand and placing his hands on the surface, with palms down. The competitor and the judge may agree on another appropriate notification before the beginning of the solve.
-  - A6b) The competitor is responsible for stopping the timer correctly.
-    - A6b1) If the timer stops before the end of the solve and the timer shows a time strictly below 0.06 seconds, then the attempt is replaced by an extra attempt. A competitor forfeits his right to the additional attempt if the WCA Delegate determines that the timer was stopped deliberately.
-    - A6b2) If the timer stops before the end of the solve and displays a time of 0.06 seconds or higher, then the attempt is disqualified (DNF). Exception: if the competitor can demonstrate that the timer malfunctioned, he may receive an extra attempt, at the WCA Delegate's discretion.
-  - A6c) The competitor must fully release the puzzle before stopping the timer. Penalty: time penalty (+2 seconds).
-  - A6d) The competitor must stop the timer using both hands, placed flat on the sensors with palms down. Penalty: time penalty (+2 seconds).
-  - A6e) The competitor must not touch or move the puzzle until the judge has inspected the puzzle. Penalty: disqualification of the attempt (DNF). Exception: If no moves have been applied, a time penalty (+2 seconds) may be assigned instead, at the discretion of the judge.
-  - A6f) The competitor must not reset the timer until the judge has recorded the result on the score sheet. Penalty: disqualification of the attempt (DNF), at the discretion of the judge.
-  - A6g) The judge determines whether the puzzle is solved. He must not make moves or align faces when examining the puzzle. Exception: The judge is permitted to make moves when examining a Clock.
-  - A6h) In case of a dispute, moves or alignments must not be applied to the puzzle before the dispute is resolved.
-  - A6i) Time penalties for stopping the solve are cumulative.
-- A7) Recording results:
-  - A7a) The judge tells the competitor the result.
-    - A7a1) If the judge finds that the puzzle is solved, he calls "OKAY".
-    - A7a2) If the judge assigns any penalties, the judge calls "PENALTY".
-    - A7a3) If the result is DNF, the judge calls "DNF".
-  - A7b) The judge records the result on a score sheet.
-    - A7b1) If penalties are assigned, the judge records the original recorded result displayed on the timer, along with any penalties. The format should be "X + T + Y = F", where X represents the sum of time penalties before/starting the solve, T represents the time displayed on the timer, Y represents a sum of time penalties during/after the solve, and F represents the final result. If X and/or Y is 0, the 0 terms are omitted (e.g. 2 + 17.65 + 2 = 21.65, or 17.65 + 2 = 19.65).
-  - A7c) The judge and competitor must both sign (or initial) the score sheet to acknowledge the result.
-    - A7c1) If the competitor or the judge refuses to accept and sign the score sheet, the WCA Delegate must resolve the dispute.
-  - A7f) When a competitor's score sheet for a round is complete, the judge delivers the score sheet to the score taker.
+- 8a) Egy hivatalos WCA versenynek a következő feltételeknek kell megfelelniük:
+    - 8a1) Jóvá kell hagynia a WCA Board-nak.
+    - 8a2) Követnie kell a WCA szabályokat.
+    - 8a3) Kötelező egy WCA delegált részvétele.
+    - 8a4) Közzé kell tenni a WCA weboldalán legkésőbb 2 héttel a verseny kezdete előtt.
+    - 8a6) Nyilvánosnak kell lennie.
+    - 8a7) Hiteles Speed Stacks Stakmat időmérőket (2. vagy magasabb generációs) kell használni az időmérésre.
+    - 8a8) Bárki számára nyitottnak kell lennie, aki versenyezni akar. A korlátozásokat a WCA Board-nak jóvá kell hagynia, és a verseny meghirdetésekor be kell jelenteni.
+- 8f) Ha a WCA Szabályzat nincs betartva a verseny egésze alatt, akkor a WCA Board érvénytelenítheti az érintett kirakásokat.
 
 
-## <article-B><blindfolded><blindfoldedsolving> Article B: Blindfolded Solving
+## <article-9><events><events> 9. Cikk: Versenyszámok
 
-- B1) Standard speed solving procedures is followed, as described in [Article A](regulations:article:A) (Speed Solving). Additional regulations that supersede the corresponding procedures in [Article A](regulations:article:A) are described below.
-  - B1a) There is no inspection period.
-  - B1b) The competitor supplies his own blindfold.
-- B2) Starting the attempt:
-  - B2a) The judge resets the timer and stopwatch.
-  - B2b) The competitor places his hands on the elevated sensor unit of the Stackmat, with his fingers touching the sensors and palms down. Penalty: time penalty (+2 seconds).
-  - B2c) The competitor must have no physical contact with the puzzle before the beginning of the attempt. Penalty: time penalty (+2 seconds).
-  - B2d) The competitor starts the attempt by removing his hands from the timer, thus starting the timer.
-    - B2d1) The competitor removes the cover from the puzzle after starting the timer.
-  - B2e) If a stopwatch is in use, the judge starts the stopwatch as soon as the competitor starts the solve.
-- B3) Memorisation phase:
-  - B3a) The competitor may pick up the puzzle during the memorisation phase.
-  - B3b) The competitor must not make physical notes. Penalty: disqualification of the attempt (DNF).
-  - B3c) The competitor must not apply moves to the puzzle during the memorisation phase.
-- B4) Blindfolded phase:
-  - B4a) The competitor dons the blindfold to start the blindfolded phase.
-  - B4b) The competitor must not apply moves to the puzzle before he has fully donned the blindfold.
-  - B4c) The judge must ensure that there is an opaque object between the competitor's face and the puzzle while the competitor is solving.
-    - B4c1) In all cases, the competitor must wear the blindfold such that his view of the puzzle would still be clearly blocked if the opaque object were not in the way.
-    - B4c2) By default, the judge should place the object (e.g. a sheet of paper or cardboard) between the competitor and the puzzle while the competitor is wearing the blindfold.
-    - B4c3) If the judge and competitor agree beforehand, the competitor may choose to place the puzzle behind a suitable object (e.g. a music stand, the surface of the table) by himself during the blindfolded phase.
-  - B4d) The competitor must not look at the puzzle at any point during the blindfolded phase. Penalty: disqualification of the attempt (DNF).
-  - B4e) Until he applies the first move to the puzzle, the competitor may remove the blindfold to return to the memorisation phase.
-- B5) Stopping the solve:
-  - B5a) When using the Stackmat, the competitor stops the attempt by releasing the puzzle and then stopping the timer.
-  - B5b) When using a stopwatch, the competitor ends the attempt by placing the puzzle back onto the surface and notifying the judge that he is stopping the attempt. At that moment, the judge stops the timer.
-  - B5c) If he is not touching the puzzle, the competitor may remove the blindfold before he stops the timer. He must not touch the puzzle until the end of the attempt. Penalty: disqualification of the attempt (DNF).
-
-
-## <article-C><one-handed><onehandedsolving> Article C: One-Handed Solving
-
-- C1) Standard speed solving procedures is followed, as described in [Article A](regulations:article:A) (Speed Solving). Additional regulations that supersede the corresponding procedures in [Article A](regulations:article:A) are described below.
-  - C1b) During the solve, the competitor must use only one hand to touch the puzzle. Penalty: disqualification of the attempt (DNF).
-    - C1b2) If a puzzle defect occurs, and the competitor chooses to repair it, he must repair it using only the solving hand. Penalty: disqualification of the attempt (DNF).
-    - C1b3) If a puzzle defect occurs, and pieces of the puzzle briefly come in contact with other body parts without the competitor's intention, this is not considered touching the puzzle, at the discretion of the judge.
-  - C1c) During the solve, once a competitor touches the puzzle with one hand, he must not touch the puzzle with the other hand. Penalty: disqualification of the attempt (DNF).
-
-
-## <article-D><feet><solvingwithfeet> Article D: Solving With Feet
-
-- D1) Standard speed solving procedures is followed, as described in [Article A](regulations:article:A) (Speed Solving). Additional regulations that supersede the corresponding procedures in [Article A](regulations:article:A) are described below.
-  - D1a) During the attempt, the competitor must sit in a chair, sit on the surface, or stand.
-  - D1b) During the attempt, the competitor must only use his feet and the surface. Penalty: disqualification of the attempt (DNF).
-  - D1c) During the solve, the competitor must use only his feet to touch the puzzle. Penalty: disqualification of the attempt (DNF).
-- D3) Starting the solve:
-  - D3a) The competitor places his feet onto the timer sensors.
-  - D3b) The competitor removes his feet from the timer sensors to start the solve.
-- D4) Stopping the solve:
-  - D4a) The competitor stops the timer by placing his feet onto the timer sensors.
-
-
-## <article-E><fewest-moves><fewestmovessolving> Article E: Fewest Moves Solving
-
-- E2) Procedure for Fewest Moves Solving:
-  - E2a) The judge distributes a scramble sequence to all competitors. The judge then starts the stopwatch and calls "GO".
-  - E2b) All competitors have a total time limit of 60 minutes to devise a solution.
-    - E2b1) The judge should call "5 MINUTES REMAINING" at 55 minutes, and must call "STOP" at 60 minutes.
-  - E2c) At 60 minutes, each competitor must give the judge a legibly written solution with the competitor's name, using the notation defined for Outer Block Turn Metric (described in [Regulation 12a](regulations:regulation:12a)). Penalty: disqualification of the attempt (DNF).
-  - E2d) The length of the solution is calculated in Outer Block Turn Metric (see [Regulation 12a](regulations:regulation:12a)).
-    - E2d1) The competitor is permitted a maximum solution length of 80 (moves and rotations).
-  - E2e) The competitor's solution must not be directly derived from any part of the scrambling algorithm. Penalty: disqualification of the attempt (DNF).
-    - E2e1) The WCA Delegate may ask the competitor to explain the purpose of each move in his solution, irrespective of scrambling algorithm. If the competitor cannot give a valid explanation, the attempt is disqualified.
-- E3) The competitor may use the following objects during the attempt. Penalty for using unauthorised objects: disqualification of the attempt (DNF).
-  - E3a) Paper and pens (both supplied by judge).
-  - E3b) 1-3 puzzles corresponding to the event (self-supplied).
-  - E3c) Coloured stickers (self-supplied).
+- 9a) A WCA által szabályozott versenyek vonatkoznak:
+    - 9a1) Rubik néven ismert játékokra.
+    - 9a2) Más játékokra, amiket az oldalaik forgatásával lehet kirakni.
+- 9b) A WCA számára hivatalos játékok és formátumok:
+    - 9b1) Rubik kocka, 2x2x2-es kocka, 4x4x4-es kocka, Clock, Megaminx, Pyraminx, Square-1, és Rubik kocka egy kézzel való kirakása.
+        - 9b1a) Versenyen használható formátumok ezeknél a versenyszámoknál: „Legjobb eredmény x-ből” (ahol x 1, 2 vagy 3) és „5 átlaga”.
+    - 9b2) Rubik kocka lábbal való kirakása, 6x6x6-os kocka, 7x7x7-es kocka.
+        - 9b2a) Versenyen használható formátumok ezeknél a versenyszámoknál: „Legjobb eredmény x-ből” (ahol x 1, 2 vagy 3) és „3 átlaga”
+    - 9b3) Rubik kocka legkevesebb mozdulattal való kirakása, Rubik kocka vakon kirakása, 4x4x4-es kocka vakon kirakása, 5x5x5-ös kocka vakon kirakása, Több kocka vakon kirakása.
+        - 9b3a) Versenyen használható formátumok ezeknél a versenyszámoknál: „Legjobb eredmény x-ből” (ahol x 1, 2 vagy 3).
+- 9f) A fordulók eredményeit az alábbiak szerint mérjük:
+    - 9f1) Minden 10 perc alatti eredményt századmásodpercre pontosan mérünk, illetve arra kerekítjük. Minden 10 perc alatti átlagot, századmásodpercre pontosan mérünk, illetve arra kerekítjük.
+    - 9f2) Minden 10 perc feletti eredményt és átlagot másodpercre pontosan mérünk, illetve arra kerekítjük (pl. x.4-ből x , x.5-ből x+1 lesz).
+    - 9f4) Egy kirakás eredménye „DNF” (Did Not Finish = Nem befejezett) ha a kirakás nem érvényes vagy nem kirakott/befejezetlen.
+    - 9f5) Egy kirakás eredménye „DNS” (Did Not Start = Nem megkezdett) ha a versenyző jogosult a kirakásra, de tesz neki eleget.
+    - 9f6) A „Legjobb eredmény x-ből” formátumú fordulókban minden versenyzőnek x kirakásra van lehetősége. Ezen eredmények közül a legjobb alapján alakul a versenyzők közötti sorrend.
+    - 9f7) A „Legjobb eredmény x-ből” formátumú fordulókban a DNF vagy DNS a legrosszabb eredmény.
+    - 9f8) Az „5 átlaga” formátumú fordulókban minden versenyzőnek 5 kirakásra van lehetősége. Ezen eredmények közül a legrosszabb és a legjobb eredmény nem számít, a maradék 3 eredmény átlaga alapján alakul ki a versenyzők közötti sorrend.
+    - 9f9) A „5 átlaga” formátumú fordulókban a DNF vagy DNS a legrosszabb eredmény. Ha a versenyzőnek 1-nél több DNF vagy DNS eredménye van, akkor a végső átlageredménye DNF.
+    - 9f10) A „3 átlaga” formátumú fordulókban minden versenyzőnek 3 kirakásra van lehetősége. A 3 eredmény átlaga alapján alakul ki a versenyzők közötti sorrend.
+    - 9f11) Ha egy „3 átlaga” formátumú fordulóban a versenyzőnek DNF vagy DNS eredménye van, akkor a végeredménye DNF.
+    - 9f12) A „Legjobb eredmény x-ből” formátumú fordulókban a versenyzőket a legjobb eredmények alapján alakul ki a versenyzők közötti sorrend.
+        - 9f12a) A mért idők közül a rövidebb a jobb.
+        - 9f12b) A Legkevesebb mozdulattal való kirakásnál a legrövidebb algoritmus a jobb.
+        - 9f12c) A Több kocka vakon kirakásánál a végeredmény a kirakott kockák mínusz a nem kirakott kockák különbség alapján történik. Minél nagyobb az eredmény, annál jobb. Ha az eredmény kisebb, mint 0, akkor a végeredmény DNF. Ha több versenyzőnél ugyanaz az eredmény alakul ki, akkor az általuk elért időeredmény számít, ahol a rövidebb időeredmény a jobb. Amennyiben ez az eredmény is megegyezik, akkor a nem kirakott kockák száma alapján történik a rangsorolás, ahol a kevesebb jelenti a jobb eredményt.
+    - 9f13) A „3 átlaga” és az „5 átlaga” formátumú fordulókban az átlageredmények alapján alakul ki a versenyzők közötti sorrend, ahol a rövidebb időeredmény a jobb.
+    - 9f14) Ha a „3 átlaga” és az „5 átlaga” formátumú fordulókban több versenyző ugyanolyan végeredménnyel rendelkezik, akkor a rakott eredmények közül a legjobb alapján történik köztük a ragsorolás, ahol a rövidebb időeredmény a jobb.
+    - 9f15) Azok a versenyzők, akik ugyanolyan eredményt érnek el egy fordulóban, ugyanazon a helyen lesznek rangsorolva.
+- 9g) A kombinált fordulók 2 részből állnak, ahol a versenyzők akkor vehetnek rész a 2. részben, ha az 1. részre vonatkozó feltételnek megfeleltek.
+    - 9g2) Egy kombinált fordulóban egy versenyző következő fordulóba való továbbjutását vagy a sorrend (legjobb x versenyző jut tovább) vagy az eredmény (minden versenyző, akinek az eredménye x alatt van) határozza meg. 
+- 9i) A hivatalos WCA versenyek eredményeit fel kell tüntetni a WCA világranglistán.
+    - 9i1) A WCA a következő típusú területi rekordokat ismeri el: nemzeti rekordok, kontinens rekordok, világrekordok. 
+    - 9i2) Egy forduló minden eredményét a forduló utolsó eredményének dátumán tartják számon. Ha egy napon többen is megdöntik valamely területi rekordot, akkor csak a jobb eredmény számít a rekord megdöntésének.
+    - 9i3) Ha a WCA szabályzat megváltozik valamely versenyszámban, akkor az aktuális területi rekordok addig érvényesek, amíg valaki megdönti őket az új szabályoknak megfelelően.
+- 9j) Minden versenyen egy adott versenyszám csak maximum egyszer rendezhető meg.
+- 9k) Egy versenyen minden versenyző részt vehet bármely versenyszámban, kivéve, ha a WCA Board másképp nem dönt.
+- 9l) Minden fordulót be kell fejezni mielőtt ugyanazon versenyszám másik fordulója elkezdődne.
+- 9m) Minden versenyszámnak maximum 4 fordulója lehet.
+    - 9m1) 99 vagy kevesebb induló versenyzővel rendelkező versenyszámokban maximum 3 forduló lehetséges.
+    - 9m2) 15 vagy kevesebb induló versenyzővel rendelkező versenyszámokban maximum 2 forduló lehetséges.
+    - 9m3) 7 vagy kevesebb induló versenyzővel rendelkező versenyszámokban maximum 1 forduló lehetséges.
+- 9o) A kombinált fordulók és a kvalifikációs fordulók is egy-egy fordulónak számítanak.
+- 9p) Ha egy versenyszámnak több fordulója is van, akkor:
+    - 9p1) A versenyzők minimum 25%-ának ki kell esnie a következő fordulót megelőzően.
+    - 9p2) A következő fordulóba jutott versenyzőket vagy a legjobb helyezéseket elért versenyzők számával, vagy az időeredmények minimumával kell meghatározni.
+    - 9p3) Ha egy továbbjutott versenyző nem kíván indulni a következő fordulóban, akkor a ranglistán a legjobb eredményű nem továbbjutott versenyző átveheti a helyét.
+- 9r) Egy versenyszám kvalifikációs fordulóját az első forduló előtt kell megtartani.
+    - 9r1) Egy versenyszám meghirdetésekor a szervező csapatnak tudatnia kell: 
+        - 9r1a) Ha bármilyen limit áll fent az első fordulóban indítható versenyzők számára vonatkozóan.
+        - 9r1b) Ha bármilyen limit áll fent a kvalifikációs fordulóban indítható versenyzők számára vonatkozóan, és minden limitet, ami az első fordulóba továbbjutó versenyzők számára vonatkozik.
+        - 9r1c) Ha egy korábbi versenyen elért átlag vagy egyszeri eredmény alapján a versenyző közvetlenül továbbjuthat az első fordulóba.
+        - 9r1d) Azt a legutolsó dátumot, ameddig el kell érni a kvalifikációhoz szükséges átlag vagy egyszeri eredmény.
+    - 9r2) Egy versenyszám azon versenyzőinek, akik nem a korábbi eredményei alapján közvetlenül jutottak az első fordulóba, részt kell venniük a kvalifikációs fordulóban az első fordulóba való továbbjutásért.
+    - 9r3) A kvalifikációs forduló célja lehet az újonnan regisztrált versenyzők közül a megfelelő időeredménnyel rendelkezők kiszűrése. A kvalifikációs fordulóból továbbjutott versenyzők számával megnövelhető az első fordulóban induló versenyzők száma. Ezekről a változtatásokról legalább 2 héttel a verseny megkezdése előtt dönteni kell.
+- 9s) Egy versenyszám minden fordulójának rendelkeznie kell egy időlimittel (lásd Szabályzat A1a).
 
 
-## <article-F><clock><clocksolving> Article F: Clock Solving
+## <article-10><solved-state><solvedstate> 10. Cikk: Kirakott állapot
 
-- F1) Standard speed solving procedures is followed, as described in [Article A](regulations:article:A) (Speed Solving). Additional regulations that supersede the corresponding procedures in [Article A](regulations:article:A) are described below.
-- F2) The judge places the scrambled puzzle onto the mat in a standing position.
-- F3) At the end of the inspection period, the competitor places the puzzle onto the mat in a standing position. He must not change the positions of any pins from their scrambled positions before the beginning of the solve. Penalty: disqualification (DNF).
+- 10b) Csak a játék nyugalmi állapota vizsgálandó, a timer leállítását követően.
+- 10c) A kirakás befejezésekor a játék bármilyen orientációban lehet.
+- 10d) A játék minden elemének a megfelelő helyen és pozícióban, teljesen kapcsolódnia kell a többi elemhez. Kivételek: lásd Szabályzat 5b5.
+- 10e) A játék akkor számít kirakottnak, ha minden oldala egyszínű, és minden elem a helyére van igazítva, a következő határokon belül: 
+    - 10e1) A játék bármely két szomszédos eleme között (pl. két szomszédos, párhuzamos sora) nagyobb eltérés van, mint a Szabályzat 10f-ben leírt limitek, akkor úgy kell tekinteni, hogy szükség van még egy mozdulatra a kirakásához (lásd „Külső blokk forgatásának módja”, 12. cikk).
+    - 10e2) Ha a játék kirakott állapotának eléréséhez nincs szükség további forgatásokra, akkor kirakottnak tekintendő, és nincs szükség időbüntetésre.
+    - 10e3) Ha a játék kirakott állapotának eléréséhez 1 további mozdulatra van szüksége, akkor a játék kirakottnak tekintendő +2 másodperc időbüntetéssel.
+    - 10e4) Ha a játék kirakott állapotának eléréséhez több mozdulatra is szükség van, akkor a játék nem kirakottnak tekintendő (DNF).
+- 10f) A játékok eltérésének elfogadott limitek:
+    - 10f1) Kocka alakú játékok: maximum 45°
+    - 10f2) Megaminx: maximum 36°
+    - 10f3) Pyraminx: maximum 60°
+    - 10f4) Square-1: maximum 45° (U/D), maximum 90° (/)
+- 10h) Azon játékok, amelyeknek a bíráskodása ebben a cikkben nincs részletezve, azon játékok bírálása az eredeti céljának megfelelően történik, figyelembe véve a Rubik kockára vonatkozó érvényes szabályozásokat.
 
 
-## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Article H: Multiple Blindfolded Solving
+## <article-11><incidents><incidents> 11. Cikk: Incidensek
 
-- H1) Standard speed solving procedures is followed, as described in [Article B](regulations:article:B) (Blindfolded Solving). Additional regulations that supersede the corresponding procedures in [Article B](regulations:article:B) are described below.
-  - H1a) Before an attempt, the competitor must notify the judge of the number of puzzles he wishes to attempt blindfolded. The number of puzzles must be at least 2.
-    - H1a1) A competitor is not permitted to change the number of puzzles after the beginning of the attempt.
-    - H1a2) The organisation team must not disclose the competitor's requested number of puzzles until the beginning of the attempt.
-  - H1b) If he is attempting fewer than 6 puzzles, the competitor is allotted a time limit of 10 minutes times the number of puzzles in the attempt, else the time limit is 60 minutes.
-    - H1b1) The competitor may signal the end of the attempt at any time. If and when the time limit is reached, the judge stops the attempt and the attempt is then scored; the time limit for the attempt counts as the original recorded time.
-  - H1d) Time penalties for the puzzles of the attempt are cumulative.
+- 11a) Az incidensek alatt a következőket értjük:
+    - 11a1) A versenyszámra vonatkozó szabályok helytelen betartása a hivatalos személyek vagy a versenyzők által.
+    - 11a2) Zavarok vagy meghibásodások (pl. áramszünet vagy vészjelző bekapcsolása).
+    - 11a3) Berendezések meghibásodása.
+- 11b) Ha bármilyen incidens történik, a WCA delegált jogosult független és a helyzetnek megfelelő döntéseket hozni.
+- 11d) Ha a WCA Szabályzat nem teljesen tisztázza, hogy mit kell tenni adott helyzetben, vagy nem tartozik a WCA Szabályzat hatáskörébe, akkor a WCA delegáltnak kell döntést hoznia a sportszerűség elve alapján.
+- 11e) Ha a kirakás alatt valamilyen incidens történik, a WCA delegált megítélhet egy extra kirakást a versenyzőnek, a megzavart kirakás helyett. Ahhoz, hogy versenyző jogosult legyen egy extra kirakásra, szóban vagy írásban kell a bíróhoz és a WCA delegálthoz fordulnia az incidens megtörténtekor, de még az eredeti kirakás befejezése előtt. A kérés nem garantálja a versenyzőnek, hogy extra kirakást kap.
+    - 11e1) Ha a versenyző egy extra kirakásra jogosult, akkor az ehhez használt keverési algoritmusnak egy másik keverést kell használni. Ezt a keverési algoritmust a WCA keverő programjának aktuális hivatalos verziójával kell generálni (lásd Szabályzat 4f).
+- 11f) Egy incidens eldöntését lehet segíteni videó vagy fényképes elemzéssel, a WCA delegált beleegyezésével.
 
 
-## <article-Z><optional><optional> Article Z: Optional Regulations
+## <article-12><notation><notation> 12. Cikk: Jelölések
 
-Organisation teams may adopt optional regulations to facilitate the administration of the competition.
-The WCA Board must approve any optional regulations for a competition.
+- 12a) A Rubik kockára és hasonló játékokra vonatkozó jelölések:
+    - 12a1) Oldalak forgatása:
+        - 12a1a) Óramutató járásával megegyezően 90°: F (front face: elülső oldal), B (back face: hátsó oldal), R (right face: jobboldali oldal), L (left face: baloldali oldal), U (upper face: felső oldal), D (bottom face: alsó oldal)
+        - 12a1b) Óramutató járásával ellentétesen 90°: F’ , B’ , R’ , L’ , U’ , D’
+        - 12a1c) 180°-os elforgatás: F2, B2, R2, L2, U2, D2
+    - 12a2) Több külső réteg forgatása (Külső oldal és a szomszédos belső rétegek forgatása; n jelentése az oldal és összes forgatandó réteg száma, n elhagyható, ha a forgatandó rétegek száma 2.)
+        - 12a2a) Óramutató járásával megegyezően 90°: nFw, nBw, nRw, nLw, nUw, nDw.
+        - 12a2b) Óramutató járásával ellentétesen 90°: nFw', nBw', nRw', nLw', nUw', nDw'
+        - 12a2c) 180°-os elforgatás: nFw2, nBw2, nRw2, nLw2, nUw2, nDw2.
+    - 12a3) Külső blokk forgatási módjának (Outer Block Turn Metric) definíciója:
+        - 12a3a) Minden az Oldalak forgatása, és a Több külső réteg forgatása csoportba tartozó forgatás, 1 forgatásnak számít.
+        - 12a3b) A játékok elforgatása (rotáció) 0 forgatásnak számít.
+- 12b) A kocka alakú játékok elforgatása:
+    - 12b1) Óramutató járásával megegyezően 90°: [f] vagy z, [b] vagy z', [r] vagy x, [l] vagy x', [u] vagy y, [d] vagy y
+    - 12b2) Óramutató járásával ellentétesen 90°: [f'] vagy z', [b'] vagy z, [r'] vagy x', [l'] vagy x, [u'] vagy y', [d'] vagy y
+    - 12b3) 180°-os elforgatás: [f2] vagy z2, [b2] vagy z2, [r2] vagy x2, [l2] vagy x2, [u2] vagy y2, [d2] vagy y2
+- 12c) A Square-1 jelölései: 
+    - 12c1) A keverést úgy kell alkalmazni, hogy a középső rétegen a kisebb szelet legyen a baloldalon.
+    - 12c2) (x,y) jelentése: A felső oldal elforgatása x-szer 30°-kal és az alsó oldal elforgatása y-szor 30°-kal az óramutató járásával megegyezően.
+    - 12c3) „/” jelentése: A játék jobb oldalának elforgatása 180°-kal.
+- 12d) Megaminx jelölései: (keverési jelölések)
+        - 12d1a) Óramutató járásával megegyezően 72°: U (upper face: felső oldal)
+        - 12d1b) Óramutató járásával ellentétesen 72°: U’ (upper face: alsó oldal)
+    - 12d2) A további forgatásoknál a játék jobb felső részén 3 elemet fixen tartunk.
+        - 12d2c) A teljes játék óramutató járásával megegyezően 144°-os elforgatása, a három fixen tartott elem kivételével: R++ (függőleges oldalak), D++ (vízszintes oldalak)
+        - 12d2d) A teljes játék óramutató járásával ellentétesen 144°-os elforgatása, a három fixen tartott elem kivételével: R- (függőleges oldalak), D- (vízszintes oldalak)
+- 12e) Pyraminx jelölései:
+    - 12e1) A játék alsó oldalát vízszintesen, az elülső oldalát a keverő felé kell tartani.
+    - 12e2) Óramutató járásával megegyezően 120°: U (felső 2 réteg), L (baloldali 2 réteg), R (jobboldali 2 réteg), B (hátsó 2 réteg), u (felső csúcs), l (baloldali csúcs), r (jobboldali csúcs), b (hátsó csúcs)
+    - 12e3) Óramutató járásával ellentétesen 120°: U’ (felső 2 réteg), L’ (baloldali 2 réteg), R’ (jobboldali 2 réteg), B’ (hátsó 2 réteg), u’ (felső csúcs), l’ (baloldali csúcs), r’ (jobboldali csúcs), b’ (hátsó csúcs)
+- 12g) Clock jelölések:
+    - 12g1) A játékot a 12 órával felfelé kell tartani, hogy valamelyik oldallal legyen a keverővel szemben.
+    - 12g2) Pöckök felhúzása: UR (jobb felső), DR (jobb alsó), DL (bal alsó), UL (bal felső), U (mindkét felső), R (mindkét jobboldali), D (mindkét alsó), L (mindkét baloldali), ALL (mindegyik)
+    - 12g3) Azt a fogaskereket kell először forgatni, ami egy felfelé álló pöcök mellett van, és csak azután azt, ami lefelé álló pöcök mellett van. Az x+ jelentése: óramutató járásával megegyező forgatás, az x- jelentése: az óramutató járásával ellentétes forgatás.
+    - 12g4) A játékot meg kell fordítani, hogy a 12 óra még mindig felfelé legyen, és le kell nyomni az összes pöcköt: y2.
 
-- Z1) The organisation team may require competitors to submit puzzles during registration.
-- Z2) The organisation team may limit the number of events per competitor.
-- Z3) The organisation team may select competitors who directly qualify for certain rounds of certain events based on the results of specific previous competitions.
-- Z4) The organisation team may limit the number of competitors per event, on either a "first come first serve" basis or based upon qualification times or rankings in the WCA world rankings of a previously announced calendar date.
-- Z5) The organisation team may prohibit competitors from participating in specific combinations of events.
 
+## <article-A><speedsolving><speedsolving> A Cikk: Speed Solving (Versenyzői Kirakás)
+
+- A1) A Speed Solving kirakásoknak a következő feltételeknek kell megfelelniük.
+    - A1a) A szervező csapat határozza meg az időlimiteket az egyes kirakásokra és/vagy fordulókra.
+        - A1a1) Az alapértelmezett időlimit egy kirakásra 10 perc, de ezt szervező csapat bármelyik irányba módosíthatja.
+        - A1a2) Kumulált időlimitek is megengedettek (pl. 20 perc a 3 kirakásra). Ha a kirakás eredménye DNF, a kirakás időeredménye akkor is beleszámít a kumulált időlimitbe.
+        - A1a3) Mindenen versenyszámnál az időlimiteket be kell jelenteni a fordulók megkezdése előtt, azt követően már nem lehet változtatni. Változtatásokat csak a WCA delegált beleegyezésével lehet tenni, akinek meg kell fontolnia a döntés tisztességességét.
+        - A1a4) A versenyzőnek minden kirakását be kell fejeznie az időlimiten belül. Amennyiben a versenyző eléri a kirakás/forduló időlimitét a bírónak azonnal le kell állítania a kirakást, és a versenyző kirakásának eredménye: DNF. Kivétel: Több kocka vakon kirakása (lásd Szabályozás H1b1).
+        - A1a5) Egy kirakás akkor felel meg az időlimitnek, ha az esetleges időbüntetésekkel együttes idő is az időlimit alatt van. Kivétel: Több kocka vakon kirakása (lásd Szabályozás H1b1).
+    - A1b) Ha egy kirakás időlimite nagyobb, mint 10 perc, akkor stoppert kell használni az idő mérésére.
+        - A1b1) A stopperrel egyidejűleg Stackmat használata megengedett.
+        - A1b2) Ha a Stackmat-en mért idő elérhető, akkor az számít hivatalos időnek, amennyiben nem akkor a stopperrel mért idő a hivatalos.
+    - A1c) Egy adott versenyszámban részt vevő versenyzőknek teljes mértékben tisztában kell lenniük a játék követelményeivel. (pl. a játék kirakása) Ha egy versenyző azért vesz részt a versenyben, hogy DNF eredményt érjen el, a WCA delegált beleegyezésével kizárható a versenyszámból.
+- A2) Keverés:
+    - A2a) Amikor egy versenyzőt versenyezni szólítanak, kirakott állapotban le kell adnia a játékát a keverőnek és a várakozó versenyzők számára kijelölt helyen kell tartózkodnia, amíg nem hívják a kirakásaihoz.
+    - A2b) A keverő bekeveri a játékot a szabályoknak megfelelően (lásd 4. cikk).
+    - A2c) Miután a keverő megkezdte a játék bekeverését a versenyző nem láthatja a játékát a megtekintés kezdetéig.
+        - A2c1) A keverő letakarja a bekevert játékot, hogy se versenyző se néző ne láthassa a játék egyetlen részét sem. A takaró a játékon marad a kirakás megkezdéséig.
+    - A2d) Amikor a bíró elveszi a játékot a keverőtől, megvizsgálja, hogy be van-e keverve. Ha a bíró kételkedik a keveréssel kapcsolatban, meg kell kérnie a keverőt, hogy alaposan vizsgálja meg.
+    - A2e) A bíró a szőnyegre helyezi a játékot tetszőleges állásban, és ellenőrzi, hogy teljesen takarva legyen. A versenyző nem kérheti a játék speciális állapotú elhelyezését.
+- A3) Megtekintés:
+    - A3a) A versenyző minden kirakás megkezdése előtt megtekintheti a játékot.
+        - A3a1) A versenyzőnek maximum 15 másodperce van a játék megtekintésére és a kirakás megkezdésére.
+    - A3b) A kirakás megkezdése előtt a bíró lenullázza a timer-t és adott esetben a stoppert.
+        - A3b1) Amikor a bíró úgy gondolja, hogy a versenyző készen áll megkérdezi, hogy: „Kész?” (Ready?). A versenyzőnek a szólítást követő 1 percen belül készen kell állnia a kirakás megkezdésére. Büntetés: érvénytelen kirakás (DNF), a bíró döntése alapján.
+        - A3b2) Ha a versenyző megerősíti, hogy készen áll, a bíró leveszi a takarót a játékról. Ha a kirakáshoz szükség van stopperre, akkor ezzel egy időben a bíró azt is elindítja.
+    - A3c) A versenyző a megtekintés alatt felveheti a játékot.
+        - A3c1) A versenyző nem forgathat a játékon a megtekintés alatt. Büntetés: érvénytelen kirakás. (DNF)
+        - A3c2) Ha a játék darabjai nincsenek teljesen egyvonalban, akkor a versenyző eligazíthatja őket, amíg a megengedett elmozdítási határokon belül marad (lásd 10f).
+        - A3c3) A versenyzőnek nulláznia kell a timer-t a kirakás megkezdése előtt.
+    - A3d) A megtekintés végén a versenyző elhelyezi a játékot a szőnyegen tetszőleges állásban.
+        - A3d1) A játék nem érintheti a timer-t. Büntetés: időbüntetés (+2 másodperc).
+        - A3d2) Amikor a megtekintés idejéből 8 másodperc eltelt, a bírónak szólnia kell: „8 másodperc” (8 seconds).
+        - A3d3) Amikor a megtekintés idejéből 12 másodperc eltelt, a bírónak szólnia kell: „12 másodperc” (12 seconds).
+- A4) A kirakás megkezdése:
+    - A4b) A versenyző tenyérrel lefelé ráhelyezi a kezét az érzékelő egységre a timer-en, úgy, hogy az ujjaival érintse azt. Büntetés: időbüntetés (+2 másodperc).
+        - A4b1) A versenyző nem érhet a játékhoz a megtekintési periódus és a kirakás megkezdése között. Büntetés: időbüntetés (+2 másodperc).
+    - A4d) A versenyző ellenőrzi, hogy a timer lámpája zölden világít és a kezei leemelésével  a timer-ről elkezdi a kirakást.
+        - A4d1) A versenyzőnek a megtekintés kezdetét követő 15 másodperben belül el kell kezdeni a kirakást. Büntetés: időbüntetés (+2 másodperc).
+        - A4d2) A versenyzőnek a megtekintés kezdetét követő 17 másodperben belül el kell kezdeni a kirakást. Büntetés: érvénytelen kirakás (DNF).
+    - A4e) A kirakás megkezdése előtti időbüntetések összeadódnak.
+- A5) Kirakás közben:
+    - A5a) A megtekintés és a kirakás közben a versenyző senkivel sem kommunikálhat a bírót kivéve. Büntetés: érvénytelen kirakás (DNF)
+    - A5b) A megtekintés és a kirakás alatt a versenyző senkinek és semminek a segítségét nem veheti igénybe, kizárólag a felszínt használhatja (lásd Szabályzat 2i).
+- A6) A kirakás befejezése:
+    - A6a) A versenyző a játék lerakásával és a timer leállításával fejezi be a kirakást.
+        - A6a1) Ha a bíró stopperrel méri az időt, akkor a versenyző leteszi a játékot és tájékoztatja a bírót, hogy befejezte a kirakást.
+        - A6a2) Ha a bíró stopperrel méri az időt, és nem használnak timer-t, akkor a kirakás befejezésének alapértelmezett jele, hogy a versenyző leteszi a játékot és a kezeit tenyérrel lefelé a felületre helyezi. A bíró és a versenyző más jelben is megállapodhatnak a kirakás megkezdése előtt.
+    - A6b) A versenyző felelős a timer helyes leállításáért.
+        - A6b1) Ha a timer megáll a kirakás befejezése előtt, de szigorúan 0,06 másodperc elteltét megelőzően (vagy ezzel megegyezően), akkor a versenyző egy extra kirakást kap. A versenyző elveszítheti ezt a jogát, ha a WCA delegált megítélése szerint ez szándékosan történt.
+        - A6b2) Ha a timer megáll a kirakás befejezése előtt, de több mint 0,06 másodpercet követően, akkor a kirakás eredménye DNF. Kivétel: ha a versenyző bizonyítani tudja a timer meghibásodását és a WCA delegált beleegyezik.
+    - A6c) A versenyző nem érhet a játékhoz a timer leállításakor.  Büntetés: időbüntetés (+2 másodperc).
+    - A6d) A timer leállításához a versenyzőnek mindkét kezét használnia kell, és tenyérrel lefelé kell a szenzorra helyeznie. Büntetés: időbüntetés (+2 másodperc)
+    - A6e) A versenyző nem érhet a játékhoz és nem fordíthat rajta, amíg a bíró meg nem vizsgálta. Büntetés: érvénytelen kirakás (DNF) Kivétel: Ha nem mozdított a játékon, akkor időbüntetés (+2 másodperc), a bíró megítélése szerint.
+    - A6f) A versenyző nem nullázhatja le a timer-t, amíg a bíró nem rögzítette az eredményt a pontkártyára.  Büntetés: érvénytelen kirakás (DNF), a bíró megítélése szerint.
+    - A6g) A bírónak meg kell állapítania, hogy a játék ki van-e rakva. A megvizsgálása közben nem forgathat rajta, és nem igazíthatja meg. Kivétel: A Clock ellenőrzésénél a bíró megmozdíthatja a játékot.
+    - A6h) Vitás kérdés esetén, a vita rendezéséig tilos mozgatni vagy igazítani a játékokat.
+    - A6i) A kirakás befejezésekor felmerülő időbüntetések összeadódnak.
+- A7) Eredmények rögzítése:
+    - A7a) A bírónak közölnie kell a versenyzővel az eredményt.
+        - A7a1) Ha a bíró megítélése szerint a játék kirakott, azt mondja: „OK” (Okay).
+        - A7a2) Ha a bíró büntetést állapít meg, azt mondja: „Büntetés” (Penalty).
+        - A7a3) Ha a versenyző eredménye DNF, a bíró azt mondja: „DNF” (DNF).
+    - A7b) A bíró rögzíti az eredményt a pontkártyán.
+        - A7b1) Ha időbüntetésre van szükség, akkor a bíró rögzíti az eredeti eredményt és a büntetéseket is külön-külön és együttesen is a következő formában: X+T+Y=F, ahol X a kirakás megkezdése előtti büntetések összege, T az eredeti idő, Y a kirakás alatti és a kirakás utáni büntetések összese, F pedig a végső eredmény. Ha X=0 és/vagy Y=0, akkor ez a formula azon része elhagyható (pl. 2+17.65+2=21.65 vagy 17.65+2= 19.65).
+    - A7c) A bíró és a versenyző is aláírja vagy megjelöli a pontkártyát, ezzel elismerve az eredményt.
+        - A7c1) Ha a versenyző vagy a bíró nem ismeri el az eredményt, a WCA delegáltnak kell döntenie.
+    - A7f) Ha egy versenyző adott fordulóra vonatkozó pontkártyája elkészült, (az összes eredménye rögzítve lett) a bíró az adatrögzítőnek adja.
+
+
+## <article-B><blindfolded><blindfoldedsolving> B Cikk: Vakon kirakás
+
+- B1) A standard Speed Solving eljárásokat kell követni (lásd A cikk). Az ettől eltérő szabályokat az alábbiakban ismertetjük.
+    - B1a) Nincs megtekintési idő.
+    - B1b) A versenyzőnek kell biztosítania szemtakarót a kirakáshoz.
+- B2) A kirakás megkezdése:
+    - B2a) A bíró lenullázza a timer-t és a stoppert.
+    - B2b) A versenyző tenyérrel lefelé ráhelyezi a kezét az érzékelő egységre a timer-en úgy, hogy az ujjaival érintse azt. Büntetés: időbüntetés (+2 másodperc)
+    - B2c) A versenyző nem érhet a játékhoz a kirakás megkezdése között. Büntetés: időbüntetés (+2 másodperc)
+    - B2d) A versenyző leemeli a kezét a timer-ről, ezzel elindítva az időt és megkezdve a kirakást.
+        - B2d1) A versenyző leveszi a takarót a játékról, miután elindította a timer-t.
+    - B2e) Ha stoppert is használnak az idő mérésére, akkor a bíró elindítja a stoppert, amint a versenyző leemeli a kezét a timer-ről.
+- B3) Memorizáció:
+    - B3a) A versenyző felveheti a játékot a memorizáció időtartama alatt.
+    - B3b) A versenyző nem készíthet jegyzeteket. Büntetés: érvénytelen kirakás (DNF).
+    - B3c) A versenyző nem forgathat a játékon memorizáció közben.
+- B4) Vakon kirakás:
+    - B4a) A versenyzőnek a szemére kell húznia a szemtakarót a tényleges kirakás megkezdése előtt.
+    - B4b) A versenyző nem forgathat a játékon, mielőtt teljesen a szemén lenne a szemtakaró.
+    - B4c) A bírónak biztosítania kell, hogy a tényleges kirakás közben a versenyző és a játék között egy átlátszatlan tárgy legyen.
+        - B4c1) A versenyzőnek minden esetben viselnie kell a szemtakarót, hogy ha az átlátszatlan tárgy nincs is ott, akkor se láthassa a játékot.
+        - B4c2) Alapesetben a bírónak kell elhelyeznie a tárgyat (pl. papír vagy karton) a versenyző és a játék közé, amikor a versenyző felhelyezi a szemtakarót.
+        - B4c3) Ha a versenyző és a bíró előre megegyeztek, akkor a versenyző saját maga elhelyezheti a játékot kirakás közben, egy annak megfelelő tárgy mögé (pl. asztallap).
+    - B4d) A versenyző semmilyen okból nem nézhet a játékra a tényleges kirakás közben. Büntetés: érvénytelen kirakás (DNF).
+    - B4e) Az első forgatás megtétele előtt a versenyző leveheti a szemtakarót, és visszatérhet a memorizációhoz.
+- B5) A kirakás befejezése: 
+    - B5a) Ha a versenyző Stackmat-et használ, akkor a játék lerakásával, és a timer leállításával fejezi be a kirakást.
+    - B5b) Ha a bíró stopperrel méri az időt, akkor a versenyző lerakja a játékot és tájékoztatja a bírót, hogy befejezte a kirakást. Ekkor a bíró leállítja a stoppert.
+    - B5c) Ha a versenyző nem ér a játékhoz, leveheti a szemtakarót, mielőtt leállítaná a timer-t. Ezt követően nem érhet a játékhoz a rakás befejezéséig. Büntetés: érvénytelen kirakás (DNF)
+
+
+## <article-C><one-handed><onehandedsolving> C Cikk: Egy kézzel való kirakás
+
+- C1) A standard Speed Solving eljárásokat kell követni (lásd A cikk). Az ettől eltérő szabályokat az alábbiakban ismertetjük.
+    - C1b) A kirakás közben a versenyző csak az egyik kezével érintheti a játékot. Büntetés: érvénytelen kirakás (DNF).
+        - C1b2) Ha a játék meghibásodik és a versenyző a megjavítása mellett dönt, akkor is csak a kirakáshoz használt kezével teheti meg. Büntetés: érvénytelen kirakás (DNF).
+        - C1b3) Ha a játék meghibásodik, vagy szétesik és a darabok véletlenül hozzáérnek a versenyző testrészeihez, az nem számít másik testrésszel való hozzáérésnek, a bíró jóváhagyásával.
+    - C1c) A kirakás alatt, ha a versenyző megérintette a játékot az egyik kezével, utána tilos megérintenie a másik kezével. Büntetés: érvénytelen kirakás (DNF).
+
+
+## <article-D><feet><solvingwithfeet> D Cikk: Lábbal való kirakás
+
+- D1) A standard Speed Solving eljárásokat kell követni (lásd A cikk). Az ettől eltérő szabályokat az alábbiakban ismertetjük.
+    - D1a) A kirakás közben a versenyző ülhet széken, a földön vagy állhat is.
+    - D1b) A kirakás során a versenyző kizárólag a lábát és a felületet használhatja. Büntetés: érvénytelen kirakás (DNF).
+    - D1c) A kirakás során a versenyző csak a lábával érhet a játékhoz. Büntetés: érvénytelen kirakás (DNF)
+- D3) A kirakás megkezdése:
+    - D3a) A versenyzőnek a lábát a timer szenzorjára kell helyeznie.
+    - D3b) A versenyző a lába elemelésével megkezdi a kirakást.
+- D4) A kirakás befejezése:
+    - D4a) A versenyző a lábának a timer szenzorjára helyezésével fejezi be a kirakást.
+
+
+## <article-E><fewest-moves><fewestmovessolving> E Cikk: Legkevesebb mozdulattal való kirakás
+
+- E2) A Legkevesebb mozdulattal való kirakás menete:
+    - E2a) A bíró kiosztja a keverési algoritmust minden versenyzőnek. A bíró ezután elindítja a versenyszámot a „Mehet” utasítással és ezzel egy időben a stopperórát.
+    - E2b) Minden versenyzőnek 60 perce van egy megoldás kidolgozására.
+        - E2b1) A bírónak 55 perc után jeleznie kell a versenyzőknek: „5 perc van hátra” illetve 60 perc után le kell állítania a versenyzőket: „Állj”.
+    - E2c) A 60 perc elteltével minden versenyzőnek egy olvasható megoldást kell benyújtania, a versenyző nevével ellátva, valamint az „Outer Block Turn Metric”-nek megfelelő jelölésekkel leírva (lásd: Szabályzat 12a). Büntetés: érvénytelen kirakás (DNF).
+    - E2d) A kirakás hosszúságát a „Outer Block Turn Metric”-nek megfelelően kell számolni.
+        - E2d1) A versenyzők maximum 80 lépés hosszúságú megoldást nyújthatnak be.
+    - E2e) Tilos a keverési algoritmus bármely részét visszafele leírni a megoldás algoritmusában. Büntetés: érvénytelen kirakás (DNF).
+        - E2e1) A WCA delegált megkérheti a versenyzőket, hogy magyarázzák el a megoldás menetét. Ha a versenyző nem tud érvényes magyarázatot adni, akkor a megoldás nem elfogadható és a versenyző eredménye DNF.
+- E3) A versenyző a következő eszközöket használhatja a forduló alatt. A nem megengedett eszközök használatát a fordulóból való kizárással kell büntetni.
+    - E3a) Papír és tollak (a bíró által biztosított).
+    - E3b) 1-3 a versenyszámnak megfelelő játék (mindenki magának biztosítja).
+    - E3c) Színes matricák (mindenki magának biztosítja).
+
+
+## <article-F><clock><clocksolving> F Cikk: Clock
+
+- F1) A standard Speed Solving eljárásokat kell követni (lásd A cikk). Az ettől eltérő szabályokat az alábbiakban ismertetjük.
+- F2) A bíró a bekevert játékot a szőnyegre helyezi álló helyzetben.
+- F3) A megtekintés végén a versenyző a szőnyegre helyezi a játékot álló helyzetben. A kirakás megkezdése előtt nem változtathat a pöckök bekeveréskor kapott állásán. Büntetés: érvénytelen kirakás (DNF).
+
+
+## <article-H><multiple-blindfolded><multipleblindfoldedsolving> H Cikk: Több kocka vakon kirakása
+
+- H1) A standard Speed Solving eljárásokat kell követni (lásd B cikk). Az ettől eltérő szabályokat az alábbiakban ismertetjük.
+    - H1a) A kirakás megkezdése előtt a versenyzőnek meg kell mondania, hogy hány játékkal szeretne indulni. A játékok minimum száma 2.
+        - H1a1) A versenyző nem változtathat a játékok számán a kirakás megkezdését követően.
+        - H1a2) A szervező csapat a kirakás megkezdéséig nem korlátozhatja a kockák számán való változtatást.
+    - H1b) Ha a versenyző 6-nál kevesebb játékot rak ki, akkor a számára megszabott időlimit 10 perc/játék.  Más esetben a versenyzőnek maximum 60 perc áll rendelkezésére.
+        - H1b1) A versenyző bármikor leállíthatja a kirakást. 
+    - H1d) A kirakásban részt vevő játékok időbüntetései összeadódnak. Az időlimit elérésekor, a bíró leállítja a kirakást és a kirakás akkor kerül értékelésre, és az időeredménynek az eredeti időlimit számít.
+
+
+## <article-Z><optional><optional> Z Cikk: Választható szabályok
+
+A szervező csapatok elfogadhatják a következő szabályokat a verseny lebonyolításának megkönnyítésére.
+A WCA Board-nak jóvá kell hagynia minden más szabályozást.
+
+- Z1) A szervező csapat kérheti a játékok leadását regisztrációkor.
+- Z2) A szervező csapat meghatározhatja, hogy egy versenyző maximum hány versenyszámban indulhat.
+- Z3) A szervező csapat kiválaszthat embereket, akik korábbi eredményeik alapján (akár adott versenyeken is) közvetlenül továbbjutnak fordulókba.
+- Z4) A szervező csapat meghatározhatja, hogy adott versenyszámban maximum hány versenyző indulhat el. Ez történhet a jelentkezés időrendi sorrendje alapján, vagy a versenyzők WCA világranglistán betöltött helyezése alapján.
+- Z5) A szervező csapat megtilthatja a bizonyos versenyszámokban való kombinált részvételt.
+ 
