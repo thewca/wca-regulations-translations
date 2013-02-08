@@ -62,10 +62,10 @@ A hatékonyabb megértés segítségéül minden útmutatás a következő címk
 ## <article-4><scrambling><scrambling> 4. Cikk: Keverés
 
 - 4b1+) [EMLÉKEZTETŐ] A WCA delegáltnak tilos újra generálnia az algoritmusokat, egyes algoritmusok kiszűrésére. Például nem megengedett belenézni a verseny keveréseibe és új algoritmusokat generálni az igazságosabb keverések érdekében sem.
-- 4b2+) [PONTOSÍTÁS] Általánosságban a verseny minden hivatalos keverését titkosan kell kezelni a verseny alatt, és csak a verseny befejeztével együtt lehet őket nyilvánosságra hozni (lásd Szabályzat 1c3a). Bizonyos esetekben (pl. világrekord) a szervező csapat kérheti a keverések korábbi kiadását, a forduló befejezését követően.
+- 4b2+) [PONTOSÍTÁS] Általánosságban a verseny minden hivatalos keverését titkosan kell kezelni a verseny alatt, és csak a verseny befejeztével együtt lehet őket nyilvánosságra hozni (lásd [Szabályzat 1c3a](regulations:regulation:1c3a)). Bizonyos esetekben (pl. világrekord) a szervező csapat kérheti a keverések korábbi kiadását, a forduló befejezését követően.
 - 4d+) [PONTOSÍTÁS] Egyes játékoknál ugyanazt a színsémát használják, azzal a változtatással, hogy a fehér színt néhány esetben fehérrel helyettesítik. Ilyen esetben a fekete nem a fehér színt helyettesíti, hanem ez válik a legsötétebb színné a játékon.
 - 4f+) [AJÁNLÁS] A WCA delegált előre elkészítheti a keveréseket az egész versenyre, beleértve az extra kirakásokhoz használtakat is.
-- 4f++) [EMLÉKEZTETŐ] Ha a versenyző a verseny ideje alatt további keveréseket generál, azokat is el kell menteni (lásd Szabályzat 1c3a).
+- 4f++) [EMLÉKEZTETŐ] Ha a versenyző a verseny ideje alatt további keveréseket generál, azokat is el kell menteni (lásd [Szabályzat 1c3a](regulations:regulation:1c3a)).
 
 
 ## <article-5><puzzle-defects><puzzledefects> 5. Cikk: Játékok meghibásodása
@@ -113,16 +113,16 @@ A hatékonyabb megértés segítségéül minden útmutatás a következő címk
 ## <article-1><incidents><incidents> 11. Cikk: Incidensek
 
 - 11e+) [PONTOSÍTÁS] Mivel az extra kirakás kérése nem garantálja a versenyzőnek, hogy meg is kapja azt, így dönthet úgy, hogy bekapcsolva hagyja a timer-t és az idő múlása közben vitatja meg a bíróval/WCA delegálttal, hogy elutasítás esetén folytathassa a kirakást.
-- 11e1+) [EMLÉKEZTETŐ] A extra kirakásnál a játékot egy a hivatalos keverőprogram által generált, módosítás nélküli algoritmussal kell bekeverni (Szabályzat 4f, Útmutató 4f+).
+- 11e1+) [EMLÉKEZTETŐ] A extra kirakásnál a játékot egy a hivatalos keverőprogram által generált, módosítás nélküli algoritmussal kell bekeverni ([Szabályzat 4f](regulations:regulation:4f), [Útmutató 4f+](guidelines:guideline:4f+)).
 
 
 ## <article-A><speedsolving><speedsolving> A Cikk: Speed Solving
 
 - A1a2+) [KIEGÉSZÍTÉS] Abban az esetben, ha kumulált időlimitet alkalmaznak, és a versenyző DNF eredményt ér el, a bírónak rögzítenie kell zárójelben a kirakáshoz tartozó időeredményt is a pontkártyán.
 - A1a3+) [EMLÉKEZTETŐ] A szervező csapatnak és a WCA delegáltnak ügyelniük kell arra, hogy az időlimitek befolyásolják a versenyzők stratégiáját (pl. megpróbálni gyorsan kirakni az első 2 kirakást, hogy megfeleljen a kombinált forduló időlimitének), így a forduló megkezdését követően az időlimitek megváltoztatása igazságtalanul hathat egyes versenyzőkre.
-- A1a4+) [EMLÉKEZTETŐ] Ha egy versenyzőnek véletlenül megengedték az időlimit átlépését, a versenyző időeredményét visszamenőleg el kell törölni, és a bírót, a versenyzőt és a WCA delegáltat is tájékoztatni kell róla (lásd Szabályzat 1g2). A bíróknak mindig tisztában kell lenniük az adott forduló az időlimitével (ami kumulált időlimit esetén függ az előző kirakásoktól).
+- A1a4+) [EMLÉKEZTETŐ] Ha egy versenyzőnek véletlenül megengedték az időlimit átlépését, a versenyző időeredményét visszamenőleg el kell törölni, és a bírót, a versenyzőt és a WCA delegáltat is tájékoztatni kell róla (lásd [Szabályzat 1g2](regulations:regulation:1g2)). A bíróknak mindig tisztában kell lenniük az adott forduló az időlimitével (ami kumulált időlimit esetén függ az előző kirakásoktól).
 - A2c1+) [PONTOSÍTÁS] Korábban a pontkártyákat használhatták a játékok eltakarására, de így néhány oldala kilátszott. Ez már nem megengedett.
-- A3c3+) [PONTOSÍTÁS] Habár a bíró felelős a timer lenullázásáért (lásd Szabályzat A3b), a versenyző is lenullázhatja a megtekintési idő előtt/közben, ha a bíró elmulasztotta volna.
+- A3c3+) [PONTOSÍTÁS] Habár a bíró felelős a timer lenullázásáért (lásd [Szabályzat A3b](regulations:regulation:A3b)), a versenyző is lenullázhatja a megtekintési idő előtt/közben, ha a bíró elmulasztotta volna.
 - A6b+) [MAGYARÁZAT] Az önkényesen választott 0,06 másodpercet a Stackmat meghibásodásainak alapján határozták meg.
 - A6g+) [KIEGÉSZÍTÉS] Amíg a bíró megállapítja, hogy kell-e büntetést adnia a kirakásért, nem érhet hozzá a játékhoz.
 
@@ -153,9 +153,9 @@ A hatékonyabb megértés segítségéül minden útmutatás a következő címk
 
 ## <article-H><multiple-blindfolded><multipleblindfoldedsolving> H Cikk: Több kocka vakon kirakása
 
-- H1b1+) [EMLÉKEZTETŐ] Az időlimit elérése nem feltétlenül vonja magával a DNF eredményt, a Több kocka vakon kirakására vonatkozó kivételeknek megfelelően (lásd Szabályzat A1a5).
+- H1b1+) [EMLÉKEZTETŐ] Az időlimit elérése nem feltétlenül vonja magával a DNF eredményt, a Több kocka vakon kirakására vonatkozó kivételeknek megfelelően (lásd [Szabályzat A1a5](regulations:regulation:A1a5)).
 - H1b1++) [KIEGÉSZÍTÉS] A bíró engedélyezheti a kirakás nem hivatalos kirakását, de a bírónak először meg kell állítania a hivatalos kirakást és befejeznie a bíráskodást a Szabályzatnak megfelelően.
-- H1d+) [PÉLDA] Ha a versenyző 10 kockát rak ki, és 59:57-nél állítja le a stoppert, valamint 2 időbüntetést kap, az eredménye: 59:57+2*2=60:01 (lásd Szabályzat A1a5).
+- H1d+) [PÉLDA] Ha a versenyző 10 kockát rak ki, és 59:57-nél állítja le a stoppert, valamint 2 időbüntetést kap, az eredménye: 59:57+2*2=60:01 (lásd [Szabályzat A1a5](regulations:regulation:A1a5)).
 - H1d+) [PÉLDA] Ha a versenyző 10 kockát rak ki, és 60:00-nál a bíró leállítja a kirakást, valamint 2 időbüntetést kap, az eredménye: 60:00+2*2=60:04.
 
 

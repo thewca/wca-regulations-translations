@@ -97,7 +97,7 @@ Megjegyzés: A Szabályzat változtatásával a Cikkek és a Szabályzat számoz
         - 2i1b) Füldugók és fülhallgatók (a nem elektronikus zajszűrő fülhallgatók).
 - 2j) A WCA delegált kizárhat egy versenyzőt egy adott versenyszámból.
     - 2j1) Ha egy versenyzőt bármilyen okból kizártak az adott versenyszámból, nem jogosult a további kirakásainak teljesítésére.
-    - 2j2) Ha egy versenyzőt egy versenyszám alatt zárnak ki a versenyből, a korábbi eredményei érvényesek maradnak. Kivétel: csalás vagy megtévesztés (lásd Szabályzat 2k2a).
+    - 2j2) Ha egy versenyzőt egy versenyszám alatt zárnak ki a versenyből, a korábbi eredményei érvényesek maradnak. Kivétel: csalás vagy megtévesztés (lásd [Szabályzat 2k2a](regulations:regulation:2k2a)).
 - 2k) A WCA delegált kizárhatja a versenyzőt a versenyből (azaz a versenyen összes versenyszámából) amennyiben a versenyző:
     - 2k1) Elmulasztja a bejelentkezést vagy regisztrációt az annak megfelelő időben.
     - 2k2) Gyaníthatóan csal vagy megtéveszti a hivatalos személyeket a versenyen.
@@ -142,7 +142,7 @@ Megjegyzés: A Szabályzat változtatásával a Cikkek és a Szabályzat számoz
 - 4a) A keverő a keverési algoritmust alkalmazza a játékokra.
 - 4b) A játékokat számítógép által generált random keverési algoritmusokkal kell bekeverni.
     - 4b1) A generált keverési algoritmusokat tilos a WCA delegáltnak ellenőrizni, kiszűrni vagy kiválogatni a verseny előtt
-    - 4b2) Egy adott forduló keverési algoritmusait kizárólag a WCA delegált és a keverők láthatják a forduló befejezéséig. Kivétel: Legkevesebb mozdulattal való kirakás, amikor a versenyzők megkapják a keverési algoritmust (lásd E cikk).
+    - 4b2) Egy adott forduló keverési algoritmusait kizárólag a WCA delegált és a keverők láthatják a forduló befejezéséig. Kivétel: Legkevesebb mozdulattal való kirakás, amikor a versenyzők megkapják a keverési algoritmust (lásd [E cikk](regulations:article:E)).
 - 4d) Alapállás a keveréshez:
     - 4d1) A kocka alakú játékokat és a Megaminx-et a fehér oldallal (ha nincs, akkor a legvilágosabb oldallal) felfelé, és a zöld oldallal (ha nincs, akkor a legsötétebb oldallal) szemben kell elkezdeni keverni.
     - 4d2) A Pyraminx-et a sárga oldallal (ha nincs, akkor a legvilágosabb oldallal) lefelé és a zöld oldallal (ha nincs, akkor a legsötétebb oldallal) szemben kell elkezdeni keverni.
@@ -162,7 +162,7 @@ Megjegyzés: A Szabályzat változtatásával a Cikkek és a Szabályzat számoz
         - 5b3b) Ha a javítás után, de még a kirakás befejezése előtt a versenyző észreveszi, hogy kirakhatatlan a játék, akkor szétszedheti, és maximum 4 elem kiszedévésel kirakható állapotba hozhatja.
         - 5b3c) Ha a játék kirakhatatlan, és egy sarokelem helyben történő elforgatásával kirakhatóvá tehető, akkor a versenyző megteheti, hogy helyben elforgatja hibás sarokelemet.
     - 5b4) Vakon kirakásnál a játékok hibáit csak a kirakás alatt és vakon lehet kijavítani. Büntetés: érvénytelen kirakás. (DNF)
-    - 5b5) Ha a kirakást követően a játék egyes darabjai még mindig hibásak, vagy nincsenek teljesen a helyükön, a játék javításával kapható legrosszabb eredmény kerül rögzítésre (lásd: Szabályzat 5b3).
+    - 5b5) Ha a kirakást követően a játék egyes darabjai még mindig hibásak, vagy nincsenek teljesen a helyükön, a játék javításával kapható legrosszabb eredmény kerül rögzítésre (lásd: [Szabályzat 5b3](regulations:regulation:5b3)).
 - 5c) Ha a versenyzőnek meghibásodik a játéka, az nem jogosítja fel egy új kirakásra.
 
 
@@ -252,14 +252,14 @@ Megjegyzés: A Szabályzat változtatásával a Cikkek és a Szabályzat számoz
         - 9r1d) Azt a legutolsó dátumot, ameddig el kell érni a kvalifikációhoz szükséges átlag vagy egyszeri eredmény.
     - 9r2) Egy versenyszám azon versenyzőinek, akik nem a korábbi eredményei alapján közvetlenül jutottak az első fordulóba, részt kell venniük a kvalifikációs fordulóban az első fordulóba való továbbjutásért.
     - 9r3) A kvalifikációs forduló célja lehet az újonnan regisztrált versenyzők közül a megfelelő időeredménnyel rendelkezők kiszűrése. A kvalifikációs fordulóból továbbjutott versenyzők számával megnövelhető az első fordulóban induló versenyzők száma. Ezekről a változtatásokról legalább 2 héttel a verseny megkezdése előtt dönteni kell.
-- 9s) Egy versenyszám minden fordulójának rendelkeznie kell egy időlimittel (lásd Szabályzat A1a).
+- 9s) Egy versenyszám minden fordulójának rendelkeznie kell egy időlimittel (lásd [Szabályzat A1a](regulations:regulation:A1a)).
 
 
 ## <article-10><solved-state><solvedstate> 10. Cikk: Kirakott állapot
 
 - 10b) Csak a játék nyugalmi állapota vizsgálandó, a timer leállítását követően.
 - 10c) A kirakás befejezésekor a játék bármilyen orientációban lehet.
-- 10d) A játék minden elemének a megfelelő helyen és pozícióban, teljesen kapcsolódnia kell a többi elemhez. Kivételek: lásd Szabályzat 5b5.
+- 10d) A játék minden elemének a megfelelő helyen és pozícióban, teljesen kapcsolódnia kell a többi elemhez. Kivételek: lásd [Szabályzat 5b5](regulations:regulation:5b5).
 - 10e) A játék akkor számít kirakottnak, ha minden oldala egyszínű, és minden elem a helyére van igazítva, a következő határokon belül: 
     - 10e1) A játék bármely két szomszédos eleme között (pl. két szomszédos, párhuzamos sora) nagyobb eltérés van, mint a Szabályzat 10f-ben leírt limitek, akkor úgy kell tekinteni, hogy szükség van még egy mozdulatra a kirakásához (lásd „Külső blokk forgatásának módja”, 12. cikk).
     - 10e2) Ha a játék kirakott állapotának eléréséhez nincs szükség további forgatásokra, akkor kirakottnak tekintendő, és nincs szükség időbüntetésre.
@@ -282,7 +282,7 @@ Megjegyzés: A Szabályzat változtatásával a Cikkek és a Szabályzat számoz
 - 11b) Ha bármilyen incidens történik, a WCA delegált jogosult független és a helyzetnek megfelelő döntéseket hozni.
 - 11d) Ha a WCA Szabályzat nem teljesen tisztázza, hogy mit kell tenni adott helyzetben, vagy nem tartozik a WCA Szabályzat hatáskörébe, akkor a WCA delegáltnak kell döntést hoznia a sportszerűség elve alapján.
 - 11e) Ha a kirakás alatt valamilyen incidens történik, a WCA delegált megítélhet egy extra kirakást a versenyzőnek, a megzavart kirakás helyett. Ahhoz, hogy versenyző jogosult legyen egy extra kirakásra, szóban vagy írásban kell a bíróhoz és a WCA delegálthoz fordulnia az incidens megtörténtekor, de még az eredeti kirakás befejezése előtt. A kérés nem garantálja a versenyzőnek, hogy extra kirakást kap.
-    - 11e1) Ha a versenyző egy extra kirakásra jogosult, akkor az ehhez használt keverési algoritmusnak egy másik keverést kell használni. Ezt a keverési algoritmust a WCA keverő programjának aktuális hivatalos verziójával kell generálni (lásd Szabályzat 4f).
+    - 11e1) Ha a versenyző egy extra kirakásra jogosult, akkor az ehhez használt keverési algoritmusnak egy másik keverést kell használni. Ezt a keverési algoritmust a WCA keverő programjának aktuális hivatalos verziójával kell generálni (lásd [Szabályzat 4f](regulations:regulation:4f)).
 - 11f) Egy incidens eldöntését lehet segíteni videó vagy fényképes elemzéssel, a WCA delegált beleegyezésével.
 
 
@@ -332,15 +332,15 @@ Megjegyzés: A Szabályzat változtatásával a Cikkek és a Szabályzat számoz
         - A1a1) Az alapértelmezett időlimit egy kirakásra 10 perc, de ezt szervező csapat bármelyik irányba módosíthatja.
         - A1a2) Kumulált időlimitek is megengedettek (pl. 20 perc a 3 kirakásra). Ha a kirakás eredménye DNF, a kirakás időeredménye akkor is beleszámít a kumulált időlimitbe.
         - A1a3) Mindenen versenyszámnál az időlimiteket be kell jelenteni a fordulók megkezdése előtt, azt követően már nem lehet változtatni. Változtatásokat csak a WCA delegált beleegyezésével lehet tenni, akinek meg kell fontolnia a döntés tisztességességét.
-        - A1a4) A versenyzőnek minden kirakását be kell fejeznie az időlimiten belül. Amennyiben a versenyző eléri a kirakás/forduló időlimitét a bírónak azonnal le kell állítania a kirakást, és a versenyző kirakásának eredménye: DNF. Kivétel: Több kocka vakon kirakása (lásd Szabályozás H1b1).
-        - A1a5) Egy kirakás akkor felel meg az időlimitnek, ha az esetleges időbüntetésekkel együttes idő is az időlimit alatt van. Kivétel: Több kocka vakon kirakása (lásd Szabályozás H1b1).
+        - A1a4) A versenyzőnek minden kirakását be kell fejeznie az időlimiten belül. Amennyiben a versenyző eléri a kirakás/forduló időlimitét a bírónak azonnal le kell állítania a kirakást, és a versenyző kirakásának eredménye: DNF. Kivétel: Több kocka vakon kirakása (lásd [Szabályozás H1b1](regulations:regulation:H1b1)).
+        - A1a5) Egy kirakás akkor felel meg az időlimitnek, ha az esetleges időbüntetésekkel együttes idő is az időlimit alatt van. Kivétel: Több kocka vakon kirakása (lásd [Szabályozás H1b1](regulations:regulation:H1b1)).
     - A1b) Ha egy kirakás időlimite nagyobb, mint 10 perc, akkor stoppert kell használni az idő mérésére.
         - A1b1) A stopperrel egyidejűleg Stackmat használata megengedett.
         - A1b2) Ha a Stackmat-en mért idő elérhető, akkor az számít hivatalos időnek, amennyiben nem akkor a stopperrel mért idő a hivatalos.
     - A1c) Egy adott versenyszámban részt vevő versenyzőknek teljes mértékben tisztában kell lenniük a játék követelményeivel. (pl. a játék kirakása) Ha egy versenyző azért vesz részt a versenyben, hogy DNF eredményt érjen el, a WCA delegált beleegyezésével kizárható a versenyszámból.
 - A2) Keverés:
     - A2a) Amikor egy versenyzőt versenyezni szólítanak, kirakott állapotban le kell adnia a játékát a keverőnek és a várakozó versenyzők számára kijelölt helyen kell tartózkodnia, amíg nem hívják a kirakásaihoz.
-    - A2b) A keverő bekeveri a játékot a szabályoknak megfelelően (lásd 4. cikk).
+    - A2b) A keverő bekeveri a játékot a szabályoknak megfelelően (lásd [4. cikk](regulations:article:4)).
     - A2c) Miután a keverő megkezdte a játék bekeverését a versenyző nem láthatja a játékát a megtekintés kezdetéig.
         - A2c1) A keverő letakarja a bekevert játékot, hogy se versenyző se néző ne láthassa a játék egyetlen részét sem. A takaró a játékon marad a kirakás megkezdéséig.
     - A2d) Amikor a bíró elveszi a játékot a keverőtől, megvizsgálja, hogy be van-e keverve. Ha a bíró kételkedik a keveréssel kapcsolatban, meg kell kérnie a keverőt, hogy alaposan vizsgálja meg.
@@ -353,7 +353,7 @@ Megjegyzés: A Szabályzat változtatásával a Cikkek és a Szabályzat számoz
         - A3b2) Ha a versenyző megerősíti, hogy készen áll, a bíró leveszi a takarót a játékról. Ha a kirakáshoz szükség van stopperre, akkor ezzel egy időben a bíró azt is elindítja.
     - A3c) A versenyző a megtekintés alatt felveheti a játékot.
         - A3c1) A versenyző nem forgathat a játékon a megtekintés alatt. Büntetés: érvénytelen kirakás. (DNF)
-        - A3c2) Ha a játék darabjai nincsenek teljesen egyvonalban, akkor a versenyző eligazíthatja őket, amíg a megengedett elmozdítási határokon belül marad (lásd 10f).
+        - A3c2) Ha a játék darabjai nincsenek teljesen egyvonalban, akkor a versenyző eligazíthatja őket, amíg a megengedett elmozdítási határokon belül marad (lásd [Szabályzat 10f](regulations:regulation:10f)).
         - A3c3) A versenyzőnek nulláznia kell a timer-t a kirakás megkezdése előtt.
     - A3d) A megtekintés végén a versenyző elhelyezi a játékot a szőnyegen tetszőleges állásban.
         - A3d1) A játék nem érintheti a timer-t. Büntetés: időbüntetés (+2 másodperc).
@@ -368,7 +368,7 @@ Megjegyzés: A Szabályzat változtatásával a Cikkek és a Szabályzat számoz
     - A4e) A kirakás megkezdése előtti időbüntetések összeadódnak.
 - A5) Kirakás közben:
     - A5a) A megtekintés és a kirakás közben a versenyző senkivel sem kommunikálhat a bírót kivéve. Büntetés: érvénytelen kirakás (DNF)
-    - A5b) A megtekintés és a kirakás alatt a versenyző senkinek és semminek a segítségét nem veheti igénybe, kizárólag a felszínt használhatja (lásd Szabályzat 2i).
+    - A5b) A megtekintés és a kirakás alatt a versenyző senkinek és semminek a segítségét nem veheti igénybe, kizárólag a felszínt használhatja (lásd [Szabályzat 2i](regulations:regulation:2i)).
 - A6) A kirakás befejezése:
     - A6a) A versenyző a játék lerakásával és a timer leállításával fejezi be a kirakást.
         - A6a1) Ha a bíró stopperrel méri az időt, akkor a versenyző leteszi a játékot és tájékoztatja a bírót, hogy befejezte a kirakást.
@@ -397,7 +397,7 @@ Megjegyzés: A Szabályzat változtatásával a Cikkek és a Szabályzat számoz
 
 ## <article-B><blindfolded><blindfoldedsolving> B Cikk: Vakon kirakás
 
-- B1) A standard Speed Solving eljárásokat kell követni (lásd A cikk). Az ettől eltérő szabályokat az alábbiakban ismertetjük.
+- B1) A standard Speed Solving eljárásokat kell követni (lásd [A cikk](regulations:article:A)). Az ettől eltérő szabályokat az alábbiakban ismertetjük.
     - B1a) Nincs megtekintési idő.
     - B1b) A versenyzőnek kell biztosítania szemtakarót a kirakáshoz.
 - B2) A kirakás megkezdése:
@@ -428,7 +428,7 @@ Megjegyzés: A Szabályzat változtatásával a Cikkek és a Szabályzat számoz
 
 ## <article-C><one-handed><onehandedsolving> C Cikk: Egy kézzel való kirakás
 
-- C1) A standard Speed Solving eljárásokat kell követni (lásd A cikk). Az ettől eltérő szabályokat az alábbiakban ismertetjük.
+- C1) A standard Speed Solving eljárásokat kell követni (lásd [A cikk](regulations:article:A)). Az ettől eltérő szabályokat az alábbiakban ismertetjük.
     - C1b) A kirakás közben a versenyző csak az egyik kezével érintheti a játékot. Büntetés: érvénytelen kirakás (DNF).
         - C1b2) Ha a játék meghibásodik és a versenyző a megjavítása mellett dönt, akkor is csak a kirakáshoz használt kezével teheti meg. Büntetés: érvénytelen kirakás (DNF).
         - C1b3) Ha a játék meghibásodik, vagy szétesik és a darabok véletlenül hozzáérnek a versenyző testrészeihez, az nem számít másik testrésszel való hozzáérésnek, a bíró jóváhagyásával.
@@ -437,7 +437,7 @@ Megjegyzés: A Szabályzat változtatásával a Cikkek és a Szabályzat számoz
 
 ## <article-D><feet><solvingwithfeet> D Cikk: Lábbal való kirakás
 
-- D1) A standard Speed Solving eljárásokat kell követni (lásd A cikk). Az ettől eltérő szabályokat az alábbiakban ismertetjük.
+- D1) A standard Speed Solving eljárásokat kell követni (lásd [A cikk](regulations:article:A)). Az ettől eltérő szabályokat az alábbiakban ismertetjük.
     - D1a) A kirakás közben a versenyző ülhet széken, a földön vagy állhat is.
     - D1b) A kirakás során a versenyző kizárólag a lábát és a felületet használhatja. Büntetés: érvénytelen kirakás (DNF).
     - D1c) A kirakás során a versenyző csak a lábával érhet a játékhoz. Büntetés: érvénytelen kirakás (DNF)
@@ -454,7 +454,7 @@ Megjegyzés: A Szabályzat változtatásával a Cikkek és a Szabályzat számoz
     - E2a) A bíró kiosztja a keverési algoritmust minden versenyzőnek. A bíró ezután elindítja a versenyszámot a „Mehet” utasítással és ezzel egy időben a stopperórát.
     - E2b) Minden versenyzőnek 60 perce van egy megoldás kidolgozására.
         - E2b1) A bírónak 55 perc után jeleznie kell a versenyzőknek: „5 perc van hátra” illetve 60 perc után le kell állítania a versenyzőket: „Állj”.
-    - E2c) A 60 perc elteltével minden versenyzőnek egy olvasható megoldást kell benyújtania, a versenyző nevével ellátva, valamint az „Outer Block Turn Metric”-nek megfelelő jelölésekkel leírva (lásd: Szabályzat 12a). Büntetés: érvénytelen kirakás (DNF).
+    - E2c) A 60 perc elteltével minden versenyzőnek egy olvasható megoldást kell benyújtania, a versenyző nevével ellátva, valamint az „Outer Block Turn Metric”-nek megfelelő jelölésekkel leírva (lásd: [Szabályzat 12a](regulations:regulation:12a)). Büntetés: érvénytelen kirakás (DNF).
     - E2d) A kirakás hosszúságát a „Outer Block Turn Metric”-nek megfelelően kell számolni.
         - E2d1) A versenyzők maximum 80 lépés hosszúságú megoldást nyújthatnak be.
     - E2e) Tilos a keverési algoritmus bármely részét visszafele leírni a megoldás algoritmusában. Büntetés: érvénytelen kirakás (DNF).
@@ -467,14 +467,14 @@ Megjegyzés: A Szabályzat változtatásával a Cikkek és a Szabályzat számoz
 
 ## <article-F><clock><clocksolving> F Cikk: Clock
 
-- F1) A standard Speed Solving eljárásokat kell követni (lásd A cikk). Az ettől eltérő szabályokat az alábbiakban ismertetjük.
+- F1) A standard Speed Solving eljárásokat kell követni (lásd [A cikk](regulations:article:A)). Az ettől eltérő szabályokat az alábbiakban ismertetjük.
 - F2) A bíró a bekevert játékot a szőnyegre helyezi álló helyzetben.
 - F3) A megtekintés végén a versenyző a szőnyegre helyezi a játékot álló helyzetben. A kirakás megkezdése előtt nem változtathat a pöckök bekeveréskor kapott állásán. Büntetés: érvénytelen kirakás (DNF).
 
 
 ## <article-H><multiple-blindfolded><multipleblindfoldedsolving> H Cikk: Több kocka vakon kirakása
 
-- H1) A standard Speed Solving eljárásokat kell követni (lásd B cikk). Az ettől eltérő szabályokat az alábbiakban ismertetjük.
+- H1) A standard Speed Solving eljárásokat kell követni (lásd [B cikk](regulations:article:B)). Az ettől eltérő szabályokat az alábbiakban ismertetjük.
     - H1a) A kirakás megkezdése előtt a versenyzőnek meg kell mondania, hogy hány játékkal szeretne indulni. A játékok minimum száma 2.
         - H1a1) A versenyző nem változtathat a játékok számán a kirakás megkezdését követően.
         - H1a2) A szervező csapat a kirakás megkezdéséig nem korlátozhatja a kockák számán való változtatást.
