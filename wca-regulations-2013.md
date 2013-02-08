@@ -5,6 +5,12 @@
 
 ## Megjegyzések
 
+###Fordítás 
+
+Ez egy nem hivatalos fordítás, amely csupán segítséget nyújt a magyar versenyzőknek a WCA Szabályzat értelmezésében. Hasznos lehet, de a fordítás hitelessége nem garantált. Az eredeti, angol nyelvű WCA Szabályzat és ezen fordítás közötti bármilyen eltérés esetén az eredeti, angol nyelvű WCA Szabályzat a mérvadó. 
+
+Amennyiben bármilyen jellegű hibát észlel a fordításban, kérem, hogy jelezze a [pergeoliver@gmail.com](mailto:pergeoliver@gmail.com) e-mail címen.
+
 ### WCA Szabályzat és Útmutató
 
 A WCA Szabályzat teljes mértékben tartalmazza a World Cube Associaton (továbbiakban WCA) által hivatalosnak nyilvánított versenyeken alkalmazott szabályokat.  
