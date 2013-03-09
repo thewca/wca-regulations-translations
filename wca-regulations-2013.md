@@ -12,7 +12,7 @@ Il Regolamento WCA è inoltre integrato dalle [Linee Guida](guidelines:top). Il 
 ### Informazioni su Internet
 Sito della World Cube Association: [www.worldcubeassociation.org](http://www.worldcubeassociation.org/)  
 Versione originale in inglese del Regolamento WCA: [www.worldcubeassociation.org/regulations](http://www.worldcubeassociation.org/regulations/)  
-Regolamento WCA in italiano in [formato PDF](wca-regulations-and-guidelines-2013.pdf)
+Regolamento WCA in italiano in [formato PDF](regolamento-e-linee-guida-wca-2013)
 
 ### Fonti
 Lo sviluppo e le varie modifiche apportate nel tempo al Regolamento WCA e alle Linee Guida sono pubblici [su GitHub](https://github.com/cubing/wca-documents).
