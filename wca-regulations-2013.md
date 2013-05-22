@@ -158,7 +158,13 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
         - 5b3c) Si el puzzle es irresoluble, y se puede hacer resoluble girando una sola esquina, el competidor puede poner la esquina bien girándola sin desmontar el puzzle.
     - 5b4) En el transcurso de los eventos "a ciegas", los desperfectos de los puzzles deben ser reparados también a ciegas (Penalización: descalificación del intento (DNF))
     - 5b5) Si algunas partes del puzzle siguen teniendo un desperfecto tras finalizar el intento, el resultado será el peor estado que se pueda obtener al volverlo a mezclar (cf. [Regla 5b3](regulations:regulation:5b3)).
-- 5c) Si un competidor tiene un desperfecto en su puzzle, no le da derecho a tener un intento extra.
+    - 5b5) Si al final del intento algunas piezas del puzzle están separadas o no están en su lugar, se aplican las siguientes reglas:
+        - 5b5a) Si una o más piezas sin colores están afectadas, el puzzle se considera resuelto.
+        - 5b5b) Si una pieza con una sola cara con color está afectada, el puzzle se considera resuelto.
+        - 5b5c) Si más de una pieza con una sola cara con color está afectada, el puzzle se considera no resuelto (DNF).
+        - 5b5d) Si una o más piezas con más de una cara con color están afectadas, el puzzle se considera no resuelto (DNF).
+        - 5b5e) Las reglas [5b5c](regulations:regulation:5b5c) y [5b5d](regulations:regulation:5b5d) prevalecen sobre la [5b5a](regulations:regulation:5b5a) y la [5b5b](regulations:regulation:5b5b).
+    - 5c) Si un competidor tiene un desperfecto en su puzzle, no le da derecho a tener un intento extra.
 
 
 ## <article-7><environment><environment> Artículo 7: Entorno

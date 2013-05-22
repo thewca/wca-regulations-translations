@@ -75,6 +75,11 @@ En pro de la claridad, cada Directriz se clasifica usando una de las siguientes 
 - 5b5+) [EJEMPLO] Ejemplo de una pieza no colocada totalmente: una pieza central de un 5x5x5 en su lugar, pero girada.
 - 5b5++) [EJEMPLO] Ejemplo de juzgar un intento que acaba con un puzzle con desperfecto: Un Pyraminx con una punta separada puede ser remontado en tres estados, uno completamente resuelto, y dos estados "+2". Un intento que termina en esa situación, tendría una penalización de "+2".
 
+- 5b5+) [EJEMPLO] Ejemplos de piezas físicamente separadas que producen un estado resuelto del puzzle: la tapa de un centro de 3x3x3, un centro de un cubo grande, o una pieza interior de un cubo grande.
+- 5b5++) [EJEMPLO] Ejemplos de piezas físicamente separadas que producen un DNF: dos tapas de centro de un 3x3x3, dos centros de un cubo grande, una arista de 3x3x3, una arista de 4x4x4, o cualquier combinación de dos piezas con dos caras de color cada una.
+- 5b5+++) [EJEMPLO] Ejemplo de piezas no colocadas del todo, que producen un estado resuelto del puzzle: un centro de 5x5x5 en su lugar aunque torcido.
+- 5b5++++) [EJEMPLO] Ejemplo de piezas no colocadas del todo, que producen un DNF: la arista de un 3x3x3 ligeramente salida (ligeramente popeada).
+
 
 ## <article-6><awards><awards> Artículo 6: Galardones/Premios/Distinciones
 
