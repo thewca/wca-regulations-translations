@@ -1,6 +1,6 @@
 # <wca-title>WCA Directrices 2013
 
-<version>Versión: 1 de enero de 2013
+<version>Versión: 21 de mayo de 2013
 
 
 ## Notas
