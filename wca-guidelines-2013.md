@@ -1,21 +1,21 @@
-# <wca-title>WCA Guidelines 2013
+# <wca-title>WCA 指導方針 2013
 
 <version>Version: May 21, 2013
 
 
-## Notes
+## 前言
 
-### WCA Regulations 
+### WCA 競賽規則 
 
-The WCA Guidelines supplement the [WCA Regulations](regulations:top). Please see the Regulations for more information about the WCA.  
+WCA 指導方針是用來補足[WCA競賽規則](regulations:top)裡的事項。請參閱競賽規則來了解更多關於WCA的詳細說明。  
 
-### Numbering
+### 編號
 
-Guidelines are numbered in correspondence with related regulations. Note that mutiple Guidelines may correspond to the same Regulation, and some Guidelines correspond to Regulations that do not exist anymore.
+指導方針的編號是對應競賽規則中的相關細節。請注意多個指導方針可以適用於同一個競賽規則，且有些指導方針對應到已經不存在的競賽規則。
 
-### Labels 
+### 標籤 
 
-To be more informative, each Guideline is classified using one of the following labels. Note that this should be treated as metadata, not as a description of importance.
+為了能提供更多訊息，每一個指導方針都會使用底下其中一種標籤。請注意該標籤只應被視為分類，而不是重要程度。
 
 - <label>[ADDITION] Additional information to supplement the Regulations.
 - <label>[CLARIFICATION] Information to address any possible questions about interpretation of the Regulations.
