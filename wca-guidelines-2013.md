@@ -150,7 +150,7 @@
 - D1c+) [提醒] 修復方塊時，身體其他部位不能碰觸方塊。
 
 
-## <article-E><fewest-moves><fewestmovessolving> 附則 D: 最少步數解
+## <article-E><fewest-moves><fewestmovessolving> 附則 E: 最少步數解
 
 - E2b+) [釐清] 參賽者可以在時間結束前交出解法來提早結束。
 
