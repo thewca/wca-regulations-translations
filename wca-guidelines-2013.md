@@ -7,7 +7,7 @@
 
 ### WCA 競賽規則 
 
-WCA 指導方針是用來補足[WCA競賽規則](regulations:top)裡的事項。請參閱競賽規則來了解更多關於WCA的詳細說明。  
+此指導方針是用來補足[WCA競賽規則](regulations:top)裡的事項。請參閱競賽規則來了解更多關於WCA的詳細說明。  
 
 ### 編號
 
@@ -17,146 +17,147 @@ WCA 指導方針是用來補足[WCA競賽規則](regulations:top)裡的事項。
 
 為了能提供更多訊息，每一個指導方針都會使用底下其中一種標籤。請注意該標籤只應被視為分類，而不是重要程度。
 
-- <label>[ADDITION] Additional information to supplement the Regulations.
-- <label>[CLARIFICATION] Information to address any possible questions about interpretation of the Regulations.
-- <label>[EXPLANATION] Information that clarifies the intent of Regulations.
-- <label>[RECOMMENDATION] Something that is not strictly mandatory, but that should be done if possible.
-- <label>[REMINDER] Information that may be addressed other Regulations/Guideline, but whose relevance is worth reiterating.
+- <label>[附加] 對應競賽規則的附加資訊。
+- <label>[釐清] 避免造成競賽規則解讀困擾的資訊。
+- <label>[解釋] 用來說明競賽規則意義的資訊。
+- <label>[建議] 非強制執行，但如果可行最好採用。
+- <label>[提醒] 用於解釋其它競賽規則／指導方針，且值得再度重申的資訊。
 
 
-## <contents> [Contents](guidelines:contents)
+## <contents> [內容](guidelines:contents)
 
 <table-of-contents>
 
 
-## <article-1><officials><officials> Article 1: Officials
+## <article-1><officials><officials> 第1章: 工作人員
 
-- 1c3+) [RECOMMENDATION] Results should be ready at the end of the last day of competition.
-- 1c3b+) [CLARIFICATION] If there are multiple groups, it is not necessary to identify which competitor was in which groups.
-- 1c4+) [RECOMMENDATION] Corrections to the results should be available within one week of the competition date.
-- 1c10+) [CLARIFICATION] It is sufficient to ensure access to a digital copy of the Regulations.
-- 1h+) [RECOMMENDATION] Competitors in the same group should use the same scramble sequences. Different groups should use different scramble sequences.
-- 1h+) [RECOMMENDATION] All final rounds of all events, as well as all Fewest Moves Solving rounds, should have the same scrambles for all competitors (i.e. only 1 group).
-- 1h1+) [CLARIFICATION] Scramblers/judges should only scramble for/judge other competitors in the same group only if it is important for competition logistics.
-
-
-## <article-2><competitors><competitors> Article 2: Competitors
-
-- 2c+) [ADDITION] First-time competitors should register using their legal name. They may register using a reasonable nickname, at the discretion of the WCA Delegate.
-- 2c++) [ADDITION] Competitors must not provide intentionally misleading information, and returning competitors should provide information consistent with past information (e.g. exact name and WCA ID).
-- 2d+) [ADDITION] Date of birth and contact information should be especially secured.
-- 2d++) [RECOMMENDATION] If a third party (e.g. journalist) asks the organisation team to be put in contact with any competitor(s), the competitor(s) should first be asked for consent.
-- 2h+) [CLARIFICATION] Competitors may be barefoot for Solving With Feet.
-- 2j2+) [EXAMPLE] For example, if a competitor is disqualified from an event for failing to show up for the final round, his results from earlier rounds remain valid.
-- 2s+) [REMINDER] Special accommodations must be noted in the Delegate Report.
+- 1c3+) [建議] 在最後一天的比賽結束時，應該要將成績準備完畢。
+- 1c3b+) [釐清] 如果有多個組別，並不需要備註某位選手是哪一組別。
+- 1c4+) [建議] 成績更正應在比賽結束後一週內提出。
+- 1c10+) [釐清] 如果有數位版的競賽規則也是可行的。
+- 1h+) [建議] 同一組別的選手，應該要使用同樣的轉亂表。不同組別應該要使用不同的轉亂表。
+- 1h+) [建議] 每個比賽項目的決賽以及每一輪的最少步數解都應該要讓所有參賽者使用相同的轉亂內容（也就是只能有一組）。
+- 1h1+) [釐清] 只有在為了使比賽能順利進行下，才能讓轉亂員或裁判，轉亂或判與自己同一組的選手。
 
 
-## <article-3><puzzles><puzzles> Article 3: Puzzles
+## <article-2><competitors><competitors> 第2章: 參賽者
 
-- 3a+) [CLARIFICATION] Competitors may use puzzles of any reasonable size, at the discretion of the WCA Delegate.
-- 3a++) [ADDITION] By default, a competitor should use the same puzzle for consecutive attempts in a speed solving round. A competitor may switch puzzles between attempts, at the discretion of the judge or WCA Delegate.
-- 3a++) [CLARIFICATION] Competitors may borrow puzzles from other competitors privately, to use in competition.
-- 3a1+) [CLARIFICATION] Competitors may be disqualified if they do not come when they are called, or if they do not have a puzzle ready to submit (e.g. if they planned to use a puzzle that another competitor is currently using, and therefore cannot submit their puzzle at the moment).
-- 3h+) [CLARIFICATION] Puzzles may be refined internally by sanding or lubricating.
-- 3h++) [EXAMPLE] Examples of enhancements include: new moves are possible, normal moves are impossible, more pieces or faces are visible, colours on the backside of the puzzle are visible, moves are done automatically, or the puzzles has more/different solved states.
-
-
-## <article-4><scrambling><scrambling> Article 4: Scrambling
-
-- 4b1+) [REMINDER] The WCA Delegate must never re-generate any scrambles to replace other ones for the purpose of filtering. For example, it is not be permitted to glance at the scrambles for a competition and generate the entire set again in order to generate "fairer" scrambles.
-- 4b2+) [CLARIFICATION] In general, all official scramble sequences should be kept secret during the competition and published together after the end of the competition (see [Regulation 1c3a](regulations:regulation:1c3a)). In some cases (e.g. world records), the organisation team may wish to release specific scrambles sooner after the end of a round.
-- 4d+) [CLARIFICATION] Some puzzles use standard colour schemes, except that black is replaced with white. In this case, black is the darkest colour and must not be treated as white.
-- 4f+) [RECOMMENDATION] The WCA Delegate should generate sufficient scrambles for the entire competition ahead of time, including spare scrambles for extra attempts.
-- 4f++) [REMINDER] If the WCA Delegate generates any additional scrambles during the competition, he must save them (see [Regulation 1c3a](regulations:regulation:1c3a)).
+- 2c+) [附加] 第一次參賽的選手應該要使用自己的正式名字。在WCA認證員的同意下，才可以使用別名。
+- 2c++) [附加] 選手不能刻意提供錯誤的個人資料，非首次參賽的選手應該要提供過去參賽的資料（例如名字以及WCA帳號）。
+- 2d+) [附加] 生日及聯絡資料應該要格外保密。
+- 2d++) [建議] 如有第三方（例如：媒體）詢問比賽組織團隊關於參賽選手的聯絡資料，應該要先取得參賽選手的同意。
+- 2h+) [釐清] 參賽選手可以光腳來參加腳解。
+- 2j2+) [舉例] 如果某選手因為在決賽缺席而被判失去比賽資格，他的前面幾輪的比賽成績仍然有效。
+- 2s+) [提醒] 特別案例一定要加入在認證員報告中。
 
 
-## <article-5><puzzle-defects><puzzledefects> Article 5: Puzzle Defects
+## <article-3><puzzles><puzzles> 第3章: 方塊
 
-- 5b5+) [EXAMPLE] Examples of pieces physically detached, resulting in a solved state: one 3x3x3 center cap, one big cube center piece, an inner piece of a big cube.
-- 5b5++) [EXAMPLE] Examples of pieces physically detached, resulting in a "DNF": two 3x3x3 center caps, two big cube center pieces, a 3x3x3 edge piece, a 4x4x4 edge piece ("wing"), any combination of two pieces that both have coloured faces.
-- 5b5+++) [EXAMPLE] Example of pieces not fully attached, resulting in a solved state: a 5x5x5 centre piece twisted in its spot.
-- 5b5++++) [EXAMPLE] Example of pieces physically attached but not fully placed, resulting in a "DNF": a 3x3x3 edge piece slightly popped out.
-
-## <article-6><awards><awards> Article 6: Awards/prizes/honours
-
-- 6a+) [SEPARATE][ADDITION] Awards, prizes or honours may be given to competitors according to the announcement of the competition.
-- 6b+) [SEPARATE][RECOMMENDATION] Competitors should attend the winner's ceremony to receive awards/prizes/honours.
-- 6b1+) [SEPARATE][RECOMMENDATION] The winner's ceremony should be held in the competition venue, within one hour after the end of the last event.
-- 6c+) [SEPARATE][RECOMMENDATION] Winners of awards, prizes or honours should be prepared to talk to journalists or any media covering the competition.
-- 6d+) [SEPARATE][RECOMMENDATION] Organisation teams of competitions should have certificates for all category winners, signed by the leader of the organisation team and by the WCA delegate.
+- 3a+) [釐清] 只要WCA認證員同意，參賽者可以使用任何合理尺寸的方塊。
+- 3a++) [附加] 原則上，參賽者應該在同一輪中使用同一顆方塊。參賽者在裁判或WCA認證員的同意下可以更換方塊。
+- 3a++) [釐清] 參賽者可以私下跟其他參賽者借用方塊來比賽。
+- 3a1+) [釐清] 如果唱名未到或是無法交出方塊時，參賽者將被取消資格。（例如：該參賽者計畫使用其他正在比賽中參賽者的方塊，而沒法在唱名時交出方塊時，將被取消資格。）
+- 3h+) [釐清] 方塊內部可以打磨或是潤滑。
+- 3h++) [舉例] 改造舉例：產生新的轉動方式、無法做一般的轉動方式、可以看見更多區域或面、可以看到背面的顏色、能夠自動轉動或是創造其他的解完狀態。
 
 
-## <article-7><environment><environment> Article 7: Environment
+## <article-4><scrambling><scrambling> 第4章: 轉亂
 
-- 7d+) [SEPARATE][ADDITION] The temperature of the competition area should be 21 to 25 degrees Celsius.
-- 7h2+) [SEPARATE][ADDITION] The competitors in the competitors area should not be able to see the puzzles of the competitors on stage.
-
-
-## <article-8><competitions><competitions> Article 8: Competitions
-
-- 8a4+) [RECOMMENDATION] Changes to increase the maximum number of competitors in qualification round or first round, or to add a qualification round for newly registered competitors should be made at least one month before the competition (see [Regulation 9r3](regulations:regulation:9r3)).
-- 8a4++) [RECOMMENDATION] The competition should be announced at least one month before the beginning of the competition.
-- 8a5+) [SEPARATE][RECOMMENDATION] The competition should have at least 12 competitors.
+- 4b1+) [提醒] WCA認證員不能以改善為由，來重新產生新的轉亂表。例如：事先看過轉亂表，然後以「公平」為由，重新產生一組新的轉亂表。
+- 4b2+) [釐清] 所有的轉亂表應該在比賽過程中保密，並在比賽結束後一併公布 (參見[規則 1c3a](regulations:regulation:1c3a))。在某些情況下（例如：破世界紀錄），比賽團隊可以在該輪結束後就公布轉亂內容。
+- 4d+) [釐清] 有些項目的方塊使用標準配色，但只有白色變成黑色。在這種情形下，黑色算是最暗的顏色，且不能視為白色。
+- 4f+) [建議] WCA認證員應該要事先準備好足夠整個比賽的轉亂表，包含備用轉亂表。
+- 4f++) [提醒] 如果WCA認證員在比賽時加入新的轉亂表時，必須將其記下來。 (參見[規則 1c3a](regulations:regulation:1c3a))。
 
 
-## <article-9><events><events> Article 9: Events
+## <article-5><puzzle-defects><puzzledefects> 第5章: 方塊故障
 
-- 9b+) [ADDITION] The preferred format for the final of an event is "Average of 5" or "Mean of 3", if possible.
-- 9b++) [ADDITION] Events other than those specified in [Regulation 9b](regulations:regulation:9b) may be held during a competition, but will be considered unofficial and therefore will not be included in the official results of the competition.
-- 9f5+) [CLARIFICATION] The result for an attempt is DNS if the competitor was eligible for the attempt and did not attempt it. If the competitor did not qualify for an attempt (e.g. in a combined round), he does not have any result for the attempt.
-- 9q+) [SEPARATE][RECOMMENDATION] Events and rounds should have at least 2 competitors.
-- 9r+) [EXPLANATION] The goal of a qualification round is to let unranked or low ranked competitors qualify for the first round of an event with many registered competitors.
+- 5b5+) [舉例] 方塊零件飛出，依然判為還原的例子：3x3x3一片中心蓋飛出、高階方塊一片中心蓋或中心塊(泛指非角塊、非邊塊)飛出。
+- 5b5++) [舉例] 方塊零件飛出，依然判為「DNF」的例子：3x3x3兩片以上中心蓋飛出、高階方塊兩片中心蓋或中心塊飛出、3x3x3一片邊塊飛出、4x4x4一片邊塊飛出，任何只要兩個顏色以上的小塊飛出。
+- 5b5+++) [舉例] 方塊零件旋轉，依然判為還原的例子：5x5x5方塊的中心塊(泛指非角塊、非邊塊)旋轉。
+- 5b5++++) [舉例] 方塊零件未完全飛出，依然判為「DNF」的例子：3x3x3一個邊塊輕微彈出。
 
+## <article-6><awards><awards> 第6章: 獎品、獎金、獎狀
 
-## <article-0><solved-state><solvedstate> Article 10: Solved State
-
-- 10f+) [EXPLANATION] The misalignment limits are selected so that they provide a natural cutoff between one state of a puzzle (without penalty) and a state one move away.
-
-
-## <article-1><incidents><incidents> Article 11: Incidents
-
-- 11e+) [CLARIFICATION] Since an appeal is not guaranteed to be successful, the competitor may choose to keep the timer running while appealing it, and resume the attempt when appropriate.
-- 11e1+) [REMINDER] The extra attempt must be scrambled using an unmodified scramble sequence generated by an official scrambler (see [Regulation 4f](regulations:regulation:4f), [Guideline 4f+](guidelines:guideline:4f+)).
+- 6a+) [SEPARATE][附加] 獎品、獎金或獎狀可以依照比賽的大會宣布頒給選手。
+- 6b+) [SEPARATE][建議] 選手應該要參加頒獎儀式來領取獎品、獎金、獎狀。
+- 6b1+) [SEPARATE][建議] 頒獎儀式應該要在比賽會場舉行，且在最後一個比賽項目結束的一個小時內舉行。
+- 6c+) [SEPARATE][建議] 得獎者應該做好準備讓媒體採訪。
+- 6d+) [SEPARATE][建議] 比賽的主辦單位至少要準備獎狀給所有項目的第一名，且獎狀上要有主辦單位的負責人和 WCA 認證員的簽名。
 
 
-## <article-A><speedsolving><speedsolving> Article A: Speed Solving
+## <article-7><environment><environment> 第7章: 比賽場地
 
-- A1a2+) [ADDITION] In case of a cumulative time limit, the judge records the original recorded time for a DNF on the score sheet in parentheses, e.g. "DNF (1:02.27)".
-- A1a3+) [REMINDER] The organisation team and the WCA Delegate must be mindful that time limits influence the strategies of the competitors (e.g. rushing the first two attempts in hopes of meeting a cutoff in a combined round), and that changing time limits after the beginning of the round can disadvantage some competitors unfairly.
-- A1a4+) [REMINDER] If a competitor has accidentally been permitted to exceed the time limit, the time limit must be enforced retroactively, and the judge, competitor, and WCA Delegate should be informed (see [Regulation 1g2](regulations:regulation:1g2)). Judges must always be aware of the time limit for a current attempt (which might depend on previous attempts, in the case of a cumulative time limit).
-- A2c1+) [CLARIFICATION] In the past, score cards have been used to cover puzzles while leaving some sides exposed. This is no longer permitted.
-- A3c3+) [CLARIFICATION] Although the judge is required to reset the timer for the competitor (see [Regulation A3b](regulations:regulation:A3b)), the competitor may reset it before/during the inspection phase if the judge accidentally neglected to do so.
-- A6b+) [EXPLANATION] The arbitrary value of 0.06 seconds was chosen to accommodate concerns about Stackmat timer malfunctions.
-- A6g+) [ADDITION] While he is determining whether to assign a penalty for misalignment, the judge should not touch the puzzle.
+- 7d+) [SEPARATE][附加] 比賽場地的溫度最好是攝氏21~25度。
+- 7h2+) [SEPARATE][附加] 比賽預備區的參賽者應該不能看到在比賽舞台上參賽者的方塊。
 
 
-## <article-B><blindfolded><blindfoldedsolving> Article B: Blindfolded Solving
+## <article-8><competitions><competitions> 第8章: 賽事
 
-- B1+) [REMINDER] The competitor must use a puzzle without textures, markings, or other features that distinguish similar pieces (see [Regulation 3k](regulations:regulation:3k)). This should be given special attention for Blindfolded Solving
-- B1b+) [RECOMMENDATION] Blindfolds should be checked by the WCA Delegate before use in the competition.
-
-
-## <article-C><one-handed><onehandedsolving> Article C: One-Handed Solving
-
-- C1b+) [CLARIFICATION] The competitor may use both hands during inspection.
-- C1b++) [CLARIFICATION] The competitor is not required to use the same solving hand for different attempts of the same round.
-- C1b2+) [REMINDER] Use of the surface is permitted while repairing the puzzle.
+- 8a4+) [建議] 增加資格賽人數、增加第一輪比賽的人數或增加資格賽，這些改變至少要在比賽前一個月宣布。 (參見[規則 9r3](regulations:regulation:9r3)).
+- 8a4++) [建議] 比賽必須要在比賽日期的前至少一個月宣布。
+- 8a5+) [SEPARATE][建議] 一場比賽至少要有12位參賽者。
 
 
-## <article-D><feet><solvingwithfeet> Article D: Solving With Feet
+## <article-9><events><events> 第9章: 比賽項目
 
-- D1b+) [CLARIFICATION] The competitor may wear socks while solving.
-- D1c+) [REMINDER] While repairing puzzle defects, other body parts must not touch the puzzle.
-
-
-## <article-E><fewest-moves><fewestmovessolving> Article E: Fewest Moves Solving
-
-- E2b+) [CLARIFICATION] A competitor may choose to stop his attempt early by handing in a solution before the time limit.
+- 9b+) [附加] 決賽建議的是以「五次去頭尾平均(Average of 5)」或是「三次平均(Mean of 3)」來進行。
+- 9b++) [附加] 非[規則 9b](regulations:regulation:9b)中認可的比賽項目，可以在比賽中舉行，但會被視為非官方比賽項目，所以不會列入官方比賽的成績中。
+- 9f5+) [釐清] 如果參賽者有辦法比賽但卻沒有參加，成績會紀為DNS。如果參賽者並沒有取得競賽資格（例如combined制的比賽）他並不會留下任何比賽成績。（翻譯註解：連DNS都不會注記）
+- 9q+) [SEPARATE][建議] 每一個比賽項目及每一輪應該至少要有2名參賽者。
+- 9r+) [解釋] 資格賽的目的是在有大量參賽者的情況下讓沒有排名或是低排名的參賽者能夠進入第一輪。
 
 
-## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Article H: Multiple Blindfolded Solving
+## <article-0><solved-state><solvedstate> 第10章: 方塊完成狀態
 
-- H1b1+) [REMINDER] The attempt is not disqualified for reaching the time limit, due to exceptions for Multiple Blindfolded Solving (see [Regulation A1a4](regulations:regulation:A1a4) and [Regulation A1a5](regulations:regulation:A1a5)).
-- H1b1++) [ADDITION] The judge may permit the competitor to continue the attempt unofficially, but the attempt must be stopped and judged first, in full accordance with the Regulations.
-- H1d+) [EXAMPLE] Example: If a competitor attempts 10 cubes, stops with a time of 59:57, and has two time penalties, the time for the result is 59:57 + 2*2 = 60:01 (also see [Regulation A1a5](regulations:regulation:A1a5)).
-- H1d++) [EXAMPLE] Example: If a competitor attempts 10 cubes, and the judge stops him at one 60 minutes, and has two time penalties, the time for the result is 60:00 + 2*2 = 60:04.
+- 10f+) [解釋] 方塊是否完成，是以完成狀態和差一步狀態的中央截止線來認定。(翻譯註解：立方體方塊差45度內都算完成，12面體差36度內算完成，4面體差60度內算完成。有爭議時，由WCA認證員裁決。)
+
+
+## <article-1><incidents><incidents> 第11章: 意外事件
+
+- 11e+) [釐清] 因為抗議並不一定有效，參賽者可以選擇在抗議時讓計時器繼續跑動，並在合適時再繼續。
+- 11e1+) [提醒] 多一次的機會必須要有新轉亂表，且必須要是官方亂數產生器產生，且無修改的轉亂表。(參見[規則 4f](regulations:regulation:4f), [指導方針 4f+](guidelines:guideline:4f+))
+
+
+## <article-A><speedsolving><speedsolving> 附則 A: 速解
+
+- A1a2+) [附加] 如果時間限制是累計制的，裁判應記下DNF並用括號備註原始時間，例如：DNF (1:02.27)。
+- A1a3+) [提醒] 主辦單位和WCA認證員一定要留意，在該輪比賽開始後更動時間限制會影響參賽者的比賽策略並造成對某些參賽者不公平。（例如：前兩次以最快速度解方塊以求達到combined制的時間限制）
+- A1a4+) [提醒] 如果參賽者意外地被允許超過時間限制，時間限制仍必須要回復執行，且裁判、選手和WCA認證員應該要被告知。(參見[規則 1g2](regulations:regulation:1g2))裁判一定要一直注意該次的時間限制。（有可能會因前次嘗試而有所變動，例如時間累計制）
+- A2c1+) [釐清] 在過去，記錄紙被用來覆蓋方塊且會讓某些面外露。現在不允許這樣作。
+- A3c3+) [釐清] 雖然裁判被要求替參賽者將計時器歸零 (參見[規則 A3b](regulations:regulation:A3b))，但如果裁判忘了，參賽者可以在觀察前或觀察中自行將計時器歸零。
+·         A6b+) 解釋 任意地選擇了0.06秒是為了容納Stackmat計時器的故障。
+- A6b+) [解釋] 選擇了0.06秒是為了容納Stackmat計時器的故障。
+- A6g+) [附加] 當裁判在判斷是否因為對齊而有所處罰前，他不應該碰觸方塊。
+
+
+## <article-B><blindfolded><blindfoldedsolving> 附則 B: 盲解
+
+- B1+) [提醒] 參賽者不能使用有顆粒、記號或是其他可區分小方塊的特徵。(參見[規則 3k](regulations:regulation:3k))盲解項目時應該要特別留意此事。
+- B1b+) [建議] 眼罩應該要在使用前由WCA認證員檢查過。
+
+
+## <article-C><one-handed><onehandedsolving> 附則 C: 單手解
+
+- C1b+) [釐清] 觀察時，參賽者可以使用雙手。
+- C1b++) [釐清] 在同一輪的不同解中，參賽者並不一定要用同一隻手。
+- C1b2+) [提醒] 修復方塊時，可使用桌面輔助。
+
+
+## <article-D><feet><solvingwithfeet> 附則 D: 腳解
+
+- D1b+) [釐清] 腳解時，參賽者可以穿襪子。
+- D1c+) [提醒] 修復方塊時，身體其他部位不能碰觸方塊。
+
+
+## <article-E><fewest-moves><fewestmovessolving> 附則 D: 最少步數解
+
+- E2b+) [釐清] 參賽者可以在時間結束前交出解法來提早結束。
+
+
+## <article-H><multiple-blindfolded><multipleblindfoldedsolving> 附則 H: 多顆盲解
+
+- H1b1+) [提醒] 多顆盲解在時間結束時，並不會被判DNF。(參見[規則 A1a4](regulations:regulation:A1a4) 與 [規則 A1a5](regulations:regulation:A1a5))
+- H1b1++) [附加] 裁判可以讓參賽者在時間結束後，繼續非正式的嘗試，但前提是必須要被先停下，並按照競賽規則判決。
+- H1d+) [舉例] 如果某參賽者嘗試10顆方塊，時間停止時是59:57且有兩個兩秒處罰，成績的時間為59:57 + 2*2 = 60:01。(參見[規則 A1a5](regulations:regulation:A1a5))
+- H1d++) [舉例] 如果某參賽者嘗試10顆方塊，裁判在60分時把他停下，且他有兩次兩秒處罰，成績的時間為60:00 + 2*2 = 60:04。
