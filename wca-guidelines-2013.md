@@ -1,6 +1,6 @@
 # <wca-title>WCA Útmutató 2013
 
-<version>Verzió: 2013. január 1.
+<version>Verzió: 2013. május 21.
 
 
 ## Megjegyzések
@@ -70,8 +70,10 @@ A hatékonyabb megértés segítségéül minden útmutatás a következő címk
 
 ## <article-5><puzzle-defects><puzzledefects> 5. Cikk: Játékok meghibásodása
 
-- 5b5+) [PÉLDA] Példa arra az esetre, amikor egy elem nincs teljesen a helyén: amikor az 5x5x5-ös kocka egyik középső eleme helyben el van fordulva.
-- 5b5++) [PÉLDA] Példa arra az esetre, amikor egy kirakás nem meg megfelelő állapotban lévő játékkal zárul: Egy Pyraminx, aminek a csúcsa nincs a helyén. Az elemet 3 állásban lehetne visszahelyezni a játékra. Ebből 2 esetben +2 másodperc időbüntetés járna, illetve 1 esetben helyesen kerülne vissza. Mivel a legrosszabb esetet kell nézni, így ennek az esetnek a büntetése +2 másodperc.
+- 5b5+) [PÉLDA] Példa arra az esetre, amikor a játék elemei fizikailag külön állnak, de a játék kirakottnak tekintendő: Rubik kocka egy középsapkája, nagykockák egy középső eleme, nagykockák belső elemei.
+- 5b5++) [PÉLDA] Példa arra az esetre, amikor fizikailag külön állnak a játékok elemei, és nem tekintendők kirakottnak (DNF): Rubik kocka több középsapkája, nagykockák több középső eleme, Rubik kocka sarokeleme, 4x4x4-es kocka sarokeleme/éle, illetve két elem bármilyen kombinációja, amikor mindkét elem rendelkezik legalább egy színezett oldallal.
+- 5b5+++) [PÉLDA] Példa, arra az esetre, amikor az elemek nem érintkeznek teljes mértékben egymással és kirakottnak tekintendők: 5x5x5-ös kocka középső eleme helyben elfordulva.
+- 5b5a++++) [PÉLDA] Példa, arra az esetre, amikor az elemek nem érintkeznek teljes mértékben egymással és a játék nem tekintendő kirakottnak (DNF): Rubik kocka él-eleme némileg elpoppolva.
 
 
 ## <article-6><awards><awards> 6. Cikk: Díjak/nyeremények/jutalmak
@@ -159,3 +161,4 @@ A hatékonyabb megértés segítségéül minden útmutatás a következő címk
 - H1d+) [PÉLDA] Ha a versenyző 10 kockát rak ki, és 60:00-nál a bíró leállítja a kirakást, valamint 2 időbüntetést kap, az eredménye: 60:00+2*2=60:04.
 
 
+  

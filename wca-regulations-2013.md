@@ -1,6 +1,6 @@
 # <wca-title>WCA Szabályzat 2013
 
-<version>Verzió: 2013. január 1.
+<version>Verzió: 2013. május 21.
 
 
 ## Megjegyzések
@@ -162,7 +162,12 @@ Megjegyzés: A Szabályzat változtatásával a Cikkek és a Szabályzat számoz
         - 5b3b) Ha a javítás után, de még a kirakás befejezése előtt a versenyző észreveszi, hogy kirakhatatlan a játék, akkor szétszedheti, és maximum 4 elem kiszedévésel kirakható állapotba hozhatja.
         - 5b3c) Ha a játék kirakhatatlan, és egy sarokelem helyben történő elforgatásával kirakhatóvá tehető, akkor a versenyző megteheti, hogy helyben elforgatja hibás sarokelemet.
     - 5b4) Vakon kirakásnál a játékok hibáit csak a kirakás alatt és vakon lehet kijavítani. Büntetés: érvénytelen kirakás. (DNF)
-    - 5b5) Ha a kirakást követően a játék egyes darabjai még mindig hibásak, vagy nincsenek teljesen a helyükön, a játék javításával kapható legrosszabb eredmény kerül rögzítésre (lásd: [Szabályzat 5b3](regulations:regulation:5b3)).
+    - 5b5) Ha a kirakást követően a játék egyes darabjai még mindig hibásak, vagy nincsenek teljesen a helyükön, akkor a következő szabályok alkalmazandóak:
+        - 5b5a) Ha egy vagy több matricával/csempével vagy egyéb színezéssel nem rendelkező elem nincs a helyén, akkor a játék kirakottnak tekintendő.
+        - 5b5b) Ha egy matricával/csempével vagy egyéb színezéssel rendelkező elem nincs a helyén, akkor a játék kirakottnak tekintendő.
+        - 5b5c) Ha több, mint egy elem nincs a helyén, melyen egy matrica/csempe vagy egyéb színezés található, akkor a kirakás érvénytelen. (DNF)
+        - 5b5d) Ha több, mint egy elem nincs a helyén, melyen több matrica/csempe vagy egyéb színezés található, akkor a kirakás érvénytelen. (DNF)
+        - 5b5e) A Szabályzat 5b5c) és 5b5d) pontja felülbírálja az 5b5a) 5b5b) pontokat.
 - 5c) Ha a versenyzőnek meghibásodik a játéka, az nem jogosítja fel egy új kirakásra.
 
 
@@ -209,8 +214,8 @@ Megjegyzés: A Szabályzat változtatásával a Cikkek és a Szabályzat számoz
     - 9b3) Rubik kocka legkevesebb mozdulattal való kirakása, Rubik kocka vakon kirakása, 4x4x4-es kocka vakon kirakása, 5x5x5-ös kocka vakon kirakása, Több kocka vakon kirakása.
         - 9b3a) Versenyen használható formátumok ezeknél a versenyszámoknál: „Legjobb eredmény x-ből” (ahol x 1, 2 vagy 3).
 - 9f) A fordulók eredményeit az alábbiak szerint mérjük:
-    - 9f1) Minden 10 perc alatti eredményt századmásodpercre pontosan mérünk, illetve arra kerekítjük. Minden 10 perc alatti átlagot, századmásodpercre pontosan mérünk, illetve arra kerekítjük.
-    - 9f2) Minden 10 perc feletti eredményt és átlagot másodpercre pontosan mérünk, illetve arra kerekítjük (pl. x.4-ből x , x.5-ből x+1 lesz).
+    - 9f1) Minden 10 perc alatti eredményt századmásodpercre pontosan mérjük, illetve századmásodpercre kerekítjük le. Minden 10 perc alatti átlagot, századmásodpercre pontosan mérjük, illetve arra kerekítjük.
+    - 9f2) Minden 10 perc feletti eredményt és átlagot másodpercre pontosan mérjük, illetve arra kerekítjük (pl. x.4-ből x , x.5-ből x+1 lesz).
     - 9f4) Egy kirakás eredménye „DNF” (Did Not Finish = Nem befejezett) ha a kirakás nem érvényes vagy nem kirakott/befejezetlen.
     - 9f5) Egy kirakás eredménye „DNS” (Did Not Start = Nem megkezdett) ha a versenyző jogosult a kirakásra, de tesz neki eleget.
     - 9f6) A „Legjobb eredmény x-ből” formátumú fordulókban minden versenyzőnek x kirakásra van lehetősége. Ezen eredmények közül a legjobb alapján alakul a versenyzők közötti sorrend.
