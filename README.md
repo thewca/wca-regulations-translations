@@ -1,3 +1,3 @@
-# WCA Documents
+# Documentos da WCA
 
-Documents for the [World Cube Association](http://www.worldcubeassociation.org/).
+Documentos relativos à [World Cube Association](http://www.worldcubeassociation.org/).
