@@ -20,7 +20,7 @@ O uso das palavras "requer", "deve", "não deve", "recomendado", "não recomenda
 ### Informação na Internet
 Sítio web da World Cube Association: [www.worldcubeassociation.org](http://www.worldcubeassociation.org/)
 Fonte original do Regulamento da WCA: [www.worldcubeassociation.org/regulations](http://www.worldcubeassociation.org/regulations/)
-Regulamento da WCA em [Formato PDF]()
+Regulamento da WCA em [Formato PDF](wca-regulamentos-e-orientacoes-2013.pdf)
 
 ### Código Fonte
 O desenvolvimento do Regulamento e Orientações da WCA é público no [GitHub](https://github.com/cubing/wca-documents).
