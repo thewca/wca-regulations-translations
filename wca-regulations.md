@@ -1,68 +1,74 @@
-# <wca-title>WCA Regulations
+# <wca-title>Règlement WCA
 
-<version>Version: January 1, 2014
+<version>Version: 1<sup>er</sup> Janvier 2014
 
 
 ## Notes
 
-### WCA Regulations and Guidelines
+### Traduction
+La traduction de ce document a été réalisée par [Philippe Virouleau](mailto:philippe.44@gmail.com), et s'appuie sur les précédents travaux de Guillaume Erbibou, Pierre Calendini, et Gilles Roux.
+Des efforts sont fait pour que cette traduction soit constamment à jour, elle n'a rien d'officielle et est fournie à titre informatif : seule la version anglaise fait foi en cas de différence.
 
-The WCA Regulations contains the full set of Regulations that apply to all official competitions sanctioned by the World Cube Association.    
-The WCA Regulations are also supplemented by the [WCA Guidelines](guidelines:top). The Regulations should be considered a complete document, but the Guidelines contain additional clarifications and explanations.
+### Règlement et Recommandations WCA
 
-### Wording
-To make the Regulations and Guidelines easier to read we use "he" where the reader should read "she or he".    
-Uses of the words "must", "must not", "should", "should not" and "may" match [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt).
+Le Règlement WCA contient l'ensemble des règles qui s'appliquent lors de toutes les compétitions officielles reconnues par la World Cube Association.
+Le Règlement WCA est également complémenté par les [Recommandations WCA](guidelines:top). Le Règlement devrait être considéré comme un document complet, mais les Recommandations contiennent des informations et explications additionnelles.
 
-### Information on the Internet
-Website of World Cube Association: [www.worldcubeassociation.org](http://www.worldcubeassociation.org/)    
-Original source of the WCA regulations: [www.worldcubeassociation.org/regulations](http://www.worldcubeassociation.org/regulations/)    
-WCA Regulations in [PDF format](wca-regulations-and-guidelines.pdf)
+### Formulation
+L'utilisation du genre masculin a été adoptée afin de faciliter la lecture. Elle n'a aucune intention discriminatoire.
+L'utilisation des mots "doit", "ne doit pas", "devrait", "ne devrait pas", et "peut" correspondent respectivement aux mots "must", "must not", "should", "should not", et "may" tels que définis dans le [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt).
 
-### Source
-Development of the WCA Regulations and Guidelines is public [on GitHub](https://github.com/cubing/wca-documents).
+### Informations sur internet
+Site internet de la World Cube Association : [www.worldcubeassociation.org](http://www.worldcubeassociation.org/)
+Documents originaux du Règlement WCA : [www.worldcubeassociation.org/regulations](http://www.worldcubeassociation.org/regulations/)
+Règlement WCA au [format PDF](wca-regulations-and-guidelines.pdf)
+
+### Sources
+Le développement du Règlement et des Recommandations est public [sur GitHub](https://github.com/cubing/wca-documents).
+La traduction française est maintenue dans la branche "translation-french", et la version la plus à jour est située dans [ce dépot](https://github.com/viroulep/wca-documents)
 
 ### Contact
-For questions and feedback, please contact the [WCA Regulations Committee (WRC)](http://www.worldcubeassociation.org/contact-information).
+Pour les questions et retours, merci de contacter le [WCA Regulations Committee (WRC)](http://www.worldcubeassociation.org/contact-information).
+Pour les questions et retours sur la traduction, merci de contacter [Philippe Virouleau](mailto:philippe.44@gmail.com).
 
 
-## <contents> [Contents](regulations:contents)
+## <contents> [Contenu](regulations:contents)
 
-Note: Because Article and Regulation numbers are not reassigned when Regulations are deleted, there may be gaps in numbering.
+Note : les numéros des articles et des règles ne sont pas réassignés lors d'une suppression de règles, il peut donc y avoir des sauts dans la numérotation.
 
 <table-of-contents>
 
 
-## <article-1><officials><officials> Article 1: Officials
+## <article-1><officials><officials> Article 1 : Officiels
 
-- 1a) A competition must include a WCA Delegate and an organisation team (consisting of one or more individuals) with the following officials: judges, scramblers and score takers.
-- 1b) The organisation team of a competition is responsible for logistics before, during, and after the competition.
-- 1c) The WCA Delegate may delegate responsibilities to other members of the organisation team, but is ultimately accountable for how these responsibilities are carried out. The WCA Delegate for a competition is responsible for:
-    - 1c1) Reporting to the WCA Board regarding adherence to WCA Regulations during the competition, the overall course of the competition, and any incidents. The report must be submitted to the WCA Board within one week of the end of the competition.
-    - 1c3) Sending the competition results to the WCA Results Team.
-        - 1c3a) All scramble sequences used during a competition must be sent with the results of the competition.
-        - 1c3b) Scramble sequences must be labelled with the events, rounds, and groups for which they were used.
-    - 1c4) Sending corrections to the competition results to the WCA Board.
-    - 1c5) Advising the other officials where necessary.
-    - 1c6) Approving all events and round formats of a competition, before the competition starts, and if changes are required during the competition.
-    - 1c7) Decisions about disqualifying competitors during the competition.
-    - 1c8) Providing the scramble sequences.
-    - 1c9) Decisions about changes to the scheduled times of rounds. In cases of such changes, a clear announcement must be made to all competitors.
-    - 1c10) Making a copy of the WCA Regulations available at the competition.
-- 1e) Each event must have one or more judges.
-    - 1e1) A judge is responsible for executing the procedures of the event.
-        - 1e1a) A judge may judge multiple competitors simultaneously at the discretion of the Delegate, as long as the judge is able to ensure that all WCA Regulations are followed at all times.
-    - 1e2) Every competitor must be available for judging. If he is required to judge, a competitor may be excused only for a legitimate reason (e.g. being unfamiliar with a puzzle), at the discretion of the Delegate. Penalty: disqualification from the competition (see [Regulation 2k](regulations:regulation:2k)).
-- 1f) Each event must have one or more scramblers. Exception: Fewest Moves Solving.
-    - 1f1) A scrambler applies scramble sequences to prepare puzzles for attempts.
-    - 1f2) Every competitor must be available for scrambling. If he is required to scramble, a competitor may be excused only for a legitimate reason (e.g. being unfamiliar with scrambling notation), at the discretion of the Delegate. Penalty: disqualification from the competition (see [Regulation 2k](regulations:regulation:2k)).
-- 1g) Each event must have one or more score takers.
-    - 1g1) A score taker is responsible for compiling results.
-    - 1g2) Any change to the result on a score sheet must be made at the discretion of the WCA Delegate.
-- 1h) Competitors in the same round of an event may be divided into groups.
-    - 1h1) Scramblers and judges for a round should not scramble for/judge competitors in their own group before they have finished all of their attempts for the round. They may scramble for/judge competitors in their own group at the discretion of the WCA Delegate, but the organisation team must ensure that scramblers and judges cannot see any scrambles for their attempts that they have not attempted yet.
-- 1j) All officials may compete in the competition.
-- 1k) Officials may serve multiple roles (e.g. organisation team, WCA Delegate, judge, score taker, scrambler).
+- 1a) Une compétition doit comprendre un Délégué WCA et une équipe organisatrice (composée d'une ou plusieurs personnes) avec les officiels suivant : des juges, des mélangeurs, et des teneurs de score.
+- 1b) L'équipe organisatrice d'une compétition est responsable de l'organisation avant, pendant, et après la compétition.
+- 1c) Le Délégué WCA peut déléguer ses responsabilités aux autres membres de l'équipe organisatrice, mais est responsable de la manière dont celles ci sont assurées. Le Délégué WCA d'une compétition est en charge de :
+    - 1c1) Rendre compte au Bureau de la WCA du respect du Règlement au cours de la compétition, du déroulement général de la compétition, et des incidents survenus. Le compte-rendu doit être soumis au Bureau de la WCA avant la fin de la semaine suivant la fin de la compétition.
+    - 1c3) Envoyer les résultats de la compétition à l'équipe des résultats de la WCA.
+        - 1c3a) Toutes les séquences de mélange utilisées lors d'une compétition doivent être envoyées avec les résultats de cette compétition.
+        - 1c3b) Les séquences de mélanges doivent être annotées avec les épreuves, les tours, et les groupes pour lesquels elles ont été utilisées.
+    - 1c4) Envoyer des corrections aux résultats de la compétition au Bureau de la WCA.
+    - 1c5) Conseiller les autres officiels lorsque c'est nécessaire.
+    - 1c6) Approuver toutes les épreuves et tous les formats d'épreuves d'une compétition, avant que la compétition de débute, et au cours de celle-ci quand il est nécessaire de procéder à des changements.
+    - 1c7) Décider de la disqualification d'un compétiteur de la compétition.
+    - 1c8) Fournir les mélanges.
+    - 1c9) Prendre les décisions concernant les changements dans le planning des épreuves. Dans de tels cas, une annonce doit être faite à tous les compétiteurs.
+    - 1c10) Rendre disponible une copie du Règlement WCA pendant la compétition.
+- 1e) Chaque épreuve doit avoir un ou plusieurs juges.
+    - 1e1) Un d'une épreuve est en charge de l'exécution des procédures relatives à l'épreuve.
+        - 1e1a) Un juge peut juger plusieurs compétiteurs simultanément, à la discrétion du Délégué, tant que le juge est capable de s'assurer que tout le Règlement WCA est respecté à tout moment.
+    - 1e2) Chaque compétiteur doit être disponible pour juger. Si l'équipe organisatrice exprime le besoin d'un compétiteur pour juger, celui-ci ne peut être exempté que pour une raison légitime (par exemple : ne pas être à l'aise avec un casse-tête), à la discrétion du Délégué. Pénalité : Disqualification de la compétition (voir : [Règle 2k](regulations:regulation:2k)).
+- 1f) Chaque épreuve doit avoir un ou plusieurs mélangeurs. Exception : Résolution optimisée.
+    - 1f1) Un mélangeur applique des séquence de mélanges afin de préparer des casse-tête pour des essais.
+    - 1f2) Chaque compétiteur doit être disponible pour mélanger. Si l'équipe organisatrice exprime le besoin d'un compétiteur pour mélanger, celui-ci ne peut être exempté que pour une raison légitime (par exemple : ne pas être à l'aise avec la notation de mélange), à la discrétion du Délégué. Pénalité : disqualification de la compétition (voir : [Règle 2k](regulations:regulation:2k)).
+- 1g) Chaque épreuve doit avoir un ou plusieurs teneurs de scores.
+    - 1g1) Un teneur de score est en charge de l'enregistrement des résultats.
+    - 1g2) Un changement d'un résultat sur une feuille de score doit être fait à la discrétion du Délégué WCA.
+- 1h) Les compétiteurs d'un même tour d'une épreuve peuvent être répartis en groupes.
+    - 1h1) Les juges et les mélangeurs d'un tour donné ne devraient pas juger ou mélanger au sein de leur groupe avant d'avoir terminé tous leurs essais pour le tour. Ils peuvent juger ou mélanger au sein de leur groupe à la discrétion du Délégué WCA, mais l'équipe organisatrice doit s'assurer que les juges et les mélangeurs ne puissent pas voir les mélanges pour les essais qu'ils n'ont pas encore effectués.
+- 1j) Tous les officiels peuvent participer à la compétition.
+- 1k) Les officiels peuvent cumuler plusieurs rôles (par exemple : membre de l'équipe organisatrice, Délégué WCA, juge, teneur de score, mélangeur).
 
 
 ## <article-2><competitors><competitors> Article 2: Competitors
