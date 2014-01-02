@@ -490,15 +490,15 @@ Note : les numéros des articles et des règles ne sont pas réassignés lors d'
 - F3) À la fin de la période d'inspection, le compétiteur place le compétiteur sur la surface en position verticale. Il ne doit pas changer la position des boutons avant le début de la résolution. Pénalité : disqualification de l'essai (DNF).
 
 
-## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Article H: Multiple Blindfolded Solving
+## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Article H : Résolution multiple à l'aveugle
 
-- H1) Standard blindfolded solving procedures are followed, as described in [Article B](regulations:article:B) (Blindfolded Solving). Additional regulations that supersede the corresponding procedures in [Article B](regulations:article:B) are described below.
-    - H1a) Before an attempt, the competitor must submit to the organisation team the number of puzzles (at least 2) he wishes to attempt.
-        - H1a1) A competitor is not permitted to change the number of puzzles after submitting his number to the organisation team.
-        - H1a2) A competitor may request to keep his submission private until all competitors have submitted their numbers. Once all competitors have reported their numbers, the information becomes public (e.g. a competitor may ask for the numbers of any other competitors before starting his attempt).
-    - H1b) If he is attempting fewer than 6 puzzles, the competitor is allotted a time limit of 10 minutes times the number of puzzles in the attempt, else the time limit is 60 minutes.
-        - H1b1) The competitor may signal the end of the attempt at any time. If and when the time limit is reached, the judge stops the attempt and the attempt is then scored; the time limit for the attempt counts as the original recorded time.
-    - H1d) Time penalties for the puzzles of the attempt are cumulative.
+- H1) Les procédures standards pour la résolution à l'aveugle d'appliquent comme décrites dans l'[Article B](regulations:article:B) (Résolution à l'aveugle). Les règles supplémentaires qui remplacent les procédures correspondantes dans l'[Article B](regulations:article:B) sont décrites ci-après.
+    - H1a) Avant un essai, le compétiteur doit donner à l'équipe organisatrice le nombre de casse-tête (au moins 2) il désire résoudre.
+        - H1a1) Le compétiteur ne peut modifier le nombre de casse-tête à résoudre après l'avoir donné à l'équipe organisatrice.
+        - H1a2) Un compétiteur peut demander que son nombre de casse-tête soit tenu secret jusqu'à ce que tous les compétiteurs ait donné le leur. Quand tous les compétiteurs ont donné leur nombre de casse-tête, cette information devient publique (un compétiteur peut par exemple demander, avant de démarrer son essai, combien de casse-tête va tenter un autre compétiteur).
+    - H1b) Si un compétiteur tente moins de 6 casse-tête il dispose d'un temps de 10 minutes par casse-tête, sinon le temps maximum de l'essai est 60 minutes.
+        - H1b1) Le compétiteur peut signaler la fin de l'essai à tout moment. Si et quand la limite de temps maximum est atteinte, le juge arrête l'essai et inscrit le résultat. La limite de temps maximum pour l'essai représente le temps par défaut enregistré pour l'essai.
+    - H1d) Les pénalités de temps pour chaque casse-tête de l'essai sont cumulatives.
 
 
 ## <article-Z><optional><optional> Article Z : Points de règlement optionnels
