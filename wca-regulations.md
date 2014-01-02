@@ -71,45 +71,45 @@ Note : les numéros des articles et des règles ne sont pas réassignés lors d'
 - 1k) Les officiels peuvent cumuler plusieurs rôles (par exemple : membre de l'équipe organisatrice, Délégué WCA, juge, teneur de score, mélangeur).
 
 
-## <article-2><competitors><competitors> Article 2: Competitors
+## <article-2><competitors><competitors> Article 2 : Compétiteurs
 
-- 2a) Any person may compete in a WCA competition if he:
-    - 2a1) Complies with WCA Regulations.
-    - 2a2) Meets the competition requirements, which must be clearly announced before the competition.
-    - 2a3) Is not suspended by WCA Board.
-- 2b) Competitors below the age of 18 must obtain consent from their parent(s)/guardian(s) to register and compete.
-- 2c) Competitors register by providing all information required by the organisation team (including: name, country, date of birth, gender, contact information, selected events).
-    - 2c1) A competitor is not eligible to compete without a completed registration, as determined by the organisation team.
-- 2d) A competitor's name, country, gender, and competition results are considered public information. All other personal information is considered confidential, and must not be disclosed to outside organisations/persons without the consent of the competitor.
-- 2e) Competitors must represent a country of which they hold citizenship. The WCA Delegate should verify citizenship standing by means of documents (e.g. a passport). If a competitor is found ineligible to represent the country under which they have registered, the competitor may be disqualified retroactively and/or suspended, at the discretion of the WCA Board.
-    - 2e1) The eligible countries are defined by the Wikipedia article "List of sovereign states" ("UN member states and observer states" and "Other states").
-    - 2e2) Competitors with updates to their citizenship status may change their country of representation in their first competition of a calendar year.
-- 2f) Competitors must obey venue rules and conduct themselves in a considerate manner.
-- 2g) Competitors must remain quiet when inside the designated competition area. Talking is permitted, but must be kept at a reasonable level, and away from competitors who are actively competing.
-    - 2g3) Competitors in the Competitors Area must not communicate with each other about the scrambled states of the puzzles of the round in progress. Penalty: disqualification of the competitor from the event, at the discretion of the WCA Delegate.
-- 2h) Competitors must be fully dressed while in the competition venue. At the discretion of the Delegate, competitors may be disqualified from the competition for inappropriate clothing.
-- 2i) While competing, competitors must not use electronics or audio equipment (e.g. cell phones, MP3 players, dictaphones, additional lighting).
-    - 2i1) Competitors may use certain non-electronic aids that do not give the competitor an unfair advantage, at the discretion of the WCA Delegate. This includes:
-        - 2i1a) Medical/physical aids worn by the competitor (etc. glasses, wrist brace, hearing aids).
-        - 2i1b) Earplugs and earmuffs (but not electronic noise-cancelling headphones).
-- 2j) The WCA Delegate may disqualify a competitor from a specific event.
-    - 2j1) If a competitor is disqualified from an event for any reason, he is not eligible for any more attempts in the event.
-    - 2j2) If a competitor is disqualified during the course of an event, his earlier results remain valid. Exception: cheating or defrauding (see [Regulation 2k2a](regulations:regulation:2k2a)).
-- 2k) The WCA Delegate may disqualify a competitor from the competition (i.e. from all events of the competition) if the competitor:
-    - 2k1) Fails to check in or register in time for the competition.
-    - 2k2) Is suspected of cheating or defrauding the officials during the competition.
-        - 2k2a) The WCA Delegate may disqualify any suspected results.
-    - 2k3) Behaves in a way that is unlawful, violent or indecent; or intentionally damages venue facilities or personal property within the venue.
-    - 2k4) Interferes with, or distracts others during, the competition.
-    - 2k5) Fails to abide by WCA Regulations during the competition.
-- 2l) A competitor may be disqualified immediately, or after a warning, depending on the nature and severity of the infraction.
-    - 2l1) A disqualified competitor is not eligible for the refund of any expenses due to participating in the competition.
-- 2n) Competitors may verbally dispute a ruling to the WCA Delegate.
-    - 2n1) Disputes are only permitted during the competition, within 30 minutes after the disputed incident happened and before the beginning of any following rounds of the relevant event.
-    - 2n2) The WCA Delegate must resolve the dispute before the beginning of the next round of the event.
-    - 2n3) The competitor must accept all final rulings of the WCA Delegate. Penalty: disqualification from the competition.
-- 2s) Competitors with other disabilities that may prevent them from abiding by one or more WCA Regulations may request special accommodations from the WCA Delegate. Competitors requesting such accommodations should contact the organisation team and WCA Delegate at least two weeks before the competition.
-- 2t) Each competitor must be familiar with and understand the WCA Regulations before the competition.
+- 2a) Toute personne peut participer à une compétition WCA dès lors qu'elle :
+    - 2a1) Accepte le Réglement de la WCA.
+    - 2a2) Satisfait aux prérequis de la compétition, lesquels doivent être clairement annoncés avant la compétition.
+    - 2a3) N'est pas suspendue par le Bureau de la WCA.
+- 2b) Les compétiteurs âgés de moins de 18 ans doivent préalablement demander à leurs parents ou à leur tuteur légal la permission de s'inscrire et de participer.
+- 2c) Les compétiteurs s'inscrivent en fournissant toutes les informations dont l'équipe organisatrice à besoin (dont : nom complet, pays, date de naissance, sexe, coordonnées, épreuves choisies).
+    - 2c1) Un compétiteur ne peut pas participer sans une inscription complête, comme définie par l'équipe organisatrice.
+- 2d) Le nom complet, le pays, le sexe, et les résultats d'un compétiteur sont considérées comme des informations publiques. Toutes les autres informations personnelles sont considérées comme confidentielles, et ne doivent pas être divulguées en dehors de l'équipe organisatrice sans l'accord du compétiteur.
+- 2e) Les compétiteurs doivent représenter un pays dont ils ont la nationalité. Le Délégué WCA devrait vérifier la nationalité représentée au moyen d'un document officiel (par exemple : carte d'identité). Si un compétiteur n'est pas capable de prouver la nationalité sous laquelle il s'est inscrit, ce compétiteur peut être disqualifier rétroactivement et/ou suspendu, à la discrétion du Bureau de la WCA.
+    - 2e1) La liste des pays que l'on peut représenter est définie par l'article Wikipedia "List of sovereign states" (pays annotés par "UN member states and observer states" et "Other states").
+    - 2e2) Les compétiteurs ayant plusieurs nationalités peuvent changer changer le pays qu'ils représentent, pour leur première compétition d'une année civile donnée.
+- 2f) Les compétiteur doivent respecter les règlements du lieu et se conduire de manière correcte.
+- 2g) Les compétiteurs doivent rester calmes à l'intérieur de l'espace de compétition. Les discussions sont autorisées, mais elles doivent être d'un volume sonore raisonnable, et ne pas se dérouler à proximité des personnes entrain de concourir.
+    - 2g3) Les compétiteurs dans la Zone des Compétiteurs ne doivent pas communiquer entre eux à propos des mélanges des casse-tête du tour en cours. Pénalité : disqualification du compétiteur de l'épreuve en cours, à la discrétion du Délégué WCA.
+- 2h) Les compétiteurs doivent être entièrement habillés sur le lieu de la compétition. À la discrétion du Délégué, des compétiteurs peuvent être disqualifiés pour vêtements inappropriés.
+- 2i) Pendant qu'ils concourent, les compétiteurs ne doivent pas utiliser d'équipement sonore, ni d'autres équipements électroniques (tels que téléphones portables, lecteurs MP3, dictaphones ou éclairages supplémentaires).
+    - 2i1) Les compétiteurs peuvent utiliser certains dispositifs non électroniques qui ne lui donne pas un avantage déloyal, à la discrétion du Délégué WCA. Cela inclu :
+        - 2i1a) Aides physiques et médicales portées par le compétiteur (telles que lunettes, attelle, aide auditive).
+        - 2i1b) Les boules Quies et cache-oreilles (mais pas les casques anti-bruit électroniques).
+- 2j) Le Délégué WCA peut disqualifier un compétiteur d'une épreuve particulière.
+    - 2j1) Si un compétiteur est disqualifié d'une épreuve, quelle qu'en soit la raison, il ne peut plus effectuer d'autres essais dans l'épreuve.
+    - 2j2) Si un compétiteur est disqualifié au cours d'une épreuve, ses précédents résultats restent valides. Exception : triche ou escroquerie (voir : [Règle 2k2a](regulations:regulation:2k2a)).
+- 2k) Le Délégué WCA peut disqualifier un compétiteur de la compétition (c'est à dire de toutes les épreuves de la compétition) si celui-ci :
+    - 2k1) Ne se présente pas à temps pour son enregistrement à la compétition.
+    - 2k2) Est suspecté de tricherie ou d'escroquer les officiels au cours de la compétition.
+        - 2k2a) Le Délégué WCA peut disqualifier n'importe quel résultat suspect.
+    - 2k3) Se comporte de façon illégale, violente, indécente ou endommage intentionnellement les installations du lieu de la compétition ou les biens personnels de quiconque pendant la compétition.
+    - 2k4) Interfère avec ou distrait les autres compétiteurs pendant la compétition.
+    - 2k5) Refuse de respecter le Règlement WCA pendant la compétition.
+- 2l) Un compétiteur peut être disqualifié immédiatement ou après un avertissement, selon la nature et la gravité de l'infraction.
+    - 2l1) Suite à une disqualification, un compétiteur ne peut prétendre à aucun remboursement d'une quelconque dépense qu'il aurait engagée pour participer à la compétition.
+- 2n) Les compétiteurs peuvent adresser une contestation verbale au Délégué WCA.
+    - 2n1) Les contestations sont uniquement possibles pendant la compétition, dans les trente minutes suivant la décision contestée, et avant le début du tour d'épreuve suivant.
+    - 2n2) La contestation doit être traitée par le Délégué WCA avant le début du tour d'épreuve suivant.
+    - 2n3) Le compétiteur doit accepter la décision finale du Délégué WCA. Pénalité : disqualification du compétiteur de la compétition.
+- 2s) Les compétiteurs ayant un handicap leur empêchant de respecter une ou plusieurs règles du Règlement WCA peuvent demander des aménagements spéciaux au Délégué WCA. Les compétiteurs demandant de tels aménagements devrait contacter l'équipe organisatrice et le Délégué WCA au moins deux semaines avant la compétition.
+- 2t) Chaque compétiter doit comprendre et se familiariser avec le Règlement WCA avant la compétition.
 
 
 ## <article-3><puzzles><puzzles> Article 3: Puzzles
