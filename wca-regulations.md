@@ -501,14 +501,14 @@ Note : les numéros des articles et des règles ne sont pas réassignés lors d'
     - H1d) Time penalties for the puzzles of the attempt are cumulative.
 
 
-## <article-Z><optional><optional> Article Z: Optional Regulations
+## <article-Z><optional><optional> Article Z : Points de règlement optionnels
 
-Organisation teams may adopt optional regulations to facilitate the administration of the competition.
-The WCA Board must approve any optional regulations for a competition.
+L'équipe organisatrice peut décider d'appliquer des règles optionnelles pour faciliter l'organisation de la compétition.
+Le Bureau de la WCA doit approuver l'application des règles optionnelles dans une compétition.
 
-- Z1) The organisation team may require competitors to submit puzzles during registration.
-- Z2) The organisation team may limit the number of events per competitor.
-- Z3) The organisation team may select competitors who directly qualify for certain rounds of certain events based on the results of specific previous competitions.
-- Z4) The organisation team may limit the number of competitors per event, on either a "first come first serve" basis or based upon qualification times or rankings in the WCA world rankings of a previously announced calendar date.
-- Z5) The organisation team may prohibit competitors from participating in specific combinations of events.
+- Z1) L'équipe organisatrice peut demander aux compétiteurs de fournir leurs casse-tête au moment de l'inscription.
+- Z2) L'équipe organisatrice peut limiter le nombre d'épreuves par compétiteur.
+- Z3) L'équipe organisatrice peut sélectionner les compétiteurs qualifiés d'office pour certains tours de certaines épreuves, sur la base des résultats de compétitions précédantes données.
+- Z4) L'équipe organisatrice peut limiter le nombre de compétiteurs par épreuve, en se basant soit sur une politique du "premier arrivé, premier servi", ou sur les temps de qualification, ou sur la position dans le classement mondial de la WCA à une date annoncée avant la compétition.
+- Z5) L'équipe organisatrice peut contraindre les compétiteurs à ne pas concourir pour certaines combinaisons d'épreuves.
 
