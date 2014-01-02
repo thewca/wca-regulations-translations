@@ -483,11 +483,11 @@ Note : les numéros des articles et des règles ne sont pas réassignés lors d'
     - E3c) Coloured stickers (self-supplied).
 
 
-## <article-F><clock><clocksolving> Article F: Clock Solving
+## <article-F><clock><clocksolving> Article F : Résolution du Clock
 
-- F1) Standard speed solving procedures are followed, as described in [Article A](regulations:article:A) (Speed Solving). Additional regulations that supersede the corresponding procedures in [Article A](regulations:article:A) are described below.
-- F2) The judge places the scrambled puzzle onto the mat in a standing position.
-- F3) At the end of the inspection period, the competitor places the puzzle onto the mat in a standing position. He must not change the positions of any pins from their scrambled positions before the beginning of the solve. Penalty: disqualification of the attempt (DNF).
+- F1) Les procédures standards s'appliquent comme décrites dans l'[Article A](regulations:article:A) (Résolution rapide). Les règles supplémentaires qui remplacent les procédures correspondantes dans l'[Article A](regulations:article:A) sont décrites ci-après.
+- F2) Le juge place le casse-tête mélangé sur la surface en position verticale.
+- F3) À la fin de la période d'inspection, le compétiteur place le compétiteur sur la surface en position verticale. Il ne doit pas changer la position des boutons avant le début de la résolution. Pénalité : disqualification de l'essai (DNF).
 
 
 ## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Article H: Multiple Blindfolded Solving
