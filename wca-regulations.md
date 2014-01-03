@@ -182,21 +182,21 @@ Note : les numéros des articles et des règles ne sont pas réassignés lors d'
         - 5b5e) Regulations [5b5c](regulations:regulation:5b5c) and [5b5d](regulations:regulation:5b5d) supersede [5b5a](regulations:regulation:5b5a) and [5b5b](regulations:regulation:5b5b).
 
 
-## <article-7><environment><environment> Article 7: Environment
+## <article-7><environment><environment> Article 7 : Environnement
 
-- 7b) Spectators must remain at least 1.5 metres away from the solving stations when they are in use.
-- 7c) Lighting of the competition area must be given special attention. Lighting should be neutral, such that competitors can easily differentiate among the colours on the puzzles.
-- 7e) The competition area must be smoke-free.
-- 7f) Solving station:
-    - 7f1) Definitions:
-        - 7f1a) Stackmat: The Speed Stacks Stackmat timer and a full-size compatible mat.
-        - 7f1b) Mat: The mat of the Stackmat.
-        - 7f1c) Timer: The timer of the Stackmat, or a stopwatch (for longer attempts).
-        - 7f1d) Surface: The flat surface on which the Stackmat has been placed. The mat is considered a part of the surface. The timer is not considered a part of the surface.
-    - 7f2) The timer must be attached to the mat and placed on the surface, with the timer on the side of the mat nearest to the competitor.
-        - 7f2a) Exception: For Solving With Feet, the Stackmat must be placed directly on the floor. The timer device may be placed on the side of the mat farthest from the competitor.
-- 7h) The competition area must have a Competitors Area.
-    - 7h1) The organisation team team require that a competitor who has been called to compete must remain within the Competitors Area until he has finished all of his attempts for the round.
+- 7b) Le public doit rester à au mins 1,50 mètres des tables utilisées pour les résolutions lorsqu'elles sont occupées.
+- 7c) L'éclairage de l'espace de compétition réclame une attention particulière. La lumière devrait être blanche de manière à ne pas troubler la reconnaissance des couleurs sur les casse-tête.
+- 7e) L'espace de compétition doit être non-fumeur.
+- 7f) Emplacement utilisé pour la résolution :
+    - 7f1) Définitions :
+        - 7f1a) Stackmat : le chronomètre Speed Stacks Stackmat et un tapis compatible.
+        - 7f1b) Tapis : le tapis du Stackmat.
+        - 7f1c) Chronomètre : le chronomètre du Stackmat, ou un chronomètre portatif (pour les essais plus longs).
+        - 7f1d) Surface : la surface plane sur laquelle le Stackmat est placé. Le tapis est considéré comme faisant partie de la surface. Le chronomètre ne fait pas partie de la surface.
+    - 7f2) Le chronomètre doit être attaché au tapis et placé sur la surface, avec le chronomètre positionné du côté du tapis le plus proche du compétiteur.
+        - 7f2a) Exceptions : pour la résolution avec les pieds, le Stackmat doit être placé directement sur le sol. Le chronomètre peut être positionné du côté du tapis le plus éloigné du compétiteur.
+- 7h) L'espace de compétition doit avoir une zone d'attente pour les compétiteurs.
+    - 7h1) Les compétiteurs appelés pour concourir doivent rester dans la zone d'attente pour les compétiteurs jusqu'à la fin de tous ses essais pour le tour d'épreuve.
 
 
 ## <article-8><competitions><competitions> Article 8 : Compétitions
