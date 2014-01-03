@@ -19,13 +19,13 @@ L'utilisation du genre masculin a été adoptée afin de faciliter la lecture. E
 L'utilisation des mots "doit", "ne doit pas", "devrait", "ne devrait pas", et "peut" correspondent respectivement aux mots "must", "must not", "should", "should not", et "may" tels que définis dans le [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt).
 
 ### Informations sur internet
-Site internet de la World Cube Association : [www.worldcubeassociation.org](http://www.worldcubeassociation.org/)
-Documents originaux du Règlement WCA : [www.worldcubeassociation.org/regulations](http://www.worldcubeassociation.org/regulations/)
-Règlement WCA au [format PDF](wca-regulations-and-guidelines.pdf)
+Site internet de la World Cube Association : [www.worldcubeassociation.org](http://www.worldcubeassociation.org/).
+Documents originaux du Règlement WCA : [www.worldcubeassociation.org/regulations](http://www.worldcubeassociation.org/regulations/).
+Règlement WCA au [format PDF](wca-regulations-and-guidelines.pdf).
 
 ### Sources
 Le développement du Règlement et des Recommandations est public [sur GitHub](https://github.com/cubing/wca-documents).
-La traduction française est maintenue dans la branche "translation-french", et la version la plus à jour est située dans [ce dépot](https://github.com/viroulep/wca-documents)
+La traduction française est maintenue dans la branche "translation-french", et la version la plus à jour est située dans [ce dépot](https://github.com/viroulep/wca-documents).
 
 ### Contact
 Pour les questions et retours, merci de contacter le [WCA Regulations Committee (WRC)](http://www.worldcubeassociation.org/contact-information).
