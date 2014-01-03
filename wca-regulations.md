@@ -199,17 +199,17 @@ Note : les numéros des articles et des règles ne sont pas réassignés lors d'
     - 7h1) The organisation team team require that a competitor who has been called to compete must remain within the Competitors Area until he has finished all of his attempts for the round.
 
 
-## <article-8><competitions><competitions> Article 8: Competitions
+## <article-8><competitions><competitions> Article 8 : Compétitions
 
-- 8a) An official WCA competition must:
-    - 8a1) Be approved by the WCA Board.
-    - 8a2) Follow the WCA Regulations.
-    - 8a3) Have a designated WCA Delegate in attendance.
-    - 8a4) Be announced on the WCA website at least two weeks before the beginning of the competition.
-    - 8a6) Be publicly accessible.
-    - 8a7) Use the authentic Speed Stacks Stackmat timer (Generation 2 or Pro) for time measurement.
-    - 8a8) Be open to all who wish to compete. Restrictions must be approved by the WCA Board and clearly stated when the competition is announced.
-- 8f) If WCA Regulations are not correctly observed during a competition, the WCA Board may disqualify affected attempts.
+- 8a) Une compétition homologuée par la WCA doit :
+    - 8a1) Être approuvée par le bureau de la WCA.
+    - 8a2) Se dérouler en respectant le Règlement WCA.
+    - 8a3) Avoir un Délégué WCA désigné par le bureau de la WCA présent durant la compétition.
+    - 8a4) Être annoncé sur le site internet de la WCA, au moins deux semaines avant le début de la compétition.
+    - 8a6) Être ouverte au public.
+    - 8a7) Utiliser les chronomètres Speed Stacks Stackmat (Génération 2 ou Pro).
+    - 8a8) Être ouverte à tout ceux qui souhaitent participer. Les restrictions doivent être approuvées par le bureau de la WCA, et clairement affichées quand la compétition est annoncée.
+- 8f) Si le Règlement WCA n'est pas correctement respecté au cours de la compétition, le bureau de la WCA peut invalider les essais concernés.
 
 
 ## <article-9><events><events> Article 9: Events
