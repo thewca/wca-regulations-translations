@@ -1,6 +1,6 @@
 # <wca-title>Règlement WCA
 
-<version>Version: 1<sup>er</sup> Janvier 2014
+<version>Version: 1er Janvier 2014
 
 
 ## Notes
