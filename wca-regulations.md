@@ -415,34 +415,34 @@ Note : les numéros des articles et des règles ne sont pas réassignés lors d'
 
 ## <article-B><blindfolded><blindfoldedsolving> Article B: Blindfolded Solving
 
-- B1) Standard speed solving procedures are followed, as described in [Article A](regulations:article:A) (Speed Solving). Additional regulations that supersede the corresponding procedures in [Article A](regulations:article:A) are described below.
-    - B1a) There is no inspection period.
-    - B1b) The competitor supplies his own blindfold.
-- B2) Starting the attempt:
-    - B2a) The judge resets the timer(s) and asks "READY?" as in [Regulation A3b1](regulations:regulation:A3b1). The competitor must be ready to start the attempt within one minute of being called, else he forfeits his attempt (DNS), at the discretion of the judge.
-    - B2b) The competitor places his hands on the elevated sensor unit of the Stackmat. His fingers must be touching the sensors with palms down. Penalty: time penalty (+2 seconds).
-    - B2c) The competitor must have no physical contact with the puzzle before the beginning of the attempt. Penalty: time penalty (+2 seconds).
-    - B2d) The competitor starts the attempt by removing his hands from the timer, thus starting the timer. (This also starts the solve.)
-        - B2d1) The competitor removes the cover from the puzzle after starting the timer.
-    - B2e) If a stopwatch is in use in addition to a Stackmat timer, the judge starts the stopwatch as soon as the competitor starts the solve.
-    - B2f) If a stopwatch is in use as the only timer, the competitor places his hands on the table (instead of a Stackmat timer). After the competitor confirms his readiness, he starts the solve by lifting the cover. The judge starts the stopwatch as soon as the competitor starts the solve.
-- B3) Memorisation phase:
-    - B3a) The competitor may pick up the puzzle during the memorisation phase.
-    - B3b) The competitor must not make physical notes. Penalty: disqualification of the attempt (DNF).
-    - B3c) The competitor must not apply moves to the puzzle during the memorisation phase. Penalty: disqualification of the attempt (DNF).
-- B4) Blindfolded phase:
-    - B4a) The competitor dons the blindfold to start the blindfolded phase.
-    - B4b) The competitor must not apply moves to the puzzle before he has fully donned the blindfold. Penalty: disqualification of the attempt (DNF).
-    - B4c) The judge must ensure that there is an opaque object between the competitor's face and the puzzle while the competitor is solving.
-        - B4c1) In all cases, the competitor must wear the blindfold such that his view of the puzzle would still be clearly blocked if the opaque object were not in the way.
-        - B4c2) By default, the judge should place the object (e.g. a sheet of paper or cardboard) between the competitor and the puzzle while the competitor is wearing the blindfold.
-        - B4c3) If the judge and competitor agree beforehand, the competitor may choose to place the puzzle behind a suitable object (e.g. a music stand, the surface of the table) by himself during the blindfolded phase.
-    - B4d) The competitor must not look at the puzzle at any point during the blindfolded phase. Penalty: disqualification of the attempt (DNF).
-    - B4e) Until he applies the first move to the puzzle, the competitor may remove the blindfold to return to the memorisation phase.
-- B5) Stopping the solve:
-    - B5a) When using the Stackmat, the competitor stops the attempt by releasing the puzzle and then stopping the timer.
-    - B5b) When using a stopwatch, the competitor ends the attempt by placing the puzzle back onto the surface and notifying the judge that he is stopping the attempt. At that moment, the judge stops the timer.
-    - B5c) If he is not touching the puzzle, the competitor may remove the blindfold before he stops the timer. He must not touch the puzzle until the end of the attempt. Penalty: disqualification of the attempt (DNF).
+- B1) Les procédures standards s'appliquent comme décrites dans l'[Article A](regulations:article:A) (Résolution rapide). Les règles supplémentaires qui remplacent les procédures correspondantes dans l'[Article A](regulations:article:A) sont décrites ci-après.
+    - B1a) Il n'y a pas de phase d'inspection.
+    - B1b) Le compétiteur apporte son propre bandeau.
+- B2) Début de la résolution :
+    - B2a) Le juge remet à zéro le ou les chronomètre et demande "Prêt ?", comme décrit par la [Regulation A3b1](regulations:regulation:A3b1). Le compétiteur doit être prêt à démarrer son essai dans la minute suivant la demande du juge, sinon il déclare forfait pour son essai (DNS), à la dicrétion du juge.
+    - B2b) Le compétiteur place ses mains sur les capteurs du chronomètre. Ses doigts doivent toucher les capteurs les paumes vers le bas. Pénalité : pénalité de temps (+2 secondes).
+    - B2c) Le compétiteur ne doit pas entrer en contact avec le casse-tête avant de débuter la résolution. Pénalité : pénalité de temps (+2 secondes).
+    - B2d) Le compétiteur démarre l'essai en retirant ses mains des capteurs, déclenchant par conséquent le chronomètre. (Cela démarre également la résolution.)
+        - B2d1) Le compétiteur retire le cache du casse-tête après avoir démarré le chronomètre.
+    - B2e) Quand un chronomètre portatif est utilisé en plus du Stackmat Timer, le juge le démarre dès que le compétiteur démarre sa résolution.
+    - B2f) Si seul un chronomètre portatif est utilisé, le compétiteur place ses mains sur la surface (à la place du Stackmat Timer). Une fois que le compétiteur a confirmé être prêt, il démarre la résolution en enlevant le cache. Le juge démarre le chronomètre portatif dès que le compétiteur démarre la résolution.
+- B3) Phase de mémorisation :
+    - B3a) Le compétiteur peut tenir le casse-tête pendant la phase de mémorisation.
+    - B3b) Le compétiteur ne doit pas prendre de notes. Pénalité : disqualification de l'essai (DNF).
+    - B3c) Le compétiteur ne doit pas réaliser de manipulation pendant la phase de mémorisation. Pénalité : disqualification de l'essai (DNF).
+- B4) Phase de résolution à l'aveugle :
+    - B4a) Le compétiteur place son bandeau sur les yeux pour démarrer la phase de résolution à l'aveugle.
+    - B4b) Le compétiteur ne doit pas réaliser de manipulation avant l'application parfaite du bandeau. Pénalité : disqualification de l'essai (DNF).
+    - B4c) Durant toute la résolution, le juge doit s'assurer qu'un objet opaque se situe entre le visage du compétiteur et le casse-tête.
+        - B4c1) Dans tous les cas, le compétiteur doit porter son bandeau de manière qu'il ne puisse voir le casse-tête, et ce même si l'objet opaque n'obstruait pas son champ de vision.
+        - B4c2) Par défaut, le juge devrait placer l'objet (par exemple une feuille de papier) entre le compétiteur et le casse-tête tant que le compétiteur porte son bandeau.
+        - B4c3) Si le juge et le compétiteur se mettent d'accord à l'avance, le compétiteur peut choisir de placer le casse-tête derrière un objet adéquat (tel qu'un pupitre ou la surface de la table) afin d'obstruer son champ de vision.
+    - B4d) Le compétiteur ne doit regarder le casse-tête à aucun moment de la phase de résolution à l'aveugle. Pénalité : disqualification de l'essai (DNF).
+    - B4e) Le compétiteur peut retirer le bandeau pour repasser à la phase de mémorisation jusqu'à l'application du premier mouvement sur le casse-tête.
+- B5) Fin de la résolution :
+    - B5a) En utilisant le Stackmat Timer, le compétiteur termine son essai en relâchant le casse-tête puis en arrêtant le chronomètre.
+    - B5b) En utilisant un chronomètre portatif, le compétiteur termine son essai en reposant le casse-tête sur la surface tout en notifiant au juge que l'essai est terminé. Le juge stoppe alors le chronomètre.
+    - B5c) Le compétiteur peut retirer son bandeau avant l'arrêt du chronomètre, à condition de ne pas toucher le casse-tête. Il ne doit pas non plus toucher le casse-tête avant la fin de l'essai. Pénalité : disqualification de l'essai.
 
 
 ## <article-C><one-handed><onehandedsolving> Article C : Résolution à une main
