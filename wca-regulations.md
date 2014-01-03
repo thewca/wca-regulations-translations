@@ -445,13 +445,13 @@ Note : les numéros des articles et des règles ne sont pas réassignés lors d'
     - B5c) If he is not touching the puzzle, the competitor may remove the blindfold before he stops the timer. He must not touch the puzzle until the end of the attempt. Penalty: disqualification of the attempt (DNF).
 
 
-## <article-C><one-handed><onehandedsolving> Article C: One-Handed Solving
+## <article-C><one-handed><onehandedsolving> Article C : Résolution à une main
 
-- C1) Standard speed solving procedures are followed, as described in [Article A](regulations:article:A) (Speed Solving). Additional regulations that supersede the corresponding procedures in [Article A](regulations:article:A) are described below.
-    - C1b) During the solve, the competitor must use only one hand to touch the puzzle. Penalty: disqualification of the attempt (DNF).
-        - C1b2) If a puzzle defect occurs, and the competitor chooses to repair it, he must repair it using only the solving hand. Penalty: disqualification of the attempt (DNF).
-        - C1b3) If a puzzle defect occurs, and parts of the puzzle briefly come in contact with other body parts without the competitor's intention, this is not considered touching the puzzle, at the discretion of the judge.
-    - C1c) During the solve, once a competitor touches the puzzle with one hand, he must not touch the puzzle with the other hand. Penalty: disqualification of the attempt (DNF).
+- C1) Les procédures standards s'appliquent comme décrites dans l'[Article A](regulations:article:A) (Résolution rapide). Les règles supplémentaires qui remplacent les procédures correspondantes dans l'[Article A](regulations:article:A) sont décrites ci-après.
+    - C1b) Pendant la résolution, le compétiteur ne doit utiliser qu'une seule main pour manipuler le casse-tête. Pénalité : disqualification de l'essai (DNF).
+        - C1b2) En cas de défaut du casse-tête, si le compétiteur choisit de le réparer, il ne doit le faire qu'en utilisant la main choisie pour le résoudre. Pénalité : disqualification de l'essai (DNF).
+        - C1b3) En cas de défaut du casse-tête, si certaines parties du casse-tête viennent toucher involontairement et brièvement d'autres parties du corps que la main choisie pour la résolution, cela n'est pas considéré comme toucher le casse-tête, à la discrétion du juge.
+    - C1c) Pendant la résolution, à partir du moment où un compétiteur touche le casse-tête avec une main, il ne doit pas le toucher avec l'autre main. Pénalité : disqualification de l'essai (DNF).
 
 
 ## <article-D><feet><solvingwithfeet> Article D : Résolution avec les pieds
