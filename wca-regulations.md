@@ -454,16 +454,16 @@ Note : les numéros des articles et des règles ne sont pas réassignés lors d'
     - C1c) During the solve, once a competitor touches the puzzle with one hand, he must not touch the puzzle with the other hand. Penalty: disqualification of the attempt (DNF).
 
 
-## <article-D><feet><solvingwithfeet> Article D: Solving With Feet
+## <article-D><feet><solvingwithfeet> Article D : Résolution avec les pieds
 
-- D1) Standard speed solving procedures are followed, as described in [Article A](regulations:article:A) (Speed Solving). Additional regulations that supersede the corresponding procedures in [Article A](regulations:article:A) are described below.
-    - D1a) During the attempt, the competitor must sit in a chair, sit on the surface, or stand.
-    - D1b) During the attempt, the competitor must only use his feet and the surface. Penalty: disqualification of the attempt (DNF).
-- D3) Starting the solve:
-    - D3a) The competitor places his feet onto the timer sensors.
-    - D3b) The competitor removes his feet from the timer sensors to start the solve.
-- D4) Stopping the solve:
-    - D4a) The competitor stops the timer by placing his feet onto the timer sensors.
+- D1) La procédure standard s'applique comme décrite dans l'[Article A](regulations:article:A) (Résolution rapide). Les règles supplémentaires qui remplacent les procédures correspondantes dans l'[Article A](regulations:article:A) décrites ci-après.
+    - D1a) Pendant l'essai, le compétiteur doit être assis sur une chaise, assis sur le sol, ou debout.
+    - D1b) Pendant l'essai, le compétiteur ne doit utiliser que ses pieds et le sol. Pénalité : disqualification de l'essai (DNF).
+- D3) Début de la résolution :
+    - D3a) Le compétiteur place ses pieds sur les capteurs du chronomètre.
+    - D3b) Le compétiteur retire ses pieds des capteurs pour commencer la résolution.
+- D4) Fin de la résolution :
+    - D4a) Le compétiteur stoppe le chronomètre en plaçant ses pieds sur les capteurs.
 
 
 ## <article-E><fewest-moves><fewestmovessolving> Article E : Résolution optimisée
