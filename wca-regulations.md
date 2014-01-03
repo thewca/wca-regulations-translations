@@ -264,23 +264,23 @@ Note : les numéros des articles et des règles ne sont pas réassignés lors d'
 - 9s) Each round of each event must have a time limit (see [Regulation A1a](regulations:regulation:A1a)).
 
 
-## <article-10><solved-state><solvedstate> Article 10: Solved State
+## <article-10><solved-state><solvedstate> Article 10 : État résolu
 
-- 10b) Only the resting state of the puzzle, after the timer has been stopped, is considered.
-- 10c) The puzzle may be in any orientation at the end of the attempt.
-- 10d) All parts of a puzzle must be fully attached to the puzzle in their required positions. Exception: see [Regulation 5b5](regulations:regulation:5b5).
-- 10e) A puzzle is solved when all face colours are reassembled and all parts are aligned within the limits specified below:
-    - 10e1) For each two adjacent parts (e.g. two parallel, adjacent slices of a cube) of the puzzle that are misaligned more than the limit described in [Regulation 10f](regulations:regulation:10f), the puzzle is considered to require one additional move to solve (see "Outer Block Turn Metric" in [Article 12](regulations:article:12)).
-    - 10e2) If no further moves are required to bring the puzzle to its solved state, the puzzle is considered solved without penalty.
-    - 10e3) If one move is required, the puzzle is be considered solved with a time penalty (+2 seconds).
-    - 10e4) If more than one move is required, the puzzle is considered unsolved (DNF).
-- 10f) Limits of acceptable misalignment for puzzles:
-    - 10f1) NxNxN puzzles: at most 45 degrees.
-    - 10f2) Megaminx: at most 36 degrees.
-    - 10f3) Pyraminx and Skewb: at most 60 degrees.
-    - 10f4) Square-1: at most 45 degrees (U/D) or 90 degrees (/).
-- 10h) Puzzles not specified in this article are judged according to the solved state as defined by the generally accepted goal of the puzzle, applying the relevant regulations for the Rubik's Cube.
-    - 10h1) The solved state of Clock is when all eighteen inner clock faces point to 12 o'clock.
+- 10b) Seul l'état de repos est pris en considération, une fois le chronomètre arrêté.
+- 10c) À la fin de la résolution, le casse-tête peut être dans une orientation quelquonque.
+- 10d) Chaque pièce du casse-tête doit être complètement attachée au casse-tête, dans la position requise. Exceptions : voir la [règle 5b5](regulations:regulation:5b5).
+- 10e) Un casse-tête est résolu lorsque toutes les faces colorées sont restaurées à leur état initial, et que toutes ses parties sont alignées dans certaines limites spécifiées ci-dessous :
+    - 10e1) Si deux parties adjacentes d'un casse-tête (par exemple, deux tranches adjacentes parallèles d'un cube) créent un écart d'alignement excédant la limite décrite dans la [règle 10f](regulations:regulation:10f), on considère alors qu'un mouvement est nécessaire pour les aligner (voir : "Outer Block Turn Metric" dans l'[Article 12](regulations:article:12)).
+    - 10e2) Si aucun mouvement n'est nécessaire pour résoudre le casse-tête, le casse-tête est considéré comme étant résolu, sans pénalité.
+    - 10e3) Si un mouvement est nécessaire, le casse-tête est considéré comme étant résolu, avec une pénalité de temps (+2 secondes).
+    - 10e4) Si plus d'un mouvement est nécessaire, le casse-tête n'est pas considéré comme résolu (DNF).
+- 10f) Limites de désalignement pour les casse-tête :
+    - 10f1) Cubes NxNxN : au plus 45 degrés.
+    - 10f2) Megaminx: au plus 36 degrés.
+    - 10f3) Pyraminx et Skewb: au plus 60 degrés.
+    - 10f4) Square-1: au plus 45 degrees (U/D) ou 90 degrés (/).
+- 10h) Les casse-tête non couvert par cet article sont jugés selon l'état résolu communément admis du casse-tête.
+    - 10h1) Le Clock est dans un état résolu lorsque les dix-huit horloges sont pointées sur midi.
 
 
 ## <article-11><incidents><incidents> Article 11 : Incidents
