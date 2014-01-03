@@ -466,21 +466,21 @@ Note : les numéros des articles et des règles ne sont pas réassignés lors d'
     - D4a) The competitor stops the timer by placing his feet onto the timer sensors.
 
 
-## <article-E><fewest-moves><fewestmovessolving> Article E: Fewest Moves Solving
+## <article-E><fewest-moves><fewestmovessolving> Article E : Résolution optimisée
 
-- E2) Procedure for Fewest Moves Solving:
-    - E2a) The judge distributes a scramble sequence to all competitors. The judge then starts the stopwatch and calls "GO".
-    - E2b) All competitors have a total time limit of 60 minutes to devise a solution.
-        - E2b1) The judge should call "5 MINUTES REMAINING" at 55 minutes, and must call "STOP" at 60 minutes.
-    - E2c) At 60 minutes, each competitor must give the judge a legibly written solution with the competitor's name, using the notation defined for Outer Block Turn Metric (described in [Regulation 12a](regulations:regulation:12a)). Penalty: disqualification of the attempt (DNF).
-    - E2d) The length of the solution is calculated in Outer Block Turn Metric (see [Regulation 12a](regulations:regulation:12a)).
-        - E2d1) The competitor is permitted a maximum solution length of 80 (moves and rotations).
-    - E2e) The competitor's solution must not be directly derived from any part of the scrambling algorithm. Penalty: disqualification of the attempt (DNF).
-        - E2e1) The WCA Delegate may ask the competitor to explain the purpose of each move in his solution, irrespective of scrambling algorithm. If the competitor cannot give a valid explanation, the attempt is disqualified (DNF).
-- E3) The competitor may use the following objects during the attempt. Penalty for using unauthorised objects: disqualification of the attempt (DNF).
-    - E3a) Paper and pens (both supplied by judge).
-    - E3b) Rubik's Cubes (at most 3, self-supplied).
-    - E3c) Coloured stickers (self-supplied).
+- E2) Procédure pour la résolution optimisée :
+    - E2a) Le juge distribue une séquence de mélange à tous les compétiteurs. Le juge déclenche ensuite le chronomètre et annonce "GO".
+    - E2b) Tous les compétiteurs dispose en tout et pour tout de 60 pour résoudre le mélange avec un minimum de mouvement.
+        - E2b1) Le juge devrait annoncer "5 minutes restantes" après 55 minutes écoulées, et annoncer "STOP" au bout de 60 minutes.
+    - E2c) Au bout de 60 minutes, chaque compétiteur doit donner au juge sa solution clairement écrite avec son nom, en utilisant la notation "Outer Block Turn Metric" (décrite dans la [règle 12a](regulations:regulation:12a)). Pénalité : disqualification de la résolution (DNF).
+    - E2d) La métrique OBTM est utilisée pour évaluer la longueur de la solution (voir : [règle 12a](regulations:regulation:12a)).
+        - E2d1) La longueur maximale autorisée d'une solution est de 80 (mouvements et rotations inclus).
+    - E2e) La solution du compétiteur ne doit en aucun cas être en relation avec la séquence de mélange. Pénalité : disqualification de la résolution (DNF).
+        - E2e1) Le Délégué WCA peut demander au compétiteur d'expliquer chaque mouvement de sa solution, peut importe la séquence de mélange. Si le compétiteur ne peut pas fournir une explication correcte, la résolution est disqualifiée (DNF).
+- E3) Le compétiteur peut utiliser le matériel ci-après au cours de sa résolution. Pénalité pour utilisation de matériel non autorisé : disqualification de la résolution (DNF).
+    - E3a) Papier et crayons (fournis par le juge).
+    - E3b) Rubik's Cubes (au plus 3, non fournis).
+    - E3c) Étiquettes de couleur (non fournies).
 
 
 ## <article-F><clock><clocksolving> Article F : Résolution du Clock
