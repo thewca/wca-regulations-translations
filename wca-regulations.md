@@ -283,17 +283,18 @@ Note : les numéros des articles et des règles ne sont pas réassignés lors d'
     - 10h1) The solved state of Clock is when all eighteen inner clock faces point to 12 o'clock.
 
 
-## <article-11><incidents><incidents> Article 11: Incidents
+## <article-11><incidents><incidents> Article 11 : Incidents
 
-- 11a) Incidents include:
-    - 11a1) Incorrect execution of event procedures, by officials or competitors.
-    - 11a2) Interference or facility interruptions (e.g. power failure, emergency alarm activation).
-    - 11a3) Equipment malfunction.
-- 11b) If an incident occurs, the WCA Delegate determines an impartial and appropriate course of action.
-- 11d) If the WCA Regulations are not fully clear or if the incident is not covered by the WCA Regulations, then the WCA Delegate must make his decision based on fair sportsmanship.
-- 11e) If an incident occurs during an attempt, the WCA Delegate may award a competitor an extra attempt, replacing the attempt during which the incident occurred. The competitor must appeal verbally or in writing to the judge and WCA Delegate at the time of the incident, before finishing the original attempt, to be eligible for an extra attempt. An appeal does not guarantee the competitor an extra attempt.
-    - 11e1) If a competitor is awarded an extra attempt, the extra attempt must be scrambled using a different scramble sequence. This scramble sequence must be generated using the current official version of the official WCA scramble program (see [Regulation 4f](regulations:regulation:4f)).
-- 11f) Decisions about an incident may be supported with video or photographic analysis, at the discretion of the WCA Delegate.
+- 11a) Les incidents sont :
+    - 11a1) Une exécution incorrecte des procédures propres aux épreuves, par les officiels ou les compétiteurs.
+    - 11a2) Des interférences ou des distractions (telle qu'une coupure de courant ou le déclenchement d'une alarme).
+    - 11a3) Un équipement défecteux.
+- 11b) Si un incident se produit, le Délégué WCA détermine de manière appropriée et impartiale la marche à suivre.
+- 11d) Si le Règlement WCA n'est pas totalement clair, ou si l'incident n'est pas couvert par le Règlement WCA, alors le Délégué WCA doit prendre sa décision dans le sens de la sportivité.
+- 11e) Si un incident se produit au cours d'un essai, le Délégué WCA peut accorder à un compétiteur un essai supplémentaire, lequel remplace l'essai au cours duquel l'incident a eu lieu. Le compétiteur doit faire sa demande oralement ou par écrit au juge et au Délégué WCA, au moment de l'incident et avant de terminer son essai, afin de pouvoir se voir accorder un essai supplémentaire. Effectuer une demande ne garantie pas que celle-ci aboutira à un essai
+  supplémentaire.
+    - 11e1) Si un compétiteur se voit accorder un essai supplémentaire, celui-ci doit être réalisé à partir d'une séquence de mélange différente de l'originale. Cette séquence doit être générée à partir de la version officielle du mélangeur officiel de la WCA (voir la [règle 4f](regulations:regulation:4f)).
+- 11f) Les décisions à propos d'un incident peuvent être justifiées à l'aide d'une analyse photo ou vidéo, à la discrétion du Délégué WCA.
 
 
 ## <article-12><notation><notation> Article 12: Notation
