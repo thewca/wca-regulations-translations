@@ -163,23 +163,23 @@ Note : les numéros des articles et des règles ne sont pas réassignés lors d'
     - 4g1) Exception: For the 6x6x6 Cube, 7x7x7 Cube, and Megaminx, it is not necessary to correct the scramble, at the discretion of the WCA Delegate.
 
 
-## <article-5><puzzle-defects><puzzledefects> Article 5: Puzzle Defects
+## <article-5><puzzle-defects><puzzledefects> Article 5 : Défauts de casse-tête
 
-- 5a) Examples of puzzle defects include: popped parts, pieces twisted in place, and detached screws/caps/stickers.
-- 5b) If a puzzle defect occurs during an attempt, the competitor may choose to either repair the defect and continue the attempt, or to stop the attempt.
-    - 5b1) If a competitor chooses to repair the puzzle, he must repair only the defective parts. Tools and/or parts of other puzzles must not be used to repair the original puzzle. Penalty: disqualification of the attempt (DNF).
-    - 5b2) Any repair to a puzzle must not give the competitor any advantage in solving the puzzle. Penalty: disqualification of the attempt (DNF).
-    - 5b3) Permitted repairs:
-        - 5b3a) If any parts have fallen out or moved out of place, the competitor may place them back.
-        - 5b3b) If, after repairing the puzzle but before the end of the attempt, the competitor finds that the puzzle is unsolvable, he may disassemble and reassemble a maximum of 4 pieces to make the puzzle solvable.
-        - 5b3c) If the puzzle is unsolvable, and can be made solvable by rotating a single corner piece, the competitor may correct the corner piece by twisting it in place without disassembling the puzzle.
-    - 5b4) During a blindfolded phase (see [Regulation B4](regulations:regulation:b4)), all repairs must be performed blindfolded. Penalty: disqualification of the attempt (DNF).
-    - 5b5) If at the end of the attempt some parts of the puzzle are physically detached or not fully placed, the following regulations apply:
-        - 5b5a) If one or more parts without coloured faces is affected, the puzzle is considered solved.
-        - 5b5b) If one part with one coloured face is affected, the puzzle is considered solved.
-        - 5b5c) If more than one part with one coloured face is affected, the puzzle is considered unsolved (DNF).
-        - 5b5d) If one or more parts with more than one coloured face is affected, the puzzle is considered unsolved (DNF).
-        - 5b5e) Regulations [5b5c](regulations:regulation:5b5c) and [5b5d](regulations:regulation:5b5d) supersede [5b5a](regulations:regulation:5b5a) and [5b5b](regulations:regulation:5b5b).
+- 5a) Exemples de défauts de casse-tête : pièce ejectée, pièce retournée sur elle-même, perte d'une vis, d'un cache, d'une étiquette.
+- 5b) Si un défaut apparaît au cours de l'essai, le compétiteur peut décider de réparer le défaut et continuer la résolution, ou d'arrêter son essai.
+    - 5b1) Si le compétiteur décide de réparer le casse-tête, il ne doit réparer que les pièces responsables du défaut. Il ne doit pas utiliser d'outils ou de pièces provenant d'un autre casse-tête. Pénalité : disqualification de l'essai (DNF).
+    - 5b2) Une réparation ne doit pas donner au compétiteur un avantage pour la résolution du casse-tête. Pénalité : disqualification de l'essai (DNF).
+    - 5b3) Réparations autorisées :
+        - 5b3a) Si n'importe quelle partie est ejectée du casse-tête, le compétiteur peut la remettre à sa place.
+        - 5b3b) Si après réparation du casse-tête, mais toujours avant la fin de l'essai, le compétiteur remarque une configuration impossible, il peut désassembler et remonter au maximum 4 pièces pour rendre le casse-tête soluble.
+        - 5b3c) Si le casse-tête est dans une configuration impossible, mais peut être rendu soluble en tournant un seul coin, le compétiteur peut remettre le coin en le tournant sur lui même sans avoir à démonter le casse-tête.
+    - 5b4) Pendant une phase de résolution à l'aveugle (voir la [règle B4](regulations:regulation:b4)), toutes les réparations doivent être effectuées à l'aveugle. Pénalité : disqualification de l'essai (DNF).
+    - 5b5) Si, à la fin de l'essai, certaines pièces du casse-tête sont détachées ou ne sont pas complètement attachées, les règles suivantes s'appliquent :
+        - 5b5a) Si une ou plusieurs pièces sans facette colorée sont affectées, le casse-tête est considéré comme étant résolu.
+        - 5b5b) Si une pièce avec une facette colorée est affectée, le casse-tête est considéré comme étant résolu.
+        - 5b5c) Si plusieurs pièces avec une facette colorée sont affectées, le casse-tête n'est pas considéré comme étant résolu (DNF).
+        - 5b5d) Si une ou plusieurs pièces avec plus d'une facette colorée sont affectées, le casse-tête n'est pas considéré comme étant résolu (DNF).
+        - 5b5e) Les règles [5b5c](regulations:regulation:5b5c) et [5b5d](regulations:regulation:5b5d) remplacent les règles [5b5a](regulations:regulation:5b5a) et [5b5b](regulations:regulation:5b5b).
 
 
 ## <article-7><environment><environment> Article 7 : Environnement
