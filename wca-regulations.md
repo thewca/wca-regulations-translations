@@ -140,27 +140,26 @@ Note : les numéros des articles et des règles ne sont pas réassignés lors d'
 - 3m) Toutes les marques de casse-tête et de pièce de casse-tête sont autorisées, dès lors que le casse-tête est en accord avec le Règlement WCA.
 
 
-## <article-4><scrambling><scrambling> Article 4: Scrambling
+## <article-4><scrambling><scrambling> Article 4 : Mélanges
 
-- 4a) A scrambler applies scramble sequences to the puzzles.
-- 4b) Puzzles must be scrambled using computer-generated random scramble sequences.
-    - 4b1) Generated scramble sequences must not be inspected before the competition, and must not be filtered or selected in any way by the WCA Delegate.
-    - 4b2) Scramble sequences for a round must be available only to the WCA Delegate and the scramblers for the event, until the end of the round. Exception: For Fewest Moves Solving, competitors receive scrambling sequences during the round (see [Article E](regulations:article:E)).
-    - 4b3) Specification for the scramble program: An official scramble sequence must produce a random state from those that require at least 2 moves to solve. The following additions/exceptions apply:
-        - 4b3a) For blindfolded events, the scramble sequence must orient the puzzle randomly (equal probability for each orientation).
-        - 4b3b) 2x2x2 Cube: The (random) state must require at least 4 moves to solve.
-        - 4b3c) Pyraminx and Skewb: The (random) state must require at least 7 moves to solve.
-        - 4b3d) Square-1: The (random) state must require at least 11 moves to solve.
-        - 4b3e) 5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube, and Megaminx: sufficiently many random moves (instead of random state), at least two moves to solve.
-- 4d) Scrambling orientation:
-    - 4d1) NxNxN puzzles and Megaminx are scrambled beginning with the white face (if not possible, then the lightest face) on top and the green face (if not possible, then the darkest adjacent face) on the front.
-    - 4d2) Pyraminx is scrambled beginning with the yellow face (if not possible, then the lightest face) on bottom and the green face (if not possible, then the darkest adjacent face) on the front.
-    - 4d3) Square-1 is scrambled beginning with the darker colour on front (out of the 2 possible scrambling orientations).
-    - 4d4) Clock is scrambled beginning with the darker colour "insert" in front (out of the 2 possible scrambling orientations) and 12 o'clock pointing up.
-    - 4d5) Skewb is scrambled beginning with the white face (if not possible, then the lightest face) on top and the green face (if not possible, then the darkest adjacent face) on the front-left.
-- 4f) Competition scramble sequences must be generated using the current official version of the official WCA scramble program (available [via the WCA website](https://www.worldcubeassociation.org/regulations/scrambles/)).
-- 4g) After scrambling a puzzle, the scrambler must verify that he has scrambled the puzzle correctly. If the puzzle state is wrong, he must correct it (e.g. by solving the puzzle and applying the scramble sequence again).
-    - 4g1) Exception: For the 6x6x6 Cube, 7x7x7 Cube, and Megaminx, it is not necessary to correct the scramble, at the discretion of the WCA Delegate.
+- 4a) Un mélangeur applique les séquences de mélange aux casse-tête.
+- 4b) Les casse-tête doivent être mélangés en utilisant des séquences de mélange aléatoires générées par ordinateur.
+    - 4b1) Les séquences de mélange générées ne doivent pas être observées avant la compétition, et ne doivent pas être sélectionnées ou filtrées de quelque manière que ce soit par le Délégué WCA.
+    - 4b2) Les séquences de mélange pour une épreuve ne doivent être accessible qu'au Délégué WCA et aux mélangeur pour l'épreuve, jusqu'à la fin du tour. Exception : pour la résolution optimisée, tous les compétiteurs obtiennent la séquence de mélange pendant le tour (voir l'[Article E](regulations:article:E)).
+    - 4b3) Caractéristique du programme utilisé pour les mélanges : une séquence de mélange officielle doit permettre d'atteindre une position aléatoire parmis celles nécessitant au moins 2 mouvements pour être résolue. Les règles additionnelles suivantes s'appliquent :
+        - 4b3a) Pour les épreuves à l'aveugle, la séquence de mélange doit orienter aléatoirement le casse-tête (Chaque orientation est équiprobable).
+        - 4b3b) Cube 2x2x2 : la position aléatoire doit nécessiter au moins 4 mouvements pour être résolue.
+        - 4b3c) Pyraminx et Skewb : la position aléatoire doit nécessiter au moins 7 mouvements pour être résolue.
+        - 4b3d) Square-1 : la position aléatoire doit nécessiter au moins 11 mouvements pour être résolue.
+        - 4b3e) Cube 5x5x5, Cube 6x6x6, Cube 7x7x7, et Megaminx : un nombre suffisant de mouvements aléatoires peut être utilisé plutôt qu'une position aléatoire, et la position obtenue doit nécessiter au moins 2 mouvements pour être résolue.
+    - 4d1) Les casse-tête NxNxN et le Megaminx sont mélangés en commençant avec la face blanche au dessus (ou la face la plus claire si il n'y en a pas) et la face verte devant (ou la face adjacente la plus sombre s'il n'y en a pas).
+    - 4d2) Le Pyraminx est mélangé en commençant avec la face jaune en dessous (ou la face la plus claire si il n'y en a pas) et la face verte devant (ou la face adjacente la plus sombre s'il n'y en a pas).
+    - 4d3) Le Square-1 est mélangé en commençant avec la face la plus sombre devant (à choisir parmis les deux orientations de mélange possibles).
+    - 4d4) Le Clock est mélangé en commençant avec l'image interne la plus sombre devant (à choisir parmis les deux orientations de mélange possibles) et la position "midi" en haut.
+    - 4d5) Le skewb est mélangé en commençant avec la face blanche au dessus (ou la face la plus claire si il n'y en a pas) et la face verte devant à gauche (ou la face adjacente la plus sombre s'il n'y en a pas).
+- 4f) Les séquences de mélanges pour une compétition doivent être générées en utilisant la version officielle du mélangeur officiel de la WCA (disponible sur le [site internet de la WCA](https://www.worldcubeassociation.org/regulations/scrambles/)).
+- 4g) Après avoir mélangé un casse-tête, le mélangeur doit vérifier que la position obtenue correspond à la position attendue. Si la position n'est pas la bonne, il doit la corriger (par exemple en résolvant le casse-tête et en le mélangeant une nouvelle fois).
+    - 4g1) Exception : Pour le Cube 6x6x6, le Cube 7x7x7, et le Megaminx, il n'y a pas besoin de corriger la position, à la discrétion du Délégué WCA.
 
 
 ## <article-5><puzzle-defects><puzzledefects> Article 5 : Défauts de casse-tête
