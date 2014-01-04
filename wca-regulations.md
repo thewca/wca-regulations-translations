@@ -112,32 +112,32 @@ Note : les numéros des articles et des règles ne sont pas réassignés lors d'
 - 2t) Chaque compétiter doit comprendre et se familiariser avec le Règlement WCA avant la compétition.
 
 
-## <article-3><puzzles><puzzles> Article 3: Puzzles
+## <article-3><puzzles><puzzles> Article 3 : Casse-tête
 
-- 3a) Competitors must provide their own puzzles for the competition.
-    - 3a1) Competitors must be present and ready to compete when they are called to compete for a round. Penalty: disqualification from the event.
-    - 3a2) Puzzles must be fully operational, such that normal scrambling is possible.
-    - 3a3) Polyhedral puzzles must use a colour scheme with one unique colour per face in the solved state. Each puzzle variation must have moves, states, and solutions functionally identical to the original puzzle.
-- 3d) Puzzles must have coloured stickers or coloured tiles.
-    - 3d1) Exception: Competitors with a medically documented visual disability may use textured puzzles with different textures on different faces. Textures/patterns must be uniform per face. Each face should have a distinct colour, to aid in scrambling and judging.
-    - 3d2) The colours of puzzles must be solid, with one uniform colour per face. Each colour on the puzzle must be clearly distinct from the other colours.
-    - 3d3) Stickers/tiles must not be thicker than 1mm.
-- 3h) Modifications that enhance the basic concept of a puzzle are not permitted. Modified versions of puzzles are permitted only if the modification does not make any additional information available to the competitor (e.g. identity of pieces), compared to an unmodified version of the same puzzle.
-    - 3h1) "Pillowed" puzzles are not permitted. Exception: Pillowed 7x7x7 Cubes are permitted.
-    - 3h2) "Stickerless" puzzles, and other puzzles whose face colours are visible inside the puzzle, are not permitted.
-    - 3h3) Any modifications to a puzzle that result in poor performance by a competitor are not grounds for additional attempts.
-    - 3h4) For Clock, custom "inserts" (the same shape and size as the traditional paper inserts) are permitted, at the discretion of the WCA Delegate. The inserts must have a clear indication of 12 o'clock that matches the original inserts.
-- 3j) Puzzles must be clean, and must not have any markings, elevated pieces, damage, or other differences that significantly distinguish any piece from a similar piece. Exception: a logo (see [Regulation 3l](regulations:regulation:3l)).
-    - 3j1) Puzzles are permitted to have reasonable wear, at the discretion of the WCA Delegate.
-    - 3j2) Definition: Two pieces are similar to each other if they are identical in shape and size, or mirrored in shape and identical in size.
-    - 3j3) Corrugated/textured stickers whose orientation can be distinguished by feel are not permitted for blindfolded events.
-- 3k) Puzzles must be approved by the WCA Delegate before use in the competition.
-- 3l) A puzzle may have a logo on a sticker/tile, but it must have at most one sticker/tile with a logo.
-    - 3l1) The logo must be placed on a center piece. Exceptions for puzzles that do not have center pieces:
-        - 3l1a) For Pyraminx and 2x2x2, the logo may be on any piece.
-        - 3l1b) For Square-1, the logo must be on a piece in the middle slice.
-    - 3l2) The logo may be embossed, engraved, or consist of an overlay sticker. Exception: The logo must not be distinguishable by feel for blindfolded events (i.e. no embossings, engravings, or overlay stickers).
-- 3m) All brands of puzzles and puzzle parts are permitted, as long as the puzzles comply with all WCA Regulations.
+- 3a) Les compétiteurs doivent utiliser leurs propres casse-tête pour la compétion.
+    - 3a1) Les compétiteurs doivent être présents et prêts à concourir lorsqu'ils sont appelés pour participer à une épreuve. Pénalité : disqualification de l'épreuve.
+    - 3a2) Les casse-tête doivent être complètement fonctionnel, de manière à ce qu'il soit mélangeable normalement.
+    - 3a3) Les casse-tête polyèdriques doivent utiliser une configuration de couleur possèdant une couleur unique par face dans l'état résolu. Les différentes variations d'un même casse-tête doivent avoir des caractéristiques identiques au casse-tête d'origine (mouvements possibles, états atteignables, résolution).
+- 3d) Les casse-tête doivent avoir des étiquettes ou des tuiles colorées.
+    - 3d1) Exception : les compétiteurs souffrant d'un handicap visuel médicalement documenté peuvent utiliser des casse-tête possèdant des textures différentes sur chaque face. Les textures doivent être identiques pour une face donnée. Chaque face devrait avoir une couleur différente afin de faciliter le travail des juges et des mélangeurs.
+    - 3d2) Les couleurs des casse-tête doivent être monochrome pour une face donnée. Toutes les couleurs sur le casse-tête doiventt être facilement distinguables entre elles.
+    - 3d3) Les étiquettes et tuiles ne doivent pas dépasser 1mm d'épaisseur.
+- 3h) Les modifications qui améliorent le concept basique du casse-tête ne sont pas autorisées. Les casse-tête modifiés sont autorisés seulement si ses modifications ne rendent pas d'informations supplémentaires disponibles (tel que l'emplacement des pièces) par rapport à la version originale du casse-tête.
+    - 3h1) Les casse-tête bombés ne sont pas autorisés. Exception : les cubes 7x7x7 bombés sont autorisés.
+    - 3h2) Les casse-tête sans étiquette, et tout autre casse-tête dont la couleur des faces est visible à l'intérieur de celui-ci, ne sont pas autorisés.
+    - 3h3) Aucune modification du casse-tête dégradant les performances d'un compétiteur ne peut justifier un essai supplémentaire.
+    - 3h4) Pour le Clock, les images internes personnalisées sont autorisées sous réserve d'avoir la même taille et la même forme que les images originales, à la discrétion du Délégué WCA. Ces images doivent avoir une position "midi" clairement identifiée, située au même endroit que sur les images originales.
+- 3j) Les casse-tête doivent être propre, et ne doivent pas avoir de marquages, de pièces surélevées, de défaut, ou d'autres détails qui permettent d'aider à distinguer deux pièces entre elles. Exception : un logo (voir la [règle 3l](regulations:regulation:3l)).
+    - 3j1) Les casse-tête peuvent être relativement usés, à la discrétion du Délégué WCA.
+    - 3j2) Définition : deux pièces sont similaires si elles sont de formes identiques et de tailles identiques, ou si elles sont de formes symétriques et de tailles identiques.
+    - 3j3) Les étiquettes ondulées ou avec des textures dont l'orientation peut être déterminée au touché ne sont pas autorisées pour les épreuves à l'aveugle.
+- 3k) Les casse-tête doivent être approuvés par le Délégué WCA avant leurs utilisation en compétition.
+- 3l) Un casse-tête peut avoir un logo sur une étiquette ou une tuile, mais il doit avoir au plus une étiquette ou une tuile avec un logo.
+    - 3l1) Le logo doit être placé sur une des pièces centrales. Exceptions pour les casse-tête n'ayant pas de pièce centrale :
+        - 3l1a) Pour le Pyraminx et le 2xx2, le logo peut être sur n'importe quelle pièce.
+        - 3l1b) Pour le Square-1, le logo doit être placé sur l'une des pièce de la tranche du milieu.
+    - 3l2) Le logo peut être en relief, gravé, ou être une étiquette recouvrante. Exceptio : On ne doit pas pouvoir distinguer le logo au touché pour les épreuves à l'aveugle (Pas de logo en relief, gravé, ou d'étiquette recouvrante).
+- 3m) Toutes les marques de casse-tête et de pièce de casse-tête sont autorisées, dès lors que le casse-tête est en accord avec le Règlement WCA.
 
 
 ## <article-4><scrambling><scrambling> Article 4: Scrambling
