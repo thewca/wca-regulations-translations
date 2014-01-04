@@ -296,48 +296,48 @@ Note : les numéros des articles et des règles ne sont pas réassignés lors d'
 - 11f) Les décisions à propos d'un incident peuvent être justifiées à l'aide d'une analyse photo ou vidéo, à la discrétion du Délégué WCA.
 
 
-## <article-12><notation><notation> Article 12: Notation
+## <article-12><notation><notation> Article 12 : Notation
 
-- 12a) Notation for all NxNxN puzzles:
-    - 12a1) Face Moves:
-        - 12a1a) Clockwise, 90 degrees: F (front face), B (back face), R (right face), L (left face), U (upper face), D (bottom face).
-        - 12a1b) Anti-clockwise, 90 degrees: F', B', R', L', U', D'.
-        - 12a1c) 180 degrees: F2, B2, R2, L2, U2, D2.
-    - 12a2) Outer Block Moves (outer slice plus adjacent inner slices; n is defined as total number of slices to move; n may be omitted for two slices):
-        - 12a2a) Clockwise, 90 degrees: nFw, nBw, nRw, nLw, nUw, nDw.
-        - 12a2b) Anti-clockwise, 90 degrees: nFw', nBw', nRw', nLw', nUw', nDw'.
-        - 12a2c) 180 degrees: nFw2, nBw2, nRw2, nLw2, nUw2, nDw2.
-    - 12a3) Outer Block Turn Metric (OBTM) is defined as:
-        - 12a3a) Each move of the categories Face Moves and Outer Block Moves is counted as 1 move.
-        - 12a3b) Each rotation is counted as 0 moves.
-- 12b) Rotations for all NxNxN puzzles:
-    - 12b1) Clockwise, 90 degrees: [f] or z, [b] or z', [r] or x, [l] or x', [u] or y, [d] or y'.
-    - 12b2) Anti-clockwise, 90 degrees: [f'] or z', [b'] or z, [r'] or x', [l'] or x, [u'] or y', [d'] or y.
-    - 12b3) 180 degrees: [f2] or z2, [b2] or z2, [r2] or x2, [l2] or x2, [u2] or y2, [d2] or y2.
-- 12c) Notation for Square-1:
-    - 12c1) Moves are applied with the smallest slice of the middle layer on left side of front face.
-    - 12c2) (x, y) means: turn upper layer x times 30 degrees clockwise, turn bottom layer y times 30 degrees clockwise.
-    - 12c3) "/" means: turn the right half of the puzzle 180 degrees.
-- 12d) Notation for Megaminx (scrambling notation only):
-    - 12d1) Face Moves:
-        - 12d1a) Clockwise, 72 degrees: U (upper face).
-        - 12d1b) Anti-clockwise, 72 degrees: U' (upper face).
-    - 12d2) Other moves are applied while keeping 3 pieces fixed at top left of the puzzle:
-        - 12d2c) Clockwise 144 degrees move of whole puzzle except for the slice of top left three pieces: R++ (vertical slices), D++ (horizontal slices).
-        - 12d2d) Anti-clockwise 144 degrees move of whole puzzle except for the slice of top left three pieces: R-- (vertical slices), D-- (horizontal slices).
-- 12e) Notation for Pyraminx:
-    - 12e1) The puzzle is oriented with the bottom face completely horizontal and the front face facing the person who holds the Pyraminx.
-    - 12e2) Clockwise, 120 degrees: U (upper 2 layers), L (left 2 layers), R (right 2 layers), B (back 2 layers), u (upper vertex), l (left vertex), r (right vertex), b (back vertex).
-    - 12e3) Anti-clockwise, 120 degrees: U' (upper 2 layers), L' (left 2 layers), R' (right 2 layers), B' (back 2 layers), u' (upper vertex), l' (left vertex), r' (right vertex), b' (back vertex).
-- 12g) Notation for Clock:
-    - 12g1) The puzzle is oriented with 12 o'clock on top, and either side in front.
-    - 12g2) Move pins up: UR (top-right), DR (bottom-right), DL (bottom-left), UL (top-left), U (both top), R (both right), D (both bottom), L (both left), ALL (all).
-    - 12g3) Turn a wheel next to an up-position pin and move all pins down afterwards: x+ (x clockwise turns), x- (x anti-clockwise turns).
-    - 12g4) Turn around the puzzle so that 12 o'clock stays on top, and then move all pins down: y2.
-- 12h) Notation for Skewb:
-    - 12h1) The puzzle is oriented with three faces fully visible, where the upper face is on top.
-    - 12h2) Clockwise, 120 degrees: R (the layer around the farthest visible bottom-right vertex), U (the layer around the farthest visible upper vertex), L (the layer around the farthest visible bottom-left vertex), B (the layer around the farthest non-visible back vertex).
-    - 12h3) Anti-clockwise, 120 degrees: R' (the layer around the farthest visible bottom-right vertex), U' (the layer around the farthest visible upper vertex), L' (the layer around the farthest visible bottom-left vertex), B' (the layer around the farthest non-visible back vertex).
+- 12a) Notation pour tous les casse-tête NxNxN :
+    - 12a1) Mouvements de face :
+        - 12a1a) Sens horaire, 90 degrés : F (face de devant), B (face du fond), R (face de droite), L (face de gauche), U (face du haut), D (face du bas).
+        - 12a1b) Sens anti-horaire, 90 degrés : F', B', R', L', U', D'.
+        - 12a1c) 180 degrés : F2, B2, R2, L2, U2, D2.
+    - 12a2) Mouvements de tranches multiples (tranche extérieure et tranches internes adjacentes; n est le nombre total de tranches à tourner; n est optionnel pour deux tranches) :
+        - 12a2a) Sens horaire, 90 degrés : nFw, nBw, nRw, nLw, nUw, nDw.
+        - 12a2b) Sens anti-horaire, 90 degrés : nFw', nBw', nRw', nLw', nUw', nDw'.
+        - 12a2c) 180 degrés : nFw2, nBw2, nRw2, nLw2, nUw2, nDw2.
+    - 12a3) La métrique OBTM (Outer Block Turn Metric) est définie ainsi :
+        - 12a3a) Chaque mouvement des catégories "Mouvements de face" et "Mouvements de tranches multiples" compte pour 1 mouvement.
+        - 12a3b) Chaque rotation compte pour 0 mouvements.
+- 12b) Rotations pour les casse-tête NxNxN :
+    - 12b1) Sens horaire, 90 degrés : [f] ou z, [b] ou z', [r] ou x, [l] ou x', [u] ou y, [d] ou y'.
+    - 12b2) Sens anti-horaire, 90 degrés : [f'] ou z', [b'] ou z, [r'] ou x', [l'] ou x, [u'] ou y', [d'] ou y.
+    - 12b3) 180 degrés : [f2] ou z2, [b2] ou z2, [r2] ou x2, [l2] ou x2, [u2] ou y2, [d2] ou y2.
+- 12c) Notation pour le Square-1 :
+    - 12c1) Les mouvements sont appliqués avec la partie la plus fine de la tranche centrale à gauche et sur la face de devant.
+    - 12c2) (x, y) signifie : tourner la tranche supérieure de x fois 30 degrés dans le sens horaire, tourner la tranche inférieure de y fois 30 degrés dans le sens horaire.
+    - 12c3) "/" signifie : tourner la moitié droite du casse-tête de 180 degrés.
+- 12d) Notation pour le Megaminx (notation pour le mélange uniquement) :
+    - 12d1) Mouvements de face :
+        - 12d1a) Sens horaire, 72 degrés : U (face du haut).
+        - 12d1b) Sens anti-horaire, 72 degrés : U' (face du haut).
+    - 12d2) Les autres mouvements sont effectués en gardant trois pièces fixes, en haut à gauche du casse-tête :
+        - 12d2c) Sens horaire, 144 degrés, mouvement de la totalité du casse-tête hormis la tranche des trois pièces en haut à gauche : R++ (tranches verticales), D++ (tranches horizontales).
+        - 12d2d) Sens anti-horaire, 144 degrés, mouvement de la totalité du casse-tête hormis la tranche des trois pièces en haut à gauche : R-- (tranches verticales), D-- (tranches horizontales).
+- 12e) Notation pour le Pyraminx :
+    - 12e1) Le casse-tête est orienté avec la face du bas complètement à l'horizontale, et la face de devant faisant face à la personne tenant le Pyraminx.
+    - 12e2) Sens horaire, 120 degrés : U (les deux étages du haut), L (les deux étages de gauche), R (les deux étages de droite), B (les deux étages du fond), u (sommet du haut), l (sommet de gauche), r (sommet de droite), b (sommet du fond).
+    - 12e3) Sens anti-horaire, 120 degrés : U' (les deux étages du haut), L' (les deux étages de gauche), R' (les deux étages de droite), B' (les deux étages du fond), u' (sommet du haut), l' (sommet de gauche), r' (sommet de droite), b' (sommet du fond).
+- 12g) Notation pour le Clock :
+    - 12g1) Le casse-tête est orienté avec la position "midi" vers le haut, et l'un des deux côtés devant.
+    - 12g2) Positionner les boutons vers le haut : UR (en haut à droite), DR (en bas à droite), DL (en bas à gauche), UL (en haut à gauche), U (les deux du haut), R (les deux à droite), D (les deux en bas), L (les deux à gauche), ALL (tous).
+    - 12g3) Tourner une roue à côté d'un bouton positionné vers le haut et positionner ensuite tous les boutons vers le bas : x+ (x crans dans le sens horaire), x- (x crans dans le sens anti-horaire).
+    - 12g4) Retourner le casse-tête de manière à ce que la position "midi" reste en haut, et positionner ensuite tous les boutons vers le bas : y2.
+- 12h) Notation pour le Skewb :
+    - 12h1) Le casse-tête est orienté avec trois faces complètement visibles, ou la face du haut est sur le dessus.
+    - 12h2) Sens horaire, 120 degrés : R (la couche autour du coin visible le plus éloigné en bas à droite), U (la couche autour du coin visible le plus éloigné en haut), L (la couche autour du coin visible le plus éloigné en bas à gauche), B (la couche autour du coin invisible le plus éloigné au fond).
+    - 12h3) Sens anti-horaire, 120 degrés : R' (la couche autour du coin visible le plus éloigné en bas à droite), U' (la couche autour du coin visible le plus éloigné en haut), L' (la couche autour du coin visible le plus éloigné en bas à gauche), B' (la couche autour du coin invisible le plus éloigné au fond).
 
 
 ## <article-A><speedsolving><speedsolving> Article A: Speed Solving
