@@ -342,80 +342,80 @@ Note : les numéros des articles et des règles ne sont pas réassignés lors d'
     - 12h3) Sens anti-horaire, 120 degrés : R' (la couche autour du coin visible le plus éloigné en bas à droite), U' (la couche autour du coin visible le plus éloigné en haut), L' (la couche autour du coin visible le plus éloigné en bas à gauche), B' (la couche autour du coin invisible le plus éloigné au fond).
 
 
-## <article-A><speedsolving><speedsolving> Article A: Speed Solving
+## <article-A><speedsolving><speedsolving> Article A : Résolution rapide
 
-- A1) Speed Solving attempts must abide by the following procedures.
-    - A1a) The organisation team may enforce time limits for solves and/or rounds.
-        - A1a1) The default time limit per solve is 10 minutes, though the organisation team may announce a higher or lower time limit.
-        - A1a2) Cumulative time limits may be enforced (e.g. 3 solves with a cumulative time limit of 20 minutes). The time elapsed in a DNF result counts towards the cumulative time limit.
-        - A1a3) For each round, any time limits must be announced before the round starts, and should not be changed after it has begun. Changes must be made at the discretion of the WCA Delegate, who must carefully consider the fairness of the change.
-        - A1a4) The competitor must end each solve within the time limit. If a competitor reaches the time limit for a solve/round, the judge stops the attempt immediately and records the result as DNF. Exception: Multiple Blindfolded Solving (see [Regulation H1b1](regulations:regulation:H1b1)).
-        - A1a5) A solve is considered to meet the time limit if and only if the final result, after any time penalties are applied, is less than the time limit. Exception: Multiple Blindfolded Solving (see [Regulation H1b1](regulations:regulation:H1b1)).
-    - A1b) If the time limit for a solve is greater than 10 minutes, a stopwatch must be used for timekeeping.
-        - A1b1) For events with inspection, a Stackmat timer must be used in addition to the stopwatch. For events without inspection where the competitor is expected to exceed 10 minutes, use of the Stackmat is optional.
-        - A1b2) If a time from the Stackmat timer is available, it is the original recorded time. Otherwise, the stopwatch time is the original recorded time.
-    - A1c) A competitor participating in an event must be able to fulfill the event's requirements (e.g. know how to solve the puzzle). A competitor competing with expectation of a DNF result may be disqualified from the event, at the discretion of the WCA Delegate.
-- A2) Scrambling:
-    - A2a) When called for a round, the competitor submits his puzzle, in its solved state, to the scrambler and waits in the Competitors Area until he is called to compete.
-    - A2b) A scrambler scrambles the puzzle according to the regulations in [Article 4](regulations:article:4).
-    - A2c) After the scrambler starts scrambling the puzzle, the competitor must not see the puzzle until the inspection phase starts.
-        - A2c1) The scrambler places a cover over the scrambled puzzle that makes it impossible for any competitors or spectators to see any part of the puzzle. The cover remains over the puzzle until the beginning of the attempt.
-    - A2d) When taking a puzzle from the scrambler, the judge briefly inspects the puzzle to ensure thorough scrambling of the puzzle. The judge raises any concerns with the scrambler, who then conducts a detailed check.
-    - A2e) The judge places the puzzle onto the mat in an arbitrary orientation while ensuring that it remains completely covered.
-        - A2e1) The competitor is not permitted to request a specific orientation, and the judge must not influence the orientation he places the puzzle on the mat based on what he knows or expects the puzzle state to be.
-- A3) Inspection:
-    - A3a) The competitor may inspect the puzzle at the beginning of each attempt.
-        - A3a1) The competitor is allotted a maximum of 15 seconds to inspect the puzzle and start the solve.
-    - A3b) The judge prepares the timer by turning it on and resetting if necessary. Separately, the judge also prepares a stopwatch for timing inspection.
-        - A3b1) When the judge believes the competitor is ready, he asks "READY?". The competitor must be ready to start the attempt within one minute of being called, else he forfeits his attempt (DNS), at the discretion of the judge.
-        - A3b2) The competitor begins the attempt by confirming his readiness, and the judge uncovers the puzzle and begins timing the inspection.
-    - A3c) The competitor may pick up the puzzle during inspection.
-        - A3c1) The competitor must not apply moves during inspection. Penalty: disqualification of the attempt (DNF).
-        - A3c2) If the parts of the puzzle are not fully aligned, then the competitor may align the faces, as long as misalignments stay within the limits of [Regulation 10f](regulations:regulation:10f).
-        - A3c3) The competitor may reset the timer before he starts the solve.
-    - A3d) At the end of the inspection, the competitor places the puzzle on the mat, in any orientation.
-        - A3d1) The puzzle must not rest on the timer. Penalty: time penalty (+2 seconds).
-        - A3d2) When 8 seconds of inspection have elapsed, the judge calls "8 SECONDS".
-        - A3d3) When 12 seconds of inspection have elapsed, the judge calls "12 SECONDS".
-- A4) Starting the solve:
-    - A4b) The competitor places his hands on the elevated sensor unit of the timer. His fingers must be touching the sensors with palms down. Penalty: time penalty (+2 seconds).
-        - A4b1) The competitor must have no physical contact with the puzzle between the inspection period and the beginning of the solve. Penalty: time penalty (+2 seconds).
-    - A4d) If a Stackmat timer is in use, the competitor starts the solve by confirming that the timer light is green and then removing his hands from the timer (thus starting the timer).
-        - A4d1) The competitor must start the solve within 15 seconds of the beginning of the inspection. Penalty: time penalty (+2 seconds).
-        - A4d2) The competitor must start the solve within 17 seconds of the beginning of the inspection. Penalty: disqualification of the attempt (DNF).
-        - A4d3) If a stopwatch is in use, the judge starts the stopwatch as soon as the competitor starts the solve.
-    - A4e) Time penalties for starting the solve are cumulative.
-- A5) During the solve:
-    - A5a) While inspecting or solving the puzzle, the competitor must not communicate with anyone other than the judge. Penalty: disqualification of the attempt (DNF).
-    - A5b) While inspecting or solving the puzzle, the competitor must not receive assistance from anyone or any object other than the surface (also see [Regulation 2i](regulations:regulation:2i)). Penalty: disqualification of the attempt (DNF).
-- A6) Stopping the solve:
-    - A6a) The competitor stops the solve by releasing the puzzle and then stopping the timer. The judge stops the stopwatch as soon as the competitor does this.
-        - A6a1) When using a stopwatch as the only timer, the competitor ends the solve by releasing the puzzle and notifying the judge that he has stopped the solve. The judge stops the stopwatch as soon as the competitor does this.
-        - A6a2) When using a stopwatch as the only timer, the competitor's default notification signal consists of releasing the puzzle(s) in his hand and placing his hands on the surface, with palms down. The competitor and the judge may agree on another appropriate notification before the beginning of the attempt.
-    - A6b) The competitor is responsible for stopping the Stackmat timer correctly.
-        - A6b1) If the timer stops before the end of the solve and the timer shows a time strictly below 0.06 seconds, then the attempt is replaced by an extra attempt. A competitor forfeits his right to the additional attempt if the WCA Delegate determines that the timer was stopped deliberately.
-        - A6b2) If the timer stops before the end of the solve and displays a time of 0.06 seconds or higher, then the attempt is disqualified (DNF). Exception: if the competitor can demonstrate that the timer malfunctioned, he may receive an extra attempt, at the WCA Delegate's discretion.
-    - A6c) The competitor must fully release the puzzle before stopping the solve. Penalty: time penalty (+2 seconds).
-    - A6d) The competitor must stop the timer using both hands, placed flat on the sensors with palms down. Penalty: time penalty (+2 seconds).
-    - A6e) The competitor must not touch or move the puzzle until the judge has inspected the puzzle. Penalty: disqualification of the attempt (DNF). Exception: If no moves have been applied, a time penalty (+2 seconds) may be assigned instead, at the discretion of the judge.
-    - A6f) The competitor must not reset the timer until the judge has recorded the result on the score sheet. Penalty: disqualification of the attempt (DNF), at the discretion of the judge.
-    - A6g) The judge determines whether the puzzle is solved. He must not make moves or align faces when examining the puzzle.
-    - A6h) In case of a dispute, moves or alignments must not be applied to the puzzle before the dispute is resolved.
-    - A6i) Time penalties for stopping the solve are cumulative.
-- A7) Recording results:
-    - A7a) The judge tells the competitor the result.
-        - A7a1) If the judge finds that the puzzle is solved, he calls "OKAY".
-        - A7a2) If the judge assigns any penalties, the judge calls "PENALTY".
-        - A7a3) If the result is DNF, the judge calls "DNF".
-    - A7b) The judge records the result on a score sheet.
-        - A7b1) If penalties are assigned, the judge records the original recorded result displayed on the timer, along with any penalties. The format should be "X + T + Y = F", where X represents the sum of time penalties before/starting the solve, T represents the time displayed on the timer (the "original recorded time"), Y represents a sum of time penalties during/after the solve, and F represents the final result. If X and/or Y is 0, the 0 terms are omitted (e.g. 2 + 17.65 + 2 = 21.65, or 17.65 + 2 = 19.65).
-    - A7c) The judge and competitor must each check the recorded result, and sign (or initial) the score sheet to acknowledge that the result is correct, complete, properly formatted, and clearly readable. This finishes the attempt.
-        - A7c1) If the competitor or the judge refuses to accept and sign the score sheet, the WCA Delegate must resolve the dispute.
-        - A7c2) The competitor must not sign an attempt on the score sheet before the judge has recorded the final result for that attempt. If a competitor signs (or otherwise marks) an attempt before he has begun it, or before the judge has finished recording the result, he forfeits the attempt and the result will be considered DNS.
-    - A7f) When a competitor's score sheet for a round is complete, the judge delivers the score sheet to the score taker.
+- A1) Les essais pour les épreuves de résolution rapide doivent respecter les procédures suivantes :
+    - A1a) L'équipe organisatrice peut imposer des limites de temps pour les résolutions et/ou les tours.
+        - A1a1) La limite de temps par défaut pour une résolution est de 10 minutes, bien que l'équipe organisatrice puisse imposer une limite de temps plus grande ou plus petite.
+        - A1a2) Des limites de temps cumulatives peuvent être imposées (par exemple 3 résolutions dans une limite de temps de 20 mintes). Le temps passé à obtenir un résultat DNF compte dans la limite de temps cumulative.
+        - A1a3) Pour chaque tour, toute limite de temps doit être annoncée avant que ce tour ne démarre, et de devrait pas être modifiée après qu'il ait démarré. Les changements doivent être effectués à la discrétion du Délégué WCA, qui doit être particulièrement attentif à l'équité du changement.
+        - A1a4) Le compétiteur doit finir chaque résolution avant la fin de la limite de temps. Si un compétiteur atteint la limite de temps pour une résolution ou un tour, le juge arrête l'essai immédiatement et note le résultat comme étant DNF. Exception : résolution multiple à l'aveugle (voir la [règle H1b1](regulations:regulation:H1b1)).
+        - A1a5) Une résolution passe la limite de temps si et seulement si le résultat final, après application des éventuelles pénalités, est inférieur à la limite de temps. Exception : résolution multiple à l'aveugle (voir la [règle H1b1](regulations:regulation:H1b1)).
+    - A1b) Si la limite de temps pour une épreuve est supérieure à 10 minutes, un chronomètre portatif doit être utilisé pour la mesure du temps.
+        - A1b1) Pour les épreuves avec inspection, le chronomètre Stackmat doit être utilisé en plus du chronomètre portatif. Pour les épreuves sans inspection où l'on s'attend à ce que le compétiteur dépasse 10 minutes, l'utilisation du chronomètre Stackmat est facultatif.
+        - A1b2) Si un temps peut être donné par le chronomètre Stackmat, il est considéré comme le temps obtenu. Sinon le temps donné par le chonomètre portatif est le temps obtenu.
+    - A1c) Un compétiteur participant à une épreuve doit avoir les pré-requis pour l'épreuve (par exemple savoir résoudre le casse-tête). Un compétiteur participant alors que l'on s'attend à ce qu'il obtienne un résultat DNF peut être disqualifié de l'épreuve, à la discrétion du Délégué WCA.
+- A2) Mélange :
+    - A2a) Quand il est appelé pour un tour, le compétiteur confie son casse-tête dans l'état résolu au mélangeur, et attend son tour dans la zone d'attente des compétiteurs.
+    - A2b) Un mélangeur mélange le casse-tête conformément à l'[Article 4](regulations:article:4).
+    - A2c) Après que le mélangeur ait commencé à mélanger le casse-tête, le compétiteur ne doit pas voir le casse-tête jusqu'à ce que la phase d'inspection démarre.
+        - A2c1) Le mélangeur place un cache sur le casse-tête mélangé, de manière à ce qu'il doit impossible pour un compétiteur ou un spectateur de voir une partie du casse-tête. Le cache doit rester sur le casse-tête jusqu'au début de l'essai.
+    - A2d) En prenant le casse-tête de la table des mélanges, le juge observe brièvement le casse-tête pour une vérification du mélange. En cas de doute, le juge fait intervenir le mélangeur pour vérification stricte.
+    - A2e) Le juge place le casse-tête sur le tapis dans une position arbitraire en s'assurant qu'il reste recouvert.
+        - A2e1) Le compétiteur n'est pas autorisé à demander une orientation particulière, et le juge ne doit pas influencer l'orientation avec laquelle il pose le casse-tête sur le tapis.
+- A3) Inspection :
+    - A3a) Le compétiteur peut inspecter le casse-tête au début de chaque essai.
+        - A3a1) Le compétiteur dispose de 15 secondes maximum pour inspecter le casse-tête et démarrer la résolution.
+    - A3b) Le juge prépare le chonomètre en l'allumant et en le remettant à zéro si besoin. Le juge prépare également un chronomètre portatif pour chronomètrer le temps d'inspection.
+        - A3b1) Quand le juge pense que le compétiteur est prêt, il demande "READY?". Le compétiteur doit être prêt à démarrer l'essai dans la minute suivant cette demande, sinon il déclare forfait pour son essai (DNS), à la discrétion du juge.
+        - A3b2) Le compétiteur démarre son essai en confirmant qu'il est prêt, et le juge retire le cache du casse-tête et démarre le chronomètre portatif.
+    - A3c) Le compétiteur peut prendre en main le casse-tête pendant l'inspection.
+        - A3c1) Le compétiteur ne doit pas exécuter de mouvement pendant l'inspection. Pénalité : disqualification de l'essai (DNF).
+        - A3c2) Si des parties du casse-tête ne sont pas parfaitement alignées, le compétiteur peut aligner les faces, tant que ces désalignements restent dans les limites définies par la [règle 10f](regulations:regulation:10f).
+        - A3c3) Le compétiteur peut remettre à zéro le chronomètre avant de démarrer la résolution.
+    - A3d) À la fin de l'inspection, le compétiteur place le casse-tête sur le tapis, dans l'orientation de son choix.
+        - A3d1) Le casse-tête ne doit pas reposer sur le chronomètre. Pénalité : pénalité de temps (+2 secondes).
+        - A3d2) Lorsque le temps d'inspection atteint 8 secondes, le juge annonce "8 secondes".
+        - A3d3) Lorsque le temps d'inspection atteint 12 secondes, le juge annonce "12 secondes".
+- A4) Début de la résolution :
+    - A4b) Le compétiteur place ses mains sur les capteurs du chronomètre. Ses doigts doivent toucher les capteurs avec les paumes vers le bas. Pénalité : pénalité de temps (+2 secondes).
+        - A4b1) Le compétiteur ne dois pas entrer en contact avec le casse-tête entre la période d'inspection et de début de la résolution. Pénalité : pénalité de temps (+2 secondes).
+    - A4d) Si un chronomètre Stackmat est utilisé, le compétiteur démarre la résolution en vérifiant que la lumière verte du chronomètre est allumée, et en enlenvant ensuite ses mains du chronomètre (démarrant ainsi le chronomètre).
+        - A4d1) Le compétiteur doit démarrer sa résolution dans un intervalle de 15 secondes après le début de l'inspection. Pénalité : pénalité de temps (+2 secondes).
+        - A4d2) Le compétiteur doit démarrer sa résolution dans un intervalle de 17 secondes après le début de l'inspection. Pénalité : disqualification de l'essai (DNF).
+        - A4d3) Si un chonomètre portatif est utilisé, le juge démarre celui-ci dès que le compétiteur démarre la résolution.
+    - A4e) Les pénalités de temps pour le début de la résolution sont cumulatives.
+- A5) Pendant la résolution :
+    - A5a) Pendant l'inspection ou la résolution du casse-tête, le compétiteur ne doit pas communiquer avec une autre personne que le juge. Pénalité : disqualification de l'essai (DNF).
+    - A5b) Pendant l'inspection ou la résolution du casse-tête, le compétiteur ne doit pas disposer d'assistance humaine ou matérielle autre que la surface. (voir aussi la [règle 2i](regulations:regulation:2i)). Pénalité : disqualification de l'essai (DNF).
+- A6) Fin de la résolution :
+    - A6a) Le compétiteur termine la résolution en relachant le casse-tête et en arrêtant le chronomètre. Le juge arrête le chronomètre portatif dès que le compétiteur termine la résolution.
+        - A6a1) Quand seul un chronomètre portatif est utilisé comme dispositif de chronomètrage, le compétiteur termine la résolution en relachant le casse-tête et en faisant signe au juge qu'il a terminé la résolution. Le juge arrête le chronomètre portatif dès que le compétiteur termine la résolution.
+        - A6a2) Quand seul un chronomètre portatif est utilisé comme dispositif de chronomètrage, le signal par défaut utilisé par le compétiteur pour terminer sa résolution consiste à relacher le casse-tête, puis à placer ses mains sur la surface, paumes vers le bas. Le compétiteur et le juge peuvent se mettre d'accord sur un autre signal avant le début de l'essai.
+    - A6b) Le compétiteur est responsable de l'arrêt correct du chronomètre.
+        - A6b1) Si le chronomètre d'arrête avant la fin de la résolution et qu'il affiche un temps strictement en dessous de 0,06 secondes, alors la résolution est remplacé par un essai supplémentaire. Un compétiteur ne peut pas obtenir d'essai supplémentaire si le Délégué WCA détermine que le chronomètre a été arrêté de cette manière volontairement.
+        - A6b2) Si le chronomètre s'arrête avant la fin de la résolution et qu'il affiche un temps de 0,06 secondes ou plus, alors la résolution est disqualifiée (DNF). Exception : si le compétiteur arrive à prouver un dysfonctionnement du chronomètre, il peut obtenir un essai supplémentaire, à la dicrétion du Délégué WCA.
+    - A6c) Le compétiteur doit relacher complètement le casse-tête avant d'arrêter la résolution. Pénalité : pénalité de temps (+2 secondes).
+    - A6d) Le compétiteur doit arrêter le chronomètre avec les deux mains, à plat et les paumes vers le bas, sur le chronomètre. Pénalité : pénalité de temps (+2 secondes).
+    - A6e) Le compétiteur ne doit pas toucher déplacer le casse-tête avant que le juge n'ait inspecté le casse-tête. Pénalité : disqualification de l'essai (DNF). Exception : Si aucun mouvement n'a été effectué, une pénalité de temps (+2 secondes) peut être donnée à la place, à la discrétion du juge.
+    - A6f) Le compétiteur ne doit pas remettre à zéro le chronomètre avant que le juge n'ait inscrit le résultat sur la feuille de résultats. Pénalité : disqualification de l'essai (DNF), à la discrétion du juge.
+    - A6g) Le juge détermine si le casse-tête est résolu. Il ne doit pas effectuer de mouvement ou aligner de face en inspectant le casse-tête.
+    - A6h) En cas de contestation, aucun mouvement ou alignement de doit être effectué avant que la contestion ne soit résolue.
+    - A6i) Les pénalités de temps pour l'arrêt de la résolution sont cumulatives.
+- A7) Écriture du temps
+    - A7a) Le juge annonce le résultat au compétiteur.
+        - A7a1) Si le juge considère que le casse-tête est résolut, il annonce "OKAY".
+        - A7a2) Si le juge donne des pénalités, le juge annonce "PENALTY".
+        - A7a3) Si le résultat est DNF, le juge annonce "DNF".
+    - A7b) Le juge écrit le temps sur la feuille de résultats.
+        - A7b1) Si des pénalité sont données, le juge inscrit le temps original affiché sur le chronomètre, avec toutes les pénalités. Le format devrait être "X + T + Y = F", où X représente la somme des pénalités de temps avant ou au démarrage de la résolution, T représente le temps affiché sur le timer (le "temps original obtenu"), Y représente la somme des pénalités de temps pendant ou après la résolution, et F représente le résultat final. Si X et/ou Y valent 0, ils sont omis (par exemple 2 + 17.65 + 2 = 21.65 ou 17.65 + 2 = 19.65).
+    - A7c) Le juge et le compétiteur doivent chacun vérifier le résultat inscrit, et signer (ou parapher) la feuille de résultats pour attester que le résultat est correct, complet, écrit correctement et lisiblement. Cela termine l'essai.
+        - A7c1) Si un compétiteur ou un juge refuse de signer la feuille de résultats, le Délégué WCA doit résoudre l'incident.
+        - A7c2) Le compétiteur ne doit pas signer la feuille de résultats pour un essai avant que le juge ait inscrit le résultat final pour cet essai. S'il le fait, il déclare forfait pour l'essai et le résultat sera considéré comme étant DNS.
+    - A7f) Quand la feuille de résultats d'un compétiteur pour le tour est complête, le juge confie la feuille de résultats au teneur de score.
 
 
-## <article-B><blindfolded><blindfoldedsolving> Article B: Blindfolded Solving
+## <article-B><blindfolded><blindfoldedsolving> Article B : Résolution à l'aveugle
 
 - B1) Les procédures standards s'appliquent comme décrites dans l'[Article A](regulations:article:A) (Résolution rapide). Les règles supplémentaires qui remplacent les procédures correspondantes dans l'[Article A](regulations:article:A) sont décrites ci-après.
     - B1a) Il n'y a pas de phase d'inspection.
