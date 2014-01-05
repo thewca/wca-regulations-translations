@@ -211,56 +211,58 @@ Note : les numéros des articles et des règles ne sont pas réassignés lors d'
 - 8f) Si le Règlement WCA n'est pas correctement respecté au cours de la compétition, le bureau de la WCA peut invalider les essais concernés.
 
 
-## <article-9><events><events> Article 9: Events
+## <article-9><events><events> Article 9 : Épreuves
 
-- 9a) The WCA governs competitions for:
-    - 9a1) Puzzles known as Rubik's puzzles.
-    - 9a2) Other puzzles that are manipulated by twisting the sides, commonly known as "twisty puzzles".
-- 9b) The official puzzles and event formats of the WCA are:
-    - 9b1) Rubik's Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, Clock, Megaminx, Pyraminx, Square-1, Skewb, and Rubik's Cube: One-Handed.
-        - 9b1a) Round formats for these events are: "Best of X" (where X is 1, 2, or 3), and "Average of 5".
-    - 9b2) Rubik's Cube: With Feet, Rubik's Cube: Fewest Moves, 6x6x6 Cube, and 7x7x7 Cube.
-        - 9b2a) Round formats for these events are: "Best of X" (where X is 1 or 2) and "Mean of 3".
-    - 9b3) Rubik's Cube: Blindfolded, 4x4x4 Cube: Blindfolded, 5x5x5 Cube: Blindfolded, and Rubik's Cube: Multiple Blindfolded.
-        - 9b3a) Round formats for these events are: "Best of X" (where X is 1, 2, or 3).
-        - 9b3b) For Rubik's Cube: Blindfolded, the WCA also recognises "Mean of 3" rankings and records based on the times from "Best of 3" rounds.
-- 9f) The results of a round are measured as follows:
-    - 9f1) All timed results under 10 minutes are measured and truncated to the nearest hundredth of a second. All timed averages and means under 10 minutes are measured and rounded to the nearest hundredth of a second.
-    - 9f2) All timed results, averages, and means over 10 minutes are measured and rounded to the nearest second (e.g. x.4 becomes x, x.5 becomes x+1).
-    - 9f4) The result of an attempt is recorded as DNF (Did Not Finish) if the attempt is disqualified or unsolved/unfinished.
-    - 9f5) The result of an attempt is recorded as DNS (Did Not Start) if the competitor is eligible for an attempt but declines it.
-    - 9f6) For "Best of X" rounds, each competitor is allotted X attempts. The best result of these attempts counts for the competitor's ranking in the round.
-    - 9f7) For "Best of X" rounds, a DNF or DNS is the worst possible result.
-    - 9f8) For "Average of 5" rounds, competitors are allotted 5 attempts. Of these 5 attempts, the best and worst attempts is removed, and the arithmetic mean of the remaining 3 attempts counts for the competitor's ranking in the round.
-    - 9f9) For "Average of 5" rounds, one DNF or DNS is permitted to count as the competitor's worst result of the round. If a competitor has more than one DNF and/or DNS result in the round, his average score for the round is DNF.
-    - 9f10) For "Mean of 3" rounds competitors are allotted 3 attempts. The arithmetic mean of the 3 attempts counts for the competitor's ranking in the round.
-    - 9f11) For "Mean of 3" rounds, if the competitor has at least one DNF or DNS result, his average score for the round is DNF.
-    - 9f12) For "Best of X" rounds, rankings are assessed based on the best result per competitor. The following are used to compare results:
-        - 9f12a) For timed results, "better" is defined as the shorter time.
-        - 9f12b) For Fewest Moves Solving, "better" is defined as the shorter solution length.
-        - 9f12c) For Multiple Blindfolded Solving, rankings are assessed based on number of puzzles solved minus the number of puzzles not solved, where a greater difference is better. If the difference is less than 0, or if only 1 puzzle is solved, the attempt is considered unsolved (DNF). If competitors achieve the same result, rankings are assessed based on total time, where the shorter recorded time is better. If competitors achieve the same result and the same time, rankings are assessed based on the number of puzzles the competitors failed to solve, where fewer unsolved puzzles is better.
-    - 9f13) For "Mean of 3" and "Average of 5" rounds, rankings are assessed based on the ordering of the averages/means of the competitors, where "better" is the shorter recorded time.
-    - 9f14) For "Mean of 3" and "Average of 5" rounds, if two or more competitors achieve identical average/mean results, rankings are assessed based on the best attempt per competitor, where "better" is defined as the shorter time.
-    - 9f15) Competitors who achieve the same result in a round receive an identical ranking for the round.
-- 9g) A Combined Round consists of two phases of attempts, where competitors advance to the second phase if they meet a designated cutoff during the first phase.
-    - 9g2) Whether a competitor proceeds to next phase of a Combined round, must be decided by ranking (best x competitors) or by result (all competitors with a best result under x) of the first phase.
-- 9i) Results of official WCA competitions must be listed on the WCA world rankings.
-    - 9i1) The WCA recognises the following types of regional records: national records, continental records, and world records.
-    - 9i2) All the results of a round are considered to take place on the last calendar date of the round. If a regional record is broken multiple times on the same calendar date, only the best result is recognised as breaking that regional record.
-    - 9i3) If the WCA Regulations for an event are changed, existing regional records stand until they are broken under the new WCA Regulations.
-- 9j) Each event must be held at most once per competition.
-- 9k) All competitors may participate in all events of a competition, except in cases specifically approved by the Board.
-- 9l) Each round must be completed before any following round of the same event starts.
-- 9m) Events must have at most four rounds.
-    - 9m1) Events with 99 or fewer competitors must have at most three rounds.
-    - 9m2) Events with 15 or fewer competitors must have at most two rounds.
-    - 9m3) Events with 7 or fewer competitors must have at most one round.
-- 9o) Combined rounds count as one round when counting the number of rounds per event.
-- 9p) If an event has multiple rounds, then:
-    - 9p1) At least 25% of competitors must be eliminated between consecutive rounds of the same event.
-    - 9p2) The competitors who advance to the next round must be determined by either a cutoff ranking or a cutoff time in the preceding elimination round.
-    - 9p3) If a qualifying competitor withdraws from a round, he may be replaced by the best-ranked competitor below the cutoff from the preceding round.
-- 9s) Each round of each event must have a time limit (see [Regulation A1a](regulations:regulation:A1a)).
+- 9a) La WCA régit les compétitions pour les casse-tête suivant :
+    - 9a1) Tous les casse-tête estampillés Rubik.
+    - 9a2) Tous les autres casse-tête manipulés en tournant leurs faces ("twisty puzzles").
+- 9b) Les casse-tête officiels et les formats des épreuves officielles de la WCA sont :
+    - 9b1) Rubik's Cube, Cube 2x2x2, Cube 4x4x4, Cube 5x5x5, Clock, Megaminx, Pyraminx, Square-1, Skewb, Rubik's Cube : à une main.
+        - 9b1a) Les formats des tours pour ces épreuves sont : "Meilleur des X" (où X peut être 1, 2, ou 3), et "Moyenne élaguée des 5".
+    - 9b2) Rubik's Cube : avec les pieds, Rubik's Cube : résolution optimisée, Cube 6x6x6, et Cube 7x7x7.
+        - 9b2a) Les formats des tours pour ces épreuves sont : "Meilleur des X" (où X est 1 ou 2) et "Moyenne des 3".
+    - 9b3) Rubik's Cube : à l'aveugle, Cube 4x4x4 : à l'aveugle, Cube 5x5x5 : à l'aveugle, et Rubik's Cube : résolution multiple à l'aveugle.
+        - 9b3a) Les formats des tours pour ces épreuves sont : "Meilleur des X" (où X est 1, 2, ou 3).
+        - 9b3b) Pour le Rubik's Cube : à l'aveugle, la WCA prend également en compte le classement pour le format "Moyenne des 3", en se basant sur les temps des tours au format "Meilleur des 3".
+- 9f) Les résultats pour un tour sont calculés comme suit :
+    - 9f1) Tous les résultats chronométrés inférieurs à 10 minutes sont mesurés et tronqués au centième près. Toutes les moyennes chronométrées inférieures à 10 minutes sont mesurées et arrondies au centième près.
+    - 9f2) Tous les résultats et moyennes chronométrés supérieurs à 10 minutes sont mesurés et arrondis à la seconde près (x.4 devient x, et x.5 devient x+1).
+    - 9f4) Le résultat d'un essai est "DNF" (Did Not Finish) si l'essai est disqualifié, non résolu, ou non terminé.
+    - 9f5) Le résultat d'un essai est "DNS" (Did Not Start) si le compétiteur peut tenter un essai mais ne le tente pas.
+    - 9f6) Pour les tours au format "Meilleur des X", chaque compétiteur a droit à X essais. Le meilleur essai est pris en compte pour déterminer le classement du compétiteur pour le tour.
+    - 9f7) Pour les tours au format "Meilleur des X", DNF ou DNS est le pire résultat possible.
+    - 9f8) Pour les tours au format "Moyenne élaguée des 5", les compétiteurs ont droit à 5 essais. De ces 5 essais, le meilleur et le pire sont ôtés, et la moyenne arithmétique des 3 essais restant est prise en compte pour déterminer le classement du compétiteur pour le tour.
+    - 9f9) Pour les tours au format "Moyenne élaguée des 5", un DNF ou un DNS peut compter comme le pire résultat d'un compétiteur pour le tour. Si un compétiteur a plus d'un résultat DNF ou DNS dans le tour, sa moyenne pour le tour est DNF.
+    - 9f10) Pour les tours au format "Moyenne des 3", les compétiteurs ont droit à 3 essais. La moyenne arithmétique des 3 essais est prise en compte pour déterminer le classement du compétiteur pour le tour.
+    - 9f11) Pour les tours au format "Moyenne des 3", si le compétiteur a au moins un résultat DNF ou DNS, sa moyenne pour le tour est DNF.
+    - 9f12) Pour les tours au format "Meilleur des X", le classement est basé sur le meilleur résultat pour chaque compétiteur. Les résultats sont comparés selon les règles suivantes :
+        - 9f12a) Pour les résultats chronométrés, "meilleur" est défini comme un temps plus court.
+        - 9f12b) Pour la résolution optimisée, "meilleur" est défini comme une solution plus courte.
+        - 9f12c) Pour la résolution multiple à l'aveugle, le classement est ordonné selon la soustraction entre le nombre de casse-tête résolus moins le nombre de casse-tête non résolus (DNF), plus ce résultat est grand, meilleur il est. Si ce nombre est strictement négatif, ou si 1 seul casse-tête est résolu, l'essai n'est pas considéré résolu (DNF). Si plusieurs compétiteurs obtiennent le même résultat, le classement est ordonné selon le temps total de l'essai, où le plus court temps est le meilleur. Si plusieurs compétiteurs obtiennent le même résultat et le même temps, le classement est ordonné selon le nombre de casse-tête non résolus, plus ce nombre est petit, meilleur il est.
+    - 9f13) Pour les tours au format "Moyenne des 3" et "Moyenne élaguée des 5", le classement est ordonné selon la moyenne des compétiteurs, ou la meilleure est la plus petite calculée.
+    - 9f14) Pour les tours au format "Moyenne des 3" et "Moyenne élaguée des 5", si deux compétiteurs ou plus obtiennent la même moyenne, le classement est ordonné selon le meilleur essai pour chaque compétiteur, où le meilleur est le temps le plus court.
+    - 9f15) Les compétiteurs obtenant le même résultat pour un tour obtiennent le même classement pour ce tour.
+- 9g) Un tour combiné se déroule en deux phases d'essais, où les compétiteur sont qualifiés pour la seconde phase si ils effectuent un essai en dessous de la limite au cours de la première phase.
+    - 9g2) Le fait qu'un compétiteur soit qualifié pour la phase suivante du tour combiné doit se décider en fonction de son classement (les x meilleurs compétiteur) ou en fonction de son résultat (tous les compétiteurs ayant un résultat en dessous de x) lors de la première phase.
+
+
+- 9i) Les résultats des compétitions officielles de la WCA doivent apparaître dans le classement mondial de la WCA.
+    - 9i1) La WCA reconnait les records régionaux à différents niveaux : records nationaux, records continentaux, et records mondiaux.
+    - 9i2) Tous les résultats d'un tour sont considérés comme ayant eu lieu le dernier jour calendaire du tour. Si un record régional est battu plusieurs fois le même jour calendaire, seul le meilleur résultat est reconnu comme le nouveau record rédional.
+    - 9i3) Si le Règlement WCA change pour une épreuve, les anciens records régionaux reste valides jusqu'à ce qu'ils soient battu avec le nouveau Règlement WCA.
+- 9j) Chaque épreuve doit avoir lieu au plus une fois pour chaque compétition.
+- 9k) Tous les compétiteurs peuvent participer à toutes les épreuves d'une compétition, sauf dans les cas particuliers approuvés par le bureau de la WCA.
+- 9l) Chaque tour doit être terminé avant qu'un autre tour pour la même épreuve ne puisse démarrer.
+- 9m) Les épreuvent doivent avoir au plus quatre tours.
+    - 9m1) Les épreuves de 99 compétiteurs ou moins doivent avoir au plus trois tours.
+    - 9m2) Les épreuves de 15 compétiteurs ou moins doivent avoir au plus deux tours.
+    - 9m3) Les épreuves de 7 compétiteurs ou moins doivent avoir au plus un tour.
+- 9o) Les tours combinés comptent pour un tour quand on dénombre les tours pour chaque épreuve.
+- 9p) Si une épreuve a plusieurs tours, alors :
+    - 9p1) Au moins 25% des compétiteurs doivent être éliminés entre deux tours consécutifs d'une même épreuve.
+    - 9p2) Les compétiteurs qualifiés pour le tour suivant doivent être déterminés par un classement ou un temps limite lors du tour précédent.
+    - 9p3) Si un compétiteur qualifié se retire d'un tour, il peut être remplacé par le compétiteur le mieux classé en dessous de la limite du tour précédent.
+- 9s) Chaque tour de chaque épreuve doit avoir une limite de temps (voir la [règle A1a](regulations:regulation:A1a)).
 
 
 ## <article-10><solved-state><solvedstate> Article 10 : État résolu
