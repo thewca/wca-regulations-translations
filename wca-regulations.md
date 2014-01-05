@@ -6,29 +6,28 @@
 ## Notes
 
 ### Traduction
-La traduction de ce document a été réalisée par [Philippe Virouleau](mailto:philippe.44@gmail.com), et s'appuie sur les précédents travaux de Guillaume Erbibou, Pierre Calendini, et Gilles Roux.
-Des efforts sont fait pour que cette traduction soit constamment à jour, elle n'a rien d'officielle et est fournie à titre informatif : seule la version anglaise fait foi en cas de différence.
+La traduction de ce document a été réalisée par [Philippe Virouleau](mailto:philippe.44@gmail.com), et s'appuie sur les précédents travaux de Guillaume Erbibou, Pierre Calendini, et Gilles Roux.    
+Des efforts sont fait pour que cette traduction soit constamment à jour, elle n'a rien d'officielle bien que présente sur le site officiel de la WCA. Elle est fournie à titre informatif : seule la version anglaise fait foi en cas de différence.
 
 ### Règlement et Recommandations WCA
-
-Le Règlement WCA contient l'ensemble des règles qui s'appliquent lors de toutes les compétitions officielles reconnues par la World Cube Association.
+Le Règlement WCA contient l'ensemble des règles qui s'appliquent lors de toutes les compétitions officielles reconnues par la World Cube Association.    
 Le Règlement WCA est également complémenté par les [Recommandations WCA](guidelines:top). Le Règlement devrait être considéré comme un document complet, mais les Recommandations contiennent des informations et explications additionnelles.
 
 ### Formulation
-L'utilisation du genre masculin a été adoptée afin de faciliter la lecture. Elle n'a aucune intention discriminatoire.
+L'utilisation du genre masculin a été adoptée afin de faciliter la lecture. Elle n'a aucune intention discriminatoire.    
 L'utilisation des mots "doit", "ne doit pas", "devrait", "ne devrait pas", et "peut" correspondent respectivement aux mots "must", "must not", "should", "should not", et "may" tels que définis dans le [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt).
 
 ### Informations sur internet
-Site internet de la World Cube Association : [www.worldcubeassociation.org](http://www.worldcubeassociation.org/).
-Documents originaux du Règlement WCA : [www.worldcubeassociation.org/regulations](http://www.worldcubeassociation.org/regulations/).
+Site internet de la World Cube Association : [www.worldcubeassociation.org](http://www.worldcubeassociation.org/).    
+Documents originaux du Règlement WCA : [www.worldcubeassociation.org/regulations](http://www.worldcubeassociation.org/regulations/).    
 Règlement WCA au [format PDF](wca-regulations-and-guidelines.pdf).
 
 ### Sources
-Le développement du Règlement et des Recommandations est public [sur GitHub](https://github.com/cubing/wca-documents).
+Le développement du Règlement et des Recommandations est public [sur GitHub](https://github.com/cubing/wca-documents).    
 La traduction française est maintenue dans la branche "translation-french", et la version la plus à jour est située dans [ce dépot](https://github.com/viroulep/wca-documents).
 
 ### Contact
-Pour les questions et retours, merci de contacter le [WCA Regulations Committee (WRC)](http://www.worldcubeassociation.org/contact-information).
+Pour les questions et retours, merci de contacter le [WCA Regulations Committee (WRC)](http://www.worldcubeassociation.org/contact-information).    
 Pour les questions et retours sur la traduction, merci de contacter [Philippe Virouleau](mailto:philippe.44@gmail.com).
 
 
@@ -489,7 +488,7 @@ Note : les numéros des articles et des règles ne sont pas réassignés lors d'
 
 - F1) Les procédures standards s'appliquent comme décrites dans l'[Article A](regulations:article:A) (Résolution rapide). Les règles supplémentaires qui remplacent les procédures correspondantes dans l'[Article A](regulations:article:A) sont décrites ci-après.
 - F2) Le juge place le casse-tête mélangé sur la surface en position verticale.
-- F3) À la fin de la période d'inspection, le compétiteur place le compétiteur sur la surface en position verticale. Il ne doit pas changer la position des boutons avant le début de la résolution. Pénalité : disqualification de l'essai (DNF).
+- F3) À la fin de la phase d'inspection, le compétiteur place le compétiteur sur la surface en position verticale. Il ne doit pas changer la position des boutons avant le début de la résolution. Pénalité : disqualification de l'essai (DNF).
 
 
 ## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Article H : Résolution multiple à l'aveugle
