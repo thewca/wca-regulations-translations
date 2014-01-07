@@ -163,12 +163,12 @@ Note : les numéros des articles et des règles ne sont pas réassignés lors d'
 
 ## <article-5><puzzle-defects><puzzledefects> Article 5 : Défauts de casse-tête
 
-- 5a) Exemples de défauts de casse-tête : pièce ejectée, pièce retournée sur elle-même, perte d'une vis, d'un cache, d'une étiquette.
+- 5a) Exemples de défauts de casse-tête : pièce éjectée, pièce retournée sur elle-même, perte d'une vis, d'un cache, d'une étiquette.
 - 5b) Si un défaut apparaît au cours de l'essai, le compétiteur peut décider de réparer le défaut et continuer la résolution, ou d'arrêter son essai.
     - 5b1) Si le compétiteur décide de réparer le casse-tête, il ne doit réparer que les pièces responsables du défaut. Il ne doit pas utiliser d'outils ou de pièces provenant d'un autre casse-tête. Pénalité : disqualification de l'essai (DNF).
     - 5b2) Une réparation ne doit pas donner au compétiteur un avantage pour la résolution du casse-tête. Pénalité : disqualification de l'essai (DNF).
     - 5b3) Réparations autorisées :
-        - 5b3a) Si n'importe quelle partie est ejectée du casse-tête, le compétiteur peut la remettre à sa place.
+        - 5b3a) Si n'importe quelle partie est éjectée du casse-tête, le compétiteur peut la remettre à sa place.
         - 5b3b) Si après réparation du casse-tête, mais toujours avant la fin de l'essai, le compétiteur remarque une configuration impossible, il peut désassembler et remonter au maximum 4 pièces pour rendre le casse-tête soluble.
         - 5b3c) Si le casse-tête est dans une configuration impossible, mais peut être rendu soluble en tournant un seul coin, le compétiteur peut remettre le coin en le tournant sur lui même sans avoir à démonter le casse-tête.
     - 5b4) Pendant une phase de résolution à l'aveugle (voir la [règle B4](regulations:regulation:b4)), toutes les réparations doivent être effectuées à l'aveugle. Pénalité : disqualification de l'essai (DNF).
