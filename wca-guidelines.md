@@ -22,6 +22,7 @@ Afin de donner la nature de la recommandation, chacune d'elle est répertoriée 
 - <label>[EXPLICATION] Information explicitant l'intention du Règlement.
 - <label>[CONSEIL] Quelque chose qui n'est pas obligatoire, mais qui devrait si possible être fait.
 - <label>[RAPPEL] Information qui peut être donnée dans une autre règle ou recommendation, mais qui vaut le coup d'être répéter.
+- <label>[EXEMPLE] Un exemple d'application de la règle.
 
 
 ## <contents> [Contenu](guidelines:contents)
@@ -76,104 +77,104 @@ Afin de donner la nature de la recommandation, chacune d'elle est répertoriée 
 - 4f++) [RAPPEL] Si le Délégué WCA génère des mélanges supplémentaires au cours de la compétition, il doit les conserver (voir la [règle 1c3a](regulations:regulation:1c3a)).
 
 
-## <article-5><puzzle-defects><puzzledefects> Article 5: Puzzle Defects
+## <article-5><puzzle-defects><puzzledefects> Article 5 : Défauts de casse-tête
 
-- 5b5+) [EXEMPLE] Examples of parts physically detached, resulting in a solved state: one 3x3x3 center cap, one big cube center piece, an inner piece of a big cube.
-- 5b5++) [EXEMPLE] Examples of parts physically detached, resulting in a "DNF": two 3x3x3 center caps, two big cube center pieces, a 3x3x3 edge piece, a 4x4x4 edge piece ("wing"), any combination of two pieces that both have coloured faces.
-- 5b5+++) [EXEMPLE] Example of parts not fully attached, resulting in a solved state: a 5x5x5 centre piece twisted in its spot.
-- 5b5++++) [EXEMPLE] Example of parts physically attached but not fully placed, resulting in a "DNF": a 3x3x3 edge piece slightly popped out.
-- 5c+) [RAPPEL] If a competitor has a puzzle defect, this does not give him the right to an extra attempt.
-
-
-## <article-6><awards><awards> Article 6: Awards/prizes/honours
-
-- 6a+) [SEPARATE][AJOUT] Awards, prizes or honours may be given to competitors according to the announcement of the competition.
-- 6b+) [SEPARATE][CONSEIL] Competitors should attend the winner's ceremony to receive awards/prizes/honours.
-- 6b1+) [SEPARATE][CONSEIL] The winner's ceremony should be held in the competition venue, within one hour after the end of the last event.
-- 6c+) [SEPARATE][CONSEIL] Winners of awards, prizes or honours should be prepared to talk to journalists or any media covering the competition.
-- 6d+) [SEPARATE][CONSEIL] Organisation teams of competitions should have certificates for all category winners, signed by the leader of the organisation team and by the WCA delegate.
+- 5b5+) [EXEMPLE] Exemples de pièces détachées, laissant le casse-tête dans l'état résolu : un cache de centre de 3x3x3, une pièce centrale d'un 7x7x7, une pièce interne d'un 4x4.
+- 5b5++) [EXEMPLE] Exemples de pièces détachées, laissant le casse-tête dans un état non résolu (DNF) : deux caches de centre de 3x3x3, deux pièces centrales d'un 7x7x7, une arête de 3x3x3, une arête de 4x4x4, n'importe quel ensemble de deux pièces ayant toutes deux une face colorée.
+- 5b5+++) [EXEMPLE] Exemple de pièce qui n'est pas complètement attachée, laissant le casse-tête dans l'état résolu : un centre de 5x5x5 tourné sur lui même dans son emplacement.
+- 5b5++++) [EXEMPLE] Exemple de pièce attachée mais pas complètement à leur place, laissant le casse-tête dans un état non résolu (DNF) : une arête de 3x3x3 légèrement éjectée.
+- 5c+) [RAPPEL] Si un compétiteur rencontre un défaut de casse-tête, cela ne lui donne pas le droit à un essai supplémentaire.
 
 
-## <article-7><environment><environment> Article 7: Environment
+## <article-6><awards><awards> Article 6 : Récompenses/Prix/Titres
 
-- 7d+) [SEPARATE][AJOUT] The temperature of the competition area should be 21 to 25 degrees Celsius.
-- 7h2+) [SEPARATE][AJOUT] The competitors in the competitors area should not be able to see the puzzles of the competitors on stage.
-
-
-## <article-8><competitions><competitions> Article 8: Competitions
-
-- 8a4+) [CONSEIL] Changes to increase the maximum number of competitors in the first round should be made at least one month before the competition (see [Regulation 9r3](regulations:regulation:9r3)).
-- 8a4++) [CONSEIL] The competition should be announced at least one month before the beginning of the competition.
-- 8a5+) [SEPARATE][CONSEIL] The competition should have at least 12 competitors.
+- 6a+) [SEPARATE][AJOUT] Des récompenses, prix, ou titres peuvent être donné en fonction de ce qui a été annoncée pour la compétition.
+- 6b+) [SEPARATE][CONSEIL] Les compétiteurs devraient participer à la cérémonie de remise des prix pour recevoir leurs récompenses, prix, ou titres.
+- 6b1+) [SEPARATE][CONSEIL] La cérémonie de remise des prix devrait se dérouler sur le lieu de la compétition, dans l'heure suivant la fin de la dernière épreuve.
+- 6c+) [SEPARATE][CONSEIL] Les gagnants de récompenses, prix, ou titres sont susceptibles d'être interviewé par les media présents lors de la compétition.
+- 6d+) [SEPARATE][CONSEIL] Les équipes organisatrices devrait fournir des diplômes pour tout les gagnants d'épreuve, cosignés par l'organisateur principal et le Délégué WCA.
 
 
-## <article-9><events><events> Article 9: Events
+## <article-7><environment><environment> Article 7 : Environnement
 
-- 9b+) [AJOUT] The preferred format for the final of an event is "Average of 5" or "Mean of 3", if possible.
-- 9b++) [AJOUT] Events other than those specified in [Regulation 9b](regulations:regulation:9b) may be held during a competition, but will be considered unofficial and therefore will not be included in the official results of the competition.
-- 9b3b+) [ECLAIRCISSEMENT] The "Mean of 3" statistic does not affect the competitor's ranking in a "Best of 3" round (which is based on the best result). The WCA recognises it outside of the competition format.
-- 9f1+) [EXEMPLE] If the timer displays 12.678 for an attempt, the original recorded time is 12.67 (drop any digit after a hundredth of a second). A judge may write the full-precision time on the score sheet (and keep the precision in the calculation of penalties), as long as the score taker truncates it for the official results.
-- 9f4+) [EXPLICATION] The result of an attempt is DNF only if the competitor began the attempt by indicating his readiness (see [Regulation A3b2](regulations:regulation:A3b2)) but the attempt was disqualified.
-- 9f5+) [ECLAIRCISSEMENT] The result for an attempt is DNS if the competitor was eligible for the attempt and did not begin it (see [Regulation A3b2](regulations:regulation:A3b2)). If the competitor did not qualify for an attempt (e.g. in a combined round), he does not have any result for the attempt.
-- 9q+) [SEPARATE][CONSEIL] Events and rounds should have at least 2 competitors.
+- 7d+) [SEPARATE][AJOUT] La temperature de l'espace de compétition devrait être entre 21 et 25 degrés.
+- 7h2+) [SEPARATE][AJOUT] Les compétiteurs présents dans la zone d'attente ne devrait pas pouvoir regarder les casse-tête des compétiteurs entrain de concourir.
 
 
-## <article-10><solved-state><solvedstate> Article 10: Solved State
+## <article-8><competitions><competitions> Article 8 : Compétitions
 
-- 10f+) [EXPLICATION] The misalignment limits are selected so that they provide a natural cutoff between one state of a puzzle (without penalty) and a state one move away.
-
-
-## <article-11><incidents><incidents> Article 11: Incidents
-
-- 11e+) [ECLAIRCISSEMENT] Since an appeal is not guaranteed to be successful, the competitor may choose to keep the timer running while appealing it, and resume the attempt when appropriate.
-- 11e1+) [RAPPEL] The extra attempt must be scrambled using an unmodified scramble sequence generated by an official scrambler (see [Regulation 4f](regulations:regulation:4f), [Guideline 4f+](guidelines:guideline:4f+)).
+- 8a4+) [CONSEIL] Tout changement visant à augmenter le nombre maximum de compétiteurs participant au premier tour devrait être fait au moins un mois avant le début de la compétition (voir la [règle 9r3](regulations:regulation:9r3)).
+- 8a4++) [CONSEIL] La compétition devrait être annoncé au moins un mois avant le début de la compétition.
+- 8a5+) [SEPARATE][CONSEIL] Au moins 12 compétiteurs devraient participer à la compétition.
 
 
-## <article-12><incidents><incidents> Article 12: Notation
+## <article-9><events><events> Article 9 : Épreuves
 
-- 12c2+) When counting the moves in case of a misalignment at the end of a solve, x and y are considered separately. Example: (5,1) is considered one misalignment, (5,5) is considered two misalignments.
-
-
-## <article-A><speedsolving><speedsolving> Article A: Speed Solving
-
-- A1a2+) [AJOUT] In case of a cumulative time limit, the judge records the original recorded time for a DNF on the score sheet in parentheses, e.g. "DNF (1:02.27)".
-- A1a3+) [RAPPEL] The organisation team and the WCA Delegate must be mindful that time limits influence the strategies of the competitors (e.g. rushing the first two attempts in hopes of meeting a cutoff in a combined round), and that changing time limits after the beginning of the round can disadvantage some competitors unfairly.
-- A1a4+) [RAPPEL] If a competitor has accidentally been permitted to exceed the time limit, the time limit must be enforced retroactively, and the judge, competitor, and WCA Delegate should be informed (see [Regulation 1g2](regulations:regulation:1g2)). Judges must always be aware of the time limit for a current attempt (which might depend on previous attempts, in the case of a cumulative time limit).
-- A2c1+) [RAPPEL] In the past, score sheets have been used to cover puzzles while leaving some sides exposed. This is no longer permitted.
-- A3c3+) [ECLAIRCISSEMENT] Although the judge is required to reset the timer for the competitor (see [Regulation A3b](regulations:regulation:A3b)), the competitor may reset it before/during the inspection phase if the judge accidentally neglected to do so.
-- A6b+) [EXPLICATION] The arbitrary value of 0.06 seconds was chosen to accommodate concerns about Stackmat timer malfunctions.
-- A6g+) [AJOUT] While he is determining whether to assign a penalty for misalignment, the judge should not touch the puzzle. Exception: For Clock, the judge will usually need to pick up the puzzle to verify both faces.
-- A7c+) [AJOUT] If a result signed by a competitor is found to be incomplete or unreadable, it should be interpreted the worst reasonable way (e.g. "1:05" will be considered 1:05.99, "25.X3" will be considered 25.73 if X could be either a 1 or a 7). Given that the Stackmat timer displays a time of X:0Y.ss as X:Y.ss, a missing tens digit should be considered more likely than a missing ones digit (e.g. "1:2.27" will be considered 1:02.27). The judge who signed an ambiguous result may be requested to clarify it, at the score taker's discretion.
+- 9b+) [AJOUT] Le format privilégié pour la finale d'une épreuve est la "Moyenne élaguée des 5", ou la "Moyenne des 3", si possible.
+- 9b++) [AJOUT] D'autres épreuves que celles définies dans la [règle 9b](regulations:regulation:9b) peuvent être organisées, mais elles ne seront pas considérées comme officielles et leurs résultats ne seront donc pas enregistrés dans les résultats officiels de la compétition.
+- 9b3b+) [ECLAIRCISSEMENT] Le classement selon la "Moyenne des 3" ne change en rien le classement du compétiteur dans un tour au format "Meilleur des 3" (qui repose sur le meilleur résultat). La WCA reconnait se classement en dehors du contexte de la compétition.
+- 9f1+) [EXEMPLE] Si le chronomètre affiche 12.678 pour un essai, le temps original est 12.67 (on supprime tout chiffre après les centièmes de seconde). Un juge peut écrire le temps complet sur la feuille de résultat, tant que le teneur de scores le tronque pour les résultats officiels.
+- 9f4+) [EXPLICATION] Le résultat d'un essai est DNF seulement si le compétiteur démarre l'essai en indiquant qu'il est prêt (voir la [règle A3b2](regulations:regulation:A3b2)) mais que l'essai a été disqualifié.
+- 9f5+) [ECLAIRCISSEMENT] Le résultat d'une essai est DNS si le compétiteur pouvait tenter un essai mais ne l'a pas démarré (voir la [règle A3b2](regulations:regulation:A3b2)). Si le compétiteur ne s'est pas qualifié pour un essai (par exemple dans un tour combiné), il n'a pas de résultat pour l'essai.
+- 9q+) [SEPARATE][CONSEIL] Les tours et épreuves devraient avoir au moins 2 compétiteurs.
 
 
-## <article-B><blindfolded><blindfoldedsolving> Article B: Blindfolded Solving
+## <article-10><solved-state><solvedstate> Article 10 : État résolu
 
-- B1+) [RAPPEL] The competitor must use a puzzle without textures, markings, or other features that distinguish similar pieces (see [Regulation 3k](regulations:regulation:3k)). This should be given special attention for Blindfolded Solving
-- B1b+) [CONSEIL] Blindfolds should be checked by the WCA Delegate before use in the competition.
-
-
-## <article-C><one-handed><onehandedsolving> Article C: One-Handed Solving
-
-- C1b+) [ECLAIRCISSEMENT] The competitor may use both hands during inspection.
-- C1b++) [ECLAIRCISSEMENT] The competitor is not required to use the same solving hand for different attempts of the same round.
-- C1b+++) [RAPPEL] Use of the surface is permitted while solving or repairing the puzzle.
+- 10f+) [EXPLICATION] Les limites de désalignements sont choisies de manière à ce qu'elles donnent une limite naturelle entre deux états du casse-tête : l'état résolu sans pénalité, et un état distant d'un mouvement.
 
 
-## <article-D><feet><solvingwithfeet> Article D: Solving With Feet
+## <article-11><incidents><incidents> Article 11 : Incidents
 
-- D1b+) [ECLAIRCISSEMENT] The competitor may wear socks while solving.
-- D1c+) [RAPPEL] While repairing puzzle defects, other body parts must not touch the puzzle.
-
-
-## <article-E><fewest-moves><fewestmovessolving> Article E: Fewest Moves Solving
-
-- E2b+) [ECLAIRCISSEMENT] A competitor may choose to stop his attempt early by handing in a solution before the time limit.
-- E3b+) [RAPPEL] "Rubik's Cube" refers only to the standard 3x3x3 puzzle.
+- 11e+) [ECLAIRCISSEMENT] Comme la demande n'est pas forcément acceptée, le compétiteur peut choisir de ne pas arrêter le chronomètre pendant la demande, et reprendre la résolution quand il le souhaite.
+- 11e1+) [RAPPEL] L'essai supplémentaire doit être mélangé avec une séquence de mélange non modifiée, générée par un programme mélangeur officiel (voir la [règle 4f](regulations:regulation:4f), et la [recommandation 4f+](guidelines:guideline:4f+)).
 
 
-## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Article H: Multiple Blindfolded Solving
+## <article-12><incidents><incidents> Article 12 : Notation
 
-- H1b1+) [RAPPEL] The attempt is not disqualified for reaching the time limit, due to exceptions for Multiple Blindfolded Solving (see [Regulation A1a4](regulations:regulation:A1a4) and [Regulation A1a5](regulations:regulation:A1a5)).
-- H1b1++) [AJOUT] The judge may permit the competitor to continue the attempt unofficially, but the attempt must be stopped and judged first, in full accordance with the Regulations.
-- H1d+) [EXEMPLE] Example: If a competitor attempts 10 cubes, stops with a time of 59:57, and has two time penalties, the time for the result is 59:57 + 2*2 = 60:01 (also see [Regulation A1a5](regulations:regulation:A1a5)).
-- H1d++) [EXEMPLE] Example: If a competitor attempts 10 cubes, and the judge stops him at one 60 minutes, and has two time penalties, the time for the result is 60:00 + 2*2 = 60:04.
+- 12c2+) Lors du dénombrement des mouvements dans le cas d'un désalignement à la fin d'une résolution, x et y sont étudiés séparement. Exemple : (5,1) n'a qu'un seul désalignement, (5,5) en a deux.
+
+
+## <article-A><speedsolving><speedsolving> Article A : Résolution rapide
+
+- A1a2+) [AJOUT] Dans le cas d'une limite de temps cumulative, le juge inscrit le temps original entre parenthèse en plus du DNF sur la feuille de résultats, par exemple "DNF (1:02,27)".
+- A1a3+) [RAPPEL] L'équipe organisatrice et le Délégué WCA doivent être conscient que les limites de temps ont un impact sur la stratégie des compétiteurs (par exemple prendre des risques dans les deux premiers essai pour espérer passer la limite de temps d'un tour combiné), et que les modifier après le début d'un tour peut désavantager inéquitablement certains compétiteurs.
+- A1a4+) [RAPPEL] Si par accident un compétiteur a été autorisé à dépasser la limite de temps, celle-ci doit être appliquée rétroactivement, et le juge, le compétiteur, et le Délégué WCA doivent être informés (voir la [règle 1g2](regulations:regulation:1g2)). Les juges doivent toujours connaître la limite de temps pour l'essai en cours (qui peut déprendre des essais précédents, dans le cas d'une limite de temps cumulative).
+- A2c1+) [RAPPEL] Avant les feuilles de résultats pouvaient être utilisées pour cacher le casse-tête, laissant certaines faces visibles. Ce n'est plus le cas.
+- A3c3+) [ECLAIRCISSEMENT] Même si le juge doit remettre à zéro le chronomètre à la place du compétiteur (voir la [règle A3b](regulations:regulation:A3b)), celui-ci peut le remettre à zéro avant ou pendant l'inspection si le juge a accidentellement oublié de le faire.
+- A6b+) [EXPLICATION] La valeur, arbitraire, de 0,06 secondes a été choisie pour palier aux problèmes de dysfonctionnement du chronomètre Stackmat.
+- A6g+) [AJOUT] Pendant qu'il détermine s'il doit donner une pénalité de désalignement, le juge ne devrait pas toucher le casse-tête. Exception : pour le Clock, le juge va généralement devoir prendre le casse-tête en main pour vérifier les deux côtés.
+- A7c+) [AJOUT] Si un résultat signé par le compétiteur est incomplet ou illisible, il devrait être considéré comme le pire résultat possible dans ce cas (par exemple "1.05" devra être considéré comme "1.05.99", "25.X3" devra être considéré comme 25.73 si X peut être 1 ou 7). Étant donné que le chronomètre Stackmat peut afficher "X:Y.ss" à la place de "X:0Y.ss", il est plus probable qu'une dizaine manque plutôt qu'une unité, dans le cas d'un chiffre manquant (par exemple "1:2.27" devra être considéré comme "1:02.27"). Le juge ayant signé pour un résultat ambigu peut être appelé pour l'expliquer, à la discrétion du teneur de score.
+
+
+## <article-B><blindfolded><blindfoldedsolving> Article B : Résolution à l'aveugle
+
+- B1+) [RAPPEL] Le compétiteur doit utiliser un casse-tête sans textures, marques, ou autres moyens de distinguer des pièces équivalentes (voir la [règle 3k](regulations:regulation:3k)).
+- B1b+) [CONSEIL] Les bandeaux devraient être vérifiés par le Délégué WCA avant leur utilisation en compétition.
+
+
+## <article-C><one-handed><onehandedsolving> Article C : Résolution à une main
+
+- C1b+) [ECLAIRCISSEMENT] Le compétiteur peut utiliser les deux mains pendant l'inspection.
+- C1b++) [ECLAIRCISSEMENT] Le compétiteur n'est pas obligé d'utiliser la même main pour résoudre les différents essais d'un même tour.
+- C1b+++) [RAPPEL] L'utilisation de la surface est autorisée pour la résolution ou la réparation du casse-tête.
+
+
+## <article-D><feet><solvingwithfeet> Article D : Résolution avec les pieds
+
+- D1b+) [ECLAIRCISSEMENT] Le compétiteur peut porter des chaussettes pendant la résolution.
+- D1c+) [RAPPEL] Pendant la réparation des défauts de casse-tête, d'autres parties du corps ne doivent pas toucher le casse-tête.
+
+
+## <article-E><fewest-moves><fewestmovessolving> Article E : Résolution optimisée
+
+- E2b+) [ECLAIRCISSEMENT] Un compétiteur peut choisir d'arrêter son essai plutôt en rendant une solution avant la fin de la limite de temps.
+- E3b+) [RAPPEL] "Rubik's Cube" ne fait référence qu'au casse-tête 3x3x3 standard.
+
+
+## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Article H : Résolution multiple à l'aveugle
+
+- H1b1+) [RAPPEL] L'essai n'est pas forcément disqualifié lorsqu'il atteint la limite de temps, à cause des exceptions pour la résolution multiple à l'aveugle (voir la [règle A1a4](regulations:regulation:A1a4) et la [règle A1a5](regulations:regulation:A1a5)).
+- H1b1++) [AJOUT] Le juge peut autoriser le compétiteur à continuer son essai de manière non officielle, mais l'essai doit d'abord être arrêté et jugé, afin de respecter totalement le Règlement.
+- H1d+) [EXEMPLE] Exemple : si un compétiteur tente 10 cubes, fini son essai avec un temps de 59:57, et obtient deux pénalités de temps, le temps du résultat est 59:57 + 2*2 = 60.01 (voir aussi la [règle A1a5](regulations:regulation:A1a5)).
+- H1d++) [EXEMPLE] Exemple : si un compétiteur tente 10 cubes, que le juge l'arrête à 60 minutes, et qu'il obtient deux pénalités de temps, le temps du résultat est 60:00 + 2*2 = 60:04.
