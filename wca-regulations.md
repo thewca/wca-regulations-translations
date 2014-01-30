@@ -1,6 +1,6 @@
 # <wca-title>WCA Szabályzat 2014
 
-<version>Verzió: 2013. január 1.
+<version>Verzió: 2014. január 1.
 
 
 ## Megjegyzések
