@@ -20,7 +20,7 @@ Por favor, tenga presente que esta traducción no supone una versión oficial, i
 ### Información en Internet
 Website de la World Cube Association: [www.worldcubeassociation.org](http://www.worldcubeassociation.org/)  
 Reglamento original en inglés: [www.worldcubeassociation.org/regulations](http://www.worldcubeassociation.org/regulations/)  
-Reglamento en [formato PDF](wca-reglamento-y-directrices-2013.pdf)
+Reglamento en [formato PDF](link:pdf)
 
 ### Fuente
 El desarrollo de las Reglas de la WCA y sus Directrices son públicas [en GitHub](https://github.com/cubing/wca-documents).
