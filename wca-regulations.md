@@ -17,7 +17,7 @@ WCA大会規則は完結した文書であり、ガイドラインにはより�
 
 世界キューブ協会のウェブサイト:[www.worldcubeassociation.org](http://www.worldcubeassociation.org/)  
 WCA大会規則原文:[www.worldcubeassociation.org/regulations](http://www.worldcubeassociation.org/regulations/)  
-WCA大会規則原文PDF版:[PDF format](wca-regulations-and-guidelines-2013.pdf)
+WCA大会規則原文PDF版:[PDF format](link:pdf)
 
 ### 出典
 
