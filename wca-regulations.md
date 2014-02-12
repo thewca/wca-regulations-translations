@@ -16,7 +16,7 @@ Regulasi WCA juga dilengkapi oleh [Pedoman WCA](guidelines). Regulasi WCA sebaik
 ### Informasi di Internet
 Website dari World Cube Association: [www.worldcubeassociation.org](http://www.worldcubeassociation.org/)  
 Sumber asli dari Regulasi WCA: [www.worldcubeassociation.org/regulations](http://www.worldcubeassociation.org/regulations/)  
-Regulasi WCA dalam [Format PDF](wca-regulations-and-guidelines-2013.pdf)
+Regulasi WCA dalam [Format PDF](link:pdf)
 
 ### Sumber
 Perkembangan Regulasi WCA dan Pedoman WCA terbuka secara umum [di GitHub](https://github.com/cubing/wca-documents).
