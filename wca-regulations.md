@@ -20,7 +20,7 @@ L'utilisation des mots "doit", "ne doit pas", "devrait", "ne devrait pas", et "p
 ### Informations sur internet
 Site internet de la World Cube Association : [www.worldcubeassociation.org](http://www.worldcubeassociation.org/).    
 Documents originaux du Règlement WCA : [www.worldcubeassociation.org/regulations](http://www.worldcubeassociation.org/regulations/).    
-Règlement WCA au [format PDF](wca-regulations-and-guidelines.pdf).
+Règlement WCA au [format PDF](link:pdf).
 
 ### Sources
 Le développement du Règlement et des Recommandations est public [sur GitHub](https://github.com/cubing/wca-documents).    
