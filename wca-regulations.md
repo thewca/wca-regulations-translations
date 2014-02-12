@@ -18,8 +18,8 @@ Para tornar o Regulamento e as Orientações mais fáceis de ler, nós usamos "e
 O uso das palavras "requer", "deve", "não deve", "recomendado", "não recomendado", "pode" e "não pode" está de acordo com o [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt).
 
 ### Informação na Internet
-Sítio web da World Cube Association: [www.worldcubeassociation.org](http://www.worldcubeassociation.org/)
-Fonte original do Regulamento da WCA: [www.worldcubeassociation.org/regulations](http://www.worldcubeassociation.org/regulations/)
+Sítio web da World Cube Association: [www.worldcubeassociation.org](http://www.worldcubeassociation.org/)  
+Fonte original do Regulamento da WCA: [www.worldcubeassociation.org/regulations](http://www.worldcubeassociation.org/regulations/)  
 Regulamento da WCA em [Formato PDF](link:pdf)
 
 ### Código Fonte
