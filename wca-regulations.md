@@ -23,7 +23,7 @@ WCA规则同时由[WCA指南](guidelines:top)补充。本规则是一个独立�
 ### 在线信息
 世界魔方协会网站：[www.worldcubeassociation.org](http://www.worldcubeassociation.org/)  
 原版WCA规则：[www.worldcubeassociation.org/regulations](http://www.worldcubeassociation.org/regulations/)  
-WCA规则的 [PDF版](wca-regulations-and-guidelines.pdf)
+WCA规则的 [PDF版](link:pdf)
 
 ### 源代码
 WCA规则及指南的修订公开[于GitHub](https://github.com/cubing/wca-documents)。
