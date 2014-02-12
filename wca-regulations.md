@@ -20,7 +20,7 @@ Lo sviluppo e le varie modifiche apportate nel tempo al Regolamento WCA e alle L
 ### Contatti
 Per domande e opinioni, si prega di contattare il [Comitato per il Regolamento della WCA(WCA Regulations Committee, WRC)](http://www.worldcubeassociation.org/contact-information).
 
-### <contents> [Contenuto](regulations:contents)
+## <contents> [Contenuto](regulations:contents)
 
 Nota: potrebbero esserci discrepanze nella numerazione dei vari articoli, visto che i numeri non vengono riassegnati quando articoli e regole vengono cancellati.
 
