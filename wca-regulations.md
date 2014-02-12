@@ -16,7 +16,7 @@ WCA 규정은 또한 [WCA 지침](guidelines:top)으로 보완된다. 규정들�
 ### 인터넷 상에서의 정보
 국제 큐브 협회의 웹사이트: [www.worldcubeassociation.org](http://www.worldcubeassociation.org/)    
 WCA 규정의 출처: [www.worldcubeassociation.org/regulations](http://www.worldcubeassociation.org/regulations/)    
-WCA 규정의 [PDF 형식](wca-regulations-and-guidelines-2013.pdf)
+WCA 규정의 [PDF 형식](link:pdf)
 
 ### 출처
 WCA 규정과 지침의 변천은 [GitHub](https://github.com/cubing/wca-documents)에 공개되어 있다.
