@@ -19,7 +19,7 @@ WCA競賽規則 另有 [WCA指導方針](guidelines:top)來做補充。競賽規
 ### 連結資訊
 世界方塊協會的網頁: [www.worldcubeassociation.org](http://www.worldcubeassociation.org/)    
 WCA規則原文: [www.worldcubeassociation.org/regulations](http://www.worldcubeassociation.org/regulations/)    
-WCA競賽規則 [PDF版](wca-regulations-and-guidelines-2013.pdf)
+WCA競賽規則 [PDF版](link:pdf)
 
 ### 原始碼
 WCA競賽規則與指導方針公開在[GitHub](https://github.com/cubing/wca-documents)上。
