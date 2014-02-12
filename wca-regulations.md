@@ -23,8 +23,8 @@ A „must”, „must not”, „should”, „should not” és „may” szava
 
 ### Információk az interneten
 
-A WCA weboldala: [www.worldcubeassociation.org](http://www.worldcubeassociation.org/)
-Az eredeti WCA Szabályzat elérhetősége: [www.worldcubeassociation.org/regulations](http://www.worldcubeassociation.org/regulations/)
+A WCA weboldala: [www.worldcubeassociation.org](http://www.worldcubeassociation.org/)  
+Az eredeti WCA Szabályzat elérhetősége: [www.worldcubeassociation.org/regulations](http://www.worldcubeassociation.org/regulations/)  
 A WCA Szabályzat [PDF formátumban](link:pdf).
 
 ### Források
