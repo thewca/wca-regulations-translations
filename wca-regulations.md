@@ -24,7 +24,7 @@
 ### Інфармацыя ў Інтэрнэце
 Сайт Сусветнай Асацыяцыі Кубіка: [www.worldcubeassociation.org](http://www.worldcubeassociation.org/)
 Арыгінальная крыніца Палажэнняў WCA: [www.worldcubeassociation.org/regulations](http://www.worldcubeassociation.org/regulations/)
-Палажэнні WCA ў [фармаце PDF](wca-regulations-and-guidelines-2013.pdf)
+Палажэнні WCA ў [фармаце PDF](link:pdf)
 
 ### Крыніца
 Распрацоўка палажэнняў WCA і Дапаўненняў да Палажэнняў WCA з'яўляецца адкрытай для грамадскасці [на GitHub](https://github.com/cubing/wca-documents).
