@@ -23,8 +23,8 @@ A „must”, „must not”, „should”, „should not” és „may” szava
 
 ### Információk az interneten
 
-A WCA weboldala: [www.worldcubeassociation.org](http://www.worldcubeassociation.org/)  
-Az eredeti WCA Szabályzat elérhetősége: [www.worldcubeassociation.org/regulations](http://www.worldcubeassociation.org/regulations/)  
+A WCA weboldala: [www.worldcubeassociation.org](http://www.worldcubeassociation.org/)
+Az eredeti WCA Szabályzat elérhetősége: [www.worldcubeassociation.org/regulations](http://www.worldcubeassociation.org/regulations/)
 A WCA Szabályzat [PDF formátumban](link:pdf).
 
 ### Források
@@ -507,6 +507,7 @@ Megjegyzés: A Szabályzat változtatásával a Cikkek és a Szabályzat számoz
 
 A szervező csapatok elfogadhatják a következő szabályokat a verseny lebonyolításának megkönnyítésére.
 A WCA Board-nak jóvá kell hagynia minden más szabályozást.
+
 - Z1) A szervező csapat kérheti a játékok leadását regisztrációkor.
 - Z2) A szervező csapat meghatározhatja, hogy egy versenyző maximum hány versenyszámban indulhat.
 - Z3) A szervező csapat kiválaszthat embereket, akik korábbi eredményeik alapján (akár adott versenyeken is) közvetlenül továbbjutnak fordulókba.
