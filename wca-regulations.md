@@ -182,7 +182,7 @@ Nota: Os números dos artigos não são atualizados quando algum deles é apagad
     - 7h1) A equipe de organização pode exigir que um competidor que foi chamado para competir permaneça dentro da Área de Competidores até que tenha terminado todas as suas tentativas daquela rodada.
 
 
-## <article-8><competitions><competitions> Artigo 8: Campeonatos //ou competições?
+## <article-8><competitions><competitions> Artigo 8: Campeonatos ou competições?
 - 8a) Um campeonato oficial da WCA precisa:
 	- 8a1) Ser aprovado pelo Conselho da WCA.
 	- 8a2) Seguir o Regulamento da WCA.
