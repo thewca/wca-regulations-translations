@@ -95,7 +95,7 @@ Para ser mais informativo, cada orientação é classificada usando um dos segui
 - 7h2+) [SEPARADO][ADIÇÃO] Os competidores na área de competição não devem ser capazes de ver  os quebra-cabeças dos competidores no palco.
 
 
-## <article-8><competitions><competitions> Artigo 8: Competição
+## <article-8><competitions><competitions> Artigo 8: Campeonatos
 
 - 8a4+) [RECOMENDAÇÃO] Mudanças para aumentar o número máximo de competidores na rodada de qualificação ou primeira rodada, ou para adicionar uma rodada de classificação para os competidores recém-inscritos devem ser feitas em até um mês antes da competição. (veja a [Regra 9r3](regulations:regulation:9r3)).
 - 8a4++) [RECOMENDAÇÃO] O campeonato deve ser anunciado no minimo um mês antes de começar o campeonato.
