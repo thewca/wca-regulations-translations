@@ -2,7 +2,8 @@
 
 - For the English Regulations, please visit: [cubing/wca-documents](https://github.com/cubing/wca-documents)
 - For the maintenance project, please visit: [cubing/wca-documents-extra](https://github.com/cubing/wca-documents-extra)
-- For published translations and translation instructions, please visit [the WCA website](https://www.worldcubeassociation.org/regulations/translations/).
+- For published translations, please visit [the WCA website](https://www.worldcubeassociation.org/regulations/translations/).
+- For translation instructions, see [below](#translation-instructions).
 
 # Current Translations
 
