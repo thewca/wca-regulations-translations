@@ -57,17 +57,17 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
 
 ## <article-1><officials><officials> Artículo 1: Miembros Oficiales
 
-- 1a) Una competición debe incluir un Delegado de la WCA y un equipo organizador (que conste de una o más personas) con los siguientes miembros: jueces, mezcladores y encargados de introducir los tiempos en el ordenador.
+- 1a) Una competencia debe incluir un Delegado de la WCA y un equipo organizador (que conste de una o más personas) con los siguientes miembros: jueces, mezcladores y encargados de introducir los tiempos en el ordenador.
 - 1b) El equipo organizador es el responsable del buen funcionamiento de la competencia antes, durante y después de la misma.
-- 1c) El Delegado de la WCA puede delegar responsabilidades en otros miembros del equipo de organizadores, pero es el responsable de cómo se llevan a cabo esas responsabilidades. El Delegado de la WCA en una competición es el responsable de:
+- 1c) El Delegado de la WCA puede delegar responsabilidades en otros miembros del equipo de organizadores, pero es el responsable de cómo se llevan a cabo esas responsabilidades. El Delegado de la WCA en una competencia es el responsable de:
     - 1c1) Informar al equipo de la WCA del cumplimiento del reglamento durante la competencia, del progreso de ésta y de cualquier incidente. El informe debe ser enviado al equipo de la WCA en un máximo de una semana después de la competencia.
     - 1c3) Enviar los resultados de la competencia al equipo de la WCA.
-        - 1c3a) Todas las mezclas usadas durante la competición deberán ser mandadas junto a los resultados. 
+        - 1c3a) Todas las mezclas usadas durante la competencia deberán ser mandadas junto a los resultados. 
         - 1c3b) En las mezclas se debe indicar el evento, ronda y grupo para el que se usaron.
-    - 1c4) Enviar correcciones de los resultados de la competición al equipo de la WCA.
+    - 1c4) Enviar correcciones de los resultados de la competencia al equipo de la WCA.
     - 1c5) Aconsejar a los otros miembros oficiales si es necesario.
     - 1c6) Dar el visto bueno a todos los eventos y formatos de rondas de la competencia, antes de la misma, o si hay cambios, durante ella.
-    - 1c7) Decisiones sobre la descalificación de competidores durante la competición.
+    - 1c7) Decisiones sobre la descalificación de competidores durante la competencia.
     - 1c8) Generar y llevar a la competencia las mezclas.
     - 1c9) Decisiones sobre cambios en el horario para las rondas. En el caso de que dichos cambios sucedan, deben anunciarse claramente a todos los competidores.
     - 1c10) Hacer que una copia del reglamento esté disponible en el lugar de la competencia.
@@ -82,21 +82,21 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
     - 1g1) Un encargado de recoger resultados es responsable de compilar los resultados.
     - 1g2) Cualquier cambio a un resultado en una hoja de tiempos debe hacerse a discreción del Delegado de la WCA.
 - 1h) Los competidores en la misma ronda de un evento se pueden dividir en grupos.
-    - 1h1) Los mezcladores de una ronda no deberán mezclar o juecear para participantes de su propio grupo antes de haber acabado todos sus intentos en esa ronda. Pueden mezclar y juecear a competidores de su propio grupo a discreción del Delegado de la WCA, pero el equipo organizado debe asegurarse que los mezcladores y los jueces no puedan ver ninguna mezcla de sus intentos que no han realizado aún. 
-- 1j) Todos los miembros oficiales pueden participar en la competición.
+    - 1h1) Los mezcladores de una ronda no deberán mezclar o ser juez para participantes de su propio grupo antes de haber acabado todos sus intentos en esa ronda. Pueden mezclar y ser juez a competidores de su propio grupo a discreción del Delegado de la WCA, pero el equipo organizado debe asegurarse que los mezcladores y los jueces no puedan ver ninguna mezcla de sus intentos que no han realizado aún. 
+- 1j) Todos los miembros oficiales pueden participar en la competencia.
 - 1k) Los miembros oficiales pueden cumplir varias funciones (p. ej. miembro de la organización, delegado, juez, mezclador, encargado de recoger resultados).
 
 
 ## <article-2><competitors><competitors> Artículo 2: Competidores
 
-- 2a) Cualquier persona puede competir en una competición de la WCA si:
+- 2a) Cualquier persona puede competir en una competencia de la WCA si:
     - 2a1) Cumple con la normativa de la WCA.
-    - 2a2) Cumple los requisitos para participar, los cuales deben ser claramente anunciados antes de la competición.
+    - 2a2) Cumple los requisitos para participar, los cuales deben ser claramente anunciados antes de la competencia.
     - 2a3) No está suspendido por el equipo de la WCA.
 - 2b) Los competidores menores de 18 años deben tener el consentimiento de su(s) padre(s)/tutor(es) para inscribirse y competir.
 - 2c) Los competidores se inscribirán proporcionando toda la información requerida por el equipo organizador (Incluye: nombre, país, fecha de nacimiento, sexo, información para contactarlo, eventos seleccionados).
     - 2c1) Un competidor no podrá competir sin una inscripción completa, como ha sido determinada por el equipo organizador.
-- 2d) El nombre, país, sexo y resultados de un competidor son condierados información pública. Cualquier otra información personal es considerada confidencial, y no debe ser revelada a otras organizaciones/personas sin el consentimiento del competidor.
+- 2d) El nombre, país, sexo y resultados de un competidor son considerados información pública. Cualquier otra información personal es considerada confidencial, y no debe ser revelada a otras organizaciones/personas sin el consentimiento del competidor.
 - 2e) Los competidores deben representar a un país del que tengan la nacionalidad. El delegado de la WCA debería verificar la nacionalidad mediante documentos (p. ej. un pasaporte). Si un competidor no puede representar al país bajo el cual se ha registrado, el competidor puede ser descalificado y/o suspendido, a la discreción del equipo de la WCA.
     - 2e1) Los países que se pueden elegir están definidos en el artículo de Wikipedia "Lista de estados soberanos".
     - 2e2) Los competidores que cambien su nacionalidad, pueden cambiar su país de representación en la primera competencia de cada año.
@@ -117,11 +117,11 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
         - 2k2a) El delegado de la WCA puede descalificar cualquier resultado sospechoso.
     - 2k3) Se comporta de una manera ilegal, violenta o indecente; o daña intencionadamente las instalaciones del local o propiedades personales dentro del local.
     - 2k4) Interfiere con, o distrae a otros competidores durante la competencia.
-    - 2k5) No cumple con el reglamento de la WCA durante la competición.
+    - 2k5) No cumple con el reglamento de la WCA durante la competencia.
 - 2l) Un competidor puede ser descalificado inmediatamente, o después de un aviso, dependiendo de la naturaleza y la gravedad de la infracción.
 - 2m) Un competidor descalificado no tiene derecho a que se le reembolse el dinero que haya podido gastar por haber participado en la competencia.
 - 2n) Los competidores pueden discutir verbalmente la aplicación de una regla con el delegado de la WCA.
-- 2o) Las discusiones sólo se permiten durante la competrnvis, en menos de 30 minutos desde que ocurriera el incidente que se discute y antes de que comience la siguiente ronda del evento.
+- 2o) Las discusiones sólo se permiten durante la competencia, en menos de 30 minutos desde que ocurriera el incidente que se discute y antes de que comience la siguiente ronda del evento.
 - 2p) El delegado de la WCA debe resolver la discusión antes de que empiece la siguiente ronda del evento.
 - 2r) El competidor debe aceptar la decisión tomada por el delegado de la WCA. Penalización: Descalificación de la competencia.
 - 2s) Los competidores con discapacidades que puedan impedirles atenerse a las reglas de la WCA pueden solicitar adaptaciones específicas al Delegado. Los competidores que requieran estas adaptaciones deben ponerse en contacto con el equipo organizador y el Delegado de la WCA al menos dos semanas antes de la competencia. 
@@ -135,14 +135,14 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
     - 3a2) Los puzzles deben estar completamente operativos, de tal manera que una mezcla normal sea posible.
     - 3a3) Los puzzles con forma de poliedro deben usar un esquema de colores con un color único por cara en su estado resuelto. Cada variación de un puzzle debe tener movimientos, estados y soluciones idénticos a los del puzzle original.
 - 3d) Los puzzles deben tener pegatinas de colores, tiles de colores, plástico de colores o colores pintados/impresos. Todas las partes de colores de un puzzle deben estar hechos del mismo material. 
-    - 3d1) Excepción: Los competidores con una discapacidad visual documentada medicamente pueden usar puzzles con texturas diferentes en cada ccara. Las texturas o patrones deben ser los mismos para una cara. Cada cara debería tener un color distinto, para facilitar la mezcla y el trabajo del juez.
+    - 3d1) Excepción: Los competidores con una discapacidad visual documentada médicamente pueden usar puzzles con texturas diferentes en cada cara. Las texturas o patrones deben ser los mismos para una cara. Cada cara debería tener un color distinto, para facilitar la mezcla y el trabajo del juez.
     - 3d2) Los colores del puzzle deben ser sólidos, con un color uniforme por cara. Cada color en el puzzle debe ser claramente distinto a los demás.
     - 3d3) Las partes de color (pegatinas/tiles/pintura) no debe tener un grosor mayor a 1.5 mm. Excepción: Los tiles de un Megaminx puede ser un poco más gruesos de 1.5 mm, a discreción del Delegado. 
 - 3h) Las modificaciones que mejoran el concepto básico de un puzzle no están permitidas. Las versiones modificadas de un puzzle sólo están permitidas si la modificación no aporta ninguna información adicional al competidor (p. ej. orientación o identidad de una pieza), con respecto a la versión sin modificar del mismo puzzle.
     - 3h1) Los puzzles redondeados (“Pillowed”) no están permitidos. Excepción: Los 7x7x7 “Pillowed” sí se permiten.
     - 3h2) Los puzzles cuyos colores sean visibles en el interior del cubo, no están permitidos.
     - 3h3) Cualquier modificación a un puzzle que resulte en la mala actuación de un competidor no es un motivo válido para obtener un intento extra.
-    - 3h4) Para el puzzle “Clock”, partes insertas personalizadas (del mismo tamaño y forma de los insertos de papel tradicionales) están permitidos, a la discreción del Delegado de la WCA. Estos insertos deben tener una indicación clara de 12 en punto que iguale a los insertos originales. 
+    - 3h4) Para el puzzle Clock, partes insertas personalizadas (del mismo tamaño y forma de los insertos de papel tradicionales) están permitidos, a la discreción del Delegado de la WCA. Estos insertos deben tener una indicación clara de 12 en punto que iguale a los insertos originales. 
 - 3j) Los puzzles deben estar limpios, y no deben tener ninguna marca, piezas elevadas, daños u otras diferencias que puedan distinguir una pieza de otra similar. Excepción: Un logotipo (ver [Regla 3l](regulations:regulation:3l)).
     - 3j1) Los puzzles pueden tener hasta un cierto límite de desgaste, a discreción del Delegado de la WCA.
     - 3j2) Definición: Dos piezas son similares una de la otra si son idénticas en forma y tamaño, o que sea su forma de espejo (como se vería la pieza si fuera colocada delante de un espejo) e idéntica en tamaño.
@@ -152,7 +152,7 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
     - 3l1) El logo debe estar puesto en una pieza central. Excepto para los puzzles que no tienen piezas centrales:
         - 3l1a) Para Pyraminx y 2x2x2, el logo puede estar en cualquier pieza.
         - 3l1b) Para Square-1, el logo debe estar en una pieza de la capa media. 
-    - 3l2) El logo puede estar en realieven, grabado, o consistir de una pegatina sobrepuesta. Excepción: El logo no debe poder distinguirse mediante el tacto para los eventos de armar el cubo sin ver (p. ej. no relieves, grabados ni stickers sobre puestas).
+    - 3l2) El logo puede estar en realieve, grabado, o consistir de una pegatina sobrepuesta. Excepción: El logo no debe poder distinguirse mediante el tacto para los eventos de armar el cubo sin ver (p. ej. no relieves, grabados ni pegatinassobre puestas).
 - 3m) Todas las marcas de puzzles o partes de puzzles están permitidas siempre y cuando cumplan con todas las reglas de la WCA.
 
 
@@ -209,24 +209,24 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
         - 7f1a) Stackmat: El cronómetro de Speedstacks y una alfombrilla compatible con el cronómetro.
         - 7f1b) Mat : Alfombrilla del Stackmat.
         - 7f1c) Cronómetro: Cronómetro del Stackmat
-        - 7f1d) Superficie: La superficie plana en la que el Stackmat ha sido colocado. La alfombrilla se considera parte de la superficie. El cronómetro, no.
-    - 7f2) El cronómetro debe estar unido a la alfombrilla y colocado en la superficie, con el cronómetro en el lado de la alfombrilla más cercano al competidor.
-        - 7f2a) Excepción: para la resolución con los pies, la alfombrilla debe estar colocada directamente en el suelo. El cronómetro puede situarse en el lado más alejado del competidor.  
+        - 7f1d) Superficie: La superficie plana en la que el Stackmat ha sido colocado. El tapete se considera parte de la superficie. El cronómetro, no.
+    - 7f2) El cronómetro debe estar unido al tapete y colocado en la superficie, con el cronómetro en el lado de el tapete más cercano al competidor.
+        - 7f2a) Excepción: para la resolución con los pies, el tapete debe estar colocado directamente en el suelo. El cronómetro puede situarse en el lado más alejado del competidor.  
 - 7h) El área de la competencia debe tener una zona para competidores.
     - 7h1) El equipo de organizadores puede requerir que los competidores que ya hayan sido llamados una vez para competir se queden dentro del área de competidores hasta que hayan terminado todos los intentos de la ronda.
 
 
 ## <article-8><competitions><competitions> Artículo 8: Competiciones
 
-- 8a) Una competición oficial de la WCA debe:
+- 8a) Una competencia oficial de la WCA debe:
     - 8a1) Estar aprobada por el equipo de la WCA.
     - 8a2) Seguir el reglamento de la WCA.
     - 8a3) Tener un Delegado de la WCA presente.
     - 8a4) Estar anunciada en la web de la WCA al menos dos semanas antes de su inicio.
     - 8a6) Ser públicamente accesible.
     - 8a7) Usar el Cronómetro de SpeedStacks auténtico (2ª generación o Pro) para medir el tiempo.
-    - 8a8) Estar abierta para toda persona que quiera competir. Cualquier restricción debe estar aprobada por el equipo de la WCA y debe ser anunciada cuando se anuncie la competición.
-- 8f) Si el reglamento de la WCA no se sigue correctamente durante la competición, el equipo de la WCA puede descalificar los intentos afectados.
+    - 8a8) Estar abierta para toda persona que quiera competir. Cualquier restricción debe estar aprobada por el equipo de la WCA y debe ser anunciada cuando se anuncie la competencia.
+- 8f) Si el reglamento de la WCA no se sigue correctamente durante la competencia, el equipo de la WCA puede descalificar los intentos afectados.
 
 
 ## <article-9><events><events> Artículo 9: Eventos
@@ -236,11 +236,11 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
     - 9a2) Otros puzzles que se manipulan girando sus caras, comúnmente conocidos como "twisty puzzles"
 - 9b) Los puzzles y formatos oficiales de la WCA son:
     - 9b1) Cubo de Rubik, 2x2x2, 4x4x4, 5x5x5, Clock, Megaminx, Pyraminx, Square-1, Skewb, y Cubo de Rubik a una mano.
-        - 9b1a) Los formatos de competición para estos eventos son "Mejor de X" (donde X es 1, 2 o 3), y "Promedio de 5".
+        - 9b1a) Los formatos de competencia para estos eventos son "Mejor de X" (donde X es 1, 2 o 3), y "Promedio de 5".
     - 9b2) Cubo de Rubik con los pies, Cubo de Rubik en menos movimientos (FM) 6x6x6, 7x7x7
-        - 9b2a) Los formatos de competición para estos eventos son "Mejor de X" (donde X es 1 o 2) y "Media de 3".
+        - 9b2a) Los formatos de competencia para estos eventos son "Mejor de X" (donde X es 1 o 2) y "Media de 3".
     - 9b3) Cubo de Rubik a ciegas, 4x4x4 a ciegas, 5x5x5 a ciegas y múltiples cubos a ciegas.
-        - 9b3a) El formato de competición de estos eventos es "Mejor de X" (donde X es 1, 2 o 3).
+        - 9b3a) El formato de competencia de estos eventos es "Mejor de X" (donde X es 1, 2 o 3).
         - 9b3b) Para Cubo de Rubik a ciegas, la WCA también reconoce “Media de 3” y records basados en los tiempos de las rondas de “Mejor de 3”.
 - 9f) Los resultados de una ronda se miden como sigue:
     - 9f1) Todos los resultados cronometrados por debajo de 10 minutos se miden y se redondean a la centésima de segundo más cercana. Todas las medias y promedios por debajo de 10 minutos se miden y se redondean a la centésima de segundo más cercana.
@@ -256,18 +256,18 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
     - 9f12) Para rondas con formato "Mejor de X", la posición se asignan basándose en el mejor resultado de cada competidor. Las siguientes reglas se usan para comparar resultados:
         - 9f12a) Para resultados cronometrados "mejor" se define como el tiempo más corto.
         - 9f12b) Para la categoría de menos movimientos, "mejor" se define como la solución más corta.
-        - 9f12c) Para la categoría de múltiples cubos a ciegas, la posición se asigna según el número de cubos resueltos menos el de cubos sin resolver, donde un mayor resultado es mejor. Si ese resultado es menor que 0, o si sólo se resuelve 1 puzzle, el intento se considerará como un DNF. Si varios competidores obtienen el mismo resultado, la posición se asigna según el tiempo total, donde el menor tiempo cronometrado es el mejor. Si los competidores teienen el mismo resultado con el mismo tiempo, la posición se basa en el número de puzzles que los competidores fallaron, donde un menor número de cubos sin resolver es mejor.
+        - 9f12c) Para la categoría de múltiples cubos a ciegas, la posición se asigna según el número de cubos resueltos menos el de cubos sin resolver, donde un mayor resultado es mejor. Si ese resultado es menor que 0, o si sólo se resuelve 1 puzzle, el intento se considerará como un DNF. Si varios competidores obtienen el mismo resultado, la posición se asigna según el tiempo total, donde el menor tiempo cronometrado es el mejor. Si los competidores tienen el mismo resultado con el mismo tiempo, la posición se basa en el número de puzzles que los competidores fallaron, donde un menor número de cubos sin resolver es mejor.
     - 9f13) Para rondas con formato "Media de 3" y "Promedio de 5" ,la posición se asigna según el promedio o media, donde "mejor" es el tiempo más corto.
     - 9f14) Para rondas con formato "Media de 3" y "Promedio de 5", si dos o más competidores obtienen un promedio/media idéntico, se asignará la posición dependiendo del mejor intento de cada competidor, donde "mejor" es el tiempo más corto.
     - 9f15) Los competidores que obtengan el mismo resultado en una ronda tienen la misma posición en la ronda. 
 - 9g) Una ronda combinada consiste en dos fases de intentos, donde los competidores avanzan a la siguiente fase si pasan un corte en la primera fase.
     - 9g2) Que un competidor pase a la segunda fase de una ronda combinada debe ser decidido por posición (pasan los mejores X competidores) o por resultado (pasan todos los competidores con un resultado mejor por debajo de X)
-- 9i) Los resultados de una competición de la WCA deber aparecer en los rankings mundiales de la WCA.
+- 9i) Los resultados de una competencia de la WCA deber aparecer en los rankings mundiales de la WCA.
     - 9i1) La WCA reconoce los siguientes tipos de récords regionales: récords nacionales (NR), récords continentales (CR) y récords mundiales (WR).
     - 9i2) Se considera que todos los resultados de una ronda tuvieron lugar el último día de calendario de la ronda. Si un récord regional se bate múltiples veces en el mismo día, sólo el mejor de esos resultados se cuenta como récord regional.
     - 9i3) Si el reglamento de la WCA cambia para un evento, los récords regionales que haya se mantendrán hasta que se batan bajo el nuevo reglamento de la WCA.
-- 9j) Cada evento debe realizarse como mucho una vez por competición.
-- 9k) Todos los competidores pueden participar en todos los eventos de una competición, excepto en casos específicamente aprobados por el equipo de la WCA.
+- 9j) Cada evento debe realizarse como mucho una vez por competencia.
+- 9k) Todos los competidores pueden participar en todos los eventos de una competencia, excepto en casos específicamente aprobados por el equipo de la WCA.
 - 9l) Cada ronda debe acabar antes de que otra ronde del mismo evento empiece.
 - 9m) Un evento debe tener como máximo 4 rondas.
     - 9m1) Un evento con 99 o menos participantes debe tener como máximo 3 rondas.
@@ -374,19 +374,19 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
     - A2c) Una vez que el mezclador empiece a mezclar el puzzle, el competidor no debe ver el puzzle hasta que empiece la fase de inspección.
         - A2c1) El mezclador coloca un tapacubos sobre el puzzle mezclado que no permita que lo vea ningún competidor ni espectador. El tapacubos debe permanecer sobre el puzzle hasta el comienzo del intento.
     - A2d) Cuando coja un cubo de la mesa de mezclas, el juez mira brevemente el puzzle para asegurarse de que está suficientemente mezclado. Si el juez piensa que no es así, se lo comunica al mezclador, que lo comprobará detalladamente.
-    - A2e) El juez coloca el puzzle sobre la alfombrilla en una orientación aleatoria y se asegura de que está completamente cubierto. 
-        -A2e1) El competidor no puede pedir una orientación específica, y el juez no debe influir en la orientación en que coloca el puzzle sobre la alfombrilla.
+    - A2e) El juez coloca el puzzle sobre el tapete en una orientación aleatoria y se asegura de que está completamente cubierto. 
+        -A2e1) El competidor no puede pedir una orientación específica, y el juez no debe influir en la orientación en que coloca el puzzle sobre el tapete.
 - A3) Inspección:
     - A3a) El competidor puede inspeccionar el puzzle al principio de cada intento.
         - A3a1) El competidor tiene un máximo de 15 segundos para inspeccionar el puzzle y empezar la solución.
-    - A3b) Antes de que el competidor empiece el intento, el juez prende y resetea el cronómetro de ser necesario. El Juez también prepara el cronómetro de mano para medir el tiempo de inspección.
+    - A3b) Antes de que el competidor empiece el intento, el juez prende y le resetea el cronómetro de ser necesario. El Juez también prepara el cronómetro de mano para medir el tiempo de inspección.
         - A3b1) Cuando el juez crea que el competidor está preparado, pregunta "¿PREPARADO?". El competidor debe estar preparado para empezar el intento antes de que pase un minuto después de haber sido llamado. de otro modo se penalizará con un DNS, a discreción del juez.
         - A3b2) Cuando el competidor confirma que está preparado,  el juez descubre el puzzle y comienza a contar el tiempo de inspección con el cronómetro de mano.
     - A3c) El competidor puede coger el puzzle durante la inspección.
         - A3c1) El competidor no debe realizar ningún movimiento al puzzle durante la inspección. Penalización: descalificación del intento (DNF).
         - A3c2) Si las piezas del puzzle no están completamente alineadas, el competidor puede alinear las caras, siempre y cuando las desalineaciones estén dentro de los límites de la [Regla 10f](regulations:regulation:10f). 
         - A3c3) El competidor puede resetear el cronómetro antes de empezar la solución.
-    - A3d) Al final de la inspección, el competidor coloca el puzzle sobre la alfombrilla, en cualquier orientación o posición.
+    - A3d) Al final de la inspección, el competidor coloca el puzzle sobre el tapete, en cualquier orientación o posición.
         - A3d1) El puzzle no puede quedarse sobre el cronómetro. Penalización: Penalización de tiempo (+2 segundos).
         - A3d2) Cuando hayan pasado 8 segundos de la inspección, el juez dice "8 SEGUNDOS".
         - A3d3) Cuando hayan pasado 12 segundos de la inspección, el juez dice "12 SEGUNDOS".
@@ -422,8 +422,8 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
     - A7b) El juez anota el resultado en la hoja de resultados. 
         - A7b1) Si se han asignado penalizaciones, el juez anota tanto el resultado mostrado en el cronómetro junto con  las penalizaciones. El formato debe ser "X + T + Y = F", donde X representa las suma de las penalizaciones previas a la resolución, T representa el tiempo mostrado en el cronómetro, Y representa la suma de las penalizaciones durante/después de la resolución, y F representa el resultado final. Si X y/o Y son 0, los 0 son omitidos. ( p. ej. 2 + 17.65 + 2 = 21.65, o 17.65 + 2 = 19.65).
     - A7c) Tanto el juez como el competidor deben firmar (o escribir sus iniciales) en la hoja de resultados para reconocer que el resultado está correcto, completo, con el formato correcto y que se puede leer claramente. 
-        - A7c1) Si el competidor o el juez rehúsan reconocer y firmar la hoja de tiempos, el Delegado de la WCA debe resolver la disputa.  
-        - A7c2) El competidor no debe firmar un intento en la hoja de resultados antes de que el juez haya anotado el resultado final para dicho intento. Si el competidor firma (o marca) un intento antes de que este haya empezado, o antes de que el jeuz termine de anotar el resultado, pierde el derecho de ese intento y el resultado será considerado como DNS.
+        - A7c1) Si el competidor o el juez rehusan reconocer y firmar la hoja de tiempos, el Delegado de la WCA debe resolver la disputa.  
+        - A7c2) El competidor no debe firmar un intento en la hoja de resultados antes de que el juez haya anotado el resultado final para dicho intento. Si el competidor firma (o marca) un intento antes de que este haya empezado, o antes de que el juez termine de anotar el resultado, pierde el derecho de ese intento y el resultado será considerado como DNS.
     - A7f) Cuando la hoja de resultados de una ronda está completa, el juez entrega la hoja al encargado de introducir los tiempos en el ordenador. 
 
     
@@ -439,7 +439,7 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
     - B2d) El competidor comienza su intento al quitar las manos del cronómetro comenzando de esta manera a contar el tiempo.
         - B2d1) El competidor descubre el puzzle después de arrancar el cronómetro.
     - B2e) si se está usando un cronómetro de mano aparte del cronómetro de Stackmat, el juez arranca el cronómetro tan pronto como el competidor comience su intento.
-    - B2f) Si se está usando un cronómetro de mano como el único cronómetro, el competidor pone las manos sobre la mesa (en vez de ponerlas sobre el cronómetro de Stackmat). Después de que el competidor confirma que está listo, empieza a resolver desccubriendo el puzzle. El juez activa el cronómetro tan pronto como el competidor comience su intento.
+    - B2f) Si se está usando un cronómetro de mano como el único cronómetro, el competidor pone las manos sobre la mesa (en vez de ponerlas sobre el cronómetro de Stackmat). Después de que el competidor confirma que está listo, empieza a resolver descubriendo el puzzle. El juez activa el cronómetro tan pronto como el competidor comience su intento.
 - B3) Fase de memorización:
     - B3a) El competidor puede coger el puzzle durante la fase de memorización.
     - B3b) El competidor no debe tomar notas físicamente. Penalización: descalificación del intento (DNF).
@@ -487,7 +487,7 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
     - E2b) Todos los competidores tienen un tiempo total límite de 60 minutos para proporcionar una solución.
         - E2b1) El juez debería declarar "QUEDAN 5 MINUTOS" a los 55 minutos del comienzo, y debe declarar "PARAR" a los 60 minutos.
     - E2c) A los 60 minutos, cada competidor debe dar al juez una solución escrita legiblemente con el nombre del competidor, usando la notación definida para Métrica de Giros de Bloques Exteriores (descrita en la [Regla 12a](regulations:regulation:12a)). Penalización: descalificación del intento (DNF).
-    - E2d) La longitud de la solución se calcula en Métrica de Giros de Bloques Exteriores (cf. [Regla 12a](regulations:regulation:12a)).
+    - E2d) La longitud de la solución se calcula en Métrica de Giros de Bloques Exteriores (ver [Regla 12a](regulations:regulation:12a)).
         - E2d1) Se permite una longitud máxima de la solución de 80 (movimientos y rotaciones).
     - E2e) La solución propuesta debe no ser directamente derivada de ninguna de las partes de la secuencia de mezcla. Penalización: descalificación del intento (DNF).
         - E2e1) El Delegado de la WCA puede pedir a un competidor que explique el propósito de cada movimiento en su solución, independientemente de la secuencia de mezcla. Si el competidor no es capaz de dar una explicación válida, el intento queda descalificado (DNF).
@@ -500,8 +500,8 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
 ## <article-F><clock><clocksolving> Artículo F: Resolución del Clock
 
 - F1) Se siguen los procedimientos estándar de Speed Solving, descritos en el [Artículo A](regulations:article:A). Las reglas adicionales que reemplazan a los correspondientes procedimientos del [Artículo A](regulations:article:A) se describen a continuación.
-- F2) El juez sitúa el puzzle mezclado sobre la alfombrilla en posición vertical.
-- F3) Al final del período de inspección, el competidor sitúa el puzzle sobre la alfombra en posición vertical. El competidor debe no cambiar las posiciones de la mezcla de ninguna de las agujas antes del comienzo de la resolución. Penalización: descalificación del intento (DNF).
+- F2) El juez sitúa el puzzle mezclado sobre el tapete en posición vertical.
+- F3) Al final del período de inspección, el competidor sitúa el puzzle sobre el alfombra en posición vertical. El competidor debe no cambiar las posiciones de la mezcla de ninguna de las agujas antes del comienzo de la resolución. Penalización: descalificación del intento (DNF).
 
 
 ## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Artículo H: Resolución de Múltiples cubos a ciegas
@@ -517,8 +517,8 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
 
 ## <article-Z><optional><optional> Artículo Z: Reglas Opcionales
 
-Los equipos organizadores pueden adoptar reglas opcionales que faciliten la gestión de la competición.
-La Junta de la WCA debe aprobar cualquier regla opcional para una competición. 
+Los equipos organizadores pueden adoptar reglas opcionales que faciliten la gestión de la competencia.
+La Junta de la WCA debe aprobar cualquier regla opcional para una competencia. 
 
 - Z1) El equipo organizador puede pedir a los competidores que entreguen sus puzzles al registrarse.
 - Z2) El equipo organizador puede limitar el número de eventos por competidor.
