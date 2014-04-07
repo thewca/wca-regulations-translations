@@ -7,7 +7,7 @@
 
 ### Reglamento y Directrices de la WCA
 
-El Reglamento de la WCA contiene todas las reglas a aplicar en las competiciones oficiales aprobadas por la World Cube Association.
+El Reglamento de la WCA contiene todas las reglas a aplicar en las competencias oficiales aprobadas por la World Cube Association.
 El Reglamento de la WCA está complementado por las [Directrices de la WCA](guidelines:top). El Reglamento debe considerarse un documento completo, mientras que las Directrices contienen explicaciones adicionales.
 
 ### Sintaxis
@@ -216,7 +216,7 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
     - 7h1) El equipo de organizadores puede requerir que los competidores que ya hayan sido llamados una vez para competir se queden dentro del área de competidores hasta que hayan terminado todos los intentos de la ronda.
 
 
-## <article-8><competitions><competitions> Artículo 8: Competiciones
+## <article-8><competitions><competitions> Artículo 8: Competencias
 
 - 8a) Una competencia oficial de la WCA debe:
     - 8a1) Estar aprobada por el equipo de la WCA.
@@ -231,7 +231,7 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
 
 ## <article-9><events><events> Artículo 9: Eventos
 
-- 9a) La WCA regula competiciones de:
+- 9a) La WCA regula competencias de:
     - 9a1) Puzzles conocidos como puzzles Rubik.
     - 9a2) Otros puzzles que se manipulan girando sus caras, comúnmente conocidos como "twisty puzzles"
 - 9b) Los puzzles y formatos oficiales de la WCA son:
@@ -522,6 +522,6 @@ La Junta de la WCA debe aprobar cualquier regla opcional para una competencia.
 
 - Z1) El equipo organizador puede pedir a los competidores que entreguen sus puzzles al registrarse.
 - Z2) El equipo organizador puede limitar el número de eventos por competidor.
-- Z3) El equipo organizador puede seleccionar a competidores que se clasifican directamente para rondas específicas de eventos específicos, basándose en los resultados de competiciones anteriores.
+- Z3) El equipo organizador puede seleccionar a competidores que se clasifican directamente para rondas específicas de eventos específicos, basándose en los resultados de competencias anteriores.
 - Z4) El equipo organizador puede limitar el número de competidores por evento, ya sea "el primero que llegue" o basarse en tiempos de clasificación o clasificaciones en el ranking mundial de la WCA en una fecha previamente anunciada.
 - Z5) El equipo organizador puede  prohibir que los competidores puedan participar en combinaciones específicas de eventos.
