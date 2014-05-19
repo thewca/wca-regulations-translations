@@ -20,7 +20,8 @@
 - [portuguese-brazilian](https://github.com/cubing/wca-documents-translations/tree/portuguese-brazilian)
 - [portuguese-european](https://github.com/cubing/wca-documents-translations/tree/portuguese-european)
 - [russian](https://github.com/cubing/wca-documents-translations/tree/russian)
-- [spanish](https://github.com/cubing/wca-documents-translations/tree/spanish)
+- [spanish-american](https://github.com/cubing/wca-documents-translations/tree/spanish-american)
+- [spanish-european](https://github.com/cubing/wca-documents-translations/tree/spanish-european)
 
 
 # Translation Instructions
