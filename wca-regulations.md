@@ -1,6 +1,6 @@
 # <wca-title>WCA Szabályzat 2014
 
-<version>Verzió: 2014. január 1.
+<version>Verzió: 2014. április 3.
 
 
 ## Megjegyzések
@@ -121,21 +121,21 @@ Megjegyzés: A Szabályzat változtatásával a Cikkek és a Szabályzat számoz
     - 3a1) A versenyzőknek meg kell jelenniük és készen kell állniuk a versenyzésre, amikor szólítják őket. Büntetés: kizárás a versenyszámból.
     - 3a2) A játékoknak teljesen működőképesnek kell lenniük, hogy a normál keverés elvégezhető legyen rajtuk.
     - 3a3) A több oldalú játékoknál kirakott állapotban egy azonos színnel kell, hogy rendelkezzen minden oldal. Minden játékvariáció forgathatósága, állásai és megoldása funkcionálisan ugyanaz kell, hogy legyen, mint az eredeti játéké.
-- 3d) A játékoknak színes matricákkal, csempékkel kell rendelkezniük.
+- 3d) A játékoknak az alábbiakban felsorolt színezett részek egyikével kell rendelkeznie: színes matrica, színes csempe, színes műanyag rész vagy festett/nyomtatott színezés. Azonban egy játék minden színezett részének megegyező típusúnak kell lennie.
     - 3d1) Kivétel: Orvosi igazolással rendelkező, vizuális fogyatékossággal élő versenyzők használhatnak minden oldalon különböző mintákkal ellátott játékokat. A mintáknak azonosnak kell lennie az egyes oldalakon. Minden oldalnak eltérő színűnek kell lennie, ezzel megkönnyítve a keverést és a bíráskodást.
     - 3d2) A játékok színeinek szolidnak kell lenniük, egy egységes színnel az egyes oldalakon. Minden színnek egyértelműen megkülönböztethetőnek kell lennie a többitől.
-    - 3d3) A matricák/csempék nem lehetnek vastagabbak 1 mm-nél.
-- 3h) Nem megengedettek olyan módosítások, amelyek változtatnak a játék eredeti koncepcióján. A módosított játékok megengedettek, amennyiben nem juttatja több információhoz a versenyzőt (pl. az elemek azonosításában) a nem módosított játékhoz képest.
+    - 3d3) A színezett részek nem lehetnek vastagabbak 1,5 mm-nél. Kivétel: a Megaminx csempéi lehetnek valamivel vastagabbak, a WCA delegált beleegyezésével.
+- 3h) Nem megengedettek olyan módosítások, amelyek változtatnak a játék eredeti koncepcióján. A módosított játékok megengedettek, amennyiben nem juttatja több információhoz a versenyzőt (pl. a játék orientációjának meghatározásában vagy az elemek azonosításában) a nem módosított játékhoz képest.
     - 3h1) A lekerekített játékok nem megengedettek. Kivétel: a lekerekített 7x7x7-es kocka.
-    - 3h2) A matrica nélküli és az átlátszó játékok nem megengedettek.
+    - 3h2) Azok a játékok, melyeknek a színezése a játék belsejében is látható, nem megengedettek.
     - 3h3) Bármely módosítás, amely gyenge teljesítményhez vezet, nem jogosítja fel a versenyzőt új kísérletre.
     - 3h4) A Rubik’s Clock esetén az egyéni háttér alkalmazása megengedett (az eredetivel megegyező alakú és méretű papír formájában), a WCA delegált beleegyezésével. A háttérnek egyértelműen jelölnie kell a 12 óra helyét, az eredetivel megegyező pozícióban.
 - 3j) A játékoknak tisztának kell lennie, nem tartalmazhatnak jelöléseket, elemelkedett darabokat, sérüléseket vagy más eltéréseket, amelyek megkülönböztetik az egyes darabjait egymástól. Kivétel: logó. (lásd Szabályzat 3l)
     - 3j1) A játékoknál megengedett a természetes kopás, erről a WCA delegált dönt.
     - 3j2) Definíció: Két elemet egyformának tekintünk, ha alakjuk és méretük megegyezik, vagy alakjuk tükrözött, méretük pedig megegyező.
-    - 3j3) A bordázott/mintázott felületű matricákat tartalmazó kockák, melyek orientációja kitapintható, nem alkalmazhatók a vakon történő kirakásokhoz.
+    - 3j3) A bordázott/mintázott felületű részeket tartalmazó kockák, melyekkel az elemek orientációja kitapintható, nem alkalmazhatók a vakon történő kirakásokhoz.
 - 3k) A játékokat a WCA delegáltnak jóvá kell hagynia a versenyben való használat előtt.
-- 3l) A kocka alakú játékokon lehetőség van logó elhelyezésére a matricán/csempén, de maximum 1 matricán helyezhetünk el logót.
+- 3l) A kocka alakú játékokon lehetőség van logó elhelyezésére a színezett részen, de maximum 1 színezett részen helyezhetünk el logót. 
     - 3l1) A logót valamelyik középső elemen kell elhelyezni. Kivétel: ha a játéknak nincs középső eleme:
         - 3l1a) A Pyraminx-en és a 2x2x2-es kockán a logó bármelyik elemen elhelyezhető.
         - 3l1b) A Square-1-on a logót valamelyik középső rétegen lévő elemen kell elhelyezni.

@@ -1,6 +1,6 @@
 # <wca-title>WCA Útmutató 2014
 
-<version>Verzió: 2014. január 11.
+<version>Verzió: 2014. április 3.
 
 
 ## Megjegyzések
@@ -56,12 +56,11 @@ A hatékonyabb megértés segítségéül minden útmutatás a következő címk
 - 3a++) [KIEGÉSZÍTÉS] Alapértelmezésként a versenyző ugyanazt a játékot hasznűlja az egymást követő kirakásoknál. A kirakások között a versenyző változtathat a használt játékon, a bíró vagy a WCA delegált beleegyezésével.
 - 3a++) [PONTOSÍTÁS] A versenyzők kölcsönkérhetnek egymástól játékokat a versenyen való használatra.
 - 3a1+) [PONTOSÍTÁS] A versenyzők kizárhatók, ha nem jelennek meg, amikor versenyezni szólítják őket, vagy ha  nem tudnak játékot biztosítani a bekeveréshez. (pl. Ha egy másik versenyző játékát kívánja használni, de azzal éppen valaki más versenyzik, így nem tudja időben leadni a játékát a bekeveréshez.)
-- 3d+) [EMLÉKEZTETŐ] Korábban a nyomtatott/festett színek engedélyezve voltak a matricák/csempék helyett, de ez a továbbiakban nem megengedett.
 - 3h+) [PONTOSÍTÁS] A játékokon lehet belsőleg finomítani csiszolással, vagy szilikonozással illetve egyéb forgatást segítő anyagokkal.
 - 3h++) [PÉLDA] A nem megengedett módosítások közé tartozik ha: új forgatások lehetségesek; az eredeti forgatások nem lehetségesek a játékon; több darab vagy rész, (illetve a hátsó oldal) látható, mint az eredeti játékon; ha a mozdulatok automatikusan végrehatódnak vagy több/más kirakott állás és létezik.
 - 3j+) [EMLÉKEZTETŐ] Korábban a gravírozott elemek használata engedélyezve volt, azonban ez a továbbiakban nem megengedett.
 - 3j2+) [PONTOSÍTÁS] A Rubik’s Clock-on mind a 18  belső elem, ugyanolyan elemnek tekintendő.
-- 3l+) [KIEGÉSZÍTÉS] A logók bármilyen ésszerű alakot formázhatnak, amely nem ad szembetűnő előnyt (pl. nem tartalmazhat kódolt információt, amely lehetőséget ad csalásra) és ha a matrica/csempe eredeti színe egyértelműen meghatározható marad. A rendhagyó logók használatára csak a WCA delegált beleegyezésével van lehetőség.
+- 3l+) [KIEGÉSZÍTÉS] A logók bármilyen ésszerű alakot formázhatnak, amely nem ad szembetűnő előnyt (pl. nem tartalmazhat kódolt információt, amely lehetőséget ad csalásra) és ha az elem eredeti színe egyértelműen meghatározható marad. A rendhagyó logók használatára csak a WCA delegált beleegyezésével van lehetőség.
 
 ## <article-4><scrambling><scrambling> 4. Cikk: Keverés
 
@@ -76,7 +75,7 @@ A hatékonyabb megértés segítségéül minden útmutatás a következő címk
 ## <article-5><puzzle-defects><puzzledefects> 5. Cikk: Játékok meghibásodása
 
 - 5b5+) [PÉLDA] Példa arra az esetre, amikor fizikailag külön állnak a játékok elemei, és kirakottnak tekintendők: Rubik kocka egy középsapkája, nagykockák egy középső eleme, nagykockák belső elemei.
-- 5b5++) [PÉLDA] Példa arra az esetre, amikor fizikailag külön állnak a játékok elemei, és nem tekintendők kirakottnak (DNF): Rubik kocka több középsapkája, nagykockák több középső eleme, Rubik kocka sarokeleme, 4x4x4-es kocka sarokeleme/éle, illetve két elem bármilyen kombinációja, amikor mindkét elem rendelkezik legalább egy színezett oldallal.
+- 5b5++) [PÉLDA] Példa arra az esetre, amikor fizikailag külön állnak a játékok elemei, és nem tekintendők kirakottnak (DNF): Rubik kocka több középsapkája, nagykockák több középső eleme, Rubik kocka sarokeleme, 4x4x4-es kocka sarokeleme/éle, illetve két elem bármilyen kombinációja, amikor mindkét elem rendelkezik legalább egy színezett résszel.
 - 5b5+++) [PÉLDA] Példa, arra az esetre, amikor az elemek nem érintkeznek teljes mértékben egymással és kirakottnak tekintendők: 5x5x5-ös kocka középső eleme helyben elfordulva.
 - 5b5a++++) [PÉLDA] Példa, arra az esetre, amikor az elemek nem érintkeznek teljes mértékben egymással és nem tekintendők kirakottnak (DNF): Rubik kocka él-eleme némileg elpoppolva.
 - 5c+) [EMLÉKEZTETŐ] Ha a versenyzőnek meghibásodik a játéka, az nem jelent számára új kirakáshoz való jogot.
