@@ -40,7 +40,7 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 - 1a) Jedes Turnier muss einen WCA-Delegierten und ein Organisationsteam (bestehend aus einer Person oder mehreren Personen) haben. Ein Turnier benötigt ebenso die folgenden offiziellen Organe: Judges, Scrambler und Scoretaker.
 - 1b) Das Organisationsteam eines Turniers ist verantwortlich für sämtliche Vorkehrungen vor, während und nach dem Turnier.
 - 1c) Der WCA-Delegierte darf verschiedene Pflichten anderen Mitgliedern des Organisationsteams übertragen, ist aber schlussendlich verantwortlich für die Ausführung dieser Pflichten. Der WCA-Delegierte eines Turniers ist verantwortlich:
-	- 1c1) dafür, dem WCA-Board Bericht zu erstatten, ob alle WCA-Regeln während des Turniers befolgt wurden, wie das Turnier insgesamt verlief und ob es irgendwelche Zwischenfälle gab. Berichte müssen dem WCA Board binnen einer Woche nach Turnierende vorgelegt werden.
+	- 1c1) dafür, dem WCA-Board Bericht zu erstatten, ob alle WCA-Regeln während des Turniers befolgt wurden, wie das Turnier insgesamt verlief und ob es irgendwelche Zwischenfälle gab. Berichte müssen dem WCA-Board binnen einer Woche nach Turnierende vorgelegt werden.
 	- 1c3) dafür, dem WCA Results Team die Ergebnisse des Turniers zu übermitteln.
 		- 1c3a) Sämtliche Scrambles, die im Turnier verwendet wurden, müssen zusammen mit den Resultaten eingereicht werden.
 		- 1c3b) Scrambles müssen mit den Kategorien, Runden und Gruppen, für die sie verwendet wurden, beschriftet sein.
@@ -50,7 +50,7 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 	- 1c7) für Entscheidungen bezüglich der Disqualifikation einzelner Teilnehmer vom Turnier.
 	- 1c8) für das Bereitstellen der Scrambles.
 	- 1c9) für Entscheidungen über Änderungen im Zeitplan. Im Falle einer solchen Änderung muss eine klare Ankündigung an alle Teilnehmer erfolgen.
-	- 1c10) dafür, dass eine Kopie der WCA Regeln auf dem Turnier zur Verfügung steht.
+	- 1c10) dafür, dass eine Kopie der WCA-Regeln auf dem Turnier zur Verfügung steht.
 - 1e) Jede Kategorie benötigt einen oder mehrere Judges.
 	- 1e1) Ein Judge ist verantwortlich für die Durchführung der Kategorie.
 		- 1e1a) Ein Judge darf nach Ermessen des WCA-Delegierten mehrere Teilnehmer gleichzeitig judgen, sofern er sicherstellen kann, dass alle WCA-Regeln zu jedem Zeitpunkt eingehalten werden.
@@ -62,7 +62,7 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 	- 1g1) Ein Scoretaker einer Kategorie ist verantwortlich für die Aufnahme der Ergebnisse der Kategorie.
 	- 1g2) Änderungen der auf den Scoresheets notierten Ergebnisse dürfen nur nach Absprache mit dem WCA-Delegierten durchgeführt werden.
 - 1h) Teilnehmer dürfen in Gruppen eingeteilt werden.
-	- 1h1) Teilnehmende Scrambler/Judges für eine Runde sollten in ihrer eigenen Gruppe weder judgen noch mischen bevor sie alle Versuche der betreffenden Runde abgeschlossen haben. Sie dürfen nach Ermessen des WCA-Delegierten in ihrer eigenen Gruppe judgen und mischen, aber das Organisationsteam hat Sorge zu tragen, dass Scrambler und Judges keine Scrambles von Versuchen, die sie noch nicht gemacht haben, sehen können.
+	- 1h1) Teilnehmende Scrambler/Judges für eine Runde sollten in ihrer eigenen Gruppe weder judgen noch scrambeln bevor sie alle Versuche der betreffenden Runde abgeschlossen haben. Sie dürfen nach Ermessen des WCA-Delegierten in ihrer eigenen Gruppe judgen und scrambeln, aber das Organisationsteam hat Sorge zu tragen, dass Scrambler und Judges keine Scrambles von Versuchen, die sie noch nicht gemacht haben, sehen können.
 - 1j) Die offiziellen Organe dürfen an dem Turnier teilnehmen.
 - 1k) Eine Person kann gleichzeitig an mehreren der offiziellen Organe beteiligt sein (Organisation, WCA-Delegierter, Judge, Scoretaker, Scrambler).
 
@@ -76,7 +76,7 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 - 2c) Zu einer vollständigen Anmeldung eines Teilnehmers müssen alle verlangten Angaben gemacht werden (darunter: Name, Nationalität, Geburtsdatum, Geschlecht, Kontaktinformationen und teilnehmende Kategorien).
 	- 2c1) Ein Teilnehmer ist ohne eine vollständige Anmeldung, die vom Organisationsteam festgestellt wurde, nicht teilnahmefähig.
 - 2d) Name, Nationalität, Geschlecht und Resultate des Turniers zählen als öffentliche Informationen. Alle anderen persönlichen Informationen werden vertraulich behandelt und dürfen ohne Zustimmung des Teilnehmers nicht an Dritte weitergegeben werden.
-- 2e) Teilnehmer müssen einen Staat vertreten, dessen Staatsbürgerschaft sie besitzen. Der WCA-Delegierte sollte diese Staatsbürgerschaft durch Begutachtung von Dokumenten (z.B. Personalausweis, Reisepass) überprüfen. Wenn ein Teilnehmer für nicht repräsentationsfähig für das Land, unter welchem er sich angemeldet hat, befunden wird, kann er rückwirkend disqualifiziert und/oder suspendiert werden, nach Ermessen des WCA Boards.
+- 2e) Teilnehmer müssen einen Staat vertreten, dessen Staatsbürgerschaft sie besitzen. Der WCA-Delegierte sollte diese Staatsbürgerschaft durch Begutachtung von Dokumenten (z.B. Personalausweis, Reisepass) überprüfen. Wenn ein Teilnehmer für nicht repräsentationsfähig für das Land, unter welchem er sich angemeldet hat, befunden wird, kann er rückwirkend disqualifiziert und/oder suspendiert werden, nach Ermessen des WCA-Boards.
 	- 2e1) Die Staaten, die vertreten werden können, sind durch den englischsprachigen Wikipedia-Artikel "List of sovereign states" definiert ("UN member states and observer states" sowie "Other states").
 	- 2e2) Teilnehmer mit Änderungen in der Staatsbürgerschaft können ihr vertretenes Land in ihrem ersten Turnier eines Kalenderjahres ändern.
 - 2f) Teilnehmer müssen sich an die Hausordnung des Veranstaltungsortes halten und sich auf eine Weise verhalten, die auf andere Rücksicht nimmt.
@@ -116,7 +116,7 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 
 - 3a) Teilnehmer müssen ihre eigenen Puzzles mitbringen und benutzen.
 	- 3a1) Teilnehmer müssen anwesend und bereit zur Teilnahme sein, wenn sie aufgerufen werden (siehe [Regel 2u](regulations:regulation:2u)).
-	- 3a2) Puzzles müssen voll funktionsfähig sein, so dass sie ordnungsgemäß gemischt werden können.
+	- 3a2) Puzzles müssen voll funktionsfähig sein, so dass sie ordnungsgemäß gescrambelt werden können.
 	- 3a3) Polyedrische Puzzle müssen ein Farbschema besitzen, so dass im gelösten Zustand jede Seite eine eindeutige Farbe besitzt. Die Funktionalität jedes Puzzles muss identisch sein zum Originalpuzzle im Bezug auf Züge, Zustände und Lösungsmöglichkeiten.
 - 3d) Puzzles müssen welche der folgenden farbigen Teile haben: farbige Sticker, farbige Plättchen (Tiles), farbiges Plastik, oder aufgemalte Farben. Sämtliche farbigen Teile eines Puzzles müssen dabei gleicher Art sein.
 	- 3d1) Ausnahme: Teilnehmer mit medizinisch dokumentierter Sehunfähigkeit dürfen Puzzle mit verschiedenen Oberflächentexturen auf den verschiedenen Seiten benutzen. Die Texturen/Muster müssen pro Seite einheitlich sein. Dennoch sollte jede Seite eine bestimmte Farbe aufweisen, um das Scramblen und Judgen zu ermöglichen.
@@ -142,7 +142,7 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 ## <article-4><scrambling><scrambling> Abschnitt 4: Scramblen
 
 - 4a) Scrambler müssen die Puzzles scramblen, d.h. mischen.
-- 4b) Puzzles müssen nach zufälligen, computergenerierten Zugfolgen ("Scrambles") gemischt werden.
+- 4b) Puzzles müssen nach zufälligen, computergenerierten Zugfolgen ("Scrambles") gescrambelt werden.
 	- 4b1) Scrambles dürfen vor dem Turnier nicht betrachtet werden und dürfen in keinem Fall vom WCA-Delegierten gefiltert werden.
 	- 4b2) Scrambles für eine Runde dürfen bis zum Ende der Runde nur dem WCA-Delegierten und den Scramblern zur Verfügung stehen. Ausnahme: Bei Fewest Moves erhalten die Teilnehmer die Scrambles bereits während der Runde (siehe Abschnitt E).
 	- 4b3) Spezifikationen für das Scrambling Programm: offizielle Scrambles müssen einen zufälligen Zustand herbeiführen, dessen Lösung mindestens 2 Züge benötigt (gleiche Wahrscheinlichkeit für jeden Zustand). Folgende Ausnahmen/Zusätze gelten:
@@ -153,14 +153,14 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 		- 4b3e) 5x5x5, 6x6x6, 7x7x7, Megaminx: hinreichend viele zufällige Züge (statt zufälligem Zustand).
 - 4d) Ausrichtung beim Scramblen:
 		- 4b3f) Pyraminx: Die Lösung des (zufälligen) Zustandes muss mindestens 6 Züge benötigen.
-	- 4d1) NxNxN Puzzle und Megaminx werden mit der weißen Seite (wenn nicht möglich, dann mit der hellsten Seite) oben und der grünen Seite (wenn nicht möglich, dann mit der dunkelsten benachbarten) vorne gemischt.
-	- 4d2) Pyraminx wird mit der gelben Seite (wenn nicht möglich, dann mit der hellsten Seite) unten und der grünen Seite (wenn nicht möglich, dann mit der dunkelsten benachbarten) vorne gemischt.
-	- 4d3) Square-1 wird mit der dunkelsten Seite vorne gemischt (ausgehend von den beiden möglichen Ausrichtungen beim Scramblen).
-	- 4d4) Clock wird mit einer der beiden Seiten vorne und 12 Uhr nach oben zeigend gemischt.
-	- 4d5) Skewb wird mit der weißen Seite (wenn nicht möglich, dann mit der hellsten Seite) oben und der grünen Seite (wenn nicht möglich, dann mit der dunkelsten benachbarten) vorne links gemischt.
-- 4f) Scrambles für einen Wettbewerb müssen mit Hilfe der aktuellen, offiziellen Version des offiziellen WCA Scrambleprogramms (verfügbar auf der Internetseite der WCA) generiert werden.
-- 4g) Nach dem Mischen eines Puzzles muss ein Scrambler (anhand der vorhandenen Bilder) prüfen, ob das Puzzle korrekt gemischt wurde. Ist dies nicht der Fall, so muss er dies korrigieren (z.B. durch Lösen und erneutes Mischen des Puzzles).
-	- 4g1) Ausnahme: Für 6x6x6, 7x7x7 und Megaminx ist es nicht notwendig, eine nicht korrekte Vermischung zu korrigieren, nach Ermessen des WCA-Delegierten.
+	- 4d1) NxNxN Puzzle und Megaminx werden mit der weißen Seite (wenn nicht möglich, dann mit der hellsten Seite) oben und der grünen Seite (wenn nicht möglich, dann mit der dunkelsten benachbarten) vorne gescrambelt.
+	- 4d2) Pyraminx wird mit der gelben Seite (wenn nicht möglich, dann mit der hellsten Seite) unten und der grünen Seite (wenn nicht möglich, dann mit der dunkelsten benachbarten) vorne gescrambelt.
+	- 4d3) Square-1 wird mit der dunkelsten Seite vorne gescrambelt (ausgehend von den beiden möglichen Ausrichtungen beim Scramblen).
+	- 4d4) Clock wird mit einer der beiden Seiten vorne und 12 Uhr nach oben zeigend gescrambelt.
+	- 4d5) Skewb wird mit der weißen Seite (wenn nicht möglich, dann mit der hellsten Seite) oben und der grünen Seite (wenn nicht möglich, dann mit der dunkelsten benachbarten) vorne links gescrambelt.
+- 4f) Scrambles für einen Wettbewerb müssen mit Hilfe der aktuellen, offiziellen Version des offiziellen WCA-Scrambleprogramms (verfügbar auf der Internetseite der WCA) generiert werden.
+- 4g) Nach dem Scrambeln eines Puzzles muss ein Scrambler (anhand der vorhandenen Bilder) prüfen, ob das Puzzle korrekt gescrambelt wurde. Ist dies nicht der Fall, so muss er dies korrigieren (z.B. durch Lösen und erneutes Scrambeln des Puzzles).
+	- 4g1) Ausnahme: Für 6x6x6, 7x7x7 und Megaminx ist es nicht notwendig, einen nicht korrekt ausgeführten Scramble zu korrigieren, nach Ermessen des WCA-Delegierten.
 
 ## <article-5><puzzle-defects><puzzledefects> Abschnitt 5: Puzzledefekte
 
@@ -286,7 +286,7 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 - 11b) Im Falle eines Zwischenfalls entscheidet der WCA-Delegierte, wie es weitergeht.
 - 11d) Wenn die WCA-Regeln keine klare Aussage über den Zwischenfall machen, so muss der WCA-Delegierte seine Entscheidung aufgrund von sportlicher Fairness treffen (siehe auch [Regel 11e3](regulations:regulation:11e3))..
 - 11e) Falls ein Zwischenfall während eines Versuchs passiert, darf der WCA-Delegierte einem Teilnehmer einen weiteren Versuch gestatten, der den unterbrochenen Versuch ersetzt. Der Teilnehmer muss mündlich oder schriftlich den Judge und WCA-Delegierten zum Zeitpunkt des Zwischenfalls herbeirufen, bevor der ursprüngliche Versuch abgeschlossen ist, um einen Extraversuch erhalten zu können. Ein solcher Aufruf garantiert dem Teilnehmer jedoch keinen Extraversuch.
-	- 11e1) Wenn einem Teilnehmer ein Extraversuch zugesprochen wird, so muss dieser mit einem anderen Scramble gemischt werden. Dieser Scramble muss unter Verwendung der aktuellen offiziellen Version des offiziellen WCA-Scramble-Programms erzeugt werden (siehe [Regel 4f](regulations:regulation:4f))
+	- 11e1) Wenn einem Teilnehmer ein Extraversuch zugesprochen wird, so muss dieser mit einem anderen Scramble gescrambelt werden. Dieser Scramble muss unter Verwendung der aktuellen offiziellen Version des offiziellen WCA-Scramble-Programms erzeugt werden (siehe [Regel 4f](regulations:regulation:4f))
 	- 11e2) Wenn ein Teilnehmer einen Extraversuch erhält, sollten die regulär gezählten Versuche zunächst abgeschlossen werden, und der Extraversuch sollte danach gemacht werden.
 	- 11e3) Wenn unklar ist, ob ein Zwischenfall in einen Extraversuch resultieren soll, kann dem Teilnehmer ein vorläufiger Extraversuch zugesprochen werden, der später nur genutzt wird, dass ein Extraversuch angemessen war (z.B. durch eine Entscheidung des WCA-Boards).
 - 11f) Entscheidungen können mithilfe Video- oder Bildanalysen getroffen werden, nach Ermessen des WCA-Delegierten.
@@ -349,11 +349,11 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 	- A1c) Ein Teilnehmer einer Kategorie muss in der Lage sein die Voraussetzungen der Kategorie zu erfüllen (z.B. wissen, wie man das Puzzle löst). Falls ein Teilnehmer mit der Erwartung eines DNF oder eines bewusst schlechten Resultats an einer Kategorie teilnimmt. Strafe: Disqualifikation des Versuchs (DNF) oder Disqualifikation der Kategorie (siehe [Regulation 2j](regulations:regulation:2j)), nach Ermessen des WCA-Delegierten.
 - A2) Scrambling
 	- A2a) Wenn der Teilnehmer für eine Runde aufgerufen wird, übergibt er ein Puzzle, in gelöstem Zustand, an den Scrambler. Der Teilnehmer wartet im Teilnehmerbereich darauf, aufgerufen zu werden.
-	- A2b) Ein Scrambler mischt das Puzzle entsprechend den Regeln in Abschnitt 4.
-	- A2b1) Für Square-1 darf das Organisationsteam die Nutzung dünner Objekte, die im Puzzle plaziert werden, vorschreiben, die verhindern sollen, dass vor dem Beginn des Versuchs versehentliche Züge gemacht werden. Wenn diese Objekte genutzt werden, muss dies vor Beginn der Runde angekündigt werden.
-	- A2c) Der Teilnehmer darf das gemischte Puzzle in der Zeit zwischen Mischen und Start der Inspektionsphase nicht sehen.
+	- A2b) Ein Scrambler scrambelt das Puzzle entsprechend den Regeln in Abschnitt 4.
+	- A2b1) Für Square-1 darf das Organisationsteam die Nutzung dünner Gegenstände, die im Puzzle plaziert werden, vorschreiben, welche verhindern sollen, dass vor dem Beginn des Versuchs versehentliche Züge gemacht werden. Wenn diese Gegenstände genutzt werden, muss dies vor Beginn der Runde angekündigt werden.
+	- A2c) Der Teilnehmer darf das gescrambelte Puzzle in der Zeit zwischen Scrambeln und Start der Inspektionsphase nicht sehen.
 		- A2c1) Der Scrambler deckt das Puzzle ab, sodass es für Teilnehmer und Zuschauer unmöglich ist, einen Teil des Puzzles zu sehen. Die Abdeckung verdeckt das Puzzle bis zum Beginn des Versuchs.
-	- A2d) Nach dem Mischen überzeugt sich der Judge davon, dass das Puzzle korrekt gemischt wurde. In Zweifelsfällen wird das Puzzle dem Scrambler zur detaillierten Überprüfung übergeben.
+	- A2d) Nach dem Scrambeln kontrolliert der Judge kurz, dass das Puzzle sorgfältig gescrambelt wurde. der Judge richtet jegliche Bedenken an den Scrambler, der dann eine gründliche Überprüfung durchführt.
 		- A2d1) Das Organisationsteam darf Scrambler auffordern, zusätzliche Maßnahmen zu ergreifen, um sicherzustellen, dass sie den korrekten Scramble angewandt haben (z.B. Unterschreiben des Score Sheets um zu bestätigen, dass sie den richtig nummerierten Scramble angewandt haben und dass dieser dem Bild entspricht, oder durch die Nutzung zusätzlicher Personen als "Scramble Checker").
 	- A2e) Der Judge legt das Puzzle in zufälliger Orientierung auf der Stackmat ab und stellt sicher, dass es komplett verdeckt ist.
 	- A2e1) Der Teilnehmer darf keine bestimmte Orientierung verlangen und der Judge darf die Orientierung, in der er das Puzzle auf der Stackmat platziert, nicht basierend auf seinem Wissen über die aktuelle oder zu erwartende Orientierung ändern.
