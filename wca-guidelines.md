@@ -135,7 +135,6 @@ Jede Richtlinie ist als zu einer der folgenden Kategorien zugehörig gekennzeich
 ## <article-12><notation><notation> Article 12: Notation
 
 - 12c2+) [Zusatz] Beim Auswerten von fehlerhaften Ausrichtungen am Ende eines Solves, werden x und y separat betrachtet. Beispiel: (5, 1) zählt als eine mangelnde Ausrichtung, (5, 5) zählt als zwei mangelnde Ausrichtungen.
-- 
 
 ## <article-A><speedsolving><speedsolving> Abschnitt A: Speed Solving (Lösen auf Zeit)
 
