@@ -32,13 +32,13 @@ Jede Richtlinie ist als zu einer der folgenden Kategorien zugehörig gekennzeich
 ## <article-1><officials><officials> Abschnitt 1: Offizielle Organe
 
 - 1c3+) [Empfehlung] Die Resultate sollten am Ende des letzten Tages des Turniers ausgewertet sein.
-- 1c3++) [Zusatz] Analoge Aufzeichnungen (z.B. Score Sheets, aufgeschriebene Fewest-Move-Lösungen) müssen mindestens einen Monat lang aufgehoben werden. Digitale Aufzeichnungen (z.B. Scrambles, Ergebnisse) müssen permanent aufgehoben werden.
-- 1c3b+) [Klarstellung] Wenn es mehrere Gruppen gibt, ist es nicht notwendig, zu erwähnen, welcher Teilnehmer in welchen Gruppen war.
+- 1c3++) [Zusatz] Analoge Aufzeichnungen (z.B. Score Sheets, aufgeschriebene Fewest-Move-Lösungen) müssen mindestens einen Monat lang aufgehoben werden. Digitale Aufzeichnungen (z.B. Scrambles, Ergebnisse) müssen dauerhaft aufgehoben werden.
+- 1c3b+) [Klarstellung] Wenn es mehrere Gruppen gibt, ist es nicht notwendig zu kennzeichnen, welcher Teilnehmer in welchen Gruppen war.
 - 1c4+) [Empfehlung] Korrekturen der Resultate sollten binnen einer Woche nach dem Turnier gemacht werden.
 - 1c10+) [Klarstellung] Es genügt, Zugang zu einer digitalen Kopie des Regelwerks zur Verfügung zu stellen.
 - 1h+) [Empfehlung] Teilnehmer in der selben Gruppe sollten die gleichen Scrambles verwenden, und verschiedene Gruppen sollten verschiedene Scrambles verwenden.
 - 1h++) [Empfehlung] Alle Versuche in den Finalrunden einer Kategorie sollten, ebenso wie alle Versuche in Fewest Moves, die gleichen Scrambles für alle Teilnehmer haben (d.h. nur aus einer Gruppe bestehen).
-- 1h1+) [Klarstellung] Scrambler/Schiedsrichter sollten nur in ihrer eigenen Gruppe scramblen oder judgen, wenn es für den Ablauf des Turniers notwendig ist.
+- 1h1+) [Klarstellung] Scrambler/Judges sollten nur in ihrer eigenen Gruppe scramblen oder judgen, wenn es für den Ablauf des Turniers notwendig ist.
 
 
 ## <article-2><competitors><competitors> Abschnitt 2: Teilnehmer
@@ -49,7 +49,7 @@ Jede Richtlinie ist als zu einer der folgenden Kategorien zugehörig gekennzeich
 - 2d++) [Empfehlung] Wenn ein Dritter (z.B. ein Journalist) das Organisationsteam darum bittet, Kontakt zu einem Teilnehmer zu vermitteln, sollte zuerst dessen Einverständnis eingeholt werden.
 - 2h+) [Klarstellung] Teilnehmer dürfen in der Kategorie "Mit den Füßen lösen" barfuß sein.
 - 2j2+) [Beispiel] Wenn beispielsweise ein Teilnehmer von einer Kategorie disqualifiziert wird, weil er nicht am Finale teilnimmt, bleiben seine Resultate aus früheren Runden gültig.
-- 2s+) [Erinnerung] Spezielle Behandlungen müssen im Delegiertenbericht erwähnt werden.
+- 2s+) [Erinnerung] Spezielle Anpassungen müssen im Bericht des WCA-Delegierten erwähnt werden.
 
 
 ## <article-3><puzzles><puzzles> Abschnitt 3: Puzzles
@@ -72,7 +72,7 @@ Jede Richtlinie ist als zu einer der folgenden Kategorien zugehörig gekennzeich
 - 4b1+) [Erinnerung] Der WCA-Delegierte darf niemals Scrambles neu generieren, um andere mit dem Zwecke des "Herausfilterns" zu ersetzen. Zum Beispiel ist es nicht erlaubt, einen Blick auf die Scrambles für ein Turnier zu werfen und alle neu zu generieren, um "fairere" Scrambles zu generieren.
 - 4b2+) [Klarstellung] Im Allgemeinen sollten alle offiziellen Scrambles während dem Turnier geheim gehalten und nach dem Ende des Turniers gesammelt veröffentlicht werden (siehe [Regel 1c3a](regulations:regulation:A2e1)). In manchen Fällen (z.B. bei Weltrekorden) kann das Organisationsteam bestimmte Scrambles bereits nach dem Ende einer Runde herausgeben.
 - 4b4+) [Zusatz] Die Orientierung des Puzzles darf sich auf dem Weg vom Scrambler zum Löse-Platz ändern, solange niemand versucht, die Zufälligkeit der Orientierung zu beeinflussen (siehe [Regel A2e1](regulations:regulation:A2e1))
-- 4d+) [Klarstellung] Manche Puzzles verwenden normale Farbschemata, mit der Ausnahme, dass Weiß durch Schwarz ersetzt wurde. In diesem Falle ist Schwarz die dunkelste Farbe und darf nicht als Weiß behandelt und beim Mischen oben gehalten werden.
+- 4d+) [Klarstellung] Manche Puzzles verwenden normale Farbschemata, mit der Ausnahme, dass Weiß durch Schwarz ersetzt wurde. In diesem Falle ist Schwarz die dunkelste Farbe und darf nicht als Weiß behandelt und beim Scrambeln oben gehalten werden.
 - 4f+) [Empfehlung] Der WCA-Delegierte sollte genügend Scrambles für das ganze Turnier bereits im Voraus generieren. Dazu zählen auch Ersatzscrambles für Extraversuche.
 - 4f++) [Erinnerung] Wenn der WCA-Delegierte zusätzliche Scrambles während des Turniers generiert, muss er die Scrambles speichern (siehe [Regel 1c3a](regulations:regulation:1c3a)).
 
@@ -112,7 +112,7 @@ Jede Richtlinie ist als zu einer der folgenden Kategorien zugehörig gekennzeich
 ## <article-9><events><events> Abschnitt 9: Kategorien
 
 - 9b+) [Zusatz] Das bevorzugte Format für das Finale einer Kategorie ist "Average of 5" oder "Mean of 3", wenn möglich.
-- 9b++) [Zusatz] Kategorien, die nicht in Regel 9b spezifiziert werden, dürfen abgehalten werden, aber werden als inoffiziell behandelt und daher nicht mit den offiziellen Resultaten des Turniers veröffentlicht.
+- 9b++) [Zusatz] Kategorien, die nicht in Regel 9b spezifiziert werden, dürfen während eines Wettbewerbs abgehalten werden, aber werden als inoffiziell behandelt und daher nicht mit den offiziellen Resultaten des Turniers veröffentlicht.
 - 9b3b+) [Klarstellung] Die "Mean of 3"-Statistik beeinflusst nicht die Platzierung eines Teilnehmers in einer "Best of 3"-Runde (die auf dem besten erzielten Ergebnis basiert). Die WCA erkennt diese Statistiken unabhängig von dem Wettbewerbsformat an.
 - 9f1+) [Beispiel] Wenn der Timer bei einem Versuch 12.678 anzeigt, beträgt die tatsächlich aufgezeichnete Zeit 12.67 (Nachkommastellen kleiner als eine hundertstel Sekunde werden ignoriert). Ein Judge darf nichtsdestotrotz die exakte Zeit auf das Scoresheet schreiben (und sie bei Berechnung von Zeitstrafen beibehalten), solange der Scoretaker die Zeit korrekt gekürzt als 12.67 aufzeichnet.
 - 9f4+) [Erklärung] Das Ergebnis eines Versuchs ist nur dann DNF wenn der Teilnehmer den Versuch durch Signalisierung seiner Bereitschaft begonnen hat (siehe [Regel A3b2](regulations:regulation:A3b2)), und der Versuch disqualifiziert wurde.
@@ -122,14 +122,14 @@ Jede Richtlinie ist als zu einer der folgenden Kategorien zugehörig gekennzeich
 
 ## <article-10><solved-state><solvedstate> Abschnitt 10: Gelöster Zustand
 
-- 10f+) [Erklärung] Die Grenzen der mangelnden Ausrichtung sind derart ausgewählt, dass sie eine natürliche Grenze zwischen einem Zustand eines Puzzles (ohne Zeitstrafe) und einem Zustand, der eine Drehung entfernt ist, ziehen.
+- 10f+) [Erklärung] Die Grenzen für die fehlerhafte Ausrichtung ("Misalignment") sind derart ausgewählt, dass sie eine natürliche Grenze zwischen einem Zustand eines Puzzles (ohne Zeitstrafe) und einem Zustand, der eine Drehung entfernt ist, ziehen.
 
 
 ## <article-11><incidents><incidents> Abschnitt 11: Zwischenfälle
 
-- 11e+) [Klarstellung] Da eine Beschwerde nicht garantierterweise erfolgreich ist, kann ein Teilnehmer sich dafür entscheiden, die Zeitnehmung weiterlaufen zu lassen und den Versuch weiterführen, wenn es angebracht ist.
-- 11e1+) [Erinnerung] Ein Extraversuch muss vermischt werden, indem eine unmodifizierter Scramble verwendet wird, der von einem offiziellen Scramble-Programm generiert wurde (siehe [Regel 4f](regulations:regulation:4f), [Richtlinie 4f+](guidelines:guideline:4f+)).
-- 11e2+) [Zusatz] Wenn ein Extraversuch selbst zu einem zusätzlichen Extraversuch führt, sollte der Teilnehmer solange Versuche machen, bis genug vorhnaden sind, um so viele reguläre Ergebnisse zu ersetzen wie benötigt. Die gültigen Extraversuche ersetzen die relevanten regulären Versuche in aufsteigender Reihenfolge.
+- 11e+) [Klarstellung] Da eine Beschwerde nicht garantiert erfolgreich ist, kann ein Teilnehmer sich dafür entscheiden, den Timer weiterlaufen zu lassen und den Versuch fortzusetzen, wenn es angebracht ist.
+- 11e1+) [Erinnerung] Ein Extraversuch muss gescrambelt werden, indem eine unmodifizierter Scramble verwendet wird, der von einem offiziellen Scramble-Programm generiert wurde (siehe [Regel 4f](regulations:regulation:4f), [Richtlinie 4f+](guidelines:guideline:4f+)).
+- 11e2+) [Zusatz] Wenn ein Extraversuch selbst zu einem weiteren Extraversuch führt, sollte der Teilnehmer solange Versuche machen, bis genug vorhanden sind, um so viele reguläre Ergebnisse zu ersetzen wie benötigt. Die gültigen Extraversuche ersetzen die relevanten regulären Versuche in aufsteigender Reihenfolge.
 - 11e2++) [Beispiel] Angenommen ein Teilnehmer hat 5 reguläre Versuche, aber der 2. und 4. Versuch führen zu einem Extraversuch. Nach Beendigung der 5 regulären Versuche fährt der Teilnehmer mit den Extraversuchen fort, bis er zwei gültige Extraversuche hat. Der erste ersetzt den 2. Versuch, und der andere den 4. Versuch.
 
 ## <article-12><notation><notation> Article 12: Notation
@@ -142,8 +142,8 @@ Jede Richtlinie ist als zu einer der folgenden Kategorien zugehörig gekennzeich
 - A1a3+) [Erinnerung] Das Organisationsteam und der WCA-Delegierte sollten sich dessen bewusst sein, dass Zeitlimits die Strategien der Teilnehmer beeinflussen (z.B. hektisch lösen, in der Hoffnung den Cutoff in einer zusammengefassten Runde zu schaffen), und dass das Ändern des Zeitlimits nach Beginn einer Runde für manche Teilnehmer ein unfairer Nachteil sein kann.
 - A1a4+) [Erinnerung] Wurde versehentlich ein Teilnehmer trotz Überschreitung des Zeitlimits nicht gestoppt, so muss der Versuch nachträglich disqualifiziert werden und der Judge, der Teilnehmer und der WCA-Delegierte sollten informiert werden (siehe [Regel 1g2](regulations:regulation:1g2)). Judges müssen stets das Zeitlimit der aktuellen Versuche (welches bei kumulativen Limits von den Ergebnissen der vorherigen Versuche abhängen kann) bzw. Runden kennen.
 - A2c1+) [Erinnerung] In der Vergangenheit wurden oft Scoresheets als Abdeckung für die Puzzle benutzt, wobei jedoch manche Seiten der Puzzle sichtbar waren. Dies ist nicht mehr gestattet.
-- A3c3+) [Klarstellung] Der Teilnehmer darf den Timer vor/während der Inspektionsphase zurücksetzen wenn der Judge dies versehentlich nicht getan hat. Allerdings liegt es in der Verantwortung des Judges sicherzustellen, dass der Timer zurückgesetzt wurde. (siehe [Regel A3b](regulations:regulation:A3b)) Wenn der Teilnehmer versehentlich den Versuch mit einem Timer beginnt, den der Judge nicht zurückgesetzt hat (z.B. wenn der Teilnehmer die Inspektion durchführt, die Hände in der Annahme dass der Timer normal starten wird für eine ausreichende Zeit auf den Timer legt, und beginnt das Puzzle zu verdrehen), sollte der Versuch mit einem Extraversuch ersetzt werden, nach Ermessen des WCA Delegierten.
-- A3c4+) [Klarstellung] Wenn ein dünnes Objekt im Inneren des Puzzles genutzt wird, darf der Judge dieses nicht im Auftrag des Teilnehmers entfernen.
+- A3c3+) [Klarstellung] Der Teilnehmer darf den Timer vor/während der Inspektionsphase zurücksetzen wenn der Judge dies versehentlich nicht getan hat. Allerdings liegt es in der Verantwortung des Judges sicherzustellen, dass der Timer zurückgesetzt wurde (siehe [Regel A3b](regulations:regulation:A3b)). Wenn der Teilnehmer versehentlich den Versuch mit einem Timer beginnt, den der Judge nicht zurückgesetzt hat (z.B. wenn der Teilnehmer die Inspektion durchführt, die Hände in der Annahme, dass der Timer normal starten wird für eine ausreichende Zeit auf den Timer legt, und beginnt das Puzzle zu verdrehen), sollte der Versuch mit einem Extraversuch ersetzt werden, nach Ermessen des WCA Delegierten.
+- A3c4+) [Klarstellung] Wenn ein dünner Gegenstand im Inneren des Puzzles genutzt wird, darf der Judge dieses nicht im Auftrag des Teilnehmers entfernen.
 - A6b+) [Erläuterung] Der willkürliche Wert von 0.06 Sekunden wurde gewählt, damit mögliche Fehlfunktionen des Timers ohne Verschulden des Teilnehmers nicht zu Lasten des Teilnehmers fallen.
 - A6f+) [Klarstellung] Wenn der Teilnehmer den Timer resettet bevor das Ergebnis komplett erfasst wurde, darf der Judge dieses nicht aus dem Gedächtnis oder mit Hilfe eines Video oder durch einen fotografischen Beleg aufschreiben, und muss den Versuch stattdessen disqualifizieren (DNF).
 - A6g+) [Erläuterung] Während der Judge entscheidet, ob er eine Strafe für ein Misalignment geben soll, sollte er das Puzzle nicht berühren. 
@@ -184,6 +184,6 @@ Jede Richtlinie ist als zu einer der folgenden Kategorien zugehörig gekennzeich
 ## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Abschnitt H: Mehrfaches Blindlösen
 
 - H1b1+) [Erinnerung] Der Versuch wird dank Ausnahmen für das mehrfache Blindlösen nicht disqualifiziert, wenn das Zeitlimit erreicht wird (siehe [Regel A1a4](regulations:regulation:A1a4) und [Regel A1a5](regulations:regulation:A1a5)).
-- H1b1++) [Zusatz] Der Schiedsrichter darf dem Teilnehmer erlauben, den Versuch inoffiziell fortzuführen, aber der Versuch muss zuerst gestoppt und ausgewertet werden, in Einklang mit dem Regelwerk.
+- H1b1++) [Zusatz] Der Judge darf dem Teilnehmer erlauben, den Versuch inoffiziell fortzuführen, aber der Versuch muss zuerst gestoppt und ausgewertet werden, in Einklang mit dem Regelwerk.
 - H1d+) [Beispiel] Beispiel: Angenommen ein Teilnehmer versucht 10 Würfel, schließt mit einer Zeit von 59:57 ab und hat zwei Zeitstrafen. Das Resultat ist: 59:57 + 2*2 = 60:01 (siehe [Regel A1a5](Regel A1a5)).
-- H1d+) [Beispiel] Beispiel: Angenommen ein Teilnehmer versuch 10 Würfel und der Schiedsrichter stoppt ihn bei 60 Minuten und der Versuch zwei Zeistrafen hat. Das Resultat ist 60:00 + 2*2 = 60:04.
+- H1d+) [Beispiel] Beispiel: Angenommen ein Teilnehmer versuch 10 Würfel und der Judge stoppt ihn bei 60 Minuten und der Versuch zwei Zeistrafen hat. Das Resultat ist 60:00 + 2*2 = 60:04.
