@@ -43,40 +43,40 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 
 ## <article-1><officials><officials> Abschnitt 1: Offizielle Organe
 
-- 1a) Jedes Turnier muss einen WCA-Delegierten und ein Organisationsteam (bestehend aus einer Person oder mehreren Personen) haben. Ein Turnier benötigt ebenso die folgenden offiziellen Organe: Judges, Scrambler und Scoretaker.
+- 1a) Jedes Turnier muss einen WCA-Delegierten und ein Organisationsteam (bestehend aus einer Person oder mehreren Personen) haben. Ein Turnier benötigt ebenso die folgenden offiziellen Organe: Judges, Scrambler und Scoretakers.
 - 1b) Das Organisationsteam eines Turniers ist verantwortlich für sämtliche Vorkehrungen vor, während und nach dem Turnier.
-- 1c) Der WCA-Delegierte darf verschiedene Pflichten anderen Mitgliedern des Organisationsteams übertragen, ist aber schlussendlich verantwortlich für die Ausführung dieser Pflichten. Der WCA-Delegierte eines Turniers ist verantwortlich:
-	- 1c1) dafür, dem WCA-Board Bericht zu erstatten, ob alle WCA-Regeln während des Turniers befolgt wurden, wie das Turnier insgesamt verlief und ob es irgendwelche Zwischenfälle gab. Berichte müssen dem WCA-Board binnen einer Woche nach Turnierende vorgelegt werden.
-	- 1c3) dafür, dem WCA Results Team die Ergebnisse des Turniers zu übermitteln.
+- 1c) Der WCA-Delegierte darf verschiedene Pflichten anderen Mitgliedern des Organisationsteams übertragen, ist aber schlussendlich verantwortlich für die Ausführung dieser Pflichten. Der WCA-Delegierte eines Turniers ist verantwortlich dafür:
+	- 1c1) dem WCA-Board Bericht zu erstatten über die Einhaltung der WCA-Regeln während des Turniers, wie das Turnier insgesamt verlief und über jegliche Zwischenfälle. Berichte müssen dem WCA-Board binnen einer Woche nach Turnierende vorgelegt werden.
+	- 1c3) dem WCA Results Team die Ergebnisse des Turniers zu übermitteln.
 		- 1c3a) Sämtliche Scrambles, die im Turnier verwendet wurden, müssen zusammen mit den Resultaten eingereicht werden.
 		- 1c3b) Scrambles müssen mit den Kategorien, Runden und Gruppen, für die sie verwendet wurden, beschriftet sein.
-	- 1c4) dafür, dem WCA-Board eventuelle Korrekturen der Ergebnisse des Turnier zu berichten.
-	- 1c5) dafür, die anderen offiziellen Organe falls nötig in ihre Aufgaben einzuweisen.
-	- 1c6) für die Freigabe aller Kategorien und deren Formate vor Turnierbeginn sowie während des Turniers, falls Änderungen notwendig sind.
-	- 1c7) für Entscheidungen bezüglich der Disqualifikation einzelner Teilnehmer vom Turnier.
-	- 1c8) für das Bereitstellen der Scrambles.
-	- 1c9) für Entscheidungen über Änderungen im Zeitplan. Im Falle einer solchen Änderung muss eine klare Ankündigung an alle Teilnehmer erfolgen.
-	- 1c10) dafür, dass eine Kopie der WCA-Regeln auf dem Turnier zur Verfügung steht.
+	- 1c4) dem WCA-Board eventuelle Korrekturen der Ergebnisse des Turnier zu berichten.
+	- 1c5) die anderen offiziellen Organe bei ihren Aufgaben zu beraten, wenn dies nötig ist.
+	- 1c6) alle Kategorien und deren Formate vor Turnierbeginn zu genehmigen, sowie während des Turniers, falls Änderungen notwendig sind.
+	- 1c7) Entscheidungen bezüglich der Disqualifikation einzelner Teilnehmer vom Turnier zu treffen.
+	- 1c8) Scrambles bereitzustellen.
+	- 1c9) Entscheidungen über Änderungen im Zeitplan zu treffen. Im Falle einer solchen Änderung muss eine klare Ankündigung an alle Teilnehmer erfolgen.
+	- 1c10) eine Kopie der WCA-Regeln auf dem Turnier zur Verfügung zu stellen.
 - 1e) Jede Kategorie benötigt einen oder mehrere Judges.
-	- 1e1) Ein Judge ist verantwortlich für die Durchführung der Kategorie.
+	- 1e1) Ein Judge ist verantwortlich für die Durchführung der Abläufe der Kategorie.
 		- 1e1a) Ein Judge darf nach Ermessen des WCA-Delegierten mehrere Teilnehmer gleichzeitig judgen, sofern er sicherstellen kann, dass alle WCA-Regeln zu jedem Zeitpunkt eingehalten werden.
-	- 1e2) Jeder Teilnehmer müssen als Judge zur Verfügung stehen. Wird ein Teilnehmer zum Judgen benötigt, so kann er lediglich durch Angabe eines legitimen Grunds (z.B. Unkenntnis eines Puzzles), nach Ermessen des WCA-Delegierten, davon freigestellt werden. Strafe: Disqualifikation des Teilnehmers von dem Turnier (siehe [Regel 2k](regulations:regulation:2k)).
+	- 1e2) Jeder Teilnehmer muss als Judge zur Verfügung stehen. Wird ein Teilnehmer zum Judgen benötigt, so kann er lediglich durch Angabe eines legitimen Grunds (z.B. Unkenntnis eines Puzzles), nach Ermessen des WCA-Delegierten, davon freigestellt werden. Strafe: Disqualifikation des Teilnehmers von dem Turnier (siehe [Regel 2k](regulations:regulation:2k)).
 - 1f) Jede Kategorie muss einen oder mehrere Scrambler haben. Ausnahme: Fewest Moves.
 	- 1f1) Ein Scrambler einer Kategorie ist verantwortlich für die Anwendung der Scrambles auf die Puzzles.
-	- 1f2) Geeignete Teilnehmer müssen als Scrambler zur Verfügung stehen. Wird ein Teilnehmer zum Scramblen benötigt, so kann er lediglich durch Angabe eines legitimen Grunds (z.B. Unkenntnis eines Puzzles), nach Ermessen des WCA-Delegierten, davon freigestellt werden. Strafe: Disqualifikation des Teilnehmers von dem Turnier (siehe [Regel 2k](regulations:regulation:2k)).
+	- 1f2) Alle Teilnehmer müssen als Scrambler zur Verfügung stehen. Wird ein Teilnehmer zum Scramblen benötigt, so kann er lediglich durch Angabe eines legitimen Grunds (z.B. Unkenntnis der Scramble-Notation eines Puzzles), nach Ermessen des WCA-Delegierten, davon freigestellt werden. Strafe: Disqualifikation des Teilnehmers von dem Turnier (siehe [Regel 2k](regulations:regulation:2k)).
 - 1g) Jede Kategorie benötigt einen oder mehrere Scoretaker.
-	- 1g1) Ein Scoretaker einer Kategorie ist verantwortlich für die Aufnahme der Ergebnisse der Kategorie.
+	- 1g1) Ein Scoretaker ist verantwortlich für das Zusammenstellen der Ergebnisse.
 	- 1g2) Änderungen der auf den Scoresheets notierten Ergebnisse dürfen nur nach Absprache mit dem WCA-Delegierten durchgeführt werden.
-- 1h) Teilnehmer dürfen in Gruppen eingeteilt werden.
-	- 1h1) Teilnehmende Scrambler/Judges für eine Runde sollten in ihrer eigenen Gruppe weder judgen noch scrambeln bevor sie alle Versuche der betreffenden Runde abgeschlossen haben. Sie dürfen nach Ermessen des WCA-Delegierten in ihrer eigenen Gruppe judgen und scrambeln, aber das Organisationsteam hat Sorge zu tragen, dass Scrambler und Judges keine Scrambles von Versuchen, die sie noch nicht gemacht haben, sehen können.
+- 1h) Teilnehmer einer Runde einer Kategorie dürfen in Gruppen eingeteilt werden.
+	- 1h1) Scrambler und Judges für eine Runde sollten in ihrer eigenen Gruppe weder judgen noch scrambeln bevor sie alle Versuche der betreffenden Runde abgeschlossen haben. Sie dürfen nach Ermessen des WCA-Delegierten in ihrer eigenen Gruppe judgen und scrambeln, aber das Organisationsteam hat Sorge zu tragen, dass Scrambler und Judges keine Scrambles von Versuchen, die sie noch nicht gemacht haben, sehen können.
 - 1j) Die offiziellen Organe dürfen an dem Turnier teilnehmen.
 - 1k) Eine Person kann gleichzeitig an mehreren der offiziellen Organe beteiligt sein (Organisation, WCA-Delegierter, Judge, Scoretaker, Scrambler).
 
 ## <article-2><competitors><competitors> Abschnitt 2: Teilnehmer
 
 - 2a) Jeder darf an einem WCA-Turnier teilnehmen, wenn er:
-	- 2a1) die WCA-Regeln akzeptiert;
-	- 2a2) die Teilnahmevoraussetzungen erfüllt, die eindeutig vor dem Turnier angekündigt werden müssen;
+	- 2a1) die WCA-Regeln akzeptiert.
+	- 2a2) die Teilnahmevoraussetzungen erfüllt, die eindeutig vor dem Turnier angekündigt werden müssen.
 	- 2a3) nicht vom WCA-Board gesperrt wurde.
 - 2b) Teilnehmer unter 18 Jahren brauchen die Erlaubnis ihrer Erziehungsberechtigten um sich zu registrieren und teilzunehmen.
 - 2c) Zu einer vollständigen Anmeldung eines Teilnehmers müssen alle verlangten Angaben gemacht werden (darunter: Name, Nationalität, Geburtsdatum, Geschlecht, Kontaktinformationen und teilnehmende Kategorien).
@@ -84,35 +84,35 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 - 2d) Name, Nationalität, Geschlecht und Resultate des Turniers zählen als öffentliche Informationen. Alle anderen persönlichen Informationen werden vertraulich behandelt und dürfen ohne Zustimmung des Teilnehmers nicht an Dritte weitergegeben werden.
 - 2e) Teilnehmer müssen einen Staat vertreten, dessen Staatsbürgerschaft sie besitzen. Der WCA-Delegierte sollte diese Staatsbürgerschaft durch Begutachtung von Dokumenten (z.B. Personalausweis, Reisepass) überprüfen. Wenn ein Teilnehmer für nicht repräsentationsfähig für das Land, unter welchem er sich angemeldet hat, befunden wird, kann er rückwirkend disqualifiziert und/oder suspendiert werden, nach Ermessen des WCA-Boards.
 	- 2e1) Die Staaten, die vertreten werden können, sind durch den englischsprachigen Wikipedia-Artikel "List of sovereign states" definiert ("UN member states and observer states" sowie "Other states").
-	- 2e2) Teilnehmer mit Änderungen in der Staatsbürgerschaft können ihr vertretenes Land in ihrem ersten Turnier eines Kalenderjahres ändern.
-- 2f) Teilnehmer müssen sich an die Hausordnung des Veranstaltungsortes halten und sich auf eine Weise verhalten, die auf andere Rücksicht nimmt.
+	- 2e2) Teilnehmer, bei denen sich Änderungen in der Staatsbürgerschaft ergeben, können ihr vertretenes Land in ihrem ersten Turnier eines Kalenderjahres ändern.
+- 2f) Teilnehmer müssen sich an die Hausordnung des Veranstaltungsortes halten und sich rücksichtsvoll verhalten.
 - 2g) Teilnehmer müssen sich im Wettbewerbsbereich ruhig verhalten. Unterhaltungen bei angemessener Lautstärke sind erlaubt, solange sie weit genug von den aktiven Teilnehmern entfernt stattfinden.
 	- 2g3) Teilnehmer im Teilnehmerbereich dürfen nicht miteinander über die Scrambles der laufenden Runde kommunizieren. Strafe: Disqualifikation des Teilnehmers von der Kategorie, nach Ermessen des WCA-Delegierten.
 - 2h) Teilnehmer müssen vollständig bekleidet sein. Nach Ermessen des WCA-Delegierten dürfen Teilnehmer für unangebrachte Bekleidung vom Turnier ausgeschlossen werden.
 - 2i) Während der aktiven Teilnahme am Wettkampf dürfen Teilnehmer keine Elektronik oder Audioelektronik nutzen (z.B. Mobiltelefone, MP3 Player, Diktiergeräte, zusätzliche Beleuchtung).
-	- 2i1) Während der aktiven Teilnahme am Wettkampf dürfen Teilnehmer nicht-elektronische Hilfsmittel nutzen, die ihnen keinen unfairen Vorteil geben, nach Ermessen des WCA-Delegierten. Dies schließt ein:
+	- 2i1) Teilnehmer dürfen nicht-elektronische Hilfsmittel nutzen, die ihnen keinen unfairen Vorteil geben, nach Ermessen des WCA-Delegierten. Dies schließt ein:
 		- 2i1a) Medizinische/physische Hilfen, die vom Teilnehmer getragen werden (z.B. eine Brille, Handbandagen). Als Ausnahmeregelung zu [Regel 2i](regulations:regulation:2i), dürfen medizinische Hilfsmittel elektronisch sein, wenn der Teilnehmer keine nicht-elektronische Alternative hat (z.B. Teilnehmer, die eine Hörhilfe oder einen Herzschrittmacher haben).
 		- 2i1b) Ohrstöpsel und Gehörschutz (aber keine elektronischen geräuschunterdrückenden Kopfhörer).
 	- 2i2) Teilnehmer dürfen am Löse-Platz Kameras nach Ermessen des WCA-Delegierten nutzen, aber die folgenden Bedingungen müssen vom Beginn des Versuchs bis zum Stoppen des Solves eingehalten werden. Strafe für das Brechen der Bedingungen: Disqualifikation des Versuchs (DNF).
 		- 2i2a) Jeder Monitor der Kamera muss ausgeschaltet oder außerhalb des Sichtbereichs des Teilnehmers sein (siehe [Regel A5b](regulations:regulation:A5b)). 
-		- 2i2b) Der Teilnehmer darf nicht mit der aktiven Kamera interagieren (z.B. bedienen, halten, tragen). Ausnahme: der Teilnehmer trägt eine Kamera, die auf seinem Kopf befestigt ist, so lange diese außerhalb seines Sichtbereiches ist und klar ist, dass er nicht mit dieser interagiert (abgesehen vom Tragen). 
+		- 2i2b) Der Teilnehmer darf nicht mit der aktiven Kamera interagieren (z.B. bedienen, halten, tragen). Ausnahme: der Teilnehmer darf eine Kamera tragen, die auf seinem Kopf befestigt ist, solange diese außerhalb seines Sichtbereiches ist und klar ist, dass er nicht mit dieser interagiert (abgesehen vom Tragen). 
 - 2j) Der WCA-Delegierte darf einen Teilnehmer von einer bestimmten Kategorie ausschließen.
 	- 2j1) Wenn ein Teilnehmer von einer Kategorie ausgeschlossen wird, aus welchem Grund auch immer, hat er keinen Anspruch auf weitere Versuche in dieser Kategorie.
-	- 2j2) Wenn ein Teilnehmer während der Durchführung einer Kategorie ausgeschlossen wird, bleiben seine Resultate bis zu diesem Zeitpunkt gültig. Ausnahme: Betrug (siehe Regel 2k2a).
+	- 2j2) Wenn ein Teilnehmer während der Durchführung einer Kategorie ausgeschlossen wird, bleiben seine Resultate bis zu diesem Zeitpunkt gültig. Ausnahme: Schummeln oder Betrug (siehe Regel 2k2a).
 - 2k) Der WCA-Delegierte darf einen Teilnehmer von dem Turnier disqualifizieren, falls einer der folgenden Gründe vorliegt:
-	- 2k1) Teilnehmer ist nicht rechtzeitig zur Registrierung vor Ort;
-	- 2k2) Teilnehmer wird des Betruges verdächtig;
+	- 2k1) der Teilnehmer ist nicht rechtzeitig zur Registrierung vor Ort.
+	- 2k2) der Teilnehmer wird des Schummelns oder des Betrugs während des Turniers verdächtigt.
 		- 2k2a) Der WCA-Delegierte darf sämtliche verdächtigen Resultate disqualifizieren.
-	- 2k3) Teilnehmer verhält sich gesetzeswidrig, gewalttätig oder anstößig oder zerstört mutwillig Einrichtungsgegenstände oder persönliche Wertgegenstände anderer Gäste am Veranstaltungsort;
-	- 2k4) Teilnehmer behindert oder stört andere Teilnehmer während des Wettbewerbs;
-	- 2k5) Teilnehmer weigert sich, die WCA-Regeln zu befolgen.
-- 2l) Disqualifikation kann ohne oder mit Vorwarnung durchgeführt werden, je nach Schwere des Verstoßes.
+	- 2k3) der Teilnehmer verhält sich gesetzeswidrig, gewalttätig oder anstößig oder zerstört mutwillig Einrichtungsgegenstände oder persönliche Gegenstände anderer Gäste am Veranstaltungsort.
+	- 2k4) der Teilnehmer behindert oder stört andere Teilnehmer während des Wettbewerbs.
+	- 2k5) der Teilnehmer weigert sich, die WCA-Regeln zu befolgen.
+- 2l) Ein Teilnehmer kann ohne oder mit Vorwarnung disqualifiziert werden, je nach Art und Schwere des Verstoßes.
 	- 2l1) Ein disqualifizierter Teilnehmer hat keinen Anspruch auf Schadensersatz oder Kostenrückerstattung von Ausgaben, die auf die Turnierteilnahme zurückzuführen sind.
 - 2n) Teilnehmer können gegen eine Entscheidung mündlich beim WCA-Delegierten Widerspruch einlegen.
-	- 2n1) Widersprüche sind nur während des Turniers möglich, innerhalb von 30 Minuten nach dem Vorfall und bevor die nächste Runde der betroffenen Kategorie beginnt möglich.
+	- 2n1) Widersprüche sind nur während des Turniers möglich, innerhalb von 30 Minuten nach dem Vorfall und vor Beginn der nächsten Runde der betroffenen Kategorie möglich.
 	- 2n2) Der WCA-Delegierte muss die Angelegenheit klären, bevor die nächste Runde der betroffenen Kategorie beginnt.
 	- 2n3) Der Teilnehmer muss die endgültige Entscheidung des WCA-Delegierten anerkennen. Strafe: Disqualifikation des Teilnehmers vom Turnier.
-- 2s) Teilnehmer mit Behinderungen, die sie vom Einhalten einer oder mehrerer WCA-Regeln abhalten könnten, können spezielle Behandlung vom WCA-Delegierten beantragen. Diese Teilnehmer sollten das Organisationsteam und den WCA-Delegierten mindestens zwei Wochen vor dem Turnier kontaktieren.
+- 2s) Teilnehmer mit Behinderungen, die sie vom Einhalten einer oder mehrerer WCA-Regeln abhalten könnten, können eine spezielle Behandlung beim WCA-Delegierten anfragen. Diese Teilnehmer sollten das Organisationsteam und den WCA-Delegierten mindestens zwei Wochen vor dem Turnier kontaktieren.
 - 2t) Jeder Teilnehmer muss vor Beginn eines Turniers mit den WCA-Regeln vertraut sein und diese verstehen.
 - 2u) Teilnehmer müssen anwesend und bereit zur Teilnahme sein, wenn sie zu einem Versuch aufgerufen werden. Strafe: Disqualifikation der Kategorie.  
 	- 2u1) Ausnahme: Ein Teilnehmer, der nicht rechtzeitig zu einem individuell geplanten Versuch anwesend ist (z.B. ein FMC Versuch, ein Multiple Blindfold Versuch) darf so behandelt werden, als ob er den Versuch abgelehnt hätte (DNS), nach Ermessen des WCA-Delegierten.
