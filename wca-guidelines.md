@@ -33,7 +33,7 @@ Jede Richtlinie ist einer der folgenden Kategorien zugeordnet. Diese Beschriftun
 ## <article-1><officials><officials> Abschnitt 1: Offizielle Organe
 
 - 1c3+) [Empfehlung] Die Resultate sollten am Ende des letzten Tages des Turniers ausgewertet sein.
-- 1c3++) [Zusatz] Analoge Aufzeichnungen (z.B. Score Sheets, aufgeschriebene Fewest-Moves-Lösungen) müssen mindestens einen Monat lang aufgehoben werden. Digitale Aufzeichnungen (z.B. Scrambles, Ergebnisse) müssen dauerhaft aufgehoben werden.
+- 1c3++) [Zusatz] Analoge Aufzeichnungen (z.B. Scoresheets, aufgeschriebene Fewest-Moves-Lösungen) müssen mindestens einen Monat lang aufgehoben werden. Digitale Aufzeichnungen (z.B. Scrambles, Ergebnisse) müssen dauerhaft aufgehoben werden.
 - 1c3b+) [Klarstellung] Wenn es mehrere Gruppen gibt, ist es nicht notwendig zu kennzeichnen, welcher Teilnehmer in welchen Gruppen war.
 - 1c4+) [Empfehlung] Korrekturen der Resultate sollten binnen einer Woche nach dem Turnier gemacht werden.
 - 1c10+) [Klarstellung] Es genügt, Zugang zu einer digitalen Kopie des Regelwerks zur Verfügung zu stellen.
