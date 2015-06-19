@@ -11,10 +11,10 @@ Hierbei handelt es sich **nicht** um die offiziellen Regeln der World Cube Assoc
 Einige Begriffe wurden absichtlich nicht übersetzt, da im Deutschen keine entsprechenden Bezeichnungen existieren oder da selbst auf deutschen Turnieren die englischsprachige Bezeichnung benutzt wird. Dazu zählen unter anderem: Judge (eine Person, die während eines Versuchs als Schiedsrichter agiert), Scrambler (eine Person, die ein Puzzle mischt), Scramble (eine Zugfolge, nach der ein Puzzle gemischt wird), Scoresheets (Zettel, auf dem Ergebnisse notiert werden), Scoretaker (eine Person, die Ergebnisse notiert bzw. auswertet), etc.
 
 
-Folgende Personen haben bei der Übersetzung und Korrektur geholfen: [Sébastien Auroux](http://www.worldcubeassociation.org/results/p.php?i=2008AURO01), [Laura Ohrndorf](http://www.worldcubeassociation.org/results/p.php?i=2009OHRN01), [Gregor Billing](http://www.worldcubeassociation.org/results/p.php?i=2012BILL01).
+Folgende Personen haben bei der Übersetzung und Korrektur geholfen: [Sébastien Auroux](http://www.worldcubeassociation.org/results/p.php?i=2008AURO01), [Laura Ohrndorf](http://www.worldcubeassociation.org/results/p.php?i=2009OHRN01).
 
 
-Folgende weitere Personen haben bei der Übersetzung und Korrektur bei vorherigen Versionen geholfen: [Florian Weingarten](http://www.worldcubeassociation.org/results/p.php?i=2007WEIN01), [Stefan Huber](http://www.worldcubeassociation.org/results/p.php?i=2007HUBE01), [Leon Schmidtchen](http://www.worldcubeassociation.org/results/p.php?i=2010SCHM01), [Robin Blöhm](http://www.worldcubeassociation.org/results/p.php?i=2008BLOH02), [Tim Habermaas](http://www.worldcubeassociation.org/results/p.php?i=2007HABE01), [Markus Pirzer](http://www.worldcubeassociation.org/results/p.php?i=2006PIRZ01), [Marcel Henfling](http://www.worldcubeassociation.org/results/p.php?i=2010HENF01), [Jochen Spies](http://www.worldcubeassociation.org/results/p.php?i=2010SPIE01), [Stefan Pochmann](http://www.worldcubeassociation.org/results/p.php?i=2003POCH01), [Leandro Baltazar](http://www.worldcubeassociation.org/results/p.php?i=2009BALT02),  [Emanuel Rheinert](http://www.worldcubeassociation.org/results/p.php?i=2011RHEI01), [Patrick Hetco](http://www.worldcubeassociation.org/results/p.php?i=2011HETC01).
+Folgende weitere Personen haben bei der Übersetzung und Korrektur bei vorherigen Versionen geholfen: [Florian Weingarten](http://www.worldcubeassociation.org/results/p.php?i=2007WEIN01), [Stefan Huber](http://www.worldcubeassociation.org/results/p.php?i=2007HUBE01), [Leon Schmidtchen](http://www.worldcubeassociation.org/results/p.php?i=2010SCHM01), [Robin Blöhm](http://www.worldcubeassociation.org/results/p.php?i=2008BLOH02), [Tim Habermaas](http://www.worldcubeassociation.org/results/p.php?i=2007HABE01), [Markus Pirzer](http://www.worldcubeassociation.org/results/p.php?i=2006PIRZ01), [Marcel Henfling](http://www.worldcubeassociation.org/results/p.php?i=2010HENF01), [Jochen Spies](http://www.worldcubeassociation.org/results/p.php?i=2010SPIE01), [Stefan Pochmann](http://www.worldcubeassociation.org/results/p.php?i=2003POCH01), [Leandro Baltazar](http://www.worldcubeassociation.org/results/p.php?i=2009BALT02),  [Emanuel Rheinert](http://www.worldcubeassociation.org/results/p.php?i=2011RHEI01), [Patrick Hetco](http://www.worldcubeassociation.org/results/p.php?i=2011HETC01), [Gregor Billing](http://www.worldcubeassociation.org/results/p.php?i=2012BILL01).
 
 ### WCA Regeln und WCA Richtlinien
 
@@ -56,7 +56,7 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 		- 1e1a) Ein Judge darf nach Ermessen des WCA-Delegierten mehrere Teilnehmer gleichzeitig judgen, sofern er sicherstellen kann, dass alle WCA-Regeln zu jedem Zeitpunkt eingehalten werden.
 	- 1e2) Jeder Teilnehmer müssen als Judge zur Verfügung stehen. Wird ein Teilnehmer zum Judgen benötigt, so kann er lediglich durch Angabe eines legitimen Grunds (z.B. Unkenntnis eines Puzzles), nach Ermessen des WCA-Delegierten, davon freigestellt werden. Strafe: Disqualifikation des Teilnehmers von dem Turnier (siehe [Regel 2k](regulations:regulation:2k)).
 - 1f) Jede Kategorie muss einen oder mehrere Scrambler haben. Ausnahme: Fewest Moves.
-	- 1f1) Ein Scrambler einer Kategorie ist verantwortlich für die Anwendung der Scrambles auf die Puzzle.
+	- 1f1) Ein Scrambler einer Kategorie ist verantwortlich für die Anwendung der Scrambles auf die Puzzles.
 	- 1f2) Geeignete Teilnehmer müssen als Scrambler zur Verfügung stehen. Wird ein Teilnehmer zum Scramblen benötigt, so kann er lediglich durch Angabe eines legitimen Grunds (z.B. Unkenntnis eines Puzzles), nach Ermessen des WCA-Delegierten, davon freigestellt werden. Strafe: Disqualifikation des Teilnehmers von dem Turnier (siehe [Regel 2k](regulations:regulation:2k)).
 - 1g) Jede Kategorie benötigt einen oder mehrere Scoretaker.
 	- 1g1) Ein Scoretaker einer Kategorie ist verantwortlich für die Aufnahme der Ergebnisse der Kategorie.
@@ -85,7 +85,7 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 - 2h) Teilnehmer müssen vollständig bekleidet sein. Nach Ermessen des WCA-Delegierten dürfen Teilnehmer für unangebrachte Bekleidung vom Turnier ausgeschlossen werden.
 - 2i) Während der aktiven Teilnahme am Wettkampf dürfen Teilnehmer keine Elektronik oder Audioelektronik nutzen (z.B. Mobiltelefone, MP3 Player, Diktiergeräte, zusätzliche Beleuchtung).
 	- 2i1) Während der aktiven Teilnahme am Wettkampf dürfen Teilnehmer nicht-elektronische Hilfsmittel nutzen, die ihnen keinen unfairen Vorteil geben, nach Ermessen des WCA-Delegierten. Dies schließt ein:
-		- 2i1a) Medizinische/physische Hilfen, die vom Teilnehmer getragen werden (z.B. eine Brille, Handbandagen). Als Ausnahmeregelung zu [Regel 2i](regulations:regulation:2i), dürfen medzinische Hilfsmittel elektronisch sein, wenn der Teilnehmer keine nicht-elektronische Alternative hat (z.B. Teilnehmer, die eine Hörhilfe oder einen Herzschrittmacher haben).
+		- 2i1a) Medizinische/physische Hilfen, die vom Teilnehmer getragen werden (z.B. eine Brille, Handbandagen). Als Ausnahmeregelung zu [Regel 2i](regulations:regulation:2i), dürfen medizinische Hilfsmittel elektronisch sein, wenn der Teilnehmer keine nicht-elektronische Alternative hat (z.B. Teilnehmer, die eine Hörhilfe oder einen Herzschrittmacher haben).
 		- 2i1b) Ohrstöpsel und Gehörschutz (aber keine elektronischen geräuschunterdrückenden Kopfhörer).
 	- 2i2) Teilnehmer dürfen am Löse-Platz Kameras nach Ermessen des WCA-Delegierten nutzen, aber die folgenden Bedingungen müssen vom Beginn des Versuchs bis zum Stoppen des Solves eingehalten werden. Strafe für das Brechen der Bedingungen: Disqualifikation des Versuchs (DNF).
 		- 2i2a) Jeder Monitor der Kamera muss ausgeschaltet oder außerhalb des Sichtbereichs des Teilnehmers sein (siehe [Regel A5b](regulations:regulation:A5b)). 
@@ -96,7 +96,7 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 - 2k) Der WCA-Delegierte darf einen Teilnehmer von dem Turnier disqualifizieren, falls einer der folgenden Gründe vorliegt:
 	- 2k1) Teilnehmer ist nicht rechtzeitig zur Registrierung vor Ort;
 	- 2k2) Teilnehmer wird des Betruges verdächtig;
-		- 2k2a) Der WCA-Delegierte darf sämtliche verdächtigen Resultate für nichtig erklären.
+		- 2k2a) Der WCA-Delegierte darf sämtliche verdächtigen Resultate disqualifizieren.
 	- 2k3) Teilnehmer verhält sich gesetzeswidrig, gewalttätig oder anstößig oder zerstört mutwillig Einrichtungsgegenstände oder persönliche Wertgegenstände anderer Gäste am Veranstaltungsort;
 	- 2k4) Teilnehmer behindert oder stört andere Teilnehmer während des Wettbewerbs;
 	- 2k5) Teilnehmer weigert sich, die WCA-Regeln zu befolgen.
@@ -108,7 +108,7 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 	- 2n3) Der Teilnehmer muss die endgültige Entscheidung des WCA-Delegierten anerkennen. Strafe: Disqualifikation des Teilnehmers vom Turnier.
 - 2s) Teilnehmer mit Behinderungen, die sie vom Einhalten einer oder mehrerer WCA-Regeln abhalten könnten, können spezielle Behandlung vom WCA-Delegierten beantragen. Diese Teilnehmer sollten das Organisationsteam und den WCA-Delegierten mindestens zwei Wochen vor dem Turnier kontaktieren.
 - 2t) Jeder Teilnehmer muss vor Beginn eines Turniers mit den WCA-Regeln vertraut sein und diese verstehen.
-- 2u) Teilnehmer müssen anwesend und bereit zur Teilnahme sein, wenn sie zu einem Versuch aufgrufen werden. Strafe: Disqualifikation der Kategorie.  
+- 2u) Teilnehmer müssen anwesend und bereit zur Teilnahme sein, wenn sie zu einem Versuch aufgerufen werden. Strafe: Disqualifikation der Kategorie.  
 	- 2u1) Ausnahme: Ein Teilnehmer, der nicht rechtzeitig zu einem individuell geplanten Versuch anwesend ist (z.B. ein FMC Versuch, ein Multiple Blindfold Versuch) darf so behandelt werden, als ob er den Versuch abgelehnt hätte (DNS), nach Ermessen des WCA-Delegierten.
 
 
@@ -117,26 +117,26 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 - 3a) Teilnehmer müssen ihre eigenen Puzzles mitbringen und benutzen.
 	- 3a1) Teilnehmer müssen anwesend und bereit zur Teilnahme sein, wenn sie aufgerufen werden (siehe [Regel 2u](regulations:regulation:2u)).
 	- 3a2) Puzzles müssen voll funktionsfähig sein, so dass sie ordnungsgemäß gescrambelt werden können.
-	- 3a3) Polyedrische Puzzle müssen ein Farbschema besitzen, so dass im gelösten Zustand jede Seite eine eindeutige Farbe besitzt. Die Funktionalität jedes Puzzles muss identisch sein zum Originalpuzzle im Bezug auf Züge, Zustände und Lösungsmöglichkeiten.
+	- 3a3) Polyedrische Puzzles müssen ein Farbschema besitzen, so dass im gelösten Zustand jede Seite eine eindeutige Farbe besitzt. Die Funktionalität jedes Puzzles muss identisch sein zum Originalpuzzle im Bezug auf Züge, Zustände und Lösungsmöglichkeiten.
 - 3d) Puzzles müssen welche der folgenden farbigen Teile haben: farbige Sticker, farbige Plättchen (Tiles), farbiges Plastik, oder aufgemalte Farben. Sämtliche farbigen Teile eines Puzzles müssen dabei gleicher Art sein.
 	- 3d1) Ausnahme: Teilnehmer mit medizinisch dokumentierter Sehunfähigkeit dürfen Puzzle mit verschiedenen Oberflächentexturen auf den verschiedenen Seiten benutzen. Die Texturen/Muster müssen pro Seite einheitlich sein. Dennoch sollte jede Seite eine bestimmte Farbe aufweisen, um das Scramblen und Judgen zu ermöglichen.
 	- 3d2) Die Farben eines Puzzles müssen pro Seite einheitlich und eindeutig voneinander unterscheidbar sein.
 	- 3d3) Wenn die farbigen Flächen des Puzzles Sticker oder Plättchen (Tiles) sind, dürfen nicht dicker sein als 1,5 mm. Ausnahme: Megaminx Plättchen (Tiles) dürfen etwas dicker sein als 1,5 mm, nach Ermessen des WCA-Delegierten.
-- 3h) Es dürfen keine Modifikationen gemacht werden, die das grundlegende Konzept eines Puzzles verbessern. Modifizierte Puzzle sind nur erlaubt, wenn die Modifikation dem Teilnehmer im Vergleich zur unmodifizierten Version des Puzzles keine zusätzlichen Informationen liefert (z.B. Orientierung oder Identität von Steinen).
+- 3h) Es dürfen keine Modifikationen gemacht werden, die das grundlegende Konzept eines Puzzles verbessern. Modifizierte Puzzles sind nur erlaubt, wenn die Modifikation dem Teilnehmer im Vergleich zur nicht modifizierten Version des Puzzles keine zusätzlichen Informationen liefert (z.B. Orientierung oder Identität von Steinen).
 	- 3h1) Gewölbte ("pillowed") Puzzle sind nicht erlaubt. Ausnahme: Gewölbte 7x7x7 sind erlaubt.
-	- 3h2) Puzzle, bei denen die Farben der Flächen auch im Inneren sichtbar sind (z.B. "stickerless" Puzzle) sind erlaubt. Dies schliesst nicht die folgenden Puzzle ein:
-		- 3h2a) Puzzle mit transparenten Teilen sind nicht erlaubt. Ausnahme: ein abdeckender Sticker (siehe [Regel 3l](regulations:regulation:3l)).
+	- 3h2) Puzzles, bei denen die Farben der Flächen auch im Inneren sichtbar sind (z.B. "stickerless" Puzzle) sind erlaubt. Dies schließt nicht die folgenden Puzzle ein:
+		- 3h2a) Puzzles mit transparenten Teilen sind nicht erlaubt. Ausnahme: ein abdeckender Sticker (siehe [Regel 3l](regulations:regulation:3l)).
 	- 3h3) Puzzlemodifikationen, die zu einer schlechteren Leistung führen, geben dem Teilnehmer kein Recht auf einen weiteren Versuch.
 - 3j) Puzzles müssen sauber sein und dürfen keine Markierungen, hervorgehobenen Teile, Schäden oder andere Unterschiede in Teilen aufweisen, die sie signifikant von anderen gleichartigen Teilen unterscheiden. Ausnahme: ein Logo (siehe [Regel 3l](regulations:regulation:3l))
-	- 3j1) Puzzle müssen einen hinreichend guten Zustand besitzen, nach Ermessen des WCA-Delegierten.
+	- 3j1) Puzzles müssen einen hinreichend guten Zustand besitzen, nach Ermessen des WCA-Delegierten.
 	- 3j2) Definition: Zwei Teile sind gleichartig, wenn sie identisch in Form und Größe sind oder gespiegelt in Form und gleich in Größe sind.
-	- 3j3) Geriffelte/Texturierte Teile, deren Orientierung man durch Fühlen unterscheiden kann, sind für Blindlös-Kategorien nicht erlaubt.
+	- 3j3) Geriffelte/Texturierte Teile, deren Orientierung man durch Fühlen unterscheiden kann, sind für Blindfold-Kategorien nicht erlaubt.
 - 3k) Puzzles müssen vor der Verwendung im Wettkampf vom WCA-Delegierten genehmigt werden.
 - 3l) Puzzles dürfen höchstens ein farbiges Teil mit einem Logo haben. 
 	- 3l1) Das Logo muss auf einem Mittelstein platziert sein. Ausnahmen für Puzzle ohne Mittelsteine:
 		- 3l1a) Für Pyraminx und 2x2x2 kann ein Logo auf einem beliebigen Stein platziert werden.
 		- 3l1b) Für Square-1 muss das Logo auf einem Stein der äquatorialen Ebene platziert werden.
-	- 3l2) Das Logo darf eingestanzt und eingraviert sein oder auch aus einem transparenten Aufkleber bestehen, der über einem normalen Sticker platziert ist. Ausnahme: Für Blindlös-Kategorien darf kein erfühlbares Logo verwendet werden.
+	- 3l2) Das Logo darf eingestanzt und eingraviert sein oder auch aus einem transparenten Aufkleber bestehen, der über einem normalen Sticker platziert ist. Ausnahme: Das Logo in Blindfold-Kategorien darf nicht durch Fühlen unterscheidbar sein (z.B. keine Prägungen, keine Eingravierungen oder Overlay Sticker).
 - 3m) Alle Puzzle- und Puzzleteile-Marken sind erlaubt, solange die Puzzles den anderen WCA-Regeln entsprechen.
 
 ## <article-4><scrambling><scrambling> Abschnitt 4: Scramblen
@@ -146,14 +146,14 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 	- 4b1) Scrambles dürfen vor dem Turnier nicht betrachtet werden und dürfen in keinem Fall vom WCA-Delegierten gefiltert werden.
 	- 4b2) Scrambles für eine Runde dürfen bis zum Ende der Runde nur dem WCA-Delegierten und den Scramblern zur Verfügung stehen. Ausnahme: Bei Fewest Moves erhalten die Teilnehmer die Scrambles bereits während der Runde (siehe Abschnitt E).
 	- 4b3) Spezifikationen für das Scrambling Programm: offizielle Scrambles müssen einen zufälligen Zustand herbeiführen, dessen Lösung mindestens 2 Züge benötigt (gleiche Wahrscheinlichkeit für jeden Zustand). Folgende Ausnahmen/Zusätze gelten:
-		- 4b3a) Für Blindlös-Kategorien muss der Scrambles das Puzzle zufällig orientieren (gleiche Wahrscheinlichkeit für jede Orientierung).
+		- 4b3a) Für Blindfold-Kategorien muss der Scrambles das Puzzle zufällig orientieren (gleiche Wahrscheinlichkeit für jede Orientierung).
 		- 4b3b) 2x2x2: Die Lösung des (zufälligen) Zustandes muss mindestens 4 Züge benötigen. 
 		- 4b3c) Skewb: Die Lösung des (zufälligen) Zustandes muss mindestens 7 Züge benötigen. 
 		- 4b3d) Square-1: Die Lösung des (zufälligen) Zustandes muss mindestens 11 Züge benötigen. 
 		- 4b3e) 5x5x5, 6x6x6, 7x7x7, Megaminx: hinreichend viele zufällige Züge (statt zufälligem Zustand).
 - 4d) Ausrichtung beim Scramblen:
 		- 4b3f) Pyraminx: Die Lösung des (zufälligen) Zustandes muss mindestens 6 Züge benötigen.
-	- 4d1) NxNxN Puzzle und Megaminx werden mit der weißen Seite (wenn nicht möglich, dann mit der hellsten Seite) oben und der grünen Seite (wenn nicht möglich, dann mit der dunkelsten benachbarten) vorne gescrambelt.
+	- 4d1) NxNxN Puzzles und Megaminx werden mit der weißen Seite (wenn nicht möglich, dann mit der hellsten Seite) oben und der grünen Seite (wenn nicht möglich, dann mit der dunkelsten benachbarten) vorne gescrambelt.
 	- 4d2) Pyraminx wird mit der gelben Seite (wenn nicht möglich, dann mit der hellsten Seite) unten und der grünen Seite (wenn nicht möglich, dann mit der dunkelsten benachbarten) vorne gescrambelt.
 	- 4d3) Square-1 wird mit der dunkelsten Seite vorne gescrambelt (ausgehend von den beiden möglichen Ausrichtungen beim Scramblen).
 	- 4d4) Clock wird mit einer der beiden Seiten vorne und 12 Uhr nach oben zeigend gescrambelt.
@@ -191,7 +191,7 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 		- 7f1b) Matte: Die Matte einer Stackmat.
 		- 7f1c) Timer: Der Timer einer Stackmat oder eine Stoppuhr (bei längeren Versuchen).
 		- 7f1d) Oberfläche: Die flache Oberfläche, auf der die Stackmat platziert wurde. Die Matte wird als Teil der Oberfläche angesehen, der Timer jedoch nicht.
-	- 7f2) Der Timer muss an der Matte angebracht sein und auf der Oberfläche platziert sein, so ausgerichtet, dass die Seite mit dem Timer dem Teilnehmer am nähesten ist.
+	- 7f2) Der Timer muss an der Matte angebracht sein und auf der Oberfläche platziert sein, so ausgerichtet, dass die Seite mit dem Timer dem Teilnehmer am nähsten ist.
 		- 7f2a) Ausnahme: Für das Lösen mit den Füßen wird die Stackmat direkt auf dem Boden platziert. Der Timer darf dann außerdem so ausgerichtet werden, dass die Seite mit dem Timer am weitesten vom Teilnehmer entfernt ist.
 - 7h) Der Veranstaltungsort muss einen Wartebereich für die Teilnehmer haben.
 	- 7h1) Das Organisationsteam kann von Teilnehmern, die aufgerufen wurden um teilzunehmen, verlangen, dass sie sich im Teilnehmerbereich aufhalten, solange bis sie alle Versuche ihrer Runde hinter sich gebracht haben.
@@ -212,7 +212,7 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 
 - 9a) Die WCA leitet Wettbewerbe für:
 	- 9a1) Puzzles, die als "Rubik Puzzles" bekannt sind.
-	- 9a2) Andere Puzzle, die durch Drehen von Seiten verändert werden, sogenannte "Drehpuzzle" ("Twisty Puzzles").
+	- 9a2) Andere Puzzles, die durch Drehen von Seiten verändert werden, sogenannte "Drehpuzzles" ("Twisty Puzzles").
 - 9b) Offizielle Speedsolving Kategorien und Formate der WCA sind:
 	- 9b1) Rubik's Cube (3x3x3), 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, Clock, Megaminx, Pyraminx, Square-1, Skewb und Rubik's Cube: One-Handed.
 		- 9b1a) Die Turnierformate für diese Kategorien sind: "Best of X" (wobei X gleich 1, 2 oder 3 sein kann) und "Average of 5".
@@ -222,7 +222,7 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 		- 9b3a) Die Turnierformate für diese Kategorien sind: "Best of X" (wobei X gleich 1, 2 oder 3 sein kann).
 		- 9b3b) Für Rubik's Cube: Blind erkennt die WCA außerdem "Mean of 3" Ranglisten und Rekorde an, basierend auf den Zeiten von "Best of 3" Runden.
 - 9f) Die Ergebnisse einer Runde werden wie folgt gemessen:
-	- 9f1) Alle gestoppten Zeiten unter 10 Minuten werden in Hundertstelsekunden gemessen und auf die nächste Hunderstelsekunde **ab**gerundet. Der Durchschnitt bzw. das Mittel werden auf die nächste Hundertstelsekunde gerundet.
+	- 9f1) Alle gestoppten Zeiten unter 10 Minuten werden in Hundertstelsekunden gemessen und auf die nächste Hundertstelsekunde **ab**gerundet. Der Durchschnitt bzw. das Mittel werden auf die nächste Hundertstelsekunde gerundet.
 	- 9f2) Alle gestoppten Zeiten über 10 Minuten, und zugehörige Durchschnittszeiten/Mittel werden in Sekunden gemessen, wobei der Durchschnitt bzw. das Mittel auf die nächste Sekunde gerundet wird (x.4 wird x, x.5 wird x+1).
 	- 9f4) DNF (Did Not Finish) ist das Ergebnis eines Versuchs, der disqualifiziert oder abgebrochen wurde oder wenn das Puzzle nicht gelöst wurde.
 	- 9f5) DNS (Did Not Start) ist das Ergebnis, wenn der Teilnehmer zu einem Versuch berechtigt ist, an dem Versuch aber nicht teilgenommen hat.
@@ -234,16 +234,16 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 	- 9f11) Im Format 'Mean of 3' ist das Ergebnis DNF sobald mindestens ein Versuch DNS oder DNF ist.
 	- 9f12) Im Format 'Best of X' werden die Ranglisten auf Basis des besten Resultats pro Teilnehmer erstellt. Die folgenden Kriterien werden zum Vergleich von Ergebnissen verwendet:
 		- 9f12a) Für gemessene Zeiten ist "besser" gleichbedeutend mit "kürzere Zeit".
-		- 9f12b) Für "Wenigste Züge" ist "besser" gleichbedeutend mit der kürzeren Lösungslänge.
-		- 9f12c) Für "Mehrfach Blindlösen" wird die Rangliste folgendermaßen erstellt: Man zieht die Anzahl der nicht gelösten Puzzles von der Anzahl der gelösten Puzzles ab. Eine größere Differenz wird als "besser" betrachtet. Wenn die Differenz kleiner als 0 ist oder nur ein Puzzle gelöst wurde, wird der Versuch als nicht gelöst gewertet (DNF). Wenn verschiedene Teilnehmer das gleiche Resultat erreichen, wird jener, der dafür die kürzere Zeit benötigt hat, als "besser" gewertet. Sollte auch diese bei mehreren Teilnehmern gleich sein, betrachtet man die Anzahl der nicht gelösten Puzzles pro Teilnehmer, wobei weniger ungelöste Puzzles als besser gewertet werden.
+		- 9f12b) Für "Fewest Moves" ist "besser" gleichbedeutend mit der kürzeren Lösungslänge.
+		- 9f12c) Für "Multiple Blindfold" wird die Rangliste folgendermaßen erstellt: Man zieht die Anzahl der nicht gelösten Puzzles von der Anzahl der gelösten Puzzles ab. Eine größere Differenz wird als "besser" betrachtet. Wenn die Differenz kleiner als 0 ist oder nur ein Puzzle gelöst wurde, wird der Versuch als nicht gelöst gewertet (DNF). Wenn verschiedene Teilnehmer das gleiche Resultat erreichen, wird jener, der dafür die kürzere Zeit benötigt hat, als "besser" gewertet. Sollte auch diese bei mehreren Teilnehmern gleich sein, betrachtet man die Anzahl der nicht gelösten Puzzles pro Teilnehmer, wobei weniger ungelöste Puzzles als besser gewertet werden.
 	- 9f13) Im Format 'Mean of 3' oder 'Average of 5' zählt ein Versuch als besser als ein anderer, wenn die entsprechende Zahl des Durchschnitts/Mittels kleiner ist als die andere.
-	- 9f14) Falls im Format 'Mean of 3' oder 'Average of 5' zwei Teilnehmer den gleichen Durchschnitt bzw. das gleiche Mittel haben, dann zählt der Versuch als besser, in dem die bessere Einzelzeit vorkam, wobei besser bedeutet, dass die jeweilige Zahl kleiner ist.
+	- 9f14) Falls im Format 'Mean of 3' oder 'Average of 5' zwei Teilnehmer den gleichen Durchschnitt bzw. das gleiche Mittel haben zählt der Versuch als besser, in dem die bessere Einzelzeit vorkam, wobei besser bedeutet, dass die jeweilige Zahl kleiner ist.
 	- 9f15) Teilnehmer mit dem gleichen Ergebnis erhalten die gleiche Position in der Wertung.
 - 9g) Eine zusammengefasste Runde ("Combined Round") sind zwei Phasen in einem Zeitfenster, wobei Ergebnisse der ersten Phase darüber entscheiden, ob ein Teilnehmer in die zweite Phase weiterkommt.
 	- 9g2) Ob ein Teilnehmer in die zweite Phase einer zusammengefassten Runde kommt, muss aufgrund der Position (besten x Teilnehmer) oder aufgrund der Ergebnisse (alle Teilnehmer mit einer Bestzeit unter x) entschieden werden.
 - 9i) Ergebnisse eines offiziellen WCA-Turniers müssen in der WCA-Weltrangliste erscheinen.
 	- 9i1) Die WCA erkennt folgende regionalen Rekorde an: nationale Rekorde, kontinentale Rekorde und Weltrekorde.
-	- 9i2) Alle Resultate einer Runde werden so behandelt, als fänden sie am letzten Kalendertag der Runde statt. Wenn ein regionaler Rekord mehrmals am gleichen Kalendertag gebrochen wird, zählt nur das beste Resultat als "Brechen" des alten Rekords.
+	- 9i2) Alle Resultate einer Runde werden so behandelt, als fänden sie am letzten Kalendertag der Runde statt. Wenn ein regionaler Rekord mehrmals am gleichen Kalendertag gebrochen wird zählt nur das beste Resultat als "Brechen" des alten Rekords.
 	- 9i3) Wenn die Regeln einer Kategorie geändert werden, gelten die alten regionalen Rekorde weiterhin solange bis sie, unter Berücksichtigung der neuen Regeln, gebrochen werden.
 - 9j) Jede Kategorie darf pro Turnier nur einmal stattfinden.
 - 9k) Wenn eine Kategorie stattfindet, so muss jeder Teilnehmer an dieser Kategorie teilnehmen dürfen, außer in Fällen, die speziell vom WCA-Board abgesegnet werden.
@@ -274,7 +274,7 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 	- 10f2) Megaminx: höchstens 36 Grad
 	- 10f3) Pyraminx und Skewb: höchstens 60 Grad
 	- 10f4) Square-1: höchstens 45 Grad (U/D) oder 90 Grad (/)
-- 10h) Alle anderen Puzzles gelten nach der allgemein akzeptierten Definition von "gelöst" als gelöst, wobei wenn möglich die Richtlinien für würfelförmige Puzzles gelten.
+- 10h) Alle nicht in diesem Artikel spezifizierten Puzzles werden entsprechend dem gelösten Zustands beurteilt, der durch das allgemein anerkannte Ziel des Puzzles definiert ist.
 - 10h1) Der gelöste Zustand der Clock ist erreicht, wenn alle achtzehn inneren Uhren auf 12 Uhr zeigen.
 
 ## <article-11><incidents><incidents> Abschnitt 11: Zwischenfälle
@@ -283,7 +283,7 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 	- 11a1) Falsche Durchführung einer Kategorie durch offizielle Organe oder Teilnehmer.
 	- 11a2) Störung oder Ablenkungen, z.B. durch die Umgebung (Stromausfälle, Feueralarm, ...).
 	- 11a3) Betriebsstörung des Equipments.
-- 11b) Im Falle eines Zwischenfalls entscheidet der WCA-Delegierte, wie es weitergeht.
+- 11b) Im Falle eines Zwischenfalls entscheidet der WCA-Delegierte über eine objektive und angemesse Vorgehensweise.
 - 11d) Wenn die WCA-Regeln keine klare Aussage über den Zwischenfall machen, so muss der WCA-Delegierte seine Entscheidung aufgrund von sportlicher Fairness treffen (siehe auch [Regel 11e3](regulations:regulation:11e3))..
 - 11e) Falls ein Zwischenfall während eines Versuchs passiert, darf der WCA-Delegierte einem Teilnehmer einen weiteren Versuch gestatten, der den unterbrochenen Versuch ersetzt. Der Teilnehmer muss mündlich oder schriftlich den Judge und WCA-Delegierten zum Zeitpunkt des Zwischenfalls herbeirufen, bevor der ursprüngliche Versuch abgeschlossen ist, um einen Extraversuch erhalten zu können. Ein solcher Aufruf garantiert dem Teilnehmer jedoch keinen Extraversuch.
 	- 11e1) Wenn einem Teilnehmer ein Extraversuch zugesprochen wird, so muss dieser mit einem anderen Scramble gescrambelt werden. Dieser Scramble muss unter Verwendung der aktuellen offiziellen Version des offiziellen WCA-Scramble-Programms erzeugt werden (siehe [Regel 4f](regulations:regulation:4f))
@@ -293,7 +293,7 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 
 ## <article-12><notation><notation> Abschnitt 12: Notation
 
-- 12a) Notation für alle NxNxN Puzzle:
+- 12a) Notation für alle NxNxN Puzzles:
 	- 12a1) Face Moves:
 		- 12a1a) Uhrzeigersinn, 90 Grad: F (front face), B (back face), R (right face), L (left face), U (upper face), D (bottom face).
 		- 12a1b) Gegen den Uhrzeigersinn, 90 Grad: F', B', R', L', U', D'.
@@ -305,7 +305,7 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 	- 12a3) Die Outer Block Turn Metric (OBTM) ist definiert als:
 		- 12a3a) Jeder Zug der Kategorien "Face Moves" und "Outer Block Moves" zählt als 1 Zug.
 		- 12a3b) Rotationen zählen als 0 Züge.
-- 12b) Rotationen für alle NxNxN Puzzle:
+- 12b) Rotationen für alle NxNxN Puzzles:
 	- 12b1) Uhrzeigersinn, 90 Grad: [f] oder z, [b] oder z', [r] oder x, [l] oder x', [u] oder y, [d] oder y'.
 	- 12b2) Gegen den Uhrzeigersinn, 90 Grad: [f'] oder z', [b'] oder z, [r'] oder x', [l'] oder x, [u'] oder y', [d'] oder y
 	- 12b3) Uhrzeigersinn, 180 Grad: [f2] oder z2, [b2] oder z2, [r2] oder x2, [l2] oder x2, [u2] oder y2, [d2] oder y2.
@@ -325,7 +325,7 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 	- 12e2) Uhrzeigersinn, 120 Grad: U (upper 2 layers), L (left 2 layers), R (right 2 layers), B (back 2 layers), u (upper vertex), l (left vertex), r (right vertex), b (back vertex).
 	- 12e3) Gegen den Uhrzeigersinn, 120 Grad: U' (upper 2 layers), L' (left 2 layers), R' (right 2 layers), B' (back 2 layers), u' (upper vertex), l' (left vertex), r' (right vertex), b' (back vertex).
 - 12g) Notation für Clock:
-	- 12g1) Das Puzzle wird so gehalten, dass die 12 oben und irgendeine Seite vorne liegt.
+	- 12g1) Das Puzzle wird so gehalten, dass 12 Uhr oben und eine der beiden Seite vorne ist.
 	- 12g2) Bewege die Pins nach oben: UR (oben rechts), DR (unten rechts), DL (unten links), UL (oben links), U (beide oben), R (beide rechts), D (beide unten), L (beide links), ALL (alle).
 	- 12g3) Drehe ein Rad neben einem Pin, der nach oben zeigt und bewege anschließend alle Pins nach unten: x+ (x Drehungen im Uhrzeigersinn), x- (x Drehungen gegen den Uhrzeigersinn).
 	- 12g4) Drehe das Puzzle so, dass die 12 oben bleibt und dann bewege alle Pins nach unten: y2.
@@ -341,16 +341,16 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 		- A1a1) Das Standard Zeitlimit pro Solve beträgt 10 Minuten, jedoch darf das Organisationsteam ein höheres oder niedrigeres Zeitlimit festlegen.
 		- A1a2) Kumulative Zeitlimits dürfen festgelegt werden (z.B. 3 Versuche mit einem kumulativem (gesammeltem) Zeitlimit von 20 Minuten). Zeiten, die in einem DNF Solve erzielt wurden, zählen zu dem kumulativen Zeitlimit.
 		- A1a3) Vor jeder Runde müssen die Zeitlimits bekannt gegeben worden sein und sollten sich während der Runde nicht verändern. Änderungen dürfen nur nach Ermessen des WCA-Delegierten vorgenommen werden, welcher sorgfältig beachten sollte, ob eine mögliche Änderung fair ist.
-		- A1a4) Der Teilnehmer muss jeden Solve innerhalb des Zeitlimits beenden. Falls ein Teilnehmer das Zeitlimit für einen Solve/eine Runde erreicht, stoppt der Judge den Versuch sofort und trägt als Resultat "DNF" ein. Ausnahme: Mehrfach Blindlösen (siehe Regel H1b1).
-		- A1a5)	Das Erfüllen des Zeitlimits gilt für einen Solve ausschließlich, wenn das Ergebnis nach Anwendung aller Strafen niedriger als das Zeitlimit ist. Ausnahme: Mehrfach Blindlösen (siehe Regel H1b1).
+		- A1a4) Der Teilnehmer muss jeden Solve innerhalb des Zeitlimits beenden. Falls ein Teilnehmer das Zeitlimit für einen Solve/eine Runde erreicht, stoppt der Judge den Versuch sofort und trägt als Resultat "DNF" ein. Ausnahme: Multiple Blindfolded (siehe Regel H1b1).
+		- A1a5)	Das Erfüllen des Zeitlimits gilt für einen Solve ausschließlich, wenn das Ergebnis nach Anwendung aller Strafen niedriger als das Zeitlimit ist. Ausnahme: Multiple Blindfolded (siehe Regel H1b1).
 	- A1b) Falls das Zeitlimit für einen Solve mehr als 10 Minuten beträgt, muss eine Stoppuhr für die Zeitmessung verwendet werden.
 		- A1b1) Für Kategorien mit Inspektionszeit muss zusätzlich zur Stoppuhr ein Stackmat Timer benutzt werden. Für Kategorien ohne Inspektionszeit, in denen der Teilnehmer voraussichtlich eine Zeit über 10 Minuten erzielt, ist die Nutzung des Stackmat Timers optional.
 		- A1b2) Falls eine Zeit mit einem Stackmat Timer gemessen wurde, gilt sie als ursprünglich gemessene Zeit. Anderenfalls ist die mit der Stoppuhr gemessene Zeit die ursprünglich gemessene Zeit.
 	- A1c) Ein Teilnehmer einer Kategorie muss in der Lage sein die Voraussetzungen der Kategorie zu erfüllen (z.B. wissen, wie man das Puzzle löst). Falls ein Teilnehmer mit der Erwartung eines DNF oder eines bewusst schlechten Resultats an einer Kategorie teilnimmt. Strafe: Disqualifikation des Versuchs (DNF) oder Disqualifikation der Kategorie (siehe [Regulation 2j](regulations:regulation:2j)), nach Ermessen des WCA-Delegierten.
 - A2) Scrambling
-	- A2a) Wenn der Teilnehmer für eine Runde aufgerufen wird, übergibt er ein Puzzle, in gelöstem Zustand, an den Scrambler. Der Teilnehmer wartet im Teilnehmerbereich darauf, aufgerufen zu werden.
+	- A2a) Wenn der Teilnehmer für eine Runde aufgerufen wird, übergibt er ein Puzzle, in gelöstem Zustand, an den Scrambler. Der Teilnehmer wartet im Teilnehmerbereich darauf aufgerufen zu werden.
 	- A2b) Ein Scrambler scrambelt das Puzzle entsprechend den Regeln in Abschnitt 4.
-	- A2b1) Für Square-1 darf das Organisationsteam die Nutzung dünner Gegenstände, die im Puzzle plaziert werden, vorschreiben, welche verhindern sollen, dass vor dem Beginn des Versuchs versehentliche Züge gemacht werden. Wenn diese Gegenstände genutzt werden, muss dies vor Beginn der Runde angekündigt werden.
+	- A2b1) Für Square-1 darf das Organisationsteam die Nutzung dünner Gegenstände, die im Puzzle platziert werden, vorschreiben, welche verhindern sollen, dass vor dem Beginn des Versuchs versehentliche Züge gemacht werden. Wenn diese Gegenstände genutzt werden, muss dies vor Beginn der Runde angekündigt werden.
 	- A2c) Der Teilnehmer darf das gescrambelte Puzzle in der Zeit zwischen Scrambeln und Start der Inspektionsphase nicht sehen.
 		- A2c1) Der Scrambler deckt das Puzzle ab, sodass es für Teilnehmer und Zuschauer unmöglich ist, einen Teil des Puzzles zu sehen. Die Abdeckung verdeckt das Puzzle bis zum Beginn des Versuchs.
 	- A2d) Nach dem Scrambeln kontrolliert der Judge kurz, dass das Puzzle sorgfältig gescrambelt wurde. der Judge richtet jegliche Bedenken an den Scrambler, der dann eine gründliche Überprüfung durchführt.
@@ -369,7 +369,7 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 		- A3c3) Der Teilnehmer darf den Timer vor dem Beginn des Versuchs zurücksetzen.
 		- A3c4) Bei Square-1, wenn ein dünnes Objekt im Inneren des Puzzles durch das Organisationsteam genutzt wird (siehe [Regel A2b1](regulations:regulation:A2b1)), muss der Teilnehmer dieses Objekt während der Inspektionsphase aus dem Puzzle entfernen.
 	- A3d) Am Ende der Inspektionszeit legt der Teilnehmer das Puzzle in beliebiger Orientierung auf die Matte.
-			- A3d1) Das Puzzle muss auf der Matte liegen, nicht auf dem Timerabschnitt der Stackmat. Strafe: Zeitstrafe (+2 Sekunden).
+			- A3d1) Das Puzzle darf nicht auf dem Timer liegen. Strafe: Zeitstrafe (+2 Sekunden).
 		- A3d2) Wenn die Inspektionszeit 8 Sekunden erreicht, sagt der Judge '8 SECONDS'.
 		- A3d3) Wenn die Inspektionszeit 12 Sekunden erreicht, sagt der Judge '12 SECONDS'.
 - A4) Beginnen zu Lösen
@@ -386,15 +386,15 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 - A6) Beenden des Solves:
 	- A6a) Der Teilnehmer beendet den Solve indem er das Puzzle loslässt und dann den Timer stoppt. Der Judge stoppt die Stoppuhr sobald der Teilnehmer dies tut.
 		- A6a1) Falls eine Stoppuhr als einziger Timer verwendet wird, beendet der Teilnehmer den Solve indem er das Puzzle loslässt und dem Judge signalisiert, dass er den Versuch beendet hat. Der Judge stoppt die Stoppuhr sobald der Teilnehmer dies tut.
-		- A6a2) Falls eine Stoppuhr als einziger Timer verwendet wird, besteht der standardmässige Hinweis des Teilnehmers aus dem Loslassen des Puzzles bzw. der Puzzle und der Platzierung der Hände mit abgesenkten Handflächen auf der Unterlage. Der Teilnehmer und der Judge dürfen vor dem Versuch einen anderen angemessenen Hinweis vereinbaren.
+		- A6a2) Falls eine Stoppuhr als einziger Timer verwendet wird, besteht der standardmäßige Hinweis des Teilnehmers aus dem Loslassen des Puzzles bzw. der Puzzles und der Platzierung der Hände mit abgesenkten Handflächen auf der Unterlage. Der Teilnehmer und der Judge dürfen vor dem Versuch einen anderen angemessenen Hinweis vereinbaren.
 	- A6b) Es unterliegt der Verantwortung des Teilnehmers, den Stackmat Timer korrekt zu stoppen.
 		- A6b1) Wenn der Timer früher als am Ende des Lösens stoppt und eine Zeit unter 0.06 angezeigt wird, so wird der Versuch durch einen Extraversuch ersetzt, außer der Teilnehmer hat das Stoppen des Timers mit Absicht erzwungen (Entscheidung liegt beim WCA-Delegierten).
 		- A6b2) Wenn der Timer früher als am Ende des Lösens stoppt und eine Zeit von 0.06 oder mehr angezeigt wird, so wird der Versuch disqualifiziert (DNF), außer der Teilnehmer kann beweisen, dass es sich um eine Fehlfunktion des Timers gehandelt hat. Dann kann er einen Extraversuch erhalten, nach Ermessen des WCA-Delegierten.
 	- A6c) Der Teilnehmer muss das Puzzle komplett losgelassen haben bevor der Solve beendet wird. Strafe: Zeitstrafe (+2 Sekunden).
 	- A6d) Der Timer muss mit beiden Händen gestoppt werden, wobei die Hände flach aufliegen müssen und nicht lediglich die Handballen zum Stoppen benutzt werden dürfen. Strafe: Zeitstrafe (+2 Sekunden).
 	- A6e) Der Teilnehmer darf das Puzzle weder bewegen, noch anfassen bevor der Judge es untersucht hat. Strafe: Disqualifikation des Versuchs (DNF). Ausnahme: Falls keine Züge ausgeführt worden sind, darf nach Ermessen des Judges eine Zeitstrafe (+2 Sekunden) verhängt werden.
-	- A6f) Der Teilnehmer darf den Timerbis zum Ende des Versuchs nicht zurücksetzen (siehe [Regel A7c](regulations:regulation:A7c)). Strafe: Disqualifikation des Versuchs (DNF).
-	- A6g) Der Judge stellt fest, ob das Puzzle gelöst wurde. Er darf weder Züge noch Änderungen an der Ausrichtung einzelner Seitenflächen vornehmen, wenn er das Puzzle überprüft. Ausnahme: Bei Clock muss der Judge im Regelfall des Puzzle hochheben, um beide Seiten zu überprüfen.
+	- A6f) Der Teilnehmer darf den Timer bis zum Ende des Versuchs nicht zurücksetzen (siehe [Regel A7c](regulations:regulation:A7c)). Strafe: Disqualifikation des Versuchs (DNF).
+	- A6g) Der Judge stellt fest, ob das Puzzle gelöst wurde. Er darf weder Züge noch Änderungen an der Ausrichtung einzelner Seitenflächen vornehmen, wenn er das Puzzle überprüft. Ausnahme: Bei Clock muss der Judge im Regelfall das Puzzle hochheben, um beide Seiten zu überprüfen.
 	- A6h) Bei Uneinigkeiten dürfen keinerlei Züge oder Ausrichtungsänderungen am Puzzle vorgenommen werden solange die Details nicht geklärt wurden.
 	- A6i) Strafen nach dem Lösen werden aufaddiert.
 - A7) Aufzeichnung des Resultats
@@ -475,7 +475,7 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 	- E3a) Stift und Papier (beide vom Judge bereitgestellt)
 	- E3b) Rubik's Cubes (maximal 3, selbst bereitgestellt), wie in [Artikel 3](regulations:article:3). erklärt.
 	- E3c) farbige Aufkleber (selbst bereitgestellt).
-	- E3d) Stopuhr oder Uhr, um die vergangene Zeit zu verfolgen, wenn dies durch den WCA-Delegierten genehmigt ist.
+	- E3d) Stoppuhr oder Uhr, um die vergangene Zeit zu verfolgen, wenn dies durch den WCA-Delegierten genehmigt ist.
 
 ## <article-F><clock><clocksolving> Abschnitt F: Clock
 
@@ -483,15 +483,15 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 - F2) Der Judge positioniert das Puzzle auf der Stackmat in einer aufrechten Position.
 - F3) Nach der Inspektion legt der Teilnehmer das Puzzle auf die Stackmat in einer aufrechten Position. Der Teilnehmer darf die Ausrichtung der Pins vor Beginn der Lösungsphase nicht verändern. Strafe: Disqualifikation des Versuchs (DNF).
 
-## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Abschnitt H: Mehrfach Blindlösen
+## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Abschnitt H: Multiple Blindfolded
 
 - H1) Die Standardprozedur wird wie in [Abschnitt B](regulations:article:B) (Blindlösen) beschrieben befolgt. Zusätzliche Regeln für das Lösen mehrerer Würfel blind werden im Folgenden beschrieben.
-	- H1a) Vor dem Starten seines Versuchs muss der Teilnehmer dem Organisationsteam die Anzahl der Puzzle mitteilen, die er beabsichtigt zu lösen (mindestens 2).
+	- H1a) Vor dem Starten seines Versuchs muss der Teilnehmer dem Organisationsteam die Anzahl der Puzzles mitteilen, die er beabsichtigt zu lösen (mindestens 2).
 		- H1a1) Ein Teilnehmer darf die Anzahl der Puzzles nach der Mitteilung an das Organisationsteam nicht ändern.
 		- H1a2) Ein Teilnehmer darf verlangen, seine Mitteilung nicht an andere Teilnehmer weiterzugeben, bis diese selbst ihre Anzahl mitgeteilt haben. Sobald alle Teilnehmer ihre Anzahl mitgeteilt haben, wird diese Information öffentlich (d.h. ein Teilnehmer darf die von den anderen Teilnehmer mitgeteilte Anzahl vor dem Starten seines Versuchs erfragen).
-	- H1b) Versucht ein Teilnehmer weniger als 6 Puzzle, so steht ihm eine Zeitgrenze von 10 Minuten mal der Anzahl an versuchten Puzzlen zur Verfügung, sonst 60 Minuten.
+	- H1b) Versucht ein Teilnehmer weniger als 6 Puzzles, so steht ihm eine Zeitgrenze von 10 Minuten mal der Anzahl an versuchten Puzzles zur Verfügung, sonst 60 Minuten.
 		- H1b1) Der Teilnehmer kann das Ende des Versuchs jederzeit signalisieren. Falls die Zeit überschritten wird, so wird der sofort Versuch gestoppt und ausgewertet. Die Zeitgrenze wird dabei als gemessene Zeit verwendet.
-	- H1d) Zeitstrafen für die Puzzle werden aufaddiert.
+	- H1d) Zeitstrafen für die Puzzles werden aufaddiert.
 
 ## <article-Z><optional><optional> Abschnitt Z: Optionale Regeln
 
