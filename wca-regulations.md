@@ -139,26 +139,26 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 	- 3j3) Geriffelte/Texturierte Teile, deren Orientierung man durch Fühlen unterscheiden kann, sind für Blindfold-Kategorien nicht erlaubt.
 - 3k) Puzzles müssen vor der Verwendung im Wettkampf vom WCA-Delegierten genehmigt werden.
 - 3l) Puzzles dürfen höchstens ein farbiges Teil mit einem Logo haben.
-	- 3l1) Das Logo muss auf einem Mittelstein platziert sein. Ausnahmen für Puzzle ohne Mittelsteine:
+	- 3l1) Das Logo muss auf einem Mittelstein platziert sein. Ausnahmen für Puzzles ohne Mittelsteine:
 		- 3l1a) Für Pyraminx und 2x2x2 kann ein Logo auf einem beliebigen Stein platziert werden.
 		- 3l1b) Für Square-1 muss das Logo auf einem Stein der äquatorialen Ebene platziert werden.
 	- 3l2) Das Logo darf eingestanzt und eingraviert sein oder auch aus einem transparenten Aufkleber bestehen, der über einem normalen Sticker platziert ist. Ausnahme: Das Logo in Blindfold-Kategorien darf nicht durch Fühlen unterscheidbar sein (z.B. keine Prägungen, keine Eingravierungen oder Overlay Sticker).
-- 3m) Alle Puzzle- und Puzzleteile-Marken sind erlaubt, solange die Puzzles den anderen WCA-Regeln entsprechen.
+- 3m) Alle Puzzle- und Puzzleteile-Marken sind erlaubt, solange die Puzzles allen WCA-Regeln entsprechen.
 
 ## <article-4><scrambling><scrambling> Abschnitt 4: Scramblen
 
 - 4a) Scrambler müssen die Puzzles scramblen, d.h. mischen.
 - 4b) Puzzles müssen nach zufälligen, computergenerierten Zugfolgen ("Scrambles") gescrambelt werden.
-	- 4b1) Scrambles dürfen vor dem Turnier nicht betrachtet werden und dürfen in keinem Fall vom WCA-Delegierten gefiltert werden.
+	- 4b1) Generierte Scrambles dürfen vor dem Turnier nicht betrachtet werden und dürfen in keinem Fall vom WCA-Delegierten gefiltert werden.
 	- 4b2) Scrambles für eine Runde dürfen bis zum Ende der Runde nur dem WCA-Delegierten und den Scramblern zur Verfügung stehen. Ausnahme: Bei Fewest Moves erhalten die Teilnehmer die Scrambles bereits während der Runde (siehe Abschnitt E).
 	- 4b3) Spezifikationen für das Scrambling Programm: offizielle Scrambles müssen einen zufälligen Zustand herbeiführen, dessen Lösung mindestens 2 Züge benötigt (gleiche Wahrscheinlichkeit für jeden Zustand). Folgende Ausnahmen/Zusätze gelten:
-		- 4b3a) Für Blindfold-Kategorien muss der Scrambles das Puzzle zufällig orientieren (gleiche Wahrscheinlichkeit für jede Orientierung).
+		- 4b3a) Für Blindlös-Kategorien muss der Scramble das Puzzle zufällig orientieren (gleiche Wahrscheinlichkeit für jede Orientierung).
 		- 4b3b) 2x2x2: Die Lösung des (zufälligen) Zustandes muss mindestens 4 Züge benötigen. 
 		- 4b3c) Skewb: Die Lösung des (zufälligen) Zustandes muss mindestens 7 Züge benötigen. 
 		- 4b3d) Square-1: Die Lösung des (zufälligen) Zustandes muss mindestens 11 Züge benötigen. 
-		- 4b3e) 5x5x5, 6x6x6, 7x7x7, Megaminx: hinreichend viele zufällige Züge (statt zufälligem Zustand).
-- 4d) Ausrichtung beim Scramblen:
+		- 4b3e) 5x5x5, 6x6x6, 7x7x7, Megaminx: hinreichend viele zufällige Züge (statt zufälligem Zustand), mindestens 2 Züge zur Lösung benötigt.
 		- 4b3f) Pyraminx: Die Lösung des (zufälligen) Zustandes muss mindestens 6 Züge benötigen.
+- 4d) Ausrichtung beim Scramblen:
 	- 4d1) NxNxN Puzzles und Megaminx werden mit der weißen Seite (wenn nicht möglich, dann mit der hellsten Seite) oben und der grünen Seite (wenn nicht möglich, dann mit der dunkelsten benachbarten) vorne gescrambelt.
 	- 4d2) Pyraminx wird mit der gelben Seite (wenn nicht möglich, dann mit der hellsten Seite) unten und der grünen Seite (wenn nicht möglich, dann mit der dunkelsten benachbarten) vorne gescrambelt.
 	- 4d3) Square-1 wird mit der dunkelsten Seite vorne gescrambelt (ausgehend von den beiden möglichen Ausrichtungen beim Scramblen).
@@ -170,16 +170,16 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 
 ## <article-5><puzzle-defects><puzzledefects> Abschnitt 5: Puzzledefekte
 
-- 5a) Beispiele für Puzzledefekte sind etwa: herausgefallene Teile, Teile die man an Ort und Stelle herumgedreht hat (z.B. Ecksteine), gelöste Schrauben, Kappen oder Aufkleber.
+- 5a) Beispiele für Puzzledefekte sind etwa: herausgefallene Teile, Teile an ihrer Stelle gedreht ("getwisted") sind, gelöste Schrauben, Kappen oder Aufkleber.
 - 5b) Wenn ein Puzzledefekt während eines Versuchs auftritt, ist es dem Teilnehmer überlassen, ob er den Defekt repariert und fortführt oder ob er den Versuch abbricht.
-	- 5b1) Wenn der Teilnehmer sich entscheidet das Puzzle zu reparieren, so darf er nur die defekten Teile selbst reparieren und darf keine weiteren Werkzeuge oder Teile von anderen Puzzeln benutzen. Strafe: Disqualifikation des Versuchs.
-	- 5b2) Die Reparatur darf dem Teilnehmer keinen Vorteil beim Lösen des Puzzles verschaffen. Strafe: Disqualifikation des Versuchs.
+	- 5b1) Wenn der Teilnehmer sich entscheidet das Puzzle zu reparieren, so darf er nur die defekten Teile  reparieren und darf keine weiteren Werkzeuge oder Teile von anderen Puzzles benutzen. Strafe: Disqualifikation des Versuchs (DNF).
+	- 5b2) Die Reparatur darf dem Teilnehmer keinen Vorteil beim Lösen des Puzzles verschaffen. Strafe: Disqualifikation des Versuchs (DNF).
 	- 5b3) Erlaubte Reparaturen:
 		- 5b3a) Falls Steine herausgefallen sind oder sich von ihrer eigentlich Position entfernt (z.B. unnatürlich verkantet) haben, so darf der Teilnehmer sie zurück an ihre Position bringen.
-		- 5b3b) Bemerkt der Teilnehmer nach einer Reparatur, aber noch vor Ende eines Versuchs, dass das Puzzle unlösbar ist, so kann er bis zu 4 Teile herausnehmen und wieder einbauen um das Puzzle wieder lösbar zu machen.
-		- 5b3c) Ist das Puzzle unlösbar, kann jedoch durch die Drehung eines Ecksteins lösbar gemacht werden, so darf der Teilnehmer einen Eckstein an Ort und Stelle drehen ohne Teile aus dem Puzzle herauszunehmen.
-	- 5b4) Beim Blindlösen (siehe [Regel B4](regulations:regulation:b4)) darf ein Puzzledefekt nur blind repariert werden. Strafe: Disqualifikation des Versuchs.
-	- 5b5) Falls nach dem Versuch Teile des Puzzles immer noch defekt oder nicht richtig positioniert sind, so gelten folgende Regeln:
+		- 5b3b) Bemerkt der Teilnehmer nach einer Reparatur, aber noch vor Ende eines Versuchs, dass das Puzzle unlösbar ist, so kann er bis zu 4 Teile herausnehmen und wieder einbauen, um das Puzzle wieder lösbar zu machen.
+		- 5b3c) Ist das Puzzle unlösbar, kann jedoch durch die Drehung eines Ecksteins lösbar gemacht werden, so darf der Teilnehmer einen Eckstein an seiner Stelle drehen ohne Teile aus dem Puzzle herauszunehmen.
+	- 5b4) Beim Blindlösen (siehe [Regel B4](regulations:regulation:b4)) darf ein Puzzledefekt nur blind repariert werden. Strafe: Disqualifikation des Versuchs (DNF).
+	- 5b5) Falls nach dem Versuch Teile des Puzzles fehlen oder nicht richtig positioniert sind, so gelten folgende Regeln:
 		- 5b5a) Sind ein oder mehrere Teile ohne farbige Flächen betroffen, so gilt das Puzzle als gelöst.
 		- 5b5b) Ist ein Teil mit genau einer farbigen Fläche betroffen, so gilt das Puzzle als gelöst.
 		- 5b5c) Sind mehrere Teile mit genau einer farbigen Fläche betroffen, so gilt das Puzzle als nicht gelöst (DNF).
@@ -188,16 +188,16 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 
 ## <article-7><environment><environment> Abschnitt 7: Umgebung
 
-- 7b) Zuschauer sollten mindestens 1.50 Meter von den Teilnehmern entfernt sein.
-- 7c) Auf die Beleuchtung des Veranstaltungsortes sollte besonders geachtet werden, vorzuziehen ist weißes Licht, damit die Teilnehmer möglichst einfach die Farben des Puzzles unterscheiden können.
+- 7b) Zuschauer sollten mindestens 1.50 Meter von den Timerstationen entfernt sein, wenn diese in Benutzung sind.
+- 7c) Auf die Beleuchtung des Veranstaltungsortes sollte besonders geachtet werden. Vorzuziehen ist weißes Licht, damit die Teilnehmer möglichst einfach die Farben des Puzzles unterscheiden können.
 - 7e) Der Veranstaltungsort muss rauchfrei sein.
-- 7f) Lösungsstation:
+- 7f) Timerstation:
 	- 7f1) Definitionen:
 		- 7f1a) Stackmat: Der Speed Stacks Stackmat Timer und eine kompatible Matte normaler Größe.
 		- 7f1b) Matte: Die Matte einer Stackmat.
 		- 7f1c) Timer: Der Timer einer Stackmat oder eine Stoppuhr (bei längeren Versuchen).
 		- 7f1d) Oberfläche: Die flache Oberfläche, auf der die Stackmat platziert wurde. Die Matte wird als Teil der Oberfläche angesehen, der Timer jedoch nicht.
-	- 7f2) Der Timer muss an der Matte angebracht sein und auf der Oberfläche platziert sein, so ausgerichtet, dass die Seite mit dem Timer dem Teilnehmer am nähsten ist.
+	- 7f2) Der Timer muss an der Matte angebracht sein und auf der Oberfläche platziert sein, so dass die Seite mit dem Timer dem Teilnehmer am nähsten ist.
 		- 7f2a) Ausnahme: Für das Lösen mit den Füßen wird die Stackmat direkt auf dem Boden platziert. Der Timer darf dann außerdem so ausgerichtet werden, dass die Seite mit dem Timer am weitesten vom Teilnehmer entfernt ist.
 - 7h) Der Veranstaltungsort muss einen Wartebereich für die Teilnehmer haben.
 	- 7h1) Das Organisationsteam kann von Teilnehmern, die aufgerufen wurden um teilzunehmen, verlangen, dass sie sich im Teilnehmerbereich aufhalten, solange bis sie alle Versuche ihrer Runde hinter sich gebracht haben.
@@ -207,7 +207,7 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 - 8a) Folgende Richtlinien müssen eingehalten werden damit ein Turnier ein offizielles WCA-Turnier ist:
 	- 8a1) Das WCA-Board muss das Turnier anerkennen.
 	- 8a2) Die WCA-Regeln müssen eingehalten werden.
-	- 8a3) Es muss ein WCA-Vertreter anwesend sein.
+	- 8a3) Es muss ein WCA-Delegierter anwesend sein.
 	- 8a4) Das Turnier muss mindestens zwei Wochen vor Turnierbeginn angekündigt werden.
 	- 8a6) Das Turnier muss für die Öffentlichkeit zugänglich sein.
 	- 8a7) Der originale Stackmat Timer der Firma Speedstacks (Generation 2 oder Pro) muss zur Zeitmessung benutzt werden.
@@ -224,14 +224,14 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 		- 9b1a) Die Turnierformate für diese Kategorien sind: "Best of X" (wobei X gleich 1, 2 oder 3 sein kann) und "Average of 5".
 	- 9b2) Rubik's Cube: With Feet, Rubik's Cube: Fewest Moves (FMC), 6x6x6 Cube und 7x7x7 Cube.
 		- 9b2a) Die Turnierformate für diese Kategorien sind: "Best of X" (wobei X gleich 1 oder 2 sein kann) und "Mean of 3".
-	- 9b3) Rubik's Cube: Blind (mit verbundenen Augen), 4x4x4 Cube: Blindfolded, 5x5x5 Cube: Blindfolded und Rubik's Cube: Multiple Blindfolded.
+	- 9b3) Rubik's Cube: Blindfolded (mit verbundenen Augen), 4x4x4 Cube: Blindfolded, 5x5x5 Cube: Blindfolded und Rubik's Cube: Multiple Blindfolded.
 		- 9b3a) Die Turnierformate für diese Kategorien sind: "Best of X" (wobei X gleich 1, 2 oder 3 sein kann).
 		- 9b3b) Für Rubik's Cube: Blind erkennt die WCA außerdem "Mean of 3" Ranglisten und Rekorde an, basierend auf den Zeiten von "Best of 3" Runden.
 - 9f) Die Ergebnisse einer Runde werden wie folgt gemessen:
 	- 9f1) Alle gestoppten Zeiten unter 10 Minuten werden in Hundertstelsekunden gemessen und auf die nächste Hundertstelsekunde **ab**gerundet. Der Durchschnitt bzw. das Mittel werden auf die nächste Hundertstelsekunde gerundet.
 	- 9f2) Alle gestoppten Zeiten über 10 Minuten, und zugehörige Durchschnittszeiten/Mittel werden in Sekunden gemessen, wobei der Durchschnitt bzw. das Mittel auf die nächste Sekunde gerundet wird (x.4 wird x, x.5 wird x+1).
-	- 9f4) DNF (Did Not Finish) ist das Ergebnis eines Versuchs, der disqualifiziert oder abgebrochen wurde oder wenn das Puzzle nicht gelöst wurde.
-	- 9f5) DNS (Did Not Start) ist das Ergebnis, wenn der Teilnehmer zu einem Versuch berechtigt ist, an dem Versuch aber nicht teilgenommen hat.
+	- 9f4) DNF (Did Not Finish) ist das Ergebnis eines Versuchs, wenn dieser disqualifiziert oder das Puzzle nicht gelöst wurde.
+	- 9f5) DNS (Did Not Start) ist das Ergebnis eines Versuchs, wenn der Teilnehmer zu einem Versuch berechtigt ist, an dem Versuch aber nicht teilgenommen hat.
 	- 9f6) Im Format 'Best of X' bekommt jeder Teilnehmer X Versuche, wobei der beste Versuch zählt.
 	- 9f7) Im Format 'Best of X' zählt ein DNF oder DNS als der schlechteste Versuch.
 	- 9f8) Im Format 'Average of 5' bekommt jeder Teilnehmer 5 Versuche. Von diesen 5 Versuchen werden die Ergebnisse des besten und schlechtesten Versuchs ignoriert. Das Endergebnis ist der arithmetische Mittelwert der drei verbleibenden Zeiten.
@@ -251,8 +251,8 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 	- 9i1) Die WCA erkennt folgende regionalen Rekorde an: nationale Rekorde, kontinentale Rekorde und Weltrekorde.
 	- 9i2) Alle Resultate einer Runde werden so behandelt, als fänden sie am letzten Kalendertag der Runde statt. Wenn ein regionaler Rekord mehrmals am gleichen Kalendertag gebrochen wird zählt nur das beste Resultat als "Brechen" des alten Rekords.
 	- 9i3) Wenn die Regeln einer Kategorie geändert werden, gelten die alten regionalen Rekorde weiterhin solange bis sie, unter Berücksichtigung der neuen Regeln, gebrochen werden.
-- 9j) Jede Kategorie darf pro Turnier nur einmal stattfinden.
-- 9k) Wenn eine Kategorie stattfindet, so muss jeder Teilnehmer an dieser Kategorie teilnehmen dürfen, außer in Fällen, die speziell vom WCA-Board abgesegnet werden.
+- 9j) Jede Kategorie darf pro Turnier höchstens einmal stattfinden.
+- 9k) Wenn eine Kategorie stattfindet, so muss jeder Teilnehmer an dieser Kategorie teilnehmen dürfen, außer in Fällen, die speziell vom WCA-Board genehmigt werden.
 - 9l) Jede Runde muss abgeschlossen sein, bevor eine folgende Runde in der gleichen Kategorie startet.
 - 9m) Kategorien dürfen maximal vier Runden haben.
 	- 9m1) Kategorien mit 99 oder weniger Teilnehmern dürfen höchstens drei Runden haben.
@@ -274,13 +274,13 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 	- 10e1) Jeweils zwei benachbarte Teile (z.B. zwei benachbarte Ebenen eines Cubes), die über die in Abschnitt 10f beschriebenen Grenzen hinweg falsch ausgerichtet sind, werden als einen Zug voneinander entfernt angesehen (siehe "Outer Block Turn Metric" in Artikel 12).
 	- 10e2) Wenn kein Zug nötig ist, um das Puzzle in den gelösten Zustand zu bringen, so wird es als gelöst ohne Strafzeit angesehen.
 	- 10e3) Wenn ein Zug nötig ist, um das Puzzle zu lösen, so wird das Puzzle als "+2", d.h. gelöst mit 2 Strafsekunden angesehen.
-	- 10e4) Wenn mehr als ein Zug nötig ist, um das Puzzle zu lösen, wird der Versuch als "DNF" (Did Not Finish) bewertet.
+	- 10e4) Wenn mehr als ein Zug nötig ist, so wird das Puzzle als nicht gelöst (DNF) angesehen.
 - 10f) Grenzen falsch ausgerichteter Puzzles:
 	- 10f1) NxNxN Puzzle: höchstens 45 Grad
 	- 10f2) Megaminx: höchstens 36 Grad
 	- 10f3) Pyraminx und Skewb: höchstens 60 Grad
 	- 10f4) Square-1: höchstens 45 Grad (U/D) oder 90 Grad (/)
-- 10h) Alle nicht in diesem Artikel spezifizierten Puzzles werden entsprechend dem gelösten Zustands beurteilt, der durch das allgemein anerkannte Ziel des Puzzles definiert ist.
+- 10h) Alle nicht in diesem Artikel spezifizierten Puzzles werden entsprechend des gelösten Zustands beurteilt, der durch das allgemein anerkannte Ziel des Puzzles definiert ist.
 - 10h1) Der gelöste Zustand der Clock ist erreicht, wenn alle achtzehn inneren Uhren auf 12 Uhr zeigen.
 
 ## <article-11><incidents><incidents> Abschnitt 11: Zwischenfälle
