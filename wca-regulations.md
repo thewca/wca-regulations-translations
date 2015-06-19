@@ -120,25 +120,25 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 
 ## <article-3><puzzles><puzzles> Abschnitt 3: Puzzles
 
-- 3a) Teilnehmer müssen ihre eigenen Puzzles mitbringen und benutzen.
+- 3a) Teilnehmer müssen ihre eigenen Puzzles zum Turnier mitbringen.
 	- 3a1) Teilnehmer müssen anwesend und bereit zur Teilnahme sein, wenn sie aufgerufen werden (siehe [Regel 2u](regulations:regulation:2u)).
 	- 3a2) Puzzles müssen voll funktionsfähig sein, so dass sie ordnungsgemäß gescrambelt werden können.
 	- 3a3) Polyedrische Puzzles müssen ein Farbschema besitzen, so dass im gelösten Zustand jede Seite eine eindeutige Farbe besitzt. Die Funktionalität jedes Puzzles muss identisch sein zum Originalpuzzle im Bezug auf Züge, Zustände und Lösungsmöglichkeiten.
-- 3d) Puzzles müssen welche der folgenden farbigen Teile haben: farbige Sticker, farbige Plättchen (Tiles), farbiges Plastik, oder aufgemalte Farben. Sämtliche farbigen Teile eines Puzzles müssen dabei gleicher Art sein.
-	- 3d1) Ausnahme: Teilnehmer mit medizinisch dokumentierter Sehunfähigkeit dürfen Puzzle mit verschiedenen Oberflächentexturen auf den verschiedenen Seiten benutzen. Die Texturen/Muster müssen pro Seite einheitlich sein. Dennoch sollte jede Seite eine bestimmte Farbe aufweisen, um das Scramblen und Judgen zu ermöglichen.
-	- 3d2) Die Farben eines Puzzles müssen pro Seite einheitlich und eindeutig voneinander unterscheidbar sein.
-	- 3d3) Wenn die farbigen Flächen des Puzzles Sticker oder Plättchen (Tiles) sind, dürfen nicht dicker sein als 1,5 mm. Ausnahme: Megaminx Plättchen (Tiles) dürfen etwas dicker sein als 1,5 mm, nach Ermessen des WCA-Delegierten.
+- 3d) Puzzles müssen farbige Teile haben, die einer der folgenden Arten entsprechen: farbige Sticker, farbige Plättchen (Tiles), farbiges Plastik, oder aufgemalte/aufgedruckte Farben. Sämtliche farbige Teile eines Puzzles müssen dabei gleicher Art sein.
+	- 3d1) Ausnahme: Teilnehmer mit medizinisch dokumentierter Sehunfähigkeit dürfen Puzzle mit verschiedenen Oberflächentexturen auf den verschiedenen Seiten benutzen. Die Texturen/Muster müssen pro Seite einheitlich sein. Jede Seite sollte eine eindeutige Farbe aufweisen, um das Scramblen und Judgen zu unterstützen.
+	- 3d2) Die Farben eines Puzzles müssen pro Seite einheitlich sein. Jede Farbe des Puzzles muss eindeutig von den anderen unterscheidbar sein.
+	- 3d3) Wenn die farbigen Teile des Puzzles Sticker oder Plättchen (Tiles) sind, dürfen diese nicht dicker  als 1,5 mm sein. Ausnahme: Megaminx Plättchen (Tiles) dürfen etwas dicker als 1,5 mm sein, nach Ermessen des WCA-Delegierten.
 - 3h) Es dürfen keine Modifikationen gemacht werden, die das grundlegende Konzept eines Puzzles verbessern. Modifizierte Puzzles sind nur erlaubt, wenn die Modifikation dem Teilnehmer im Vergleich zur nicht modifizierten Version des Puzzles keine zusätzlichen Informationen liefert (z.B. Orientierung oder Identität von Steinen).
-	- 3h1) Gewölbte ("pillowed") Puzzle sind nicht erlaubt. Ausnahme: Gewölbte 7x7x7 sind erlaubt.
+	- 3h1) Gewölbte ("pillowed") Puzzles sind nicht erlaubt. Ausnahme: Gewölbte 7x7x7 sind erlaubt.
 	- 3h2) Puzzles, bei denen die Farben der Flächen auch im Inneren sichtbar sind (z.B. "stickerless" Puzzle) sind erlaubt. Dies schließt nicht die folgenden Puzzle ein:
 		- 3h2a) Puzzles mit transparenten Teilen sind nicht erlaubt. Ausnahme: ein abdeckender Sticker (siehe [Regel 3l](regulations:regulation:3l)).
-	- 3h3) Puzzlemodifikationen, die zu einer schlechteren Leistung führen, geben dem Teilnehmer kein Recht auf einen weiteren Versuch.
-- 3j) Puzzles müssen sauber sein und dürfen keine Markierungen, hervorgehobenen Teile, Schäden oder andere Unterschiede in Teilen aufweisen, die sie signifikant von anderen gleichartigen Teilen unterscheiden. Ausnahme: ein Logo (siehe [Regel 3l](regulations:regulation:3l))
+	- 3h3) Puzzlemodifikationen, die zu einer schlechteren Leistung führen, geben dem Teilnehmer kein Recht auf weitere Versuche.
+- 3j) Puzzles müssen sauber sein und dürfen keine Markierungen, hervorgehobenen Teile, Schäden oder andere Unterschiede an Teilen aufweisen, die sie signifikant von anderen gleichartigen Teilen unterscheiden. Ausnahme: ein Logo (siehe [Regel 3l](regulations:regulation:3l))
 	- 3j1) Puzzles müssen einen hinreichend guten Zustand besitzen, nach Ermessen des WCA-Delegierten.
 	- 3j2) Definition: Zwei Teile sind gleichartig, wenn sie identisch in Form und Größe sind oder gespiegelt in Form und gleich in Größe sind.
 	- 3j3) Geriffelte/Texturierte Teile, deren Orientierung man durch Fühlen unterscheiden kann, sind für Blindfold-Kategorien nicht erlaubt.
 - 3k) Puzzles müssen vor der Verwendung im Wettkampf vom WCA-Delegierten genehmigt werden.
-- 3l) Puzzles dürfen höchstens ein farbiges Teil mit einem Logo haben. 
+- 3l) Puzzles dürfen höchstens ein farbiges Teil mit einem Logo haben.
 	- 3l1) Das Logo muss auf einem Mittelstein platziert sein. Ausnahmen für Puzzle ohne Mittelsteine:
 		- 3l1a) Für Pyraminx und 2x2x2 kann ein Logo auf einem beliebigen Stein platziert werden.
 		- 3l1b) Für Square-1 muss das Logo auf einem Stein der äquatorialen Ebene platziert werden.
