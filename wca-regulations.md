@@ -8,7 +8,13 @@
 
 Hierbei handelt es sich **nicht** um die offiziellen Regeln der World Cube Association sondern lediglich um eine freie Übersetzung. Im Zweifelsfall gelten die Originalregeln. Übersetzungsfehler sind möglich! Fragen und Anmerkungen zur Übersetzung bitte per E-Mail an [ cube@hackvalue](mailto:cube@hackvalue.de).
 
-Einige Begriffe wurden absichtlich nicht übersetzt, da im Deutschen keine entsprechenden Bezeichnungen existieren oder da selbst auf deutschen Turnieren die englischsprachige Bezeichnung benutzt wird. Dazu zählen unter anderem: Judge (eine Person, die während eines Versuchs als Schiedsrichter agiert), Scrambler (eine Person, die ein Puzzle mischt), Scramble (eine Zugfolge, nach der ein Puzzle gemischt wird), Scoresheets (Zettel, auf dem Ergebnisse notiert werden), Scoretaker (eine Person, die Ergebnisse notiert bzw. auswertet), etc.
+Einige Begriffe wurden bewusst nicht übersetzt da im Deutschen keine entsprechenden Bezeichnungen existieren und da auf deutschsprachigen Turnieren auch zumeist die englischsprachige Bezeichnung benutzt wird.
+Dazu zählen unter anderem:
+- Judge: eine Person, die während eines Versuchs als Schiedsrichter agiert
+- Scrambler: eine Person, die ein Puzzle mischt
+- Scramble: eine Zugfolge, nach der ein Puzzle gemischt wird
+- Scoresheets: Zettel, auf dem Ergebnisse notiert werden
+- Scoretaker: eine Person, die Ergebnisse überträgt bzw. auswertet
 
 
 Folgende Personen haben bei der Übersetzung und Korrektur geholfen: [Sébastien Auroux](http://www.worldcubeassociation.org/results/p.php?i=2008AURO01), [Laura Ohrndorf](http://www.worldcubeassociation.org/results/p.php?i=2009OHRN01).
