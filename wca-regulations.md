@@ -99,7 +99,7 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 - 2j) Der WCA-Delegierte darf einen Teilnehmer von einer bestimmten Kategorie ausschließen.
 	- 2j1) Wenn ein Teilnehmer von einer Kategorie ausgeschlossen wird, aus welchem Grund auch immer, hat er keinen Anspruch auf weitere Versuche in dieser Kategorie.
 	- 2j2) Wenn ein Teilnehmer während der Durchführung einer Kategorie ausgeschlossen wird, bleiben seine Resultate bis zu diesem Zeitpunkt gültig. Ausnahme: Schummeln oder Betrug (siehe Regel 2k2a).
-- 2k) Der WCA-Delegierte darf einen Teilnehmer von dem Turnier disqualifizieren, falls einer der folgenden Gründe vorliegt:
+- 2k) Der WCA-Delegierte darf einen Teilnehmer von Kategorien (einer einzelnen Kategorie, mehreren Kategorien oder allen Kategorien) disqualifizieren, falls einer der folgenden Gründe vorliegt:
 	- 2k1) der Teilnehmer ist nicht rechtzeitig zur Registrierung vor Ort.
 	- 2k2) der Teilnehmer wird des Schummelns oder des Betrugs während des Turniers verdächtigt.
 		- 2k2a) Der WCA-Delegierte darf sämtliche verdächtigen Resultate disqualifizieren.
@@ -115,13 +115,13 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 - 2s) Teilnehmer mit Behinderungen, die sie vom Einhalten einer oder mehrerer WCA-Regeln abhalten könnten, können eine spezielle Behandlung beim WCA-Delegierten anfragen. Diese Teilnehmer sollten das Organisationsteam und den WCA-Delegierten mindestens zwei Wochen vor dem Turnier kontaktieren.
 - 2t) Jeder Teilnehmer muss vor Beginn eines Turniers mit den WCA-Regeln vertraut sein und diese verstehen.
 - 2u) Teilnehmer müssen anwesend und bereit zur Teilnahme sein, wenn sie zu einem Versuch aufgerufen werden. Strafe: Disqualifikation der Kategorie.  
-	- 2u1) Ausnahme: Ein Teilnehmer, der nicht rechtzeitig zu einem individuell geplanten Versuch anwesend ist (z.B. ein FMC Versuch, ein Multiple Blindfold Versuch) darf so behandelt werden, als ob er den Versuch abgelehnt hätte (DNS), nach Ermessen des WCA-Delegierten.
+	- 2u1) Ausnahme: Ein Teilnehmer, der nicht rechtzeitig zu einem individuell angesetzten Versuch anwesend ist (z.B. ein FMC Versuch, ein Multiple Blindfold Versuch) darf so behandelt werden, als ob er den Versuch abgelehnt hätte (DNS), nach Ermessen des WCA-Delegierten.
 
 
 ## <article-3><puzzles><puzzles> Abschnitt 3: Puzzles
 
 - 3a) Teilnehmer müssen ihre eigenen Puzzles zum Turnier mitbringen.
-	- 3a1) Teilnehmer müssen anwesend und bereit zur Teilnahme sein, wenn sie aufgerufen werden (siehe [Regel 2u](regulations:regulation:2u)).
+	- 3a1) Teilnehmer müssen anwesend und bereit zur Abgabe ihrer Puzzles sein, wenn sie aufgerufen werden (siehe [Regel 2u](regulations:regulation:2u)).
 	- 3a2) Puzzles müssen voll funktionsfähig sein, so dass sie ordnungsgemäß gescrambelt werden können.
 	- 3a3) Polyedrische Puzzles müssen ein Farbschema besitzen, so dass im gelösten Zustand jede Seite eine eindeutige Farbe besitzt. Die Funktionalität jedes Puzzles muss identisch sein zum Originalpuzzle im Bezug auf Züge, Zustände und Lösungsmöglichkeiten.
 - 3d) Puzzles müssen farbige Teile haben, die einer der folgenden Arten entsprechen: farbige Sticker, farbige Plättchen (Tiles), farbiges Plastik, oder aufgemalte/aufgedruckte Farben. Sämtliche farbige Teile eines Puzzles müssen dabei gleicher Art sein.
@@ -345,7 +345,7 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 - A1) Speed Solving Versuche müssen den folgenden Ablauf einhalten.
 	- A1a) Das Organisationsteam muss Zeitlimits für Versuche und/oder Runden festlegen.
 		- A1a1) Das Standard Zeitlimit pro Solve beträgt 10 Minuten, jedoch darf das Organisationsteam ein höheres oder niedrigeres Zeitlimit festlegen.
-		- A1a2) Kumulative Zeitlimits dürfen festgelegt werden (z.B. 3 Versuche mit einem kumulativem (gesammeltem) Zeitlimit von 20 Minuten). Zeiten, die in einem DNF Solve erzielt wurden, zählen zu dem kumulativen Zeitlimit.
+		- A1a2) Kumulative Zeitlimits dürfen festgelegt werden (z.B. 3 Versuche mit einem kumulativem (aufaddierten) Zeitlimit von 20 Minuten). Zeiten, die in einem DNF Solve erzielt wurden, zählen zu dem kumulativen Zeitlimit.
 		- A1a3) Vor jeder Runde müssen die Zeitlimits bekannt gegeben worden sein und sollten sich während der Runde nicht verändern. Änderungen dürfen nur nach Ermessen des WCA-Delegierten vorgenommen werden, welcher sorgfältig beachten sollte, ob eine mögliche Änderung fair ist.
 		- A1a4) Der Teilnehmer muss jeden Solve innerhalb des Zeitlimits beenden. Falls ein Teilnehmer das Zeitlimit für einen Solve/eine Runde erreicht, stoppt der Judge den Versuch sofort und trägt als Resultat "DNF" ein. Ausnahme: Multiple Blindfolded (siehe Regel H1b1).
 		- A1a5)	Das Erfüllen des Zeitlimits gilt für einen Solve ausschließlich, wenn das Ergebnis nach Anwendung aller Strafen niedriger als das Zeitlimit ist. Ausnahme: Multiple Blindfolded (siehe Regel H1b1).
