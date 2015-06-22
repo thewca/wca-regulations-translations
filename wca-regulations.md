@@ -6,7 +6,7 @@
 
 ### Übersetzung
 
-Hierbei handelt es sich **nicht** um die offiziellen Regeln der World Cube Association sondern lediglich um eine freie Übersetzung. Im Zweifelsfall gelten die Originalregeln. Übersetzungsfehler sind möglich! Fragen und Anmerkungen zur Übersetzung bitte per E-Mail an [ cube@hackvalue](mailto:cube@hackvalue.de).
+Hierbei handelt es sich **nicht** um die offiziellen Regeln der World Cube Association sondern lediglich um eine freie Übersetzung. Im Zweifelsfall gelten die Originalregeln. Übersetzungsfehler sind möglich!
 
 Einige Begriffe wurden bewusst nicht übersetzt da im Deutschen keine entsprechenden Bezeichnungen existieren und da auf deutschsprachigen Turnieren auch zumeist die englischsprachige Bezeichnung benutzt wird.
 Dazu zählen unter anderem:
@@ -17,7 +17,8 @@ Dazu zählen unter anderem:
 - Scoretaker: eine Person, die Ergebnisse überträgt bzw. auswertet
 
 
-Folgende Personen haben bei der Übersetzung und Korrektur geholfen: [Sébastien Auroux](http://www.worldcubeassociation.org/results/p.php?i=2008AURO01), [Laura Ohrndorf](http://www.worldcubeassociation.org/results/p.php?i=2009OHRN01).
+Folgende Personen haben bei der Übersetzung und Korrektur geholfen:  [Laura Ohrndorf](http://www.worldcubeassociation.org/results/p.php?i=2009OHRN01),
+[Sébastien Auroux](http://www.worldcubeassociation.org/results/p.php?i=2008AURO01).
 
 
 Folgende weitere Personen haben bei der Übersetzung und Korrektur bei vorherigen Versionen geholfen: [Florian Weingarten](http://www.worldcubeassociation.org/results/p.php?i=2007WEIN01), [Stefan Huber](http://www.worldcubeassociation.org/results/p.php?i=2007HUBE01), [Leon Schmidtchen](http://www.worldcubeassociation.org/results/p.php?i=2010SCHM01), [Robin Blöhm](http://www.worldcubeassociation.org/results/p.php?i=2008BLOH02), [Tim Habermaas](http://www.worldcubeassociation.org/results/p.php?i=2007HABE01), [Markus Pirzer](http://www.worldcubeassociation.org/results/p.php?i=2006PIRZ01), [Marcel Henfling](http://www.worldcubeassociation.org/results/p.php?i=2010HENF01), [Jochen Spies](http://www.worldcubeassociation.org/results/p.php?i=2010SPIE01), [Stefan Pochmann](http://www.worldcubeassociation.org/results/p.php?i=2003POCH01), [Leandro Baltazar](http://www.worldcubeassociation.org/results/p.php?i=2009BALT02),  [Emanuel Rheinert](http://www.worldcubeassociation.org/results/p.php?i=2011RHEI01), [Patrick Hetco](http://www.worldcubeassociation.org/results/p.php?i=2011HETC01), [Gregor Billing](http://www.worldcubeassociation.org/results/p.php?i=2012BILL01).
@@ -288,8 +289,8 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 - 11a) Zwischenfälle sind:
 	- 11a1) Falsche Durchführung einer Kategorie durch offizielle Organe oder Teilnehmer.
 	- 11a2) Störung oder Ablenkungen durch die Umgebung (z.B. Stromausfälle, Feueralarm).
-	- 11a3) Fehlfuktion des Equipments.
-- 11b) Im Falle eines Zwischenfalls entscheidet der WCA-Delegierte über eine objektive und angemesse Vorgehensweise.
+	- 11a3) Fehlfunktion des Equipments.
+- 11b) Im Falle eines Zwischenfalls entscheidet der WCA-Delegierte über eine objektive und angemessene Vorgehensweise.
 - 11d) Wenn die WCA-Regeln keine klare Aussage über den Zwischenfall machen, so muss der WCA-Delegierte seine Entscheidung auf Basis von sportlicher Fairness treffen (siehe auch [Regel 11e3](regulations:regulation:11e3)).
 - 11e) Falls ein Zwischenfall während eines Versuchs passiert, darf der WCA-Delegierte einem Teilnehmer einen weiteren Versuch gestatten, der den unterbrochenen Versuch ersetzt. Der Teilnehmer muss mündlich oder schriftlich den Judge und WCA-Delegierten zum Zeitpunkt des Zwischenfalls herbeirufen, bevor der ursprüngliche Versuch abgeschlossen ist, um einen Extraversuch erhalten zu können. Ein solcher Einspruch garantiert dem Teilnehmer jedoch keinen Extraversuch.
 	- 11e1) Wenn einem Teilnehmer ein Extraversuch zugesprochen wird, so muss dieser mit einem anderen Scramble gescrambelt werden. Dieser Scramble muss unter Verwendung der aktuellen offiziellen Version des offiziellen WCA-Scramble-Programms erzeugt werden (siehe [Regel 4f](regulations:regulation:4f)).
@@ -409,7 +410,7 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 		- A7a2) Wenn der Judge entscheidet, dass eine Strafe verhängt werden muss, sagt er 'PENALTY'.
 		- A7a3) Wenn der Judge entscheidet, dass der Versuch disqualifiziert werden muss, sagt er 'DNF'.
 	- A7b) Der Judge schreibt das Ergebnis auf ein Scoresheet.
-		- A7b1) Falls Strafen hinzugefügt werden, notiert der Judge die Zeit, die auf dem Timer angezeigt wird zusammen mit den Strafen. Das Format sollte "X + T + Y = F" sein, wobei X die Summe der Strafen vor dem Versuch/beim Starten des Solves, T die auf dem Zimer angezeigte Zeit, Y die Summe der Strafen während/nach dem Solve und F das Endergebnis ist. Falls X und/oder Y gleich 0 sind, werden sie weggelassen. (z.B. 2 + 17.65 + 2 = 21.65, oder 17.65 + 2 = 19.65).
+		- A7b1) Falls Strafen hinzugefügt werden, notiert der Judge die Zeit, die auf dem Timer angezeigt wird zusammen mit den Strafen. Das Format sollte "X + T + Y = F" sein, wobei X die Summe der Strafen vor dem Versuch/beim Starten des Solves, T die auf dem Timer angezeigte Zeit, Y die Summe der Strafen während/nach dem Solve und F das Endergebnis ist. Falls X und/oder Y gleich 0 sind, werden sie weggelassen. (z.B. 2 + 17.65 + 2 = 21.65, oder 17.65 + 2 = 19.65).
 	- A7c) Der Judge und der Teilnehmer müssen die aufgeschriebene Zeit überprüfen und das Scoresheet unterschreiben, um zu bestätigen, dass das Ergebnis korrekt, vollständig, ordnungsgemäß formatiert und deutlich lesbar ist. Dies beendet den Versuch.
 		- A7c1) Falls der Teilnehmer oder der Judge sich weigert auf dem Scoresheet zu unterschreiben, muss der WCA-Delegierte die Uneinigkeiten aufklären.
 		- A7c2) Der Teilnehmer darf einen Versuch nicht auf dem Scoresheet unterschreiben, bevor der Judge das endgültige Ergebnis des Versuchs aufgeschrieben hat. Wenn ein Teilnehmer einen Versuch unterschreibt (oder anderweitig kennzeichnet), bevor er den Versuch begonnen hat oder bevor der Judge das Aufschreiben des Ergebnisses beendet hat, verfällt sein Versuch und wird als DNS gewertet.
