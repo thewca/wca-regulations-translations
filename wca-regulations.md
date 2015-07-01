@@ -26,11 +26,11 @@ Folgende weitere Personen haben bei der Übersetzung und Korrektur bei vorherige
 ### WCA Regeln und WCA Richtlinien
 
 Die WCA Regeln stellen ein komplettes Regelwerk dar, welches auf allen offiziellen WCA Turnieren zu befolgen ist.
-Die [WCA Richtlinien](guidelines:top) erweitern die WCA Regeln um weitere Erläuterungen und Beispiele.
+Die [WCA Richtlinien](guidelines:top) erweitern die WCA Regeln um weitere Erläuterungen und Beispiele. Die Regeln sollten als vollständiges Dokument angesehen werden, aber die Guidelines enthalten zusätzliche Erläuterungen und Erklärungen.
 
 ### Weitere Links
-- Webseite der World Cube Association: [www.worldcubeassociation.org](http://www.worldcubeassociation.org/)
-- Original Quelle der WCA-Regeln: [www.worldcubeassociation.org/regulations](http://www.worldcubeassociation.org/regulations/)
+- Webseite der World Cube Association: [www.worldcubeassociation.org](https://www.worldcubeassociation.org/)
+- Original Quelle der WCA-Regeln: [www.worldcubeassociation.org/regulations](https://www.worldcubeassociation.org/regulations/)
 - PDF-Version dieser Übersetzung: [Deutsche PDF-Version der Regeln und Richtlinien](link:pdf)
 - Du möchtest eine eigene Competition organisieren? Dann wirf einen Blick in unser [Competition Orga Tutorial](http://cube.hackvalue.de/tutorials/competition.php).
 
@@ -40,7 +40,6 @@ Die [WCA Richtlinien](guidelines:top) erweitern die WCA Regeln um weitere Erläu
 Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regeln nicht verändert wurde, gibt es teilweise Lücken in der Nummerierung.
 
 <table-of-contents>
-
 
 ## <article-1><officials><officials> Abschnitt 1: Offizielle Organe
 
@@ -126,7 +125,9 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 	- 3a2) Puzzles müssen voll funktionsfähig sein, so dass sie ordnungsgemäß gescrambelt werden können.
 	- 3a3) Polyedrische Puzzles müssen ein Farbschema besitzen, so dass im gelösten Zustand jede Seite eine eindeutige Farbe besitzt. Die Funktionalität jedes Puzzles muss identisch sein zum Originalpuzzle im Bezug auf Züge, Zustände und Lösungsmöglichkeiten.
 - 3d) Puzzles müssen farbige Teile haben, die einer der folgenden Arten entsprechen: farbige Sticker, farbige Plättchen (Tiles), farbiges Plastik, oder aufgemalte/aufgedruckte Farben. Sämtliche farbige Teile eines Puzzles müssen dabei gleicher Art sein.
-	- 3d1) Ausnahme: Teilnehmer mit medizinisch dokumentierter Sehunfähigkeit dürfen Puzzle mit verschiedenen Oberflächentexturen auf den verschiedenen Seiten benutzen. Die Texturen/Muster müssen pro Seite einheitlich sein. Jede Seite sollte eine eindeutige Farbe aufweisen, um das Scramblen und Judgen zu unterstützen.
+	- 3d1) Für Teilnehmer mit einer medizinisch dokumentierten Sehschwäche gelten die folgenden Ausnahmen:
+			- 3d1a) Teilnehmer dürfen strukturierte Puzzle mit unterschiedlichen Strukturen auf unterschiedlichen Seiten nutzen. Jede Seite sollte eine festgelegte Farbe haben, um das Scramblen und Judgen zu erleichtern.
+			- 3d1b) Teilnehmer, die keine ausreichende Anzahl an Farben unterscheiden können, dürfen farbige Teile mit Mustern nutzen, wenn diese nach [Regel 2s](regulations:regulation:2s) erlaubt sind. Muster dürfen durch Sticker ergänzt oder aufgemalt werden.
 	- 3d2) Die Farben eines Puzzles müssen pro Seite einheitlich sein. Jede Farbe des Puzzles muss eindeutig von den anderen unterscheidbar sein.
 	- 3d3) Wenn die farbigen Teile des Puzzles Sticker oder Plättchen (Tiles) sind, dürfen diese nicht dicker  als 1,5 mm sein. Ausnahme: Megaminx Plättchen (Tiles) dürfen etwas dicker als 1,5 mm sein, nach Ermessen des WCA-Delegierten.
 - 3h) Es dürfen keine Modifikationen gemacht werden, die das grundlegende Konzept eines Puzzles verbessern. Modifizierte Puzzles sind nur erlaubt, wenn die Modifikation dem Teilnehmer im Vergleich zur nicht modifizierten Version des Puzzles keine zusätzlichen Informationen liefert (z.B. Orientierung oder Identität von Steinen).
@@ -351,7 +352,7 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 		- A1a4) Der Teilnehmer muss jeden Solve innerhalb des Zeitlimits beenden. Falls ein Teilnehmer das Zeitlimit für einen Solve/eine Runde erreicht, stoppt der Judge den Versuch sofort und trägt als Resultat "DNF" ein. Ausnahme: Multiple Blindfolded (siehe Regel H1b1).
 		- A1a5)	Das Erfüllen des Zeitlimits gilt für einen Solve ausschließlich, wenn das Ergebnis nach Anwendung aller Strafen niedriger als das Zeitlimit ist. Ausnahme: Multiple Blindfolded (siehe Regel H1b1).
 	- A1b) Falls das Zeitlimit für einen Solve mehr als 10 Minuten beträgt, muss eine Stoppuhr für die Zeitmessung verwendet werden.
-		- A1b1) Für Kategorien mit Inspektionszeit muss zusätzlich zur Stoppuhr ein Stackmat Timer benutzt werden. Für Kategorien ohne Inspektionszeit, in denen der Teilnehmer voraussichtlich eine Zeit über 10 Minuten erzielt, ist die Nutzung des Stackmat Timers optional.
+		- A1b1) Für Kategorien mit Inspektionszeit muss zusätzlich zur Stoppuhr eine Stackmat benutzt werden. Für Kategorien ohne Inspektionszeit, in denen der Teilnehmer voraussichtlich eine Zeit über 10 Minuten erzielt, ist die Nutzung der Stackmat optional.
 		- A1b2) Falls eine Zeit mit einem Stackmat Timer gemessen wurde, gilt sie als ursprünglich gemessene Zeit. Anderenfalls ist die mit der Stoppuhr gemessene Zeit die ursprünglich gemessene Zeit.
 	- A1c) Ein Teilnehmer einer Kategorie muss in der Lage sein die Voraussetzungen der Kategorie zu erfüllen (z.B. wissen, wie man das Puzzle löst). Ein Teilnehmer darf nicht mit der Erwartung eines DNF oder eines bewusst schlechten Ergebnisses an einer Kategorie teilnehmen. Strafe: Disqualifikation des Versuchs (DNF) oder Disqualifikation der Kategorie (siehe [Regulation 2j](regulations:regulation:2j)), nach Ermessen des WCA-Delegierten.
 - A2) Scrambling
@@ -423,7 +424,7 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 	- B1b) Die Teilnehmer müssen ihre eigenen Augenbinden mitbringen.
 - B2) Beginn des Versuchs
 	- B2a) Der Judge setzt den/die Timer zurück und fragt "READY?" wie in [Regel A3b1](regulations:regulation:A3b1) beschrieben. Der Teilnehmer muss innerhalb von einer Minute nach der Frage des Judges bereit sein, seinen Versuch zu starten. Andernfalls verfällt der Versuch des Teilnehmers (DNS) nach Ermessen des Judges.
-- B2b) Der Teilnehmer legt seine Hände flach auf die Sensoren des Timers. Seine Finger müssen die Sensoren mit aufliegenden Handflächen berühren. Strafe: Zeitstrafe (+2 Sekunden).
+- B2b) Der Teilnehmer nutzt seine Finger, um die Sensoren des Timers zu berühren. Die Handflächen des Teilnehmers müssen dabei nach unten gerichtet und auf der Seite des Timers sein, die näher zu ihm ist. Strafe: Zeitstrafe (+2 Sekunden).
 	- B2c) Der Teilnehmer darf keinen physischen Kontakt mit dem Puzzle haben bevor die Lösungsphase beginnt. Strafe: 2 Sekunden.
 	- B2d) Der Teilnehmer beginnt den Versuch indem er die Hände vom Timer nimmt (dies startet ach den Solve).
 		- B2d1) Der Teilnehmer muss selbst die Abdeckung vom Puzzle nehmen, nachdem er die Zeit gestartet hat.
@@ -480,8 +481,8 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 - E3) Der Teilnehmer darf die folgenden Objekte benutzen. Strafe für das Benutzen weiterer Objekte: Disqualifikation des Versuchs (DNF).
 	- E3a) Stift und Papier (beide vom Judge bereitgestellt)
 	- E3b) Rubik's Cubes (maximal 3, selbst bereitgestellt), wie in [Artikel 3](regulations:article:3) erklärt.
-	- E3c) farbige Aufkleber (selbst bereitgestellt).
-	- E3d) Stoppuhr oder Uhr, um die abgelaufene Zeit zu verfolgen, wenn dies durch den WCA-Delegierten genehmigt ist.
+	- E3c) farbige Aufkleber (selbst mitgebracht).
+	- E3d) Stoppuhr oder Uhr (selbst mitgebracht), um die abgelaufene Zeit zu verfolgen, wenn dies durch den WCA-Delegierten genehmigt ist.
 
 ## <article-F><clock><clocksolving> Abschnitt F: Clock
 
@@ -498,6 +499,7 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 	- H1b) Versucht ein Teilnehmer weniger als 6 Puzzles, so steht ihm eine Zeitgrenze von 10 Minuten mal der Anzahl an versuchten Puzzles zur Verfügung, sonst 60 Minuten.
 		- H1b1) Der Teilnehmer kann das Ende des Versuchs jederzeit signalisieren. Falls die Zeit überschritten wird, so wird der Versuch sofort gestoppt und ausgewertet. Die Zeitgrenze wird dabei als gemessene Zeit verwendet.
 	- H1d) Zeitstrafen für die Puzzles werden aufaddiert.
+	- H1e) Die Benutzung des Stackmat Timers ist optional.
 
 ## <article-Z><optional><optional> Abschnitt Z: Optionale Regeln
 
