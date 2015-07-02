@@ -1,4 +1,4 @@
-# <wca-title>Reglamento WCA 2015 (Español Americano)
+# <wca-title>Reglamento WCA (Español Americano)
 
 
 <version> Versión: 1 de Julio de 2015

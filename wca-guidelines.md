@@ -1,6 +1,6 @@
-# <wca-title>WCA Directrices 2014
+# <wca-title>WCA Directrices
 
-<version>Versión: 3 de Abril de 2015
+<version>Versión: 1 de Julio de 2015
 
 
 ## Notas
