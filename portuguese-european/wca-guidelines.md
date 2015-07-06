@@ -180,7 +180,7 @@ Para ser mais informativo, cada orientação é classificada usando uma das segu
 - E2c++) [ESCLARECIMENTO] A solução do competidor só pode conter movimentos que são exatamente definidos pela [Regra 12a](regulations:regulation:12a). Exemplos de notação e movimentos que não são permitidos em competição: [F], [R, U], [R: U], R'2, L'w, f, M, U2'.
 - E3b+) [LEMBRETE] Cubo de Rubik refere-se apenas ao quebra-cabeças standard 3x3x3.
 - E3d+) [ESCLARECIMENTO] Qualquer cronómetro ou relógio usado pelo competidor não pode ter qualquer função que possa ajudar o competidor a encontrar uma solução.
-+- E3d++) [ESCLARECIMENTO] Competidores não podem considerar o seu cronómetro ou relógio pessoal como o tempo oficial, tendo que submeter a sua solução após o juiz dizer "STOP".
+- E3d++) [ESCLARECIMENTO] Competidores não podem considerar o seu cronómetro ou relógio pessoal como o tempo oficial, tendo que submeter a sua solução após o juiz dizer "STOP".
 
 ## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Artigo H: Resolução de Vários Cubos Vendado
 
