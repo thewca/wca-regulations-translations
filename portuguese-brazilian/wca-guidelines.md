@@ -111,7 +111,7 @@ Para ser mais informativo, cada orientação é classificada usando um dos segui
 - 9r+) [EXPLICAÇÃO] O objetivo da rodada de classificação é permitir aos não classificados e aos com baixa classificação se classificarem para a primeira rodada de um evento com muitos competidores.
 
 
-## <article-0><solved-state><solvedstate> Artigo 10: Estado Resolvido
+## <article-10><solved-state><solvedstate> Artigo 10: Estado Resolvido
 
 - 10f+) [EXPLICAÇÃO] Os limite de desalinhamento são selecionados para dividir naturalmente entre o estado resolvido do cubo (sem penalidade) e o estado onde falta um movimento(mais dois segundos de penalidade).
 

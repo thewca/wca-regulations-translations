@@ -123,7 +123,7 @@ Para ser mais informativo, cada orientação é classificada usando uma das segu
 - 9q+) [SEPARADO][RECOMENDAÇÃO] Modalidades e rondas devem ter pelo menos dois competidores.
 
 
-## <article-0><solved-state><solvedstate> Artigo 10: Estado Resolvido
+## <article-10><solved-state><solvedstate> Artigo 10: Estado Resolvido
 
 - 10f+) [EXPLICAÇÃO] Os limite de desalinhamento são selecionados para dividir naturalmente entre o estado resolvido do cubo (sem penalidades) e o estado onde falta um movimento.
 

@@ -245,7 +245,7 @@ Catatan: Karena nomor Pasal dan Regulasi tidak diatur kembali saat ada Regulasi 
 - 9s) Setiap round dari setiap event harus mempunyai batas waktu (lihat <Regulation A1a>).
 
 
-## <article-1><solved-state><solvedstate> Pasal 10: Kondisi terselesaikan
+## <article-10><solved-state><solvedstate> Pasal 10: Kondisi terselesaikan
 
 - 10b) Hanya kondisi puzzle yang diam setelah timer dihentikan yang dianggap.
 - 10c) Puzzle dapat berada di orientasi apapun di akhir attempt.
@@ -263,7 +263,7 @@ Catatan: Karena nomor Pasal dan Regulasi tidak diatur kembali saat ada Regulasi 
 - 10h) Puzzle yang tidak dijelaskan di pasal ini diwasiti secara umum untuk mencapai keadaan terselesaikan, menerapkan regulasi yang relevan dengan Kubus Rubik's (Rubik's Cube).
 
 
-## <article-1><incidents><incidents> Pasal 11: Insiden
+## <article-11><incidents><incidents> Pasal 11: Insiden
 
 - 11a) Insiden termasuk:
     - 11a1) Penyelenggaraan prosedur kompetisi yang tidak sesuai dengan regulasi, baik oleh penyelenggara maupun kompetitor.
@@ -276,7 +276,7 @@ Catatan: Karena nomor Pasal dan Regulasi tidak diatur kembali saat ada Regulasi 
 - 11f) Keputusan tentang insiden dapat didukung dengan video atau analisis fotografi, tergantung kebijaksanaan WCA delegate.
 
 
-## <article-1><notasi><notasi> Pasal 12: Notasi
+## <article-12><notasi><notasi> Pasal 12: Notasi
 - 12a) Notasi untuk Rubik's Cube dan cube-cube sejenis:
     - 12a1) Gerakan Sisi:
         - 12a1a) Searah dengan jarum jam, 90 derajat: F (sisi depan), B (sisi belakang), R (sisi kanan), L (sisi kiri), U (sisi atas), D (sisi bawah).

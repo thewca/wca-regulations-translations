@@ -114,12 +114,12 @@ A hatékonyabb megértés segítségéül minden útmutatás a következő címk
 - 9q+) [EGYÉNI] [AJÁNLÁS] Minden versenyszámban és fordulóban legalább 2 embernek el kell indulnia.
 
 
-## <article-0><solved-state><solvedstate> 10. Cikk: Kirakott állapot
+## <article-10><solved-state><solvedstate> 10. Cikk: Kirakott állapot
 
 - 10f+) [MAGYARÁZAT] Az eltérések határértékét úgy határozták meg, hogy a játék egy (büntetést nem érdemlő) állapota és az egy mozdulattal eltérő állapot között félúton helyezkedjen el.
 
 
-## <article-1><incidents><incidents> 11. Cikk: Incidensek
+## <article-11><incidents><incidents> 11. Cikk: Incidensek
 
 - 11e+) [PONTOSÍTÁS] Mivel az extra kirakás kérése nem garantálja a versenyzőnek, hogy meg is kapja azt, így dönthet úgy, hogy bekapcsolva hagyja a timer-t és az idő múlása közben vitatja meg a bíróval/WCA delegálttal, hogy elutasítás esetén folytathassa a kirakást.
 - 11e1+) [EMLÉKEZTETŐ] A extra kirakásnál a játékot egy a hivatalos keverőprogram által generált, módosítás nélküli algoritmussal kell bekeverni ([Szabályzat 4f](regulations:regulation:4f), [Útmutató 4f+](guidelines:guideline:4f+)).

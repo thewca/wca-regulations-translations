@@ -99,12 +99,12 @@ Per rendere più semplice e immediata la consultazione, ogni Linea Guida è clas
 - 9q+) [A PARTE][RACCOMANDAZIONE] Eventi e turni dovrebbero avere almeno 2 partecipanti. 
 - 9r+) [SPIEGAZIONE] L’obiettivo del turno di qualificazione è quello di dare possibilità di qualificarsi al primo turno a quei partecipanti senza precedenti risultati o con ranking basso in competizioni con molti partecipanti .
 
-## <article-0><solved-state><solvedstate> Articolo 10: Condizione di risolto
+## <article-10><solved-state><solvedstate> Articolo 10: Condizione di risolto
 
 - 10f+) [SPIEGAZIONE] I limiti di disallineamento sono pensati per stabilire il limite tra una risoluzione senza penalità e una con penalità.
 
 
-## <article-1><incidents><incidents> Articolo 11: Incidenti 
+## <article-11><incidents><incidents> Articolo 11: Incidenti 
 
 - 11e+) [CHIARIMENTO] Dato che la semplice richiesta di avere un extra time non dà diritto automatico ad un'ulteriore risoluzione, il partecipante può scegliere di non fermare il tempo mentre pone la richiesta, per poi riprendere se lo ritiene appropriato (es. La richiesta è stata rifiutata e si vuole evitare DNF).
 - 11e1+) [PROMEMORIA] Lo scramble per un extra time deve essere una sequenza originale generata programma di mischiatura ufficiale; non sono accettabili scramble inversi o simili (vedi <Regulation 4f>, <Guideline 4f>).

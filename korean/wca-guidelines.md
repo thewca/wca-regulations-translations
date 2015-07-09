@@ -108,12 +108,12 @@ WCA 지침은 [WCA 규정](regulations:top)을 보충한다. WCA에 대한 더 �
 - 9r+) [설명] 퀄리피케이션 라운드의 목적은 랭킹에 등록되어있지 않거나 랭킹이 낮은 선수들에게 자격을 부여하여 많은 선수들이 참가하는 종목의 첫 라운드에 출전하게 하는 것이다.
 
 
-## <article-0><solved-state><solvedstate> 제 10 조: 맞추어진 상태
+## <article-10><solved-state><solvedstate> 제 10 조: 맞추어진 상태
 
 - 10f+) [설명] 어긋남의 기준은 퍼즐의 맞추어진 상태(페널티 없이)와 한 회전 떨어져있는 상태의 자연스러운 경계를 제공하기 위해 선택되었다.
 
 
-## <article-1><incidents><incidents> 제 11 조: 특별 상황
+## <article-11><incidents><incidents> 제 11 조: 특별 상황
 
 - 11e+) [명확] 어필이 항상 성공적이라는 것을 보장할 수 없으므로, 선수는 어필 중에 타이머가 계속 작동되도록 한 후 시도를 계속할 수 있다.
 - 11e1+) [주의] 추가 시도에선 공인 스크램블 프로그램으로 생성된 변형되지 않은 스크램블 공식으로 퍼즐이 섞여야 한다.([규정 4f항](regulations:regulation:4f), [지침 4f+항](guidelines:guideline:4f+) 참조)

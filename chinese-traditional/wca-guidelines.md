@@ -108,12 +108,12 @@
 - 9r+) [解釋] 資格賽的目的是在有大量參賽者的情況下讓沒有排名或是低排名的參賽者能夠進入第一輪。
 
 
-## <article-0><solved-state><solvedstate> 第10章: 方塊完成狀態
+## <article-10><solved-state><solvedstate> 第10章: 方塊完成狀態
 
 - 10f+) [解釋] 方塊是否完成，是以完成狀態和差一步狀態的中央截止線來認定。
 
 
-## <article-1><incidents><incidents> 第11章: 意外事件
+## <article-11><incidents><incidents> 第11章: 意外事件
 
 - 11e+) [釐清] 因為抗議並不一定有效，參賽者可以選擇在抗議時讓計時器繼續跑動，並在合適時再繼續。
 - 11e1+) [提醒] 多一次的機會必須要有新轉亂表，且必須要是官方亂數產生器產生，且無修改的轉亂表。(參見 [規則 4f](regulations:regulation:4f), [指導方針 4f+](guidelines:guideline:4f+))
