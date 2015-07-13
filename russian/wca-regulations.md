@@ -23,7 +23,7 @@
 ### Информация в Интернете
 Сайт Всемирной Ассоциации Кубика: [www.worldcubeassociation.org](https://www.worldcubeassociation.org/).  
 Первоисточник Положений WCA: [www.worldcubeassociation.org/regulations](https://www.worldcubeassociation.org/regulations/).  
-Положения WCA в [формате PDF](link:pdf)
+Положения WCA в [формате PDF](https://github.com/cubing/wca-regulations)
 
 ### Источник
 Разработка Положений WCA и Дополнений к Положениям WCA открыта для общественности [на GitHub](link:pdf).
