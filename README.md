@@ -12,6 +12,7 @@ If you'd like to (re)-translate the Regulations, please use the following proces
 
 - Download the [source of the current official Regulations](https://github.com/cubing/wca-regulations/archive/official.zip).
     - When you do this, please also visit [the GitHub page](https://github.com/cubing/wca-regulations) and record the current "latest commit" value so we can tell which version you translated.
+    - If you're updating an existing translation, you can instead download the current translations [here](https://github.com/cubing/wca-regulations-translations/archive/master.zip/).
 - Translate `wca-guidelines.md` and `wca-regulations.md`
    - Try to keep all the formatting intact and only change the words.
     - Read through the [style guide](https://github.com/cubing/wca-documents-extra/blob/master/style-guide.md) for detailed information about how the Regulations are formatted.
@@ -28,7 +29,6 @@ If you'd like to (re)-translate the Regulations, please use the following proces
         - The words/phrases for "Regulations" and "Guidelines".
         - A suitable translation of the file name `wca-regulations-and-guidelines.pdf` for downloads (preferably without accent marks or special letters).
 
-All translations will be kept [on GitHub](https://github.com/cubing/wca-regulations-translations).
-If you're familiar with `git`/GitHub, you're also welcome to fork the [`regulations-translations`](https://github.com/cubing/wca-regulations-translations) repository. This makes it easy for the WRC to track changes in your translation.
+If you're familiar with `git`/GitHub, you're also welcome to fork the [`wca-regulations-translations`](https://github.com/cubing/wca-regulations-translations) repository. This makes it easy for the WRC to track changes in your translation and for you to make pull requests.
 
 If you're not familiar with GitHub, just send us your translated files via email.
