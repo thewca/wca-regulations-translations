@@ -1,6 +1,6 @@
 # <wca-title>Règlement WCA
 
-<version>Version : 3 Avril 2014
+<version>Version : 1er Juillet 2015
 
 
 ## Notes
