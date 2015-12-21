@@ -426,7 +426,7 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 	- B2a) Der Judge setzt den/die Timer zurück und fragt "READY?" wie in [Regel A3b1](regulations:regulation:A3b1) beschrieben. Der Teilnehmer muss innerhalb von einer Minute nach der Frage des Judges bereit sein, seinen Versuch zu starten. Andernfalls verfällt der Versuch des Teilnehmers (DNS) nach Ermessen des Judges.
 - B2b) Der Teilnehmer nutzt seine Finger, um die Sensoren des Timers zu berühren. Die Handflächen des Teilnehmers müssen dabei nach unten gerichtet und auf der Seite des Timers sein, die näher zu ihm ist. Strafe: Zeitstrafe (+2 Sekunden).
 	- B2c) Der Teilnehmer darf keinen physischen Kontakt mit dem Puzzle haben bevor die Lösungsphase beginnt. Strafe: 2 Sekunden.
-	- B2d) Der Teilnehmer beginnt den Versuch indem er die Hände vom Timer nimmt (dies startet ach den Solve).
+	- B2d) Der Teilnehmer beginnt den Versuch indem er die Hände vom Timer nimmt (dies startet auch den Solve).
 		- B2d1) Der Teilnehmer muss selbst die Abdeckung vom Puzzle nehmen, nachdem er die Zeit gestartet hat.
 	- B2e) Falls zusätzlich zum Stackmat Timer eine Stoppuhr benutzt wird, startet der Judge diese, wenn der Teilnehmer den Solve beginnt.
 	- B2f) Falls eine Stoppuhr als einziger Timer verwendet wird, platziert der Teilnehmer seine Hände auf dem Tisch (anstatt auf dem Stackmat Timer). Nachdem der Teilnehmer seine Bereitschaft bestätigt hat, startet der Teilnehmer den Solve, indem er die Abdeckung abhebt. Der Judge startet die Stoppuhr sobald der Teilnehmer den Solve startet.
@@ -446,7 +446,7 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 - B5) Ende des Versuchs
 	- B5a) Falls ein Timer benutzt wird, beendet der Teilnehmer die Lösungsphase indem er das Puzzle loslässt und den Timer stoppt.
 	- B5b) Falls eine Stoppuhr benutzt wird, beendet der Teilnehmer die Lösungsphase indem er das Puzzle loslässt und den Judge informiert, dass der Versuch beendet ist. In diesem Moment stoppt der Judge die Stoppuhr.
-	- B5c) Falls der Teilnehmer das Puzzle nicht berührt, darf er die Augenbinde abnehmen, bevor der Timer gestoppt ist. Er darf darf das Puzzle bis zum Ende des Versuchs nicht mehr berühren. Strafe für das Berühren des Puzzles: Disqualifikation des Versuchs (DNF).
+	- B5c) Falls der Teilnehmer das Puzzle nicht berührt, darf er die Augenbinde abnehmen, bevor der Timer gestoppt ist. Er darf das Puzzle bis zum Ende des Versuchs nicht mehr berühren. Strafe für das Berühren des Puzzles: Disqualifikation des Versuchs (DNF).
 
 ## <article-C><one-handed><onehandedsolving> Abschnitt C: Einhändiglösen
 
