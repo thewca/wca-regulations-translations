@@ -124,7 +124,7 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 	- 3a1) Teilnehmer müssen anwesend und bereit zur Abgabe ihrer Puzzles sein, wenn sie aufgerufen werden (siehe [Regel 2u](regulations:regulation:2u)).
 	- 3a2) Puzzles müssen voll funktionsfähig sein, so dass sie ordnungsgemäß gescrambelt werden können.
 	- 3a3) Polyedrische Puzzles müssen ein Farbschema besitzen, so dass im gelösten Zustand jede Seite eine eindeutige Farbe besitzt. Die Funktionalität jedes Puzzles muss identisch sein zum Originalpuzzle im Bezug auf Züge, Zustände und Lösungsmöglichkeiten.
-- 3d) Puzzles müssen farbige Teile haben, die einer der folgenden Arten entsprechen: farbige Sticker, farbige Plättchen (Tiles), farbiges Plastik, oder aufgemalte/aufgedruckte Farben. Sämtliche farbige Teile eines Puzzles müssen dabei gleicher Art sein.
+- 3d) Puzzles müssen farbige Teile haben, die einer der folgenden Arten entsprechen: farbige Sticker, farbige Plättchen (Tiles), farbiges Plastik, oder aufgemalte/aufgedruckte Farben. Sämtliche farbigen Teile eines Puzzles müssen dabei gleicher Art sein.
 	- 3d1) Für Teilnehmer mit einer medizinisch dokumentierten Sehschwäche gelten die folgenden Ausnahmen:
 			- 3d1a) Teilnehmer dürfen strukturierte Puzzle mit unterschiedlichen Strukturen auf unterschiedlichen Seiten nutzen. Jede Seite sollte eine festgelegte Farbe haben, um das Scramblen und Judgen zu erleichtern.
 			- 3d1b) Teilnehmer, die keine ausreichende Anzahl an Farben unterscheiden können, dürfen farbige Teile mit Mustern nutzen, wenn diese nach [Regel 2s](regulations:regulation:2s) erlaubt sind. Muster dürfen durch Sticker ergänzt oder aufgemalt werden.
@@ -172,7 +172,7 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 
 ## <article-5><puzzle-defects><puzzledefects> Abschnitt 5: Puzzledefekte
 
-- 5a) Beispiele für Puzzledefekte sind etwa: herausgefallene Teile, Teile an ihrer Stelle gedreht ("getwisted") sind, gelöste Schrauben, Kappen oder Aufkleber.
+- 5a) Beispiele für Puzzledefekte sind etwa: herausgefallene Teile, Teile, die an ihrer Stelle gedreht ("getwisted") sind, gelöste Schrauben, Kappen oder Aufkleber.
 - 5b) Wenn ein Puzzledefekt während eines Versuchs auftritt, ist es dem Teilnehmer überlassen, ob er den Defekt repariert und fortführt oder ob er den Versuch abbricht.
 	- 5b1) Wenn der Teilnehmer sich entscheidet das Puzzle zu reparieren, so darf er nur die defekten Teile  reparieren und darf keine weiteren Werkzeuge oder Teile von anderen Puzzles benutzen. Strafe: Disqualifikation des Versuchs (DNF).
 	- 5b2) Die Reparatur darf dem Teilnehmer keinen Vorteil beim Lösen des Puzzles verschaffen. Strafe: Disqualifikation des Versuchs (DNF).
