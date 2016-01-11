@@ -23,9 +23,9 @@ Documents originaux du Règlement WCA : [www.worldcubeassociation.org/regulation
 Règlement WCA au [format PDF](link:pdf).
 
 ### Sources
-Le développement du Règlement et des Recommandations est public [sur GitHub](https://github.com/cubing/wca-documents).    
-Le développement des traductions est public [sur GitHub](https://github.com/cubing/wca-documents-translations).    
-La traduction française est maintenue dans la branche "french", et la version la plus à jour est située dans [ce dépôt](https://github.com/viroulep/wca-documents-translations).
+Le développement du Règlement et des Recommandations est public [sur GitHub](https://github.com/cubing/wca-regulations).
+Le développement des traductions est public [sur GitHub](https://github.com/cubing/wca-regulations-translations).
+La traduction française est maintenue dans [ce dépôt](https://github.com/speedcubingfrance/wca-regulations-translations).
 
 ### Contact
 Pour les questions et retours, merci de contacter le [WCA Regulations Committee (WRC)](https://www.worldcubeassociation.org/contact/wrc).    
@@ -103,7 +103,7 @@ Note : les numéros des articles et des règles ne sont pas réassignés lors d'
     - 2k2) Est suspecté de tricherie ou d'escroquer les officiels au cours de la compétition.
         - 2k2a) Le Délégué WCA peut disqualifier n'importe quel résultat suspect.
     - 2k3) Se comporte de façon illégale, violente, indécente ou endommage intentionnellement les installations du lieu de la compétition ou les biens personnels de quiconque pendant la compétition.
-    - 2k4) Interfère avec ou distrait les autres compétiteurs pendant la compétition.
+    - 2k4) Perturbe la compétition, ou distrait les compétiteurs pendant la compétition.
     - 2k5) Refuse de respecter le Règlement WCA pendant la compétition.
 - 2l) Un compétiteur peut être disqualifié immédiatement ou après un avertissement, selon la nature et la gravité de l'infraction.
     - 2l1) Suite à une disqualification, un compétiteur ne peut prétendre à aucun remboursement d'une quelconque dépense qu'il aurait engagée pour participer à la compétition.
