@@ -74,29 +74,29 @@ Per rendere più semplice e immediata la consultazione, ogni Linea Guida è clas
 
 ## <article-6><awards><awards> Articolo 6: Premi/premiazioni
 
-- 6a+) [A PARTE][AMPLIAMENTO] I partecipanti possono ricevere premi/medaglie/attestati in base a quanto stabilito al momento dell'annuncio della competizione. 
-- 6b+) [A PARTE][RACCOMANDAZIONE] I partecipanti dovrebbero essere presenti alla cerimonia di premiazione per ricevere premi/medaglie/attestati. 
-- 6b1+) [A PARTE][RACCOMANDAZIONE] La cerimonia di premiazione dovrebbe svolgersi nella venue dove si è svolta la competizione, entro un'ora dal termine dell'ultimo evento. 
-- 6c+) [A PARTE][RACCOMANDAZIONE] I vincitori dovrebbero essere disponibili e preparati a parlare coi giornalisti o i media che coprono l'evento. 
-- 6d+) [A PARTE][RACCOMANDAZIONE] Il team organizzativo dovrebbe consegnare un attestato, firmato dal leader del team e dal Delegato WCA, al vincitore di ogni categoria.
+- 6a+) [AMPLIAMENTO] I partecipanti possono ricevere premi/medaglie/attestati in base a quanto stabilito al momento dell'annuncio della competizione. 
+- 6b+) [RACCOMANDAZIONE] I partecipanti dovrebbero essere presenti alla cerimonia di premiazione per ricevere premi/medaglie/attestati. 
+- 6b1+) [RACCOMANDAZIONE] La cerimonia di premiazione dovrebbe svolgersi nella venue dove si è svolta la competizione, entro un'ora dal termine dell'ultimo evento. 
+- 6c+) [RACCOMANDAZIONE] I vincitori dovrebbero essere disponibili e preparati a parlare coi giornalisti o i media che coprono l'evento. 
+- 6d+) [RACCOMANDAZIONE] Il team organizzativo dovrebbe consegnare un attestato, firmato dal leader del team e dal Delegato WCA, al vincitore di ogni categoria.
 
 ## <article-7><environment><environment> Articolo 7: Ambiente di gara
 
-- 7d+) [A PARTE][AMPLIAMENTO] La temperatura dell'ambiente di gara dovrebbe essere compresa tra 21 e 25 gradi centigradi. 
-- 7h2+) [A PARTE][AMPLIAMENTO] I partecipanti che si trovano nell'Area Partecipanti non devono essere in grado di vedere i puzzle che gli altri partecipanti stanno risolvendo.
+- 7d+) [AMPLIAMENTO] La temperatura dell'ambiente di gara dovrebbe essere compresa tra 21 e 25 gradi centigradi. 
+- 7h2+) [AMPLIAMENTO] I partecipanti che si trovano nell'Area Partecipanti non devono essere in grado di vedere i puzzle che gli altri partecipanti stanno risolvendo.
 
 ## <article-8><competitions><competitions> Articolo 8: Competizioni
 
 - 8a4+) [RACCOMANDAZIONE] Cambiamenti quali la modifica del numero massimo di partecipanti in un round, regolare o di qualificazione, e l’eventuale aggiunta di un round di qualificazione per partecipanti alla loro prima competizione dovrebbero essere fatti almeno un mese prima della competizione (Vedi <Regulation 9r3>).
 - 8a4++) [RACCOMANDAZIONE] L’annuncio ufficiale della competizione dovrebbe avvenire almeno un mese prima dell’inizio della stessa. 
-- 8a5+) [A PARTE][ RACCOMANDAZIONE] La competizione dovrebbe avere almeno 12 partecipanti. 
+- 8a5+) [RACCOMANDAZIONE] La competizione dovrebbe avere almeno 12 partecipanti. 
 
 ## <article-9><events><events> Articolo 9: Eventi
 
 - 9b+) [AMPLIAMENTO] Il formato consigliato per i round finali è “Average of 5” oppure “Mean of 3”, ove possibile. 
 - 9b++) [AMPLIAMENTO] Eventi extra, non specificati in <Regulation 9b>, possono essere tenuti benché verranno considerati non ufficiali e non verranno inclusi nei risultati ufficiali della competizione. 
 - 9f5+) [CHIARIMENTO] Il risultato viene marcato come DNS se il partecipante idoneo alla risoluzione del puzzle si rifiuta di risolvere. Se il partecipante non si è qualificato per una risoluzione (es. in un turno combinato) il tempo non verrà incluso nei risultati.
-- 9q+) [A PARTE][RACCOMANDAZIONE] Eventi e turni dovrebbero avere almeno 2 partecipanti. 
+- 9q+) [RACCOMANDAZIONE] Eventi e turni dovrebbero avere almeno 2 partecipanti. 
 - 9r+) [SPIEGAZIONE] L’obiettivo del turno di qualificazione è quello di dare possibilità di qualificarsi al primo turno a quei partecipanti senza precedenti risultati o con ranking basso in competizioni con molti partecipanti .
 
 ## <article-10><solved-state><solvedstate> Articolo 10: Condizione di risolto

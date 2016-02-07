@@ -82,24 +82,24 @@ Para ser mais informativo, cada orientação é classificada usando um dos segui
 
 ## <article-6><awards><awards> Artigo 6: Prêmios e Honras
 
-- 6a+) [SEPARADO][ADIÇÃO] Prêmios e honras podem ser dados aos competidores, de acordo com o anunciado na competição.
-- 6b+) [SEPARADO][RECOMENDAÇÃO] Competidores devem estar na cerimônia de premiação para receber seus prêmios e honras.
-- 6b1+) [SEPARADO][RECOMENDAÇÃO] A cerimônia de premiação deve ser feita na área de competição, em até uma hora após o fim do último evento.
-- 6c+) [SEPARADO][RECOMENDAÇÃO] Os ganhadores de prêmios e honras devem estar preparados para conversar com jornalistas ou qualquer outra mídia que esteja cobrindo o evento.
-- 6d+) [SEPARADO][RECOMENDAÇÃO] A equipe de organização da competição deve ter certificados para todos os vencedores de categorias, assinadas pelo  lider da organização e pelo Delegado da WCA.
+- 6a+) [ADIÇÃO] Prêmios e honras podem ser dados aos competidores, de acordo com o anunciado na competição.
+- 6b+) [RECOMENDAÇÃO] Competidores devem estar na cerimônia de premiação para receber seus prêmios e honras.
+- 6b1+) [RECOMENDAÇÃO] A cerimônia de premiação deve ser feita na área de competição, em até uma hora após o fim do último evento.
+- 6c+) [RECOMENDAÇÃO] Os ganhadores de prêmios e honras devem estar preparados para conversar com jornalistas ou qualquer outra mídia que esteja cobrindo o evento.
+- 6d+) [RECOMENDAÇÃO] A equipe de organização da competição deve ter certificados para todos os vencedores de categorias, assinadas pelo  lider da organização e pelo Delegado da WCA.
 
 
 ## <article-7><environment><environment> Artigo 7: Ambiente
 
-- 7d+) [SEPARADO][ADIÇÃO] A temperatura da área de competição deve estar entre 21 e 25 graus Celsius.
-- 7h2+) [SEPARADO][ADIÇÃO] Os competidores na área de competição não devem ser capazes de ver  os quebra-cabeças dos competidores no palco.
+- 7d+) [ADIÇÃO] A temperatura da área de competição deve estar entre 21 e 25 graus Celsius.
+- 7h2+) [ADIÇÃO] Os competidores na área de competição não devem ser capazes de ver  os quebra-cabeças dos competidores no palco.
 
 
 ## <article-8><competitions><competitions> Artigo 8: Campeonatos
 
 - 8a4+) [RECOMENDAÇÃO] Mudanças para aumentar o número máximo de competidores na rodada de qualificação ou primeira rodada, ou para adicionar uma rodada de classificação para os competidores recém-inscritos devem ser feitas em até um mês antes da competição. (veja a [Regra 9r3](regulations:regulation:9r3)).
 - 8a4++) [RECOMENDAÇÃO] O campeonato deve ser anunciado no minimo um mês antes de começar o campeonato.
-- 8a5+) [SEPARADO][RECOMENDAÇÃO] O campeonato deve ter pelo menos 12 competidores.
+- 8a5+) [RECOMENDAÇÃO] O campeonato deve ter pelo menos 12 competidores.
 
 
 ## <article-9><events><events> Artigo 9: Eventos
@@ -107,7 +107,7 @@ Para ser mais informativo, cada orientação é classificada usando um dos segui
 - 9b+) [ADIÇÃO] O formato preferido para a final do evento é "média de 5" ou "média truncada de 3", se possível.
 - 9b++) [ADIÇÃO] Eventos diferentes dos especificados na [Regra 9b](regulations:regulation:9b) podem ser feitos durante a competição, mas serão considerados não-oficiais e não serão incluídos nos resultados oficiais da competição.
 - 9f5+) [ESCLARECIMENTO] O resultado de uma tentativa é "DNS"(Não começado) se o competidor pode fazer a tentativa e prefere não fazê-la. Se o competidor não se classificou para a tentativa (como numa rodada combinada), ele não tem nenhum resultado para a tentativa.
-- 9q+) [SEPARADO][RECOMENDAÇÃO] Eventos e rodadas devem ter pelo menos dois competidores.
+- 9q+) [RECOMENDAÇÃO] Eventos e rodadas devem ter pelo menos dois competidores.
 - 9r+) [EXPLICAÇÃO] O objetivo da rodada de classificação é permitir aos não classificados e aos com baixa classificação se classificarem para a primeira rodada de um evento com muitos competidores.
 
 

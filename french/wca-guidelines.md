@@ -90,24 +90,24 @@ Afin de donner la nature de la recommandation, chacune d'elle est répertoriée 
 
 ## <article-6><awards><awards> Article 6 : Récompenses/Prix/Titres
 
-- 6a+) [SEPARATE][AJOUT] Des récompenses, prix, ou titres peuvent être donnés en fonction de ce qui a été annoncé pour la compétition.
-- 6b+) [SEPARATE][CONSEIL] Les compétiteurs devraient participer à la cérémonie de remise des prix pour recevoir leurs récompenses, prix, ou titres.
-- 6b1+) [SEPARATE][CONSEIL] La cérémonie de remise des prix devrait se dérouler sur le lieu de la compétition, dans l'heure suivant la fin de la dernière épreuve.
-- 6c+) [SEPARATE][CONSEIL] Les gagnants de récompenses, prix, ou titres sont susceptibles d'être interviewés par les médias présents lors de la compétition.
-- 6d+) [SEPARATE][CONSEIL] Les équipes organisatrices devraient fournir des diplômes pour tous les gagnants d'épreuve, cosignés par l'organisateur principal et le Délégué WCA.
+- 6a+) [AJOUT] Des récompenses, prix, ou titres peuvent être donnés en fonction de ce qui a été annoncé pour la compétition.
+- 6b+) [CONSEIL] Les compétiteurs devraient participer à la cérémonie de remise des prix pour recevoir leurs récompenses, prix, ou titres.
+- 6b1+) [CONSEIL] La cérémonie de remise des prix devrait se dérouler sur le lieu de la compétition, dans l'heure suivant la fin de la dernière épreuve.
+- 6c+) [CONSEIL] Les gagnants de récompenses, prix, ou titres sont susceptibles d'être interviewés par les médias présents lors de la compétition.
+- 6d+) [CONSEIL] Les équipes organisatrices devraient fournir des diplômes pour tous les gagnants d'épreuve, cosignés par l'organisateur principal et le Délégué WCA.
 
 
 ## <article-7><environment><environment> Article 7 : Environnement
 
-- 7d+) [SEPARATE][AJOUT] La température de l'espace de compétition devrait être entre 21 et 25 degrés Celcius.
-- 7h2+) [SEPARATE][AJOUT] Les compétiteurs présents dans la zone d'attente ne devraient pas pouvoir regarder les casse-tête des compétiteurs entrain de concourir.
+- 7d+) [AJOUT] La température de l'espace de compétition devrait être entre 21 et 25 degrés Celcius.
+- 7h2+) [AJOUT] Les compétiteurs présents dans la zone d'attente ne devraient pas pouvoir regarder les casse-tête des compétiteurs entrain de concourir.
 
 
 ## <article-8><competitions><competitions> Article 8 : Compétitions
 
 - 8a4+) [CONSEIL] Tout changement visant à augmenter le nombre maximum de compétiteurs participant au premier tour devrait être fait au moins un mois avant le début de la compétition (voir la [règle 9r3](regulations:regulation:9r3)).
 - 8a4++) [CONSEIL] La compétition devrait être annoncée au moins un mois avant le début de la compétition.
-- 8a5+) [SEPARATE][CONSEIL] Au moins 12 compétiteurs devraient participer à la compétition.
+- 8a5+) [CONSEIL] Au moins 12 compétiteurs devraient participer à la compétition.
 - 8a7+) [AJOUT] Les organisateurs devraient sérieusement considérer des modifications pour rendre les chronomètres Stackmat plus robustes aux problèmes courants, comme rendre l'appui accidentel sur les boutons plus difficiles (par exemple en y collant des O-rings) et attacher les piles plus fermement (par exemple en rembourrant le compartiment à pile).
 
 ## <article-9><events><events> Article 9 : Épreuves
@@ -118,7 +118,7 @@ Afin de donner la nature de la recommandation, chacune d'elle est répertoriée 
 - 9f1+) [EXEMPLE] Si le chronomètre affiche 12.678 pour un essai, le temps original est 12.67 (on supprime tout chiffre après les centièmes de seconde). Un juge peut écrire le temps complet sur la feuille de résultat, tant que le teneur de scores le tronque pour les résultats officiels.
 - 9f4+) [EXPLICATION] Le résultat d'un essai est DNF seulement si le compétiteur démarre l'essai en indiquant qu'il est prêt (voir la [règle A3b2](regulations:regulation:A3b2)) mais que l'essai a été disqualifié.
 - 9f5+) [ECLAIRCISSEMENT] Le résultat d'un essai est DNS si le compétiteur pouvait tenter un essai mais ne l'a pas démarré (voir la [règle A3b2](regulations:regulation:A3b2)). Si le compétiteur ne s'est pas qualifié pour un essai (par exemple dans un tour combiné), il n'a pas de résultat pour cet essai.
-- 9q+) [SEPARATE][CONSEIL] Les tours et épreuves devraient avoir au moins 2 compétiteurs.
+- 9q+) [CONSEIL] Les tours et épreuves devraient avoir au moins 2 compétiteurs.
 
 
 ## <article-10><solved-state><solvedstate> Article 10 : État résolu

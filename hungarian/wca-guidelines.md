@@ -86,24 +86,24 @@ A hatékonyabb megértés segítségéül minden útmutatás a következő címk
 
 ## <article-6><awards><awards> 6. Cikk: Díjak/nyeremények/jutalmak
 
-- 6a+) [EGYÉNI] [KIEGÉSZÍTÉS] A versenyzők részesülhetnek díjakban, nyereményekben, jutalmaknak, a verseny meghirdetésének megfelelően.
-- 6b+) [EGYÉNI] [AJÁNLÁS] A versenyzőknek részt kell vennie az eredményhirdetésen, hogy részesülhessenek a díjazásukban.
-- 6b1+) [EGYÉNI] [AJÁNLÁS] Az eredményhirdetést a verseny helyszínén kell tartani, legfeljebb 1 órával az utolsó versenyszám befejezését követően.
-- 6c+) [EGYÉNI] [AJÁNLÁS] A díjazottaknak késznek kell lennie beszélni a versenyen megjelenő médiák képviselőivel.
-- 6d+) [EGYÉNI] [AJÁNLÁS] A szervező csapatnak okleveleket kell biztosítania minden kategória nyerteseinek, a Szervező csapat vezetőjének és a WCA delegált aláírásával.
+- 6a+) [KIEGÉSZÍTÉS] A versenyzők részesülhetnek díjakban, nyereményekben, jutalmaknak, a verseny meghirdetésének megfelelően.
+- 6b+) [AJÁNLÁS] A versenyzőknek részt kell vennie az eredményhirdetésen, hogy részesülhessenek a díjazásukban.
+- 6b1+) [AJÁNLÁS] Az eredményhirdetést a verseny helyszínén kell tartani, legfeljebb 1 órával az utolsó versenyszám befejezését követően.
+- 6c+) [AJÁNLÁS] A díjazottaknak késznek kell lennie beszélni a versenyen megjelenő médiák képviselőivel.
+- 6d+) [AJÁNLÁS] A szervező csapatnak okleveleket kell biztosítania minden kategória nyerteseinek, a Szervező csapat vezetőjének és a WCA delegált aláírásával.
 
 
 ## <article-7><environment><environment> 7. Cikk: Környezet
 
-- 7d+) [EGYÉNI] [KIEGÉSZÍTÉS] A verseny helyszínén a hőmérsékletet 21-25°C között kell tartani.
-- 7h2+) [EGYÉNI] [KIEGÉSZÍTÉS] A várakozó versenyzők számára kijelölt helyen tartózkodó versenyzők nem láthatják az éppen kirakást végrehajtó versenyzők játékait.
+- 7d+) [KIEGÉSZÍTÉS] A verseny helyszínén a hőmérsékletet 21-25°C között kell tartani.
+- 7h2+) [KIEGÉSZÍTÉS] A várakozó versenyzők számára kijelölt helyen tartózkodó versenyzők nem láthatják az éppen kirakást végrehajtó versenyzők játékait.
 
 
 ## <article-8><competitions><competitions> 8. Cikk: Versenyek
 
 - 8a4+) [AJÁNLÁS] A első fordulókban részt vehető versenyzők számának változtatásait legalább 1 hónappal a verseny időpontja előtt végre kell hajtani. (lásd Szabályzat 9r3)
 - 8a4++) [AJÁNLÁS] A versenyt az időpontját megelőzően legalább 1 hónappal meg kell hirdetni.
-- 8a5+) [EGYÉNI] [AJÁNLÁS] A versenyen legalább 12 versenyzőnek indulnia kell.
+- 8a5+) [AJÁNLÁS] A versenyen legalább 12 versenyzőnek indulnia kell.
 - 8a7+) [KIEGÉSZÍTÉS] A szervezőknek erősen ajánlott megfontolniuk olyan módosításokat a Stackmat-eken, amelyekkel a gyakori incidensek elkerülhetőek, mint például, hogy nehezebben lehessen véletlenül megnyomni a gombjait kirakás közben (pl.: körgyűrű elhelyezésével a gombok körül) vagy biztosabban rögzíteni az elemeket (pl.: az elemtartó kipárnázásával).
 
 
@@ -115,7 +115,7 @@ A hatékonyabb megértés segítségéül minden útmutatás a következő címk
 - 9f1+) [PÉLDA] Ha a kijelző 12,678-at mutat, akkor az eredetileg mért időeredmény 12,67. (Minden, a századmásodperc utáni eredményt el kell hagyni.) A bírónak azonban a teljes időeredményt le kell írnia (ezt a pontosságot a büntetések feljegyzése során is meg kell tartani) és mindaddig, amíg az adatrögzítő a hivatalos eredményt rögzíti a pontos időeredményt kell használni.
 - 9f4+) [MAGYARÁZAT] A kirakás eredménye csak akkor számít DNF-nek, ha a versenyző megkezdte a kirakását jelezve a készenlétét (lásd Szabályzat A3b2), de a kirakás befejezésekor a játék nem minősül kirakottnak.
 - 9f5+) [PONTOSÍTÁS] A kirakás eredménye DNS ha a versenyző jogosult a kirakásra, de nem vesz részt benne. (lásd Szabályzat A3b2) Ha a versenyző nem kvalifikálja magát egy fordulóba (pl. kombinált fordulók), nem lehet több eredménye az adott fordulóban.
-- 9q+) [EGYÉNI] [AJÁNLÁS] Minden versenyszámban és fordulóban legalább 2 embernek el kell indulnia.
+- 9q+) [AJÁNLÁS] Minden versenyszámban és fordulóban legalább 2 embernek el kell indulnia.
 
 
 ## <article-10><solved-state><solvedstate> 10. Cikk: Kirakott állapot

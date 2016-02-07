@@ -88,24 +88,24 @@ En pro de la claridad, cada Directriz se clasifica usando una de las siguientes 
 
 ## <article-6><awards><awards> Artículo 6: Galardones/Premios/Distinciones
 
-- 6a+) [SEPARATA][ADICIÓN] Pueden darse galardones, premios o distinciones a los competidores de acuerdo con el anuncio de la competencia.
-- 6b+) [SEPARATA][RECOMENDACIÓN] Los competidores deben asistir a la ceremonia de entrega de premios para recibir galardones/premios/distinciones.
-- 6b1+) [SEPARATA][RECOMENDACIÓN] La ceremonia de entrega de premios debe ser celebrada en la zona de competencia, durante la hora posterior al final del último evento.
-- 6c+) [SEPARATA][RECOMENDACIÓN] Los ganadores de galardones, premios o distinciones deben estar preparados para hablar con periodistas o medios de comunicación que cubran la competencia.
-- 6d+) [SEPARATA][RECOMENDACIÓN] Los equipos organizadores de competencias deben tener certificados para todos los ganadores de categorías, firmados por el líder del equipo organizador y por el Delegado WCA.
+- 6a+) [ADICIÓN] Pueden darse galardones, premios o distinciones a los competidores de acuerdo con el anuncio de la competencia.
+- 6b+) [RECOMENDACIÓN] Los competidores deben asistir a la ceremonia de entrega de premios para recibir galardones/premios/distinciones.
+- 6b1+) [RECOMENDACIÓN] La ceremonia de entrega de premios debe ser celebrada en la zona de competencia, durante la hora posterior al final del último evento.
+- 6c+) [RECOMENDACIÓN] Los ganadores de galardones, premios o distinciones deben estar preparados para hablar con periodistas o medios de comunicación que cubran la competencia.
+- 6d+) [RECOMENDACIÓN] Los equipos organizadores de competencias deben tener certificados para todos los ganadores de categorías, firmados por el líder del equipo organizador y por el Delegado WCA.
 
 
 ## <article-7><environment><environment> Artículo 7: Entorno
 
-- 7d+) [SEPARATA][ADICIÓN] La temperatura de la zona de competencia debe estar entre 21 y 25 grados Celsius.
-- 7h2+) [SEPARATA][ADICIÓN] Los competidores en la zona de competidores no deben ser capaces de ver los puzzles de los competidores en la zona de competencia.
+- 7d+) [ADICIÓN] La temperatura de la zona de competencia debe estar entre 21 y 25 grados Celsius.
+- 7h2+) [ADICIÓN] Los competidores en la zona de competidores no deben ser capaces de ver los puzzles de los competidores en la zona de competencia.
 
 
 ## <article-8><competitions><competitions> Artículo 8: Competencias
 
 - 8a4+) [RECOMENDACIÓN] Los cambios para incrementar el número máximo de competidores en ronda clasificatoria o primera ronda, deben ser hechos al menos un mes antes de la competencia (ver [Regla 9r3](regulations:regulation:9r3)).
 - 8a4++) [RECOMENDACIÓN] La competencia debe ser anunciada al menos un mes antes del comienzo de la misma.
-- 8a5+) [SEPARATA][RECOMENDACIÓN] La competencia debe tener al menos 12 competidores.
+- 8a5+) [RECOMENDACIÓN] La competencia debe tener al menos 12 competidores.
 - 8a7+) [ADICIÓN] Los organizadores deberán considerar seriamente las modificaciones hechas a los cronómetros de Stackmat para robusteserlos contra incidentes comunes, como el hacer que los botones sean más dificil de presionar por accidente (p.ej. poníendoles unos anillos alrededor de los botones) y asegurar la batería de una manera más firme (p.ej. pegar el compartimiento de la batería). 
 
 
@@ -117,7 +117,7 @@ En pro de la claridad, cada Directriz se clasifica usando una de las siguientes 
 - 9f1+) [EJEMPLO] Si el cronómetro muestra el número “12.678” para un intento, el tiempo que se registrará será “12.67” (se quitarán los dígitos extras a la centésima del segundo). Un juez puede escribir el tiempo completo en la hoja de resultados (para calcular con precisión las penalizaciones), siempre y cuando el encargado de digitar los resultados en el ordenador quite los dígitos extra para los resultados oficiales. 
 - 9f4+ [EXPLICACIÓN] El resultado de un intento es DNF sólo si el competidor inició el intento indicando que estaba listo (ver [Regla A3b2](regulations:regulation:a3b2)) pero el intento fue descalificado. 
 -9f5+) [ACLARACIÓN] El resultado de un intento es DNS si el competidor fue llamado a un intento y no lo comenzó siquiera (ver [Regla A3b2](regulationsregulations:a3b2)). Si el competidor no se clasificó para un intento ( p. ej. en una ronda combinada), no tiene ningún resultado para el intento.
-- 9q+) [SEPARATA][RECOMENDACIÓN] Los eventos y rondas deben tener al menos 2 competidores.
+- 9q+) [RECOMENDACIÓN] Los eventos y rondas deben tener al menos 2 competidores.
 
 
 
