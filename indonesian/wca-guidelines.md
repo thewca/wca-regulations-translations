@@ -78,24 +78,24 @@ Agar lebih informatif, tiap pedoman digolongkan menggunakan salah satu dari labe
 
 ## <article-6><awards><awards> Pasal 6: Penghargaan/hadiah/kehormatan
 
-- 6a+) [SEPARATE][ADDITION] Penghargaan, hadiah, atau kehormatan bisa diberikan kepada kompetitor berdasarkan pengumuman kompetisi.
-- 6b+) [SEPARATE][RECOMMENDATION] Kompetitor sebaiknya menghadiri upacara pemenang untuk menerima penghargaan/hadiah/kehormatan.
-- 6b1+) [SEPARATE][RECOMMENDATION] Upacara pemenang sebaiknya diadakan di tempat kompetisi, dalam satu jam setelah akhir event terakhir.
-- 6c+) [SEPARATE][RECOMMENDATION] Pemenang penghargaan, hadiah atau kehormatan sebaiknya bersiap untuk berbicara kepada wartawan atau media apapun yang meliput kompetisi tersebut.
-- 6d+) [SEPARATE][RECOMMENDATION] Tim panitia sebaiknya memiliki sertifikat untuk semua kategori pemenang, ditandatangani oleh ketua tim panitia dan WCA delegate.
+- 6a+) [ADDITION] Penghargaan, hadiah, atau kehormatan bisa diberikan kepada kompetitor berdasarkan pengumuman kompetisi.
+- 6b+) [RECOMMENDATION] Kompetitor sebaiknya menghadiri upacara pemenang untuk menerima penghargaan/hadiah/kehormatan.
+- 6b1+) [RECOMMENDATION] Upacara pemenang sebaiknya diadakan di tempat kompetisi, dalam satu jam setelah akhir event terakhir.
+- 6c+) [RECOMMENDATION] Pemenang penghargaan, hadiah atau kehormatan sebaiknya bersiap untuk berbicara kepada wartawan atau media apapun yang meliput kompetisi tersebut.
+- 6d+) [RECOMMENDATION] Tim panitia sebaiknya memiliki sertifikat untuk semua kategori pemenang, ditandatangani oleh ketua tim panitia dan WCA delegate.
 
 
 ## <article-7><environment><environment> Pasal 7: Lingkungan
 
-- 7d+) [SEPARATE][ADDITION] Suhu di lingkungan kompetisi sebaiknya dari 21 sampai 25 derajat Celsius.
-- 7h2+) [SEPARATE][ADDITION] Kompetitor di area kompetitor sebaiknya tidak dapat melihat puzzle kompetitor di panggung.
+- 7d+) [ADDITION] Suhu di lingkungan kompetisi sebaiknya dari 21 sampai 25 derajat Celsius.
+- 7h2+) [ADDITION] Kompetitor di area kompetitor sebaiknya tidak dapat melihat puzzle kompetitor di panggung.
 
 
 ## <article-8><competitions><competitions> Pasal 8: Kompetisi
 
 - 8a4+) [RECOMMENDATION] Perubahan untuk menambah jumlah maksimum peserta di qualification round dan round pertama, atau untuk menambah qualificaton round untuk peserta yang baru terdaftar di WCA, sebaiknya dibuat setidaknya 1 (satu) bulan sebelum kompetisi dimulai (lihat <Regulation 9r3>).
 - 8a4++) [RECOMMENDATION] Kompetisi sebaiknya diumumkan setidaknya 1 (satu) bulan sebelum kompetisi dimulai.
-- 8a5+) [SEPARATE][RECOMMENDATION] Kompetisi sebaiknya diikuti oleh setidaknya 12 (dua belas) peserta.
+- 8a5+) [RECOMMENDATION] Kompetisi sebaiknya diikuti oleh setidaknya 12 (dua belas) peserta.
 
 
 ## <article-9><events><events> Pasal 9: Events
@@ -103,7 +103,7 @@ Agar lebih informatif, tiap pedoman digolongkan menggunakan salah satu dari labe
 - 9b+) [ADDITION] Format yang lebih didahulukan untuk sebuah event adalah "Average of 5" atau "Mean of 3", jika memungkinkan.
 - 9b++) [ADDITION] Event selain yang disebutkan di <Regulation 9b> dapat dilakukan selama kompetisi berlangsung, tapi dianggap tidak resmi dan tidak diikutsertakan dalam hasil kompetisi.
 - 9f5+) [CLARIFICATION] Hasil dari atempt adalah DNS (Did Not Start) jika peserta tidak mampu dan menolak melakukan attempt. Jika peserta tidak memenuhi syarat untuk sebuah attempt (mis. combined round), peseta tidak punya hasil untuk attempt tersebut).
-- 9q+) [SEPARATE][RECOMMENDATION] Setiap events dan round harus memiliki setidaknya 2 (dua) peserta.
+- 9q+) [RECOMMENDATION] Setiap events dan round harus memiliki setidaknya 2 (dua) peserta.
 - 9r+) [EXPLANATION] Tujuan dari qualification round adalah untuk menyaring peserta yang tidak berperingkat atau berperingkat rendah di dalam kompetisi yang berpeserta banyak.
 
 

@@ -91,24 +91,24 @@ Para ser mais informativo, cada orientação é classificada usando uma das segu
 
 ## <article-6><awards><awards> Artigo 6: Prémios e Honras
 
-- 6a+) [SEPARADO][ADIÇÃO] Prémios e honras podem ser dados aos competidores, de acordo com o anunciado na competição.
-- 6b+) [SEPARADO][RECOMENDAÇÃO] Competidores devem estar na cerimónia de entrega de prémios para receber os seus prémios e honras.
-- 6b1+) [SEPARADO][RECOMENDAÇÃO] A cerimónia de entrega de prémios deve ser feita na área de competição, até uma hora após o fim da última modalidade.
-- 6c+) [SEPARADO][RECOMENDAÇÃO] Os vencedores de prémios e honras devem estar preparados para conversar com jornalistas ou qualquer outro meio de comunicação social que esteja a cobrir a competição.
-- 6d+) [SEPARADO][RECOMENDAÇÃO] A equipa de organização da competição deve ter certificados para todos os vencedores de categorias, assinadas pelo líder da organização e pelo Delegado da WCA.
+- 6a+) [ADIÇÃO] Prémios e honras podem ser dados aos competidores, de acordo com o anunciado na competição.
+- 6b+) [RECOMENDAÇÃO] Competidores devem estar na cerimónia de entrega de prémios para receber os seus prémios e honras.
+- 6b1+) [RECOMENDAÇÃO] A cerimónia de entrega de prémios deve ser feita na área de competição, até uma hora após o fim da última modalidade.
+- 6c+) [RECOMENDAÇÃO] Os vencedores de prémios e honras devem estar preparados para conversar com jornalistas ou qualquer outro meio de comunicação social que esteja a cobrir a competição.
+- 6d+) [RECOMENDAÇÃO] A equipa de organização da competição deve ter certificados para todos os vencedores de categorias, assinadas pelo líder da organização e pelo Delegado da WCA.
 
 
 ## <article-7><environment><environment> Artigo 7: Ambiente
 
-- 7d+) [SEPARADO][ADIÇÃO] A temperatura da área de competição deve estar entre 21 e 25 graus Celsius.
-- 7h2+) [SEPARADO][ADIÇÃO] Os competidores na área de competição não devem ser capazes de ver os quebra-cabeças dos competidores no palco.
+- 7d+) [ADIÇÃO] A temperatura da área de competição deve estar entre 21 e 25 graus Celsius.
+- 7h2+) [ADIÇÃO] Os competidores na área de competição não devem ser capazes de ver os quebra-cabeças dos competidores no palco.
 
 
 ## <article-8><competitions><competitions> Artigo 8: Competição
 
 - 8a4+) [RECOMENDAÇÃO] Mudanças para aumentar o número máximo de competidores na primeira ronda deve ser feita pelo menos um mês antes da competição. (veja a [Regra 9r3](regulations:regulation:9r3)).
 - 8a4++) [RECOMENDAÇÃO] A competição deve ser anunciada no minimo um mês antes desta se iniciar.
-- 8a5+) [SEPARADO][RECOMENDAÇÃO] A competição deve ter pelo menos 12 competidores.
+- 8a5+) [RECOMENDAÇÃO] A competição deve ter pelo menos 12 competidores.
 - 8a7+) [ADIÇÃO] Organizadores devem considerar realizar modificações nos cronómetros SpeedStacks para os tornar mais robustos contra incidentes comuns, como tornar os botões mais difíceis de pressionar por acidente (ex: através da colocação de anéis de proteção em volta dos botões) e protegendo a pilha de forma mais firme (ex: enchumaçando o compartimento da pilha).
 
 
@@ -120,7 +120,7 @@ Para ser mais informativo, cada orientação é classificada usando uma das segu
 - 9f1+) [EXEMPLO] Se o Cronómetro mostrar 12.678 numa tentativa, o tempo registado é 12.67 (arredonda-se por defeito, eliminando o último dígito das centésimas). Um juiz pode escrever o tempo com a precisão total (e manter a precisão no cálculo de penalidades), desde que o anotador de resultados corte o resultado para os resultados oficiais.
 - 9f4+) [EXPLICAÇÃO] O resultado de uma tentativa é DNF só se o competidor começar a tentativa apenas por indicar a sua prontidão (ver [Regra A3b2](regulations:regulation:A3b2)) mas a tentativa foi desqualificada.
 - 9f5+) [ESCLARECIMENTO] O resultado de uma tentativa é "DNS" se o competidor puder fazer a tentativa mas preferir não a fazer. Se o competidor não se classificou para a tentativa (como numa ronda combinada), ele não tem qualquer resultado para a tentativa.
-- 9q+) [SEPARADO][RECOMENDAÇÃO] Modalidades e rondas devem ter pelo menos dois competidores.
+- 9q+) [RECOMENDAÇÃO] Modalidades e rondas devem ter pelo menos dois competidores.
 
 
 ## <article-10><solved-state><solvedstate> Artigo 10: Estado Resolvido
