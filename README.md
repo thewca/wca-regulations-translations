@@ -20,7 +20,7 @@ If you'd like to (re)-translate the Regulations, please use the following proces
 
 > Please note that this translation is not an official version (even though it is provided on the WCA website): it may be useful, but it does not come with any guarantees. If there is a difference between a translation and the (current official) English version, the English version must be used.
 
- - Contact the [WRC](https://www.worldcubeassociation.org/contact/wrc) for adding your translations to the GitHub repository and uploading them to the WCA website. Please send us:
+ - Contact the [WRC](https://www.worldcubeassociation.org/contact) for adding your translations to the GitHub repository and uploading them to the WCA website. Please send us:
     - The translated Regulations and Guidelines.
     - The "latest commit" value your translation is based on.
     - The names of the translators, along with WCA IDs, and (optionally) personal homepages to link from this page.
