@@ -1,6 +1,6 @@
 # <wca-title>Règlement WCA
 
-<version>Version : 1er Juillet 2015
+<version>Version : 18 Avril 2016
 
 
 ## Notes
@@ -123,12 +123,12 @@ Note : les numéros des articles et des règles ne sont pas réassignés lors d'
     - 3a1) Les compétiteurs doivent être présents et prêts à concourir lorsqu'ils sont appelés pour participer à une épreuve (voir : [règle 2u](regulations:regulation:2u)).
     - 3a2) Les casse-tête doivent être complètement fonctionnels, de manière à ce qu'ils soient mélangeables normalement.
     - 3a3) Les casse-tête polyédriques doivent utiliser une configuration de couleur possédant une couleur unique par face dans l'état résolu. Les différentes variations d'un même casse-tête doivent avoir des caractéristiques identiques au casse-tête d'origine (mouvements possibles, états atteignables, résolution).
-- 3d) Les casse-tête doivent avoir des parties colorées, qui doivent faire partie d'une des catégories suivantes : étiquettes colorées, tuiles colorées, plastique coloré, ou couleurs imprimées/peintes. Toutes les parties colorées d'un casse tête doivent être faites de matériau similaire.
+- 3d) Les casse-tête doivent avoir des parties colorées, qui définissent le schéma de couleur du casse-tête, et qui doivent faire partie d'une unique catégorie parmi les suivantes : étiquettes colorées, tuiles colorées, plastique coloré, ou couleurs imprimées/peintes. Toutes les parties colorées d'un casse tête doivent être faites de matériau similaire.
     - 3d1) Exception : les compétiteurs souffrant d'un handicap visuel médicalement documenté peuvent utiliser des casse-tête possédant des textures différentes sur chaque face. Les textures doivent être identiques pour une face donnée. Chaque face devrait avoir une couleur différente afin de faciliter le travail des juges et des mélangeurs.
     - 3d1) Pour les compétiteurs souffrant d'un handicap visual médicalement documenté, les exceptions suivantes s'appliquent :
-        - 3d1a) Les compétiteurs peuvent utiliser des casse-têtes ayant des textures différentes sur chaque face. Chaque face devrait avoir une couleur unique pour faciliter le travail des juges et des mélangeurs.
-        - 3d1b) Les compétiteurs qui ne peuvent différencier certaines couleurs peuvent utiliser des parties colorées avec des motifs, si cela a été approuvés conformément à la [règle 2s](regulations:regulation:2s). Les motifs peuvent être directement sur les étiquettes ou dessinés.
-    - 3d2) Les couleurs des casse-tête doivent être monochromes pour une face donnée. Toutes les couleurs sur le casse-tête doivent être facilement distinguables entre elles.
+        - 3d1a) Les compétiteurs aveugles peuvent utiliser des casse-têtes ayant des textures différentes sur chaque face. Chaque face devrait avoir une couleur unique pour faciliter le travail des juges et des mélangeurs.
+        - 3d1b) Les compétiteurs daltoniens qui ne peuvent différencier certaines couleurs peuvent utiliser des parties colorées avec des motifs, si cela a été approuvés conformément à la [règle 2s](regulations:regulation:2s). Les motifs peuvent être directement sur les étiquettes ou dessinés.
+    - 3d2) Les couleurs des parties colorées doivent être monochromes pour une face donnée. Les couleurs utilisées doivent être facilement distinguables entre elles.
     - 3d3) Si les parties colorées sont des tuiles ou des étiquettes, elles ne doivent pas dépasser 1.5mm d'épaisseur. Exception : les tuiles de Megaminx peuvent être légèrement plus épaisses, à la discrétion du Délégué WCA.
 - 3h) Les modifications qui améliorent le concept basique du casse-tête ne sont pas autorisées. Les casse-tête modifiés sont autorisés seulement si ses modifications ne rendent pas d'informations supplémentaires disponibles (tel que l'emplacement des pièces) par rapport à la version originale du casse-tête.
     - 3h1) Les casse-tête bombés ne sont pas autorisés. Exception : les cubes 7x7x7 bombés sont autorisés.
@@ -162,6 +162,7 @@ Note : les numéros des articles et des règles ne sont pas réassignés lors d'
         - 4b3d) Square-1 : la position aléatoire doit nécessiter au moins 11 mouvements pour être résolue.
         - 4b3e) Cube 5x5x5, Cube 6x6x6, Cube 7x7x7, et Megaminx : un nombre suffisant de mouvements aléatoires peut être utilisé plutôt qu'une position aléatoire, et la position obtenue doit nécessiter au moins 2 mouvements pour être résolue.
         - 4b3f) Pyraminx : la position aléatoire doit nécessiter au moins 6 mouvements pour être résolue.
+    - 4b4) Chaque séquence de mélange devrait être utilisée pendant un intervalle de temps d'au maximum 2 heures. Cet intervalle commence quand la séquence de mélange est appliquée pour la première fois.
     - 4d1) Les casse-tête NxNxN et le Megaminx sont mélangés en commençant avec la face blanche au-dessus (ou la face la plus claire si il n'y en a pas) et la face verte devant (ou la face adjacente la plus sombre s'il n'y en a pas).
     - 4d2) Le Pyraminx est mélangé en commençant avec la face jaune en dessous (ou la face la plus claire si il n'y en a pas) et la face verte devant (ou la face adjacente la plus sombre s'il n'y en a pas).
     - 4d3) Le Square-1 est mélangé en commençant avec la face la plus sombre devant (à choisir parmi les deux orientations de mélange possibles).
@@ -202,7 +203,7 @@ Note : les numéros des articles et des règles ne sont pas réassignés lors d'
         - 7f1b) Tapis : le tapis du Stackmat.
         - 7f1c) Chronomètre : le chronomètre du Stackmat, ou un chronomètre portatif (pour les essais plus longs).
         - 7f1d) Surface : la surface plane sur laquelle le Stackmat est placé. Le tapis est considéré comme faisant partie de la surface. Le chronomètre ne fait pas partie de la surface.
-    - 7f2) Le chronomètre doit être attaché au tapis et placé sur la surface, avec le chronomètre positionné du côté du tapis le plus proche du compétiteur.
+    - 7f2) Le chronomètre du Stackmat doit être attaché au tapis et placé sur la surface, avec le chronomètre positionné du côté du tapis le plus proche du compétiteur.
         - 7f2a) Exceptions : pour la résolution avec les pieds, le Stackmat doit être placé directement sur le sol. Le chronomètre peut être positionné du côté du tapis le plus éloigné du compétiteur.
 - 7h) L'espace de compétition doit avoir une zone d'attente pour les compétiteurs.
     - 7h1) L'équipe d'organisation peut demander que chaque compétiteur appelé pour concourir doive rester dans la zone d'attente pour les compétiteurs jusqu'à la fin de tous ses essais pour le tour en cours.
@@ -216,7 +217,7 @@ Note : les numéros des articles et des règles ne sont pas réassignés lors d'
     - 8a3) Avoir un Délégué WCA désigné par le bureau de la WCA présent durant la compétition.
     - 8a4) Être annoncée sur le site internet de la WCA, au moins deux semaines avant le début de la compétition.
     - 8a6) Être ouverte au public.
-    - 8a7) Utiliser les chronomètres Speed Stacks Stackmat (Génération 2 ou Pro).
+    - 8a7) Utiliser les chronomètres Speed Stacks Stackmat (Génération 2, Génération 3 Pro, Génération 4 Pro).
     - 8a8) Être ouverte à tous ceux qui souhaitent participer. Les restrictions doivent être approuvées par le bureau de la WCA, et clairement affichées quand la compétition est annoncée.
 - 8f) Si le Règlement WCA n'est pas correctement respecté au cours de la compétition, les résultats peuvent être modifiés à la discrétion du bureau de la WCA.
 
@@ -242,9 +243,9 @@ Note : les numéros des articles et des règles ne sont pas réassignés lors d'
     - 9f6) Pour les tours au format "Meilleur des X", chaque compétiteur a droit à X essais. Le meilleur essai est pris en compte pour déterminer le classement du compétiteur pour le tour.
     - 9f7) Pour les tours au format "Meilleur des X", DNF ou DNS est le pire résultat possible.
     - 9f8) Pour les tours au format "Moyenne élaguée des 5", les compétiteurs ont droit à 5 essais. De ces 5 essais, le meilleur et le pire sont ôtés, et la moyenne arithmétique des 3 essais restants est prise en compte pour déterminer le classement du compétiteur pour le tour.
-    - 9f9) Pour les tours au format "Moyenne élaguée des 5", un DNF ou un DNS peut compter comme le pire résultat d'un compétiteur pour le tour. Si un compétiteur a plus d'un résultat DNF ou DNS dans le tour, sa moyenne pour le tour est DNF.
+    - 9f9) Pour les tours au format "Moyenne élaguée des 5", un DNF ou un DNS peut compter comme le pire résultat d'un compétiteur pour le tour. Si un compétiteur a plus d'un résultat DNF ou DNS dans le tour, le résultat de sa moyenne pour le tour est DNF.
     - 9f10) Pour les tours au format "Moyenne des 3", les compétiteurs ont droit à 3 essais. La moyenne arithmétique des 3 essais est prise en compte pour déterminer le classement du compétiteur pour le tour.
-    - 9f11) Pour les tours au format "Moyenne des 3", si le compétiteur a au moins un résultat DNF ou DNS, sa moyenne pour le tour est DNF.
+    - 9f11) Pour les tours au format "Moyenne des 3", si le compétiteur a au moins un résultat DNF ou DNS, le résultat de sa moyenne pour le tour est DNF.
     - 9f12) Pour les tours au format "Meilleur des X", le classement est basé sur le meilleur résultat pour chaque compétiteur. Les résultats sont comparés selon les règles suivantes :
         - 9f12a) Pour les résultats chronométrés, "meilleur" est défini comme un temps plus court.
         - 9f12b) Pour la résolution optimisée, "meilleur" est défini comme une solution plus courte.
@@ -264,9 +265,9 @@ Note : les numéros des articles et des règles ne sont pas réassignés lors d'
 - 9k) Tous les compétiteurs peuvent participer à toutes les épreuves d'une compétition, sauf dans les cas particuliers approuvés par le bureau de la WCA.
 - 9l) Chaque tour doit être terminé avant qu'un autre tour pour la même épreuve ne puisse démarrer.
 - 9m) Les épreuves doivent avoir au plus quatre tours.
-    - 9m1) Les épreuves de 99 compétiteurs ou moins doivent avoir au plus trois tours.
-    - 9m2) Les épreuves de 15 compétiteurs ou moins doivent avoir au plus deux tours.
-    - 9m3) Les épreuves de 7 compétiteurs ou moins doivent avoir au plus un tour.
+    - 9m1) Un tour de 99 compétiteurs ou moins doit être suivi d'au plus deux tours.
+    - 9m2) Un tour de 15 compétiteurs ou moins doit être suivi d'au plus un tour.
+    - 9m3) Un tour de 7 compétiteurs ou moins doit être le dernier tour de l'épreuve.
 - 9o) Les tours combinés comptent pour un tour quand on dénombre les tours pour chaque épreuve.
 - 9p) Si une épreuve a plusieurs tours, alors :
     - 9p1) Au moins 25% des compétiteurs doivent être éliminés entre deux tours consécutifs d'une même épreuve.
@@ -305,7 +306,7 @@ Note : les numéros des articles et des règles ne sont pas réassignés lors d'
 - 11e) Si un incident se produit au cours d'un essai, le Délégué WCA peut accorder à un compétiteur un essai supplémentaire remplaçant l'essai au cours duquel l'incident a eu lieu. Le compétiteur doit faire sa demande oralement ou par écrit au juge et au Délégué WCA, au moment de l'incident et avant de terminer son essai, afin de pouvoir se voir accorder un essai supplémentaire. Effectuer une demande ne garantie pas que celle-ci aboutira à un essai
   supplémentaire.
     - 11e1) Si un compétiteur se voit accorder un essai supplémentaire, celui-ci doit être réalisé à partir d'une séquence de mélange différente de l'originale. Cette séquence doit être générée à partir de la version officielle du mélangeur officiel de la WCA (voir la [règle 4f](regulations:regulation:4f)).
-    - 11e2) Si un compétiteur reçoit un essai supplémentaire, les essais normaux devraient être effectués d'abord, et les essais supplémentaires devraient être effectués ensuite. Les résultats des essais supplémentaires devrait remplacer les essais normaux qui les ont provoqués, par ordre croissant.
+    - 11e2) Si un compétiteur reçoit un essai supplémentaire, cet essai supplémentaire devrait être effectué directement après l'essai qui l'a causé, et doit remplacer l'essai original qui l'a causé.
     - 11e3) S'il n'est pas certain qu'un incident devrait donner lieu à un essai supplémentaire, le compétiteur peut se voir attribuer un essai supplémentaire provisoire, qui ne sera utilisé que s'il se trouve que l'essai supplémentaire était approprié (par exemple par décision du Bureau de la WCA).
 - 11f) Les décisions à propos d'un incident peuvent être justifiées à l'aide d'une analyse photo ou vidéo, à la discrétion du Délégué WCA.
 
@@ -359,7 +360,7 @@ Note : les numéros des articles et des règles ne sont pas réassignés lors d'
 - A1) Les essais pour les épreuves de résolution rapide doivent respecter les procédures suivantes :
     - A1a) L'équipe organisatrice doit imposer des limites de temps pour les résolutions et/ou les tours.
         - A1a1) La limite de temps par défaut pour une résolution est de 10 minutes, bien que l'équipe organisatrice puisse imposer une limite de temps plus grande ou plus petite.
-        - A1a2) Des limites de temps cumulatives peuvent être imposées (par exemple 3 essais dans une limite de temps de 20 minutes). Le temps passé à obtenir un résultat DNF compte dans la limite de temps cumulative.
+        - A1a2) Des limites de temps cumulatives peuvent être imposées (par exemple 3 résolutions dans une limite de temps de 20 minutes). Le temps passé à obtenir un résultat DNF compte dans la limite de temps cumulative.
         - A1a3) Pour chaque tour, toute limite de temps doit être annoncée avant que ce tour ne démarre, et de devrait pas être modifiée après qu'il ait démarré. Les changements doivent être effectués à la discrétion du Délégué WCA, qui doit être particulièrement attentif à l'équité du changement.
         - A1a4) Le compétiteur doit finir chaque résolution avant la fin de la limite de temps. Si un compétiteur atteint la limite de temps pour une résolution ou un tour, le juge arrête l'essai immédiatement et note le résultat comme étant DNF. Exception : résolution multiple à l'aveugle (voir la [règle H1b1](regulations:regulation:H1b1)).
         - A1a5) Une résolution passe la limite de temps si et seulement si le résultat final, après application des éventuelles pénalités, est inférieur à la limite de temps. Exception : résolution multiple à l'aveugle (voir la [règle H1b1](regulations:regulation:H1b1)).
@@ -374,7 +375,7 @@ Note : les numéros des articles et des règles ne sont pas réassignés lors d'
     - A2c) Après que le mélangeur a commencé à mélanger le casse-tête, le compétiteur ne doit pas voir le casse-tête jusqu'à ce que la phase d'inspection démarre.
         - A2c1) Le mélangeur place un cache sur le casse-tête mélangé, de manière à ce qu'il doit impossible pour un compétiteur ou un spectateur de voir une partie du casse-tête. Le cache doit rester sur le casse-tête jusqu'au début de l'essai.
     - A2d) En prenant le casse-tête de la table des mélanges, le juge observe brièvement le casse-tête pour une vérification du mélange. En cas de doute, le juge fait intervenir le mélangeur pour vérification stricte.
-        - A2d1) L'équipe d'organisation peut demander aux mélangeurs de prendre des précautions supplémentaires pour vérifier qu'ils ont effectués les mélanges correctement (par exemple en signant la feuille de score pour confirmer qu'ils ont effectué le bon mélange et vérifié qu'il correspondait à l'image, ou en utilisant une personne supplémentaire pour vérifier les mélanges).
+        - A2d1) L'équipe d'organisation peut demander aux mélangeurs de prendre des précautions supplémentaires pour vérifier qu'ils ont appliqué les séquences de mélange correctement (par exemple en signant la feuille de score pour confirmer qu'ils ont appliqué la bonne séquence de mélange et vérifié qu'il correspondait à l'image, ou en utilisant une personne supplémentaire pour vérifier les mélanges).
     - A2e) Le juge place le casse-tête sur le tapis dans une position arbitraire en s'assurant qu'il reste recouvert.
         - A2e1) Le compétiteur n'est pas autorisé à demander une orientation particulière, et le juge ne doit pas influencer l'orientation avec laquelle il pose le casse-tête sur le tapis.
 - A3) Inspection :
@@ -387,9 +388,8 @@ Note : les numéros des articles et des règles ne sont pas réassignés lors d'
         - A3c1) Le compétiteur ne doit pas exécuter de mouvement pendant l'inspection. Pénalité : disqualification de l'essai (DNF).
         - A3c2) Si des parties du casse-tête ne sont pas parfaitement alignées, le compétiteur peut aligner les faces, tant que ces désalignements restent dans les limites définies par la [règle 10f](regulations:regulation:10f).
         - A3c3) Le compétiteur peut remettre à zéro le chronomètre avant de démarrer la résolution.
-        - A3c4) Pour le Square-1, si l'équipe d'organisation impose l'utilisation d'un objet fin (voir la [règle A2b1](regulations:regulation:A2b1)), le compétiteur doit retirer cet objet pendant l'inspection.
-    - A3d) À la fin de l'inspection, le compétiteur place le casse-tête sur le tapis, dans l'orientation de son choix.
-        - A3d1) Le casse-tête ne doit pas reposer sur le chronomètre. Pénalité : pénalité de temps (+2 secondes).
+        - A3c4) Pour le Square-1, si l'équipe d'organisation impose l'utilisation d'un objet fin (voir la [règle A2b1](regulations:regulation:A2b1)), le compétiteur peut retirer cet objet pendant l'inspection.
+    - A3d) À la fin de l'inspection, le compétiteur place le casse-tête sur le tapis, dans l'orientation de son choix. Pénalité si le casse-tête n'est pas placé sur le tapis : pénalité de temps (+2 secondes).
         - A3d2) Lorsque le temps d'inspection atteint 8 secondes, le juge annonce "8 secondes".
         - A3d3) Lorsque le temps d'inspection atteint 12 secondes, le juge annonce "12 secondes".
 - A4) Début de la résolution :
@@ -457,8 +457,8 @@ Note : les numéros des articles et des règles ne sont pas réassignés lors d'
     - B4d) Le compétiteur ne doit regarder le casse-tête à aucun moment de la phase de résolution à l'aveugle. Pénalité : disqualification de l'essai (DNF).
     - B4e) Le compétiteur peut retirer le bandeau pour repasser à la phase de mémorisation jusqu'à l'application du premier mouvement sur le casse-tête.
 - B5) Fin de la résolution :
-    - B5a) En utilisant le Stackmat Timer, le compétiteur termine son essai en relâchant le casse-tête puis en arrêtant le chronomètre.
-    - B5b) En utilisant un chronomètre portatif, le compétiteur termine son essai en reposant le casse-tête sur la surface tout en notifiant au juge que l'essai est terminé. Le juge stoppe alors le chronomètre.
+    - B5a) En utilisant le Stackmat Timer, le compétiteur termine sa résolution en relâchant le casse-tête puis en arrêtant le chronomètre.
+    - B5b) En utilisant un chronomètre portatif, le compétiteur termine sa résolution en reposant le casse-tête sur la surface tout en notifiant au juge que la résolution est terminée. Le juge stoppe alors le chronomètre.
     - B5c) Le compétiteur peut retirer son bandeau avant l'arrêt du chronomètre, à condition de ne pas toucher le casse-tête. Il ne doit pas non plus toucher le casse-tête avant la fin de l'essai. Pénalité : disqualification de l'essai.
 
 
@@ -492,12 +492,12 @@ Note : les numéros des articles et des règles ne sont pas réassignés lors d'
     - E2c) Au bout de 60 minutes, chaque compétiteur doit donner au juge sa solution clairement écrite avec son nom, en utilisant la notation "Outer Block Turn Metric" (décrite dans la [règle 12a](regulations:regulation:12a)). Pénalité : disqualification de la résolution (DNF).
     - E2d) La métrique OBTM est utilisée pour évaluer la longueur de la solution (voir : [règle 12a](regulations:regulation:12a)).
         - E2d1) La longueur maximale autorisée d'une solution est de 80 (mouvements et rotations inclus).
-    - E2e) La solution du compétiteur ne doit en aucun cas être en relation avec la séquence de mélange. Pénalité : disqualification de la résolution (DNF).
+    - E2e) La solution du compétiteur ne doit en aucun cas être obtenue à partir d'une quelconque partie de la séquence de mélange. Pénalité : disqualification de la résolution (DNF), à la discrétion du Délégué WCA.
         - E2e1) Le Délégué WCA peut demander au compétiteur d'expliquer chaque mouvement de sa solution, peu importe la séquence de mélange. Si le compétiteur ne peut pas fournir une explication correcte, la résolution est disqualifiée (DNF).
 - E3) Le compétiteur peut utiliser le matériel ci-après au cours de sa résolution. Pénalité pour utilisation de matériel non autorisé : disqualification de la résolution (DNF).
     - E3a) Papier et crayons (fournis par le juge).
     - E3b) Rubik's Cubes (au plus 3, non fournis), tels que décrit dans l'[Article 3](regulations:article:3).
-    - E3c) Étiquettes de couleur (non fournies).
+    - E3c) Étiquettes (non fournies).
     - E3d) Chronomètre ou montre (non fournis) pour connaître le temps écoulé, si c'est approuvé par le Délégué WCA.
 
 
@@ -505,7 +505,8 @@ Note : les numéros des articles et des règles ne sont pas réassignés lors d'
 
 - F1) Les procédures standards s'appliquent comme décrites dans l'[Article A](regulations:article:A) (Résolution rapide). Les règles supplémentaires qui remplacent les procédures correspondantes dans l'[Article A](regulations:article:A) sont décrites ci-après.
 - F2) Le juge place le casse-tête mélangé sur la surface en position verticale.
-- F3) À la fin de la phase d'inspection, le compétiteur place le casse-tête sur la surface en position verticale. Il ne doit pas changer la position des boutons avant le début de la résolution. Pénalité : disqualification de l'essai (DNF).
+- F3) À la fin de la phase d'inspection, le compétiteur place le casse-tête sur la surface en position verticale.
+    - F3a) Le compétiteur ne doit pas changer la position des boutons avant le début de la résolution. Pénalité : disqualification de l'essai (DNF).
 
 
 ## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Article H : Résolution multiple à l'aveugle
@@ -528,6 +529,6 @@ Le Bureau de la WCA doit approuver l'application des règles optionnelles dans u
 - Z1) L'équipe organisatrice peut demander aux compétiteurs de fournir leurs casse-tête au moment de l'inscription.
 - Z2) L'équipe organisatrice peut limiter le nombre d'épreuves par compétiteur.
 - Z3) L'équipe organisatrice peut sélectionner les compétiteurs qualifiés d'office pour certains tours de certaines épreuves, sur la base des résultats de compétitions précédantes données.
-- Z4) L'équipe organisatrice peut limiter le nombre de compétiteurs par épreuve, en se basant soit sur une politique du "premier arrivé, premier servi", ou sur les temps de qualification, ou sur la position dans le classement mondial de la WCA à une date annoncée avant la compétition.
+- Z4) L'équipe organisatrice peut limiter le nombre de compétiteurs par épreuve ou par compétition, en se basant soit sur une politique du "premier arrivé, premier servi", ou sur les temps de qualification, ou sur la position dans le classement mondial de la WCA à une date annoncée avant la compétition.
 - Z5) L'équipe organisatrice peut contraindre les compétiteurs à ne pas concourir pour certaines combinaisons d'épreuves.
 
