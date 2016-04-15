@@ -28,7 +28,7 @@ Le développement des traductions est public [sur GitHub](https://github.com/cub
 La traduction française est maintenue dans [ce dépôt](https://github.com/speedcubingfrance/wca-regulations-translations).
 
 ### Contact
-Pour les questions et retours, merci de contacter le [WCA Regulations Committee (WRC)](https://www.worldcubeassociation.org/contact/wrc).    
+Pour les questions et retours, merci de contacter le [WCA Regulations Committee (WRC)](mailto:wrc@worldcubeassociation.org).    
 Pour les questions et retours sur la traduction, merci de contacter [Philippe Virouleau](mailto:philippe.44@gmail.com).
 
 
