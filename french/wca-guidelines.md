@@ -1,6 +1,6 @@
 # <wca-title>Recommandations WCA
 
-<version>Version : 1er Juillet 2015
+<version>Version : 18 Avril 2016
 
 
 ## Notes
@@ -40,6 +40,7 @@ Afin de donner la nature de la recommandation, chacune d'elle est répertoriée 
 - 1h+) [CONSEIL] Les compétiteurs d'un seul et même groupe devraient résoudre les mêmes séquences de mélange. Des groupes différents devraient utiliser des séquences de mélange différentes.
 - 1h++) [CONSEIL] Tous les essais d'un tour final d'une épreuve, ainsi que tous les essais de résolution optimisée, devraient avoir les mêmes mélanges pour tous les compétiteurs (c'est-à-dire un seul groupe).
 - 1h1+) [ECLAIRCISSEMENT] Les juges/mélangeurs ne devraient juger/mélanger pour d'autres compétiteurs du même groupe que si c'est important pour l'organisation de la compétition.
+- 1h1++) [ECLAIRCISSEMENT] Pour l'épreuve de résolution optimisée, les juges peuvent juger des compétiteurs dans leur propre groupe avant qu'eux même ait fini leur essai (c'est-à-dire pendant qu'il participe).
 
 
 ## <article-2><competitors><competitors> Article 2 : Compétiteurs
@@ -65,6 +66,7 @@ Afin de donner la nature de la recommandation, chacune d'elle est répertoriée 
 - 3h2+) [ECLAIRCISSEMENT] Par le passé, les casse-têtes dont les parties colorées étaient visibles de l'intérieur ("stickerless") étaient interdits. Ils sont maintenant autorisés.
 - 3h2++) [ECLAIRCISSEMENT] Les casse-têtes "stickerless" qui diffèrent clairement des "stickerless" produits en masse ne sont autorisés qu'à la discrétion du Délégué WCA.
 - 3j+) [RAPPEL] Avant certaines pièces gravées ou en relief étaient autorisées. Ce n'est plus le cas.
+- 3j++) [ECLAIRCISSEMENT] Pour le Clock, les boutons ne doivent pas être identifiables entre eux sur un même côté.
 - 3j2+) [ECLAIRCISSEMENT] Pour le Clock, les dix-huit horloges internes sont considérées comme des pièces similaires.
 - 3l+) [AJOUT] Les logos peuvent présenter un design original dans la mesure où celui-ci ne lui donne pas un avantage (par exemple en dissimulant des informations qui pourraient être utilisées pour tricher), et le logo doit permettre de reconnaître facilement la partie colorée. Les logos non conventionnels ne sont autorisés qu'à la discrétion du Délégué WCA.
 
@@ -73,8 +75,9 @@ Afin de donner la nature de la recommandation, chacune d'elle est répertoriée 
 
 - 4b1+) [RAPPEL] Le Délégué WCA ne doit jamais regénérer de mélange dans le but de filtrer un mélange déjà existant. Par exemple, ce n'est pas autorisé de jeter un oeil aux mélanges d'une compétition et de générer un nouvel ensemble de mélanges pour qu'ils soient plus "équitables".
 - 4b2+) [ECLAIRCISSEMENT] En général, tous les mélanges officiels devraient être tenus secret pendant la compétition et diffusés, ensemble, après la fin de la compétition (voir la [règle 1c3a](regulations:regulation:1c3a)). Dans certains cas (comme les records du monde), l'équipe organisatrice peut souhaiter diffuser certains mélanges après la fin du tour.
-- 4b4+) [AJOUT] Il est autorisé de changer l'orientation d'un casse-tête entre la table des mélanges et celles des résolutions, tant que personne n'essaie de modifier le caractère aléatoire de l'orientation (voir la [règle A2e1](regulations:regulation:A2e1)).
+- 4b4+) [ECLAIRCISSEMENT] Tous les essais qui ont été démarrés dans cet intervalle de temps suivent la procédure habituelle (c'est-à-dire qu'ils ne sont pas arrêté quand l'intervalle de temps d'utilisation du mélange correspondant arrive à sa fin).
 - 4d+) [ECLAIRCISSEMENT] Certains casse-tête utilisent des schémas de couleurs standard, hormis le blanc qui est remplacé par du noir. Dans ce cas, la couleur la plus sombre est le noir et ne doit pas être considérée comme du blanc.
+- 4d++) [AJOUT] Il est autorisé de changer l'orientation d'un casse-tête entre la table des mélanges et celles des résolutions, tant que personne n'essaie de modifier le caractère aléatoire de l'orientation (voir la [règle A2e1](regulations:regulation:A2e1)).
 - 4f+) [CONSEIL] Le Délégué WCA devrait générer un nombre suffisant de mélanges pour la totalité de la compétition, avec également des mélanges pour les essais supplémentaires.
 - 4f++) [RAPPEL] Si le Délégué WCA génère des mélanges supplémentaires au cours de la compétition, ces mélanges doivent être sauvegardés (voir la [règle 1c3a](regulations:regulation:1c3a)).
 
@@ -100,12 +103,12 @@ Afin de donner la nature de la recommandation, chacune d'elle est répertoriée 
 ## <article-7><environment><environment> Article 7 : Environnement
 
 - 7d+) [AJOUT] La température de l'espace de compétition devrait être entre 21 et 25 degrés Celcius.
+- 7f1a+) [ECLAIRCISSEMENT] Le tapis devrait mesurer au moins 30cm (gauche-droite) sur 25cm (avant-arrière).
 - 7h2+) [AJOUT] Les compétiteurs présents dans la zone d'attente ne devraient pas pouvoir regarder les casse-tête des compétiteurs entrain de concourir.
 
 
 ## <article-8><competitions><competitions> Article 8 : Compétitions
 
-- 8a4+) [CONSEIL] Tout changement visant à augmenter le nombre maximum de compétiteurs participant au premier tour devrait être fait au moins un mois avant le début de la compétition (voir la [règle 9r3](regulations:regulation:9r3)).
 - 8a4++) [CONSEIL] La compétition devrait être annoncée au moins un mois avant le début de la compétition.
 - 8a5+) [CONSEIL] Au moins 12 compétiteurs devraient participer à la compétition.
 - 8a7+) [AJOUT] Les organisateurs devraient sérieusement considérer des modifications pour rendre les chronomètres Stackmat plus robustes aux problèmes courants, comme rendre l'appui accidentel sur les boutons plus difficiles (par exemple en y collant des O-rings) et attacher les piles plus fermement (par exemple en rembourrant le compartiment à pile).
@@ -130,11 +133,11 @@ Afin de donner la nature de la recommandation, chacune d'elle est répertoriée 
 
 - 11e+) [ECLAIRCISSEMENT] Comme la demande n'est pas forcément acceptée, le compétiteur peut choisir de ne pas arrêter le chronomètre pendant la demande, et reprendre la résolution quand il le souhaite.
 - 11e1+) [RAPPEL] L'essai supplémentaire doit être mélangé avec une séquence de mélange non modifiée, générée par un programme mélangeur officiel (voir la [règle 4f](regulations:regulation:4f), et la [recommandation 4f+](guidelines:guideline:4f+)).
-- 11e2+) [AJOUT] Si un essai supplémentaire donne lieu à un autre essai supplémentaire, le compétiteur devrait continuer à résoudre des essais supplémentaires jusqu'à pouvoir remplacer tous les essais normaux ayant donné lieu à un essai supplémentaire. Les essais supplémentaires valides remplacent les essais normaux correspondant, par ordre croissant.
-+- 11e2++) [EXEMPLE] Supposons qu'un compétiteur a 5 essais normaux numérotés de 1 à 5, et que les essais 2 et 4 donnent lieu à des essais supplémentaires. Après avoir fini le 5ème essais normal, le compétiteur continue avec ses essais supplémentaires jusqu'à ce qu'il y ait 2 essais supplémentaires valides. Le premier des deux remplace l'essai 2, et l'autre remplace l'essai 4.
+- 11e2+) [AJOUT] Si un essai supplémentaire donne lieu à un autre essai supplémentaire, le compétiteur devrait continuer à résoudre des essais supplémentaires jusqu'à ce qu'il y ait un essai valide pour remplacer l'essai original.
++- 11e2++) [EXEMPLE] Supposons qu'un compétiteur a 5 essais normaux numérotés de 1 à 5, et que l'essai 2 donne lieu à un essai supplémentaires. Le compétiteur devrait faire des essais supplémentaires jusqu'à ce qu'il y ait un essai valide pour remplacer l'essai 2. Si plus tard un autre essai donne également lieu à un essai supplémentaire, le compétiteur devrait procéder de la même manière que pour l'essai 2.
 
 
-## <article-12><incidents><incidents> Article 12 : Notation
+## <article-12><notation><notation> Article 12 : Notation
 
 - 12c2+) [AJOUT] Lors du dénombrement des mouvements dans le cas d'un désalignement à la fin d'une résolution, x et y sont étudiés séparément. Exemple : (5, 1) n'a qu'un seul désalignement, (5, 5) en a deux.
 
@@ -142,12 +145,16 @@ Afin de donner la nature de la recommandation, chacune d'elle est répertoriée 
 ## <article-A><speedsolving><speedsolving> Article A : Résolution rapide
 
 - A1a2+) [AJOUT] Dans le cas d'une limite de temps cumulative, le juge inscrit le temps original entre parenthèse en plus du DNF sur la feuille de résultats, par exemple "DNF (1:02,27)".
+- A1a2++) [ECLAIRCISSEMENT] Des limites de temps cumulatives peuvent être imposées pour une seule épreuve ou un ensemble d'épreuves.
+- A1a2+++) [ECLAIRCISSEMENT] Dans le cas d'une limite de temps cumulative, une fois qu'un compétiteur a atteint cette limite, le résultat de chaque essai restant est DNS.
 - A1a3+) [RAPPEL] L'équipe organisatrice et le Délégué WCA doivent être conscients que les limites de temps ont un impact sur la stratégie des compétiteurs (par exemple prendre des risques dans les deux premiers essais pour espérer passer la limite de temps d'un tour combiné), et que les modifier après le début d'un tour peut désavantager inéquitablement certains compétiteurs.
 - A1a4+) [RAPPEL] Si par accident un compétiteur a été autorisé à dépasser la limite de temps, celle-ci doit être appliquée rétroactivement, et le juge, le compétiteur, et le Délégué WCA doivent être informés (voir la [règle 1g2](regulations:regulation:1g2)). Les juges doivent toujours connaître la limite de temps pour l'essai en cours (qui peut déprendre des essais précédents, dans le cas d'une limite de temps cumulative).
 - A1c+) [ECLAIRCISSEMENT] Les Délégués WCA ne devraient intervenir que pour empêcher un compétiteur de nuire au déroulement de la compétition (par exemple perdre du temps et/ou gâcher les ressources de la compétition). Les compétiteur ne devraient pas être disqualifiés pour un "mauvais" résultat quand ils participent au meilleur de leur capacités.
 - A2c1+) [RAPPEL] Avant les feuilles de résultats pouvaient être utilisées pour cacher le casse-tête, laissant certaines faces visibles. Ce n'est plus le cas.
 - A3c3+) [ECLAIRCISSEMENT] Le compétiteur peut remettre à zéro le chronomètre avant ou pendant la phase d'inspection si le juge a accidentellement oublié de le faire. Néanmoins, c'est la responsabilité du juge de s'assurer que le chronomètre a été remis à zéro (voir la [règle A3b](regulations:regulation:A3b)). Si le compétiteur démarre accidentellement sa résolution avec un chronomètre qui n'a pas été remis à zéro (c'est à dire qu'il inspecte, pose ses mains sur le chronomètre normalement, suppose qu'il va démarrer normalement et commence à manipuler son casse-tête), alors l'essai devrait être remplacé par un essai supplémentaire, à la discrétion du Délégué WCA.
 - A3c4+) [ECLAIRCISSEMENT] Si l'utilisation d'un objet fin à l'intérieur du casse-tête a été imposée, le juge ne doit pas retirer cet objet à la place du compétiteur.
+- A3c4++) [ECLAIRCISSEMENT] Le compétiteur peut retirer l'objet pendant la résolution, s'il ne l'a pas fait pendant l'inspection (par exemple s'il a oublié).
+- A5b+) [ECLAIRCISSEMENT] Pendant l'inspection ou la résolution, le compétiteur peut toucher le casse-tête avec n'importe quelle partie de son corp. Exception : résolution à une main, résolution avec les pieds (voir : [Règle D1b](regulations:regulation:D1b)).
 - A6b+) [EXPLICATION] La valeur, arbitraire, de 0,06 secondes a été choisie pour palier aux problèmes de dysfonctionnement du chronomètre Stackmat.
 - A6f+) [ECLAIRCISSEMENT] Si le compétiteur remet à zéro le chronomètre avant que le temps ait été complètement noté, le juge ne doit pas écrire le temps qu'il a mémorisé ou vu sur une vidéo, et doit disqualifier l'essai.
 - A6g+) [AJOUT] Quand le juge détermine s'il doit appliquer une pénalité de désalignement, il ne devrait pas toucher le puzzle.
@@ -181,6 +188,8 @@ Afin de donner la nature de la recommandation, chacune d'elle est répertoriée 
 - E2b+) [ECLAIRCISSEMENT] Un compétiteur peut choisir d'arrêter son essai plus tôt en rendant une solution avant la fin de la limite de temps.
 - E2c+) [ECLAIRCISSEMENT] Bien que le juge puisse fournir une feuille de score standard pour soumettre sa solution, le compétiteur peut soumettre une solution sur une autre feuille, tant qu'une seule séquence de mouvements est clairement indiquée comme la solution soumise. (Note : la feuille doit être fournie par le juge d'après la [règle E3a](regulations:regulation:E3a).)
 - E2c++) [ECLAIRCISSEMENT] La solution du compétiteur doit utiliser uniquement des mouvements décrits par la [règle 12a](regulations:regulation:12a). Voici des exemples de mouvements interdits en compétition : [F], [R, U], [R: U], R'2, L'w, f, M, U2'.
+- E2e+) [ECLAIRCISSEMENT] Les compétiteurs ne doivent pas obtenir leur solutions depuis n'importe quelle partie de la séquence de mélange, et les solutions ne devraient pas avoir un nombre significatif de mouvements correspondant à l'inverse de la séquence de mélange.
+- E2e++) [EXEMPLE] Exemple de solutions qui devraient entraîner la disqualification de l'essai (DNF) : les solutions qui commencent avec 4 mouvements ou plus qui correspondent à l'inverse de la séquence de mélange.
 - E3b+) [RAPPEL] "Rubik's Cube" ne fait référence qu'au casse-tête 3x3x3 standard.
 - E3d+) [ECLAIRCISSEMENT] Tout chronomètre ou montre utilisé par un compétiteur ne doit pas avoir de fonction qui aiderait le compétiteur à trouver une solution.
 - E3d++) [ECLAIRCISSEMENT] Les compétiteurs ne devraient pas considérer leur chronomètre ou montre personnel comme le temps officiel, et doivent soumettre leur solution juste après que le juge signale la fin de l'essai.
