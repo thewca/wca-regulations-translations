@@ -12,7 +12,7 @@ The following people helped with the translation or by giving valuable feedback:
 * [Kotaro Terada (寺田晃太朗)](https://www.worldcubeassociation.org/results/p.php?i=2010TERA01) (contributed in 2016, 2015, 2013, and 2010)
 * [Kentaro Nishi (西賢太郎)](https://www.worldcubeassociation.org/results/p.php?i=2006NISH01) (contributed in 2016, 2015, and 2010)
 * [Sinpei Araki (荒木慎平)](https://www.worldcubeassociation.org/results/p.php?i=2006ARAK01) (contributed in 2016)
-* [Akihiro Ishida (石田朗大)](https://www.worldcubeassociation.org/results/p.php?i=2009ISHI01) (contributed in 2015)
+* [Akihiro Ishida (石田朗大)](https://www.worldcubeassociation.org/results/p.php?i=2009ISHI01) (contributed in 2016 and 2015)
 * [Yohei Suzuki (鈴木洋平)](https://www.worldcubeassociation.org/results/p.php?i=2006SUZU03) (contributed in 2015)
 * [Shuto Ueno (上野柊斗)](https://www.worldcubeassociation.org/results/p.php?i=2008UENO01) (contributed in 2013)
 * [Shun Sakurai (櫻井駿)](https://www.worldcubeassociation.org/results/p.php?i=2010SAKU01) (contributed in 2013 and 2010)
