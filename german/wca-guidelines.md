@@ -37,7 +37,7 @@ Jede Richtlinie ist einer der folgenden Kategorien zugeordnet. Diese Beschriftun
 - 1c4+) [Empfehlung] Korrekturen der Resultate sollten binnen einer Woche nach dem Turnier gemacht werden.
 - 1c10+) [Erklärung] Es genügt, Zugang zu einer digitalen Kopie des Regelwerks zur Verfügung zu stellen.
 - 1h+) [Empfehlung] Teilnehmer in derselben Gruppe sollten die gleichen Scrambles verwenden, und verschiedene Gruppen sollten verschiedene Scrambles verwenden.
-- 1h++) [Empfehlung] Alle Versuche in der Finalrunde einer Kategorie sollten, ebenso wie alle Versuche in Fewest Moves, die gleichen Scrambles für alle Teilnehmer nutzn (d.h. nur aus einer Gruppe bestehen).
+- 1h++) [Empfehlung] Alle Versuche in der Finalrunde einer Kategorie sollten, ebenso wie alle Versuche in Fewest Moves, die gleichen Scrambles für alle Teilnehmer nutzen (d.h. nur aus einer Gruppe bestehen).
 - 1h1+) [Erklärung] Scrambler/Judges sollten nur in ihrer eigenen Gruppe scramblen oder judgen, wenn es für den Ablauf des Turniers notwendig ist.
 - 1h1++) [Erklärung] Bei Fewest Moves dürfen Judges Teilnehmer in ihrer eigenen Gruppen judgen, bevor sie ihren Versuch beendet haben (d.h. während sie teilnehmen).
 
@@ -127,7 +127,7 @@ Jede Richtlinie ist einer der folgenden Kategorien zugeordnet. Diese Beschriftun
 ## <article-10><solved-state><solvedstate> Abschnitt 10: Gelöster Zustand
 
 - 10f+) [Erklärung] Die Grenzen für die fehlerhafte Ausrichtung ("Misalignment") sind derart ausgewählt, dass sie eine natürliche Grenze zwischen einem Zustand eines Puzzles (ohne Zeitstrafe) und einem Zustand, der eine Drehung entfernt ist, ziehen.
-- 10h1) [Zusatz] Der gelöste Zustand von Clock wird nicht durch gelöste oder herausgefallene Pin Kappen beeinflusst.
+- 10h1+) [Zusatz] Der gelöste Zustand von Clock wird nicht durch gelöste oder herausgefallene Pin Kappen beeinflusst.
 
 
 ## <article-11><incidents><incidents> Abschnitt 11: Zwischenfälle
@@ -135,7 +135,7 @@ Jede Richtlinie ist einer der folgenden Kategorien zugeordnet. Diese Beschriftun
 - 11e+) [Erklärung] Da eine Beschwerde nicht garantiert erfolgreich ist, kann ein Teilnehmer sich dafür entscheiden, den Timer weiterlaufen zu lassen und den Versuch fortzusetzen, wenn es angebracht ist.
 - 11e1+) [Erinnerung] Ein Extraversuch muss gescrambelt werden, indem ein nicht modifizierter Scramble verwendet wird, der von einem offiziellen Scramble-Programm generiert wurde (siehe [Regel 4f](regulations:regulation:4f), [Richtlinie 4f+](guidelines:guideline:4f+)).
 - 11e2+) [Zusatz] Wenn ein Extraversuch selbst zu einem weiteren Extraversuch führt, sollte der Teilnehmer solange Versuche machen, bis genug vorhanden sind, um so viele reguläre Ergebnisse zu ersetzen wie benötigt. Die gültigen Extraversuche ersetzen die relevanten regulären Versuche in aufsteigender Reihenfolge.
-- 11e2++) [Beispiel] Angenommen ein Teilnehmer hat 5 reguläre Versuche und der 2. Versuch führt zu einem Extraversuch. Der Teilnehmer sollte nun Extraversuche durchführen, bis ein gültiger Versuch vorhanden ist, um den 2. Versuch zu ersetzen. Wenn spätere Versuche zu weiteren Extraversuchen führen, sollten diese in gleicher Weiße durchgeführt werden.
+- 11e2++) [Beispiel] Angenommen ein Teilnehmer hat 5 reguläre Versuche und der 2. Versuch führt zu einem Extraversuch. Der Teilnehmer sollte nun Extraversuche durchführen, bis ein gültiger Versuch vorhanden ist, um den 2. Versuch zu ersetzen. Wenn spätere Versuche zu weiteren Extraversuchen führen, sollten diese in gleicher Weise durchgeführt werden.
 
 ## <article-12><notation><notation> Article 12: Notation
 
@@ -145,11 +145,12 @@ Jede Richtlinie ist einer der folgenden Kategorien zugeordnet. Diese Beschriftun
 
 - A1a2+) [Zusatz] Im Falle eines kumulativen Zeitlimits schreibt der Judge die für einen DNF gestoppte Zeit in Klammer auf das Scoresheet, z.B. "DNF (1:02.27)".
 - A1a2++) [Erklärung] Kumulative Zeitlimits dürfen für ein Event oder eine Kombination von Events gesetzt werden.
+- A1a2+++) Wenn ein kumulatives Zeitlimit gesetzt wurde, wird nach dem Erreichen des Zeitlimits jeder verbleibenden Versuche als DNS (Did Not Start) gewertet.
 - A1a3+) [Erinnerung] Das Organisationsteam und der WCA-Delegierte sollten sich dessen bewusst sein, dass Zeitlimits die Strategien der Teilnehmer beeinflussen (z.B. in den ersten beiden Versuchen hektisch lösen, in der Hoffnung das Cutoff in einer kombinierten Runde zu schaffen), und dass das Ändern des Zeitlimits nach Beginn einer Runde für manche Teilnehmer ein unfairer Nachteil sein kann.
 - A1a4+) [Erinnerung] Wurde versehentlich ein Teilnehmer trotz Überschreitung des Zeitlimits nicht gestoppt, so muss der Versuch nachträglich disqualifiziert werden und der Judge, der Teilnehmer und der WCA-Delegierte sollten informiert werden (siehe [Regel 1g2](regulations:regulation:1g2)). Judges müssen stets das Zeitlimit der aktuellen Versuche (welches bei kumulativen Limits von den Ergebnissen der vorherigen Versuche abhängen kann) bzw. Runden kennen.
 - A1c+) [Erklärung] WCA-Delegierte sollten nur ihr Urteilsvermögen nutzen, um Teilnehmer davon abzuhalten, dem Turnier zu schaden (z.B. durch Zeitverschwendung und/oder Verschwendung von anderen Ressourcen des Turniers). Teilnehmer sollten nicht für schlechte Resultate disqualifiziert werden, wenn sie nach besten Können am Turnier teilnehmen.
 - A2c1+) [Erinnerung] In der Vergangenheit wurden oft Scoresheets als Abdeckung für die Puzzle benutzt, wobei jedoch manche Seiten der Puzzle sichtbar waren. Dies ist nicht mehr gestattet.
-- A3c3+) [Erklärung] Der Teilnehmer darf den Timer vor/während der Inspektionsphase zurücksetzen wenn der Judge dies versehentlich nicht getan hat. Allerdings liegt es in der Verantwortung des Judges sicherzustellen, dass der Timer zurückgesetzt wurde (siehe [Regel A3b](regulations:regulation:A3b)). Wenn der Teilnehmer versehentlich den Versuch mit einem Timer beginnt, den der Judge nicht zurückgesetzt hat (z.B. wenn der Teilnehmer die Inspektion durchführt, die Hände in der Annahme, dass der Timer normal starten wird, für eine ausreichende Zeit auf den Timer legt und beginnt das Puzzle zu lösen), sollte der Versuch mit einem Extraversuch ersetzt werden, nach Ermessen des WCA-Delegierten.
+- A3c3+) [Erklärung] Der Teilnehmer darf den Timer vor/während der Inspektionsphase zurücksetzen, wenn der Judge dies versehentlich nicht getan hat. Allerdings liegt es in der Verantwortung des Judges sicherzustellen, dass der Timer zurückgesetzt wurde (siehe [Regel A3b](regulations:regulation:A3b)). Wenn der Teilnehmer versehentlich den Versuch mit einem Timer beginnt, den der Judge nicht zurückgesetzt hat (z.B. wenn der Teilnehmer die Inspektion durchführt, die Hände in der Annahme, dass der Timer normal starten wird, für eine ausreichende Zeit auf den Timer legt und beginnt das Puzzle zu lösen), sollte der Versuch mit einem Extraversuch ersetzt werden, nach Ermessen des WCA-Delegierten.
 - A3c4+) [Erklärung] Wenn ein dünner Gegenstand im Inneren des Puzzles genutzt wird darf der Judge dieses nicht im Auftrag des Teilnehmers entfernen.
 - A3c4++) [Erklärung] Der Teilnehmer darf den Gegenstand während des Solves entfernen, wenn er dies nicht während der Inspektionsphase getan hat (z.B. vergessen hat).
 - A5b+) [Erklärung] Während dem Inspizieren und Lösen des Puzzles darf der Teilnehmer das Puzzle mit jedem Teil seines Körpers berühren. Ausnahme: Einhändiglösen und Lösen mit Füßen (siehe [Regel C1b](regulations:regulation:C1b) und [Regel D1b](regulations:regulation:D1b)).
