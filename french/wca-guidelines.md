@@ -127,6 +127,7 @@ Afin de donner la nature de la recommandation, chacune d'elle est répertoriée 
 ## <article-10><solved-state><solvedstate> Article 10 : État résolu
 
 - 10f+) [EXPLICATION] Les limites de désalignements sont choisies de manière à ce qu'elles donnent une limite naturelle entre deux états du casse-tête : l'état résolu sans pénalité, et un état distant d'un mouvement.
+- 10h1+) [AJOUT] L'état résolu du Clock n'est pas affecté par des caches de bouton détachés ou se détachant facilement.
 
 
 ## <article-11><incidents><incidents> Article 11 : Incidents
@@ -134,7 +135,7 @@ Afin de donner la nature de la recommandation, chacune d'elle est répertoriée 
 - 11e+) [ECLAIRCISSEMENT] Comme la demande n'est pas forcément acceptée, le compétiteur peut choisir de ne pas arrêter le chronomètre pendant la demande, et reprendre la résolution quand il le souhaite.
 - 11e1+) [RAPPEL] L'essai supplémentaire doit être mélangé avec une séquence de mélange non modifiée, générée par un programme mélangeur officiel (voir la [règle 4f](regulations:regulation:4f), et la [recommandation 4f+](guidelines:guideline:4f+)).
 - 11e2+) [AJOUT] Si un essai supplémentaire donne lieu à un autre essai supplémentaire, le compétiteur devrait continuer à résoudre des essais supplémentaires jusqu'à ce qu'il y ait un essai valide pour remplacer l'essai original.
-+- 11e2++) [EXEMPLE] Supposons qu'un compétiteur a 5 essais normaux numérotés de 1 à 5, et que l'essai 2 donne lieu à un essai supplémentaires. Le compétiteur devrait faire des essais supplémentaires jusqu'à ce qu'il y ait un essai valide pour remplacer l'essai 2. Si plus tard un autre essai donne également lieu à un essai supplémentaire, le compétiteur devrait procéder de la même manière que pour l'essai 2.
+- 11e2++) [EXEMPLE] Supposons qu'un compétiteur a 5 essais normaux numérotés de 1 à 5, et que l'essai 2 donne lieu à un essai supplémentaires. Le compétiteur devrait faire des essais supplémentaires jusqu'à ce qu'il y ait un essai valide pour remplacer l'essai 2. Si plus tard un autre essai donne également lieu à un essai supplémentaire, le compétiteur devrait procéder de la même manière que pour l'essai 2.
 
 
 ## <article-12><notation><notation> Article 12 : Notation

@@ -163,6 +163,7 @@ Note : les numéros des articles et des règles ne sont pas réassignés lors d'
         - 4b3e) Cube 5x5x5, Cube 6x6x6, Cube 7x7x7, et Megaminx : un nombre suffisant de mouvements aléatoires peut être utilisé plutôt qu'une position aléatoire, et la position obtenue doit nécessiter au moins 2 mouvements pour être résolue.
         - 4b3f) Pyraminx : la position aléatoire doit nécessiter au moins 6 mouvements pour être résolue.
     - 4b4) Chaque séquence de mélange devrait être utilisée pendant un intervalle de temps d'au maximum 2 heures. Cet intervalle commence quand la séquence de mélange est appliquée pour la première fois.
+- 4d) Orientation lors des mélanges :
     - 4d1) Les casse-tête NxNxN et le Megaminx sont mélangés en commençant avec la face blanche au-dessus (ou la face la plus claire si il n'y en a pas) et la face verte devant (ou la face adjacente la plus sombre s'il n'y en a pas).
     - 4d2) Le Pyraminx est mélangé en commençant avec la face jaune en dessous (ou la face la plus claire si il n'y en a pas) et la face verte devant (ou la face adjacente la plus sombre s'il n'y en a pas).
     - 4d3) Le Square-1 est mélangé en commençant avec la face la plus sombre devant (à choisir parmi les deux orientations de mélange possibles).
