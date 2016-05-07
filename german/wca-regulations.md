@@ -35,8 +35,6 @@ Die [WCA Richtlinien](guidelines:top) erweitern die WCA Regeln um weitere Erläu
 - Webseite der World Cube Association: [www.worldcubeassociation.org](https://www.worldcubeassociation.org/)
 - Original Quelle der WCA-Regeln: [www.worldcubeassociation.org/regulations](https://www.worldcubeassociation.org/regulations/)
 - PDF-Version dieser Übersetzung: [Deutsche PDF-Version der Regeln und Richtlinien](link:pdf)
-- Du möchtest eine eigene Competition organisieren? Dann wirf einen Blick in unser [Competition Orga Tutorial](http://cube.hackvalue.de/tutorials/competition.php).
-
 
 ## <contents> [Inhalt](regulations:contents)
 
@@ -129,8 +127,8 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 	- 3a3) Polyedrische Puzzles müssen ein Farbschema besitzen, so dass im gelösten Zustand jede Seite eine eindeutige Farbe besitzt. Die Funktionalität jedes Puzzles muss identisch sein zum Originalpuzzle im Bezug auf Züge, Zustände und Lösungsmöglichkeiten.
 - 3d) Puzzles müssen farbige Teile haben, welche das Farbschema des Puzzles definieren, und die eines und nur eines der folgenden sein müssen: farbige Sticker, farbige Plättchen (Tiles), farbiges Plastik, oder aufgemalte/aufgedruckte Farben. Sämtliche farbigen Teile eines Puzzles müssen dabei gleicher Art sein.
 	- 3d1) Für Teilnehmer mit einer medizinisch dokumentierten Sehschwäche gelten die folgenden Ausnahmen:
-			- 3d1a) Blinde Teilnehmer dürfen strukturierte Puzzle mit unterschiedlichen Strukturen auf unterschiedlichen Seiten nutzen. Jede Seite sollte eine festgelegte Farbe haben, um das Scramblen und Judgen zu erleichtern.
-			- 3d1b) Blinde Teilnehmer, die keine ausreichende Anzahl an Farben unterscheiden können, dürfen farbige Teile mit Mustern nutzen, wenn diese nach [Regel 2s](regulations:regulation:2s) erlaubt sind. Muster dürfen durch Sticker ergänzt oder aufgemalt werden.
+		- 3d1a) Blinde Teilnehmer dürfen strukturierte Puzzle mit unterschiedlichen Strukturen auf unterschiedlichen Seiten nutzen. Jede Seite sollte eine festgelegte Farbe haben, um das Scramblen und Judgen zu erleichtern.
+		- 3d1b) Blinde Teilnehmer, die keine ausreichende Anzahl an Farben unterscheiden können, dürfen farbige Teile mit Mustern nutzen, wenn diese nach [Regel 2s](regulations:regulation:2s) erlaubt sind. Muster dürfen durch Sticker ergänzt oder aufgemalt werden.
 	- 3d2) Die Farben der farbigen Teile eines Puzzles müssen pro Seite einheitlich sein. Jede Farbe des Puzzles muss eindeutig von den anderen unterscheidbar sein.
 	- 3d3) Wenn die farbigen Teile des Puzzles Sticker oder Plättchen (Tiles) sind, dürfen diese nicht dicker  als 1,5 mm sein. Ausnahme: Megaminx Plättchen (Tiles) dürfen etwas dicker als 1,5 mm sein, nach Ermessen des WCA-Delegierten.
 - 3h) Modifikationen, die das grundlegende Konzept des Puzzles erweitern, sind nicht erlaubt. Modifizierte Puzzles sind nur erlaubt, wenn die Modifikation dem Teilnehmer im Vergleich zur nicht modifizierten Version des Puzzles keine zusätzlichen Informationen liefert (z.B. Orientierung oder Identität von Steinen).
@@ -138,6 +136,7 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 	- 3h2) Puzzles, bei denen die Farben der Flächen auch im Inneren sichtbar sind (z.B. "stickerless" Puzzle) sind erlaubt. Dies schließt nicht die folgenden Puzzle ein:
 		- 3h2a) Puzzles mit transparenten Teilen sind nicht erlaubt. Ausnahme: ein Overlay Sticker (siehe [Regel 3l](regulations:regulation:3l)).
 	- 3h3) Puzzle-Modifikationen, die zu einer schlechteren Leistung führen, geben dem Teilnehmer kein Recht auf weitere Versuche.
+	- 3h4) Bei Clock dürfen selbsterstellte "Einlagen" (in der gleichen Form und Größe wie die ursprünglichen Papiereinleger) verwendet werden, nach Ermessen des WCA-Delegierten. Die Einlagen müssen eine klare Kennzeichnung der 12-Uhr-Position haben, die der Kennzeichnung der ursprünglichen Einlagen entspricht.
 - 3j) Puzzles müssen sauber sein und dürfen keine Markierungen, hervorgehobenen Teile, Schäden oder andere Unterschiede an Teilen aufweisen, die sie signifikant von anderen gleichartigen Teilen unterscheiden. Ausnahme: ein Logo (siehe [Regel 3l](regulations:regulation:3l))
 	- 3j1) Puzzles müssen einen hinreichend guten Zustand besitzen, nach Ermessen des WCA-Delegierten.
 	- 3j2) Definition: Zwei Teile sind gleichartig, wenn sie identisch in Form und Größe sind oder gespiegelt in Form und gleich in Größe sind.
@@ -287,7 +286,7 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 	- 10f3) Pyraminx und Skewb: höchstens 60 Grad
 	- 10f4) Square-1: höchstens 45 Grad (U/D) oder 90 Grad (/)
 - 10h) Alle nicht in diesem Artikel spezifizierten Puzzles werden entsprechend des gelösten Zustands beurteilt, der durch das allgemein anerkannte Ziel des Puzzles definiert ist.
-- 10h1) Der gelöste Zustand der Clock ist erreicht, wenn alle achtzehn inneren Uhren auf 12 Uhr zeigen.
+	- 10h1) Der gelöste Zustand der Clock ist erreicht, wenn alle achtzehn inneren Uhren auf 12 Uhr zeigen.
 
 ## <article-11><incidents><incidents> Abschnitt 11: Zwischenfälle
 
@@ -362,7 +361,7 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 - A2) Scrambling:
 	- A2a) Wenn der Teilnehmer für eine Runde aufgerufen wird, übergibt er ein Puzzle, in gelöstem Zustand, an den Scrambler. Der Teilnehmer wartet im Teilnehmerbereich darauf aufgerufen zu werden.
 	- A2b) Ein Scrambler scrambelt das Puzzle entsprechend den Regeln in Abschnitt 4.
-	- A2b1) Für Square-1 darf das Organisationsteam die Nutzung eines dünnen Gegenstandes, der im Puzzle platziert wird, vorschreiben, welcher verhindern sollen, dass vor dem Beginn des Versuchs versehentliche Züge ausgeführt werden. Wenn diese Gegenstände genutzt werden, muss dies vor Beginn der Runde angekündigt werden.
+		- A2b1) Für Square-1 darf das Organisationsteam die Nutzung eines dünnen Gegenstandes, der im Puzzle platziert wird, vorschreiben, welcher verhindern sollen, dass vor dem Beginn des Versuchs versehentliche Züge ausgeführt werden. Wenn diese Gegenstände genutzt werden, muss dies vor Beginn der Runde angekündigt werden.
 	- A2c) Der Teilnehmer darf das gescrambelte Puzzle in der Zeit zwischen Scrambeln und Start der Inspektionsphase nicht sehen.
 		- A2c1) Der Scrambler deckt das Puzzle ab, so dass es für Teilnehmer und Zuschauer nicht möglich ist, einen Teil des Puzzles zu sehen. Die Abdeckung verdeckt das Puzzle bis zum Beginn des Versuchs.
 	- A2d) Nach dem Scrambeln kontrolliert der Judge kurz, dass das Puzzle sorgfältig gescrambelt wurde. Der Judge richtet jegliche Bedenken an den Scrambler, der dann eine gründliche Überprüfung durchführt.
@@ -381,7 +380,6 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 		- A3c3) Der Teilnehmer darf den Timer vor dem Beginn des Versuchs zurücksetzen.
 		- A3c4) Wenn bei Square-1 ein dünnes Objekt im Inneren des Puzzles durch das Organisationsteam genutzt wird (siehe [Regel A2b1](regulations:regulation:A2b1)), darf der Teilnehmer dieses Objekt während der Inspektionsphase aus dem Puzzle entfernen.
 	- A3d) Am Ende der Inspektionszeit legt der Teilnehmer das Puzzle in beliebiger Orientierung auf die Matte. Strafe wenn das Puzzle außerhalb der Matte abgelegt wird: Zeitstrafe (+2 Sekunden).
-		- A3d1) Das Puzzle darf nicht auf dem Timer liegen. Strafe: Zeitstrafe (+2 Sekunden).
 		- A3d2) Wenn die Inspektionszeit 8 Sekunden erreicht, sagt der Judge '8 SECONDS'.
 		- A3d3) Wenn die Inspektionszeit 12 Sekunden erreicht, sagt der Judge '12 SECONDS'.
 - A4) Beginnen zu Lösen
@@ -429,7 +427,7 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 	- B1b) Die Teilnehmer müssen ihre eigene Augenbinde mitbringen.
 - B2) Beginn des Versuchs:
 	- B2a) Der Judge setzt den/die Timer zurück und fragt "READY?" wie in [Regel A3b1](regulations:regulation:A3b1) beschrieben. Der Teilnehmer muss innerhalb von einer Minute, nachdem er aufgerufen wurde, bereit sein, seinen Versuch zu starten. Andernfalls verfällt sein Versuch (DNS) nach Ermessen des Judges.
-- B2b) Der Teilnehmer benutzt seine Finger, um die Sensorflächen des Timers zu berühren. Die Handflächen des Teilnehmers müssen dabei nach unten gerichtet und auf der Seite des Timers sein, die näher zu ihm ist. Strafe: Zeitstrafe (+2 Sekunden).
+	- B2b) Der Teilnehmer benutzt seine Finger, um die Sensorflächen des Timers zu berühren. Die Handflächen des Teilnehmers müssen dabei nach unten gerichtet und auf der Seite des Timers sein, die näher zu ihm ist. Strafe: Zeitstrafe (+2 Sekunden).
 	- B2c) Der Teilnehmer darf keinen physischen Kontakt mit dem Puzzle haben bevor die Lösungsphase beginnt. Strafe: 2 Sekunden.
 	- B2d) Der Teilnehmer beginnt den Versuch, indem er die Hände vom Timer nimmt (dies startet auch den Solve).
 		- B2d1) Der Teilnehmer nimmt die Abdeckung vom Puzzle, nachdem er den Timer gestartet hat.
@@ -494,6 +492,7 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 - F1) Die Standardprozedur wird wie in [Abschnitt A](regulations:article:A) beschrieben befolgt. Zusätzliche Regeln für das Lösen der Clock, die entsprechende Regeln in Artikel A ersetzen, werden im Folgenden beschrieben.
 - F2) Der Judge positioniert das Puzzle auf der Stackmat in einer aufrechten Position.
 - F3) Nach der Inspektion legt der Teilnehmer das Puzzle auf die Stackmat in einer aufrechten Position. Der Teilnehmer darf die Ausrichtung der Pins vor Beginn der Lösungsphase nicht verändern. Strafe: Disqualifikation des Versuchs (DNF).
+	- F3a) Der Teilnehmer darf die Position irgendeines Pins vor Beginn des Versuchs nicht verändern. Strafe: Disqualifikation des Versuchs (DNF).
 
 ## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Abschnitt H: Multiple Blindfolded
 
