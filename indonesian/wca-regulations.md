@@ -24,7 +24,7 @@ Perkembangan Regulasi WCA dan Pedoman WCA terbuka secara umum [di GitHub](https:
 ### Kontak
 Untuk pertanyaan dan saran, hubungi [WCA Regulations Committee (WRC)](http://www.worldcubeassociation.org/contact-information).
 
-##<contents> [Contents](regulations:contents)
+## <contents> [Contents](regulations:contents)
 
 Catatan: Karena nomor Pasal dan Regulasi tidak diatur kembali saat ada Regulasi yang dihapus, akan ada bagian kosong pada penomoran.
 
@@ -435,7 +435,6 @@ Catatan: Karena nomor Pasal dan Regulasi tidak diatur kembali saat ada Regulasi 
     - D3b) Kompetitor memindahkan kakinya dari sensor timer untuk memulai solve.
 - D4) Memberhentikan solve:
     - D4a) Kompetitor memberhentikan timer dengan cara menaruh kakinya di atas sensor timer.
-    
 
 ## <article-E><fewest-moves><fewestmovessolving> Pasal E: Fewest Moves Solving
 

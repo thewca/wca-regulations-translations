@@ -115,8 +115,8 @@ En pro de la claridad, cada Directriz se clasifica usando una de las siguientes 
 - 9b++) [ADICIÓN] Otros eventos distintos de los especificados en la [Regla 9b](regulations:regulation:9b) pueden ser celebrados durante la competencia, pero serán considerados no oficiales y por tanto no serán incluidos en los resultados oficiales de la competencia.
 - 9b3b+) [ACLARACIÓN] La estadística de la “Media de 3” no afecta el rango de ese competidor en una ronda de “Mejor de 3” (la cual está basada en el mejor resultado). La WCA lo reconoce por fuera del formato de la competencia.
 - 9f1+) [EJEMPLO] Si el cronómetro muestra el número “12.678” para un intento, el tiempo que se registrará será “12.67” (se quitarán los dígitos extras a la centésima del segundo). Un juez puede escribir el tiempo completo en la hoja de resultados (para calcular con precisión las penalizaciones), siempre y cuando el encargado de digitar los resultados en el ordenador quite los dígitos extra para los resultados oficiales. 
-- 9f4+ [EXPLICACIÓN] El resultado de un intento es DNF sólo si el competidor inició el intento indicando que estaba listo (ver [Regla A3b2](regulations:regulation:a3b2)) pero el intento fue descalificado. 
--9f5+) [ACLARACIÓN] El resultado de un intento es DNS si el competidor fue llamado a un intento y no lo comenzó siquiera (ver [Regla A3b2](regulationsregulations:a3b2)). Si el competidor no se clasificó para un intento ( p. ej. en una ronda combinada), no tiene ningún resultado para el intento.
+- 9f4+) [EXPLICACIÓN] El resultado de un intento es DNF sólo si el competidor inició el intento indicando que estaba listo (ver [Regla A3b2](regulations:regulation:a3b2)) pero el intento fue descalificado. 
+- 9f5+) [ACLARACIÓN] El resultado de un intento es DNS si el competidor fue llamado a un intento y no lo comenzó siquiera (ver [Regla A3b2](regulationsregulations:a3b2)). Si el competidor no se clasificó para un intento ( p. ej. en una ronda combinada), no tiene ningún resultado para el intento.
 - 9q+) [RECOMENDACIÓN] Los eventos y rondas deben tener al menos 2 competidores.
 
 
@@ -154,7 +154,6 @@ En pro de la claridad, cada Directriz se clasifica usando una de las siguientes 
 - A7g+) [EJEMPLO] Ejemplos de los incidentes que podrían ocurrir y por ello representar un intento extra para un competidor: no experar a que se encienda la luz verde, que se active o se detenga mal el cronómetro, pasarse del tiempo de inspección debido a un malentendido de cómo se debía iniciar el intento, o por algunas otras penalizaciones de tiempo. 
 - A7g++) [ACLARACIÓN] Las penalizaciones de tiempo no pueden cederse para nuevos competidores. Debe otrogarse un intento toalmente nuevo. 
 - A7g+++) [RECOMENDACIÓN] El delegado de la WCA deberá usar una fuerte discreción cuando otorgue un intento extra a un mismo competidore nuevo. Si se le otorga más de un itento extra, deberá ser por un incidente distinto. 
- 
 
 
 ## <article-B><blindfolded><blindfoldedsolving> Artículo B: Resolución a ciegas

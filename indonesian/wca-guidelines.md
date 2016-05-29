@@ -24,7 +24,7 @@ Agar lebih informatif, tiap pedoman digolongkan menggunakan salah satu dari labe
 - <label>[REMINDER] Informasi yang mungkin disebutkan oleh regulasi atau peraturan lain, tapi berhubungan, hendaknya ditegaskan kembali.
 
 
-##<contents> [Contents](guidelines:contents)
+## <contents> [Contents](guidelines:contents)
 
 <table-of-contents>
 
@@ -122,34 +122,33 @@ Agar lebih informatif, tiap pedoman digolongkan menggunakan salah satu dari labe
 
 - A1a2+) [ADDITION] Dalam kasus dimana waktu menyentuh batas waktu, judge menulis waktu di sebelah "DNF" dalam tanda kurung. misal, DNF (1:02.27).
 - A1a3+) [REMINDER] Tim organisasi dan WCA delegate harus sadar bahwa batas waktu bisa mengubah strategi beberapa kompetitor (misal, buru-buru menyelesaikan 2 attempt pertama dengan harapan dapat melewati cut-off dalam combined round), dan mengganti batas waktu setelah dimulainya sebuah round dapat memberikan ketidakadilan bagi beberapa kompetitor.
-- A1a4+) [REMINDER]Jika ada kompetitor yang tidak sengaja diberikan kesempatan untuk melewati batas waktu, batas waktu harus diterapkan secara retroaktif, dan judge, kompetitor serta WCA Delegate sebaiknya diberitahukan (lihat <Regulation 1g2>). Judge harus selalu memperhatikan time limit untuk attempt yang sedang berlangsung (yang mungkin saja bergantung dengan attempt sebelumnya, dalam kasus batas waktu kumulatif).
-- A2c1+) CLARIFICATION Sebelumnya, score sheet sering digunakan untuk menjadi cover sehingga beberapa sisi dari puzzle terlihat. Hal ini sudah tidak diperbolehkan.
+- A1a4+) [REMINDER] Jika ada kompetitor yang tidak sengaja diberikan kesempatan untuk melewati batas waktu, batas waktu harus diterapkan secara retroaktif, dan judge, kompetitor serta WCA Delegate sebaiknya diberitahukan (lihat <Regulation 1g2>). Judge harus selalu memperhatikan time limit untuk attempt yang sedang berlangsung (yang mungkin saja bergantung dengan attempt sebelumnya, dalam kasus batas waktu kumulatif).
 - A2c1+) [CLARIFICATION] Sebelumnya, score sheet sering digunakan untuk menjadi cover sehingga beberapa sisi dari puzzle terlihat. Hal ini sudah tidak diperbolehkan.
 - A3c3+) [CLARIFICATION] Walau judge diminta untuk me-reset timer untuk kompetitor (lihat <Regulation A3b>), kompetitor boleh me-reset-nya sebelum atau pada saat fase inspeksi jika judge tidak sengaja lupa untuk melakukannya.
 - A6b+) [EXPLANATION] Angka asal 0.06 dipilih untuk mengakomodir masalah-masalah yang terjadi akibat malfungsinya Stackmat Timer.
 - A6g+) [ADDITION] Ketika sedang menentukan perlunya memberikan penalti untuk putaran yang kurang, judge sebaiknya jangan menyentuh puzzle.
 
 
-## <article-B><blindfolded-solving><Blindfodled Solving> Pasal B: Blindfolded Solving
+## <article-B><blindfolded-solving><blindfoldedsolving> Pasal B: Blindfolded Solving
 
 - B1+) [REMINDER] Kompetitor harus menggunakan puzzle tanpa tekstur-tekstur, tanda-tanda, atau ciri-ciri lain yang membedakan piece yang sama(lihat regulasi 3k). Hal ini harus diberikan perhatian khusus dalam Blindfolded Solving (penyelesaian dengan mata tertutup).
 - B1b+) [RECOMMENDATION] Penutup mata harus dicek terlebih dahulu oleh WCA delegate sebelum digunakan dalam kompetisi.
 
 
-## <article-C><one-handed><One Handed Solving> Pasal C: One-Handed Solving
+## <article-C><one-handed><onehandedsolving> Pasal C: One-Handed Solving
 
 - C1b+) [CLARIFICATION] Kompetitor dapat menggunakan kedua tangannya selama waktu inspeksi.
 - C1b++) [CLARIFICATION] Kompetitor tidak diharuskan untuk menggunakan tangan yang sama dalam pengambilan attempt lain dalam round yang sama.
 - C1b2+) [REMINDER] Menggunakan permukaan meja selama membenarkan atau memperbaiki cube diperbolehkan.
 
 
-## <article-D><with-feet><solving with feet> Pasal D: Solving With Feet
+## <article-D><with-feet><solvingwithfeet> Pasal D: Solving With Feet
 
 - D1b+) [CLARIFICATION] Kompetitor diperbolehkan menggunakan kaus kaki selama solving.
 - D1c+) [REMINDER] Selama membenarkan puzzle yang rusak, anggota tubuh lain tidak diperbolehkan untuk menyentuk puzzle.
 
 
-## <article-E><fewest-moves><fewest moves solving> Pasal E: Fewest Moves Solving
+## <article-E><fewest-moves><fewestmovessolving> Pasal E: Fewest Moves Solving
 
 - E2b+) [CLARIFICATION] Kompetitor dapat memilih untuk menghentikan attemptnya lebih cepat dengan cara memberikan solusinya sebelum batas waktu yang ditentukan
 

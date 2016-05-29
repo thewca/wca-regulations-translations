@@ -256,8 +256,6 @@ Note : les numéros des articles et des règles ne sont pas réassignés lors d'
     - 9f15) Les compétiteurs obtenant le même résultat pour un tour obtiennent le même classement pour ce tour.
 - 9g) Un tour combiné se déroule en deux phases d'essais, où les compétiteur sont qualifiés pour la seconde phase si ils effectuent un essai en dessous de la limite au cours de la première phase.
     - 9g2) Le fait qu'un compétiteur soit qualifié pour la phase suivante du tour combiné doit se décider en fonction de son classement (les x meilleurs compétiteurs) ou en fonction de son résultat (tous les compétiteurs ayant un résultat en dessous de x) lors de la première phase.
-
-
 - 9i) Les résultats des compétitions officielles de la WCA doivent apparaître dans le classement mondial de la WCA.
     - 9i1) La WCA reconnait les records régionaux à différents niveaux : records nationaux, records continentaux, et records mondiaux.
     - 9i2) Tous les résultats d'un tour sont considérés comme ayant eu lieu le dernier jour calendaire du tour. Si un record régional est battu plusieurs fois le même jour calendaire, seul le meilleur résultat est reconnu comme le nouveau record régional.
@@ -304,8 +302,7 @@ Note : les numéros des articles et des règles ne sont pas réassignés lors d'
     - 11a3) Un équipement défectueux.
 - 11b) Si un incident se produit, le Délégué WCA détermine de manière appropriée et impartiale la marche à suivre.
 - 11d) Si le Règlement WCA n'est pas totalement clair, ou si l'incident n'est pas couvert par le Règlement WCA, alors le Délégué WCA doit prendre sa décision dans le sens de la sportivité (voir aussi : [règle 11e3](regulations:regulation:11e3)).
-- 11e) Si un incident se produit au cours d'un essai, le Délégué WCA peut accorder à un compétiteur un essai supplémentaire remplaçant l'essai au cours duquel l'incident a eu lieu. Le compétiteur doit faire sa demande oralement ou par écrit au juge et au Délégué WCA, au moment de l'incident et avant de terminer son essai, afin de pouvoir se voir accorder un essai supplémentaire. Effectuer une demande ne garantie pas que celle-ci aboutira à un essai
-  supplémentaire.
+- 11e) Si un incident se produit au cours d'un essai, le Délégué WCA peut accorder à un compétiteur un essai supplémentaire remplaçant l'essai au cours duquel l'incident a eu lieu. Le compétiteur doit faire sa demande oralement ou par écrit au juge et au Délégué WCA, au moment de l'incident et avant de terminer son essai, afin de pouvoir se voir accorder un essai supplémentaire. Effectuer une demande ne garantie pas que celle-ci aboutira à un essai supplémentaire.
     - 11e1) Si un compétiteur se voit accorder un essai supplémentaire, celui-ci doit être réalisé à partir d'une séquence de mélange différente de l'originale. Cette séquence doit être générée à partir de la version officielle du mélangeur officiel de la WCA (voir la [règle 4f](regulations:regulation:4f)).
     - 11e2) Si un compétiteur reçoit un essai supplémentaire, cet essai supplémentaire devrait être effectué directement après l'essai qui l'a causé, et doit remplacer l'essai original qui l'a causé.
     - 11e3) S'il n'est pas certain qu'un incident devrait donner lieu à un essai supplémentaire, le compétiteur peut se voir attribuer un essai supplémentaire provisoire, qui ne sera utilisé que s'il se trouve que l'essai supplémentaire était approprié (par exemple par décision du Bureau de la WCA).

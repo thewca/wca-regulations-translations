@@ -363,11 +363,11 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
 - A2) Mezclar:
     - A2a) Cuando se le llama para una ronda, el competidor entrega el puzzle, en su estado resuelto, al mezclador. Después el competidor espera en el área de competidores hasta que sea llamado para competir.
     - A2b) Un mezclador mezcla el puzzle de acuerdo con las reglas en el [Artículo 4](regulations:article:4).
-        -A2b1) Para Square-1, el equipo organizador puede pedir que se coloque un objeto delgado en el puzzle para evitar que ocurran movimientos accidentales antes de que se comience el intento. Si dichos objetos son usados, ésto deberá anunciarse antes de que comience la ronda.  
+        - A2b1) Para Square-1, el equipo organizador puede pedir que se coloque un objeto delgado en el puzzle para evitar que ocurran movimientos accidentales antes de que se comience el intento. Si dichos objetos son usados, ésto deberá anunciarse antes de que comience la ronda.  
     - A2c) Después de que el mezclador ha iniciado a mezclar un puzzle, el competidor no debe ver el puzzle hasta que empiece la fase de inspección.
         - A2c1) El mezclador pone una cubierta sobre el puzzle mezclado que no permita que sea visto por ningún competidor ni espectador. La cubierta se queda sobre el puzzle hasta el comienzo del intento.
     - A2d) Cuando se toma un puzzle del mezclador (o la mesa de mezclas), el juez lo inspecciona brevemente para asegurarse de que sí está lo suficientemente mezclado. Si el juez piensa que no es así, se lo comunica al mezclador, quien hará un chequeo detallado.
-        -A2d1 El equipo organizador puede requerir a los mezcladores que tomen medidas adicionales para asegurarse que hayan realizado una mezcla correcta (p. ej. firmar la hoja de resultados para afirmar que hicieron el número correcto de mezcla y verifique que coincida con la imagen, o usando una persona adicional como un “chequeador de mezclas” )   
+        - A2d1) El equipo organizador puede requerir a los mezcladores que tomen medidas adicionales para asegurarse que hayan realizado una mezcla correcta (p. ej. firmar la hoja de resultados para afirmar que hicieron el número correcto de mezcla y verifique que coincida con la imagen, o usando una persona adicional como un “chequeador de mezclas” )   
     - A2e) El juez pone el puzzle en el mat en cualquier orientación aleatoria mientras se asegura que continúe completamente cubierto.
         - A2e1) Al competidor no puede pedir una orientación específica, y el juez no debe influenciar en la orientación cuando pone el puzzle en el mat.
 - A3) Inspección:
@@ -380,7 +380,7 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
         - A3c1) El competidor no debe hacer movimientos en el puzzle durante la inspección. Penalización: descalificación del intento (DNF). 
         - A3c2) Si las piezas del puzzle no están completamente alineadas, el competidor puede alinear las caras, siempre y cuando las desalineaciones se queden dentro de los límites de la [Regla 10f](regulations:regulation:10f).
         - A3c3) El competidor puede resetear el cronómetro antes del inicio de la solución. 
-        - A3c4 Para Square-1, si el equipo organizador ha forzado e uso de un objeto delgado aentro del puzzle (ver [Regla A2b1](regulations:regulation:A2b1)), el competidor debe remover dicho objeto durante el tiempo de inspección.  
+        - A3c4) Para Square-1, si el equipo organizador ha forzado e uso de un objeto delgado aentro del puzzle (ver [Regla A2b1](regulations:regulation:A2b1)), el competidor debe remover dicho objeto durante el tiempo de inspección.  
     - A3d) Al final de la inspección, el competidor pone el puzzle en el mat, en cualquier orientación o posición.
         - A3d1) El puzzle no debe quedarse sobre el cronómetro. Penalización: Penalización de tiempo (+2 segundos).
         - A3d2) Cuando ya han pasado 8 segundos de inspección, el juez dice “8 SEGUNDOS”.

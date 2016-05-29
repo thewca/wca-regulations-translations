@@ -5,7 +5,7 @@
 
 ## Megjegyzések
 
-###Fordítás
+### Fordítás
 
 Ez egy nem hivatalos fordítás, amely csupán segítséget nyújt a magyar versenyzőknek a WCA Szabályzat értelmezésében. Hasznos lehet, de a fordítás hitelessége nem garantált. Az eredeti, angol nyelvű WCA Szabályzat és ezen fordítás közötti bármilyen eltérés esetén az eredeti, angol nyelvű WCA Szabályzat a mérvadó.
 
@@ -367,11 +367,11 @@ Megjegyzés: A Szabályzat változtatásával a Cikkek és a Szabályzat számoz
 - A2) Keverés:
     - A2a) Amikor egy versenyzőt versenyezni szólítanak, kirakott állapotban le kell adnia a játékát a keverőnek és a várakozó versenyzők számára kijelölt helyen kell tartózkodnia, amíg nem hívják a kirakásaihoz.
     - A2b) A keverő bekeveri a játékot a szabályoknak megfelelően (lásd [4. cikk](regulations:article:4)).
-		-A2b1) A Square-1 versenyszám esetében a szervezők kérésére lehetséges vékony tárgyak elhelyezése a keverést követően, hogy ne tudjon elfordulni a játék a kirakás megkezdése előtt. Amennyiben ilyen tárgyak használva vannak, azt ki kell jelenteni a versenyszám megkezdése előtt.
+        - A2b1) A Square-1 versenyszám esetében a szervezők kérésére lehetséges vékony tárgyak elhelyezése a keverést követően, hogy ne tudjon elfordulni a játék a kirakás megkezdése előtt. Amennyiben ilyen tárgyak használva vannak, azt ki kell jelenteni a versenyszám megkezdése előtt.
     - A2c) Miután a keverő megkezdte a játék bekeverését a versenyző nem láthatja a játékát a megtekintés kezdetéig.
         - A2c1) A keverő letakarja a bekevert játékot, hogy se versenyző se néző ne láthassa a játék egyetlen részét sem. A takaró a játékon marad a kirakás megkezdéséig.
     - A2d) Amikor a bíró elveszi a játékot a keverőtől, megvizsgálja, hogy be van-e keverve. Ha a bíró kételkedik a keveréssel kapcsolatban, meg kell kérnie a keverőt, hogy alaposan vizsgálja meg.
-		-A2d1) A szervezők előírhatnak hozzáadott szabályokat a keverős számára, amivel biztosítják, hogy leellenőrizték a keverés helyességét (pl.: aláírathatják a pontkártyát, ezzel tanúsítva, hogy a keverők a megfelelő számú keverést keverték be, illetve, hogy ellenőrizték a keverést vagy használhatnak „keverés-ellenőrző” embert).
+        - A2d1) A szervezők előírhatnak hozzáadott szabályokat a keverős számára, amivel biztosítják, hogy leellenőrizték a keverés helyességét (pl.: aláírathatják a pontkártyát, ezzel tanúsítva, hogy a keverők a megfelelő számú keverést keverték be, illetve, hogy ellenőrizték a keverést vagy használhatnak „keverés-ellenőrző” embert).
     - A2e) A bíró a szőnyegre helyezi a játékot tetszőleges állásban, és biztosítja, hogy teljesen takarva maradjon.
         - A2e1) A versenyző nem kérheti a kocka semmilyen speciális orientációját, és a bíró nem befolyásolhatja az orientációt ahogyan a játékot a szőnyegre rakja, annak megfelelően hogy mit tud/sejt a kocka orientációjáról.
 - A3) Megtekintés:

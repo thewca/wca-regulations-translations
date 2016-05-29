@@ -24,7 +24,7 @@ Per rendere più semplice e immediata la consultazione, ogni Linea Guida è clas
 - <label>[PROMEMORIA] Informazione che può essere riferita ad un'altra regola/linea guida ma che merita di essere ripetuta per la sua rilevanza.
 
 
-### <contents> [Contenuto](guidelines:contents)
+## <contents> [Contenuto](guidelines:contents)
 
 <table-of-contents>
 
@@ -42,7 +42,7 @@ Per rendere più semplice e immediata la consultazione, ogni Linea Guida è clas
 
 ## <article-2><competitors><competitors> Articolo 2: Partecipanti 
 
- - 2c+) [AMPLIAMENTO] I partecipanti che si registrano per la prima volta devono usare il loro nominativo completo. Possono registrarsi utilizzando un ragionevole soprannome, a discrezione del Delegato WCA. 
+- 2c+) [AMPLIAMENTO] I partecipanti che si registrano per la prima volta devono usare il loro nominativo completo. Possono registrarsi utilizzando un ragionevole soprannome, a discrezione del Delegato WCA. 
 - 2c++) [AMPLIAMENTO] I partecipanti non devono fornire intenzionalmente informazioni fuorvianti. I partecipanti che hanno già preso parte ad una competizione devono fornire informazioni in accordo con i dati presenti nel database (ad esempio nome esatto e WCA ID). 
 - 2d+) [AMPLIAMENTO] La data di nascita e le informazioni di contatto devono essere inequivocabilmente esatte. 
 - 2d++) [RACCOMANDAZIONE] Se terzi (ad esempio giornalisti) chiedono al team organizzativo di essere messi in contatto con un partecipante, costui deve fornire il suo consenso prima che qualsiasi dato venga trasmesso. 
@@ -113,7 +113,7 @@ Per rendere più semplice e immediata la consultazione, ogni Linea Guida è clas
 ## <article-A><speedsolving><speedsolving> Articolo A: Speed Solving
 
 - A1a2+) [AMPLIAMENTO] In caso di un tempo limite comulativo, il giudice deve registrare il tempo che il partecipante ha ottenuto, benchè il tentativo fosse DNF, per esempio “DNF (1:02.27)”.
- - A1a3+) [PROMEMORIA] Il team organizzativo e il Delegato WCA dovrebbero essere consapevoli dell’influenza esercitata dai tempi limite sulla strategia dei singoli partecipanti (per esempio, porsi l’obiettivo di velocizzare le prime due risoluzioni, in modo da rientrare in un cutoff in un turno combinato). Cambiare i tempi limite di un evento dopo l'inizio dello stesso può risultare ingiustamente svantaggioso per alcuni. 
+- A1a3+) [PROMEMORIA] Il team organizzativo e il Delegato WCA dovrebbero essere consapevoli dell’influenza esercitata dai tempi limite sulla strategia dei singoli partecipanti (per esempio, porsi l’obiettivo di velocizzare le prime due risoluzioni, in modo da rientrare in un cutoff in un turno combinato). Cambiare i tempi limite di un evento dopo l'inizio dello stesso può risultare ingiustamente svantaggioso per alcuni. 
 - A1a4+) [PROMEMORIA] Se a un partecipante è stato accidentalmente ufficializzato un tentativo oltre il tempo limite previsto per quel round, il tempo limite stesso deve essere applicato retroattivamente a tutte le risoluzioni e il giudice, insieme al Delegato WCA, devono essere informati (vedi <Regulation 1g2>).  I giudici devono essere sempre a conoscenza del tempo limite del turno per il quale stanno svolgendo il loro compito (il quale potrebbe essere influenzato anche da alcune risoluzioni precedenti oppure da un tempo limite comulativo).
 - A2c1+) [CHIARIMENTO] In passato, i foglietti per registrare i tempi sono stati usati come cover per i cubi, prima dell’inizio della risoluzione. Dato che questo metodo lascia, nella maggior parte dei casi, scoperte alcune parti del puzzle, non è più possibile usare questa soluzione.
 - A3c3+) [CHIARIMENTO] Benché resettare il timer prima dell’inizio della risoluzione sia compito del giudice (vedi  <Regulation A3b>), il partecipante è autorizzato a farlo da solo, prima o durante la fase di ispezione del puzzle, in caso di incuria del giudice. 
