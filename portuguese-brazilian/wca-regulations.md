@@ -381,7 +381,7 @@ Nota: Os números dos artigos não são atualizados quando algum deles é apagad
     - A6f) O competidor não pode zerar o "Stackmat timer" até que o juiz tenha anotado o resultado na súmula. Punição: desqualificação da tentativa (DNF), a critério do juiz.
     - A6g) O juiz determina se o quebra-cabeça está resolvido. Ele não pode fazer movimentos ou alinhar faces ao examinar o quebra-cabeça. Exceção: É permitido ao juiz fazer movimentos ao examinar o Clock.
     - A6h) Em caso de disputa, nenhum movimento ou alinhamento pode ser aplicado ao quebra-cabeça até que a *disputa* seja resolvida.
-    - a6i) Punições de tempo para a parte de terminar a resolução são cumulativas.
+    - A6i) Punições de tempo para a parte de terminar a resolução são cumulativas.
 - A7) Registrando resultados:
     - A7a) O juiz diz ao competidor o resultado.
         - A7a1) Se o juiz verifica que o quebra-cabeça está resolvido, ele diz "OK".

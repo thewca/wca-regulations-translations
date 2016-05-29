@@ -287,7 +287,7 @@ WCA競賽規則與指導方針公開在[GitHub](https://github.com/cubing/wca-do
     - 10f3) 金字塔Pyraminx和斜轉方塊Skewb：最多60度。
     - 10f4) Square-1: 最大45度(U/D)或90度(/)。
 - 10h) 其他未提及的方塊的完成定義，以一般大眾認同的為完成狀態，並運用本規則判定。
-    - 10f1) 魔錶Clock的還原狀態是指所有指針(18個)都朝向12點鐘。
+    - 10h1) 魔錶Clock的還原狀態是指所有指針(18個)都朝向12點鐘。
 
 
 ## <article-11><incidents><incidents> 第11章: 意外事件
