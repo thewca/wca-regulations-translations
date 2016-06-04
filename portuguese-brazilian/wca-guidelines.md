@@ -26,6 +26,7 @@ Para ser mais informativo, cada orientação é classificada usando um dos segui
 - <label>[EXPLICAÇÃO] Informação para esclarecer o objetivo do Regulamento.
 - <label>[RECOMENDAÇÃO] Algo que não é obrigatório, mas que deve ser feito sempre que possível.
 - <label>[LEMBRETE] Informação já dita em outra regra/orientação, mas que é importante reinterar.
+- <label>[EXEMPLO] Um exemplo de como aplicar uma Regra.
 
 
 ## <contents> [Contents](guidelines:contents)

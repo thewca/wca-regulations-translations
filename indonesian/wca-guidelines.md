@@ -22,6 +22,7 @@ Agar lebih informatif, tiap pedoman digolongkan menggunakan salah satu dari labe
 - <label>[EXPLANATION] Informasi yang mengklarifikasi maksud dari Regulasi.
 - <label>[RECOMMENDATION] Sesuatu yang tidak wajib, namun sebaiknya dilakukan jika mungkin.
 - <label>[REMINDER] Informasi yang mungkin disebutkan oleh regulasi atau peraturan lain, tapi berhubungan, hendaknya ditegaskan kembali.
+- <label>[EXAMPLE] Sebuah contoh tentang bagaimana menerapkan suatu regulasi.
 
 
 ## <contents> [Contents](guidelines:contents)

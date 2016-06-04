@@ -298,6 +298,7 @@ Catatan: Karena nomor Pasal dan Regulasi tidak diatur kembali saat ada Regulasi 
     - 12c2) (x,y) berarti: putar layer atas sebanyak x kali 30 derajat searah dengan jarum jam, putar layer bawah sebanyak y kali 30 derajat searah dengan jarum jam.
     - 12c3) "/" berarti: putar setengah dari bagian kanan puzzle 180 derajat.
 - 12d) Notasi untuk Megaminx (hanya notasi untuk mengacak):
+    - 12d1) Gerakan-gerakan Sisi:
         - 12d1a) searah dengan jarum jam, 72 derajat: U (sisi atas).
         - 12d1b) berlawanan dengan jarum jam, 72 derajat: U' (sisi atas).
     - 12d2) Gerakan lain diaplikasikan dengan menahan 3 buah sisi bagian/sisi tetap pada bagian atas kiri dari puzzle:

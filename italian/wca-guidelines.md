@@ -22,6 +22,7 @@ Per rendere più semplice e immediata la consultazione, ogni Linea Guida è clas
 - <label>[SPIEGAZIONE] Informazione che illustra il fine di una regola.
 - <label>[RACCOMANDAZIONE] Direttiva non strettamente obbligatoria, ma che deve essere seguita quando possibile.
 - <label>[PROMEMORIA] Informazione che può essere riferita ad un'altra regola/linea guida ma che merita di essere ripetuta per la sua rilevanza.
+- <label>[ESEMPIO] Un esempio che illustra una situazione in cui viene applicata una determinata regola.
 
 
 ## <contents> [Contenuto](guidelines:contents)
@@ -136,7 +137,7 @@ Per rendere più semplice e immediata la consultazione, ogni Linea Guida è clas
 ## <article-D><feet><solvingwithfeet> Articolo D: Risoluzione coi piedi 
 
 - D1b+) [CHIARIMENTO] L’uso di calzini durante la risoluzione è permesso.
-- D1c+) [NOTA] Nel tentativo di riparare il puzzle, altre parti del corpo non devono entrare in contatto con lo stesso.
+- D1c+) [PROMEMORIA] Nel tentativo di riparare il puzzle, altre parti del corpo non devono entrare in contatto con lo stesso.
 
 
 ## <article-E><fewest-moves><fewestmovessolving> Articolo E: Risoluzione Fewest Moves
@@ -146,7 +147,7 @@ Per rendere più semplice e immediata la consultazione, ogni Linea Guida è clas
 
 ## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Articolo H: Risoluzione Multiple Blindfolded 
 
-- H1b1+) [NOTA] La risoluzione non è squalificata nel caso del raggiungimento e superamento del tempo limite, a causa di alcune clausole nel regolamento riguardo alla risoluzione Multiple Blindfolded (vedi Regulations A1a4 and A1a5).
+- H1b1+) [PROMEMORIA] La risoluzione non è squalificata nel caso del raggiungimento e superamento del tempo limite, a causa di alcune clausole nel regolamento riguardo alla risoluzione Multiple Blindfolded (vedi Regulations A1a4 and A1a5).
 - H1b1++) [AMPLIAMENTO] Il giudice può permettere al partecipante di continuare il tentativo in via non ufficiale, ma prima di tutto ciò la risoluzione ufficiale deve essere fermata e registrata, come da Regolamento. 
 - H1d+) [ESEMPIO] Esempio: Se un partecipante prova a risolvere 10 cubi, stoppa con un tempo di 59:57 e ha due penalità di tempo, il tempo per il risultato è 59:57 + 2*2 = 60:01 (vedi anche (<Regulation A1a5>).
 - H1d++) [ESEMPIO] Esempio: Se un partecipante prova a risolvere 10 cubi, il giudice lo ferma a 60 minuti, e ha due penalità di tempo, il tempo per il risultato è 60:00 + 2*2 = 60:04.

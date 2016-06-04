@@ -21,6 +21,7 @@ A hatékonyabb megértés segítségéül minden útmutatás a következő címk
 - <label>[MAGYARÁZAT] A szabályok szándékát pontosító információk.
 - <label>[AJÁNLÁS] Betartásuk nem kötelező, de ha lehetséges eszerint kell cselekedni.
 - <label>[EMLÉKEZTETŐ] Olyan szabályok/iránymutatások, amelyek már máshol említve voltak, de a jelentőségük miatt fontos a megismétlésük.
+- <label>[PÉLDA] Egy példa arra, hogy hogyan alkalmazzuk a szabályt.
 
 ## <contents> [Contents](guidelines:contents)
 

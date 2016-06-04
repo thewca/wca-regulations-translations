@@ -22,6 +22,7 @@ En pro de la claridad, cada Directriz se clasifica usando una de las siguientes 
 - <label>[EXPLICACIÓN] Información que aclara el propósito del Reglamento.
 - <label>[RECOMENDACIÓN] Algo que no es estrictamente obligatorio, pero que debería hacerse si es posible.
 - <label>[RECORDATORIO] Información que se encuentra en otras Reglas o Directrices, pero cuya relevancia hace que merezca ser reiterada.
+- <label>[EJEMPLO] Un ejemplo de cómo aplicar una Regulación.
 
 
 ## <contents> [Contenido](guidelines:contents)
@@ -63,7 +64,7 @@ En pro de la claridad, cada Directriz se clasifica usando una de las siguientes 
 - 3h2+) [ACLARACIÓN] Antes, los puzzles “stickerless” no estaban permitidos. Ahora sí son permitidos. 
 - 3h2++) [ACLARACIÓN] Los puzzles “stickerless que sean muy diferentes que la mayoría de aquellos los que son producidos en masa, sólo serán permitidos a discreción del Delegado de la WCA. 
 - 3j+) [RECORDATORIO] En el pasado, partes gravadas o en relieve han sido admitidas. Pero esto ya no se permite. 
-- 3j2+) [ALCARACIÓN] En Clock, todas las 18 caras de los relojes internos son consideradas piezas similares
+- 3j2+) [ACLARACIÓN] En Clock, todas las 18 caras de los relojes internos son consideradas piezas similares
 - 3l+) [ADICIÓN] Los logos pueden tener un diseño razonable que no de una ventaja notable (p. ej. información codificada que pudiera ser utilizada para hacer trampa), y deben permitir que la parte de color sea claramente reconocible. Los logos poco convencionales sólo serán permitido a criterio del Delegado de la WCA.
 
 

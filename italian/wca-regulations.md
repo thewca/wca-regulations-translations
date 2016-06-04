@@ -288,6 +288,7 @@ Nota: potrebbero esserci discrepanze nella numerazione dei vari articoli, visto 
     - 12c2) (x,y) significano: ruotare lo strato superiore x volte di 30 gradi in senso orario, ruotare lo strato inferiore y volte di 30 gradi in senso orario.
     - 12c3) "/" significa: ruotare la metà destra del puzzle di 180 gradi.
 - 12d) Notazione del Megaminx (solo per lo scramble):
+    - 12d1) Movimenti di faccia:
         - 12d1a) In senso orario, 72 gradi: U (upper face).
         - 12d1b) In senso antiorario, 72 gradi: U' (upper face).
     - 12d2) Gli altri movimenti vanno eseguiti tenendo fissi 3 pezzi sulla parte superiore sinistra del puzzle:
