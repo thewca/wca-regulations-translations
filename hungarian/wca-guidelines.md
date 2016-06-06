@@ -54,7 +54,7 @@ A hatékonyabb megértés segítségéül minden útmutatás a következő címk
 
 - 3a+) [PONTOSÍTÁS] A versenyzők bármilyen ésszerű méretű játékot használhatnak a kirakások során, a WCA delegált beleegyezésével.
 - 3a++) [KIEGÉSZÍTÉS] Alapértelmezésként a versenyző ugyanazt a játékot hasznűlja az egymást követő kirakásoknál. A kirakások között a versenyző változtathat a használt játékon, a bíró vagy a WCA delegált beleegyezésével.
-- 3a++) [PONTOSÍTÁS] A versenyzők kölcsönkérhetnek egymástól játékokat a versenyen való használatra.
+- 3a+++) [PONTOSÍTÁS] A versenyzők kölcsönkérhetnek egymástól játékokat a versenyen való használatra.
 - 3a1+) [PONTOSÍTÁS] A versenyzők kizárhatók, ha nem jelennek meg, amikor versenyezni szólítják őket, vagy ha  nem tudnak játékot biztosítani a bekeveréshez. (pl. Ha egy másik versenyző játékát kívánja használni, de azzal éppen valaki más versenyzik, így nem tudja időben leadni a játékát a bekeveréshez.)
 - 3d1b+) [PONTOSÍTÁS] Nem muszáj minden oldalra mintákat helyezni, csak azokra szükséges, amelyek hasonló színűek. Az elemeken nem lehet egyéb kiegészítés (pl. textúra, eltérő minták), amelyek jelentősen megkülönböztetik a hasonló elemeket egymástól.
 - 3h+) [PONTOSÍTÁS] A játékokon lehet belsőleg finomítani csiszolással, vagy szilikonozással illetve egyéb forgatást segítő anyagokkal.

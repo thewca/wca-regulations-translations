@@ -213,7 +213,7 @@ Nota: Os números dos artigos não são atualizados quando algum deles é apagad
     - 9f5) O resultado de uma tentativa é registrado como DNS (Did Not Start) se o competidor tem direito a uma tentativa mas desiste dela.
     - 9f6) Nas rodadas "Melhor de X", cada competidor tem X tentativas. O melhor resultados dessas tentativas conta para a posição do competidor na rodada.
     - 9f7) Nas rodadas "Melhor de X", um DNF ou DNS é o pior resultado.
-    - 9f7) Nas rodadas "Média de 5", os competidores tem 5 tentativas. Dessas 5, a melhor e a pior são removidas, e a média aritmética das 3 tentativas restantes conta para a posição do competidor na rodada.
+    - 9f8) Nas rodadas "Média de 5", os competidores tem 5 tentativas. Dessas 5, a melhor e a pior são removidas, e a média aritmética das 3 tentativas restantes conta para a posição do competidor na rodada.
     - 9f9) Nas rodadas "Média de 5", um DNF ou DNS é permitido como o pior resultado do competidor na rodada. Se o competidor tem mais de um DNF e/ou DNS na rodada, sua média naquela rodada será DNF.
     - 9f10) Nas rodadas "Média de 3", os competidores tem 3 tentativas. A média aritmética das 3 conta para a posição do competidor na rodada.
     - 9f11) Nas rodadas "Média de 3", se o competidor tiver um resultado DNF ou DNS, sua média na rodada será DNF.

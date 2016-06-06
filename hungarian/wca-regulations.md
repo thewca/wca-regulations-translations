@@ -395,7 +395,7 @@ Megjegyzés: A Szabályzat változtatásával a Cikkek és a Szabályzat számoz
     - A4d) Ha a kirakás mérésére Stackmat timer van használva, akkor a versenyző ellenőrzi, hogy a timer lámpája zölden világít és a kezei leemelésével a timer-ről elkezdi a kirakást.
         - A4d1) A versenyzőnek a megtekintés kezdetét követő 15 másodperben belül el kell kezdeni a kirakást. Büntetés: időbüntetés (+2 másodperc).
         - A4d2) A versenyzőnek a megtekintés kezdetét követő 17 másodperben belül el kell kezdeni a kirakást. Büntetés: érvénytelen kirakás (DNF).
-        - A4d2) Ha a kirakás mérésére stopper van használva, akkor a bíró akkor indítja el a stoppert, amikor a versenyző megkezdi a kirakást.
+        - A4d3) Ha a kirakás mérésére stopper van használva, akkor a bíró akkor indítja el a stoppert, amikor a versenyző megkezdi a kirakást.
     - A4e) A kirakás megkezdése előtti időbüntetések összeadódnak.
 - A5) Kirakás közben:
     - A5a) A megtekintés és a kirakás közben a versenyző senkivel sem kommunikálhat a bírót kivéve. Büntetés: érvénytelen kirakás (DNF)

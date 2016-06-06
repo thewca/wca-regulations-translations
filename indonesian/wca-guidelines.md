@@ -36,7 +36,7 @@ Agar lebih informatif, tiap pedoman digolongkan menggunakan salah satu dari labe
 - 1c4+) [RECOMMENDATION] Ralat hasil sebaiknya sudah ada dalam satu minggu dari tanggal kompetisi.
 - 1c10+) [CLARIFICATION] Memastikan akses ke salinan digital Regulasi itu cukup.
 - 1h+) [RECOMMENDATION] Kompetitor dalam grup yang sama sebaiknya menggunakan rangkaian scramble yang sama. Grup yang berbeda sebaiknya menggunakan rangkaian scramble yang berbeda.
-- 1h+) [RECOMMENDATION] Semua round final dari setiap event, dan juga semua round Fewest Moves Solving, sebaiknya punya scramble yang sama untuk tiap kompetitor (dengan kata lain hanya 1 grup).
+- 1h++) [RECOMMENDATION] Semua round final dari setiap event, dan juga semua round Fewest Moves Solving, sebaiknya punya scramble yang sama untuk tiap kompetitor (dengan kata lain hanya 1 grup).
 - 1h1+) [CLARIFICATION] Scrambler/judge sebaiknya hanya mengacak untuk/mewasiti kompetitor lain dalam grup yang sama hanya jika itu penting untuk logistik kompetisi.
 
 
@@ -55,7 +55,7 @@ Agar lebih informatif, tiap pedoman digolongkan menggunakan salah satu dari labe
 
 - 3a+) [CLARIFICATION] Kompetitor boleh menggunakan puzzle dengan ukuran yang masuk akal, berdasarkan kebijaksanaan WCA delegate.
 - 3a++) [ADDITION] Secara default, seorang kompetitor sebaiknya menggunakan puzzle yang sama untuk attempt yang berurutan dalam sebuah round speedsolving. Seorang kompetitor boleh mengganti puzzle diantara attempt, berdasarkan kebijaksanaan judge atau WCA Delegate.
-- 3a++) [CLARIFICATION] Kompetitor boleh meminjam puzzle dari kompetitor lain secara pribadi, untuk digunakan dalam kompetisi.
+- 3a+++) [CLARIFICATION] Kompetitor boleh meminjam puzzle dari kompetitor lain secara pribadi, untuk digunakan dalam kompetisi.
 - 3a1+) [CLARIFICATION] Kompetitor dapat didiskualifikasi jika mereka tidak datang ketika dipanggil, atau jika mereka tidak mempunyai puzzle yang siap untuk dikumpulkan (misalnya jika mereka berencana menggunakan puzzle yang sedang digunakan kompetitor lain, sehingga mereka tidak bisa mengumpulkan puzzle pada saat itu).
 - 3h+) [CLARIFICATION] Bagian dalam puzzle dapat disempurnakan dengan mengamplas atau melubrikasi.
 - 3h++) [EXAMPLE] Contoh peningkatan termasuk: Gerakan baru menjadi mungkin, gerakan normal tidak memungkinkan, lebih banyak piece atau muka yang terlihat, warna di sisi belakang puzzle terlihat, gerakan dapat dilakukan otomatis, atau puzzle memiliki keadaan terselesaikan yang berbeda/lebih banyak.
@@ -159,4 +159,4 @@ Agar lebih informatif, tiap pedoman digolongkan menggunakan salah satu dari labe
 - H1b1+) [REMINDER] Attempt tidak didiskualifikasi apabila mencapai batas waktu, dikarenakan pengecualian untuk Multiple Blindfolded Solving (Lihat regulasi A1a4 dan A1a5).
 - H1b1++) [ADDITION] Judge dapat membiarkan kompetitor untuk melanjutkan attempt nya secara tidak resmi, namun attempt nya harus diberhentikan dan dijudge terlebih dahulu sesuai dengan Regulasi.
 - H1d+) [EXAMPLE] Contoh: Apabila kompetitor mengambil 10 cubes dalam attemptnya, berhenti pada waktu 59:57, dan mendapantkan dua pinalti waktu, waka hasil waktu keseluruhannya yaitu 59:57 + 2*2 = 60:01 (lihat juga <Regulation A1a5>).
-- H1d+) [EXAMPLE] COntoh: Apabila kompetitor mengambil 10 cubes dalam attemptnya, dan judge menghentikannya pada waktu mencapai 60 menit, dan mendapatkan dua pinati waktu, maka hasil waktunya yaitu 60:00 + 2*2 = 60:04.
+- H1d++) [EXAMPLE] COntoh: Apabila kompetitor mengambil 10 cubes dalam attemptnya, dan judge menghentikannya pada waktu mencapai 60 menit, dan mendapatkan dua pinati waktu, maka hasil waktunya yaitu 60:00 + 2*2 = 60:04.

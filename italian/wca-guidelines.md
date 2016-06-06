@@ -36,7 +36,7 @@ Per rendere più semplice e immediata la consultazione, ogni Linea Guida è clas
 - 1c4+) [RACCOMANDAZIONE] Eventuali correzioni ai risultati dovrebbero essere inoltrate entro una settimana dal termine della competizione.
 - 1c10+) [CHIARIMENTO] E' sufficiente che sia consultabile una copia digitale del Regolamento.
 - 1h+) [RACCOMANDAZIONE] I partecipanti dello stesso gruppo devono avere gli stessi scramble. Gruppi diversi devono avere scramble diversi.
-- 1h+) [RACCOMANDAZIONE] I turni finali di tutti gli eventi, così come tutti i turni Fewest Moves, devono avere gli stessi scramble per tutti i partecipanti (cioè un gruppo solo).
+- 1h++) [RACCOMANDAZIONE] I turni finali di tutti gli eventi, così come tutti i turni Fewest Moves, devono avere gli stessi scramble per tutti i partecipanti (cioè un gruppo solo).
 - 1h1+) [CHIARIMENTO] Giudici/mischiatori possono giudicare o mischiare nel loro stesso gruppo solo se è necessario per motivi logistici o di tempistica.
 
 
