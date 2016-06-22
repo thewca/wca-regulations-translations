@@ -1,0 +1,16 @@
+language: python
+sudo: required
+dist: trusty
+python:
+  - "2.7"
+before_install:
+  - sudo apt-get -qq -y update
+  - sudo apt-get install -y --no-install-recommends zip
+install:
+  - pip install wrc
+script:
+  - git remote add cubing https://github.com/cubing/wca-regulations-translations
+  - git fetch cubing
+  - wget https://github.com/cubing/wca-regulations/archive/official.zip
+  - unzip official.zip
+  - ./travis.sh
