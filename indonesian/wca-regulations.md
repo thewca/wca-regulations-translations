@@ -24,7 +24,7 @@ Perkembangan Regulasi WCA dan Pedoman WCA terbuka secara umum [di GitHub](https:
 ### Kontak
 Untuk pertanyaan dan saran, hubungi [WCA Regulations Committee (WRC)](http://www.worldcubeassociation.org/contact-information).
 
-##<contents> [Contents](regulations:contents)
+## <contents> [Contents](regulations:contents)
 
 Catatan: Karena nomor Pasal dan Regulasi tidak diatur kembali saat ada Regulasi yang dihapus, akan ada bagian kosong pada penomoran.
 
@@ -298,6 +298,7 @@ Catatan: Karena nomor Pasal dan Regulasi tidak diatur kembali saat ada Regulasi 
     - 12c2) (x,y) berarti: putar layer atas sebanyak x kali 30 derajat searah dengan jarum jam, putar layer bawah sebanyak y kali 30 derajat searah dengan jarum jam.
     - 12c3) "/" berarti: putar setengah dari bagian kanan puzzle 180 derajat.
 - 12d) Notasi untuk Megaminx (hanya notasi untuk mengacak):
+    - 12d1) Gerakan-gerakan Sisi:
         - 12d1a) searah dengan jarum jam, 72 derajat: U (sisi atas).
         - 12d1b) berlawanan dengan jarum jam, 72 derajat: U' (sisi atas).
     - 12d2) Gerakan lain diaplikasikan dengan menahan 3 buah sisi bagian/sisi tetap pada bagian atas kiri dari puzzle:
@@ -435,7 +436,6 @@ Catatan: Karena nomor Pasal dan Regulasi tidak diatur kembali saat ada Regulasi 
     - D3b) Kompetitor memindahkan kakinya dari sensor timer untuk memulai solve.
 - D4) Memberhentikan solve:
     - D4a) Kompetitor memberhentikan timer dengan cara menaruh kakinya di atas sensor timer.
-    
 
 ## <article-E><fewest-moves><fewestmovessolving> Pasal E: Fewest Moves Solving
 

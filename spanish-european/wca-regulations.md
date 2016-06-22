@@ -343,11 +343,10 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
     - 12g3) Gira una rueda que esté junto a una punta hacia arriba: x+ (x horas en sentido horario), x- (x horas en sentido antihorario)
     - 12g4) Girar el puzzle sobre su eje horizontal de modo que las 12 sigan arriba, y además bajar todos los botones: y2.
 - 12h) Notación para Skewb:
-    -12h1) El puzzle se orienta con tres caras completamente visibles, de modo que la cara superior quede arriba.
-    -12h2) Sentido horario, 120º: R (la capa que gira sobre el vértice visible más alejado atrás a la derecha), U (la capa que gira sobre el vértice visible más alejado atrás y arriba), L (la capa que gira sobre el vértice visible más alejado atrás a la izquierda), B (la capa que gira sobre el vértice trasero no visible).
-    -12h3) Sentido antihorario, 120º: R' (la capa que gira sobre el vértice visible más alejado atrás a la derecha), U' (la capa que gira sobre el vértice visible más alejado atrás y arriba), L' (la capa que gira sobre el vértice visible más alejado atrás a la izquierda), B' (la capa que gira sobre el vértice trasero no visible).
+    - 12h1) El puzzle se orienta con tres caras completamente visibles, de modo que la cara superior quede arriba.
+    - 12h2) Sentido horario, 120º: R (la capa que gira sobre el vértice visible más alejado atrás a la derecha), U (la capa que gira sobre el vértice visible más alejado atrás y arriba), L (la capa que gira sobre el vértice visible más alejado atrás a la izquierda), B (la capa que gira sobre el vértice trasero no visible).
+    - 12h3) Sentido antihorario, 120º: R' (la capa que gira sobre el vértice visible más alejado atrás a la derecha), U' (la capa que gira sobre el vértice visible más alejado atrás y arriba), L' (la capa que gira sobre el vértice visible más alejado atrás a la izquierda), B' (la capa que gira sobre el vértice trasero no visible).
 
-    
 ## <article-A><speedsolving><speedsolving> Artículo A: Pruebas de Velocidad
 
 - A1) Los intentos de Pruebas de Velocidad tienen que seguir el siguiente procedimiento.
@@ -370,7 +369,7 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
     - A2d) Cuando coja un puzzle de la mesa de mezclas, el juez mira brevemente el puzzle para asegurarse de que está suficientemente mezclado. Si el juez piensa que no es así, se lo comunicará al mezclador que lo comprobará detalladamente.
         - A2d1) El equipo organizador puede requerir de los mezcladores medidas especiales para asegurarse de que han realizado la mezcla correcta (por ejemplo, firmar la hoja de tiempos para ratificar que han realizado la mezcla oportuna y que además ésta concuerda con el patrón de mezcla, o incluso habilitar personal especial como "comprobador de mezclas"). 
     - A2e) El juez coloca el puzzle sobre la alfombrilla en una orientación aleatoria y se asegura de que está completamente cubierto.
-        -A2e1) No se permite solicitar una orientación específica, y el juez tiene prohibido influir en la orientación del puzzle una vez colocado sobre la alfombrilla.
+        - A2e1) No se permite solicitar una orientación específica, y el juez tiene prohibido influir en la orientación del puzzle una vez colocado sobre la alfombrilla.
 - A3) Inspección:
     - A3a) El competidor puede inspeccionar el puzzle al principio de cada intento.
         - A3a1) El competidor tiene 15 segundos para inspeccionar el puzzle y empezar su resolución.
@@ -424,7 +423,6 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
     - A7f) Cuando la hoja de resultados de una ronda está completa, el juez entrega la hoja al encargado de recoger los resultados.
     - A7g) A discreción del Delegado de la WCA, un incidente o penalización originados por la inexperiencia de un competidor debutante puede reemplazarse por un intento extra.
 
-    
 ## <article-B><blindfolded><blindfoldedsolving> Artículo B: Resolución a Ciegas
 
 - B1) Se siguen los procedimientos estándar de Pruebas de Velocidad, descritos en el [Artículo A](regulations:article:A). Las reglas adicionales que reemplazan a los correspondientes procedimientos del [Artículo A](regulations:article:A) se describen a continuación.

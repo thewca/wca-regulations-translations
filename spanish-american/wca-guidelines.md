@@ -22,6 +22,7 @@ En pro de la claridad, cada Directriz se clasifica usando una de las siguientes 
 - <label>[EXPLICACIÓN] Información que aclara el propósito del Reglamento.
 - <label>[RECOMENDACIÓN] Algo que no es estrictamente obligatorio, pero que debería hacerse si es posible.
 - <label>[RECORDATORIO] Información que se encuentra en otras Reglas o Directrices, pero cuya relevancia hace que merezca ser reiterada.
+- <label>[EJEMPLO] Un ejemplo de cómo aplicar una Regulación.
 
 
 ## <contents> [Contenido](guidelines:contents)
@@ -63,8 +64,8 @@ En pro de la claridad, cada Directriz se clasifica usando una de las siguientes 
 - 3h2+) [ACLARACIÓN] Antes, los puzzles “stickerless” no estaban permitidos. Ahora sí son permitidos. 
 - 3h2++) [ACLARACIÓN] Los puzzles “stickerless que sean muy diferentes que la mayoría de aquellos los que son producidos en masa, sólo serán permitidos a discreción del Delegado de la WCA. 
 - 3j+) [RECORDATORIO] En el pasado, partes gravadas o en relieve han sido admitidas. Pero esto ya no se permite. 
-- 3j2+) [ALCARACIÓN] En Clock, todas las 18 caras de los relojes internos son consideradas piezas similares
-- 3I+) [ADICIÓN] Los logos pueden tener un diseño razonable que no de una ventaja notable (p. ej. información codificada que pudiera ser utilizada para hacer trampa), y deben permitir que la parte de color sea claramente reconocible. Los logos poco convencionales sólo serán permitido a criterio del Delegado de la WCA.
+- 3j2+) [ACLARACIÓN] En Clock, todas las 18 caras de los relojes internos son consideradas piezas similares
+- 3l+) [ADICIÓN] Los logos pueden tener un diseño razonable que no de una ventaja notable (p. ej. información codificada que pudiera ser utilizada para hacer trampa), y deben permitir que la parte de color sea claramente reconocible. Los logos poco convencionales sólo serán permitido a criterio del Delegado de la WCA.
 
 
 ## <article-4><scrambling><scrambling> Artículo 4: Mezclas
@@ -115,8 +116,8 @@ En pro de la claridad, cada Directriz se clasifica usando una de las siguientes 
 - 9b++) [ADICIÓN] Otros eventos distintos de los especificados en la [Regla 9b](regulations:regulation:9b) pueden ser celebrados durante la competencia, pero serán considerados no oficiales y por tanto no serán incluidos en los resultados oficiales de la competencia.
 - 9b3b+) [ACLARACIÓN] La estadística de la “Media de 3” no afecta el rango de ese competidor en una ronda de “Mejor de 3” (la cual está basada en el mejor resultado). La WCA lo reconoce por fuera del formato de la competencia.
 - 9f1+) [EJEMPLO] Si el cronómetro muestra el número “12.678” para un intento, el tiempo que se registrará será “12.67” (se quitarán los dígitos extras a la centésima del segundo). Un juez puede escribir el tiempo completo en la hoja de resultados (para calcular con precisión las penalizaciones), siempre y cuando el encargado de digitar los resultados en el ordenador quite los dígitos extra para los resultados oficiales. 
-- 9f4+ [EXPLICACIÓN] El resultado de un intento es DNF sólo si el competidor inició el intento indicando que estaba listo (ver [Regla A3b2](regulations:regulation:a3b2)) pero el intento fue descalificado. 
--9f5+) [ACLARACIÓN] El resultado de un intento es DNS si el competidor fue llamado a un intento y no lo comenzó siquiera (ver [Regla A3b2](regulationsregulations:a3b2)). Si el competidor no se clasificó para un intento ( p. ej. en una ronda combinada), no tiene ningún resultado para el intento.
+- 9f4+) [EXPLICACIÓN] El resultado de un intento es DNF sólo si el competidor inició el intento indicando que estaba listo (ver [Regla A3b2](regulations:regulation:a3b2)) pero el intento fue descalificado. 
+- 9f5+) [ACLARACIÓN] El resultado de un intento es DNS si el competidor fue llamado a un intento y no lo comenzó siquiera (ver [Regla A3b2](regulationsregulations:a3b2)). Si el competidor no se clasificó para un intento ( p. ej. en una ronda combinada), no tiene ningún resultado para el intento.
 - 9q+) [RECOMENDACIÓN] Los eventos y rondas deben tener al menos 2 competidores.
 
 
@@ -146,7 +147,7 @@ En pro de la claridad, cada Directriz se clasifica usando una de las siguientes 
 - A1a4+) [RECORDATORIO] Si a un competidor se le ha permitido accidentalmente superar el límite de tiempo, el límite de tiempo debe ser aplicado retroactivamente, y el juez, competidor y Delegado WCA deben ser informados (ver [Regla 1g2](regulations:regulation:1g2)). Los jueces deben siempre conocer el tiempo límite del intento en curso, (que podría depender de intentos previos, en caso de un tiempo límite acumulativo).
 - A2c1+) [ACLARACIÓN] En el pasado, las tarjetas de resultados se usaban para tapar los puzzles, lo que dejaba algunas caras al descubierto. Esto ya no está permitido.
 - A3c3+) [ACLARACIÓN] El competidor puede reiniciar el cronómetro antes/durante la etapa de inspección si es que al juez se le olvida hacerlo. Pero, es responsabilidad del juez asegurarse que el cronómetro fué reiniciado (ver [Regla A3b](regulations:regulation:A3b)). Si el competidor, por accidente, trata de iniciar la solución con un cronómetro que el juez no reinició (p.ej. el competidor realiza la inspección, pone sus manos sobre el cronómetro por un tiempo razonable, asume que el cronómetro va a iniciar normalmente, y empieza a manipular el puzzle), el intento deberá ser reemplazado por un intento extra, a discreción del Delegado de la WCA. 
-- A3C4+) [ACLARACIÓN] Si se olgigó a usar objetos delgados adentro de un puzzle el juez no debe remover el objeto por el competidor. 
+- A3c4+) [ACLARACIÓN] Si se olgigó a usar objetos delgados adentro de un puzzle el juez no debe remover el objeto por el competidor. 
 - A6b+) [EXPLICACIÓN] El valor arbitrario de 0.06 segundos ha sido seleccionado para dar respuesta a los errores de funcionamiento de los cronómetros Stackmat.
 - A6f+) [ACLARACIÓN] Si el competidor reinicia el cronómetro antes de que el resultado fuera completamente anotado, el juez no debe anotar el resultado de memoria o basándose en evidencia de un video o de una fotografía, lo que debe hacer es descalificar el intento (DNF).
 - A6g+) [ADICIÓN] Mientras el juez determina si asignar una penalización por mal alineamiento, no debe tocar el puzzle.
@@ -154,7 +155,6 @@ En pro de la claridad, cada Directriz se clasifica usando una de las siguientes 
 - A7g+) [EJEMPLO] Ejemplos de los incidentes que podrían ocurrir y por ello representar un intento extra para un competidor: no experar a que se encienda la luz verde, que se active o se detenga mal el cronómetro, pasarse del tiempo de inspección debido a un malentendido de cómo se debía iniciar el intento, o por algunas otras penalizaciones de tiempo. 
 - A7g++) [ACLARACIÓN] Las penalizaciones de tiempo no pueden cederse para nuevos competidores. Debe otrogarse un intento toalmente nuevo. 
 - A7g+++) [RECOMENDACIÓN] El delegado de la WCA deberá usar una fuerte discreción cuando otorgue un intento extra a un mismo competidore nuevo. Si se le otorga más de un itento extra, deberá ser por un incidente distinto. 
- 
 
 
 ## <article-B><blindfolded><blindfoldedsolving> Artículo B: Resolución a ciegas

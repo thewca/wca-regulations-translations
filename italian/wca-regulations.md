@@ -117,8 +117,7 @@ Nota: potrebbero esserci discrepanze nella numerazione dei vari articoli, visto 
 - 3j) I puzzle devono essere puliti, senza nessun tipo di segni, pezzi sopraelevati, danni o nessun'altra anomalia che potrebbe distinguere un singolo pezzo da un altro simile.
     - 3j1) I puzzle possono presentare segni di usura; il loro uso in gara è a discrezione del Delegato WCA.
 - 3k) I puzzle devono essere approvati dal Delegato WCA prima dell'uso in competizione ufficiale.
-- 3l) Un puzzle cubico può avere uno e un solo logo.
-Per i Cubi di Rubik o puzzle dal simile funzionamento di maggiori dimensioni il logo deve essere posizionato in uno dei pezzi centrali.
+- 3l) Un puzzle cubico può avere uno e un solo logo. Per i Cubi di Rubik o puzzle dal simile funzionamento di maggiori dimensioni il logo deve essere posizionato in uno dei pezzi centrali.
     - 3l1) Incisioni (massimo 1 per faccia) non sono considerati loghi.
 - 3m) Tutte le marche di puzzle e tutte le parti di puzzle sono ammessi, a patto che questi componenti rispettino il Regolamento WCA.
 
@@ -289,6 +288,7 @@ Per i Cubi di Rubik o puzzle dal simile funzionamento di maggiori dimensioni il 
     - 12c2) (x,y) significano: ruotare lo strato superiore x volte di 30 gradi in senso orario, ruotare lo strato inferiore y volte di 30 gradi in senso orario.
     - 12c3) "/" significa: ruotare la metà destra del puzzle di 180 gradi.
 - 12d) Notazione del Megaminx (solo per lo scramble):
+    - 12d1) Movimenti di faccia:
         - 12d1a) In senso orario, 72 gradi: U (upper face).
         - 12d1b) In senso antiorario, 72 gradi: U' (upper face).
     - 12d2) Gli altri movimenti vanno eseguiti tenendo fissi 3 pezzi sulla parte superiore sinistra del puzzle:
@@ -312,8 +312,7 @@ Per i Cubi di Rubik o puzzle dal simile funzionamento di maggiori dimensioni il 
         - A1a1) Il tempo limite di default per ogni tentativo è 10 minuti, anche se il team organizzativo può fissarne uno più alto o più basso.
         - A1a2) Possono essere applicati tempi limite cumulativi (ad esempio 3 tentativi con un tempo limite complessivo di 20 minuti). Il tempo trascorso per una risoluzione poi risultata DNF conta ai fini del tempo limite complessivo.
         - A1a3) Per ogni turno, l'eventuale tempo limite deve essere annunciato prima dell'inizio del turno stesso, e non deve essere cambiato dopo il suo inizio. Eventuali cambiamenti sono soggetti alla discrezione del Delegato WCA, che deve valutare attentamente la correttezza di una tale decisione. 
-        - A1a4) I partecipanti devono concludere la risoluzione entro il tempo limite. Se un partecipante raggiunge il tempo limite per un tentativo/turno, il giudice ferma immediatamente la risoluzione e registra il risultato come DNF.
-Eccezione: Multiple Blindfolded (vedi <Regulation H1b1>).
+        - A1a4) I partecipanti devono concludere la risoluzione entro il tempo limite. Se un partecipante raggiunge il tempo limite per un tentativo/turno, il giudice ferma immediatamente la risoluzione e registra il risultato come DNF. Eccezione: Multiple Blindfolded (vedi <Regulation H1b1>).
         - A1a5) Una risoluzione viene considerata sotto il tempo limite se e solo se il risultato finale, dopo che siano state applicate eventuali penalità, è sotto il tempo limite. Eccezione: Multiple Blindfolded (vedi <Regulation H1b1>).
     - A1b) Se il tempo limite per una risoluzione è maggiore di 10 minuti, deve essere usato un cronometro manuale. 
         - A1b1) L'uso simultaneo di uno Stackmat è opzionale.

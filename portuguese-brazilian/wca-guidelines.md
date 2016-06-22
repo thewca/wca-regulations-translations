@@ -26,6 +26,7 @@ Para ser mais informativo, cada orientação é classificada usando um dos segui
 - <label>[EXPLICAÇÃO] Informação para esclarecer o objetivo do Regulamento.
 - <label>[RECOMENDAÇÃO] Algo que não é obrigatório, mas que deve ser feito sempre que possível.
 - <label>[LEMBRETE] Informação já dita em outra regra/orientação, mas que é importante reinterar.
+- <label>[EXEMPLO] Um exemplo de como aplicar uma Regra.
 
 
 ## <contents> [Contents](guidelines:contents)
@@ -40,7 +41,7 @@ Para ser mais informativo, cada orientação é classificada usando um dos segui
 - 1c4+) [RECOMENDAÇÃO] Correções de resultados devem estar disponíveis em até uma semana da data da competição.
 - 1c10+) [ESCLARECIMENTO] Garantir o acesso às copias digitais do Regulamento é o suficiente.
 - 1h+) [RECOMENDAÇÃO] Competidores no mesmo grupo devem usar as mesmas sequências de embaralhamento. Grupos diferentes devem usar sequências de embaralhamento diferentes.
-- 1h+) [RECOMENDAÇÃO] Todas as rodadas finais  e todas as rodadas de Resolução em menos movimentos devem ter os mesmos embaralhamentos para todos competidores (ou seja, somente 1 grupo).
+- 1h++) [RECOMENDAÇÃO] Todas as rodadas finais  e todas as rodadas de Resolução em menos movimentos devem ter os mesmos embaralhamentos para todos competidores (ou seja, somente 1 grupo).
 - 1h1+) [ESCLARECIMENTO] Embaralhadores/Juízes devem embaralhar/fiscalizar outros competidores do mesmo grupo somente se for importante para a logística do campeonato.
 
 
@@ -58,7 +59,7 @@ Para ser mais informativo, cada orientação é classificada usando um dos segui
 
 - 3a+) [ESCLARECIMENTO] Competidores podem usar quebra-cabeças em qualquer tamanho razoável, ao critério do Delegado da WCA.
 - 3a++) [ADIÇÃO] Por padrão, o competidor deve usar o mesmo quebra-cabeça em tentativas consecutivas numa rodada de resolução rápida. O competidor pode trocar de quebra-cabeças entre tentavivas, a critério do juiz ou do Delegado da WCA.
-- 3a++) [ESCLARECIMENTO] Competidores podem pedir, em particular, quebra-cabeças emprestados de outros competidores.
+- 3a+++) [ESCLARECIMENTO] Competidores podem pedir, em particular, quebra-cabeças emprestados de outros competidores.
 - 3a1+) [ESCLARECIMENTO] Competidores podem ser desclassificados se eles não chegarem quando forem chamados ou se eles não tem um quebra-cabeça pronto para ser usado (por exemplo, se ele planejou pedir o cubo de outro competidor emprestado e o competidor estiver usando no momento, não podendo entregar o cubo).
 - 3h+) [ESCLARECIMENTO] Quebra-cabeças podem ser melhorados internamente, lixando ou lubrificando.
 - 3h++) [EXEMPLO] Exemplos de melhorias: Novos movimentos possíveis, movimentos normais impossíveis, mais peças ou faces visíveis, cores na parte de trás são visíveis, movimentos são feitos automaticamente ou se o quebra-cabeça tiver mais de um estado resolvido.
