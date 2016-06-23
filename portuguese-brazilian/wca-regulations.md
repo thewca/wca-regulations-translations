@@ -1,13 +1,13 @@
-Translation
-Portuguese - 2016
-
-Por favor atente-se para o fato de que essa tradução não é uma versão oficial (embora seja disponilizada no site da WCA): ela pode ser útil, mas não vem com nenhuma garantia. Se houver diferenças entre uma tradução e a versão (atualmente oficial) em inglês, esta última deve ser usada.
-
 # <wca-title>Regulamento da WCA 2016
 
 <version>Versão: 18 de Abril de 2016
 
 ## Notas
+
+Translation
+Portuguese - 2016
+
+Por favor atente-se para o fato de que essa tradução não é uma versão oficial (embora seja disponilizada no site da WCA): ela pode ser útil, mas não vem com nenhuma garantia. Se houver diferenças entre uma tradução e a versão (atualmente oficial) em inglês, esta última deve ser usada.
 
 ### Regulamento e Orientações da WCA
 
@@ -63,7 +63,7 @@ Nota: Os números dos artigos não são atualizados quando algum deles é apagad
     - 1g2) Qualquer alteração no resultado em uma súmula somente é permitida a critério do Delegado da WCA.
 - 1h) Os competidores em uma mesma rodada de um evento podem ser divididos em grupos.
     - 1h1) Embaralhadores e juízes em uma rodada não devem embaralhar ou fiscalizar competidores em seu próprio grupo antes de terem terminado todas as suas tentativas naquela rodada. Eles podem embaralhar ou fiscalizar competidores em seu próprio grupo a critério do Delegado da WCA, mas a equipe de organização deve assegurar que embaralhadores e juízes não vejam nenhuma sequência de embaralhamento de tentativas que ainda não tenham feito.
-- 1j) Todos os oficiais podem participar da competição.    
+- 1j) Todos os oficiais podem participar da competição.
 - 1k) Os oficiais podem exercer várias funções (por exemplo: equipe de organização, Delegado da WCA, juiz, anotador de resultado, embaralhador).
 
 
@@ -353,7 +353,8 @@ Nota: Os números dos artigos não são atualizados quando algum deles é apagad
     - A1a) A equipe de organização deve/tem que estabelecer limites de tempo para tentativas e/ou rodadas.
         - A1a1) O tempo limite padrão por tentativa é de 10 minutos, mas a equipe de organização pode anunciar um limite maior ou menor.
         - A1a2) Limites de tempo cumulativos podem ser aplicados (por exemplo, 3 resultados com um tempo limite cumulativo de 20 minutos). O tempo passado em um resultado DNF conta para o tempo limite cumulativo.
-        - A1a3) Para cada rodada, o tempo limite deve ser anunciado antes que a rodada comece, e não deve ser mudado depois que a rodada começou. Mudanças tem que ser feitas a critério do Delegado da WCA, que deve analisar cuidadosamente a justeza da mudança.         - A1a4) O competidor deve terminar cada resolução dentro do tempo limite. Se um competidor atingir o tempo limite de uma tentativa/rodada, o juiz para a tentativa imediatamente e registra o resultado como DNF. Exceção: Múltiplos Cubos Vendados (ver [Regra H1b1](regulations:regulation:H1b1)).
+        - A1a3) Para cada rodada, o tempo limite deve ser anunciado antes que a rodada comece, e não deve ser mudado depois que a rodada começou. Mudanças tem que ser feitas a critério do Delegado da WCA, que deve analisar cuidadosamente a justeza da mudança.
+        - A1a4) O competidor deve terminar cada resolução dentro do tempo limite. Se um competidor atingir o tempo limite de uma tentativa/rodada, o juiz para a tentativa imediatamente e registra o resultado como DNF. Exceção: Múltiplos Cubos Vendados (ver [Regra H1b1](regulations:regulation:H1b1)).
         - A1a5) Uma tentativa é considerada como tendo atendido o tempo limite se e somente se o resultado final, depois da aplicação de quaisquer punições, for menor do que o tempo limite. Exceção: Múltiplos Cubos Vendado (ver [Regra H1b1](regulations:regulation:H1b1)).
     - A1b) Se o tempo limite para uma tentativa for maior que 10 minutos, um cronômetro é usado para medir o tempo.
         - A1b1) Para eventos com inspeção, um “Stackmat timer” deve ser usado além do cronômetro. Para eventos sem inspeção nos quais é esperado que o competidor exceda 10 minutos, o uso de um "Stackmat timer" é opcional.
