@@ -1,0 +1,528 @@
+# <wca-title>WCA-säännöt
+
+<version>Versio: 18. huhtikuuta 2016
+
+
+## Huomautukset
+
+### WCA-säännöt ja -ohjesäännöt
+
+WCA-säännöt on kokoelma säännöistä joita tulee noudattaa kaikissa World Cube Associationin hyväksymissä virallisissa kilpailuissa.    
+[WCA-ohjesäännöt](guidelines:top) tukevat WCA-sääntöjä. Sääntöjä tulisi pitää täydellisenä asiakirjana, mutta ohjesäännöt sisältävät tarkennuksia ja selityksiä sääntöihin.
+
+### Kieliasu
+Englanninkielinen asiakirja [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt) selittää sanojen "must", "must not", "should", "should not" ja "may" merkitykset. Tämä käännös seuraa alkuperäisten sääntöjen sanamuotoja mahdollisimman tarkasti. Sanaan "must" viitataan sanalla "täytyy", sanoihin "must not" sanoilla "ei saa", sanaan "should" sanalla "pitäisi", sanoihin "should not" sanoilla "ei pitäisi" ja sanaan "may" sanalla "voi".
+
+### Käännös
+Tämä käännös ei ole virallinen versio vaikka se löytyy WCA:n verkkosivulta: käännöksestä voi olla hyötyä, mutta sen täsmällisyys ei ole taattu. Jos käännöksen ja nykyisen englanninkielisen version välillä on eroavaisuuksia, täytyy englanninkielistä versiota käyttää.
+
+### Tietoa internetissä
+World Cube Associationin verkkosivu: [www.worldcubeassociation.org](https://www.worldcubeassociation.org/)    
+WCA-sääntöjen alkuperäinen lähde: [www.worldcubeassociation.org/regulations](https://www.worldcubeassociation.org/regulations/)    
+WCA-säännöt [PDF-tiedostona](link:pdf)
+
+### Lähde
+WCA-sääntöjen ja -ohjesääntöjen kehitys on julkista [GitHubissa](https://github.com/cubing/wca-documents).
+
+### Yhteystiedot
+Ota yhteyttä [WCA Regulations Comitee:n (WRC)](https://www.worldcubeassociation.org/contact/wrc) kysymyksiä ja palautetta varten.
+
+
+## <contents> [Sisältö](regulations:contents)
+
+Huomautus: Koska artikloille ja säännöille ei määrätä uusia numerioita kun sääntöjä poistetaan, voi numeroinnissa olla aukkoja.
+
+<table-of-contents>
+
+
+## <article-1><officials><officials> Artikla 1: Toimihenkilöt
+
+- 1a) Kilpailulla täytyy olla WCA-delegaatti ja järjestäjäryhmä (yksi tai useampi jäsen) seuraavine toimihenkilöineen: tuomarit, sekoittajat ja tulosten tallentaja.
+- 1b) Kilpailun järjestäjäryhmä on vastuussa logistiikasta ennen ja jälkeen kilpailun, sekä kilpailun aikana.
+- 1c) WCA-delegaatti voi siirtää vastuutehtäviä järjestäjäryhmän muille jäsenille, mutta on viime kädessä vastuussa siitä, miten nämä tehtävät suoritetaan. Kilpailun WCA Delegaatti on vastuussa seuraavista tehtävistä:
+    - 1c1) Raportointi WCA Boardille WCA-sääntöjen noudattamisesta kilpailun aikana, sääntörikkomuksista ja kilpailun kulusta yleisesti. Raportti täytyy lähettää WCA Boardille viikon sisällä kilpailun päättymisestä.
+    - 1c3) Kilpailun tulosten lähettäminen WCA Results Teamille viikon sisällä kilpailun päättymisestä.
+        - 1c3a) Kaikki kilpailun aikana käytetyt sekoitussarjat täytyy lähettää kilpailun tulosten kanssa.
+        - 1c3b) Sekoitussarjat täytyy luokitella niihin lajeihin kierroksiin ja ryhmiin joihin niitä käytettiin.
+    - 1c4) Kilpailun tulosten korjausten lähettäminen WCA Boardille.
+    - 1c5) Muiden toimihenkilöiden avustaminen tarvittaessa.
+    - 1c6) Kaikkien lajien ja kierrosformaattien hyväksyminen ennen kilpailun alkua ja kilpailun aikana, jos muutoksille on tarvetta.
+    - 1c7) Päätökset kilpailijoiden hylkäämisestä kilpailun aikana.
+    - 1c8) Sekoitussarjoista huolehtiminen.
+    - 1c9) Päätökset muutoksista aikatauluun. Muutoksia tehdessä on annettava selkeä ilmoitus kaikille kilpailijoille.
+    - 1c10) Huolehtiminen siitä, että kilpailupaikalla on saatavilla englanninkielinen kopio WCA-säännöistä.
+- 1e) Jokaisella lajilla täytyy olla yksi tai useampi tuomari.
+    - 1e1) Tuomari on vastuussa lajin menettelytapojen suorittamisesta.
+        - 1e1a) Tuomari voi tuomaroida useampaa kilpailijaa samanaikaisesti WCA-delegaatin harkinnan mukaan, kunhan tuomari pystyy varmistamaan, että kaikkia WCA-sääntöjä noudatetaan jatkuvasti.
+    - 1e2) Jokaisen kilpailijan täytyy olla valmis toimimaan tuomarina. Jos kilpailijaa pyydetään toimimaan tuomarina, voidaan hänet vapauttaa vain perustellusta syystä (esim. perehdytyksen puute pulmapeliin) WCA-delegaatin harkinnan mukaan. Rangaistus: hylkäys kilpailusta (ks. [Sääntö 2k](regulations:regulation:2k)).
+- 1f) Jokaisella lajilla on oltava yksi tai useampi sekoittaja. Poikkeus: Vähiten siirtoja -ratkaisu.
+    - 1f1) Sekoittaja sekoittaa pulmapelin sekoitussarjojen mukaisesti ratkaisuyritystä varten.
+    - 1f2) Jokaisen kilpailijan täytyy olla valmis toimimaan sekoittajana. Jos kilpailijaa pyydetään toimimaan sekoittajana, voidaan hänet vapauttaa vain perustellusta syystä (esim. perehdytyksen puute sekoituksen notaatioon) WCA-delegaatin harkinnan mukaan. Rangaistus: hylkäys kilpailusta (ks. [Sääntö 2k](regulations:regulation:2k)).
+- 1g) Jokaisella lajilla on oltava yksi tai useampi tulosten tallentaja.
+    - 1g1) Tulosten tallentaja on vastuussa tulosten keräämisestä.
+    - 1g2) Muutokset tuloskorteilla oleviin tuloksiin ovat sallittuja WCA-delegaatin harkinnan mukaan.
+- 1h) Samalla kierroksella kilpailevat kilpailijat voidaan jakaa ryhmiin.
+    - 1h1) Kierroksen sekoittajien ja tuomareiden ei pitäisi toimia sekoittajana/tuomarina oman ryhmänsä kilpailijoille ennen kuin he ovat suorittaneet kaikki ratkaisuyrityksensä kyseisellä kierroksella. He voivat toimia sekoittajana/tuomarina oman ryhmänsä kilpailijoille WCA-delegaatin harkinnan mukaan, mutta järjestäjäryhmän täytyy pitää huolta siitä, että he eivät näe sekoitussarjoja niille ratkaisuyrityksille, joita he eivät vielä ole suorittaneet.
+- 1j) Kaikki toimihenkilöt voivat kilpailla kilpailussa.
+- 1k) Toimihenkilöt voivat toimia useissa tehtävissä (esim. järjestäjäryhmä, WCA-delegaatti, tuomari, tulosten tallentaja, sekoittaja).
+
+
+## <article-2><competitors><competitors> Artikla 2: Kilpailijat
+
+- 2a) Kuka tahansa voi kilpailla WCA-kilpailussa kunhan he:
+    - 2a1) Noudattavat WCA-sääntöjä.
+    - 2a2) Täyttävät kilpailun vaatimukset, jotka on selkeästi ilmoitettava ennen kilpailua.
+    - 2a3) Eivät ole kilpailukiellossa.
+- 2b) Alle 18-vuotiaat kilpailijat voivat rekisteröityä ja kilpailla vanhemman/huoltajan suostumuksella.
+- 2c) Kilpailijat rekisteröityvät toimittamalla järjestäjäryhmän edellyttämät tiedot (mukaan lukien: nimi, edustusmaa, syntymäaika, sukupuoli, yhteystiedot, valitut lajit).
+    - 2c1) Kilpailija ei ole oikeutettu kilpailemaan, ellei hän ole suorittanut järjestäjäryhmän määräämää rekisteröintiä.
+- 2d) Kilpailijan nimi, edustusmaa, sukupuoli, ja kilpailutulokset ovat julkista tietoa. Kaikki muut henkilökohtaiset tiedot ovat luottamuksellista, eikä niitä saa paljastaa ulkopuolisille organisaatioille/henkilöille.
+- 2e) Kilpailijoiden täytyy edustaa maata jossa heillä on kansalaisuus. WCA-delegaatin pitäisi varmistaa kansalaisuus henkilöllisyystodistuksesta (esim. passi). Jos kilpailija on kelvoton edustamaan maata jonka hän on rekisteröityessä ilmoittanut, voidaan hänet hylätä takautuvasti ja/tai asettaa kilpailukieltoon, WCA Boardin harkinnan mukaan.
+    - 2e1) Kelvolliset maat on määritelty Wikipedia-artikkelissa "Luettelo itsenäisistä valtioista".
+    - 2e2) Kansalaisuuttaan päivittävät kilpailijat voivat vaihtaa edustusmaataan kalenterivuoden ensimmäisessä kilpailussaan.
+- 2f) Kilpailijoiden täytyy noudattaa kilpailupaikan sääntöjä ja käyttäytyä huomaavaisella tavalla.
+- 2g) Kilpailijoiden on pysyttävä hiljaa ennaltamäärätyllä kilpailualueella. Puhuminen on sallittua, mutta se on pidettävä kohtuullisella tasolla ja erillään suorittavista kilpailijoista.
+    - 2g3) Kilpailijat kilpailijoiden alueella eivät saa keskustella käynnissä olevan kierroksen sekoituksista. Rangaistus: kilpailijan hylkäys lajista WCA-delegaatin harkinnan mukaan.
+- 2h) Kilpailijoiden täytyy olla täysin pukeutuneita kilpailualueella. Kilpailija voidaan hylätä kilpailusta epäsopivasta vaatetuksesta WCA-delegaatin harkinnan mukaan.
+- 2i) Kilpaillessaan kilpailijat eivät saa käyttää elektroniikkaa tai äänilaitteita (esim. puhelimet, MP3-soittimet, lisävalaistus).
+    - 2i1) Kilpailijat voivat käyttää muita kuin sähköisiä apuvälineitä kunhan he eivät saa niillä epäreilua etuasemaa WCA-delegaatin harkinnan mukaan. Tämä käsittää:
+        - 2i1a) Kilpailijan käyttämät lääketieteelliset/fyysiset apuvälineet (esim. silmälasit, rannelasta). Poikkeutena [sääntöön 2i](regulations:regulation:2i), lääketieteelliset apuvälineet voivat olla elektronisia jos kilpailijalla ei ole muita kuin sähkökäyttöisiä vaihtoehtoja (esim. kilpailijalla on kuulolaite tai sydämentahdistin).
+        - 2i1b) Korvatulpat ja kuulosuojaimet (mutta eivät elektroniset vastamelukuulokkeet).
+    - 2i2) Kilpailijat voivat käyttää kameraa ratkaisupaikalla WCA-delegaatin harkinnan mukaan, mutta seuraavat rajoitukset ovat voimassa ratkaisuyrityksen alusta ratkaisun loppuun asti. Rangaistus rajoituksen rikkomisesta: ratkaisuyrityksen hylkäys (DNF).
+        - 2i2a) Jokaisen kameran näytön täytyy olla tyhjä tai poissa kilpailijan näkökentästä (ks. [sääntö A5b](regulations:regulation:A5b)).
+        - 2i2b) Kilpailija ei saa operoida kameraa ratkaisun aikana (t.s. painella kameran näppäimiä, pitää sitä kädessään, pitää sitä päällään). Poikkeus: kilpailija saa pitää kameraa päässään kunhan se on poissa hänen näkökentästään ja on selvää ettei hän operoi sitä (muuten kuin pitämällä sitä päässään).
+- 2j) WCA-delegaatti voi hylätä kilpailijan tietystä lajista.
+    - 2j1) Jos kilpailija hylätään lajista mistä tahansa syystä, hän ei ole oikeutettu kilpailemaan kyseisessä lajissa kilpailun aikana.
+    - 2j2) Jos kilpailija hylätään lajin aikana, hänen aiemmat ratkaisuyritykset pysyvät voimassa. Poikkeus: huijaaminen tai pettäminen (ks. [sääntö 2k2a](regulations:regulation:2k2a)).
+- 2k) Kilpailija voidaan hylätä joistain lajeista (yhdestä lajista, monesta lajista, kaikista lajeista) WCA-delegaatin harkinnan mukaan, jos kilpailija:
+    - 2k1) Ei rekisteröidy kilpailuun ajoissa.
+    - 2k2) On epäilyksen alla huijaamisesta tai toimihenkilöiden pettämisestä kilpailun aikana.
+        - 2k2a) WCA-delegaatti voi hylätä epäilyttävät tulokset.
+    - 2k3) Käyttäytyy lainvastaisesti, väkivaltaisesti tai säädyttömästi; tai tahallisesti vaurioittaa kilpailupaikkaa tai henkilökohtaista omaisuutta kilpailupaikalla.
+    - 2k4) Häiritsee muita kilpailun aikana.
+    - 2k5) Rikkoo WCA-sääntöjä kilpailun aikana.
+- 2l) Kilpailija voidaan hylätä välittömästi, tai varoituksen jälkeen, riippuen rikkeen luonteesta ja vakavuudesta.
+    - 2l1) Hylätty kilpailija ei ole oikeutettu hyvityksiin kilpailuun osallistumisen johdosta aiheutuneisiin kuluihin.
+- 2n) Kilpailija voi sanallisesti riitauttaa päätöksen WCA-delegaatille.
+    - 2n1) Riitautukset ovat sallittuja vain kilpailun aikana, 30 minuutin sisällä riitautetun rikkeen tapahtumisesta ja ennen kyseisen lajin seuraavan kierroksen alkua.
+    - 2n2) WCA-delegaatin täytyy ratkaista riita ennen asianomaisenn lajin seuraavan kierroksen alkua.
+    - 2n3) Kilpailijan on hyväksyttävä kaikki WCA-delegaatin lopulliset tuomiot. Rangaistus: hylkäys kilpailusta.
+- 2s) Vammaiset kilpailijat, joiden vamma estää heitä noudattamasta yhtä tai useampaa WCA-sääntöä voivat pyytää erityiskohtelua WCA-delegaatilta. Kyseistä erityiskohtelua pyytävien kilpailijoiden pitäisi ottaa yhteyttä järjestäjäryhmään ja WCA-delegaattiin vähintään kaksi viikkoa ennen kilpailua.
+- 2t) Jokaisen kilpailijan on tunnettava ja ymmärrettävä WCA-säännöt ennen kilpailua.
+- 2u) Kilpailijoiden täytyy olla läsnä ja valmiina kilpailemaan kun heitä kutsutaan ratkaisuyritystä varten. Rangaistus: hylkäys lajista.
+    - 2u1) Poikkeus: Kilpailija joka ei ole läsnä ajallaan itsenäisesti aikataulutettua ratkaisuyritystä varten (esim. Vähiten siirtoja-yritys, Usean kuution sokkoratkaisun yritys) voidaan olettaa kieltäytyneen kyseisestä ratkaisuyrityksestä (DNS), WCA-delegaatin harkinnan mukaan.
+
+
+## <article-3><puzzles><puzzles> Artikla 3: Pulmapelit
+
+- 3a) Kilpailijoiden täytyy käyttää kilpailussa omia pulmapelejään.
+    - 3a1) Kilpailijoiden täytyy olla valmiita toimittamaan pulmapelinsä kutsuttaessa. (ks. [sääntö 2u](regulations:regulation:2u)).
+    - 3a2) Pulmapelien täytyy olla täysin käyttökelpoisia siten, että tavallinen sekoittaminen on mahdollista.
+    - 3a3) Monitahokkaiden pulmapelien ratkaistussa asemassa jokaista pintaa täytyy vastata yksi muista eroava väri. Jokaisen pulmapelimuunnoksen siirtojen, asemien ja ratkaisujen täytyy olla alkuperäisen pulmapelin kanssa toiminnallisesti identtisiä.
+- 3d) Pulmapelissä on oltava värjättyjä osia, jotka määrittävät pulmapelin värit ja vastaavat vain yhtä seuraavista: värjätyt tarrat, värjätyt laatat, värjätty muovi tai maalatut/painetut värit. Kaikki pulmapelin värjätyistä osista on oltava tehty yhdenlaisesta materiaalista.
+    - 3d1) Seuraavat poikkeukset koskevat kilpailijoita, joilla on lääkärin toteama näkövamma:
+        - 3d1a) Sokeat kilpailijat voivat käyttää kuvioituja pulmapelejä, joissa jokaisella pinnalla on erilainen kuviointi. Jokaisella pinnalla pitäisi olla erilainen väri sekoittamisen ja tuomaroinnin helpottamiseksi.
+        - 3d1b) Värisokeat kilpailijat, jotka eivät pysty erottamaan toisistaan tarpeeksi montaa väriä, voivat käyttää kuvioituja värjättyjä osia, kunhan ne ovat hyväksyttyjä [säännön 2s](regulations:regulation:2s) nojalla. Kuvioinnit voivat olla tarroissa tai ne voidaan piirtää.
+    - 3d2) Värjättyjen osien värien täytyy olla yhtenäisiä siten, että jokaisella pinnalla on yksi yhtenäinen väri. Jokaisen värin täytyy olla selkeästi eriytyvä muista väreistä.
+    - 3d3) Jos värjätyt osat ovat laattoja tai tarroja, ne eivät saa olla paksumpia kuin 1,5mm. Poikkeus: Megaminxin laatat voivat olla hieman paksumpia kuin 1,5mm WCA-delegaatin harkinnan mukaan.
+- 3h) Muutokset, jotka muuttavat pulmapelin perusideaa, ovat kiellettyjä. Pulmapelin muunnosversiot ovat sallittuja vain jos muunnos ei anna kilpailijalle ylimääräistä tietoa (esim. palojen orientaatio tai identiteetti) verrattuna saman pulmapelin muokkaamattomaan versioon.
+    - 3h1) Pyöristetyt (englanniksi "pillowed") pulmapelit eivät ole sallittuja. Poikkeus: Pyöristetyt 7x7x7-kuutiot ovat sallittuja.
+    - 3h2) Pulmapelit joissa värjätty muovi on nähtävissä pulmapelin sisällä (englanniksi "stickerless" puzzles) ovat sallittuja. Tämä ei koske seuraavia pulmapelejä:
+        - 3h2a) Pulmapelit joissa on läpinäkyviä osia. Poikkeus: Läpinäkyvät tarrat (ks. [sääntö 3l](regulations:regulation:3l)).
+    - 3h3) Muunnokset pulmapeliin, jotka aiheuttavat huonon tuloksen, eivät oikeuta kilpailijaa ylimääräisiin ratkaisuyrityksiin.
+    - 3h4) Clockissa kustomoidut "insertit" (samanmuotoiset ja -kokoiset kuin alkuperäiset paperiset insertit) ovat sallittuja WCA-delegaatin harkinnan mukaan. Inserteissä on oltava selkeästi merkittynä kello 12 siten, että se täsmää alkuperäisiä inserttejä.
+- 3j) Pulmapelien on oltava puhtaita, eikä niissä saa olla merkintöjä, koholla olevia osia, vaurioita tai muita erilaisuuksia, joiden avulla jonkin palan voi selvästi erottaa samantyyppisestä palasta. Poikkeus: logo (ks. [sääntö 3l](regulations:regulation:3l)).
+    - 3j1) Pulmapeleissä saa olla kohtuullista kulumista WCA-delegaatin harkinnan mukaan.
+    - 3j2) Määritelmä: Kaksi palaa ovat samantyyppisiä jos ne ovat identtisiä muodon ja koon suhteen tai peilikuvia muodon suhteen ja identtisiä koon suhteen.
+    - 3j3) Aallotetut/kuvioidut palat joista palojen orientaation voi päätellä tunnon perusteella eivät ole sallittuja sokkolajeissa.
+- 3k) WCA-delegaatin täytyy hyväksyä pulmapelit ennen kuin niitä voi käyttää kilpailussa.
+- 3l) Pulmapelissä voi olla logo värjätyllä osalla. Logo voi olla enintään yhdellä värjätyllä palalla.
+    - 3l1) Logon on oltava keskuspalalla. Poikkeukset pulmapeleille joilla ei ole keskuspalaa:
+        - 3l1a) Pyraminxillä ja 2x2x2-kuutiolla logo voi olla millä tahansa palalla.
+        - 3l1b) Square-1:llä logon on oltava keskikerroksen palalla.
+    - 3l2) Logo voi olla kohokuvioitu, kaiverrettu tai läpinäkyvä tarra. Poikkeus: Logo ei saa olla tunnon perusteella tunnistettava sokkolajeissa (t.s. ei kohokuvioita, kaiverruksia tai läpinäkyviä tarroja).
+- 3m) Kaikki pulmapelien merkit ja pulmapelien osat ovat sallittuja kunhan ne ovat WCA-sääntöjen mukaiset.
+
+
+## <article-4><scrambling><scrambling> Artikla 4: Sekoittaminen
+
+- 4a) Sekoittaja sekoittaa pulmapelit sekoitussarjojen mukaisesti.
+- 4b) Pulmapelit on sekoitettava käyttäen tietokoneella generoituja satunnaisia sekoitussarjoja.
+    - 4b1) Generoituja sekoitussarjoja ei saa tarkastaa ennen kilpailua, eikä WCA-delegaatti saa valikoida niitä millään tavalla.
+    - 4b2) Kierroksen sekoitussarjojen täytyy olla saatavilla vain WCA-delegaatille ja lajin sekoittajille kierroksen loppuun asti. Poikkeus: Vähiten siirtoja-ratkaisussa kilpailijat saavat sekoitussarjat kierroksen aikana (ks. [artikla E](regulations:article:E)).
+    - 4b3) Sekoitusohjelman tekniset tiedot: Virallisen sekoitussarjan täytyy tuottaa satunnainen asema jonka ratkaiseminen vaatii vähintään 2 siirtoa (jokaisella asemalla yhtä suuri todennäköisyys). Seuraavat lisäykset/poikkeukset ovat voimassa:
+        - 4b3a) Sokkolajeissa sekoitussarjan täytyy orientoida pulmapeli satunnaisesti (jokaisella orientaatiolla yhtä suuri todennäköisyys).
+        - 4b3b) 2x2x2-kuutio: (Satunnaisen) Aseman ratkaiseminen vaatii vähintään 4 siirtoa.
+        - 4b3c) Skewb: (Satunnaisen) Aseman ratkaiseminen vaatii vähintään 7 siirtoa.
+        - 4b3d) Square-1: (Satunnaisen) Aseman ratkaiseminen vaatii vähintään 11 siirtoa.
+        - 4b3e) 5x5x5-kuutio, 6x6x6-kuutio, 7x7x7-kuutio ja Megaminx: Riittävän monta satunnaista siirtoa (satunnaisen aseman sijaan), ratkaiseminen vaatii vähintään 2 siirtoa.
+        - 4b3f) Pyraminx: (Satunnaisen) Aseman ratkaiseminen vaatii vähintään 6 siirtoa.
+    - 4b4) Jokaista sekoitussarjaa pitäisi käyttää enintään 2 tunnin ajan. Aika alkaa kun sekoitussarjaa käytetään ensimmäisen kerran.
+- 4d) Sekoitusorientaatio:
+    - 4d1) NxNxN-pulmapelit ja Megaminx sekoitetaan siten, että valkoinen pinta (vaalein pinta, jos ei mahdollista) on päällä ja vihreä pinta (tummin viereinen pinta, jos ei mahdollista) on edessä.
+    - 4d2) Pyraminx sekoitetaan siten, että keltainen pinta (vaalein pinta, jos ei mahdollista) on pohjalla ja vihreä pinta (tummin viereinen pinta, jos ei mahdollista) on edessät.
+    - 4d3) Square-1 sekoitetaan tummempi väri edessä (kahdesta mahdollisesta sekoitusorientaatiosta).
+    - 4d4) Clock sekoitetaan aloittaen kummalta tahansa sivulta ja kello 12 ylhäällä.
+    - 4d5) Skewb sekoitetaan siten, että valkoinen pinta (vaalein pinta, jos ei mahdollista) on päällä ja vihreä pinta (tummin viereinen pinta, jos ei mahdollista) on the edessä vasemmalla.
+- 4f) Kilpailun sekoitussarjat on generoitava käyttäen nykyistä virallista versiota virallisesta WCA-sekoitusohjelmasta (saatavilla [WCA:n verkkosivun kautta](https://www.worldcubeassociation.org/regulations/scrambles/)).
+- 4g) Pulmapelin sekoittamisen jälkeen sekoittajan on varmistettava, että pulmapeli on sekoitettu oikein. Jos pulmapelin asema on väärin, sekoittajan on korjattava se (esim. ratkaisemalla pulmapeli ja sekoittamalla uudestaan).
+    - 4g1) Poikkeus: 6x6x6-kuutiolla, 7x7x7-kuutiolla ja Megaminxillä sekoitusaseman ei tarvitse olla oikein WCA-delegaatin harkinnan mukaan.
+
+
+## <article-5><puzzle-defects><puzzledefects> Artikla 5: Pulmapelin viat
+
+- 5a) Esimerkkejä pulmapelin vioista ovat: irronneet palat, palat pyörähtäneenä paikallaan ja irronneet ruuvit/kannet/tarrat.
+- 5b) Jos vika ilmenee ratkaisuyrityksen aikana, kilpailija voi joko korjata vian ja jatkaa yritystä, tai päättää yrityksen.
+    - 5b1) Jos kilpailia korjaa pulmapeliä, hän saa korjata vain viallisia paloja. Työkaluja ja/tai osia muista pulmapeleistä ei saa käyttää alkuperäisen pulmapelin korjaamiseen. Rangaistus: ratkaisuyrityksen hylkäys (DNF).
+    - 5b2) Mikään korjaus ei saa auttaa kilpailijaa pulmapelin ratkaisemisessa. Rangaistus: ratkaisuyrityksen hylkäys (DNF).
+    - 5b3) Sallitut korjaukset:
+        - 5b3a) Jos jotkin palat ovat irronneet tai liikkuneet pois paikaltaan, kilpailija voi asettaa ne takaisin paikalleen.
+        - 5b3b) Jos pulmapelin korjauksen jälkeen, mutta ennen ratkaisuyrityksen loppua kilpailija huomaa pulmapelin olevan tilassa, joka on mahdoton ratkaista, hän voi purkaa ja koota enintään 4 palaa tehdäkseen pulmapelin mahdolliseksi ratkaista.
+        - 5b3c) Jos pulmapeli on tilassa, joka on mahdoton ratkaista ja voidaan tehdä mahdolliseksi ratkaista kääntämällä yhtä kulmapalaa, kilpailija voi korjata kulmapalan kääntämällä sitä paikoillaan purkamatta pulmapeliä.
+    - 5b4) Sokkovaiheen aikana (ks. [sääntö B4](regulations:regulation:b4)), kaikki korjaukset on tehtävä sokkona. Rangaistus: ratkaisuyrityksen hylkäys (DNF).
+    - 5b5) Jos jotkin palat ovat kokonaan osittain poissa paikoiltaan ratkaisuyrityksen lopussa, ovat seuraavat säännöt voimassa:
+        - 5b5a) Jos vika koskee yhtä tai useampaa palaa, jossa ei ole värjättyjä osia, pulmapeli on ratkaistu.
+        - 5b5b) Jos vika koskee yhtä palaa, jossa on yksi värjätty osa, pulmapeli on ratkaistu.
+        - 5b5c) Jos vika koskee useampaa kuin yhtä palaa, joissa on yksi värjätty osa, pulmapeli ei ole ratkaistu (DNF).
+        - 5b5d) Jos vika koskee useampaa kuin yhtä palaa, joissa on useampi kuin yksi värjätty osa, pulmapeli ei ole ratkaistu (DNF).
+        - 5b5e) Säännöt [5b5c](regulations:regulation:5b5c) ja [5b5d](regulations:regulation:5b5d) surjäyttävät säännöt [5b5a](regulations:regulation:5b5a) ja [5b5b](regulations:regulation:5b5b).
+
+
+## <article-7><environment><environment> Artikla 7: Ympäristö
+
+- 7b) Katsojien on pysyttävä vähintään 1,5 metrin päässä käytössä olvevista ratkaisupaikoista.
+- 7c) Kilpailualueen valaistukseen on kiinnitettävä erityishuomiota. Valaistuksen pitäisi olla neutraalia siten, että kilpailijat voivat helposti erottaa pulmapelien värit toisistaan.
+- 7e) Kilpailualueen on oltava savuton.
+- 7f) Ratkaisupaikka:
+    - 7f1) Määritelmät:
+        - 7f1a) Stackmat: Speed Stacks Stackmat-ajastin ja täysikokoinen matto.
+        - 7f1b) Matto: Stackmatin matto.
+        - 7f1c) Ajastin: Stackmatin ajastin tai sekuntikello (pidemmille ratkaisuyrityksille).
+        - 7f1d) Alusta: Tasainen alusta, jolle Stackmat one asetettu. Matto on osa alustaa. Ajastin ei ole osa alustaa.
+    - 7f2) Stackmat-ajastimen täytyy olla kiinnitettynä mattoon ja asetettuna alustalle siten, että ajastin on kilpailijaa lähimpänä olevalla maton sivulla.
+        - 7f2a) Poikkeus: Jaloilla ratkaistessa Stackmat täytyy asettaa suoraan lattialle. Ajastin voidaan asettaa kilpailijasta kauimpana olevalle maton sivulle.
+- 7h) Kilpailualueella on oltava kilpailijoiden alue.
+    - 7h1) Järjestäjäryhmä voi vaatia kilpailijaa, joka on kutsuttu kilpailemaan, pysymään kilpailijoiden alueella siihen asti kun hän on suorittanut kaikki ratkaisuyrityksensä kyseisellä kierroksella.
+
+
+## <article-8><competitions><competitions> Artikla 8: Kilpailut
+
+- 8a) Virallisen WCA-kilpailun täytyy:
+    - 8a1) Olla WCA Boardin hyväksymä.
+    - 8a2) Seurata WCA-sääntöjä.
+    - 8a3) Olla nimetyn WCA-delegaatin valvonnan alla.
+    - 8a4) Olla ilmoitettuna WCA:n verkkosivulla vähintään kaksi viikkoa ennen kilpailun alkua.
+    - 8a6) Olla yleisesti saavutettavissa.
+    - 8a7) Käyttää autenttisia Speed Stacks Stackmat-ajastimia (Generation 2, Generation 3 Pro Timer, tai Generation 4 Pro Timer) ajan mittaamiseen.
+    - 8a8) Olla avoin kaikille, jotka haluavat kilpailla. Rajoitusten täytyy olla WCA Boardin hyväksymiä ja selkeästi todettuna kilpailua ilmoittaessa.
+- 8f) Jos WCA-sääntöjä ei ole seurattu oikein kilpailun aikana, tuloksia voidaan muokata WCA Boardin harkinnan mukaan.
+
+
+## <article-9><events><events> Artikla 9: Lajit
+
+- 9a) WCA määrää kilpailuja:
+    - 9a1) Rubikin pulmapeleille.
+    - 9a2) Muille pulmapeleille joita käytetään pintoja kääntämällä (englanniksi "twisty puzzles").
+- 9b) WCA:n viralliset pulmapelit ja lajien formaatit ovat:
+    - 9b1) Rubikin kuutio, 2x2x2-kuutio, 4x4x4-kuutio, 5x5x5-kuutio, Clock, Megaminx, Pyraminx, Square-1, Skewb ja Rubikin kuutio: yhdellä kädellä.
+        - 9b1a) Kierrosformaatit näille lajeille ovat: "Paras X:stä" (missä X on 1, 2 tai 3) ja "typistetty 5:n keskiarvo".
+    - 9b2) Rubikin kuutio: jaloilla, Rubikin kuutio: vähiten siirtoja, 6x6x6-kuutio ja 7x7x7-kuutio.
+        - 9b2a) Kierrosformaatit näille lajeille ovat: "Paras X:stä" (missä X on 1, 2 tai 3) ja "3:n keskiarvo".
+    - 9b3) Rubikin kuutio: sokko, 4x4x4-kuutio: sokko, 5x5x5-kuutio: sokko ja Rubikin kuutio: multisokko.
+        - 9b3a) Kierrosformaatit näille lajeille ovat: "Paras X:stä" (missä X on 1, 2 tai 3).
+        - 9b3b) Rubikin kuutio: sokko-lajille WCA myöntää "3 keskiarvo"-sijoitukset ja -ennätykset "Paras 3:sta"-kierrosten tulosten perusteella.
+- 9f) Kierroksen tulokset mitataan seuraavasti:
+    - 9f1) Kaikki alle 10 minuttin ajat mitataan ja katkaistaan lähimpään sekunnin sadasosaan. Kaikki alle 10 minuutin (typistetyt) keskiarvot mitataan ja pyöristetään lähimpään sekunnin sadasosaan.
+    - 9f2) Kaikki yli 10 minuutin tulokset, (typistetyt) keskiarvot mitataan ja pyöristetään lähimpään sekuntiin (esim. x,4 on x, x,5 on x+1).
+    - 9f4) Ratkaisuyrityksen tulos on DNF (Did Not Finish), jos ratkaisu on hylätty tai ratkaisematon/keskeneräinen.
+    - 9f5) Ratkaisuyrityksen tulos on DNS (Did Not Start), jos kilpailija on oikeutettu ratkaisuyritykseen, mutta kieltäytyy siitä.
+    - 9f6) "Paras X:stä"-kierroksilla jokaiselle kilpailijalle myönnetään X ratkaisuyritystä. Näistä paras tulos määrää kilpailijan sijoituksen kierroksella.
+    - 9f7) "paras X:stä"-kierroksilla DNF tai DNS on huonoin mahdollinen tulos.
+    - 9f8) "Typistetty 5:n keskiarvo"-kierroksilla kilpailijoille myönnetään 5 ratkaisuyritystä. Näistä 5:stä yrityksestä paras ja huonoin yritys poistetaan ja aritmeettinen keskiarvo 3:sta jäljellä olevasta yrityksestä määrää kilpailijan sijoituksen kierroksella.
+    - 9f9) "Typistetty 5:n keskiarvo"-kierroksilla sallitaan yksi DNF tai DNS, joka lasketaan kilpailijan huonoimmaksi tulokseksi kierroksella. Jos kilpailijalla on useampi kuin yksi DNF- ja/tai DNS-tulos kierroksella, hänen keskiarvotuloksensa kyseisellä kierroksella on DNF.
+    - 9f10) "3:n keskiarvo"-kierroksilla kilpailijoille myönnetään 3 ratkaisuyritystä. Näiden 3:n tuloksen aritmeettinen keskiarvo määrää kilpailijan sijoituksen kierroksella.
+    - 9f11) Jos kilpailijalla on "3:n keskiarvo"-kierroksella vähintään yksi DNF- tai DNS-tulos, on hänen keskiarvotuloksensa kyseisellä kierroksella DNF.
+    - 9f12) "Paras X:stä"-kierroksilla sijoitukset määräytyvät kilpailijoiden parhaiden tulosten mukaan. Tuloksia verrataan seuraavasti:
+        - 9f12a) Ajastetuissa tuloksissa "parempi" määritellään lyhyempänä aikana.
+        - 9f12b) Vähiten siirtoja-ratkaisussa "parempi" määritellään lyhyempänä ratkaisun pituutena.
+        - 9f12c) Multisokkoratkaisussa tulokset määräytyvät ratkaistujen pulmapelien ja ratkaisemattomien pulmapelien määrän erotuksen perusteella siten, että suurempi erotus on parempi. Jos erotus on pienempi tai yhtä suuri kuin 0 tai jos vain 1 pulmapeli on ratkaistu ratkaisuyrityksen tulos on ratkaisematon (DNF). Jos kilpailijat saavuttavat saman tuloksen, sijoitukset määritellään kokonaisajan perusteella siten, että lyhyempi aika on parempi. Jos kilpailijat saavuttavat saman tuloksen ja ajan, tulokset määritellään ratkaisemattomien pulmapelien määrällä siten, että vähemmän ratkaisemattomia pulmapelejä on parempi.
+    - 9f13) "3:n keskiarvo"- ja "typistetty 5:n keskiarvo"-kierroksilla tulokset määräytyvät kilpailijoiden (typistettyjen) keskiarvojen paremmuusjärjestyksen perusteella siten, että lyhyempi aika on "parempi".
+    - 9f14) Jos kaksi tai useampi kilpailijaa saavuttaa "3:n keskiarvo"- tai "typistetty 5:n keksiarvo"-kierroksella saman keskiarvotuloksen, tuloukset määräytyvät kilpailijoiden parhaiden tulosten mukaan siten, että lyhyempi aika on "parempi".
+    - 9f15) Kilpailijat, jotka saavuttavan kierroksella saman tuloksen, saavat identtisen sijoituksen kyseisellä kierroksella.
+- 9g) Yhdistetty kierros koostuu kahdesta vaiheesta ratkaisuyrityksiä siten, että kilpailijat etenevät toiseen vaiheeseen jos he saavuttavat määrätyn rajan ensimmäiseessä vaiheessa.
+    - 9g2) Sen, eteneekö kilpailija seuraavaan vaiheeseen yhdistetyllä kierroksella täytyy määräytyä ensimmäisen vaiheen sijoituksen (parhaat x kilpailijaa) tai tuloksen (kaikki kilpailijat, joiden paras tulos on alle x) mukaan.
+- 9i) Virallisen WCA-kilpailun tulosten täytyy olla listattuna WCA:n maailmanrankingissä.
+    - 9i1) WCA hyväksyy seuraavanlaiset alueelliset ennätykset: maan ennätykset, maanosan ennätykset ja maailmanennätykset.
+    - 9i2) Kaikkien kierroksen tulosten oletetaan tapahtuneen kierroksen viimeisenä kalenteripäivänä. Jos alueellinen ennätys rikotaan useaan kertaan saman kalenteripäivän aikana, vain paras tulos lasketaan alueellisen ennätyksen rikkojaksi.
+    - 9i3) Jos lajin WCA-sääntöjä muutetaan, olemassa olevat alueelliset ennätykset ovat voimassa kunnes ne rikotaan uusien sääntöjen alla.
+- 9j) Jokainen laji on pidettävä enintään kerran yhden kilpailun aikana.
+- 9k) Kaikki kilpailijat voivat osallistua kilpailussa kaikkiin lajeihin, lukuunottamatta WCA Boardin hyväksymiä erikoistapauksia.
+- 9l) Jokaisen kierroksen on oltava valmis ennen samaa lajin seuraavan kierroksen alkua.
+- 9m) Lajeissa on oltava enintään neljä kierrosta.
+    - 9m1) Kierrosten, joilla on enintään 99 kilpailijaa, jälkeen täytyy olla enintään kaksi kierrosta.
+    - 9m2) Kierrosten, joilla on enintään 15 kilpailijaa, jälkeen täytyy olla enintään yksi kierros.
+    - 9m3) Kierrosten, joilla on enintään 7 kilpailijaa, jälkeen ei saa olla kierroksia.
+- 9o) Yhdistetyt kierrokset lasketaan yhtenä kierroksena lajin kierroslukumäärää laskettaessa.
+- 9p) Jos lajilla on useita kierroksia, niin:
+    - 9p1) Vähintään 25% kilpailijoista täytyy pudottaa jatkosta kyseisen lajin seuraavilta kierroksilta.
+    - 9p2) Kilpailijat, jotka etenevät seuraavalle kierrokselle täytyy valita edellisen kierroksen sijoitusten tai aikarajan perusteella.
+    - 9p3) Jos jatkoon päässyt kilpailija vetäytyy kierrokselta, hänet voidaan korvata edellisen kierroksen parhaalla karsiutuneella kilkpailijalla.
+- 9s) Jokaisen lajin jokaisella kierroksella on oltava aikaraja (ks. [sääntö A1a](regulations:regulation:A1a)).
+
+
+## <article-10><solved-state><solvedstate> Artikla 10: Ratkaistu asema
+
+- 10b) Vain pulmapelin lepotila ajastimen pysäyttämisen jälkeen huomioidaan.
+- 10c) Pulmapeli voi olla missä tahansa orientaatiossa ratkaisuyrityksen lopussa.
+- 10d) Kaikkien pulmapelin osien on oltava täysin paikallaan pulmapelissä niille määrätyillä paikoilla. Poikkeus: ks. [sääntö 5b5](regulations:regulation:5b5).
+- 10e) Pulmapeli on ratkaistu kun kaikki värjätyt osat ovat kasattuna ja kaikki osat kohdistettuna alla määriteltyjen rajojen puitteissa:
+    - 10e1) Jos kaksi pulmapelin vierekkäistä palaa (t.s. kaksi vierekkäistä samansuuntaista kuution siivua) eivät ole [säännön 10f](regulations:regulation:10f) selittämien rajoitusten puitteissa, pulmapelin ratkaisemisen katsotaan vaativan yhden ylimääräisen siirron (ks. "Outer Block Turn Metric" [artiklassa 12](regulations:article:12)).
+    - 10e2) Jos pulmapelin ratkaiseminen ei vaadi ylimääräisiä siirtoja, pulmapeli on ratkaistu ilman rangaistusta.
+    - 10e3) Jos pulmapelin ratkaiseminen vaatii yhden ylimääräisen siirron, pulmapeli on ratkaistu aikarangaistuksella (+2 sekuntia).
+    - 10e4) Jos pulmapelin ratkaiseminen vaatii enemmän kuin yhden siirron, pulmapeli on ratkaisematon (DNF).
+- 10f) Hyväksytyn vinouden rajat pulmapeleille:
+    - 10f1) NxNxN-pulmapelit: enintään 45 astetta.
+    - 10f2) Megaminx: enintään 36 astetta.
+    - 10f3) Pyraminx ja Skewb: enintään 60 astetta.
+    - 10f4) Square-1: enintään 45 astetta (U/D) tai 90 astetta (/).
+- 10h) Pulmapelien, joita ei ole määritelty tässä artiklassa, ratkaistu asema arvioidaan pulmapelin yleisesti hyväksytyn päämäärän mukaan.
+    - 10h1) Clockin ratkaistu asema saavutetaan kun kaikki kahdeksantoista kellotaulua osoittavat kello 12.
+
+
+## <article-11><incidents><incidents> Artikla 11: Poikkeustilanteet
+
+- 11a) Poikkeustilanteet käsittävät:
+    - 11a1) Toimihenkilöiden tai kilpailijoiden vääränlainen lajin menettelytapojen suorittaminen.
+    - 11a2) Tilan häiriöt ja muut häiriöt (esim. sähkökatko, palohälytys).
+    - 11a3) Välineistön häiriöt.
+- 11b) Jos poikkeustilanne ilmenee, WCA-delegaatti määrittelee puolueettoman ja sopivan jatkotoimenpiteen.
+- 11d) Jos WCA-säännöt eivät ole täysin selkeät tai poikkeustilannetta ei ole määritelty WCA-säännöissä, täytyy WCA-delegaatin tehdä päätös reilun urheiluhengen mukaisesti (ks. myös [sääntö 11e3](regulations:regulation:11e3)).
+- 11e) Jos poikkeustilanne tapahtuu ratkaisuyrityksen aikana, WCA-delegaatti voi myöntää kilpailijalle ylimääräisen ratkaisuyrityksen, joka korvaa sen ratkaisuyrityksen, jonka aikana poikkeustilanne tapahtui. Kilpailijan on tehtävä suullinen tai kirjallinen valitus tuomarille ja WCA-delegaatille poikkeustilanteen aikana ennen alkuperäisen ratkaisuyrityksen lopetusta ollakseen oikeutettu ylimääräiseen ratkaisuyritykseen. Valitus ei takaa kilpailijalle ylimääräistä ratkaisuyritystä.
+    - 11e1) Jos kilpailijalle myönnetään ylimääräinen ratkaisuyritys, täytyy kyseiseen ratkaisuyritykseen käyttää eri sekoitussarjaa. Tämä sekoitussarja on generoitava käyttäen nykyistä virallista versiota virallisesta WCA-sekoitusohjelmasta (ks. [sääntö 4f](regulations:regulation:4f)).
+    - 11e2) Jos kilpailijalle myönnetään ylimääräinen ratkaisuyritys, pitäisi kyseinen ratkaisuyritys suorittaa heti sen ratkaisuyrityksen jälkeen, joka aiheutti ylimääräisen ratkaisuyrityksen myöntämisen, ja sen täytyy korvata alkuperäinen normaalisti numeroitu ratkaisuyritys
+    - 11e3) Jos sen, pitäisikö poikkeustilanteen johtaa ylimääräiseen ratkaisuyritykseen on epäselvää, kilpailijalle voidaan myöntää väliaikainen ylimääräinen ratkaisuyritys, jota käytetään vain jos se jälkikäteen todetaan oikeutetuksi (esim. WCA Boardin päätöksellä).
+- 11f) Päätöksiä poikkeustilanteista voidaan tukea video- tai valokuvaanalyysin avulla WCA Delegaatin harkinnan mukaan.
+
+
+## <article-12><notation><notation> Artikla 12: Notaatio
+
+- 12a) Notaatio kaikille NxNxN-pulmapeleille:
+    - 12a1) Pintasiirrot:
+        - 12a1a) Myötäpäivään, 90 astetta: F (etupinta), B (takapinta), R (oikeanpuoleinen pinta), L (vasemmanpuoleinen pinta), U (yläpinta), D (alapinta).
+        - 12a1b) Vastapäivään, 90 astetta: F', B', R', L', U', D'.
+        - 12a1c) 180 astetta: F2, B2, R2, L2, U2, D2.
+    - 12a2) Ulkolohkosiirot (uloin siivu plus viereiset sisemmät siivut; n määrittää liikutettavien siivujen kokonaismäärän; n voidaan jättää pois kahdelle siivulle):
+        - 12a2a) Myötäpäovään, 90 astetta: nFw, nBw, nRw, nLw, nUw, nDw.
+        - 12a2b) Vastapäivään, 90 astetta: nFw', nBw', nRw', nLw', nUw', nDw'.
+        - 12a2c) 180 astetta: nFw2, nBw2, nRw2, nLw2, nUw2, nDw2.
+    - 12a3) Outer Block Turn Metric (OBTM) määritellään seuraavasti:
+        - 12a3a) Jokainen pintasiirto ja ulkolohkosiirto lasketaan yhtenä siirtona.
+        - 12a3b) Jokainen rotaatio lasketaan nollana siirtona.
+- 12b) Rotaatiot NxNxN-pulmapeleille:
+    - 12b1) Myötäpäivään, 90 astetta: [f] tai z, [b] tai z', [r] tai x, [l] tai x', [u] tai y, [d] tai y'.
+    - 12b2) Vastapäivään, 90 astetta: [f'] tai z', [b'] tai z, [r'] tai x', [l'] tai x, [u'] tai y', [d'] tai y.
+    - 12b3) 180 astetta: [f2] tai z2, [b2] tai z2, [r2] tai x2, [l2] tai x2, [u2] tai y2, [d2] tai y2.
+- 12c) Notaatio Square-1:lle:
+    - 12c1) Siirrot tehdään siten, että yksi keskikerroksen kahdesta pienimmästä pinnasta on etupinnan vasemmalla puolella.
+    - 12c2) (x, y) tarkoittaa seuraavaa: käännä yläkerrosta x kertaa 30 astetta myötäpäivään, käännä alakerrosta y kertaa 30 astetta myötäpäivään.
+    - 12c3) "/" tarkoittaa seuraavaa: käännä pulmapelin oikeaa puolikasta 180 astetta.
+- 12d) Notaatio Megaminxille (vain sekoitusnotaatio):
+    - 12d1) Pintasiirrot:
+        - 12d1a) Myötäpäivään, 72 astetta: U (yläpinta).
+        - 12d1b) Vastapäivään, 72 astetta: U' (yläpinta).
+    - 12d2) Muut siirrot tehdään siten, että 3 palaa pulmapelin vasemmassa yläreunassa pysyvät paikoillaan:
+        - 12d2c) 144 asteen siirto myötäpäivään liikuttaen koko pulmapeliä vasemman yläreunan kolmen palan siivua lukuunottamatta: R++ (pystysiivut), D++ (vaakasiivut).
+        - 12d2d) 144 asteen siirto vastapäivään liikuttaen koko pulmapeliä vasemman yläreunan kolmen palan siivua lukuunottamatta: R-- (pystysiivut), D-- (vaakasiivut).
+- 12e) Notaatio Pyraminxille:
+    - 12e1) Pulmapeli orientoidaan siten, että alapinta on täysin vaakasuorassa ja etupinta osoittaa kohti Pyraminxiä pitävää henkilöä.
+    - 12e2) Myötäpäivään, 120 astetta: U (2 yläkerrosta), L (2 vasemmanpuoleista kerrosta), R (2 oikeanpuoleista kerrosta), B (2 takakerrosta), u (yläkärki), l (vasemmanpuoleinen kärki), r (oikeanpuoleinen kärki), b (takakärki).
+    - 12e3) Vastapäivään, 120 astetta: U' (2 yläkerrosta), L' (2 vasemmanpuoleista kerrosta), R' (2 oikeanpuoleista kerrosta), B' (2 takakerrosta), u' (yläkärki), l' (vasemmanpuoleinen kärki), r' (oikeanpuoleinen kärki), b' (takakärki).
+- 12g) Notaatio Clockille:
+    - 12g1) Pulmapeli orientoidaan siten, että kello 12 osoittaa ylös ja kumpi tahansa sivu on edessä.
+    - 12g2) Siirrä tapit ylös: UR (yläoikea), DR (alaoikea), DL (alavasen), UL (ylävasen), U (molemmat ylätapit), R (molemmat oikeat tapit), D (molemmat alatapit), L (molemmat vasemmat tapit), ALL (kaikki).
+    - 12g3) Käännä yläasennossa olevan tapin vieressä olevaa ratasta ja tämän jälkeen siirrä kaikki tapit alas: x+ (x siirtoa myötäpäivään), x- (x siirtoa vastapäivään).
+    - 12g4) Käännä pulmapeli ympäri sitem, että kello 12 pysyy ylhäällä, sitten siirrä kaikki tapit alas: y2.
+- 12h) Notaatio Skewbille:
+    - 12h1) Pulmapeli orientoidaan siten, että kolme pintaa on täysin näkyvissä ja yläpinta on päällä.
+    - 12h2) Myötäpäivään, 120 astetta: R (kauimmaista alaoikealla näkyvää kärkeä ympäröivä kerros), U (kauimmaista ylhäällä näkyvää kärkeä ympäröivä kerros), L (kauimmaista alavasemmalla näkyvää kärkeä ympäröivä kerros), B (kauimmaista takana olevaa kärkeä ympäröivä kerros).
+    - 12h3) Vastapäivään, 120 astetta: R' (kauimmaista alaoikealla näkyvää kärkeä ympäröivä kerros), U' (kauimmaista ylhäällä näkyvää kärkeä ympäröivä kerros), L' (kauimmaista alavasemmalla näkyvää kärkeä ympäröivä kerros), B' (kauimmaista takana olevaa kärkeä ympäröivä kerros).
+
+
+## <article-A><speedsolving><speedsolving> Artikla A: Nopeusratkaisu
+
+- A1) Nopeusratkaisuyritysten täytyy seurata seuraavia menettelytapoja.
+    - A1a) Järjestäjäryhmän täytyy valvoa aikarajoja yrityksille ja/tai kierroksille.
+        - A1a1) Oletusaikaraja ratkaisulle on 10 minuuttia, mutta järjestäjäryhmä voi ilmoittaa korkeamman tai matalamman aikarajan.
+        - A1a2) Kumulatiivisia aikarajoja voidaan käyttää (esim. 3 tulosta joiden kumulatiivinen aikaraja on 20 minuuttia). DNF-tulokseen kulunut aika lasketaan mukaan kumulatiiviseen aikaan.
+        - A1a3) Aikarajat täytyy ilmoittaa jokaisella kierroksella ennen kierroksen alkua, eikä niitä saa muuttaa, kun kierros on alkanut. Muutokset on tehtävä WCA-delegaatin, jonka on huolellisesti harkittava muutoksen reiluutta, harkinnan mukaan.
+        - A1a4) Kilpailijan täytyy lopettaa jokainen ratkaisu aikarajan puitteissa. Jos kilpailija saavuttaa aikarajan ratkaisulle/kierrokselle, tuomari lopettaa ratkaisuyrityksen välittömästi ja kirjaa tulokseksi DNF. Poikkeus: multisokkoratkaisu (ks. [sääntö H1b1](regulations:regulation:H1b1)).
+        - A1a5) Ratkaisun katsotaan olevan aikarajan puitteissa jos ja vain jos lopullinen tulos aikarangaistusten jälkeen on pienempi kuin aikaraja. Poikkeus: multisokkoratkaisu (ks. [sääntö H1b1](regulations:regulation:H1b1)).
+    - A1b) Jos aikaraja ratkaisulle on suurempi kuin 10 minuuttia, täytyy sekuntikelloa käyttää ajan mittaamiseen.
+        - A1b1) Lajeissa, joissa on tarkasteluvaihe, täytyy käyttää Stackmattia sekuntikellon lisäksi. Lajeissa, joissa ei ole tarkasteluvaihetta ja kilpailijan odotetaan ylittävän 10 minuuttia, on Stackmatin käyttö vapaaehtoista.
+        - A1b2) Jos aika Stackmat-ajastimesta on saatavilla, on se alkuperäinen aika. Muulloin sekuntikellon aika on alkuperäinen aika.
+    - A1c) Kilpailijan, joka osallistuu lajiin, täytyy pystyä täyttämään lajin vaatimukset (esim. osaa ratkaista pulmapelin). Kilpailija ei saa kilpailla odottaen DNF-tulosta tai tarkoituksenmukaisesti huonoa tulosta. Rangaistus: ratkaisuyrityksen hylkäys (DNF) tai hylkäys lajista (ks. [sääntö 2j](regulations:regulation:2j)) WCA-delegaatin harkinnan mukaan.
+- A2) Sekoittaminen:
+    - A2a) Kierrokselle kutsuttaessa kilpailija toimittaa pulmapelin sekoittajalle ratkaistussa asemassa. Tämän jälkeen kilpailija odottaa kilpailijoiden alueella kunnes heidät kutsutaan kilpailemaan.
+    - A2b) Sekoittaja sekoittaa pulmapelin [artiklan 4](regulations:article:4) sääntöjen mukaan.
+        - A2b1) Square-1:lle järjestäjäryhmä voi vaatia ohuen esineen asettamista pulmapeliin, jotta vahinkosiirtoja ei tapahtuisi ennen ratkaisuyrityksen alkua. Näiden esineiden käyttö täytyy ilmoittaa ennen kierroksen alkua.
+    - A2c) Kilpailija ei saa nähdä pulmapeliä sen sekoittamisen aloittamisen ja tarkasteluvaiheen alun välisenä aikana.
+        - A2c1) Sekoittaja asettaa sekoitetun pulmapelin päälle suojan, joka tekee minkä tahansa pulmapelin osan näkemisen mahdottomaksi kilpailijoille ja yleisölle. Suoja pysyy pulmapelin päällä ratkaisuyrityksen alkuun asti.
+    - A2d) Ottaessaan pulmapeliä sekoittajalta tuomari tutkii pulmapelin pikaisesti varmistaakseen, että se on sekoitettu täysin. Tuomari esittää huolenaiheet sekoittajalle, joka tämän jälkeen suorittaa yksityiskohtaisen tarkastuksen.
+        - A2d1) Järjestäjäryhmä voi vaatia sekoittajilta lisätoimenpiteitä sen varmistamiseksi, että he ovat käyttäneet oikeaa sekoitussarjaa (esim. tuloskortin allekirjoitus vahvistamaan sen, että he käyttivät oikein numeroitua sekoitussarjaa ja tarkistivat, että se täsmää kuvan kanssa tai ylimääräisen henkilön käyttäminen "sekoituksen tarkistajana").
+    - A2e) Tuomari asettaa pulmapelin matolle mielivaltaisessa orientaatiossa varmistaen, että se pysyy täysin peitettynä.
+        - A2e1) Kilpailija ei ole oikeutettu pyytämään tiettyä orientaatiota, eikä tuomari saa oman tietonsa tai odotuksensa pulmapelin asemasta vaikuttaa orientaatioon johon hän asettaa pulmapelin matolla.
+- A3) Tarkasteluvaihe:
+    - A3a) Kilpailija voi tarkastella pulmapeliä jokaisen ratkaisuyrityksen alussa.
+        - A3a1) Kilpailijalle myönnetään enintään 15 sekuntia pulmapelin tarkasteluun ja ratkaisun aloittamiseen.
+    - A3b) Tuomari valmistelee ajastimen laittamalla sen päälle ja nollaamalla sen tarvittaessa. Tuomari valmistelee erikseen myös sekuntikellon tarkasteluvaiheen ajastamiseksi.
+        - A3b1) Kun tuomari uskoo kilpailijan olevan valmis, tuomari kysyy "VALMIS?" tai "READY?". Kilpailijan täytyy olla valmis minuutin sisällä siitä kun häntä kutsuttiin, muutoin kilpailija menettää ratkaisuyrityksen (DNS) tuomarin harkinnan mukaan.
+        - A3b2) Kilpailija aloittaa ratkaisuyrityksen vahvistamalla, että hän on valmis, jonka jälkeen tuomari paljastaa pulmapelin ja aloittaa tarkasteluvaiheen ajastamisen.
+    - A3c) Kilpailija voi nostaa pulmapelin tarkasteluvaiheen aikana.
+        - A3c1) Kilpailija ei saa tehdä siirtoja tarkasteluvaiheen aikana. Rangaistus: ratkaisuyrityksen hylkäys (DNF).
+        - A3c2) Jos pulmapelin osat eivät ole täysin suoristettuna, voi kilpailija suoristaa sivut, kunhan korjaukset pysyvät [säännön 10f](regulations:regulation:10f) puitteissa.
+        - A3c3) Kilpailija voi nollata ajastimen ennen ratkaisun aloittamista.
+        - A3c4) Jos järjestäjäryhmä on Square-1:lle vaatinut ohuen esineen asettamista pulmapeliin (ks. [sääntö A2b1](regulations:regulation:A2b1)), voi kilpailija poistaa esineen pulmapelistä tarkasteluvaiheen aikana.
+    - A3d) Tarkasteluvaiheen lopussa kilpailija asettaa pulmapelin matolle missä tahansa orientaatiossa. Rangaistus pulmapelin asettamisesta maton ulkopuolelle: aikarangaistus (+2 sekuntia).
+        - A3d2) Kun tarkasteluvaihetta on kulunut 8 sekuntia, tuomari sanoo "8 SEKUNTIA" tai "8 SECONDS".
+        - A3d3) Kun tarkasteluvaihetta on kulunut 12 sekuntia, tuomari sanoo "12 SEKUNTIA" tai "12 SECONDS".
+- A4) Ratkaisun aloittaminen:
+    - A4b) Kilpailija koskettaa sormillaan ajastimen koholla olevia anturipintoja. Kilpailijan kämmenten on osoitettava alaspäin kilpailijaa lähimpänä olevalla ajastimen sivulla. Rangaistus: aikarangaistus (+2 sekuntia).
+        - A4b1) Kilpailija ei saa koskea pulmapeliin tarkasteluvaiheen ja ratkaisun aloittamisen välillä. Rangaistus: aikarangaistus (+2 sekuntia).
+    - A4d) Jos Stackmat-ajastinta käytetään, kilpailija aloittaa ratkaisun varmistamalla että ajastimen valo on vihreä ja nostamalla kätensä ajastimeltä (käynnistäen ajastimen).
+        - A4d1) Kilpailijan on aloitettava ratkaisu 15 sekunnin sisällä tarkasteluvaiheen aloittamisesta. Rangaistus: aikarangaistus (+2 sekuntia).
+        - A4d2) Kilpailijan on aloitettava ratkaisu 17 sekunnin sisällä tarkasteluvaiheen aloittamisesta. Rangaistus: ratkaisuyrityksen hylkäys (DNF).
+        - A4d3) Jos sekuntikelloa käytetään, tuomari käynnistää sekuntikellon kun kilpailija aloittaa ratkaisun.
+    - A4e) Aikarangaistukset ratkaisun aloittamisesta ovat kumulatiivisia.
+- A5) Ratkaisun aikana:
+    - A5a) Tarkastellessaan tai ratkaistessaan pulmapeliä kilpailija ei saa kommunikoida kenenkään muun kuin tuomarin kanssa. Rangaistus: ratkaisuyrityksen hylkäys (DNF).
+    - A5b) Tarkastellessaan tai ratkaistessaan pulmapeliä kilpailija ei saa saada apua keneltäkään tai miltään muulta kuin alustalta (ks. myös [sääntö 2i](regulations:regulation:2i)). Rangaistus: ratkaisuyrityksen hylkäys (DNF).
+- A6) Ratkaisun päättäminen:
+    - A6a) Kilpailija päättää ratkaisun päästämällä irti pulmapelistä ja pysäyttämällä ajastimen. Jos sekuntikelloa käytetään, tuomari pysäyttää sekuntikellon kun kilpailija tekee tämän.
+        - A6a1) Kun sekuntikelloa käytetään ainoana ajastimena kilpailija päättää ratkaisun päästämällä irti pulmapelistä ja ilmoittamalla tuomarille, että hän on päättänyt ratkaisun. Tuomari pysäyttää sekuntikellon kun kilpailija tekee tämän.
+        - A6a2) Kun sekuntikelloa käytetään ainoana ajastimena kilpailijan oletusilmoitus on päästäminen irti pulmapelistä/-peleistä ja käsien asettaminen alustalle kämmenet alaspäin. Kilpailija ja tuomari voivat sopia muusta ilmoitustavasta ennen ratkaisuyrityksen alkua.
+    - A6b) Kilpailija on vastuussa Stackmat-ajastimen oikeanlaisesta pysäyttämisestä.
+        - A6b1) Jos ajastin pysähtyy ennen ratkaisun loppua ja ajastimessa oleva aika on alle 0.06 sekuntia, niin ratkaisuyritys korvataan ylimääräisellä ratkaisuyrityksellä. Kilpailija menettää oikeuden ylimääräiseen ratkaisuyritykseen jos WCA-delegaatti päättää, että ajastin pysäytettiin tarkoituksella.
+        - A6b2) Jos ajastin pysähtyy ennen ratkaisun loppua ja ajastimessa oleva aika on 0.06 sekuntia tai enemmän, niin ratkaisuyritys hylätään (DNF). Poikkeus: jos kilpailija pystyy osoittamaan, että ajastimessa oli toimintahäiriö, voi hän saada ylimääräisen ratkaisuyrityksen WCA-delegaatin harkinnan mukaan.
+    - A6c) Kilpailijan on päästettävä pulmapelistä irti täysin ennen ratkaisun päättämistä. Rangaistus: aikarangaistus (+2 sekuntia).
+    - A6d) Kilpailijan on pysäytettävä ajastin asettamalla molemmat kädet antureille litteänä, kämmenet alaspäin. Rangaistus: aikarangaistus (+2 sekuntia).
+    - A6e) Kilpailija ei saa koskea pulmapeliin tai liikuttaa sitä ennen kuin tuomari on tarkastanut sen. Rangaistus: ratkaisuyrityksen hylkäys (DNF). Poikkeus: Jos siirtoa/siirtoja ei tehty, voidaan sen sijaan määrätä aikarangaistus (+2 sekuntia) tuomarin harkinnan mukaan.
+    - A6f) Kilpailija ei saa nollata ajastinta ennen kuin tuomari on kirjannut tuloksen tuloskorttiin. Rangaistus: ratkaisuyrityksen hylkäys (DNF) tuomarin harkinnan mukaan.
+    - A6g) Tuomari määrää onko pulmapeli ratkaistu. Hän ei saa tehdä siirtoja tai suoristaa sivuja tutkiessaan pulmapeliä. Poikkeus: Clockissa tuomarin täytyy yleensä nostaa pulmapeli tarkistaakseen molemmat sivut.
+    - A6h) Riitatilanteessa pulmapeliin ei saa tehdä siirtoja tai suoristuksia ennen kuin riita on ratkaistu.
+    - A6i) Aikarangaistukset ratkaisun päättämisestä ovat kumulatiivisia.
+- A7) Tulosten kirjaaminen:
+    - A7a) Tuomari kertoo kilpailijalle tuloksen.
+        - A7a1) Jos tuomari toteaa pulmapelin ratkaistuksi hän sanoo "OK" tai "OKAY".
+        - A7a2) Jos tuomari määrää rangaistuksen/rangaistuksia, hän sanoo "RANGAISTUS" tai "PENALTY".
+        - A7a3) Jos tulos on DNF, tuomari sanoo "DNF".
+    - A7b) Tuomari kirjaa tuloksen tuloskorttiin.
+        - A7b1) Jos rangaistuksia määrätään, tuomari kirjaa alkuperäisen ajan ajastimesta ja mahdolliset rangaistukset. Muotoilun pitäisi olla "X + T + Y = F", missä X kuvaa ennen ratkaisun aloittamista ja ratkaisua aloittaessa saatujen aikarangaistuksien summaa, T kuvaa aikaa ajastimessa ("alkuperäinen aika"), Y kuvaa ratkaisun aikana ja ratkaisun jälkeen saatujen aikarangasituksien summaa ja F kuvaa lopullista tulosta (esim. 2 + 17.65 + 2 = 21.65). Jos X ja/tai Y on 0, voidaan nollatermit jättää pois (esim. 17.65 + 2 = 19.65).
+    - A7c) Sekä tuomarin että kilpailijan on tarkistettava jokainen kirjattu tulos ja allekirjoittaa (tai merkitä nimikirjaimensa) tuloskorttiin tunnustaakseen tuloksen oikeaksi ja täydelliseksi sekä sen, että tulos oikeassa muodossa and selvästi luettavissa. Tämä päättää ratkaisuyrityksen.
+        - A7c1) Jos kilpailija tai tuomari kieltäytyy hyväksymästä tai allekirjoittamasta tuloskorttia täytyy WCA-delegaatin ratkaista riita.
+        - A7c2) Kilpailija ei saa allekirjoittaa ratkaisuyritystä tuloskortille ennen kuin tuomari on kirjannut kyseisen ratkaisuyrityksen lopullisen tuloksen. Jos kilpailija allekirjoittaa (tai muutoin merkitsee) ratkaisuyrityksen ennen sen alkua tai ennen kuin tuomari on kirjannut lopullisen tuloksen, menettää hän ratkaisuyrityksen ja tuloksen katsotaan olevan DNS.
+    - A7f) Kun kilpailijan tuloskortti kierrokselle on valmis, toimittaa tuomari tuloskortin tulosten tallentajalle.
+    - A7g) Uuden kilpailijan kokemattomuudesta johtuva poikkeustilanne tai rangaistus voidaan korvata ylimääräisellä ratkaisuyrityksellä WCA-delegaatin harkinnan mukaan.
+
+
+## <article-B><blindfolded><blindfoldedsolving> Artikla B: Sokkoratkaisu
+
+- B1) [Artiklassa A](regulations:article:A) (Nopeusratkaisu) määriteltyjä vakiomenettelytapoja noudatetaan. Lisäsäännöt, jotka korvaavat vastaavat menettelytavat [Artiklassa A](regulations:article:A) on määritelty alla.
+    - B1a) Tarkasteluvaihetta ei ole.
+    - B1b) Kilpailija käyttää omaa silmät peittävää sidettään.
+- B2) Ratkaisuyrityksen aloittaminen:
+    - B2a) Tuomari nollaa ajastimen/ajastimet ja kysyy "VALMIS?" tai "READY?" kuten [säännössä A3b1](regulations:regulation:A3b1). Kilpailijan täytyy olla valmis minuutin sisällä siitä kun häntä kutsuttiin, muutoin kilpailija menettää ratkaisuyrityksen (DNS) tuomarin harkinnan mukaan.
+    - B2b) Kilpailija koskettaa sormillaan ajastimen koholla olevia anturipintoja. Kilpailijan kämmenten on osoitettava alaspäin kilpailijaa lähimpänä olevalla ajastimen sivulla. Rangaistus: aikarangaistus (+2 sekuntia).
+    - B2c) Kilpailija ei saa koskea pulmapeliin tarkasteluvaiheen ja ratkaisu aloittamisen välillä. Rangaistus: aikarangaistus (+2 sekuntia).
+    - B2d) Kilpailija aloittaa ratkaisuyrityksen nostamalla kätensä ajastimelta käynnistäen ajastimen. (Tämä myös aloittaa ratkaisun.)
+        - B2d1) Kilpailija poistaa suojan pulmapeliltä ajastimen käynnistämisen jälkeen.
+    - B2e) Jos sekuntikelloa käytetään Stackmat-ajastimen lisäksi, tuomari käynnistää sekuntikellon kun kilpailija aloittaa ratkaisun.
+    - B2f) Jos sekuntikelloa käytetään ainoana ajastimena, kilpailija asettaa kätensä pöydälle (Stackmat-ajastimen sijaan). Vahvistettuaan olevansa valmis kilpailija aloittaa ratkaisun nostamalla suojan. Tuomari käynnistää sekuntikellon kun kilpailija aloittaa ratkaisun.
+- B3) Tarkastelu:
+    - B3a) Kilpailija voi nostaa pulmapelin tarkasteluvaiheen aikana.
+    - B3b) Kilpailija ei saa tehdä fyysisiä muistiinpanoja. Rangaistus: ratkaisuyrityksen hylkäys (DNF).
+    - B3c) Kilpailija ei saa tehdä siirtoja tarkasteluvaiheen aikana. Rangaistus: ratkaisuyrityksen hylkäys (DNF).
+- B4) Sokkovaihe:
+    - B4a) Kilpailija asettaa siteen silmilleen aloittaakseen sokkovaiheen.
+    - B4b) Kilpailija ei saa tehdä siirtoja ennen kuin hän on asettanut siteen täysin silmilleen. Rangaistus: ratkaisuyrityksen hylkäys (DNF).
+    - B4c) Tuomarin täytyy varmistaa, että kilpailijan kasvojen ja pulmapelin välissä on läpikuultamaton esine kun kilpailija on ratkaisemassa.
+        - B4c1) Kilpailijan täytyy kaikissa tapauksissa käyttää sidettä siten, että pulmapeli on selvästi poissa kilpailijan näkökentästä, vaikka läpikuultamaton esine ei olisi tiellä.
+        - B4c2) Oletus on, että tuomari asettaa läpikuultamattoman esineen (esim. paperiarkin tai pahvin) kilpailijan ja pulmapelin väliin kun kilpailija käyttää sidettä.
+        - B4c3) Jos tuomari ja kilpailija sopivat asiasta etukäteen, voi kilpailija asettaa pulmapelin sopivan esineen taakse (esim. nuottiteline, pöydän pinta) itse sokkovaiheen aikana.
+    - B4d) Kilkpailija ei saa katsoa pulmapeliä sokkovaiheen aikana. Rangaistus: ratkaisuyrityksen hylkäys (DNF).
+    - B4e) Kilpailija voi poistaa siteen silmiltään ja palata tarkasteluvaiheeseen ennen ensimmäistä siirtoa.
+- B5) Ratkaisun päättäminen:
+    - B5a) Kun Stackmat-ajastinta käytetään kilpailija päättää ratkaisun päästämällä irti pulmapelistä ja pysäyttämällä ajastimen.
+    - B5b) Kun sekuntikelloa käytetään kilpailija päättää ratkaisun asettamalla pulmapelin takaisin alustalle ja ilmoittamalla tuomarille, että hän päättää ratkaisun. Tuomari pysäyttää tuolloin ajastimen.
+    - B5c) Jos kilpailija ei koske pulmapeliin, voi hän poistaa siteen silmiltään ennen kuin hän pysäyttää ajastimen. Hän ei saa koskea pulmapeliin ennen ratkaisuyrityksen päättämistä. Rangaistus pulmapelin koskemisesta: ratkaisuyrityksen hylkäys (DNF).
+
+
+## <article-C><one-handed><onehandedsolving> Artikla C: Yhdellä kädellä ratkaisu
+
+- C1) [Artiklassa A](regulations:article:A) (Nopeusratkaisu) määriteltyjä vakiomenettelytapoja noudatetaan. Lisäsäännöt, jotka korvaavat vastaavat menettelytavat [Artiklassa A](regulations:article:A) on määritelty alla.
+    - C1b) Kilpailija saa koskea pulmapeliin vain yhdellä kädellä ratkaisun aikana. Rangaistus: ratkaisuyrityksen hylkäys (DNF).
+        - C1b2) Jos pulmapelissä ilmenee vika ja kilpailija haluaa korjata vian, on hänen korjattava vika käyttäen vain yhtä kättä. Rangaistus: ratkaisuyrityksen hylkäys (DNF).
+        - C1b3) Jos pulmapelissä ilmenee vika ja pulmapelin osat koskevat muita ruumiinosia ilman kilpailijan aikomusta, tapahtumaa ei katsota pulmapelin koskemiseksi tuomarin harkinnan mukaan.
+    - C1c) Kun kilpailija koskettaa pulmapeliä ratkaisun aikana yhdellä kädellä, ei hän saa koskettaa pulmapeliä toisella kädellä. Rangaistus: ratkaisuyrityksen hylkäys (DNF).
+
+
+## <article-D><feet><solvingwithfeet> Artikla D: Jaloilla ratkaisu
+
+- D1) [Artiklassa A](regulations:article:A) (Nopeusratkaisu) määriteltyjä vakiomenettelytapoja noudatetaan. Lisäsäännöt, jotka korvaavat vastaavat menettelytavat [Artiklassa A](regulations:article:A) on määritelty alla.
+    - D1a) Ratkaisuyrityksen aikana kilpailijan täytyy istua tuolilla, istua alustalla tai seistä.
+    - D1b) Ratkaisuyrityksen aikana kilpailija saa käyttää pulmapelin käsittelyyn vain jalkateriään ja pintaa. Rangaistus: ratkaisuyrityksen hylkäys (DNF).
+- D3) Ratkaisun aloittaminen:
+    - D3a) Kilpailija asettaa jalkateränsä ajastimen sensoreille.
+    - D3b) Kilpailija nostaa jalkateränsä ajastimen sensoreilta aloittaakseen ratkaisun.
+- D4) Ratkaisun päättäminen:
+    - D4a) Kilpailija pysäyttää ajastimen asettamalla jalkateränsä ajastimen sensoreille.
+
+
+## <article-E><fewest-moves><fewestmovessolving> Artikla E: Vähiten siirtoja -ratkaisu
+
+- E2) Vähiten siirtoja -ratkaisun menettelytavat:
+    - E2a) Tuomari jakaa sekoitussarjan kaikille kilpailijoille. Tämän jälkeen tuomari käynnistää sekuntikellon ja sanoo "ALOITTAKAA" tai "GO".
+    - E2b) Kaikilla kilpailijoilla on 60 minuuttia aikaa ratkaisun suunnitteluun.
+        - E2b1) Tuomarin pitäisi sanoa "5 MINUUTTIA JÄLJELLÄ" tai "5 MINUTES REMAINING" 55 minuutin kohdalla ja sanoa "SEIS" tai "STOP" 60 minuutin kohdalla.
+    - E2c) 60 minuutin kohdalla jokaisen kilpailijan on annettava tuomarille helposti luettava ratkaisu kilpailijan nimellä varustettuna käyttäen Outer Block Turn Metric-notaatiota (määritelty [säännössä 12a](regulations:regulation:12a)). Rangaistus: ratkaisuyrityksen hylkäys (DNF).
+    - E2d) Ratkaisun pituus lasketaan käyttäen Outer Block Turn Metric -notaatiota (ks. [sääntö 12a](regulations:regulation:12a)).
+        - E2d1) Ratkaisun suurin sallittu pituus on 80 (siirrot ja rotaatiot).
+    - E2e) Kilpailijan ratkaisu ei saa olla suoraan johdettu mistään seloitussarjan osasta. Rangaistus: ratkaisuyrityksen hylkäys (DNF) WCA-delegaatin harkinnan mukaan.
+        - E2e1) WCA-delegaatti voi pyytää kilpailijaa selittämään jokaisen siirron tarkoitus hänen ratkaisussaan sekoitusalgoritmista riippumatta. Jos kilpailija ei pysty antamaan pätevää selitystä, ratkaisuyritys hylätään (DNF).
+- E3) Kilpailija voi käyttää seuraavia esineitä ratkaisuyrityksen aikana. Rangaistus luvattomien esineiden käytöstä: ratkaisuyrityksen hylkäys (DNF).
+    - E3a) Paperi ja kyniä (molemmat tuomarilta).
+    - E3b) Rubikin kuutioita (enintään 3, kilpailijan), [artikla 3:n](regulations:article:3) mukaisia.
+    - E3c) Tarroja (kilpailijan).
+    - E3d) Sekuntikello tai rannekello (kilpailijan) kuluneen ajan mittaamista varten, jos se on WCA-delegaatin hyväksymä.
+
+
+## <article-F><clock><clocksolving> Artikla F: Clockin ratkaisu
+
+- F1) [Artiklassa A](regulations:article:A) (Nopeusratkaisu) määriteltyjä vakiomenettelytapoja noudatetaan. Lisäsäännöt, jotka korvaavat vastaavat menettelytavat [Artiklassa A](regulations:article:A) on määritelty alla.
+- F2) Tuomari asettaa pulmapelin matolle pystyasennossa.
+- F3) Tarkasteluvaiheen lopussa kilpailija asettaa pulmapelin pystyasentoon. Rangaistus: ratkaisuyrityksen hylkäys (DNF).
+    - F3a) Kilpailija ei saa vaihtaa tappien asemaa niiden sekoitetuista asemista ennen ratkaisun aloittamista. Rangaistus: ratkaisuyrityksen hylkäys (DNF).
+
+
+## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Artikla H: Multisokkoratkaisu
+
+- H1) [Artiklassa B](regulations:article:B) (Sokkoratkaisu) määriteltyjä vakiomenettelytapoja noudatetaan. Lisäsäännöt, jotka korvaavat vastaavat menettelytavat [Artiklassa B](regulations:article:B) on määritelty alla.
+    - H1a) Kilpailijan täytyy toimittaa järjestäjäryhmälle ennen ratkaisuyritystä se määrä pulmapelejä (vähintään 2), jonka hän haluaa yrittää ratkaista.
+        - H1a1) Kilpailija ei ole oikeutettu vaihtamaan pulmapelien määrää sen järjestäjäryhmälle toimittamisen jälkeen.
+        - H1a2) Kilpailija voi pyytää oman pulmapelien määränsä pitämistä yksityisenä kunnes kaikki kilpailijat ovat toimittaneet määränsä. Tiedosta tulee julkista kun kaikki kilpailijat ovat toimittaneet määränsä (t.s. kilpailija voi kysyä kenen tahansa kilpilijan pulmapelien määrää ennen hänen ratkaisuyrityksensä aloittamista).
+    - H1b) Jos kilpailija yrittää alle 6 pulmapeliä, hänelle myönnetään aikaa 10 minuuttia kertaa ratkaisuyrityksen pulmapelien määrä, muulloin aikaraja on 60 minuuttia.
+        - H1b1) Kilpailija voi ilmoittaa ratkaisuyrityksen päättämisen milloin tahansa. Jos ja kun aikaraja saavutetaan, tuomari pysäyttää ratkaisuyrityksen ja tulos kirjataan ylös; ratkaisuyrityksen aikaraja on alkuperäinen aika.
+    - H1d) Aikarangaistukset ratkaisuyrityksen pulmapeleille ovat kumulatiivisia.
+    - H1e) Stackmat-ajastimen käyttö ajan mittaamiseen on vapaaehtoista.
+
+
+## <article-Z><optional><optional> Artikla Z: Valinnaiset säännöt
+
+Järjestäjäryhmä voi käyttää valinnaisia sääntöjä kilpailun hallinnan helpottamiseksi.
+WCA Boardin täytyy hyväksyä valinnaiset säännöt kilpailulle.
+
+- Z1) Järjestäjäryhmä voi vaatia kilpailijoita toimittamaan pulmapelinsä ilmoittautumisen aikana.
+- Z2) Järjestäjäryhmä voi rajoittaa kilpailijakohtaista lajimäärää.
+- Z3) Järjestäjäryhmä voi valita tietyn lajin tietylle kierrokselle suoraan jatkoon pääseviä kilpailijoita tiettyjen aiempien kilpailujen tulosten perusteella.
+- Z4) Järjestäjäryhmä voi rajoittaa kilpailijamääriä laji- tai kilpilukohtaisesti joko ilmoittautumisjärjestyksen, tai karsintatulosten tai etukäteen määrätyn päivän WCA:n maailmanrankingin perusteella.
+- Z5) Järjestäjäryhmä voi kieltää kilpilijoita osallistumasta tiettyihin yhdistelmiin lajeja.
+
