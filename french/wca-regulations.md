@@ -85,14 +85,14 @@ Note : les numéros des articles et des règles ne sont pas réassignés lors d'
     - 2e1) La liste des pays que l'on peut représenter est définie par l'article Wikipedia "List of sovereign states" (pays annotés par "UN member states and observer states" et "Other states").
     - 2e2) Les compétiteurs ayant plusieurs nationalités peuvent changer le pays qu'ils représentent, pour leur première compétition d'une année civile donnée.
 - 2f) Les compétiteur doivent respecter les règlements du lieu et se conduire de manière correcte.
-- 2g) Les compétiteurs doivent rester calmes à l'intérieur de l'espace de compétition. Les discussions sont autorisées, mais elles doivent être d'un volume sonore raisonnable, et ne pas se dérouler à proximité des personnes entrain de concourir.
+- 2g) Les compétiteurs doivent rester calmes à l'intérieur de l'espace de compétition. Les discussions sont autorisées, mais elles doivent être d'un volume sonore raisonnable, et ne pas se dérouler à proximité des personnes en train de concourir.
     - 2g3) Les compétiteurs dans la Zone des Compétiteurs ne doivent pas communiquer entre eux à propos des mélanges des casse-tête du tour en cours. Pénalité : disqualification du compétiteur de l'épreuve en cours, à la discrétion du Délégué WCA.
 - 2h) Les compétiteurs doivent être entièrement habillés sur le lieu de la compétition. À la discrétion du Délégué WCA, des compétiteurs peuvent être disqualifiés pour vêtements inappropriés.
 - 2i) Pendant qu'ils concourent, les compétiteurs ne doivent pas utiliser d'équipement sonore, ni d'autres équipements électroniques (tels que téléphones portables, lecteurs MP3, dictaphones ou éclairages supplémentaires).
     - 2i1) Les compétiteurs peuvent utiliser certains dispositifs non électroniques qui ne lui donne pas un avantage déloyal, à la discrétion du Délégué WCA. Cela inclut :
         - 2i1a) Aides physiques et médicales portées par le compétiteur (telles que lunettes, attelle, aide auditive). Exception à la [règle 2i](regulations:regulation:2i) : l'aide médicale peut être électronique si le compétiteur n'a pas d'alternative non-électronique confortable (par exemple si le compétiteur a une aide auditive ou un pacemaker).
         - 2i1b) Les boules Quies et cache-oreilles (mais pas les casques anti-bruit électroniques).
-    - 2i2) Les compétiteurs peuvent utiliser des caméras aux emplacements utilisés pour la résolution, à la discrétion du Délégué WCA. Les restrictions suivantes s'applique du début de l'essai à l'arrêt de la résolution. Pénalité pour ne pas respecter une restriction : disqualification de l'essai (DNF).
+    - 2i2) Les compétiteurs peuvent utiliser des caméras aux emplacements utilisés pour la résolution, à la discrétion du Délégué WCA. Les restrictions suivantes s'appliquent du début de l'essai à l'arrêt de la résolution. Pénalité pour ne pas respecter une restriction : disqualification de l'essai (DNF).
         - 2i2a) Chaque écran de caméra doit être vierge ou hors de la vue du compétiteur (voir : [règle A5b](regulations:regulation:A5b)).
         - 2i2b) Le compétiteur ne doit pas interagir avec une caméra allumée (par exemple la tenir, la porter, la manipuler). Exception : le compétiteur peut porter une caméra sur sa tête, tant qu'elle est hors de sa vue, et qu'il n'interagit pas avec elle (hormis le fait de la porter).
 - 2j) Le Délégué WCA peut disqualifier un compétiteur d'une épreuve particulière.
@@ -249,7 +249,7 @@ Note : les numéros des articles et des règles ne sont pas réassignés lors d'
     - 9f12) Pour les tours au format "Meilleur des X", le classement est basé sur le meilleur résultat pour chaque compétiteur. Les résultats sont comparés selon les règles suivantes :
         - 9f12a) Pour les résultats chronométrés, "meilleur" est défini comme un temps plus court.
         - 9f12b) Pour la résolution optimisée, "meilleur" est défini comme une solution plus courte.
-        - 9f12c) Pour la résolution multiple à l'aveugle, le classement est ordonné selon la soustraction entre le nombre de casse-tête résolus moins le nombre de casse-tête non résolus (DNF), plus ce résultat est grand, meilleur il est. Si ce nombre est strictement négatif, ou si 1 seul casse-tête est résolu, l'essai n'est pas considéré résolu (DNF). Si plusieurs compétiteurs obtiennent le même résultat, le classement est ordonné selon le temps total de l'essai, où le plus court temps est le meilleur. Si plusieurs compétiteurs obtiennent le même résultat et le même temps, le classement est ordonné selon le nombre de casse-tête non résolus, plus ce nombre est petit, meilleur il est.
+        - 9f12c) Pour la résolution multiple à l'aveugle, le classement est ordonné selon la soustraction du nombre de casse-tête résolus par le nombre de casse-tête non résolus (DNF), plus ce résultat est grand, meilleur il est. Si ce nombre est strictement négatif, ou si 1 seul casse-tête est résolu, l'essai n'est pas considéré résolu (DNF). Si plusieurs compétiteurs obtiennent le même résultat, le classement est ordonné selon le temps total de l'essai, où le plus court temps est le meilleur. Si plusieurs compétiteurs obtiennent le même résultat et le même temps, le classement est ordonné selon le nombre de casse-tête non résolus, plus ce nombre est petit, meilleur il est.
     - 9f13) Pour les tours au format "Moyenne des 3" et "Moyenne élaguée des 5", le classement est ordonné selon la moyenne des compétiteurs, ou la meilleure est la plus petite calculée.
     - 9f14) Pour les tours au format "Moyenne des 3" et "Moyenne élaguée des 5", si deux compétiteurs ou plus obtiennent la même moyenne, le classement est ordonné selon le meilleur essai pour chaque compétiteur, où le meilleur est le temps le plus court.
     - 9f15) Les compétiteurs obtenant le même résultat pour un tour obtiennent le même classement pour ce tour.
@@ -395,7 +395,7 @@ Note : les numéros des articles et des règles ne sont pas réassignés lors d'
     - A4d) Si un chronomètre Stackmat est utilisé, le compétiteur démarre la résolution en vérifiant que la lumière verte du chronomètre est allumée, et en enlevant ensuite ses mains du chronomètre (démarrant ainsi le chronomètre).
         - A4d1) Le compétiteur doit démarrer sa résolution dans un intervalle de 15 secondes après le début de l'inspection. Pénalité : pénalité de temps (+2 secondes).
         - A4d2) Le compétiteur doit démarrer sa résolution dans un intervalle de 17 secondes après le début de l'inspection. Pénalité : disqualification de l'essai (DNF).
-        - A4d3) Si un chonomètre portatif est utilisé, le juge démarre celui-ci dès que le compétiteur démarre la résolution.
+        - A4d3) Si un chronomètre portatif est utilisé, le juge démarre celui-ci dès que le compétiteur démarre la résolution.
     - A4e) Les pénalités de temps pour le début de la résolution sont cumulatives.
 - A5) Pendant la résolution :
     - A5a) Pendant l'inspection ou la résolution du casse-tête, le compétiteur ne doit pas communiquer avec une autre personne que le juge. Pénalité : disqualification de l'essai (DNF).
@@ -412,11 +412,11 @@ Note : les numéros des articles et des règles ne sont pas réassignés lors d'
     - A6e) Le compétiteur ne doit pas toucher le casse-tête avant que le juge n'ait inspecté le casse-tête. Pénalité : disqualification de l'essai (DNF). Exception : Si aucun mouvement n'a été effectué, une pénalité de temps (+2 secondes) peut être donnée à la place, à la discrétion du juge.
     - A6f) Le compétiteur ne doit pas remettre à zéro le chronomètre avant que le juge n'ait inscrit le résultat sur la feuille de résultats. Pénalité : disqualification de l'essai (DNF), à la discrétion du juge.
     - A6g) Le juge détermine si le casse-tête est résolu. Il ne doit pas effectuer de mouvement ou aligner de face en inspectant le casse-tête. Exception : pour le Clock, le juge va généralement devoir prendre le casse-tête en main pour vérifier les deux côtés.
-    - A6h) En cas de contestation, aucun mouvement ou alignement de doit être effectué avant que la contestion ne soit résolue.
+    - A6h) En cas de contestation, aucun mouvement ou alignement de doit être effectué avant que la contestation ne soit résolue.
     - A6i) Les pénalités de temps pour l'arrêt de la résolution sont cumulatives.
 - A7) Écriture du temps
     - A7a) Le juge annonce le résultat au compétiteur.
-        - A7a1) Si le juge considère que le casse-tête est résolut, il annonce "OKAY".
+        - A7a1) Si le juge considère que le casse-tête est résolu, il annonce "OKAY".
         - A7a2) Si le juge donne des pénalités, le juge annonce "PENALTY".
         - A7a3) Si le résultat est DNF, le juge annonce "DNF".
     - A7b) Le juge écrit le temps sur la feuille de résultats.
