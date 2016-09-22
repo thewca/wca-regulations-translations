@@ -56,7 +56,7 @@ A hatékonyabb megértés segítségéül minden útmutatás a következő címk
 
 - 3a+) [PONTOSÍTÁS] A versenyzők bármilyen ésszerű méretű játékot használhatnak a kirakások során, a WCA delegált beleegyezésével.
 - 3a++) [KIEGÉSZÍTÉS] Alapértelmezésként a versenyző ugyanazt a játékot hasznűlja az egymást követő kirakásoknál. A kirakások között a versenyző változtathat a használt játékon, a bíró vagy a WCA delegált beleegyezésével.
-- 3a++) [PONTOSÍTÁS] A versenyzők kölcsönkérhetnek egymástól játékokat a versenyen való használatra.
+- 3a+++) [PONTOSÍTÁS] A versenyzők kölcsönkérhetnek egymástól játékokat a versenyen való használatra.
 - 3a1+) [PONTOSÍTÁS] A versenyzők kizárhatók, ha nem jelennek meg, amikor versenyezni szólítják őket, vagy ha  nem tudnak játékot biztosítani a bekeveréshez. (pl. Ha egy másik versenyző játékát kívánja használni, de azzal éppen valaki más versenyzik, így nem tudja időben leadni a játékát a bekeveréshez.)
 - 3d1b+) [PONTOSÍTÁS] Nem muszáj minden oldalra mintákat helyezni, csak azokra szükséges, amelyek hasonló színűek. Az elemeken nem lehet egyéb kiegészítés (pl. textúra, eltérő minták), amelyek jelentősen megkülönböztetik a hasonló elemeket egymástól.
 - 3h+) [PONTOSÍTÁS] A játékokon lehet belsőleg finomítani csiszolással, vagy szilikonozással illetve egyéb forgatást segítő anyagokkal.
@@ -84,7 +84,7 @@ A hatékonyabb megértés segítségéül minden útmutatás a következő címk
 - 5b5+) [PÉLDA] Példa arra az esetre, amikor fizikailag külön állnak a játékok elemei, és kirakottnak tekintendők: Rubik kocka egy középsapkája, nagykockák egy középső eleme, nagykockák belső elemei.
 - 5b5++) [PÉLDA] Példa arra az esetre, amikor fizikailag külön állnak a játékok elemei, és nem tekintendők kirakottnak (DNF): Rubik kocka több középsapkája, nagykockák több középső eleme, Rubik kocka sarokeleme, 4x4x4-es kocka sarokeleme/éle, illetve két elem bármilyen kombinációja, amikor mindkét elem rendelkezik legalább egy színezett résszel.
 - 5b5+++) [PÉLDA] Példa, arra az esetre, amikor az elemek nem érintkeznek teljes mértékben egymással és kirakottnak tekintendők: 5x5x5-ös kocka középső eleme helyben elfordulva.
-- 5b5a++++) [PÉLDA] Példa, arra az esetre, amikor az elemek nem érintkeznek teljes mértékben egymással és nem tekintendők kirakottnak (DNF): Rubik kocka él-eleme némileg elpoppolva.
+- 5b5++++) [PÉLDA] Példa, arra az esetre, amikor az elemek nem érintkeznek teljes mértékben egymással és nem tekintendők kirakottnak (DNF): Rubik kocka él-eleme némileg elpoppolva.
 - 5c+) [EMLÉKEZTETŐ] Ha a versenyzőnek meghibásodik a játéka, az nem jelent számára új kirakáshoz való jogot.
 
 
@@ -149,7 +149,7 @@ A hatékonyabb megértés segítségéül minden útmutatás a következő címk
 - A1a3+) [EMLÉKEZTETŐ] A szervező csapatnak és a WCA delegáltnak ügyelniük kell arra, hogy az időlimitek befolyásolják a versenyzők stratégiáját (pl. megpróbálni gyorsan kirakni az első 2 kirakást, hogy megfeleljen a kombinált forduló időlimitének), így a forduló megkezdését követően az időlimitek megváltoztatása igazságtalanul hathat egyes versenyzőkre.
 - A1a4+) [EMLÉKEZTETŐ] Ha egy versenyzőnek véletlenül megengedték az időlimit átlépését, a versenyző időeredményét visszamenőleg el kell törölni, és a bírót, a versenyzőt és a WCA delegáltat is tájékoztatni kell róla (lásd [Szabályzat 1g2](regulations:regulation:1g2)). A bíróknak mindig tisztában kell lenniük az adott forduló az időlimitével (ami kumulált időlimit esetén függ az előző kirakásoktól).
 - A1c+) [PONTOSÍTÁS] A WCA Delegált csak akkor járhatnak el saját belátásuk szerint, amennyiben a versenyző kárt okoz a versenynek (pl.: pazarolja az időt/erőforrásokat). A versenyzők nem zárhatóak ki „rossz” eredmény miatt, amennyiben legjobb tudásuk szerint versenyeznek.
-- A2c1+) [[PONTOSÍTÁS] Korábban a pontkártyákat használhatták a játékok eltakarására, de így néhány oldala kilátszott. Ez már nem megengedett.
+- A2c1+) [PONTOSÍTÁS] Korábban a pontkártyákat használhatták a játékok eltakarására, de így néhány oldala kilátszott. Ez már nem megengedett.
 - A3c3+) [PONTOSÍTÁS] A versenyző is lenullázhatja a timert a megtekintési idő előtt/közben, ha a bíró elmulasztotta volna. Bár a bíró felelős a timer lenullázásáért (lásd [Szabályzat A3b](regulations:regulation:A3b), de a versenyzőnek is meg kell győződnie róla. Amennyiben a versenyző véletlenül úgy kezdené meg a kirakást, hogy a timer nincs lenullázva (pl.: a megtekintési után a kezét a timer-re helyezi megfelelő ideig és meg van róla győződve, hogy a timer megfelelően el fog indulni és elkezdi a kirakást) egy extra kirakást kap a versenyző, a WCA delegált engedélyével.
 - A3c4+) [PONTOSÍTÁS] Ha a játékoknál egy vékony tárgyat használnak a kirakás rögzítéséhez, akkor a bíró nem mozdíthatja el ezt a tárgyat a versenyző helyett.
 - A3c4++) [PONTOSÍTÁS] A versenyző a tárgyat a kirakás közben is eltávolíthatja, amennyiben a megtekintési idő alatt ezt nem tette meg. (pl. elfelejtette)
