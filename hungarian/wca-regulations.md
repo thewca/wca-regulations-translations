@@ -95,6 +95,9 @@ Megjegyzés: A Szabályzat változtatásával a Cikkek és a Szabályzat számoz
     - 2i1) A versenyzők használhatnak bizonyos nem elektronikus segédeszközöket, melyek nem juttatják tisztességtelen előnyhöz, melyekről a WCA delegált dönt. Ez tartalmazza:
         - 2i1a) A versenyző által viselt orvosi/ fizikai segédeszközöket (pl. szemüveg, csuklópánt, hallókészülék). Kivételt képez a [Szabályzat 2i)](regulations:regulation:2i) alól, hogy az orvosi segédeszközök lehetnek elektronikusak, amennyiben a versenyző nem rendelkezik nem-elektronikus alternatívával (pl.: hallókészülék, pacemaker).
         - 2i1b) Füldugók és fülhallgatók (nem elektronikus, zajszűrő fülhallgatók).
+    - 2i2) A versenyző használhat kamerát a kirakáskor a WCA Delegált engedélyével, amennyiben betartja a következő szabályozásokat. Ezek megsértése esetén a büntetés: érvénytelen kirakás. (DNF)
+        - 2i2a) A kamera minden kijelzőjének sötétnek kell lennie vagy olyan helyzetben kell állnia, hogy a versenyző ne láthassa. (lásd [Szabályzat A5b](regulations:regulation:A5b)
+        - 2i2b) A versenyző nem lehet kapcsolatban egyetlen működő kamerával sem (pl.: működtetés, tartás, viselés). Kivétel: A versenyző viselhet kamerát a fejére csatolva, amennyiben nem takarja a kilátást és nincs vele kapcsolatban (azon kívül, hogy viseli).
 - 2j) A WCA delegált kizárhat egy versenyzőt egy adott versenyszámból.
     - 2j1) Ha egy versenyzőt bármilyen okból kizártak az adott versenyszámból, nem jogosult a további kirakásainak teljesítésére.
     - 2j2) Ha egy versenyzőt egy versenyszám alatt zárnak ki a versenyből, a korábbi eredményei érvényesek maradnak. Kivétel: csalás vagy megtévesztés (lásd [Szabályzat 2k2a](regulations:regulation:2k2a)).
@@ -140,7 +143,7 @@ Megjegyzés: A Szabályzat változtatásával a Cikkek és a Szabályzat számoz
     - 3j2) Definíció: Két elemet egyformának tekintünk, ha alakjuk és méretük megegyezik, vagy alakjuk tükrözött, méretük pedig megegyező.
     - 3j3) A bordázott/mintázott felületű részeket tartalmazó kockák, melyekkel az elemek orientációja kitapintható, nem alkalmazhatók a vakon történő kirakásokhoz.
 - 3k) A játékokat a WCA delegáltnak jóvá kell hagynia a versenyben való használat előtt.
-- 3l) A kocka alakú játékokon lehetőség van logó elhelyezésére a színezett részen, de maximum 1 színezett részen helyezhetünk el logót. 
+- 3l) A kocka alakú játékokon lehetőség van logó elhelyezésére a színezett részen, de maximum 1 színezett részen helyezhetünk el logót.
     - 3l1) A logót valamelyik középső elemen kell elhelyezni. Kivétel: ha a játéknak nincs középső eleme:
         - 3l1a) A Pyraminx-en és a 2x2x2-es kockán a logó bármelyik elemen elhelyezhető.
         - 3l1b) A Square-1-on a logót valamelyik középső rétegen lévő elemen kell elhelyezni.
@@ -161,6 +164,7 @@ Megjegyzés: A Szabályzat változtatásával a Cikkek és a Szabályzat számoz
         - 4b3d) Square-1 esetén: Olyan random állásra van szükség, melynek kirakásához legalább 11 forgatás szükséges.
         - 4b3e) 5x5x5-ös, 6x6x6-os, 7x7x7-es kocka valamint Megaminx esetén: eléggé sok random mozdulatra (nem random állásra) van szükség, melynek kirakásához legalább 2 forgatás szükséges.
 		- 4b3f) Pyraminx esetén: Olyan random állásra van szükség, melynek kirakásához legalább 6 forgatás szükséges.
+    - 4b4) Egy keverés maximum 2 órán keresztül használható. Ez az időtartam onnantól indul, amikor a keverés először alkalmazva van.
 - 4d) Alapállás a keveréshez:
     - 4d1) Az NxNxN-es kockákat és a Megaminx-et a fehér oldallal (ha nincs, akkor a legvilágosabb oldallal) felfelé, és a zöld oldallal (ha nincs, akkor a legsötétebb oldallal) szemben kell elkezdeni keverni.
     - 4d2) A Pyraminx-et a sárga oldallal (ha nincs, akkor a legvilágosabb oldallal) lefelé és a zöld oldallal (ha nincs, akkor a legsötétebb oldallal) szemben kell elkezdeni keverni.
@@ -177,6 +181,7 @@ Megjegyzés: A Szabályzat változtatásával a Cikkek és a Szabályzat számoz
 - 5a) Példák a játékok meghibásodására: kiesett, helyben elfordult darabok, levált csavarok, sapkák, matricák.
 - 5b) Ha a meghibásodás a kirakás alatt történik a versenyző dönthet, hogy megjavítja a játékot, vagy leállíthatja a rakást.
     - 5b1) Ha a versenyző úgy dönt, hogy megjavítja a játékot, csak a hibás darabokat hozhatja helyre. A játék darabjait vagy más eszközöket tilos eközben használni.  Büntetés: érvénytelen kirakás. (DNF)
+    - 5b2) Semmilyen, a játékon végzett javítás nem adhat előnyt a versenyzőnek a kirakásban. Büntetés: érvénytelen kirakás. (DNF)
     - 5b3) Engedélyezett javítások:
         - 5b3a) Ha az elemek kiestek, vagy elmozdultak a helyükről a versenyző visszateheti őket.
         - 5b3b) Ha a javítás után, de még a kirakás befejezése előtt a versenyző észreveszi, hogy kirakhatatlan a játék, akkor szétszedheti, és maximum 4 elem kiszedévésel kirakható állapotba hozhatja.
@@ -301,7 +306,7 @@ Megjegyzés: A Szabályzat változtatásával a Cikkek és a Szabályzat számoz
 - 11d) Ha a WCA Szabályzat nem teljesen tisztázza, hogy mit kell tenni adott helyzetben, vagy nem tartozik a WCA Szabályzat hatáskörébe, akkor a WCA delegáltnak kell döntést hoznia a sportszerűség elve alapján (lásd [Szabályzat 11e3](regulations:regulation:11e3)).
 - 11e) Ha a kirakás alatt valamilyen incidens történik, a WCA delegált megítélhet egy extra kirakást a versenyzőnek, a megzavart kirakás helyett. Ahhoz, hogy versenyző jogosult legyen egy extra kirakásra, szóban vagy írásban kell a bíróhoz és a WCA delegálthoz fordulnia az incidens megtörténtekor, de még az eredeti kirakás befejezése előtt. A kérés nem garantálja a versenyzőnek, hogy extra kirakást kap.
     - 11e1) Ha a versenyző egy extra kirakásra jogosult, akkor az ehhez használt keverési algoritmusnak egy másik keverést kell használni. Ezt a keverési algoritmust a WCA keverő programjának aktuális hivatalos verziójával kell generálni (lásd [Szabályzat 4f](regulations:regulation:4f)).
-	- 11e2) Ha a versenyző extra kirakásra jogosult, akkor az extra kirakást közvetlenül az eredeti rakása után kell teljesítenie. Az extra kirakás azt az eredményt helyettesíti, aminek az eredménye az extra kirakás lett. 
+	- 11e2) Ha a versenyző extra kirakásra jogosult, akkor az extra kirakást közvetlenül az eredeti rakása után kell teljesítenie. Az extra kirakás azt az eredményt helyettesíti, aminek az eredménye az extra kirakás lett.
 	- 11e3) Ha nem egyértelmű, hogy egy incidens miatt indokolt-e az extra kirakás, akkor lehetséges feltételes extra kirakás biztosítása, mely kirakás eredménye csak akkor kerül felhasználásra, amennyiben a későbbiekben bebizonyosodik, hogy az extra kirakás indokolt volt (pl.: a WCA Board döntése alapján).
 - 11f) Egy incidens eldöntését lehet segíteni videó vagy fényképes elemzéssel, a WCA delegált beleegyezésével.
 
@@ -515,6 +520,7 @@ Megjegyzés: A Szabályzat változtatásával a Cikkek és a Szabályzat számoz
     - H1b) Ha a versenyző 6-nál kevesebb játékot rak ki, akkor a számára megszabott időlimit 10 perc/játék.  Más esetben a versenyzőnek maximum 60 perc áll rendelkezésére.
         - H1b1) A versenyző bármikor leállíthatja a kirakást.
     - H1d) A kirakásban részt vevő játékok időbüntetései összeadódnak. Az időlimit elérésekor, a bíró leállítja a kirakást és a kirakás akkor kerül értékelésre, és az időeredménynek az eredeti időlimit számít.
+    - H1e) Stackmat timer használata az időmérésre opcionális.
 
 
 ## <article-Z><optional><optional> Z Cikk: Választható szabályok
