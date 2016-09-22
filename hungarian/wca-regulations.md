@@ -1,11 +1,11 @@
-# <wca-title>WCA Szabályzat 2015
+# <wca-title>WCA Szabályzat 2016
 
-<version>Verzió: 2015. július 1.
+<version>Verzió: 2016. április 18.
 
 
 ## Megjegyzések
 
-### Fordítás
+###Fordítás
 
 Ez egy nem hivatalos fordítás, amely csupán segítséget nyújt a magyar versenyzőknek a WCA Szabályzat értelmezésében. Hasznos lehet, de a fordítás hitelessége nem garantált. Az eredeti, angol nyelvű WCA Szabályzat és ezen fordítás közötti bármilyen eltérés esetén az eredeti, angol nyelvű WCA Szabályzat a mérvadó.
 
@@ -123,10 +123,10 @@ Megjegyzés: A Szabályzat változtatásával a Cikkek és a Szabályzat számoz
     - 3a1) A versenyzőknek meg kell jelenniük és készen kell állniuk a versenyzésre, amikor szólítják őket (lásd: [Szabályzat 2u](regulations:regulation:2u)).
     - 3a2) A játékoknak teljesen működőképesnek kell lenniük, hogy a normál keverés elvégezhető legyen rajtuk.
     - 3a3) A több oldalú játékoknál kirakott állapotban egy azonos színnel kell, hogy rendelkezzen minden oldal. Minden játékvariáció forgathatósága, állásai és megoldása funkcionálisan ugyanaz kell, hogy legyen, mint az eredeti játéké.
-- 3d) A játékoknak az alábbiakban felsorolt színezett részek egyikével kell rendelkeznie: színes matrica, színes csempe, színes műanyag rész vagy festett/nyomtatott színezés. Azonban egy játék minden színezett részének megegyező típusúnak kell lennie.
+- 3d) A játékoknak színezett részekkel kell rendelkezniük, melyek meghatározzák a játékok színsémáját, de kizárólag csak az egyik típussal rendelkezhetnek: színes matrica, színes csempe, színes műanyag rész vagy festett/nyomtatott színezés. Azonban egy játék minden színezett részének megegyező típusúnak kell lennie.
     - 3d1) Kivétel: Orvosi igazolással rendelkező, vizuális fogyatékossággal élő versenyzők használhatnak minden oldalon különböző mintákkal ellátott játékokat. A mintáknak azonosnak kell lennie az egyes oldalakon. Minden oldalnak eltérő színűnek kell lennie, ezzel megkönnyítve a keverést és a bíráskodást.
-		- 3d1a) A versenyzők használhatnak textúrákkal ellátott játékokat, ahol minden oldalon különböző textúra található. Minden oldalnak különböző színnel kell rendelkeznie, hogy segítse a keverést és a bíráskodást.
-		- 3d1b) A versenyzők, akik nem tudnak megkülönböztetni elegendő számú oldalakat egymástól, használhat a színes oldalakon jeleket, amennyiben ez előzőleg jóvá lett hagyva a [Szabályzat 2s](regulations:regulation:2s) pontja alapján. A jelek lehetnek matricák vagy rajzok.
+		- 3d1a) Látássérült versenyzők használhatnak minden oldalon különböző mintákkal ellátott játékokat. A mintáknak azonosnak kell lennie az egyes oldalakon. Minden oldalnak eltérő színűnek kell lennie, ezzel megkönnyítve a keverést és a bíráskodást.
+		- 3d1b) Színvak versenyzők, akik nem tudnak elegendő számú színt megkülönböztetni, használhatnak mintákkal ellátott, azonos színű matricákat, amiket a [Szabályzat 2s](regulations:regulation:2s) kifejezetten jóváhagy. A minták lehetnek a matricán vagy lehetnek rajzoltak.
     - 3d2) A játékok színeinek szolidnak kell lenniük, egy egységes színnel az egyes oldalakon. Minden színnek egyértelműen megkülönböztethetőnek kell lennie a többitől.
     - 3d3) Ha a színezett részek matricák vagy csempék, akkor azok nem lehetnek vastagabbak 1,5 mm-nél. Kivétel: a Megaminx csempéi lehetnek valamivel vastagabbak, a WCA delegált beleegyezésével.
 - 3h) Nem megengedettek olyan módosítások, amelyek változtatnak a játék eredeti koncepcióján. A módosított játékok megengedettek, amennyiben nem juttatja több információhoz a versenyzőt (pl. a játék orientációjának meghatározásában vagy az elemek azonosításában) a nem módosított játékhoz képest.
@@ -216,7 +216,7 @@ Megjegyzés: A Szabályzat változtatásával a Cikkek és a Szabályzat számoz
     - 8a3) Kötelező egy WCA delegált részvétele.
     - 8a4) Közzé kell tenni a WCA weboldalán legkésőbb 2 héttel a verseny kezdete előtt.
     - 8a6) Nyilvánosnak kell lennie.
-    - 8a7) Hiteles Speed Stacks Stakmat időmérőket (2. vagy magasabb generációs) kell használni az időmérésre.
+    - 8a7) Hiteles Speed Stacks Stakmat időmérőket (2. Generációs Timer, 3. Generációs Pro Timer vagy 4. Generációs Pro Timer ) kell használni az időmérésre.
     - 8a8) Bárki számára nyitottnak kell lennie, aki versenyezni akar. A korlátozásokat a WCA Board-nak jóvá kell hagynia, és a verseny meghirdetésekor be kell jelenteni.
 - 8f) Ha a WCA Szabályzat nincs betartva a verseny egésze alatt, akkor a WCA Board módosíthatja a verseny eredményeit.
 
@@ -262,9 +262,9 @@ Megjegyzés: A Szabályzat változtatásával a Cikkek és a Szabályzat számoz
 - 9k) Egy versenyen minden versenyző részt vehet bármely versenyszámban, kivéve, ha a WCA Board másképp nem dönt.
 - 9l) Minden fordulót be kell fejezni mielőtt ugyanazon versenyszám másik fordulója elkezdődne.
 - 9m) Minden versenyszámnak maximum 4 fordulója lehet.
-    - 9m1) 99 vagy kevesebb induló versenyzővel rendelkező versenyszámokban maximum 3 forduló lehetséges.
-    - 9m2) 15 vagy kevesebb induló versenyzővel rendelkező versenyszámokban maximum 2 forduló lehetséges.
-    - 9m3) 7 vagy kevesebb induló versenyzővel rendelkező versenyszámokban maximum 1 forduló lehetséges.
+    - 9m1) 99 vagy kevesebb induló versenyzővel rendelkező fordulót maximum 2 másik forduló követhet.
+    - 9m2) 15 vagy kevesebb induló versenyzővel rendelkező fordulót maximum 1 másik forduló követhet
+    - 9m3) 7 vagy kevesebb induló versenyzővel rendelkező fordulót nem követhet több forduló.
 - 9o) A kombinált fordulók is 1-1 fordulónak számítanak.
 - 9p) Ha egy versenyszámnak több fordulója is van, akkor:
     - 9p1) A versenyzők minimum 25%-ának ki kell esnie a következő fordulót megelőzően.
@@ -302,7 +302,7 @@ Megjegyzés: A Szabályzat változtatásával a Cikkek és a Szabályzat számoz
 - 11d) Ha a WCA Szabályzat nem teljesen tisztázza, hogy mit kell tenni adott helyzetben, vagy nem tartozik a WCA Szabályzat hatáskörébe, akkor a WCA delegáltnak kell döntést hoznia a sportszerűség elve alapján (lásd [Szabályzat 11e3](regulations:regulation:11e3)).
 - 11e) Ha a kirakás alatt valamilyen incidens történik, a WCA delegált megítélhet egy extra kirakást a versenyzőnek, a megzavart kirakás helyett. Ahhoz, hogy versenyző jogosult legyen egy extra kirakásra, szóban vagy írásban kell a bíróhoz és a WCA delegálthoz fordulnia az incidens megtörténtekor, de még az eredeti kirakás befejezése előtt. A kérés nem garantálja a versenyzőnek, hogy extra kirakást kap.
     - 11e1) Ha a versenyző egy extra kirakásra jogosult, akkor az ehhez használt keverési algoritmusnak egy másik keverést kell használni. Ezt a keverési algoritmust a WCA keverő programjának aktuális hivatalos verziójával kell generálni (lásd [Szabályzat 4f](regulations:regulation:4f)).
-	- 11e2) Ha a versenyző extra kirakásra jogosult, akkor először az eredeti rakásait kell befejeznie, csak ezután kaphatja meg az extra kirakást. Az extra kirakás azt az eredményt helyettesíti, aminek az eredménye az extra kirakás lett, több extra kirakás esetén időrendi sorrendben.
+	- 11e2) Ha a versenyző extra kirakásra jogosult, akkor az extra kirakást közvetlenül az eredeti rakása után kell teljesítenie. Az extra kirakás azt az eredményt helyettesíti, aminek az eredménye az extra kirakás lett. 
 	- 11e3) Ha nem egyértelmű, hogy egy incidens miatt indokolt-e az extra kirakás, akkor lehetséges feltételes extra kirakás biztosítása, mely kirakás eredménye csak akkor kerül felhasználásra, amennyiben a későbbiekben bebizonyosodik, hogy az extra kirakás indokolt volt (pl.: a WCA Board döntése alapján).
 - 11f) Egy incidens eldöntését lehet segíteni videó vagy fényképes elemzéssel, a WCA delegált beleegyezésével.
 
@@ -367,11 +367,11 @@ Megjegyzés: A Szabályzat változtatásával a Cikkek és a Szabályzat számoz
 - A2) Keverés:
     - A2a) Amikor egy versenyzőt versenyezni szólítanak, kirakott állapotban le kell adnia a játékát a keverőnek és a várakozó versenyzők számára kijelölt helyen kell tartózkodnia, amíg nem hívják a kirakásaihoz.
     - A2b) A keverő bekeveri a játékot a szabályoknak megfelelően (lásd [4. cikk](regulations:article:4)).
-        - A2b1) A Square-1 versenyszám esetében a szervezők kérésére lehetséges vékony tárgyak elhelyezése a keverést követően, hogy ne tudjon elfordulni a játék a kirakás megkezdése előtt. Amennyiben ilyen tárgyak használva vannak, azt ki kell jelenteni a versenyszám megkezdése előtt.
+		-A2b1) A Square-1 versenyszám esetében a szervezők kérésére lehetséges vékony tárgyak elhelyezése a keverést követően, hogy ne tudjon elfordulni a játék a kirakás megkezdése előtt. Amennyiben ilyen tárgyak használva vannak, azt ki kell jelenteni a versenyszám megkezdése előtt.
     - A2c) Miután a keverő megkezdte a játék bekeverését a versenyző nem láthatja a játékát a megtekintés kezdetéig.
         - A2c1) A keverő letakarja a bekevert játékot, hogy se versenyző se néző ne láthassa a játék egyetlen részét sem. A takaró a játékon marad a kirakás megkezdéséig.
     - A2d) Amikor a bíró elveszi a játékot a keverőtől, megvizsgálja, hogy be van-e keverve. Ha a bíró kételkedik a keveréssel kapcsolatban, meg kell kérnie a keverőt, hogy alaposan vizsgálja meg.
-        - A2d1) A szervezők előírhatnak hozzáadott szabályokat a keverős számára, amivel biztosítják, hogy leellenőrizték a keverés helyességét (pl.: aláírathatják a pontkártyát, ezzel tanúsítva, hogy a keverők a megfelelő számú keverést keverték be, illetve, hogy ellenőrizték a keverést vagy használhatnak „keverés-ellenőrző” embert).
+		-A2d1) A szervezők előírhatnak hozzáadott szabályokat a keverős számára, amivel biztosítják, hogy leellenőrizték a keverés helyességét (pl.: aláírathatják a pontkártyát, ezzel tanúsítva, hogy a keverők a megfelelő számú keverést keverték be, illetve, hogy ellenőrizték a keverést vagy használhatnak „keverés-ellenőrző” embert).
     - A2e) A bíró a szőnyegre helyezi a játékot tetszőleges állásban, és biztosítja, hogy teljesen takarva maradjon.
         - A2e1) A versenyző nem kérheti a kocka semmilyen speciális orientációját, és a bíró nem befolyásolhatja az orientációt ahogyan a játékot a szőnyegre rakja, annak megfelelően hogy mit tud/sejt a kocka orientációjáról.
 - A3) Megtekintés:
@@ -384,9 +384,8 @@ Megjegyzés: A Szabályzat változtatásával a Cikkek és a Szabályzat számoz
         - A3c1) A versenyző nem forgathat a játékon a megtekintés alatt. Büntetés: érvénytelen kirakás. (DNF)
         - A3c2) Ha a játék darabjai nincsenek teljesen egyvonalban, akkor a versenyző eligazíthatja őket, amíg a megengedett elmozdítási határokon belül marad (lásd [Szabályzat 10f](regulations:regulation:10f)).
         - A3c3) A versenyzőnek nulláznia kell a timer-t a kirakás megkezdése előtt.
-		- A3c4) A Square-1 versenyszám esetén, amennyiben vékony tárgyakat használnak a játék elfordulása ellen, a versenyzőnek a megtekintési idő alatt kell eltávolítania azt a játékból (lásd [Szabályzat A2b1](regulations:regulation:A2b1)).
-    - A3d) A megtekintés végén a versenyző elhelyezi a játékot a szőnyegen tetszőleges állásban.
-        - A3d1) A játék nem érintheti a timer-t. Büntetés: időbüntetés (+2 másodperc)
+		- A3c4) A Square-1 versenyszám esetén, amennyiben vékony tárgyakat használnak a játék elfordulása ellen, a versenyző a megtekintési idő alatt eltávolíthatja azt a játékból. (lásd [Szabályzat A2b1](regulations:regulation:A2b1)).
+    - A3d) A megtekintés végén a versenyző elhelyezi a játékot a szőnyegen tetszőleges állásban. Büntetés ha a szőnyegen kívülre helyezi: időbüntetés (+2 másodperc)
         - A3d2) Amikor a megtekintés idejéből 8 másodperc eltelt, a bírónak szólnia kell: „8 másodperc” (8 seconds)
         - A3d3) Amikor a megtekintés idejéből 12 másodperc eltelt, a bírónak szólnia kell: „12 másodperc” (12 seconds).
 - A4) A kirakás megkezdése:
@@ -395,7 +394,7 @@ Megjegyzés: A Szabályzat változtatásával a Cikkek és a Szabályzat számoz
     - A4d) Ha a kirakás mérésére Stackmat timer van használva, akkor a versenyző ellenőrzi, hogy a timer lámpája zölden világít és a kezei leemelésével a timer-ről elkezdi a kirakást.
         - A4d1) A versenyzőnek a megtekintés kezdetét követő 15 másodperben belül el kell kezdeni a kirakást. Büntetés: időbüntetés (+2 másodperc).
         - A4d2) A versenyzőnek a megtekintés kezdetét követő 17 másodperben belül el kell kezdeni a kirakást. Büntetés: érvénytelen kirakás (DNF).
-        - A4d3) Ha a kirakás mérésére stopper van használva, akkor a bíró akkor indítja el a stoppert, amikor a versenyző megkezdi a kirakást.
+        - A4d2) Ha a kirakás mérésére stopper van használva, akkor a bíró akkor indítja el a stoppert, amikor a versenyző megkezdi a kirakást.
     - A4e) A kirakás megkezdése előtti időbüntetések összeadódnak.
 - A5) Kirakás közben:
     - A5a) A megtekintés és a kirakás közben a versenyző senkivel sem kommunikálhat a bírót kivéve. Büntetés: érvénytelen kirakás (DNF)
@@ -420,7 +419,7 @@ Megjegyzés: A Szabályzat változtatásával a Cikkek és a Szabályzat számoz
         - A7a2) Ha a bíró büntetést állapít meg, azt mondja: „Büntetés” (Penalty).
         - A7a3) Ha a versenyző eredménye DNF, a bíró azt mondja: „DNF” (DNF).
     - A7b) A bíró rögzíti az eredményt a pontkártyán.
-        - A7b1) Ha időbüntetésre van szükség, akkor a bíró rögzíti az eredeti eredményt és a büntetéseket is külön-külön és együttesen is a következő formában: X+T+Y=F, ahol X a kirakás megkezdése előtti büntetések összege, T az eredeti idő, Y a kirakás alatti és a kirakás utáni büntetések összese, F pedig a végső eredmény. Ha X=0 és/vagy Y=0, akkor ez a formula azon része elhagyható (pl. 2+17.65+2=21.65 vagy 17.65+2= 19.65).
+        - A7b1) Ha időbüntetésre van szükség, akkor a bíró rögzíti az eredeti eredményt és a büntetéseket is külön-külön és együttesen is a következő formában: X+T+Y=F, ahol X a kirakás megkezdése előtti büntetések összege, T az eredeti idő, Y a kirakás alatti és a kirakás utáni büntetések összese, F pedig a végső eredmény (pl. 2+17.65+2=21.65). Ha X=0 és/vagy Y=0, akkor ez a formula azon része elhagyható. (pl. 17.65+2= 19.65)
     - A7c) A bíró és a versenyző is aláírja vagy megjelöli a pontkártyát, ezzel elismerve az eredmény helyességét, teljességét, megfelelő formátumát és olvashatóságát. Ezzel van vége a kirakásnak.
         - A7c1) Ha a versenyző vagy a bíró nem ismeri el az eredményt, a WCA delegáltnak kell döntenie.
         - A7c2) A versenyzőnek tilos aláírnia a pontkártyát, mielőtt a bíró teljesen rögzítette volna az eredményt. Ha a versenyző aláírja vagy megjelöli a pontkártyát a kirakásnak megfelelő helyen mielőtt az elkezdődött volna, vagy mielőtt a bíró befejezte volna az időeredmény rögzítését, elveszíti a kirakását és az eredménye DNS-nek minősül.
@@ -490,12 +489,12 @@ Megjegyzés: A Szabályzat változtatásával a Cikkek és a Szabályzat számoz
     - E2c) A 60 perc elteltével minden versenyzőnek egy olvasható megoldást kell benyújtania, a versenyző nevével ellátva, valamint az „Outer Block Turn Metric”-nek megfelelő jelölésekkel leírva (lásd: [Szabályzat 12a](regulations:regulation:12a)). Büntetés: érvénytelen kirakás (DNF).
     - E2d) A kirakás hosszúságát a „Outer Block Turn Metric”-nek megfelelően kell számolni.
         - E2d1) A versenyzők maximum 80 lépés hosszúságú megoldást nyújthatnak be.
-    - E2e) Tilos a keverési algoritmus bármely részét visszafele leírni a megoldás algoritmusában. Büntetés: érvénytelen kirakás (DNF).
+    - E2e) Tilos a keverési algoritmus bármely részét visszafele leírni a megoldás algoritmusában. Büntetés: érvénytelen kirakás (DNF), a WCA Delegált jóváhagyásával.
         - E2e1) A WCA delegált megkérheti a versenyzőket, hogy magyarázzák el a megoldás menetét. Ha a versenyző nem tud érvényes magyarázatot adni, akkor a megoldás nem elfogadható és a versenyző eredménye DNF.
 - E3) A versenyző a következő eszközöket használhatja a forduló alatt. A nem megengedett eszközök használatát a fordulóból való kizárással kell büntetni.
     - E3a) Papír és tollak (a bíró által biztosított).
     - E3b) Rubik kockák (maximum 3 db, mindenki magának biztosítja), lásd [3. Cikk](regulations:article:3).
-    - E3c) Színes matricák (mindenki magának biztosítja).
+    - E3c) Matricák (mindenki magának biztosítja).
 	- E3d) Stopper vagy óra az időmérésre, a WCA Delegált jóváhagyásával.
 
 
@@ -503,7 +502,9 @@ Megjegyzés: A Szabályzat változtatásával a Cikkek és a Szabályzat számoz
 
 - F1) A standard Speed Solving eljárásokat kell követni (lásd [A cikk](regulations:article:A)). Az ettől eltérő szabályokat az alábbiakban ismertetjük.
 - F2) A bíró a bekevert játékot a szőnyegre helyezi álló helyzetben.
-- F3) A megtekintés végén a versenyző a szőnyegre helyezi a játékot álló helyzetben. A kirakás megkezdése előtt nem változtathat a pöckök bekeveréskor kapott állásán. Büntetés: érvénytelen kirakás (DNF).
+- F3) A megtekintés végén a versenyző álló helyzetben teszi le a játékot. Büntetés: érvénytelen kirakás (DNF)
+	- F3a) A kirakás megkezdése előtt nem változtathat a pöckök bekeveréskor kapott állásán. Büntetés: érvénytelen kirakás (DNF)
+
 
 
 ## <article-H><multiple-blindfolded><multipleblindfoldedsolving> H Cikk: Több kocka vakon kirakása
