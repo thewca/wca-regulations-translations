@@ -1,6 +1,6 @@
-# <wca-title>WCA Útmutató 2015
+# <wca-title>WCA Útmutató 2016
 
-<version>Verzió: 2015. július 1.
+<version>Verzió: 2016. április 18.
 
 
 ## Megjegyzések
@@ -21,7 +21,7 @@ A hatékonyabb megértés segítségéül minden útmutatás a következő címk
 - <label>[MAGYARÁZAT] A szabályok szándékát pontosító információk.
 - <label>[AJÁNLÁS] Betartásuk nem kötelező, de ha lehetséges eszerint kell cselekedni.
 - <label>[EMLÉKEZTETŐ] Olyan szabályok/iránymutatások, amelyek már máshol említve voltak, de a jelentőségük miatt fontos a megismétlésük.
-- <label>[PÉLDA] Egy példa arra, hogy hogyan alkalmazzuk a szabályt.
+- <label>[PÉLDA] Egy példa a szabályok alkalmazására.
 
 ## <contents> [Contents](guidelines:contents)
 
@@ -38,6 +38,7 @@ A hatékonyabb megértés segítségéül minden útmutatás a következő címk
 - 1h+) [AJÁNLÁS] Az azonos csoportba beosztott versenyzőknek ugyanazt a keverést kell kapniuk, míg a nem azonos csoportba beosztott versenyzőknek különbözőt.
 - 1h++) [AJÁNLÁS] Minden versenyszám utolsó fordulójában, csak úgy, mint a Legkevesebb mozdulattal való kirakásnál, a versenyzőknek ugyanazt a keverést kell kapniuk (pl. csak 1 csoport).
 - 1h1+) [PONTOSÍTÁS] A keverők/bírók csak akkor keverhetnek/bíráskodhatnak a saját csoportjukban, ha az a verseny lebonyolítása érdekében elkerülhetetlen.
+- 1h1++) [PONTOSÍTÁS] A legkevesebb mozdulattal való kirakás versenyszám esetében a bírók számára engedélyezett, hogy bíráskodjanak abban a csoportban, amelyikben versenyeznek, még mielőtt befejezték a versenyszámukat. (pl. mialatt versenyeznek)
 
 
 ## <article-2><competitors><competitors> 2. Cikk: Versenyzők
@@ -63,6 +64,7 @@ A hatékonyabb megértés segítségéül minden útmutatás a következő címk
 - 3h2+) [PONTOSÍTÁS] A korábbiakban, az anyagában színes kockák használata tilos volt. Most már engedélyezve vannak ezek a játékok.
 - 3h2++) [PONTOSÍTÁS] Azon anyagában színes kockák használata, amik jelentősen eltérnek a tömeggyártott anyagában színes kockáktól, csak a WCA delegált engedélyével lehetséges.
 - 3j+) [EMLÉKEZTETŐ] Korábban a gravírozott elemek használata engedélyezve volt, azonban ez a továbbiakban nem megengedett.
+- 3j++) [PONTOSÍTÁS] A Rubik’s Clock-on egyik pöcök sem lehet megkülönböztethető a többitől ugyanazon az oldalon.
 - 3j2+) [PONTOSÍTÁS] A Rubik’s Clock-on mind a 18  belső elem, ugyanolyan elemnek tekintendő.
 - 3l+) [KIEGÉSZÍTÉS] A logók bármilyen ésszerű alakot formázhatnak, amely nem ad szembetűnő előnyt (pl. nem tartalmazhat kódolt információt, amely lehetőséget ad csalásra) és ha az elem eredeti színe egyértelműen meghatározható marad. A rendhagyó logók használatára csak a WCA delegált beleegyezésével van lehetőség.
 
@@ -70,8 +72,9 @@ A hatékonyabb megértés segítségéül minden útmutatás a következő címk
 
 - 4b1+) [EMLÉKEZTETŐ] A WCA delegáltnak tilos újra generálnia az algoritmusokat, és tilos egyes algoritmusok kiszűrésére. Például nem megengedett belenézni a verseny keveréseibe és új algoritmusokat generálni az igazságosabb keverések érdekében sem.
 - 4b2+) [PONTOSÍTÁS] Általánosságban a verseny minden hivatalos keverését titkosan kell kezelni a verseny alatt, és csak a verseny befejeztével együtt lehet őket nyilvánosságra hozni (lásd [Szabályzat 1c3a](regulations:regulation:1c3a)). Bizonyos esetekben (pl. világrekord) a szervező csapat kérheti a keverések korábbi kiadását, a forduló befejezését követően.
-- 4b4+) [KIEGÉSZÍTÉS]  A játékok orientációján való változtatás megengedett a keverés helyszínétől a kirakás helyszínéhez történő mozgatás során, de az orientációnak véletlenszerűnek kell maradnia, és ezt direkt senki sem befolyásolhatja. (lásd Szabályzat A2e1)
+- 4b4+) [PONTOSÍTÁS] Minden kirakásra, ami a kijelölt időintervallumon belül elkezdődik a normál versenyzői procedúra vonatkozik. (pl. nem kell leállítani a kirakásokat, amikor a kijelölt időintervallum letelik)(lásd [Szabályzat A2e1](regulations:regulation:A2e1)
 - 4d+) [PONTOSÍTÁS] Egyes játékoknál ugyanazt a színsémát használják, azzal a változtatással, hogy a fehér színt néhány esetben feketével helyettesítik. Ilyen esetben a fekete nem a fehér színt helyettesíti, hanem ez válik a legsötétebb színné a játékon.
+- 4d++) [KIEGÉSZÍTÉS] Nem tiltott, hogy a játék orientációja megváltozzon miközben a keverési helytől eljut a kirakás helyszínére, ameddig senki nem befolyásolja az orientáció véletlenségét (lásd [Szabályzat A2e1](regulations:regulation:A2e1).
 - 4f+) [AJÁNLÁS] A WCA delegált előre elkészítheti a keveréseket az egész versenyre, beleértve az extra kirakásokhoz használtakat is.
 - 4f++) [EMLÉKEZTETŐ] Ha a versenyző a verseny ideje alatt további keveréseket generál, azokat is el kell menteni (lásd [Szabályzat 1c3a](regulations:regulation:1c3a)).
 
@@ -81,7 +84,7 @@ A hatékonyabb megértés segítségéül minden útmutatás a következő címk
 - 5b5+) [PÉLDA] Példa arra az esetre, amikor fizikailag külön állnak a játékok elemei, és kirakottnak tekintendők: Rubik kocka egy középsapkája, nagykockák egy középső eleme, nagykockák belső elemei.
 - 5b5++) [PÉLDA] Példa arra az esetre, amikor fizikailag külön állnak a játékok elemei, és nem tekintendők kirakottnak (DNF): Rubik kocka több középsapkája, nagykockák több középső eleme, Rubik kocka sarokeleme, 4x4x4-es kocka sarokeleme/éle, illetve két elem bármilyen kombinációja, amikor mindkét elem rendelkezik legalább egy színezett résszel.
 - 5b5+++) [PÉLDA] Példa, arra az esetre, amikor az elemek nem érintkeznek teljes mértékben egymással és kirakottnak tekintendők: 5x5x5-ös kocka középső eleme helyben elfordulva.
-- 5b5a++++) [PÉLDA] Példa, arra az esetre, amikor az elemek nem érintkeznek teljes mértékben egymással és nem tekintendők kirakottnak (DNF): Rubik kocka él-eleme némileg elpoppolva.
+- 5b5++++) [PÉLDA] Példa, arra az esetre, amikor az elemek nem érintkeznek teljes mértékben egymással és nem tekintendők kirakottnak (DNF): Rubik kocka él-eleme némileg elpoppolva.
 - 5c+) [EMLÉKEZTETŐ] Ha a versenyzőnek meghibásodik a játéka, az nem jelent számára új kirakáshoz való jogot.
 
 
@@ -97,12 +100,12 @@ A hatékonyabb megértés segítségéül minden útmutatás a következő címk
 ## <article-7><environment><environment> 7. Cikk: Környezet
 
 - 7d+) [KIEGÉSZÍTÉS] A verseny helyszínén a hőmérsékletet 21-25°C között kell tartani.
+- 7f1a+) [PONTOSÍTÁS] Egy teljes méretű szőnyeg dimenziói minimum 30 cm (balról jobbra) x 25 cm (elölről hátra)
 - 7h2+) [KIEGÉSZÍTÉS] A várakozó versenyzők számára kijelölt helyen tartózkodó versenyzők nem láthatják az éppen kirakást végrehajtó versenyzők játékait.
 
 
 ## <article-8><competitions><competitions> 8. Cikk: Versenyek
 
-- 8a4+) [AJÁNLÁS] A első fordulókban részt vehető versenyzők számának változtatásait legalább 1 hónappal a verseny időpontja előtt végre kell hajtani. (lásd Szabályzat 9r3)
 - 8a4++) [AJÁNLÁS] A versenyt az időpontját megelőzően legalább 1 hónappal meg kell hirdetni.
 - 8a5+) [AJÁNLÁS] A versenyen legalább 12 versenyzőnek indulnia kell.
 - 8a7+) [KIEGÉSZÍTÉS] A szervezőknek erősen ajánlott megfontolniuk olyan módosításokat a Stackmat-eken, amelyekkel a gyakori incidensek elkerülhetőek, mint például, hogy nehezebben lehessen véletlenül megnyomni a gombjait kirakás közben (pl.: körgyűrű elhelyezésével a gombok körül) vagy biztosabban rögzíteni az elemeket (pl.: az elemtartó kipárnázásával).
@@ -114,22 +117,23 @@ A hatékonyabb megértés segítségéül minden útmutatás a következő címk
 - 9b++) [KIEGÉSZÍTÉS] A [Szabályzat 9b](regulations:regulation:9b) pontjában szabályozott versenyszámokon kívül más versenyszámok is tarthatók a versenyen, de nem számítanak hivatalosnak, és az elért eredmények nem is lesznek feltüntetve a hivatalos eredmények között.
 - 9b3b+) [PONTOSÍTÁS]  A „3 átlaga” eredmény nem befolyásolja a versenyzők helyezését a „Legjobb a 3-ból” formátumú versenyszámokból. Ezeket az eredményeket a WCA a formátumtól függetlenül, külön kezeli.
 - 9f1+) [PÉLDA] Ha a kijelző 12,678-at mutat, akkor az eredetileg mért időeredmény 12,67. (Minden, a századmásodperc utáni eredményt el kell hagyni.) A bírónak azonban a teljes időeredményt le kell írnia (ezt a pontosságot a büntetések feljegyzése során is meg kell tartani) és mindaddig, amíg az adatrögzítő a hivatalos eredményt rögzíti a pontos időeredményt kell használni.
-- 9f4+) [MAGYARÁZAT] A kirakás eredménye csak akkor számít DNF-nek, ha a versenyző megkezdte a kirakását jelezve a készenlétét (lásd Szabályzat A3b2), de a kirakás befejezésekor a játék nem minősül kirakottnak.
-- 9f5+) [PONTOSÍTÁS] A kirakás eredménye DNS ha a versenyző jogosult a kirakásra, de nem vesz részt benne. (lásd Szabályzat A3b2) Ha a versenyző nem kvalifikálja magát egy fordulóba (pl. kombinált fordulók), nem lehet több eredménye az adott fordulóban.
+- 9f4+) [MAGYARÁZAT] A kirakás eredménye csak akkor számít DNF-nek, ha a versenyző megkezdte a kirakását jelezve a készenlétét (lásd [Szabályzat A3b2](regulations:regulation:A3b2), de a kirakás befejezésekor a játék nem minősül kirakottnak.
+- 9f5+) [PONTOSÍTÁS] A kirakás eredménye DNS ha a versenyző jogosult a kirakásra, de nem vesz részt benne. (lásd [Szabályzat A3b2](regulations:regulation:A3b2) Ha a versenyző nem kvalifikálja magát egy fordulóba (pl. kombinált fordulók), nem lehet több eredménye az adott fordulóban.
 - 9q+) [AJÁNLÁS] Minden versenyszámban és fordulóban legalább 2 embernek el kell indulnia.
 
 
 ## <article-10><solved-state><solvedstate> 10. Cikk: Kirakott állapot
 
 - 10f+) [MAGYARÁZAT] Az eltérések határértékét úgy határozták meg, hogy a játék egy (büntetést nem érdemlő) állapota és az egy mozdulattal eltérő állapot között félúton helyezkedjen el.
+- 10h1+) [KIEGÉSZÍTÉS] A Clock kirakott állapotát nem befolyásolja sem ha laza sem ha leesett a pöckök kupakja.
 
 
 ## <article-11><incidents><incidents> 11. Cikk: Incidensek
 
 - 11e+) [PONTOSÍTÁS] Mivel az extra kirakás kérése nem garantálja a versenyzőnek, hogy meg is kapja azt, így dönthet úgy, hogy bekapcsolva hagyja a timer-t és az idő múlása közben vitatja meg a bíróval/WCA delegálttal, hogy elutasítás esetén folytathassa a kirakást.
 - 11e1+) [EMLÉKEZTETŐ] A extra kirakásnál a játékot egy a hivatalos keverőprogram által generált, módosítás nélküli algoritmussal kell bekeverni ([Szabályzat 4f](regulations:regulation:4f), [Útmutató 4f+](guidelines:guideline:4f+)).
-- 11e2+) [KIEGÉSZÍTÉS] Ha egy extra kirakás eredménye egy újabb extra kirakás lesz, akkor a versenyzőnek addig kell folytatnia az extra kirakásokat, amíg az adott versenyszámnak és fordulónak megfelelő számú érvényes kirakása lesz. Az érvényes extra kirakások az eredeti kirakás sorszámának megfelelően (növekvő sorrendben) számítanak.
-- 11e2++) [PÉLDA] Ha egy versenyző 5 normál kirakásra jogosult és a 2. és a 4. kirakás eredménye extra kirakás lesz, a versenyző az 5 normál kirakását követően addig folytatja az extra kirakásokat, amíg 2 érvényes eredménye nem lesz. Az első érvényes extra kirakás a 2. idejét, a második érvényes kirakás pedig a 4. idejét helyettesíti.
+- 11e2+) [KIEGÉSZÍTÉS] Ha egy extra kirakás eredménye egy újabb extra kirakás lesz, akkor a versenyzőnek addig kell folytatnia az extra kirakásokat, amíg az eredmény egy érvényes kirakás lesz, amivel az eredeti sorszámú kirakást helyettesíteni lehet. 
+- 11e2++) [PÉLDA] Ha egy versenyző 5 normál kirakásra jogosult és a 2. kirakás extra kirakáshoz vezet, a versenyző addig folytatja az extra kirakásokat, amíg egy érvényes eredménye nem lesz, amivel az eredeti kirakást helyettesíteni lehet. Ha a későbbiekben a versenyző szintén extra kirakásra lesz jogosult, akkor a 2. kirakásnál kapott extra kirakással megegyezően kell eljárni.
 
 
 ## <article-12><notations><notations> 12. Cikk: Jelölések
@@ -140,12 +144,16 @@ A hatékonyabb megértés segítségéül minden útmutatás a következő címk
 ## <article-A><speedsolving><speedsolving> A Cikk: Speed Solving
 
 - A1a2+) [KIEGÉSZÍTÉS] Abban az esetben, ha kumulált időlimitet alkalmaznak, és a versenyző DNF eredményt ér el, a bírónak rögzítenie kell zárójelben a kirakáshoz tartozó időeredményt is a pontkártyán.
+- A1a2++) [PONTOSÍTÁS] Kumulatív időlimiteket lehet alkalmazni önálló versenyszámokra, vagy több versenyszámra együttesen.
+- A1a2+++) [PONTOSÍTÁS] Kumulatív időlimit esetén, az időlimit elérését követően minden további kirakás eredménye DNS lesz.
 - A1a3+) [EMLÉKEZTETŐ] A szervező csapatnak és a WCA delegáltnak ügyelniük kell arra, hogy az időlimitek befolyásolják a versenyzők stratégiáját (pl. megpróbálni gyorsan kirakni az első 2 kirakást, hogy megfeleljen a kombinált forduló időlimitének), így a forduló megkezdését követően az időlimitek megváltoztatása igazságtalanul hathat egyes versenyzőkre.
 - A1a4+) [EMLÉKEZTETŐ] Ha egy versenyzőnek véletlenül megengedték az időlimit átlépését, a versenyző időeredményét visszamenőleg el kell törölni, és a bírót, a versenyzőt és a WCA delegáltat is tájékoztatni kell róla (lásd [Szabályzat 1g2](regulations:regulation:1g2)). A bíróknak mindig tisztában kell lenniük az adott forduló az időlimitével (ami kumulált időlimit esetén függ az előző kirakásoktól).
 - A1c+) [PONTOSÍTÁS] A WCA Delegált csak akkor járhatnak el saját belátásuk szerint, amennyiben a versenyző kárt okoz a versenynek (pl.: pazarolja az időt/erőforrásokat). A versenyzők nem zárhatóak ki „rossz” eredmény miatt, amennyiben legjobb tudásuk szerint versenyeznek.
 - A2c1+) [PONTOSÍTÁS] Korábban a pontkártyákat használhatták a játékok eltakarására, de így néhány oldala kilátszott. Ez már nem megengedett.
-- A3c3+) [PONTOSÍTÁS] A versenyző is lenullázhatja a timert a megtekintési idő előtt/közben, ha a bíró elmulasztotta volna. Bár a bíró felelős a timer lenullázásáért (lásd Szabályzat A3b), de a versenyzőnek is meg kell győződnie róla. Amennyiben a versenyző véletlenül úgy kezdené meg a kirakást, hogy a timer nincs lenullázva (pl.: a megtekintési után a kezét a timer-re helyezi megfelelő ideig és meg van róla győződve, hogy a timer megfelelően el fog indulni és elkezdi a kirakást) egy extra kirakást kap a versenyző, a WCA delegált engedélyével.
+- A3c3+) [PONTOSÍTÁS] A versenyző is lenullázhatja a timert a megtekintési idő előtt/közben, ha a bíró elmulasztotta volna. Bár a bíró felelős a timer lenullázásáért (lásd [Szabályzat A3b](regulations:regulation:A3b), de a versenyzőnek is meg kell győződnie róla. Amennyiben a versenyző véletlenül úgy kezdené meg a kirakást, hogy a timer nincs lenullázva (pl.: a megtekintési után a kezét a timer-re helyezi megfelelő ideig és meg van róla győződve, hogy a timer megfelelően el fog indulni és elkezdi a kirakást) egy extra kirakást kap a versenyző, a WCA delegált engedélyével.
 - A3c4+) [PONTOSÍTÁS] Ha a játékoknál egy vékony tárgyat használnak a kirakás rögzítéséhez, akkor a bíró nem mozdíthatja el ezt a tárgyat a versenyző helyett.
+- A3c4++) [PONTOSÍTÁS] A versenyző a tárgyat a kirakás közben is eltávolíthatja, amennyiben a megtekintési idő alatt ezt nem tette meg. (pl. elfelejtette)
+- A5b+) [PONTOSÍTÁS] Megtekintés vagy kirakás közben a versenyző bármely testrészével hozzáérhet a játékhoz. Kivétel: Egy kézzel való kirakás és Lábbal való kirakás (lásd [Szabályzat C1b](regulations:regulation:C1b) és [Szabályzat D1b](regulations:regulation:D1b)).
 - A6b+) [MAGYARÁZAT] Az önkényesen választott 0,06 másodpercet a Stackmat meghibásodásainak alapján határozták meg.
 - A6f+) [PONTOSÍTÁS] Ha a versenyző lenullázza a timer-t, mielőtt a bíró teljes mértékben rögzítette volna, a bíró nem írhatja le az eredményt emlékezetből vagy valamilyen videó vagy fényképes felvételre támaszkodva, hanem a kirakás eredménye DNF lesz.
 - A6g+) [KIEGÉSZÍTÉS] Amíg a bíró megállapítja, hogy kell-e büntetést adnia a kirakásért, nem érhet hozzá a játékhoz.
@@ -179,6 +187,8 @@ A hatékonyabb megértés segítségéül minden útmutatás a következő címk
 - E2b+) [PONTOSÍTÁS] A versenyző korábban is befejezheti a versenyszámot a megoldás leadásával.
 - E2c+) [PONTOSÍTÁS] Bár a bíró minden esetben biztosít egy kifejezetten FMC versenyszámra kialakított papírt a versenyzőnek, a versenyző a megoldását másik papíron is beadhatja, amíg a megoldás egyértelműen ki van emelve és összefüggően van rögzítve a papíron. (Megjegyzés: Ezt a papírt is csak a bíró biztosíthatja (lásd: [Szabályzat E3a](regulations:regulation:E3a)).)
 - E2c++) [PONTOSÍTÁS] A versenyző csak olyan jelöléseket használhat a megoldásában, amelyek a [Szabályzat 12a)](regulations:regulation:12a) pontjában fel vannak tüntetve. Példa azokra a jelölésekre, amelyek nem megengedettek hivatalos versenyen: [F], [R, U], [R: U], R'2, L'w, f, M, U2'.
+- E2e+) [PONTOSÍTÁS] A versenyzők megoldása nem származhat sem a keverésből vagy annak részeiből, sem pedig az inverz keverésből vagy annak részeiből. 
+- E2e++) [PÉLDA] Például érvénytelen kirakáshoz (DNF) vezet, ha a megoldásnak legalább az első 4 eleme megegyezik az inverz keverés első 4 elemével.
 - E3b+) [EMLÉKEZTETŐ] A „Rubik kocka” elnevezés kizárólag az eredeti, 3x3x3-as kockára vonatkozik.
 - E3d+) [PONTOSÍTÁS] Minden stopper és óra, amelyet a versenyző a kirakás közben használ, nem lehet képes a versenyzőnek segítséget adni a megoldás megtalálásában.
 - E3d++) [PONTOSÍTÁS] A versenyző nem tekintheti a kirakáskor használt stopperén vagy óráján megjelenő időt a hivatalos időnek és nem végezhet módosításokat a megoldásán, miután a bíró jelezte az 1 óra leteltét.
