@@ -9,8 +9,8 @@ before_install:
 install:
   - pip install wrc
 script:
-  - git remote add cubing https://github.com/cubing/wca-regulations-translations
-  - git fetch cubing
-  - wget https://github.com/cubing/wca-regulations/archive/official.zip
+  - git remote add thewca https://github.com/thewca/wca-regulations-translations
+  - git fetch thewca
+  - wget https://github.com/thewca/wca-regulations/archive/official.zip
   - unzip official.zip
   - ./travis.sh

@@ -19,7 +19,7 @@ Sumber asli dari Regulasi WCA: [www.worldcubeassociation.org/regulations](http:/
 Regulasi WCA dalam [Format PDF](link:pdf)
 
 ### Sumber
-Perkembangan Regulasi WCA dan Pedoman WCA terbuka secara umum [di GitHub](https://github.com/cubing/wca-documents).
+Perkembangan Regulasi WCA dan Pedoman WCA terbuka secara umum [di GitHub](https://github.com/thewca/wca-documents).
 
 ### Kontak
 Untuk pertanyaan dan saran, hubungi [WCA Regulations Committee (WRC)](http://www.worldcubeassociation.org/contact-information).

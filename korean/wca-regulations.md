@@ -21,7 +21,7 @@ WCA 규정의 출처: [www.worldcubeassociation.org/regulations](http://www.worl
 WCA 규정의 [PDF 형식](link:pdf)
 
 ### 출처
-WCA 규정과 지침의 변천은 [GitHub](https://github.com/cubing/wca-documents)에 공개되어 있다.
+WCA 규정과 지침의 변천은 [GitHub](https://github.com/thewca/wca-documents)에 공개되어 있다.
 
 ### 연락
 질문사항과 피드백이 있다면, [WCA 규정 위원회 (WRC)](http://www.worldcubeassociation.org/contact-information)에 연락해주십시오.

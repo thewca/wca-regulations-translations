@@ -27,7 +27,7 @@
 Палажэнні WCA ў [фармаце PDF](link:pdf)
 
 ### Крыніца
-Распрацоўка палажэнняў WCA і Дапаўненняў да Палажэнняў WCA з'яўляецца адкрытай для грамадскасці [на GitHub](https://github.com/cubing/wca-documents).
+Распрацоўка палажэнняў WCA і Дапаўненняў да Палажэнняў WCA з'яўляецца адкрытай для грамадскасці [на GitHub](https://github.com/thewca/wca-documents).
 
 ### Кантактная інфармацыя
 Для пытанняў і зваротнай сувязі, калі ласка, звяжыцеся з [Камітэтам Палажэнняў WCA  (WRC)](http://www.worldcubeassociation.org/contact-information).

@@ -23,7 +23,7 @@ Fonte original do Regulamento da WCA: [www.worldcubeassociation.org/regulations]
 Regulamento da WCA em [Formato PDF](link:pdf)
 
 ### Código Fonte
-O desenvolvimento do Regulamento e Orientações da WCA é público no [GitHub](https://github.com/cubing/wca-documents).
+O desenvolvimento do Regulamento e Orientações da WCA é público no [GitHub](https://github.com/thewca/wca-documents).
 
 ### Contato
 Para questões e sugestões, por favor contate o [Comitê Regulador da WCA (WRC)](http://www.worldcubeassociation.org/contact-information).

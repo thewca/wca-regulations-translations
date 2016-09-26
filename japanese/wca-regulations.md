@@ -19,7 +19,7 @@ WCA 大会規則原文：[www.worldcubeassociation.org/regulations](https://www.
 WCA 大会規則 PDF 版：[PDF format](link:pdf)
 
 ### 出典
-最新の WCA 大会規則とガイドラインは [GitHub](https://github.com/cubing/wca-documents) 上にて公開されています。
+最新の WCA 大会規則とガイドラインは [GitHub](https://github.com/thewca/wca-documents) 上にて公開されています。
 
 ### 注意
 日本語版の大会規則とガイドラインは WCA のウェブサイトで公開されていますが、公式のものではありません。

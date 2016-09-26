@@ -24,8 +24,8 @@ Reglamento original en inglés: [www.worldcubeassociation.org/regulations](http:
 Reglamento WCA en [Formato PDF](link:pdf) 
 
 ### Fuente
-El desarrollo de las Reglas de la WCA y sus Directrices son públicas [en GitHub](https://github.com/cubing/wca-documents).
-Esta versión en Español Americano, también se basó en la versión en Español Europeo de [GitHub](https://github.com/cubing/wca-documents-translations/tree/spanish) 
+El desarrollo de las Reglas de la WCA y sus Directrices son públicas [en GitHub](https://github.com/thewca/wca-documents).
+Esta versión en Español Americano, también se basó en la versión en Español Europeo de [GitHub](https://github.com/thewca/wca-documents-translations/tree/spanish) 
 
 ### Contacto
 Para preguntas o sugerencias, favor de contactar con [WCA Regulations Committee (WRC)](http://www.worldcubeassociation.org/contact-information).

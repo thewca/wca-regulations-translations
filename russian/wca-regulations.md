@@ -26,7 +26,7 @@
 Положения WCA в [формате PDF](link:pdf)
 
 ### Источник
-Разработка Положений WCA и Дополнений к Положениям WCA открыта для общественности [на GitHub](https://github.com/cubing/wca-regulations).
+Разработка Положений WCA и Дополнений к Положениям WCA открыта для общественности [на GitHub](https://github.com/thewca/wca-regulations).
 
 ### Контактная информация
 Для вопросов и обратной связи, пожалуйста, свяжитесь с [WCA Regulations Committee (WRC)](https://www.worldcubeassociation.org/contact/wrc).
