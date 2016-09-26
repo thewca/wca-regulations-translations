@@ -29,7 +29,7 @@
 Разработка Положений WCA и Дополнений к Положениям WCA открыта для общественности [на GitHub](https://github.com/thewca/wca-regulations).
 
 ### Контактная информация
-Для вопросов и обратной связи, пожалуйста, свяжитесь с [WCA Regulations Committee (WRC)](https://www.worldcubeassociation.org/contact/wrc).
+Для вопросов и обратной связи, пожалуйста, свяжитесь с [WCA Regulations Committee (WRC)](mailto:wrc@worldcubeassociation.org).
 
 
 ## <contents> [Содержание](regulations:contents)

@@ -25,7 +25,7 @@ WCA-säännöt [PDF-tiedostona](link:pdf)
 WCA-sääntöjen ja -ohjesääntöjen kehitys on julkista [GitHubissa](https://github.com/thewca/wca-documents).
 
 ### Yhteystiedot
-Ota yhteyttä [WCA Regulations Comitee:n (WRC)](https://www.worldcubeassociation.org/contact/wrc) kysymyksiä ja palautetta varten.
+Ota yhteyttä [WCA Regulations Comitee:n (WRC)](mailto:wrc@worldcubeassociation.org) kysymyksiä ja palautetta varten.
 
 
 ## <contents> [Sisältö](regulations:contents)

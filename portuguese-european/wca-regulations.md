@@ -25,7 +25,7 @@ Regulamento da WCA em [Formato PDF](link:pdf)
 O desenvolvimento do Regulamento e Orientações da WCA é público no [GitHub](https://github.com/thewca/wca-documents).
 
 ### Contacto
-Para questões e sugestões, por favor contate o [Comité Regulador da WCA (WRC)](https://www.worldcubeassociation.org/contact/wrc).
+Para questões e sugestões, por favor contate o [Comité Regulador da WCA (WRC)](mailto:wrc@worldcubeassociation.org).
 
 ## <contents> [Conteúdo](regulations:contents)
 

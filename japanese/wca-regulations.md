@@ -27,7 +27,7 @@ WCA は翻訳内容を保証しないため参考程度にとどめてくださ�
 万一、日本語版と原文（英語版）に相違がある場合、原文の規則が適用されます。
 
 ### お問い合わせ先
-質問・ご指摘等は [WCA 大会規則委員会](https://www.worldcubeassociation.org/contact/wrc)へお問い合わせください。    
+質問・ご指摘等は [WCA 大会規則委員会](mailto:wrc@worldcubeassociation.org)へお問い合わせください。
 日本語での質問・ご指摘等は JRCA 掲示板またはお問い合わせをご利用ください。
 
 
