@@ -23,8 +23,8 @@ Documents originaux du Règlement WCA : [www.worldcubeassociation.org/regulation
 Règlement WCA au [format PDF](link:pdf).
 
 ### Sources
-Le développement du Règlement et des Recommandations est public [sur GitHub](https://github.com/cubing/wca-regulations).
-Le développement des traductions est public [sur GitHub](https://github.com/cubing/wca-regulations-translations).
+Le développement du Règlement et des Recommandations est public [sur GitHub](https://github.com/thewca/wca-regulations).
+Le développement des traductions est public [sur GitHub](https://github.com/thewca/wca-regulations-translations).
 La traduction française est maintenue dans [ce dépôt](https://github.com/speedcubingfrance/wca-regulations-translations).
 
 ### Contact

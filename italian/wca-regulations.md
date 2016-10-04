@@ -15,7 +15,7 @@ Versione originale in inglese del Regolamento WCA: [www.worldcubeassociation.org
 Regolamento WCA in italiano in [formato PDF](link:pdf)
 
 ### Fonti
-Lo sviluppo e le varie modifiche apportate nel tempo al Regolamento WCA e alle Linee Guida sono pubblici [su GitHub](https://github.com/cubing/wca-documents).
+Lo sviluppo e le varie modifiche apportate nel tempo al Regolamento WCA e alle Linee Guida sono pubblici [su GitHub](https://github.com/thewca/wca-documents).
 
 ### Contatti
 Per domande e opinioni, si prega di contattare il [Comitato per il Regolamento della WCA(WCA Regulations Committee, WRC)](http://www.worldcubeassociation.org/contact-information).

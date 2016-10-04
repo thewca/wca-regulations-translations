@@ -25,10 +25,10 @@ WCA規則原文: [www.worldcubeassociation.org/regulations](http://www.worldcube
 WCA競賽規則: [PDF版](link:pdf)
 
 ### 原始碼
-WCA競賽規則與指導方針公開在[GitHub](https://github.com/cubing/wca-documents)上。
+WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-documents)上。
 
 ### 聯絡
-如有問題或是建議，請聯絡 [WCA競賽規則委員會 (WRC)](https://www.worldcubeassociation.org/contact/wrc)。
+如有問題或是建議，請聯絡 [WCA競賽規則委員會 (WRC)](mailto:wrc@worldcubeassociation.org)。
 
 
 ## <contents> [內容](regulations:contents)

@@ -24,7 +24,7 @@ WCA规则同时由[WCA指南](guidelines:top)补充。本规则是一个独立�
 WCA规则的 [PDF版](link:pdf)
 
 ### 源代码
-WCA规则及指南的修订公开[于GitHub](https://github.com/cubing/wca-documents)。
+WCA规则及指南的修订公开[于GitHub](https://github.com/thewca/wca-documents)。
 
 ### 联系
 如果有任何疑问或反馈，请联系[WCA规则委员会 (WRC)](https://www.worldcubeassociation.org/wrc)。

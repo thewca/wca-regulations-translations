@@ -29,7 +29,7 @@ A WCA Szabályzat [PDF formátumban](link:pdf).
 
 ### Források
 
-A WCA Szabályzat és Útmutató fejlesztése érthető a [GitHub-on](https://github.com/cubing/wca-documents).
+A WCA Szabályzat és Útmutató fejlesztése érthető a [GitHub-on](https://github.com/thewca/wca-documents).
 
 ### Kapcsolat
 
