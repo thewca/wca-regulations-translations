@@ -20,8 +20,8 @@ WCA競賽規則另有[WCA指導方針](guidelines:top)來做補充。競賽規�
 關於"必須"、"禁止"、"應該"、"不應該"和"可以"的用法可參考[RFC 2119](https://www.ietf.org/rfc/rfc2119.txt).
 
 ### 連結資訊
-世界方塊協會的網頁: [www.worldcubeassociation.org](http://www.worldcubeassociation.org/)    
-WCA規則原文: [www.worldcubeassociation.org/regulations](http://www.worldcubeassociation.org/regulations/)    
+世界方塊協會的網頁: [www.worldcubeassociation.org](http://www.worldcubeassociation.org/)
+WCA規則原文: [www.worldcubeassociation.org/regulations](http://www.worldcubeassociation.org/regulations/)
 WCA競賽規則: [PDF版](link:pdf)
 
 ### 原始碼

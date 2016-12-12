@@ -12,12 +12,12 @@
 
 ### WCA 규정과 지침
 
-WCA 규정은 국제 큐브 협회로부터 인정된 모든 공인 대회에 적용되는 모든 규정들을 포함한다.    
+WCA 규정은 국제 큐브 협회로부터 인정된 모든 공인 대회에 적용되는 모든 규정들을 포함한다.
 WCA 규정은 또한 [WCA 지침](guidelines:top)으로 보완된다. 규정들은 하나의 완성된 문서로 간주되어야 하나, 지침은 추가적인 설명을 포함한다.
 
 ### 인터넷 상에서의 정보
-국제 큐브 협회의 웹사이트: [www.worldcubeassociation.org](http://www.worldcubeassociation.org/)    
-WCA 규정의 출처: [www.worldcubeassociation.org/regulations](http://www.worldcubeassociation.org/regulations/)    
+국제 큐브 협회의 웹사이트: [www.worldcubeassociation.org](http://www.worldcubeassociation.org/)
+WCA 규정의 출처: [www.worldcubeassociation.org/regulations](http://www.worldcubeassociation.org/regulations/)
 WCA 규정의 [PDF 형식](link:pdf)
 
 ### 출처

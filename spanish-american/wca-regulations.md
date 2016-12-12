@@ -12,15 +12,15 @@ El Reglamento de la WCA contiene todas las reglas a aplicar en las competencias 
 El Reglamento de la WCA se complementa con las [Directrices de la WCA](guidelines:top). El Reglamento debe considerarse un documento completo, pero  las Directrices contienen aclaraciones y explicaciones adicionales.
 
 ### Sintaxis
-Para hacer el Reglamento y las Directrices más fáciles de leer, se usa el masculino (él) en ocasiones donde tanto el término masculino como el femenino (él / ella) serían aplicables. 
+Para hacer el Reglamento y las Directrices más fáciles de leer, se usa el masculino (él) en ocasiones donde tanto el término masculino como el femenino (él / ella) serían aplicables.
 En el documento original usa el  [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt) para el significado de las palabras: “must“, “must not“, “should“, “should not“ y “may”.  Así que para que la traducción sea lo más fiel posible, se utilizarán las siguientes equivalencias: Se traduce siempre “must” por el verbo deber en presente (debe, deben), “should” como el verbo deber en condicional (debería, deberían) y el verbo “may” como el verbo poder. Debe y deben, indicarán obligación (o prohibición, si la oración es negativa). Debería y deberían, indicarán qué es lo recomendado (o no recomendado). El verbo poder, indicará que es algo opcional. 
 
 ### Traducción
 Hay que tener presente que esta traducción no es una versión oficial. Aún habiéndose descargado de la página web de la WCA: puede ser de ayuda, pero no constituye una garantía. En el caso de discrepancias entre esta versión y la inglesa (actualmente la oficial), la versión inglesa prevalecerá.
 
 ### Información en Internet
-La página web de la World Cube Association: [www.worldcubeassociation.org](http://www.worldcubeassociation.org/)     
-Reglamento original en inglés: [www.worldcubeassociation.org/regulations](http://www.worldcubeassociation.org/regulations/)    
+La página web de la World Cube Association: [www.worldcubeassociation.org](http://www.worldcubeassociation.org/)
+Reglamento original en inglés: [www.worldcubeassociation.org/regulations](http://www.worldcubeassociation.org/regulations/)
 Reglamento WCA en [Formato PDF](link:pdf) 
 
 ### Fuente

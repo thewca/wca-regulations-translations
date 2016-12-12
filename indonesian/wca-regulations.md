@@ -2,7 +2,7 @@
 
 <version>Versi: 1 Januari 2013
 
-Diterjemahkan oleh: Ardianto Satriawan, Cendy Cahyo Rahmat, Jonathan Irvin Gunawan, Muhammad Jihan Khalilurrahman, Nathan Azaria, Stephen Adhisaputra, Vincent Hartanto Utomo, dan Yohanes Theda.  
+Diterjemahkan oleh: Ardianto Satriawan, Cendy Cahyo Rahmat, Jonathan Irvin Gunawan, Muhammad Jihan Khalilurrahman, Nathan Azaria, Stephen Adhisaputra, Vincent Hartanto Utomo, dan Yohanes Theda.
 Perhatikan bahwa terjemahan ini bukanlah versi resmi (walaupun tersedia di website WCA): terjemahan ini hanya bersifat membantu saja. Jika ada perbedaan antara terjemahan dan versi resmi (yang sedang berlaku) dalam bahasa Inggris, regulasi dalam berbahasa Inggrislah yang harus digunakan
 
 ## Catatan
@@ -14,8 +14,8 @@ Regulasi WCA juga dilengkapi oleh [Pedoman WCA](guidelines). Regulasi WCA sebaik
 
 
 ### Informasi di Internet
-Website dari World Cube Association: [www.worldcubeassociation.org](http://www.worldcubeassociation.org/)  
-Sumber asli dari Regulasi WCA: [www.worldcubeassociation.org/regulations](http://www.worldcubeassociation.org/regulations/)  
+Website dari World Cube Association: [www.worldcubeassociation.org](http://www.worldcubeassociation.org/)
+Sumber asli dari Regulasi WCA: [www.worldcubeassociation.org/regulations](http://www.worldcubeassociation.org/regulations/)
 Regulasi WCA dalam [Format PDF](link:pdf)
 
 ### Sumber

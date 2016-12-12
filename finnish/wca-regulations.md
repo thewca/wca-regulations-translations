@@ -7,7 +7,7 @@
 
 ### WCA-säännöt ja -ohjesäännöt
 
-WCA-säännöt on kokoelma säännöistä joita tulee noudattaa kaikissa World Cube Associationin hyväksymissä virallisissa kilpailuissa.    
+WCA-säännöt on kokoelma säännöistä joita tulee noudattaa kaikissa World Cube Associationin hyväksymissä virallisissa kilpailuissa.
 [WCA-ohjesäännöt](guidelines:top) tukevat WCA-sääntöjä. Sääntöjä tulisi pitää täydellisenä asiakirjana, mutta ohjesäännöt sisältävät tarkennuksia ja selityksiä sääntöihin.
 
 ### Kieliasu
@@ -17,8 +17,8 @@ Englanninkielinen asiakirja [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt) sel
 Tämä käännös ei ole virallinen versio vaikka se löytyy WCA:n verkkosivulta: käännöksestä voi olla hyötyä, mutta sen täsmällisyys ei ole taattu. Jos käännöksen ja nykyisen englanninkielisen version välillä on eroavaisuuksia, täytyy englanninkielistä versiota käyttää.
 
 ### Tietoa internetissä
-World Cube Associationin verkkosivu: [www.worldcubeassociation.org](https://www.worldcubeassociation.org/)    
-WCA-sääntöjen alkuperäinen lähde: [www.worldcubeassociation.org/regulations](https://www.worldcubeassociation.org/regulations/)    
+World Cube Associationin verkkosivu: [www.worldcubeassociation.org](https://www.worldcubeassociation.org/)
+WCA-sääntöjen alkuperäinen lähde: [www.worldcubeassociation.org/regulations](https://www.worldcubeassociation.org/regulations/)
 WCA-säännöt [PDF-tiedostona](link:pdf)
 
 ### Lähde
