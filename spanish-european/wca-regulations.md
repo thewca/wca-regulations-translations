@@ -19,8 +19,8 @@ En el documento original en inglés se usa el [RFC 2119](https://www.ietf.org/rf
 Por favor, tenga presente que esta traducción no supone una versión oficial, incluso si se ha descargado de la página web de la WCA: puede ser de ayuda, pero no constituye una garantía. En el caso de discrepancias entre esta versión y inglesa (actualmente la oficial), la versión inglesa prevalecerá.
 
 ### Información en Internet
-Página web de la World Cube Association: [www.worldcubeassociation.org](http://www.worldcubeassociation.org/)  
-Reglamento original en inglés: [www.worldcubeassociation.org/regulations](http://www.worldcubeassociation.org/regulations/)  
+Página web de la World Cube Association: [www.worldcubeassociation.org](http://www.worldcubeassociation.org/)
+Reglamento original en inglés: [www.worldcubeassociation.org/regulations](http://www.worldcubeassociation.org/regulations/)
 Reglamento en [formato PDF](link:pdf)
 
 ### Fuente

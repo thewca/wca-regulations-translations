@@ -6,20 +6,20 @@
 ## Notes
 
 ### Traduction
-La traduction de ce document a été réalisée par [Philippe Virouleau](mailto:philippe.44@gmail.com), et s'appuie sur les précédents travaux de Guillaume Erbibou, Pierre Calendini, et Gilles Roux.    
+La traduction de ce document a été réalisée par [Philippe Virouleau](mailto:philippe.44@gmail.com), et s'appuie sur les précédents travaux de Guillaume Erbibou, Pierre Calendini, et Gilles Roux.
 Des efforts sont faits pour que cette traduction soit constamment à jour, elle n'a rien d'officielle bien que présente sur le site officiel de la WCA. Elle est fournie à titre informatif : seule la version anglaise fait foi en cas de différence.
 
 ### Règlement et Recommandations WCA
-Le Règlement WCA contient l'ensemble des règles qui s'appliquent lors de toutes les compétitions officielles reconnues par la World Cube Association.    
+Le Règlement WCA contient l'ensemble des règles qui s'appliquent lors de toutes les compétitions officielles reconnues par la World Cube Association.
 Le Règlement WCA est également complémenté par les [Recommandations WCA](guidelines:top). Le Règlement devrait être considéré comme un document complet, mais les Recommandations contiennent des informations et explications additionnelles.
 
 ### Formulation
-L'utilisation du genre masculin a été adoptée afin de faciliter la lecture. Elle n'a aucune intention discriminatoire.    
+L'utilisation du genre masculin a été adoptée afin de faciliter la lecture. Elle n'a aucune intention discriminatoire.
 L'utilisation des mots "doit", "ne doit pas", "devrait", "ne devrait pas", et "peut" correspondent respectivement aux mots "must", "must not", "should", "should not", et "may" tels que définis dans le [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt).
 
 ### Informations sur internet
-Site internet de la World Cube Association : [www.worldcubeassociation.org](https://www.worldcubeassociation.org/).    
-Documents originaux du Règlement WCA : [www.worldcubeassociation.org/regulations](https://www.worldcubeassociation.org/regulations/).    
+Site internet de la World Cube Association : [www.worldcubeassociation.org](https://www.worldcubeassociation.org/).
+Documents originaux du Règlement WCA : [www.worldcubeassociation.org/regulations](https://www.worldcubeassociation.org/regulations/).
 Règlement WCA au [format PDF](link:pdf).
 
 ### Sources
@@ -28,7 +28,7 @@ Le développement des traductions est public [sur GitHub](https://github.com/the
 La traduction française est maintenue dans [ce dépôt](https://github.com/speedcubingfrance/wca-regulations-translations).
 
 ### Contact
-Pour les questions et retours, merci de contacter le [WCA Regulations Committee (WRC)](mailto:wrc@worldcubeassociation.org).    
+Pour les questions et retours, merci de contacter le [WCA Regulations Committee (WRC)](mailto:wrc@worldcubeassociation.org).
 Pour les questions et retours sur la traduction, merci de contacter [Philippe Virouleau](mailto:philippe.44@gmail.com).
 
 

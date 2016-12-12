@@ -21,8 +21,8 @@
 Положения WCA следует рассматривать как полноценный документ, однако существуют также [Дополнения к Положениям WCA](guidelines:top), содержащие добавления, уточнения и рекомендации.
 
 ### Информация в Интернете
-Сайт Всемирной Ассоциации Кубика: [www.worldcubeassociation.org](https://www.worldcubeassociation.org/).  
-Первоисточник Положений WCA: [www.worldcubeassociation.org/regulations](https://www.worldcubeassociation.org/regulations/).  
+Сайт Всемирной Ассоциации Кубика: [www.worldcubeassociation.org](https://www.worldcubeassociation.org/).
+Первоисточник Положений WCA: [www.worldcubeassociation.org/regulations](https://www.worldcubeassociation.org/regulations/).
 Положения WCA в [формате PDF](link:pdf)
 
 ### Источник

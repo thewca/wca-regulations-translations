@@ -10,8 +10,8 @@ Il Regolamento WCA contiene l'insieme di regole che si applicano alle competizio
 Il Regolamento WCA è inoltre integrato dalle [Linee Guida](guidelines:top). Il Regolamento è da considerarsi un documento completo, di cui le Linee Guida forniscono ulteriori chiarimenti e delucidazioni.
 
 ### Informazioni su Internet
-Sito della World Cube Association: [www.worldcubeassociation.org](http://www.worldcubeassociation.org/)  
-Versione originale in inglese del Regolamento WCA: [www.worldcubeassociation.org/regulations](http://www.worldcubeassociation.org/regulations/)  
+Sito della World Cube Association: [www.worldcubeassociation.org](http://www.worldcubeassociation.org/)
+Versione originale in inglese del Regolamento WCA: [www.worldcubeassociation.org/regulations](http://www.worldcubeassociation.org/regulations/)
 Regolamento WCA in italiano in [formato PDF](link:pdf)
 
 ### Fonti
