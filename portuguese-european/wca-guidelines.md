@@ -1,6 +1,6 @@
 # <wca-title>Orientações da WCA
 
-<version>Versão: 1 de julho de 2015
+<version>Versão: 18 de abril de 2016
 
 
 ## Observações
@@ -42,8 +42,9 @@ Para ser mais informativo, cada orientação é classificada usando uma das segu
 - 1c4+) [RECOMENDAÇÃO] Correções aos resultados devem estar disponíveis até uma semana após a data da competição.
 - 1c10+) [ESCLARECIMENTO] É suficiente garantir o acesso a uma cópia digital do Regulamento.
 - 1h+) [RECOMENDAÇÃO] Competidores no mesmo grupo devem usar as mesmas sequências de embaralhamento. Grupos diferentes devem usar sequências de embaralhamento diferentes.
-- 1h++) [RECOMENDAÇÃO] Todas as tentativas de rondas finais e todas as rondas de Resolução em Menos Movimentos devem ter os mesmos embaralhamentos para todos competidores (i.e. apenas 1 grupo).
+- 1h++) [RECOMENDAÇÃO] Todas as tentativas de rondas finais e todas as rondas de Resolução em Menos Movimentos devem ter as mesmas sequências de embaralhamento para todos competidores (i.e. apenas 1 grupo).
 - 1h1+) [ESCLARECIMENTO] Embaralhadores/Juízes devem embaralhar/ajuizar outros competidores do mesmo grupo somente se for importante para a logística do campeonato.
+- 1h1++) [ESCLARECIMENTO] Para Resolução em Menos Movimentos, juízes podem ajuizar competidores no seu próprio grupo antes de terminarem a sua tentativa (i.e. enquanto estão a competir).
 
 
 ## <article-2><competitors><competitors> Artigo 2: Competidores
@@ -67,18 +68,20 @@ Para ser mais informativo, cada orientação é classificada usando uma das segu
 - 3h++) [EXEMPLO] Exemplos de melhorias: Novos movimentos possíveis, movimentos normais impossíveis, mais peças ou faces visíveis, cores na parte de trás são visíveis, movimentos são feitos automaticamente ou se o quebra-cabeça tiver mais do que um ou diferentes estados resolvidos.
 - 3h2+) [ESCLARECIMENTO] No passado, quebra-cabeças de plástico colorido não eram permitidos. Esses quebra-cabeças são permitidos agora.
 - 3h2++) [ESCLARECIMENTO] Quebra-cabeças de plástico colorido que diferem significativamente da maioria dos de produção em massa são apenas permitidos segundo critério do Delegado da WCA.
-- 3j+) [LEMBRETE] No passado, peças gravadas/onduladas eram possíveis de utilizar. Isto já não é permitido.
+- 3j+) [LEMBRETE] No passado, peças gravadas/onduladas eram permitidas. Isto já não é permitido.
+- 3j++) [ESCLARECIMENTO] No Clock, os pinos não podem ser identificáveis de qualquer outro pino do mesmo lado.
 - 3j2+) [ESCLARECIMENTO] No Clock, todas as faces dos dezoito relógios são consideradas peças similares.
 - 3l+) [ADIÇÃO] Logotipos podem ter qualquer desenho razoável que não dê vantagens (ex. informação codificada que possa ser usada para batota) e devem deixar a parte colorida da peça claramente visível. Logotipos não convencionais só são permitidos segundo critério do Delegado da WCA.
 
 ## <article-4><scrambling><scrambling> Artigo 4: Embaralhamento
 
-- 4b1+) [LEMBRETE] O Delegado da WCA não pode sob nenhuma circunstância gerar novamente qualquer embaralhamento para substituí-lo com o objetivo de filtragem. Por exemplo, não é permitido olhar os embaralhamentos de uma competição e gerar novamente todos para conseguir embaralhamentos "mais justos".
-- 4b2+) [ESCLARECIMENTO] Em geral, todas as sequências de embaralhamento devem ser mantidas em segredo durante a competição e publicadas juntas no fim da mesma (ver [Regra 1c3a](regulations:regulation:1c3a)). Em alguns casos (ex. recordes mundiais), a organização pode disponibilizar embaralhamentos específicos no fim da ronda.
-- 4b4+) [ADIÇÃO] É permitido ao quebra-cabeças mudar de orientação quando é movido do embaralhador até à estação de resolução, desde que ninguém esteja a tentar influenciar a aleatoriedade da sua orientação (ver [Regra A2e1](regulations:regulation:A2e1)).
+- 4b1+) [LEMBRETE] O Delegado da WCA não pode sob nenhuma circunstância gerar novamente quaisquer sequências de embaralhamento para substituir outras com o objetivo de filtragem. Por exemplo, não é permitido olhar para as sequências de embaralhamentos de uma competição e gerá-las novamente para conseguir sequências de embaralhamento "mais justas".
+- 4b2+) [ESCLARECIMENTO] Em geral, todas as sequências de embaralhamento devem ser mantidas em segredo durante a competição e publicadas juntas no fim da mesma (ver [Regra 1c3a](regulations:regulation:1c3a)). Em alguns casos (ex. recordes mundiais), a organização pode disponibilizar sequências de embaralhamento específicas mais cedo, no fim da ronda.
+- 4b4+) [ESCLARECIMENTO] Todas as tentativas que se iniciaram dentro do intervalo de tempo seguem os procedimentos definidos de resolução (i.e. não são paradas quando é ultrapassado o intervalo de tempo para a sequência de embaralhamento). 
 - 4d+) [ESCLARECIMENTO] Alguns quebra-cabeças usam esquemas de cor padrão, exceto usando a cor preta no lugar da branca. Nesse caso, o preto é a cor mais escura do cubo e não deve ser tratada como o branco.
-- 4f+) [RECOMENDAÇÃO] O Delegado da WCA deve gerar embaralhamentos suficientes para a competição, incluindo embaralhamentos a mais, para tentativas extras.
-- 4f++) [LEMBRETE] Se o Delegado da WCA gerar qualquer embaralhamento adicional durante a competição, estes devem ser guardados (ver [Regra 1c3a](regulations:regulation:1c3a)).
+- 4d++) [ADIÇÃO] É permitido ao quebra-cabeças mudar de orientação quando é movido do embaralhador até à estação de resolução, desde que ninguém esteja a tentar influenciar a aleatoriedade da sua orientação (ver [Regra A2e1](regulations:regulation:A2e1)).
+- 4f+) [RECOMENDAÇÃO] O Delegado da WCA deve gerar sequências de embaralhamento suficientes para a competição, incluindo sequências de embaralhamentos a mais, para tentativas extras.
+- 4f++) [LEMBRETE] Se o Delegado da WCA gerar qualquer sequência de embaralhamento adicional durante a competição, estas devem ser guardadas (ver [Regra 1c3a](regulations:regulation:1c3a)).
 
 
 ## <article-5><puzzle-defects><puzzledefects> Artigo 5: Defeitos no Quebra-cabeças
@@ -87,7 +90,7 @@ Para ser mais informativo, cada orientação é classificada usando uma das segu
 - 5b5++) [EXEMPLO] Exemplos de peças fisicamente separadas que resultam em "DNF": duas tampas de centro do 3x3x3, duas peças de centro de cubos maiores, uma peça de meio do 3x3x3, uma peça de meio do 4x4x4, qualquer combinação de duas peças em que ambas sejam coloridas.
 - 5b5+++) [EXEMPLO] Exemplo de peças não completamente encaixadas que resultam em estado resolvido: Uma peça de centro do 5x5x5 girada no lugar.
 - 5b5++++) [EXEMPLO] Exemplo de peças fisicamente encaixadas, mas não totalmente, que resultam em "DNF": Peça de meio do 3x3x3 levemente desencaixada.
-- 5c+) [LEMBRETE] Se um competidor tiver um defeito no quebra-cabeças, isso não lhe dá o direito a uma tentativa adicional.
+- 5c+) [LEMBRETE] Se um competidor tiver um defeito no quebra-cabeças, isso não lhe reserva o direito a uma tentativa adicional.
 
 ## <article-6><awards><awards> Artigo 6: Prémios e Honras
 
@@ -101,12 +104,12 @@ Para ser mais informativo, cada orientação é classificada usando uma das segu
 ## <article-7><environment><environment> Artigo 7: Ambiente
 
 - 7d+) [ADIÇÃO] A temperatura da área de competição deve estar entre 21 e 25 graus Celsius.
+- 7f1a) [ESCLARECIMENTO] Um tapete deve ter dimensões mínimas de 30cm (da esquerda à direita) por 25cm (da frente para trás). 
 - 7h2+) [ADIÇÃO] Os competidores na área de competição não devem ser capazes de ver os quebra-cabeças dos competidores no palco.
 
 
 ## <article-8><competitions><competitions> Artigo 8: Competição
 
-- 8a4+) [RECOMENDAÇÃO] Mudanças para aumentar o número máximo de competidores na primeira ronda deve ser feita pelo menos um mês antes da competição. (veja a [Regra 9r3](regulations:regulation:9r3)).
 - 8a4++) [RECOMENDAÇÃO] A competição deve ser anunciada no minimo um mês antes desta se iniciar.
 - 8a5+) [RECOMENDAÇÃO] A competição deve ter pelo menos 12 competidores.
 - 8a7+) [ADIÇÃO] Organizadores devem considerar realizar modificações nos cronómetros SpeedStacks para os tornar mais robustos contra incidentes comuns, como tornar os botões mais difíceis de pressionar por acidente (ex: através da colocação de anéis de proteção em volta dos botões) e protegendo a pilha de forma mais firme (ex: enchumaçando o compartimento da pilha).
@@ -119,32 +122,41 @@ Para ser mais informativo, cada orientação é classificada usando uma das segu
 - 9b3b+) [ESCLARECIMENTO] A "Média de 3" não afeta o ranking do competidor numa ronda "Melhor de 3" (que se baseia no melhor resultado). A WCA reconhece-o fora do formato da competição.
 - 9f1+) [EXEMPLO] Se o Cronómetro mostrar 12.678 numa tentativa, o tempo registado é 12.67 (arredonda-se por defeito, eliminando o último dígito das centésimas). Um juiz pode escrever o tempo com a precisão total (e manter a precisão no cálculo de penalidades), desde que o anotador de resultados corte o resultado para os resultados oficiais.
 - 9f4+) [EXPLICAÇÃO] O resultado de uma tentativa é DNF só se o competidor começar a tentativa apenas por indicar a sua prontidão (ver [Regra A3b2](regulations:regulation:A3b2)) mas a tentativa foi desqualificada.
-- 9f5+) [ESCLARECIMENTO] O resultado de uma tentativa é "DNS" se o competidor puder fazer a tentativa mas preferir não a fazer. Se o competidor não se classificou para a tentativa (como numa ronda combinada), ele não tem qualquer resultado para a tentativa.
-- 9q+) [RECOMENDAÇÃO] Modalidades e rondas devem ter pelo menos dois competidores.
+- 9f5+) [ESCLARECIMENTO] O resultado de uma tentativa é "DNS" se o competidor puder fazer a tentativa mas preferir não a iniciar. Se o competidor não se classificou para a tentativa (como numa ronda combinada), ele não tem qualquer resultado para essa tentativa.
+- 9q+) [SEPARADO][RECOMENDAÇÃO] Modalidades e rondas devem ter pelo menos dois competidores.
 
 
-## <article-10><solved-state><solvedstate> Artigo 10: Estado Resolvido
+## <article-0><solved-state><solvedstate> Artigo 10: Estado Resolvido
 
 - 10f+) [EXPLICAÇÃO] Os limite de desalinhamento são selecionados para dividir naturalmente entre o estado resolvido do cubo (sem penalidades) e o estado onde falta um movimento.
+- 10h1+) [ADIÇÃO] O estado resolvido do Clock não é afetado por tampas de pinos soltas.
 
 
 ## <article-11><incidents><incidents> Artigo 11: Incidentes
 
-- 11e+) [ESCLARECIMENTO] Como os apelos não têm a garantia de que sejam bem sucedidos, o competidor pode escolher manter o cronómetro a correr enquanto apela e continuar a tentativa quando apropriado.
+- 11e+) [ESCLARECIMENTO] Como um apelo não têm a garantia de que seja bem sucedido, o competidor pode escolher manter o cronómetro a correr enquanto apela e continuar a tentativa quando apropriado.
 - 11e1+) [LEMBRETE] A tentativa extra deve ser embaralhada usando uma sequência de embaralhamento não modificada gerada pelo programa oficial. (ver [Regra 4f](regulations:regulation:4f), [Orientação 4f+](guidelines:guideline:4f+)).
-- 11e2+) [ADIÇÃO] Se uma tentativa adicional levar a uma outra tentativa adicional extra, o competidor deve continuar a realizar tentativas adicionais até que tenham sido realizadas suficientes para substituir as tentativas a substituir. As tentativas adicionais válidas substituem as tentativas numeradas por ordem crescente.
-- 11e2++) [EXEMPLO] Suponha-se que um competidor tem 5 tentativas regulares numeradas, e a 2ª e 4ª levam a tentativas adicionais. Depois de terminar as 5 tentativas normais, o competidor continua com tentativas extra até que tenha realizado duas tentativas adicionais. A primeira substitui a 2ª tentativa e a outra substitui a 4ª tentativa.
+- 11e2+) [ADIÇÃO] Se uma tentativa adicional levar a uma outra tentativa adicional extra, o competidor deve continuar a realizar tentativas adicionais até que haja uma tentativa extra válida que substitua a tentativa numerada original.
+- 11e2++) [EXEMPLO] Suponha-se que um competidor tem 5 tentativas regulares numeradas, e a 2ª tentativa leva a uma tentativa extra. O competidor deve realizar tentativas extra até que exista uma extra válida que substitua a 2ª tentativa. Suponha-se que mais tarde outra tentativa leve a outra tentativa extra. O competidor deve proceder de igual modo como na 2ª tentativa.
+
+
+## <article-12><notation><notation> Artigo 12: Notação
+
+- 12c2+) [ADIÇÃO] Quando se contam os movimentos no caso de um desalinhamento no fim de uma resolução, x e y são considerados separadamente. Exemplo: (5,1) é considerado um desalinhamento, (5,5) é considerado como dois desalinhamentos.
 
 
 ## <article-A><speedsolving><speedsolving> Artigo A: Resolução em Velocidade
 
 - A1a2+) [ADIÇÃO] Em caso de tempo limite cumulativo, o juiz anota o tempo original de "DNF" na folha de resultados entre parêntesis, por exemplo: "DNF (1:02.27)".
+- A1a2++) [ESCLARECIMENTO] Limites de tempo cumulativo podem ser impostos a uma única modalidade ou a uma combinação de modalidades.
+- A1a2+++) [ESCLARECIMENTO] No caso de um tempo limite cumulativo, o resultado das tentativas restantes da ronda é registado como DNS (Did Not Start) após o competidor atingir o tempo limite.
 - A1a3+) [LEMBRETE] A equipa de organização e o Delegado da WCA devem ter em mente que o limite de tempo influencia a estratégia dos competidores (por exemplo, apressar as duas primeiras tentativas para tentar ficar abaixo do tempo limite de uma ronda combinada) e que mudar o limite de tempo depois de começar a ronda pode causar desvantagem injusta para alguns competidores.
 - A1a4+) [LEMBRETE] Se o competidor exceder o limite de tempo acidentalmente, este deve ser aplicado retroativamente e o juiz, o competidor e o Delegado da WCA devem ser informados. (ver [Regra 1g2](regulations:regulation:1g2)). Os juizes devem estar sempre atentos ao limite de tempo da tentativa atual (que dependem das tentativas anteriores, no caso de tempo limite cumulativo).
 - A1c+) [ESCLARECIMENTO] Delegados da WCA devem apenas usar este critério para prevenir competidores de serem danosos para o normal andamento da competição (ex: perderem deliberadamente tempo e/ou recursos). Competidores não devem ser desqualificados por um "mau" resultado quando estão a competir no melhor das suas possibilidades.
 - A2c1+) [ESCLARECIMENTO] No passado, folhas de resultados eram usadas para cobrir os quebra-cabeças, deixando alguns lados expostos. Isto já não é permitido.
 - A3c3+) [ESCLARECIMENTO] Um competidor pode colocar a zero o cronómetro Speed Stacks antes/durante a fase de inspeção se o juiz acidentalmente se esqueceu de o fazer. No entanto, é da responsabilidade do juiz garantir que o cronómetro Speed Stacks foi colocado a zero (ver [Regra A3b](regulations:regulation:A3b)). Se o competidor acidentalmente tentar iniciar a resolução com um cronómetro que o juiz não colocou a zero (ex: o competidor realiza a inspeção, coloca as mãos no cronómetro Speed Stacks durante um período aceitável e começa a manipular o quebra-cabeças), a tentativa deve ser substituída por uma tentativa adicional, segundo critério do Delegado da WCA.
 - A3c4+) [ESCLARECIMENTO] Se um objeto fino dentro do quebra-cabeças estiver a ser utilizado, o juiz não pode removê-lo pelo competidor.
+- A3c4++) [ESCLARECIMENTO] O competidor pode remover o objeto durante a resolução, se não o fez durante a inspeção (ex. esqueceu-se).
 - A6b+) [EXPLICAÇÃO] O valor arbitrário de 0.06 segundos foi escolhido para acolher possíveis defeitos do cronómetro Speed Stacks.
 - A6f+) [ESCLARECIMENTO] Se o competidor colocar o cronómetro a zero antes que o resultado tenha sido completamente registado, o juiz não deve apontar o resultado de memória ou através de um vídeo ou fotografia e tem de desqualificar a tentativa (DNF).
 - A6g+) [ADIÇÃO] Enquanto se está a determinar se ocorreu uma penalidade por desalinhamento, o juiz não deve tocar no quebra-cabeças.
@@ -178,6 +190,8 @@ Para ser mais informativo, cada orientação é classificada usando uma das segu
 - E2b+) [ESCLARECIMENTO] O competidor pode acabar uma tentativa entregando uma solução antes do limite de tempo.
 - E2c+) [ESCLARECIMENTO] Apesar do juiz poder dar uma folha para os competidores submeterem soluções, um competidor pode submeter uma solução numa folha de papel diferente, desde que haja uma única sequência de movimentos indicada de forma não ambígua como a solução a submeter. (Note-se que essa folha tem de ser fornecida pelo juiz, de acordo com a [Regra E3a](regulations:regulation:E3a).)
 - E2c++) [ESCLARECIMENTO] A solução do competidor só pode conter movimentos que são exatamente definidos pela [Regra 12a](regulations:regulation:12a). Exemplos de notação e movimentos que não são permitidos em competição: [F], [R, U], [R: U], R'2, L'w, f, M, U2'.
+- E2e+) [ESCLARECIMENTO] Competidores não podem derivar soluções de qualquer parte da sequência de embaralhamento e soluções não devem partilhar partes significantes da sequência de embaralhamento inversa.
+- E2e++) [EXEMPLO] Exemplo de solução que devem resultar em desqualificação da tentativa (DNF): soluções começando com os mesmos 4 ou mais movimentos que a sequência de embaralhamento inversa.
 - E3b+) [LEMBRETE] Cubo de Rubik refere-se apenas ao quebra-cabeças standard 3x3x3.
 - E3d+) [ESCLARECIMENTO] Qualquer cronómetro ou relógio usado pelo competidor não pode ter qualquer função que possa ajudar o competidor a encontrar uma solução.
 - E3d++) [ESCLARECIMENTO] Competidores não podem considerar o seu cronómetro ou relógio pessoal como o tempo oficial, tendo que submeter a sua solução após o juiz dizer "STOP".
