@@ -115,7 +115,7 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 	- 2n3) Der Teilnehmer muss die endgültige Entscheidung des WCA-Delegierten anerkennen. Strafe: Disqualifikation des Teilnehmers vom Turnier.
 - 2s) Teilnehmer mit Behinderungen, die sie vom Einhalten einer oder mehrerer WCA-Regeln abhalten können, dürfen eine spezielle Behandlung beim WCA-Delegierten anfragen. Diese Teilnehmer sollten das Organisationsteam und den WCA-Delegierten mindestens zwei Wochen vor dem Turnier kontaktieren.
 - 2t) Jeder Teilnehmer muss vor Beginn eines Turniers mit den WCA-Regeln vertraut sein und diese verstehen.
-- 2u) Teilnehmer müssen anwesend und bereit zur Teilnahme sein, wenn sie zu einem Versuch aufgerufen werden. Strafe: Disqualifikation der Kategorie.  
+- 2u) Teilnehmer müssen anwesend und bereit zur Teilnahme sein, wenn sie zu einem Versuch aufgerufen werden. Strafe: Disqualifikation der Kategorie.
 	- 2u1) Ausnahme: Ein Teilnehmer, der nicht rechtzeitig zu einem individuell angesetzten Versuch anwesend ist (z.B. ein Fewest Moves Versuch, ein Multiple Blindfold Versuch) darf so behandelt werden, als ob er den Versuch abgelehnt hätte (DNS), nach Ermessen des WCA-Delegierten.
 
 

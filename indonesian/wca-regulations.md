@@ -113,7 +113,7 @@ Catatan: Karena nomor Pasal dan Regulasi tidak diatur kembali saat ada Regulasi 
 - 3d) Puzzle harus memiliki stiker berwarna, tiles berwarna, atau warna yang dicat/dicetak.
     - 3d1) Pengecualian: Kompetitor dengan ketidakmampuan visual yang terdokumentasi secara medis dapat menggunakan puzzle bertekstur dengan tekstur berbeda pada sisi yang berbeda. Tekstur/pola harus seragam tiap sisinya. Setiap sisi harus memiliki warna berbeda, untuk membantu dalam scrambling dan judging.
     - 3d2) Warna dari puzzle harus menyatu, dengan satu warna seragam tiap sisi. Setiap warna pada puzzle harus jelas berbeda dari warna lainnya.
-    - 3d3) Stiker/tiles/tekstur/cat tidak boleh lebih tebal dari 1.5 mm, atau ketebalan yang tersedia secara umum untuk puzzle non-cube. 
+    - 3d3) Stiker/tiles/tekstur/cat tidak boleh lebih tebal dari 1.5 mm, atau ketebalan yang tersedia secara umum untuk puzzle non-cube.
 - 3h) Modifikasi yang menambah konsep dasar dari puzzle tidak diperbolehkan. Versi modifikasi dari puzzle diperbolehkan hanya jika modifikasi tidak membuat informasi tambahan apapun tersedia bagi kompetitor (contoh: identitas dari piece), dibandingkan dengan versi yang tidak dimodifikasi dari puzzle yang sama.
     - 3h1) Puzzle berbentuk "Pillowed" tidak diperbolehkan. Pengecualian: cube 7x7x7 Pillowed diperbolehkan.
     - 3h2) Cube yang "tidak berstiker", dan cube lainnya yang sisinya terlihat di dalam cube, tidak diperbolehkan.
@@ -192,14 +192,14 @@ Catatan: Karena nomor Pasal dan Regulasi tidak diatur kembali saat ada Regulasi 
     - 9a1) Puzzle yang dikenal dengan puzzle Rubik's.
     - 9a2) Puzzle lain yang bisa dimanipulasi dengan cara memutar sisinya, yang dikenal dengan "twisty puzzles".
 - 9b) Puzzle dan format event resmi WCA adalah sebagai berikut:
-    - 9b1) Rubik's Cube (kubus 3x3x3) , kubus 2x2x2, kubus 4x4x4, kubus 5x5x5, Clock, Megaminx, Pyraminx, Square-1, dan Rubik's Cube (kubus 3x3x3): one-handed solving . 
+    - 9b1) Rubik's Cube (kubus 3x3x3) , kubus 2x2x2, kubus 4x4x4, kubus 5x5x5, Clock, Megaminx, Pyraminx, Square-1, dan Rubik's Cube (kubus 3x3x3): one-handed solving .
         - 9b1a) Format kompetisi untuk event-event tersebut adalah: "Best of X" (dengan X adalah 1, 2, atau 3), dan "Average of 5".
     - 9b2) Rubik's Cube: With Feet, kubus 6x6x6, dan kubus 7x7x7.
         - 9b2a) Format kompetisi untuk event-event tersebut adalah: "Best of X" (dengan X adalah 1, 2, atau 3) dan "Mean of 3".
     - 9b3) Rubik's Cube: Fewest Moves, Rubik's Cube: Blindfolded, kubus 4x4x4: Blindfolded, kubus 5x5x5: Blindfolded, dan Rubik's Cube: Multiple Blindfolded.
         - 9b3a) Format kompetisi untuk event-event tersebut adalah: "Best of X" (dengan X adalah 1, 2, atau 3).
 - 9f) Hasil dari round diukur sebagai berikut:
-    - 9f1) Semua hasil waktu di bawah 10 menit dihitung dan dibulatkan ke seperseratus detik terdekat. Semua hasil waktu average dan mean dibawah 10 menit diukur dan dibulatkan ke seperseratus detik terdekat. 
+    - 9f1) Semua hasil waktu di bawah 10 menit dihitung dan dibulatkan ke seperseratus detik terdekat. Semua hasil waktu average dan mean dibawah 10 menit diukur dan dibulatkan ke seperseratus detik terdekat.
     - 9f2) Semua hasil waktu di atas 10 menit dihitung dan dibulatkan ke detik terdekat (mis. x.4 menjadi x, x.5 menjadi x+1).
     - 9f4) Hasil dari attempt dinyatakan DNF/Did Not Finished (Did Not Finished) jika peserta gagal menyelesaikan puzzle atau dikenakan diskualifikasi pada attempt yang bersangkutan.
     - 9f5) Hasil dari attempt dinyatakan DNS (Did Not Start) jika peserta mampu/diperbolehkan melakukan attempt, tetapi peserta menolaknya.
@@ -405,14 +405,14 @@ Catatan: Karena nomor Pasal dan Regulasi tidak diatur kembali saat ada Regulasi 
     - B4a) Kompetitor memasang blindfold-nya untuk memulai fase blindfolded.
     - B4b) Kompetitor dilarang melakukan gerakan apapun sebelum dia memasang blindfold-nya secara sempurna.
     - B4c) Judge harus memastikan keberadaan sebuah benda tidak tembus cahaya diantara muka kompetitor dan puzzle ketika kompetitor sedang solving.
-        - B4c1) Dalam semua kasus, kompetitor harus memakai blindfold-nya dalam keadaan dimana dia tidak akan bisa melihat puzzle meski benda tidak tembus cahaya tersebut tidak menghalanginya. 
+        - B4c1) Dalam semua kasus, kompetitor harus memakai blindfold-nya dalam keadaan dimana dia tidak akan bisa melihat puzzle meski benda tidak tembus cahaya tersebut tidak menghalanginya.
         - B4c2) Secara default, judge sebaiknya memposisikan objek tersebut (misal selembar kertas atau papan) diantara kompetitor dan puzzle ketika dia telah memakai blindfold.
         - B4c3) Jika judge dan kompetitor telah setuju sebelumnya, kompetitor diperbolehkan untuk memposisikan puzzle dibelakang benda yang sesuai (misal music stand, permukaan meja) ketika fase blindfolded.
     - B4d) Kompetitor dilarang melihat puzzle-nya pada saat fase blindfolded. Penalti diskualifikasi attempt tersebut (DNF/Did Not Finished/Did Not Finished)
     - B4e) Sampai kompetitor melakukan gerakan pertamanya di puzzle, kompetitor diperbolehkan membuka blindfold-nya untuk kembali ke fase memorisasi.
 - B5) Memberhentikan solve:
     - B5a) Jika menggunakan Stackmat, kompetitor memberhentikan attemptnya dengan melepaskan puzzle dan memberhentikan timer.
-    - B5b) Jika menggunakan stopwatch, kompetitor meletakkan puzzle di permukaan dan memberitahukan judge bahwa dia telah menyelesaikan attemptnya. Pada saat itu, judge memberhentikan stopwatch. 
+    - B5b) Jika menggunakan stopwatch, kompetitor meletakkan puzzle di permukaan dan memberitahukan judge bahwa dia telah menyelesaikan attemptnya. Pada saat itu, judge memberhentikan stopwatch.
     - B5c) Jika kompetitor tidak menyentuh puzzle, dia diperbolehkan memlepaskan blindfold sebelum dia menghentikan timer. Setelah itu, dia tidak diperbolehkan melakukan gerakan apapun akhir attempt tersebut. Penalti: diskualifikasi attempt tersebut (DNF/Did Not Finished/Did Not Finished).
 
 

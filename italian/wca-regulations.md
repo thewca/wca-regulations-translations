@@ -29,9 +29,9 @@ Nota: potrebbero esserci discrepanze nella numerazione dei vari articoli, visto 
 
 ## <article-1><officials><officials> Articolo 1: Ufficiali di gara
 
-- 1a) Una competizione ufficiale deve avere come requisito fondamentale la presenza di un Delegato WCA, di un team organizzativo (di uno o più individui) e dei seguenti ufficiali di gara: giudici e mischiatori.   
+- 1a) Una competizione ufficiale deve avere come requisito fondamentale la presenza di un Delegato WCA, di un team organizzativo (di uno o più individui) e dei seguenti ufficiali di gara: giudici e mischiatori.
 - 1b) Il team organizzativo è responsabile per la logistica prima, durante e dopo la competizione.
-- 1c) Il Delegato WCA può, a sua discrezione, delegare alcune mansioni ad altri membri del team organizzativo, prendendosi la piena responsabilità delle sue decisioni e dei conseguenti risultati. Il Delegato WCA, durante una competizione, è responsabile di: 
+- 1c) Il Delegato WCA può, a sua discrezione, delegare alcune mansioni ad altri membri del team organizzativo, prendendosi la piena responsabilità delle sue decisioni e dei conseguenti risultati. Il Delegato WCA, durante una competizione, è responsabile di:
     - 1c1) Riferire al WCA Board per quanto riguarda eventuali inadempienze nei confronti del Regolamento WCA e lo svolgimento generale della competizione. Il report deve essere inoltrato al WCA Board entro una settimana dal termine della competizione.
     - 1c3) Inoltrare i risultati della competizione al WCA Results Team.
         - 1c3a) Tutti gli scramble usati durante una competizione devono essere inoltrati insieme ai risultati della stessa.
@@ -48,9 +48,9 @@ Nota: potrebbero esserci discrepanze nella numerazione dei vari articoli, visto 
         - 1e1a) Un giudice può giudicare più di un partecipante alla volta a discrezione del Delegato, se costui ritiene che il giudice possa garantire il pieno rispetto del regolamento.
     - 1e2) Tutti i partecipanti devono essere disponibili per fare da giudici, se richiesto dal team organizzativo. Penalità: squalifica dalla competizione.
 - 1f) Ogni evento deve avere uno o più mischiatori. Eccezione: Fewest Moves.
-    - 1f1) Un mischiatore esegue lo scramble per preparare il puzzle alla risoluzione. 
+    - 1f1) Un mischiatore esegue lo scramble per preparare il puzzle alla risoluzione.
     - 1f2) Tutti i partecipanti devono essere disponibili per mischiare, se richiesto dal team organizzativo. Penalità: squalifica dalla competizione.
-- 1g) Ogni evento deve avere uno o più responsabili dei risultati (coloro che inseriscono i risultati al computer). 
+- 1g) Ogni evento deve avere uno o più responsabili dei risultati (coloro che inseriscono i risultati al computer).
     - 1g1) Ognuno di essi è responsabile della corretta compilazione del file dei risultati.
     - 1g2) Ogni modifica a un risultato deve essere fatta sotto la revisione del Delegato WCA.
 - 1h) I partecipanti di uno stesso turno possono essere divisi in gruppi.
@@ -61,7 +61,7 @@ Nota: potrebbero esserci discrepanze nella numerazione dei vari articoli, visto 
 
 ## <article-2><competitors><competitors> Articolo 2: Partecipanti
 
-- 2a) Chiunque può prendere parte ad una competizione ufficiale WCA se: 
+- 2a) Chiunque può prendere parte ad una competizione ufficiale WCA se:
     - 2a1) Rispetta il regolamento WCA.
     - 2a2) Rispetta i criteri forniti dal team organizzativo, che devono essere chiaramente annunciati prima della competizione.
     - 2a3) Non è attualmente sospeso dalle competizioni per decisione del WCA Board.
@@ -77,7 +77,7 @@ Nota: potrebbero esserci discrepanze nella numerazione dei vari articoli, visto 
     - 2g3) I partecipanti non possono confrontarsi riguardo le risoluzioni eseguite fino al termine del turno. Penalità: squalifica del partecipante dall'evento, a discrezione del Delegato WCA.
 - 2h) I partecipanti devono osservare un codice di abbigliamento consono all'ambiente di gara. A discrezione del Delegato, i partecipanti possono essere squalificati per abbigliamento inadeguato.
 - 2i) Mentre competono, i partecipanti non devono usare dispositivi elettronici (ad esempio telefoni cellulari, lettori Mp3, sistemi di illuminazione addizionali).
-    - 2i1) I partecipanti possono utilizzare alcuni strumenti non elettronici che non forniscano loro un chiaro vantaggio sugli altri partecipanti, a discrezione del Delegato WCA. Ciò include: 
+    - 2i1) I partecipanti possono utilizzare alcuni strumenti non elettronici che non forniscano loro un chiaro vantaggio sugli altri partecipanti, a discrezione del Delegato WCA. Ciò include:
         - 2i1a) Dispositivi medici/protesi (ad esempio occhiali da vista, dispositivi uditivi, tutori per articolazioni).
         - 2i1b) Tappi per orecchie e cuffie anti rumore (ma non cuffie con riduzione elettronica del rumore).
 - 2j) Il Delegato WCA può squalificare un partecipante da un evento specifico.
@@ -134,15 +134,15 @@ Nota: potrebbero esserci discrepanze nella numerazione dei vari articoli, visto 
     - 4d3) Gli Square-1 devono essere scramblati con la faccia più scura orientata di fronte al mischiatore (la più scura, delle due disponibili).
 - 4f) Gli algoritmi di scramble devono essere generati utilizzando l'attuale programma ufficiale di scramble della WCA (disponibile tramite il sito WCA).
 - 4g) Dopo aver eseguito l'algoritmo di scramble, il mischiatore deve verificare la corretta esecuzione dello stesso. Se lo stato del puzzle differisce dallo stato previsto dall'algoritmo di scramble, il mischiatore ha il compito di correggerlo (risolvendo quindi il puzzle e ricominciando l'algoritmo di scramble da capo).
-    - 4g1) Eccezione: per i cubi 6x6x6 e 7x7x7, potrebbe non essere necessario correggere lo scramble sbagliato, a dicrezione del Delegato WCA. 
+    - 4g1) Eccezione: per i cubi 6x6x6 e 7x7x7, potrebbe non essere necessario correggere lo scramble sbagliato, a dicrezione del Delegato WCA.
 
-## <article-5><puzzle-defects><puzzledefects> Articolo 5: Difetti dei puzzle 
+## <article-5><puzzle-defects><puzzledefects> Articolo 5: Difetti dei puzzle
 
 - 5a) Esempi di difetti dei puzzle: pezzi saltati, pezzi permutati correttamente ma non orientati, viti e caps fuori sede e adesivi staccati.
 - 5b) Se uno dei difetti sopra elencati dovesse occorrere durante un tentativo di risoluzione ufficiale, il partecipante può decidere di riparare il puzzle e continuare la risoluzione o di fermarsi.
     - 5b1) Se il partecipante decide di riparare il puzzle, può farlo stando però attento a riparare solo il difetto verificatosi. Attrezzi di qualsiasi tipo e/o pezzi di altri puzzle non possono venire utilizzati per riparare il puzzle difettato. Penalità: squalifica della risoluzione (DNF).
     - 5b2) Qualsiasi riparazione non deve in alcun modo dare un vantaggio nella risoluzione del puzzle. Penalità: squalifica della risoluzione (DNF).
-    - 5b3) Riparazioni permesse: 
+    - 5b3) Riparazioni permesse:
         - 5b3a) Se un pezzo esce dalla sua sede (POP), il partecipante può rimetterlo a posto.
         - 5b3b) Se, dopo aver rimesso a posto il puzzle, ma comunque prima della fine della risoluzione, il partecipante vede che il puzzle è irrisolvibile, può smontare e riassemblare un massimo di 4 pezzi per rendere il puzzle risolvibile.
         - 5b3c) Se il puzzle è irrisolvibile, ma può essere risolto ruotando un singolo angolo, il partecipante può rimediare ruotando un singolo angolo, senza disassemblare il puzzle.
@@ -155,9 +155,9 @@ Nota: potrebbero esserci discrepanze nella numerazione dei vari articoli, visto 
 - 7b) Gli spettatori devono rimanere ad almeno 1.5 metri di distanza dalle postazioni dove i partecipanti sono impegnati in risoluzioni ufficiali.
 - 7c) L'illuminazione dell'area di gara è fondamentale, bisogna quindi prestarvi particolare attenzione. La luce deve essere neutra, così che sia facilmente possibile riconoscere i diversi colori delle facce dei puzzle.
 - 7e) Nell'area di gara non deve essere permesso fumare.
-- 7f) Postazioni di risoluzione: 
+- 7f) Postazioni di risoluzione:
     - 7f1) Definizioni:
-        - 7f1a) Stackmat: comprende lo Speedstacks Stackmat usato per cronometrare la risoluzione e un tappetino grande compatibile con esso. 
+        - 7f1a) Stackmat: comprende lo Speedstacks Stackmat usato per cronometrare la risoluzione e un tappetino grande compatibile con esso.
         - 7f1b) Tappetino (Mat): il tappetino dello Stackmat.
         - 7f1c) Timer: il timer dello Stackmat.
         - 7f1d) Superficie: la superficie piana su cui si posiziona lo Stackmat. Il tappetino è considerato parte della superficie. Il timer non è considerato parte della superficie.
@@ -166,7 +166,7 @@ Nota: potrebbero esserci discrepanze nella numerazione dei vari articoli, visto 
 - 7h) L'area di gara deve avere un'Area Partecipanti.
     - 7h1) Il team organizzativo può richiedere che un partecipante chiamato a competere debba rimanere all'interno dell'Area Partecipanti fino alla fine delle sue risoluzioni nel turno in atto.
 
-## <article-8><competitions><competitions> Articolo 8: Competizioni 
+## <article-8><competitions><competitions> Articolo 8: Competizioni
 
 - 8a) Una competizione ufficiale WCA deve:
     - 8a1) Essere approvata dal WCA Board.
@@ -183,14 +183,14 @@ Nota: potrebbero esserci discrepanze nella numerazione dei vari articoli, visto 
 - 9a) La WCA ha autorità sulle competizioni di:
     - 9a1) Puzzles conosciuti come puzzle Rubik.
     - 9a2) Altri puzzle che si possono manipolare ruotando i diversi lati, comunemente riconosciuti come "twisty puzzles".
-- 9b) I puzzle ufficiali e gli eventi che li vedono protagonisti ufficialmente riconosciuti dalla WCA sono: 
+- 9b) I puzzle ufficiali e gli eventi che li vedono protagonisti ufficialmente riconosciuti dalla WCA sono:
     - 9b1) Cubo di Rubik, Cubo 2x2x2, Cubo 4x4x4, Cubo 5x5x5, Clock, Megaminx, Pyraminx, Square-1, e Cubo di Rubik: One-Handed (risoluzione con una mano).
         - 9b1a) I formati in cui questi eventi vengono svolti sono: "Best of X" (dove X sta per 1, 2, o 3), e "Average of 5".
     - 9b2) Cubo di Rubik: With Feet (risoluzione coi piedi), Cubo 6x6x6, Cubo 7x7x7.
         - 9b2a) I formati in cui questi eventi vengono svolti sono: "Best of X" (dove X sta per 1, 2, o 3), e "Mean of 3".
     - 9b3) Cubo di Rubik: risoluzione con meno mosse possibili(Fewest Moves), Cubo di Rubik: Blindfolded (risoluzione da bendati), Cubo 4x4x4: Blindfolded (risoluzione da bendati), Cubo 5x5x5: Blindfolded (risoluzione da bendati), e Cubo di Rubik: Multiple Blindfolded (risoluzione di più cubi di Rubik da bednati).
         - 9b3a) I formati in cui questi eventi vengono svolti sono: "Best of X" (dove X sta per 1, 2, o 3).
-- 9f) I risultati di un turno sono misurati come segue: 
+- 9f) I risultati di un turno sono misurati come segue:
     - 9f1) Tutti i tempi sotto i 10 minuti sono misurati con una precisione al centesimo di secondo. Tutte le medie sotto i 10 minuti sono calcolate con una precisione al centesimo di secondo.
     - 9f2) Tutti i tempi e le medie sopra i 10 minuti sono misurati e calcolate con una precisione al secondo (ad esempio x.4 diventa x, x.5 diventa x+1).
     - 9f4) Il risultato di una risoluzione è registrato come DNF (Did Not Finish) se la risoluzione viene squalificata o non è stata completata.
@@ -201,7 +201,7 @@ Nota: potrebbero esserci discrepanze nella numerazione dei vari articoli, visto 
     - 9f9) Nei turni caratterizzati dal formato "Average of 5", ogni partecipante può ottenere al massimo un DNF o DNS affinché la media venga calcolata come spiegato in precedenza. Tale risultato (DNF o DNS) viene contato come il peggiore e, quindi, scartato. Se un partecipante ottiene più di un DNS e/o DNF nello stesso turno, la media finale sarà DNF.
     - 9f10) Nei turni caratterizzati dal formato "Mean of 3", i partecipanti effettuano 3 tentativi di risoluzione. La classifica viene stilata in base alla media aritmentica dei tre tentativi eseguiti.
     - 9f11) Nei turni caratterizzati dal formato "Mean of 3", se un partecipante ottiene anche solo un DNF o DNS, la media finale sarà DNF.
-    - 9f12) Nei turni caratterizzati dal formato "Best f X", la classifica viene stilata in base al miglior risultato ottenuto da ogni partecipante. 
+    - 9f12) Nei turni caratterizzati dal formato "Best f X", la classifica viene stilata in base al miglior risultato ottenuto da ogni partecipante.
         - 9f12a) Per risultati di tempo, "migliore" identifica il tempo minore.
         - 9f12b) Nel Fewest Moves, "migliore" identifica il numero minore di mosse.
         - 9f12c) Nel Multiple Blindfolded, la classifica viene stilata in base al numero di puzzle risolti meno il numero di puzzle non risolti. "Migliore" identifica il numero più alto ottenuto calcolando il risultato come esposto in precedenza. Se il risultato è minore di 0, la risoluzione viene classificata come DNF. Se più partecipanti ottengono lo stesso risultato, la classifica viene stilata in base al tempo impiegato nella risoluzione, dove il minor tempo viene considerato il risultato "migliore". Se più partecipanti ottengono lo stesso risultato nello stesso tempo, la classifica viene stilata in base al numero di puzzle non risolti, dove il numero minore di puzzle non risolti viene considerato il risultato "migliore".
@@ -242,7 +242,7 @@ Nota: potrebbero esserci discrepanze nella numerazione dei vari articoli, visto 
 - 10c) Il puzzle può trovarsi in qualsiasi orientamento alla fine della risoluzione.
 - 10d) Tutti i pezzi del puzzle devono essere interamente attaccati al puzzle nella loro posizione. Eccezione: vedi <Regulation 5b5>.
 - 10e) Un puzzle è risolto quando i colori delle facce sono riportati allo stato uniforme e tutte le parti sono allineate entro i limiti specificati di seguito:
-    - 10e1) Se due parti adiacenti (ad esempio due strati paralleli e adiacenti di un cubo) sono disallineate in misura maggiore del limite espresso in <Regulation 10f>, si considera necessaria un'ulteriore mossa per considerare il puzzle risolto (vedi "Outer Block Turn Metric" in <Articolo 12>).  
+    - 10e1) Se due parti adiacenti (ad esempio due strati paralleli e adiacenti di un cubo) sono disallineate in misura maggiore del limite espresso in <Regulation 10f>, si considera necessaria un'ulteriore mossa per considerare il puzzle risolto (vedi "Outer Block Turn Metric" in <Articolo 12>).
     - 10e2) Se non sono necessarie ulteriori mosse per portare il puzzle nella sua configurazione risolta, il puzzle è considerato risolto senza penalità.
     - 10e3) Se è richiesta una mossa per completare la risoluzione, il puzzle è considerato risolto con una penalità di tempo (+2 secondi).
     - 10e4) Se è richiesta più di una mossa per completare la risoluzione, il puzzle è considerato non risolto (DNF).
@@ -259,7 +259,7 @@ Nota: potrebbero esserci discrepanze nella numerazione dei vari articoli, visto 
     - 11a1) Esecuzione non corretta delle procedure di gara, da parte di ufficiali di gara o partecipanti.
     - 11a2) Imprevisti o contrattempi nel luogo di gara (ad esempio interruzione di corrente o attivazione dell'allarme di emergenza).
     - 11a3) Malfunzionamento dell'equipaggiamento di gara.
-- 11b) Nel verificarsi di un incidente, il Delegato WCA decide una linea d'azione imparziale e appropriata. 
+- 11b) Nel verificarsi di un incidente, il Delegato WCA decide una linea d'azione imparziale e appropriata.
 - 11d) Se il Regolamento WCA non è adeguatamente chiaro o se la tipologia d'incidente non è prevista dal Regolamento WCA, il Delegato WCA deve agire nel più equo spirito sportivo.
 - 11e) Se un incidente si verifica durante un tentativo di risoluzione ufficiale, il Delegato WCA può concedere al partecipante un tentativo extra, rimpiazzando così il tentativo affetto dall'incidente. Il partecipante deve richiamare verbalmente o sotto forma scritta l'attenzione del giudice e del Delegato WCA non appena l'incidente si verifica e prima di finire il tentativo in cui è impegnato, per poter ottenere un tentativo extra. La decisione finale riguardo la concessione di un tentativo extra, è a completa discrezione del Delegato.
     - 11e1) Se al partecipante viene concesso un tentativo extra, il puzzle deve essere mischiato usando uno scramble diverso. Questo scramble deve essere generato usando la versione corrente del programma ufficiale di scramble della WCA (vedi  <Regulation 4f>).
@@ -295,7 +295,7 @@ Nota: potrebbero esserci discrepanze nella numerazione dei vari articoli, visto 
         - 12d2c) Mosse di 144 gradi in senso orario dell'intero puzzle ad eccezione dello strato contenente i 3 pezzi sulla parte superiore sinistra dello stesso: R++ (strati verticali), D++ (strati orizzontali).
         - 12d2d) Mosse di 144 gradi in senso antiorario dell'intero puzzle ad eccezione dello strato contenente i 3 pezzi sulla parte superiore sinistra dello stesso: R-- (strati verticali), D-- (strati orizzontali).
 - 12e) Notazione del Pyraminx:
-    - 12e1) Il puzzle deve essere orientato con la faccia inferiore completamente orizzontale e la faccia frontale direttamente di fronte alla persona che impugna il Pyraminx. 
+    - 12e1) Il puzzle deve essere orientato con la faccia inferiore completamente orizzontale e la faccia frontale direttamente di fronte alla persona che impugna il Pyraminx.
     - 12e2) In senso orario, 120 gradi: U (i 2 strati superiori), L (i 2 strati di sinistra), R (i 2 strati di destra), B (i 2 strati posteriori), u (vertice superiore), l (vertice sinistro), r (vertice destro), b (vertice posteriore).
     - 12e3) In senso antiorario, 120 gradi: U' (i 2 strati superiori), L' (i 2 strati di sinistra), R' (i 2 strati di destra), B' (i 2 strati posteriori), u' (vertice superiore), l' (vertice sinistro), r' (vertice destro), b' (vertice posteriore).
 - 12g) Notazione del Clock:
@@ -311,10 +311,10 @@ Nota: potrebbero esserci discrepanze nella numerazione dei vari articoli, visto 
     - A1a) Il team organizzativo può fissare dei tempi limite per i singoli tentativi e/o i turni.
         - A1a1) Il tempo limite di default per ogni tentativo è 10 minuti, anche se il team organizzativo può fissarne uno più alto o più basso.
         - A1a2) Possono essere applicati tempi limite cumulativi (ad esempio 3 tentativi con un tempo limite complessivo di 20 minuti). Il tempo trascorso per una risoluzione poi risultata DNF conta ai fini del tempo limite complessivo.
-        - A1a3) Per ogni turno, l'eventuale tempo limite deve essere annunciato prima dell'inizio del turno stesso, e non deve essere cambiato dopo il suo inizio. Eventuali cambiamenti sono soggetti alla discrezione del Delegato WCA, che deve valutare attentamente la correttezza di una tale decisione. 
+        - A1a3) Per ogni turno, l'eventuale tempo limite deve essere annunciato prima dell'inizio del turno stesso, e non deve essere cambiato dopo il suo inizio. Eventuali cambiamenti sono soggetti alla discrezione del Delegato WCA, che deve valutare attentamente la correttezza di una tale decisione.
         - A1a4) I partecipanti devono concludere la risoluzione entro il tempo limite. Se un partecipante raggiunge il tempo limite per un tentativo/turno, il giudice ferma immediatamente la risoluzione e registra il risultato come DNF. Eccezione: Multiple Blindfolded (vedi <Regulation H1b1>).
         - A1a5) Una risoluzione viene considerata sotto il tempo limite se e solo se il risultato finale, dopo che siano state applicate eventuali penalità, è sotto il tempo limite. Eccezione: Multiple Blindfolded (vedi <Regulation H1b1>).
-    - A1b) Se il tempo limite per una risoluzione è maggiore di 10 minuti, deve essere usato un cronometro manuale. 
+    - A1b) Se il tempo limite per una risoluzione è maggiore di 10 minuti, deve essere usato un cronometro manuale.
         - A1b1) L'uso simultaneo di uno Stackmat è opzionale.
         - A1b2) Se è disponibile il risultato dato da uno Stackmat, questo è da considerare il risultato ufficiale. Altrimenti, il risultato fornito dal cronometro manuale è quello ufficiale.
     - A1c) Un partecipante iscritto ad un evento deve essere in grado di soddisfare i requisiti dettati dall'evento stesso (ad esempio, sapere come si risolve il puzzle). Un partecipante che compete sapendo di ottenere un DNF può essere squalificato dall'evento, a discrezione del Delegato WCA.
@@ -343,8 +343,8 @@ Nota: potrebbero esserci discrepanze nella numerazione dei vari articoli, visto 
     - A4b) Il partecipante posiziona le sue mani sui sensori del timer, con le dita a contatto con essi e i palmi rivolti verso il basso. Penalità: +2 secondi.
         - A4b1) Il partecipante non deve avere nessun tipo di contatto fisico col puzzle tra il tempo dell'ispezione e l'inizio della risoluzione. Penalità: +2 secondi.
     - A4d) Il partecipante comincia la risoluzione alzando le mani dai sensori dopo aver controllato che la luce sul timer sia diventata verde. In questo modo, il timer viene azionato correttamente.
-        - A4d1) Il partecipante deve iniziare la risoluzione entro 15 secondi dall'inizio dell'ispezione. Penalità: +2 secondi. 
-        - A4d2) Il partecipante deve iniziare la risoluzione entro 17 secondi dall'inizio dell'ispezione. Penalità: squalifica della risoluzione (DNF). 
+        - A4d1) Il partecipante deve iniziare la risoluzione entro 15 secondi dall'inizio dell'ispezione. Penalità: +2 secondi.
+        - A4d2) Il partecipante deve iniziare la risoluzione entro 17 secondi dall'inizio dell'ispezione. Penalità: squalifica della risoluzione (DNF).
     - A4e) Le penalità di tempo ottenute all'inizio di una risoluzione sono cumulative.
 - A5) Durante la risoluzione:
     - A5a) Mentre ispeziona o risolve il puzzle, il partecipante non deve comunicare con nessun altro ad eccezione del giudice. Penalità: squalifica della risoluzione (DNF).
@@ -364,14 +364,14 @@ Nota: potrebbero esserci discrepanze nella numerazione dei vari articoli, visto 
     - A6h) In caso di una controversia, il puzzle non deve essere in alcun modo modificato, eseguendo mosse o allineando le facce, fino al termine della controversia.
     - A6i) Le penalità ottenute terminando la risoluzione sono cumulative.
 - A7) Registrare i risultati:
-    - A7a) Il giudice comunica il risultato al partecipante. 
+    - A7a) Il giudice comunica il risultato al partecipante.
         - A7a1) Se il giudice constata che il puzzle è risolto, dice "VA BENE" o "OKAY".
         - A7a2) Se il giudice assegna una qualsiasi penalità, dice "PENALITA'".
         - A7a3) Se il risultato è DNF, il giudice dice "DNF".
     - A7b) Il giudice scrive il risultato sul foglietto segna tempo.
         - A7b1) Se vengono assegnate delle penalità, il giudice riporta il tempo mostrato dal timer, assieme alle penalità del caso. Il tutto deve essere espresso nella forma "X + T + Y = F", dove X rappresenta la somma delle penalità ottenute prima o durante l'inizio della risoluzione, T rappresenta il tempo mostrato dal timer, Y rappresenta la somma delle penalità ottenute al termine o dopo la risoluzione e F rappresente il risultato finale. Se X e/o Y è 0, vengono omessi dall'espressione. (ad esempio 2 + 17.65 + 2 = 21.65, o 17.65 + 2 = 19.65).
     - A7c) Il giudice e il partecipante devono entrambi firmare (o apporre una sigla) sul foglietto segna tempo per riconoscere il risultato.
-        - A7c1) Se il partecipante o il giudice si rifiuta di controfirmare il risultato, il Delegato WCA deve risolvere la controversia. 
+        - A7c1) Se il partecipante o il giudice si rifiuta di controfirmare il risultato, il Delegato WCA deve risolvere la controversia.
     - A7f) Quando il turno termina e il foglietto segna tempo di n partecipante è quindi completo, il giudice lo consegna all'ufficiale addetto alla registrazione dei risultati.
 
 
@@ -394,7 +394,7 @@ Nota: potrebbero esserci discrepanze nella numerazione dei vari articoli, visto 
 - B4) Risoluzione da bendati:
     - B4a) Il partecipante abbassa la benda per iniziare la fase da bendati della risoluzione.
     - B4b) Il partecipante non deve eseguire mosse finché non ha abbassato completamente la benda.
-    - B4c) Il giudice deve assicurare la presenza di un oggetto opaco tra il viso del partecipante e il puzzle durante la risoluzione. 
+    - B4c) Il giudice deve assicurare la presenza di un oggetto opaco tra il viso del partecipante e il puzzle durante la risoluzione.
         - B4c1) Ad ogni modo, il partecipante deve indossare la benda in moda tale che la visuale del puzzle sia interamente bloccata anche senza l'impedimento dell'oggetto opaco.
         - B4c2) Il giudice deve comunque tenere un oggetto (ad esempio un foglio di carta o un cartoncino) tra il partecipante e il puzzle mentre il partecipante indossa la benda.
         - B4c3) Se il giudice e il partecipante si accordano anticipatamente, il partecipante può decidere di posizionare il puzzle dietro un oggetto adeguato (ad esempio un leggio, la superficie del tavolo) durante la risoluzione da bendati.
@@ -428,7 +428,7 @@ Nota: potrebbero esserci discrepanze nella numerazione dei vari articoli, visto 
     - D4a) Il partecipante ferma il timer posizionando i piedi sui sensori dello stesso.
 
 
-## <article-E><fewest-moves><fewestmovessolving> Articolo E: Fewest Moves 
+## <article-E><fewest-moves><fewestmovessolving> Articolo E: Fewest Moves
 
 - E2) Procedure da seguire durante il Fewest Moves:
     - E2a) Il giudice distribuisce lo scramble a tutti i partecipanti. Il giudice aziona poi il cronometro e dice "VIA".
@@ -445,14 +445,14 @@ Nota: potrebbero esserci discrepanze nella numerazione dei vari articoli, visto 
     - E3c) Adesivi colorati (a cui deve provvedere da sé).
 
 
-## <article-F><clock><clocksolving> Articolo F: Clock 
+## <article-F><clock><clocksolving> Articolo F: Clock
 
 - F1) Vengono seguite le stesse procedure espresse per la risoluzione veloce, come descritto nell'<Articolo A>  (Speed Solving). Di seguito sono elencate le regole aggiuntive che sostituiscono le corrispondenti procedure descritte nell'<Articolo A>.
 - F2) Il giudice posiziona il puzzle mischiato sul tappetino posizionandolo in verticale.
 - F3) Alla fine della fase d'ispezione, il partecipante posiziona il puzzle sul tappetino in posizione verticale. Il partecipante non deve in alcun modo cambiare la posizione dei pin prima dell'inizio della risoluzione. Penalità: squalifica della risoluzione (DNF).
 
 
-## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Articolo H: Multiple Blindfolded 
+## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Articolo H: Multiple Blindfolded
 
 - H1) Vengono seguite le stesse procedure espresse per la risoluzione da bendati, come descritto nell'<Articolo B>  (Blindfolded Solving). Di seguito sono elencate le regole aggiuntive che sostituiscono le corrispondenti procedure descritte nell'<Articolo B>.
     - H1a) Prima di un tentativo, il partecipante deve informare il giudice riguardo il numero di puzzle che intende risolvere. Il numero di puzzle non può essere minore di 2.
@@ -471,6 +471,6 @@ Il WCA Board deve approvare queste regole opzionali.
 - Z1) Il team organizzativo può richiedere ai partecipanti di consegnare i puzzle al momento della registrazione.
 - Z2) Il team organizzativo può limitare il numero di eventi a cui un partecipante può iscriversi.
 - Z3) Il team organizzarivo può scegliere partecipanti che si qualificano direttamente a specifici turni di specifici eventi basandosi sui risultati di competizioni precedenti.
-- Z4) Il team organizzativo può limitare il numero di partecipanti per evento, basandosi su un criterio di precedenza nella registrazione o su tempi di qualificazione o sulla classifica WCA. Questi ultimi due criteri devono fare riferimento ad una data precisa entro la quale si consultano le classifiche WCA per determinare l'ordine di precedenza. 
+- Z4) Il team organizzativo può limitare il numero di partecipanti per evento, basandosi su un criterio di precedenza nella registrazione o su tempi di qualificazione o sulla classifica WCA. Questi ultimi due criteri devono fare riferimento ad una data precisa entro la quale si consultano le classifiche WCA per determinare l'ordine di precedenza.
 - Z5) Il team organizzativo può proibire ai partecipanti di competere in specifiche combinazioni di eventi.
 

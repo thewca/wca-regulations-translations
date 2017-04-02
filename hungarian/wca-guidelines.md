@@ -132,7 +132,7 @@ A hatékonyabb megértés segítségéül minden útmutatás a következő címk
 
 - 11e+) [PONTOSÍTÁS] Mivel az extra kirakás kérése nem garantálja a versenyzőnek, hogy meg is kapja azt, így dönthet úgy, hogy bekapcsolva hagyja a timer-t és az idő múlása közben vitatja meg a bíróval/WCA delegálttal, hogy elutasítás esetén folytathassa a kirakást.
 - 11e1+) [EMLÉKEZTETŐ] A extra kirakásnál a játékot egy a hivatalos keverőprogram által generált, módosítás nélküli algoritmussal kell bekeverni ([Szabályzat 4f](regulations:regulation:4f), [Útmutató 4f+](guidelines:guideline:4f+)).
-- 11e2+) [KIEGÉSZÍTÉS] Ha egy extra kirakás eredménye egy újabb extra kirakás lesz, akkor a versenyzőnek addig kell folytatnia az extra kirakásokat, amíg az eredmény egy érvényes kirakás lesz, amivel az eredeti sorszámú kirakást helyettesíteni lehet. 
+- 11e2+) [KIEGÉSZÍTÉS] Ha egy extra kirakás eredménye egy újabb extra kirakás lesz, akkor a versenyzőnek addig kell folytatnia az extra kirakásokat, amíg az eredmény egy érvényes kirakás lesz, amivel az eredeti sorszámú kirakást helyettesíteni lehet.
 - 11e2++) [PÉLDA] Ha egy versenyző 5 normál kirakásra jogosult és a 2. kirakás extra kirakáshoz vezet, a versenyző addig folytatja az extra kirakásokat, amíg egy érvényes eredménye nem lesz, amivel az eredeti kirakást helyettesíteni lehet. Ha a későbbiekben a versenyző szintén extra kirakásra lesz jogosult, akkor a 2. kirakásnál kapott extra kirakással megegyezően kell eljárni.
 
 
@@ -187,7 +187,7 @@ A hatékonyabb megértés segítségéül minden útmutatás a következő címk
 - E2b+) [PONTOSÍTÁS] A versenyző korábban is befejezheti a versenyszámot a megoldás leadásával.
 - E2c+) [PONTOSÍTÁS] Bár a bíró minden esetben biztosít egy kifejezetten FMC versenyszámra kialakított papírt a versenyzőnek, a versenyző a megoldását másik papíron is beadhatja, amíg a megoldás egyértelműen ki van emelve és összefüggően van rögzítve a papíron. (Megjegyzés: Ezt a papírt is csak a bíró biztosíthatja (lásd: [Szabályzat E3a](regulations:regulation:E3a)).)
 - E2c++) [PONTOSÍTÁS] A versenyző csak olyan jelöléseket használhat a megoldásában, amelyek a [Szabályzat 12a)](regulations:regulation:12a) pontjában fel vannak tüntetve. Példa azokra a jelölésekre, amelyek nem megengedettek hivatalos versenyen: [F], [R, U], [R: U], R'2, L'w, f, M, U2'.
-- E2e+) [PONTOSÍTÁS] A versenyzők megoldása nem származhat sem a keverésből vagy annak részeiből, sem pedig az inverz keverésből vagy annak részeiből. 
+- E2e+) [PONTOSÍTÁS] A versenyzők megoldása nem származhat sem a keverésből vagy annak részeiből, sem pedig az inverz keverésből vagy annak részeiből.
 - E2e++) [PÉLDA] Például érvénytelen kirakáshoz (DNF) vezet, ha a megoldásnak legalább az első 4 eleme megegyezik az inverz keverés első 4 elemével.
 - E3b+) [EMLÉKEZTETŐ] A „Rubik kocka” elnevezés kizárólag az eredeti, 3x3x3-as kockára vonatkozik.
 - E3d+) [PONTOSÍTÁS] Minden stopper és óra, amelyet a versenyző a kirakás közben használ, nem lehet képes a versenyzőnek segítséget adni a megoldás megtalálásában.

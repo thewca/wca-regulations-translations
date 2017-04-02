@@ -5,7 +5,7 @@
 
 ## Notas
 
-### Reglamento de la WCA 
+### Reglamento de la WCA
 
 Las Directrices de la WCA son un complemento al [Reglamento de la WCA](regulations:top). Por favor, lea el Reglamento para más información.
 
@@ -33,13 +33,13 @@ En pro de la claridad, cada Directriz se clasifica usando una de las siguientes 
 ## <article-1><officials><officials> Artículo 1: Oficiales
 
 - 1c3+) [RECOMENDACIÓN] Los resultados deberían estar listos al final del último día de la competición.
-- 1c3++) [ADICIÓN] Los registros físicos (como las hojas de tiempos y las soluciones escritas de Menos Movimientos) tienen que conservarse al menos durante un mes. Los registros digitales (como las mezclas o los resultados) tienen que conservarse permanentemente. 
+- 1c3++) [ADICIÓN] Los registros físicos (como las hojas de tiempos y las soluciones escritas de Menos Movimientos) tienen que conservarse al menos durante un mes. Los registros digitales (como las mezclas o los resultados) tienen que conservarse permanentemente.
 - 1c3b+) [ACLARACIÓN] Si hay varios grupos, no es necesario identificar qué competidor estaba en qué grupos.
 - 1c4+) [RECOMENDACIÓN] Las correcciones a los resultados deberían estar disponibles en el plazo de una semana de la fecha de la competición.
 - 1c10+) [ACLARACIÓN] Es suficiente con asegurar el acceso a una copia digital del Reglamento.
 - 1h+) [RECOMENDACIÓN] Los competidores del mismo grupo deben usar las mismas secuencias de mezcla. Diferentes grupos deben usar diferentes secuencias de mezcla.
 - 1h++) [RECOMENDACIÓN] Todas las rondas finales de todas las pruebas, así como todos los intentos de Resolución en Menos Movimientos, deben tener las mismas secuencias de mezclas para todos los competidores (es decir, un único grupo).
-- 1h1+) [ACLARACIÓN] Los mezcladores/jueces deberían mezclar/juzgar a otros competidores de su mismo grupo sólo si es importante para el progreso de la competición. 
+- 1h1+) [ACLARACIÓN] Los mezcladores/jueces deberían mezclar/juzgar a otros competidores de su mismo grupo sólo si es importante para el progreso de la competición.
 
 
 ## <article-2><competitors><competitors> Artículo 2: Competidores
@@ -63,10 +63,10 @@ En pro de la claridad, cada Directriz se clasifica usando una de las siguientes 
 - 3h+) [ACLARACIÓN] Los puzzles pueden mejorarse interiormente siendo lijados o lubricados.
 - 3h++) [EJEMPLO] Los ejemplos de mejoras incluyen: posibilidad de nuevos movimientos, imposibilidad de movimientos normales, más piezas o caras visibles, colores visibles en la parte trasera del puzzle, movimientos automáticos, o el puzzle tiene más/diferentes estados resueltos.
 - 3h2+) [ACLARACIÓN] Anteriormente, los puzzles sin pegatinas (*stickerless*) no estaban permitidos. Ahora se permiten.
-- 3h2++) [ACLARACIÓN] Los puzzles sin pegatinas que sean significativamente distintos de los puzzles sin pegatinas industriales sólo se permiten a discreción del Delegado de la WCA. 
+- 3h2++) [ACLARACIÓN] Los puzzles sin pegatinas que sean significativamente distintos de los puzzles sin pegatinas industriales sólo se permiten a discreción del Delegado de la WCA.
 - 3j+) [RECORDATORIO] Anteriormente se permitían sobrerrelieves o bajorrelieves en las piezas. Esto ya no está permitido.
 - 3j2+) [ACLARACIÓN] En el Clock, las dieciocho caras interiores de los relojes se consideran piezas similares.
-- 3l+) [ADICIÓN] Los logotipos pueden ser del cualquier diseño razonable que no otorgue ventajas notables (por ejemplo contener información que pueda ser utilizada para hacer trampa), y deben dejar la parte de color claramente distinguible. Los logotipos poco convencionales sólo se permiten a discreción del Delegado de la WCA. 
+- 3l+) [ADICIÓN] Los logotipos pueden ser del cualquier diseño razonable que no otorgue ventajas notables (por ejemplo contener información que pueda ser utilizada para hacer trampa), y deben dejar la parte de color claramente distinguible. Los logotipos poco convencionales sólo se permiten a discreción del Delegado de la WCA.
 
 
 ## <article-4><scrambling><scrambling> Artículo 4: Mezclas
@@ -145,17 +145,17 @@ En pro de la claridad, cada Directriz se clasifica usando una de las siguientes 
 - A1a2+) [ADICIÓN] En el caso de que se esté empleando tiempo límite acumulativo, el juez registra el tiempo original registrado para un DNF en la hoja de resultados entre paréntesis, por ejemplo "DNF (1:02.27)".
 - A1a3+) [RECORDATORIO] El equipo organizador y el Delegado de la WCA tienen que ser conscientes de que los límites de tiempo influyen en las estrategias de los competidores (por ejemplo, yendo más rápido en los dos primeros intentos con la esperanza de superar un corte en una ronda combinada), y que cambiar esos límites después del comienzo de la ronda puede perjudicar a algunos competidores injustamente.
 - A1a4+) [RECORDATORIO] Si a un competidor se le ha permitido accidentalmente superar el límite de tiempo, el límite de tiempo debe ser aplicado retroactivamente, y el juez, el competidor y el Delegado de WCA deben ser informados (ver [Regla 1g2](regulations:regulation:1g2)). Los jueces siempre tienen que conocer el tiempo límite del intento en curso (que podría depender de intentos previos, en caso de un tiempo límite acumulativo).
-- A1c+) [ACLARACIÓN] Los Delegados de la WCA, a discreción propia, deben evitar que ciertos competidores perjudiquen la competición (por ejemplo perdiendo tiempo o acaparando recursos). Sin embargo, los competidores no deben ser descalificados por obtener resultados 'pobres' si están intentando hacerlo lo mejor posible. 
+- A1c+) [ACLARACIÓN] Los Delegados de la WCA, a discreción propia, deben evitar que ciertos competidores perjudiquen la competición (por ejemplo perdiendo tiempo o acaparando recursos). Sin embargo, los competidores no deben ser descalificados por obtener resultados 'pobres' si están intentando hacerlo lo mejor posible.
 - A2c1+) [RECORDATORIO] En el pasado, las hojas de resultados se usaban para tapar los puzzles, lo que dejaba algunas caras al descubierto. Esto ya no está permitido.
-- A3c3+) [ACLARACIÓN] El competidor puede resetear el cronómetro antes/durante la fase de inspección si accidentalmente el juez se olvida de hacerlo. Sin embargo, es responsabilidad del juez asegurarse de que el cronómetro ha sido reseteado (ver [Regla A3b](regulations:regulation:A3b)). Si por accidente el competidor intenta empezar una resolución con un cronómetro que no ha sido reseteado (es decir, el competidor realiza la inspección, pone sus manos sobre el cronómetro durante un tiempo suficiente asumiendo que arrancará convenientemente, y comienza a manipular el puzzle), el intento debe ser reemplazado por un intento extra a discreción del Delegado de la WCA.  
+- A3c3+) [ACLARACIÓN] El competidor puede resetear el cronómetro antes/durante la fase de inspección si accidentalmente el juez se olvida de hacerlo. Sin embargo, es responsabilidad del juez asegurarse de que el cronómetro ha sido reseteado (ver [Regla A3b](regulations:regulation:A3b)). Si por accidente el competidor intenta empezar una resolución con un cronómetro que no ha sido reseteado (es decir, el competidor realiza la inspección, pone sus manos sobre el cronómetro durante un tiempo suficiente asumiendo que arrancará convenientemente, y comienza a manipular el puzzle), el intento debe ser reemplazado por un intento extra a discreción del Delegado de la WCA.
 - A3c4+) [ACLARACIÓN] Si se coloca un objeto fino bloqueante dentro del puzzle, no se permite que el juez retire dicho objeto en lugar del competidor.
 - A6b+) [EXPLICACIÓN] El valor arbitrario de 0.06 segundos ha sido elegido en respuesta a los errores de funcionamiento de los cronómetros Stackmat.
-- A6f+) [ACLARACIÓN] Si el competidor resetea el cronómetro antes de que el resultado haya sido anotado completamente, el juez no escribirá el resultado por lo que crea recordar o por una evidencia fotográfica o en vídeo de que se pueda disponer, sino que descalificará el intento (DNF). 
+- A6f+) [ACLARACIÓN] Si el competidor resetea el cronómetro antes de que el resultado haya sido anotado completamente, el juez no escribirá el resultado por lo que crea recordar o por una evidencia fotográfica o en vídeo de que se pueda disponer, sino que descalificará el intento (DNF).
 - A6g+) [ADICIÓN] Mientras determina si asignar una penalización por mal alineamiento, el juez no debe tocar el puzzle.
 - A7c+) [ADICIÓN] Si un resultado firmado por el competidor está incompleto o es ilegible, debe ser interpretado como el peor de los posibles (por ejemplo, "1:05" será considerado 1:05.99, "25.X3" será considerado 25.73 si X puede leerse como un 1 o como un 7). Dado que los visores (*displays*) Stackmat muestran los tiempos X:0Y.ss como X:Y.ss, que se haya omitido el dígito de las decenas debe considerarse más probable que que se haya omitido el de las unidades (por ejemplo "1:2.27" será considerado 1:02.27). Un juez que firme un resultado ambiguo puede ser requerido para clarificarlo, a discreción del responsable de registrar los tiempos.
-- A7g+) [EJEMPLO] Ejemplos de incidentes que pueden conceder un intento extra a un competidor nuevo: no esperar a la luz verde, iniciar o detener el cronómetro de forma incorrecta, exceder el tiempo de inspección por no entender cómo se inicia un intento, u otros errores procedimentales con penalización en segundos.  
-- A7g++) [ACLARACIÓN] Las penalizaciones a competidores nuevos no se pueden condonar. Debe otorgarse un nuevo intento extra completo. 
-- A7g+++) [RECOMENDACIÓN] El Delegado de la WCA debe emplear un criterio severo cuando concede más de un intento extra a un mismo competidor nuevo. Si se concede más de un intento extra, debe ser por incidentes no repetidos. 
+- A7g+) [EJEMPLO] Ejemplos de incidentes que pueden conceder un intento extra a un competidor nuevo: no esperar a la luz verde, iniciar o detener el cronómetro de forma incorrecta, exceder el tiempo de inspección por no entender cómo se inicia un intento, u otros errores procedimentales con penalización en segundos.
+- A7g++) [ACLARACIÓN] Las penalizaciones a competidores nuevos no se pueden condonar. Debe otorgarse un nuevo intento extra completo.
+- A7g+++) [RECOMENDACIÓN] El Delegado de la WCA debe emplear un criterio severo cuando concede más de un intento extra a un mismo competidor nuevo. Si se concede más de un intento extra, debe ser por incidentes no repetidos.
 
 
 ## <article-B><blindfolded><blindfoldedsolving> Artículo B: Resolución a Ciegas
@@ -180,8 +180,8 @@ En pro de la claridad, cada Directriz se clasifica usando una de las siguientes 
 ## <article-E><fewest-moves><fewestmovessolving> Artículo E: Resolución en Menos Movimientos
 
 - E2b+) [ACLARACIÓN] Un competidor puede elegir terminar su intento entregando su solución antes del límite de tiempo.
-- E2c+) [ACLARACIÓN] Aunque el juez entregue una hoja oficial a cada competidor para que entregue su solución, el competidor puede entregarla en otra hoja, siempre y cuando una única secuencia de movimientos quede indicada como la solución entregada. (Nótese que dicha hoja tiene que haber sido proporcionada por el juez, de acuerdo a la [Regla E3a](regulations:regulation:E3a).)  
-- E2c++) [ACLARACIÓN] La solución entregada tiene que contener exclusivamente movimientos definidos en la [Regla 12a](regulations:regulation:12a). Ejemplos de notación y movimientos que no están permitidos: [F], [R, U], [R: U], R'2, L'w, f, M, U2'.  
+- E2c+) [ACLARACIÓN] Aunque el juez entregue una hoja oficial a cada competidor para que entregue su solución, el competidor puede entregarla en otra hoja, siempre y cuando una única secuencia de movimientos quede indicada como la solución entregada. (Nótese que dicha hoja tiene que haber sido proporcionada por el juez, de acuerdo a la [Regla E3a](regulations:regulation:E3a).)
+- E2c++) [ACLARACIÓN] La solución entregada tiene que contener exclusivamente movimientos definidos en la [Regla 12a](regulations:regulation:12a). Ejemplos de notación y movimientos que no están permitidos: [F], [R, U], [R: U], R'2, L'w, f, M, U2'.
 - E3b+) [RECORDATORIO] "Cubo de Rubik" hace referencia sólo al 3x3x3 estándar.
 - E3d+) [ACLARACIÓN] Cualquier cronómetro de mano o reloj empleado debe carecer de funciones que pudieran ayudar al competidor a encontrar una solución.
 - E3d++) [ACLARACIÓN] Los competidores no deben considerar sus cronómetros de mano o relojes personales como el tiempo oficial, y tienen que entregar su solución en cuanto el juez declara "PARAD".
