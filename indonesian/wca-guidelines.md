@@ -7,13 +7,13 @@
 
 ### Regulasi WCA
 
-Pedoman WCA melengkapi [Regulasi WCA](regulations). Lihat Regulasi untuk informasi lebih lengkap tentang WCA.  
+Pedoman WCA melengkapi [Regulasi WCA](regulations). Lihat Regulasi untuk informasi lebih lengkap tentang WCA.
 
 ### Penomoran
 
 Pedoman dinomori sesuai dengan regulasi terkait. Perhatikan bahwa lebih dari satu pedoman dapat bersesuaian dengan regulasi yang sama, dan beberapa pedoman sesuai dengan regulasi yang sekarang tidak ada.
 
-### Labels 
+### Labels
 
 Agar lebih informatif, tiap pedoman digolongkan menggunakan salah satu dari label berikut ini. Ini sebaiknya dipertimbangkan sebagai metadata, bukan sebagai deskripsi kepentingan.
 
@@ -64,7 +64,7 @@ Agar lebih informatif, tiap pedoman digolongkan menggunakan salah satu dari labe
 
 ## <article-4><scrambling><scrambling> Pasal 4: Pengacakan
 
-- 4b1+) [REMINDER] WCA Delegate tidak boleh menghasilkan ulang acakan untuk mengganti acakan yang lain dengan tujuan penyaringan. Sebagai contoh, tidak dibolehkan untuk melihat sekilas acakan untuk kompetisi dan menghasilkan seluruh acakannya kembali untuk menghasilkan acakan "yang lebih baik". 
+- 4b1+) [REMINDER] WCA Delegate tidak boleh menghasilkan ulang acakan untuk mengganti acakan yang lain dengan tujuan penyaringan. Sebagai contoh, tidak dibolehkan untuk melihat sekilas acakan untuk kompetisi dan menghasilkan seluruh acakannya kembali untuk menghasilkan acakan "yang lebih baik".
 - 4b2+) [CLARIFICATION] Umumnya, seluruh urutan acakan resmi sebaiknya dirahasiakan selama kompetisi dan dipublikasikan setelah kompetisi berakhir (lihat <Regulation 1c3a>). Dalam beberapa kasus (misalnya rekor dunia/world records), tim panitia boleh meminta untuk mengeluarkan acakan tersebut sesaat setelah babak selesai.
 - 4d+) [CLARIFICATION] Beberapa puzzle menggunakan skema warna standar, kecuali yaitu putih digantikan oleh hitam. Dalam kasus ini, hitam adalah warna tergelap dan tidak boleh disamakan dengan putih.
 - 4f+) [RECOMMENDATION] WCA Delegate sebaiknya menghasilkan acakan yang cukup untuk seluruh kompetisi kedepannya, termasuk acakan cadangan untuk attempt tambahan.
