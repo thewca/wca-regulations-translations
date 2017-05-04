@@ -84,7 +84,7 @@ Agar lebih informatif, tiap Pedoman digolongkan menggunakan salah satu dari labe
 - 4f++) [PERINGATAN] Jika WCA Delegate generate acakan tambahan selama kompetisi, dia harus menyimpannya (lihat [Regulasi 1c3a](regulations:regulation:1c3a)).
 
 
-## <article-5><puzzle-defects><puzzledefects> Pasal 5: Kerusakan Puzzle
+## <article-5><puzzle-defects><puzzledefects> Pasal 5: Kecacatan/Kerusakan Puzzle
 
 - 5b5+) [CONTOH] Contoh part yang secara fisik terlepas dan menghasilkan keadaan terselesaikan: satu center cap 3x3x3, satu center piece big cube, inner piece big cube.
 - 5b5++) [CONTOH] Contoh part yang secara fisik terlepas dan menghasilkan "DNF": dua center cap 3x3x3, dua center piece big cube, edge piece 3x3x3, edge piece ("wing") 4x4, gabungan dua piece apapun yang keduanya memiliki bagian berwarna.
