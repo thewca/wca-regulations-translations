@@ -1,16 +1,18 @@
-# <wca-title>Regulasi WCA 2013
+# <wca-title>Regulasi WCA
 
-<version>Versi: 1 Januari 2013
+<version>Versi: 18 April 2016
 
-Diterjemahkan oleh: Ardianto Satriawan, Cendy Cahyo Rahmat, Jonathan Irvin Gunawan, Muhammad Jihan Khalilurrahman, Nathan Azaria, Stephen Adhisaputra, Vincent Hartanto Utomo, dan Yohanes Theda.
-Perhatikan bahwa terjemahan ini bukanlah versi resmi (walaupun tersedia di website WCA): terjemahan ini hanya bersifat membantu saja. Jika ada perbedaan antara terjemahan dan versi resmi (yang sedang berlaku) dalam bahasa Inggris, regulasi dalam berbahasa Inggrislah yang harus digunakan
+Diterjemahkan oleh: Ardianto Satriawan, Cendy Cahyo Rahmat, Jonathan Irvin Gunawan, Muhammad Jihan Khalilurrahman, Nathan Azaria, Stephen Adhisaputra, Vincent Hartanto Utomo, Yohanes Theda, dan Hafizh Dary Faridhan Hudoyo.
+Perhatikan bahwa terjemahan ini bukanlah versi resmi (walaupun tersedia di website WCA): terjemahan ini hanya bersifat membantu saja. Jika ada perbedaan antara terjemahan dan versi resmi (yang sedang berlaku) dalam bahasa Inggris, regulasi dalam berbahasa Inggrislah yang harus digunakan.
 
 ## Catatan
+
+Revisi tekstual terakhir: 12 Desember 2016
 
 ### Regulasi dan Pedoman WCA
 
 Regulasi WCA berisi Regulasi lengkap yang berlaku dalam semua kompetisi yang disetujui oleh World Cube Association.
-Regulasi WCA juga dilengkapi oleh [Pedoman WCA](guidelines). Regulasi WCA sebaiknya dipertimbangkan sebagai dokumen lengkap, sedangkan Pedoman WCA berisi klarifikasi dan penjelasan tambahan.
+Regulasi WCA juga dilengkapi oleh [Pedoman WCA](guidelines:top). Regulasi WCA sebaiknya dipertimbangkan sebagai dokumen lengkap, sedangkan Pedoman WCA berisi klarifikasi dan penjelasan tambahan.
 
 
 ### Informasi di Internet
@@ -24,7 +26,7 @@ Perkembangan Regulasi WCA dan Pedoman WCA terbuka secara umum [di GitHub](https:
 ### Kontak
 Untuk pertanyaan dan saran, hubungi [WCA Regulations Committee (WRC)](http://www.worldcubeassociation.org/contact-information).
 
-## <contents> [Contents](regulations:contents)
+## <contents> [Konten](regulations:contents)
 
 Catatan: Karena nomor Pasal dan Regulasi tidak diatur kembali saat ada Regulasi yang dihapus, akan ada bagian kosong pada penomoran.
 
@@ -84,6 +86,9 @@ Catatan: Karena nomor Pasal dan Regulasi tidak diatur kembali saat ada Regulasi 
     - 2i1) Kompetitor boleh menggunakan bantuan non-elektronik tertentu yang tidak memberikan ketidakadilan dengan keputusan WCA Delegate. Alat-alat bantuan ini termasuk:
         - 2i1a) Bantuan medis/fisik yang dipakai oleh kompetitor (contoh: kacamata, gelang olahraga, alat bantu dengar).
         - 2i1b) Earplugs dan earmuffs (bukan peredam suara elektronik).
+	- 2i2) Kompetitor boleh menggunakan kamera pada meja solving atas kebijakan WCA Delegate, tetapi larangan berikut berlaku dari saat attempt dimulai sampai dengan kompetitor selesai solving. Penalti jika melanggar: diskualifikasi dari attempt (DNF).
+		- 2i2a) Monitor kamera tidak boleh ada atau tidak boleh terlihat oleh kompetitor (lihat [Regulasi A5b](regulations:regulation:A5b)).
+		- 2i2b) Kompetitor tidak boleh berinteraksi (contohnya mengoperasikan, memegang, memakai) dengan kamera yang sedang aktif. Pengecualian: kompetitor boleh memakai kamera yang dipakai di bagian kepala mereka, selama kamera tidak terlihat oleh kompetitor dan terlihat jelas bahwa kompetitor tidak berinteraksi dengannya (selain memakainya).
 - 2j) WCA Delegate dapat mendiskualifikasi kompetitor dari event tertentu.
     - 2j1) Jika kompetitor didisukualifikasi dari sebuah event karena suatu alasan, dia tidak dapat melakukan attempt selanjutnya pada event yang bersangkutan.
     - 2j2) Jika kompetitor didiskualifikasi selama event berlangsung, hasil-hasil dari attempt-attempt yang dilakukan sebelumnya tetap sah. Pengecualian: kasus kecurangan (Lihat <Regulation 2k2a>).
@@ -102,6 +107,8 @@ Catatan: Karena nomor Pasal dan Regulasi tidak diatur kembali saat ada Regulasi 
     - 2n3) Kompetitor harus menyetujui semua keputusan akhir dari WCA Delegate. Penalti: diskualifikasi dari kompetisi
 - 2s) Kompetitor dengan kekurangan fisik yang dapat mencegah kompetitor untuk mematuhi satu atau lebih Regulasi WCA, dapat meminta fasilitas khusus dari WCA Delegate. Kompetitor yang membutuhkan fasilitas tersebut, sebaiknya menghubungi tim panitia selambat-lambatnya 2 (dua) minggu sebelum kompetisi dilaksanakan.
 - 2t) Setiap kompetitor harus familiar dan mengerti Regulasi WCA sebelum kompetisi dilangsungkan.
+- 2u) Kompetitor harus hadir dan siap untuk berkompetisi saat mereka dipanggil untuk melakukan attempt. Penalti: diskualifikasi dari event.
+	- 2u1) Pengecualian: Kompetitor yang tidak hadir tepat waktu untuk attempt yang terjadwal secara individual (contohnya attempt Fewest Moves, attempt Multiple Blindfolded) boleh dianggap menolak untuk melakukan attempt (DNS), berdasarkan kebijakan WCA Delegate.
 
 
 ## <article-3><puzzles><puzzles> Pasal 3: Puzzle
@@ -111,19 +118,27 @@ Catatan: Karena nomor Pasal dan Regulasi tidak diatur kembali saat ada Regulasi 
     - 3a2) Puzzle harus beroperasi dengan normal, sehingga dapat dilakukan pengacakan dengan normal.
     - 3a3) Puzzles Polihedral harus menggunakan skema warna dengan satu warna unik per sisi dalam keadaan solved. Setiap variasi puzzle harus memiliki gerakan, keadaan, dan solusi yang fungsional identik dengan puzzle aslinya.
 - 3d) Puzzle harus memiliki stiker berwarna, tiles berwarna, atau warna yang dicat/dicetak.
-    - 3d1) Pengecualian: Kompetitor dengan ketidakmampuan visual yang terdokumentasi secara medis dapat menggunakan puzzle bertekstur dengan tekstur berbeda pada sisi yang berbeda. Tekstur/pola harus seragam tiap sisinya. Setiap sisi harus memiliki warna berbeda, untuk membantu dalam scrambling dan judging.
+    - 3d1) Untuk kompetitor dengan kekurangan penglihatan yang telah didokumentasi secara medis, pengecualian berikut berlaku:
+		- 3d1a) Kompetitor tuna netra boleh memakai puzzle bertekstur dengan tekstur yang berbeda pada sisi yang berbeda. Setiap sisi harus memiliki warna yang berbeda, untuk memudahkan scrambling dan judging.
     - 3d2) Warna dari puzzle harus menyatu, dengan satu warna seragam tiap sisi. Setiap warna pada puzzle harus jelas berbeda dari warna lainnya.
-    - 3d3) Stiker/tiles/tekstur/cat tidak boleh lebih tebal dari 1.5 mm, atau ketebalan yang tersedia secara umum untuk puzzle non-cube.
+    - 3d3) Jika bagian berwarna merupakan tile atau stiker, bagian tersebut tidak boleh lebih tebal dari 1.5 mm. Pengecualian: Tile megaminx boleh sedikit lebih tebal dari 1.5mm, berdasarkan kebijakan WCA Delegate.
 - 3h) Modifikasi yang menambah konsep dasar dari puzzle tidak diperbolehkan. Versi modifikasi dari puzzle diperbolehkan hanya jika modifikasi tidak membuat informasi tambahan apapun tersedia bagi kompetitor (contoh: identitas dari piece), dibandingkan dengan versi yang tidak dimodifikasi dari puzzle yang sama.
     - 3h1) Puzzle berbentuk "Pillowed" tidak diperbolehkan. Pengecualian: cube 7x7x7 Pillowed diperbolehkan.
-    - 3h2) Cube yang "tidak berstiker", dan cube lainnya yang sisinya terlihat di dalam cube, tidak diperbolehkan.
+    - 3h2) Puzzle dengan plastik berwarna yang warnanya terlihat di dalam puzzle (contohnya puzzle "tanpa stiker") diperbolehkan. Hal ini tidak termasuk puzzle berikut:
+		- 3h2a) Puzzle dengan bagian transparan. Pengecualian: stiker yang menutupi seluruh permukaan cube (lihat [Regulasi 3l](regulations:regulation:3l)).
     - 3h3) Modifikasi apapun kepada puzzle yang mengakibatkan performa yang buruk dari kompetitor tidak dapat dijadikan alasan untuk attempt tambahan.
+	- 3h4) Untuk Clock, "template" kustom (dengan bentuk dan ukuran yang sama dengan kertas template tradisional) diperbolehkan, berdasarkan kebijakan WCA Delegate. Bagian dalam harus memiliki indikasi angka 12 (dua belas) yang jelas dan sesuai dengan template asli.
 - 3j) Puzzle harus bersih, dan harus tidak memiliki tanda apapun, piece yang ditinggikan, rusak, atau perbedaan lainnya yang membedakan setiap piece dengan piece yang serupa.
-    - 3j1) Puzzle diijinkan untuk dipakai secara wajar, dengan kebijaksanaan dari WCA Delegate.
+    - 3j1) Puzzle diizinkan memiliki bekas pemakaian wajar, dengan kebijakan dari WCA Delegate.
+	- 3j2) Definisi: Dua piece dikatakan sama jika mereka memiliki bentuk dan ukuran yang identik, atau bentuk yang tercermin dan ukuran yang indentik.
+	- 3j3) Bagian bergelombang/bertekstur yang dapat membedakan orientasi piece dari sentuhan tidak diperbolehkan untuk event blindfolded.
 - 3k) Puzzle harus disetujui oleh WCA delegate sebelum dipakai pada kompetisi.
-- 3l) Sebuah puzzle cube boleh memiliki logo, tetapi paling banyak hanya boleh satu logo. Untuk Rubik's Cube atau puzzle cube yang lebih besar, logo harus diletakkan di salah satu center piece.
-    - 3l1) Ukiran tak berwarna (maksimal 1 per sisi) tidak dianggap sebagai logo.
-- 3m) Semua merk dari puzzle dan bagian puzzle diijinkan, selama puzzle tersebut memenuhi semua Regulasi WCA.
+- 3l) Sebuah puzzle cube boleh memiliki logo pada bagian berwarna. Jika ada, paling banyak hanya boleh ada satu bagian berwarna yang memiliki logo.
+    - 3l1) Logo harus ditempatkan pada center piece. Pengecualian untuk puzzle yang tidak memiliki center piece:
+		- 3l1a) Untuk Pyraminx dan 2x2x2, logo boleh ditempatkan pada piece manapun.
+		- 3l1b) Untuk Square-1, logo harus ditempatkan pada equatorial slice.
+	- 3l2) Logo boleh timbul, terukir, atau mengandung stiker yang menutupi seluruh permukaan. Pengecualian: Logo tidak boleh dapat dibedakan dari sentuhan untuk event blindfolded (yaitu tidak boleh ada timbul, ukiran, atau stiker yang menutupi seluruh permukaan).
+- 3m) Semua merk dari puzzle dan bagian puzzle diizinkan, selama puzzle tersebut memenuhi semua Regulasi WCA.
 
 
 ## <article-4><scrambling><scrambling> Pasal 4: Pengacakan
@@ -273,7 +288,7 @@ Catatan: Karena nomor Pasal dan Regulasi tidak diatur kembali saat ada Regulasi 
 - 11d) Jika insiden tidak tercantum atau tercakup oleh Peraturan WCA, maka WCA delegate harus membuat keputusannya secara sportif dan adil.
 - 11e) Jika insiden terjadi saat seorang kompetitor melakukan attempt, WCA delegate dapat memberikan kompetitor tersebut attempt tambahan untuk menggantikan attempt yang dilakukan saat insiden terjadi.
     - 11e1) Jika seorang kompetitor diberikan attempt tambahan, attempt tersebut harus menggunakan rangkaian acakan yang berbeda. Rangkaian acakan tersebut harus digenerate menggunakan versi terakhir dari Official WCA scramble program (lihat <Regulation 4f>).
-- 11f) Keputusan tentang insiden dapat didukung dengan video atau analisis fotografi, tergantung kebijaksanaan WCA delegate.
+- 11f) Keputusan tentang insiden dapat didukung dengan video atau analisis fotografi, tergantung kebijakan WCA delegate.
 
 
 ## <article-12><notasi><notasi> Pasal 12: Notasi
@@ -465,7 +480,7 @@ Catatan: Karena nomor Pasal dan Regulasi tidak diatur kembali saat ada Regulasi 
 
 - H1) Prosedur standar speed solving diterapkan, seperti yang telah dijelaskan di <Article B> (Blindfolded Solving). Regulasi tambahan yang akan membatalkan prosedur-prosedur tertentu di <Article B> akan dijelaskan di bawah ini.
     - H1a) Sebelum sebuah attempt, kompetitor harus memberitahu judge jumlah puzzle yang diinginkan untuk diselesaikan. Jumlah puzzle harus sedikitnya berjumlah 2.
-        - H1a1) kompetitor tidak diijinkan mengganti jumlah puzzle setelah attempt telah dimulai.
+        - H1a1) kompetitor tidak diizinkan mengganti jumlah puzzle setelah attempt telah dimulai.
         - H1a2) Tim organsisasi tidak boleh membeberkan jumlah puzzle yang ingin diselesaikan kompetitor sampai attempt dimulai.
     - H1b) Bila jumlah yang puzzle yang diinginkan untuk diselesaikan berjumlah kurang dari 6, batas waktu untuk attempt tersebut adalah 10 menit dikalikan jumlah puzzle tersebut, selain itu batas waktu adalah 60 menit.
         - H1b1) kompetitor diperbolehkan untuk menghentikan attempt kapan saja. Bila batas waktu telah usai, judge akan menghentikan attempt dan attemptnya akan dinilai; batas waktu dari attempt tersebut akan dicatat sebagai waktu untuk attempt tersebut.
