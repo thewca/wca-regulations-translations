@@ -116,7 +116,7 @@ Agar lebih informatif, tiap Pedoman digolongkan menggunakan salah satu dari labe
 - 8a7+) [TAMBAHAN] Panitia sangat harus memikirkan agar Stackmat timer lebih tahan terhadap insiden yang umum, seperti membuat tombol lebih sulit ditekan secara tidak sengaja (contohnya dengan menempelkan O-ring di sekitar tombol) dan mengamankan baterai lebih rapat (contohnya dengan melapisi ruang baterai).
 
 
-## <article-9><events><events> Pasal 9: Events
+## <article-9><events><events> Pasal 9: Event
 
 - 9b+) [TAMBAHAN] Format yang lebih didahulukan untuk sebuah event adalah "Average of 5" atau "Mean of 3", jika memungkinkan.
 - 9b++) [TAMBAHAN] Event selain yang disebutkan pada <Regulation 9b> dapat dilakukan selama kompetisi berlangsung, tetapi dianggap tidak resmi dan tidak diikutsertakan dalam hasil resmi kompetisi.
