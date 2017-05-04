@@ -41,7 +41,7 @@ Agar lebih informatif, tiap Pedoman digolongkan menggunakan salah satu dari labe
 - 1c10+) [KLARIFIKASI] Memastikan akses ke salinan digital Regulasi itu cukup.
 - 1h+) [REKOMENDASI] Kompetitor dalam grup yang sama sebaiknya menggunakan rangkaian acakan yang sama. Grup yang berbeda sebaiknya menggunakan rangkaian acakan yang berbeda.
 - 1h++) [REKOMENDASI] Semua attempt pada round final dari setiap event, termasuk semua attempt Fewest Moves Solving, sebaiknya punya acakan yang sama untuk tiap kompetitor (dengan kata lain hanya 1 grup).
-- 1h1+) [KLARIFIKASI] Scrambler/judge sebaiknya hanya mengacak untuk/mewasiti kompetitor lain dalam grup yang sama hanya jika hal itu penting untuk kepentingan logistik kompetisi.
+- 1h1+) [KLARIFIKASI] Pengacak/judge sebaiknya hanya mengacak untuk/mewasiti kompetitor lain dalam grup yang sama hanya jika hal itu penting untuk kepentingan logistik kompetisi.
 - 1h1++) [KLARIFIKASI] Untuk Fewest Moves Solving, judge boleh mewasiti kompetitor dalam grup yang judge ikuti sebelum judge telah menyelesaikan attempt (yaitu saat mereka sedang melakukan attempt).
 
 
