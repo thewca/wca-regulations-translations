@@ -91,7 +91,7 @@ Catatan: Karena nomor Pasal dan Regulasi tidak diatur kembali saat ada Regulasi 
 		- 2i2b) Kompetitor tidak boleh berinteraksi (contohnya mengoperasikan, memegang, memakai) dengan kamera yang sedang aktif. Pengecualian: kompetitor boleh memakai kamera yang dipakai di bagian kepala mereka, selama kamera tidak terlihat oleh kompetitor dan terlihat jelas bahwa kompetitor tidak berinteraksi dengannya (selain memakainya).
 - 2j) WCA Delegate dapat mendiskualifikasi kompetitor dari event tertentu.
     - 2j1) Jika kompetitor didisukualifikasi dari sebuah event karena suatu alasan, dia tidak dapat melakukan attempt selanjutnya pada event yang bersangkutan.
-    - 2j2) Jika kompetitor didiskualifikasi selama event berlangsung, hasil-hasil dari attempt-attempt yang dilakukan sebelumnya tetap sah. Pengecualian: kasus kecurangan (Lihat <Regulation 2k2a>).
+    - 2j2) Jika kompetitor didiskualifikasi selama event berlangsung, hasil-hasil dari attempt-attempt yang dilakukan sebelumnya tetap sah. Pengecualian: kasus kecurangan ([Regulasi 2k2a](regulations:regulation:2k2a)).
 - 2k) WCA Delegate dapat mendiskualifikasi kompetitor dari kompetisi (yaitu dari semua event di kompetisi yang bersangkutan) jika kompetitor:
     - 2k1) Tidak melakukan registrasi tepat waktu pada saat kompetisi.
     - 2k2) Dicurigai melakukan kecurangan panitia selama kompetisi berlangsung.
@@ -272,7 +272,7 @@ Catatan: Karena nomor Pasal dan Regulasi tidak diatur kembali saat ada Regulasi 
 - 10c) Puzzle dapat berada di orientasi apapun di akhir attempt.
 - 10d) Semua pieces dari puzzle harus terpasang dengan benar di puzzle. Pengecualian: lihat [Regulasi 5b5](regulations:regulation:5b5).
 - 10e) Puzzle terselesaikan apabila semua sisi berwarna tersusun kembali dan semua bagian puzzle terletak dengan batas-batas berikut ini:
-    - 10e1) Untuk setiap bagian bersebelahan (misal 2 (dua) paralel, potongan bersebelahan dari puzzle) terletak tidak sesuai melebihi batas yang dijelaskan di <Regulation 10f>, Puzzle dianggap memerlukan gerakan tambahan untuk diselesaikan (lihat "Outer Block Turn Metric" di <Article 12>).
+    - 10e1) Untuk setiap bagian bersebelahan (misal 2 (dua) paralel, potongan bersebelahan dari puzzle) terletak tidak sesuai melebihi batas yang dijelaskan di [Regulasi 10f](regulations:regulation:10f), Puzzle dianggap memerlukan gerakan tambahan untuk diselesaikan (lihat "Outer Block Turn Metric" di [Pasal 12](regulations:article:12)).
     - 10e2) Jika tidak ada gerakan lebih yang diperlukan untuk menyelesaikan puzzle, puzzle dianggap selesai tanpa penalti.
     - 10e3) Jika 1 (satu) gerakan dibutuhkan untuk menyelesaikan puzzle, maka puzzle dianggap terselesaikan dengan penalti waktu (+2 detik).
     - 10e4) Jika lebih dari 1 (satu) gerakan dibutuhkan untuk menyelesaikan puzzle, maka puzzle dianggap tidak terselesaikan (DNF/Did Not Finished).
@@ -349,8 +349,8 @@ Catatan: Karena nomor Pasal dan Regulasi tidak diatur kembali saat ada Regulasi 
         - A1a1)Batas waktu default untuk tiap attempt adalah 10 menit, akan tetapi tim organisasi diperbolehkan untuk mengumumkan limit yang lebih lambat atau lebih cepat.
         - A1a2) Batas waktu kumulatif boleh diterapkan (misal, 3 attempt dengan batas waktu kumulatif 20 menit). Waktu yang terpakai di attempt yang DNF (Did Not Finished) akan tetap terhitung dalam batas waktu kumulatif tersebut.
         - A1a3) untuk setiap round, batas waktu harus diumumkan sebelum round dimulai, dan sebaiknya tidak diganti setelah round tersebut dimulai. Penggantian harus dibuat atas persetujuan WCA Delegate, yang harus memikirkan secara seksama keadilan dalam penggantian tersebut.
-        - A1a4) Kompetitor harus menyelesaikan seiap attempt dalam batas waktu yang telah diterapkan. Jika seorang kompetitor melebehi batas waktu untuk sebuah attempt/round, judge menghentikan attempt tersebut segera dan hasil attempt tersebut adalah DNF. Pengecualian: Multiple Blindfolded Solving (lihat <Regulation H1b1>).
-        - A1a5) Attempt dianggap akan dianggap memenuhi batas waktu jika dan hanya jika hasil akhir, setelah semua penalti waktu telah dihitung, belum menyentuh batas waktu tersebut. Pengecualian: Multiple Blindfolded Solving (lihat <Regulation H1b1).
+        - A1a4) Kompetitor harus menyelesaikan seiap attempt dalam batas waktu yang telah diterapkan. Jika seorang kompetitor melebehi batas waktu untuk sebuah attempt/round, judge menghentikan attempt tersebut segera dan hasil attempt tersebut adalah DNF. Pengecualian: Multiple Blindfolded Solving (lihat [Regulasi H1b1](regulations:regulation:H1b1)).
+        - A1a5) Attempt dianggap akan dianggap memenuhi batas waktu jika dan hanya jika hasil akhir, setelah semua penalti waktu telah dihitung, belum menyentuh batas waktu tersebut. Pengecualian: Multiple Blindfolded Solving (lihat [Regulasi H1b1](regulations:regulation:H1b1)).
     - A1b) Jika batas waktu untuk sebuah attempt lebih dari 10 menit, stopwatch harus digunakan untuk penghitungan waktu.
         - A1b1) Penggunaan berbarengan dengan Stackmat Timer diperbolehkan.
         - A1b2) Jika Stackmat Timer menunjukan sebuah waktu, maka waktu tersebut yang dicatat. Jika tidak ada waktu yang tertulis di Stackmat Timer, maka hasil dari stopwatch yang akan dicatat.
@@ -373,7 +373,7 @@ Catatan: Karena nomor Pasal dan Regulasi tidak diatur kembali saat ada Regulasi 
         - A3b2) Jika kompetitor telah siap, judge membuka cover dari puzzle. Jika attempt tersebut membutuhkan stopwatch, judge menyalakannya pada saat itu juga.
     - A3c) Kompetitor diperbolehkan mengangkat puzzle ketika inspeksi.
         - A3c1) Kompetitor dilarang melakukan gerakan apapun pada puzzle ketika inspeksi. Penalti: diskualifikasi attempt tersebut (DNF/Did Not Finished)
-        - A3c2) Jika ada bagian puzzle yang tidak terposisi dengan rapi, kompetitor diperbolehkan memperbaikinya, asalkan misposisi tersebut masih dibawah batas <Regulation 10f>
+        - A3c2) Jika ada bagian puzzle yang tidak terposisi dengan rapi, kompetitor diperbolehkan memperbaikinya, asalkan misposisi tersebut masih dibawah batas [Regulasi 10f](regulations:regulation:10f).
         - A3c3) Kompetitor diperbolehkan me-reset timer sebelum memulai solve.
 		- A3c4) Untuk Square-1, jika penggunaan objek tipis di dalam puzzle diterapkan oleh tim panitia (lihat [Regulasi A2b1](regulations:regulation:A2b1), kompetitor boleh melepas objek tersebut dari puzzle pada saat inspeksi.
     - A3d) Selesai inspeksi, kompetitor memposisikan puzzlenya di atas mat, dalam posisi dan orientasi apapun. Penalti jika puzzle diletakkan di luar mat: penalti waktu (+2 detik).
@@ -420,7 +420,7 @@ Catatan: Karena nomor Pasal dan Regulasi tidak diatur kembali saat ada Regulasi 
 
 ## <article-B><blindfolded><blindfoldedsolving> Pasal B: Blindfolded Solving
 
-- B1) Prosedur standar speed solving diterapkan, seperti yang telah dijelaskan di <Article A> (Speed Solving). Regulasi tambahan yang kana membatalkan prosedur tertentu di <Pasal A> akan dijelaskan di bawah ini.
+- B1) Prosedur standar speed solving diterapkan, seperti yang telah dijelaskan di [Pasal A (Speed Solving)](regulations:article:A). Regulasi tambahan yang akan membatalkan prosedur tertentu di [Pasal A](regulations:article:A) akan dijelaskan di bawah ini.
     - B1a) Tidak ada waktu inspeksi.
     - B1b) Kompetitor menyediakan blindfold-nya sendiri.
 - B2) Memulai attempt:
@@ -476,7 +476,7 @@ Catatan: Karena nomor Pasal dan Regulasi tidak diatur kembali saat ada Regulasi 
     - E2a) Judge membagikan rangkaian acakan kepada semua kompetitor. Judge kemudian menjalankan stopwatch dan meneriakan "GO".
     - E2b) Semua kompetitor diberi batas waktu 60 menit itu menuliskan sebuah solusi.
         - E2b1) Judge sebaiknya meneriakan "5 MENIT TERSISA" pada saat 55 menit, dan harus meneriakan "STOP" pada saat 60 menit.
-    - E2c) Pada saat 60 menit, setiap kompetitor harus memberikan judge sebuah solusi yang tertulis dengan baik, dilengkapi dengan nama kompetitor, menggunakan notasi yang didefinisikan di Outer Block Turn Metric (dijelaskan di <Regulation 12a>) Penalti: diskualifikasi attempt tersebut (DNF/Did Not Finished/Did Not Finished).
+    - E2c) Pada saat 60 menit, setiap kompetitor harus memberikan judge sebuah solusi yang tertulis dengan baik, dilengkapi dengan nama kompetitor, menggunakan notasi yang didefinisikan di Outer Block Turn Metric (dijelaskan di [Regulasi 12a](regulations:regulation:12a)) Penalti: diskualifikasi attempt tersebut (DNF/Did Not Finished/Did Not Finished).
     - E2d) Panjang dari sebuah solusi dihitung dalam Outer Block Turn Metric (lihat [Regulasi 12a](regulations:regulation:12a)).
         - E2d1) kompetitor diperbolehkan solusi maximum sepanjang 80 (moves dan rotations)
     - E2e) Solusi kompetitor tidak boleh secara langsung berasal dari bagian manapun dari algoritma acakan. Penalti: diskualifikasi attempt tersebut (DNF/Did Not Finished/Did Not Finished).
@@ -498,7 +498,7 @@ Catatan: Karena nomor Pasal dan Regulasi tidak diatur kembali saat ada Regulasi 
 
 ## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Pasal H: Multiple Blindfolded Solving
 
-- H1) Prosedur standar speed solving diterapkan, seperti yang telah dijelaskan di [Pasal B (Blindfolded Solving)](regulations:article:B). Regulasi tambahan yang akan membatalkan prosedur-prosedur tertentu di <Article B> akan dijelaskan di bawah ini.
+- H1) Prosedur standar speed solving diterapkan, seperti yang telah dijelaskan di [Pasal B (Blindfolded Solving)](regulations:article:B). Regulasi tambahan yang akan membatalkan prosedur-prosedur tertentu di [Pasal B](regulations:article:B) akan dijelaskan di bawah ini.
     - H1a) Sebelum sebuah attempt, kompetitor harus memberitahu judge jumlah puzzle yang diinginkan untuk diselesaikan. Jumlah puzzle harus sedikitnya berjumlah 2.
         - H1a1) Kompetitor tidak diizinkan mengganti jumlah puzzle setelah attempt telah dimulai.
         - H1a2) Tim organsisasi tidak boleh membeberkan jumlah puzzle yang ingin diselesaikan kompetitor sampai attempt dimulai.
