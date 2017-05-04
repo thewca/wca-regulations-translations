@@ -9,7 +9,7 @@ Revisi tekstual terakhir: 12 Desember 2016
 
 ### Regulasi WCA
 
-Pedoman WCA melengkapi [Regulasi WCA](regulations). Lihat Regulasi untuk informasi lebih lengkap tentang WCA.
+Pedoman WCA melengkapi [Regulasi WCA](regulations:top). Lihat Regulasi untuk informasi lebih lengkap tentang WCA.
 
 ### Penomoran
 
