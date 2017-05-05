@@ -70,7 +70,7 @@ Agar lebih informatif, tiap Pedoman digolongkan menggunakan salah satu dari labe
 - 3j+) [PERINGATAN] Sebelumnya, part ukiran/timbul diperbolehkan. Sekarang tidak lagi diperbolehkan.
 - 3j++) [KLARIFIKASI] Pada Clock, pin tidak boleh dibedakan dari pin lain pada sisi yang sama.
 - 3j2+) [KLARIFIKASI] Pada Clock, semua (delapan belas) jarum jam dianggap piece yang sama.
-- 3l+) [TAMBAHAN] Logo boleh bercirikan desain apapun yang masuk akal yang tidak memerikan keuntungan yang mencolok (contohnya encoding informasi yang dapat digunakan untuk berbuat curang), dan part berwarna di luar logo terlihat jelas. Logo inkonvensional hanya diperbolehkan atas kebijakan WCA Delegate.
+- 3l+) [TAMBAHAN] Logo boleh bercirikan desain apapun yang masuk akal yang tidak memberikan keuntungan yang mencolok (contohnya encoding informasi yang dapat digunakan untuk berbuat curang), dan part berwarna di luar logo terlihat jelas. Logo inkonvensional hanya diperbolehkan atas kebijakan WCA Delegate.
 
 
 ## <article-4><scrambling><scrambling> Pasal 4: Pengacakan
@@ -119,7 +119,7 @@ Agar lebih informatif, tiap Pedoman digolongkan menggunakan salah satu dari labe
 ## <article-9><events><events> Pasal 9: Event
 
 - 9b+) [TAMBAHAN] Format yang lebih didahulukan untuk sebuah event adalah "Average of 5" atau "Mean of 3", jika memungkinkan.
-- 9b++) [TAMBAHAN] Event selain yang disebutkan pada <Regulation 9b> dapat dilakukan selama kompetisi berlangsung, tetapi dianggap tidak resmi dan tidak diikutsertakan dalam hasil resmi kompetisi.
+- 9b++) [TAMBAHAN] Event selain yang disebutkan pada [Regulasi 9b](regulations:regulation:9b) dapat dilakukan selama kompetisi berlangsung, tetapi dianggap tidak resmi dan tidak diikutsertakan dalam hasil resmi kompetisi.
 - 9b3b+) [KLARIFIKASI] Statistik "Mean of 3" tidak mempengaruhi ranking kompetitor dalam ronde "Best of 3" (yang mana berdasarkan hasil terbaik). WCA dapat mengenalinya di luar format kompetisi.
 - 9f1+) [CONTOH] Jika timer menunjukkan 12.678 pada sebuah attempt, waktu original yang dicatat adalah 12.67 (digit setelah dua angka di belakang koma dihilangkan). Judge boleh saja menulis waktu yang sangat presisi pada score sheet (dan juga setelah dijumlahkan dengan penalti), selama pengambil skor memotongnya untuk hasil resmi.
 - 9f4+) [PENJELASAN] Hasil dari attempt adalah DNF hanya jika kompetitor memulai attempt dengan mengindikasikan bahwa kompetitor siap (lihat [Regulasi A3b2](regulations:regulation:A3b2)) namun attemptnya didiskualifikasi.
@@ -151,7 +151,7 @@ Agar lebih informatif, tiap Pedoman digolongkan menggunakan salah satu dari labe
 - A1a2++) [KLARIFIKASI] Batas waktu kumulatif bisa saja dilaksanakan untuk sebuah event atau kombinasi dari beberapa event.
 - A1a2+++) [KLARIFIKASI] Dalam kasus batas waktu kumulatif, hasil dari tiap attempt yang tersisa pada ronde tersebut dianggap DNS (Did Not Start) setelah kompetitor melebihi batas waktu.
 - A1a3+) [PERINGATAN] Tim organisasi dan WCA Delegate harus sadar bahwa batas waktu bisa mengubah strategi beberapa kompetitor (misalnya buru-buru menyelesaikan 2 attempt pertama dengan harapan dapat melewati cut-off dalam combined round), dan mengganti batas waktu setelah dimulainya sebuah round dapat memberikan ketidakadilan bagi beberapa kompetitor.
-- A1a4+) [PERINGATAN] Jika ada kompetitor yang tidak sengaja diberikan kesempatan untuk melewati batas waktu, batas waktu harus diterapkan secara retroaktif, dan judge, kompetitor serta WCA Delegate sebaiknya diberitahukan (lihat <Regulation 1g2>). Judge harus selalu memperhatikan time limit untuk attempt yang sedang berlangsung (yang mungkin saja bergantung dengan attempt sebelumnya, dalam kasus batas waktu kumulatif).
+- A1a4+) [PERINGATAN] Jika ada kompetitor yang tidak sengaja diberikan kesempatan untuk melewati batas waktu, batas waktu harus diterapkan secara retroaktif, dan judge, kompetitor serta WCA Delegate sebaiknya diberitahukan (lihat [Regulasi 1g2](regulations:regulation:1g2)). Judge harus selalu memperhatikan time limit untuk attempt yang sedang berlangsung (yang mungkin saja bergantung dengan attempt sebelumnya, dalam kasus batas waktu kumulatif).
 - A1c+) [KLARIFIKASI] WCA Delegate hanya boleh menggunakan kebijakan untuk mencegah kompetitor dari kerugian berat dalam kompetisi (contohnya membuang waktu dan/atau kebutuhan kompetisi). Kompetitor tidak boleh didiskualifikasi dari hasil yang "buruk" saat mereka berkompetisi dengan mengerahakan kemampuan yang terbaik.
 - A2c1+) [PERINGATAN] Sebelumnya, score sheet sering digunakan untuk menjadi cover sehingga beberapa sisi dari puzzle terlihat. Hal ini sudah tidak diperbolehkan.
 - A3c3+) [KLARIFIKASI] Walau judge diminta untuk me-reset timer untuk kompetitor (lihat [Regulasi A3b](regulations:regulation:A3b)), kompetitor boleh me-reset-nya sebelum atau pada saat fase inspeksi jika judge tidak sengaja lupa untuk melakukannya.
