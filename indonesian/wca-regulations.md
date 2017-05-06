@@ -228,6 +228,7 @@ Catatan: Karena nomor Pasal dan Regulasi tidak diatur kembali saat ada Regulasi 
         - 9b2a) Format kompetisi untuk event-event tersebut adalah: "Best of X" (dengan X adalah 1, 2, atau 3) dan "Mean of 3".
     - 9b3) Rubik's Cube: Blindfolded, Kubus 4x4x4: Blindfolded, Kubus 5x5x5: Blindfolded, dan Rubik's Cube: Multiple Blindfolded.
         - 9b3a) Format kompetisi untuk event-event tersebut adalah: "Best of X" (dengan X adalah 1, 2, atau 3).
+		- 9b3b) Untuk Rubik's Cube: Blindfolded, WCA juga mengenal ranking dan rekor "Mean of 3" berdasarkan waktu terbaik dari ronde "Best of 3".
 - 9f) Hasil dari round diukur sebagai berikut:
     - 9f1) Semua hasil waktu di bawah 10 menit dihitung dan dibulatkan ke seperseratus detik terdekat. Semua hasil waktu average dan mean dibawah 10 menit diukur dan dibulatkan ke seperseratus detik terdekat.
     - 9f2) Semua hasil waktu di atas 10 menit dihitung dan dibulatkan ke detik terdekat (mis. x.4 menjadi x, x.5 menjadi x+1).
