@@ -367,7 +367,7 @@ Catatan: Karena nomor Pasal dan Regulasi tidak diatur kembali saat ada Regulasi 
     - A2d) Ketika mengambil sebuah puzzle dari pengacak, judge melihat sekilas puzzle yang telah teracak tersebut untuk memastikan puzzle telah teracak. Jika judge merasa puzzle belum teracak betul, pengacak melakukan pengecekan setelah mendetail.
 		- A2d1) Tim panitia boleh saja membutuhkan pengacak untuk melakukan pengukuran tambahan untuk meyakinkan bahwa rangkaian acakan yang diberikan sudah benar (contohnya menandatangani score sheet untuk menyetujui bahwa pengacak telah memberikan acakan terkait dengan benar dan mengecek bahwa acakan sesuai dengan gambar, atau menggunakan pihak tambahan sebagai "pengecek acakan").
     - A2e) Judge memposisikan puzzle di atas mat dalam posisi acak dan memastikan puzzle tertutup sempurna.
-		- A2e1) Kompetitor tidak diperbolehkan untuk meminta orientasi spesifik, dan judge tidak boleh mengubah orientasi karpet (mat) untuk menaruh puzzle berdasarkan apa yang mereka tahu atau perkirakan keadaan puzzle yang seharusnya.
+		- A2e1) Kompetitor tidak diperbolehkan untuk meminta orientasi spesifik, dan judge tidak boleh mempengaruhi orientasi puzzle berdasarkan apa yang mereka tahu atau perkirakan.
 - A3) Inspeksi:
     - A3a) Kompetitor diperbolehkan menginspeksi puzzle di awal attempt.
         - A3a1) Kompetitor diberikan waktu maksimal 15 detik untuk menginspeksi dan memulai solve.
