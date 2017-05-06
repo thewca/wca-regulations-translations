@@ -2,7 +2,7 @@
 
 <version>Versi: 18 April 2016
 
-Diterjemahkan oleh: Ardianto Satriawan, Cendy Cahyo Rahmat, Jonathan Irvin Gunawan, Muhammad Jihan Khalilurrahman, Nathan Azaria, Stephen Adhisaputra, Vincent Hartanto Utomo, Yohanes Theda, dan Hafizh Dary Faridhan Hudoyo.
+Diterjemahkan oleh: Ardianto Satriawan, Cendy Cahyo Rahmat, Hafizh Dary Faridhan Hudoyo, Jonathan Irvin Gunawan, Muhammad Jihan Khalilurrahman, Nathan Azaria, Stephen Adhisaputra, Vincent Hartanto Utomo, dan Yohanes Theda.
 Perhatikan bahwa terjemahan ini bukanlah versi resmi (walaupun tersedia di website WCA): terjemahan ini hanya bersifat membantu saja. Jika ada perbedaan antara terjemahan dan versi resmi (yang sedang berlaku) dalam bahasa Inggris, regulasi dalam berbahasa Inggrislah yang harus digunakan.
 
 ## Catatan
