@@ -11,20 +11,20 @@ Revisi tekstual terakhir: 12 Desember 2016
 
 ### Regulasi dan Pedoman WCA
 
-Regulasi WCA berisi Regulasi lengkap yang berlaku dalam semua kompetisi yang disetujui oleh World Kubus Association.
+Regulasi WCA berisi Regulasi lengkap yang berlaku dalam semua kompetisi yang disetujui oleh World Cube Association.
 Regulasi WCA juga dilengkapi oleh [Pedoman WCA](guidelines:top). Regulasi WCA sebaiknya dipertimbangkan sebagai dokumen lengkap, sedangkan Pedoman WCA berisi klarifikasi dan penjelasan tambahan.
 
 
 ### Informasi di Internet
-Website dari World Kubus Association: [www.worldkubusassociation.org](http://www.worldkubusassociation.org/)
-Sumber asli dari Regulasi WCA: [www.worldkubusassociation.org/regulations](http://www.worldkubusassociation.org/regulations/)
+Website dari World Cube Association: [www.worldcubeassociation.org](http://www.worldcubeassociation.org/)
+Sumber asli dari Regulasi WCA: [www.worldcubeassociation.org/regulations](http://www.worldcubeassociation.org/regulations/)
 Regulasi WCA dalam [Format PDF](link:pdf)
 
 ### Sumber
 Perkembangan Regulasi WCA dan Pedoman WCA terbuka secara umum [di GitHub](https://github.com/thewca/wca-documents).
 
 ### Kontak
-Untuk pertanyaan dan saran, hubungi [WCA Regulations Committee (WRC)](http://www.worldkubusassociation.org/contact-information).
+Untuk pertanyaan dan saran, hubungi [WCA Regulations Committee (WRC)](http://www.worldcubeassociation.org/contact-information).
 
 ## <contents> [Konten](regulations:contents)
 
@@ -162,7 +162,7 @@ Catatan: Karena nomor Pasal dan Regulasi tidak diatur kembali saat ada Regulasi 
     - 4d3) Square-1 diacak dengan orientasi sisi dengan warna yang lebih gelap di depan (dari 2 posisi acakan yang mungkin).
 	- 4d4) Clock diacak dimulai dari sisi manapun dan angka 12 (dua belas) menunjuk ke atas.
 	- 4d5) Skewb diacak dengan orientasi sisi putih (jika tidak memungkinkan, sisi dengan warna paling cerah) di atas dan sisi hijau (jika tidak memungkinkan, sisi bersebelahan dengan warna paling gelap) di kiri depan.
-- 4f) Rangkaian acakan kompetisi harus digenerate menggunakan versi terakhir dari Official WCA acakan program (tersedia [di website WCA](https://www.worldkubusassociation.org/regulations/scrambles/)).
+- 4f) Rangkaian acakan kompetisi harus digenerate menggunakan versi terakhir dari Official WCA acakan program (tersedia [di website WCA](https://www.worldcubeassociation.org/regulations/scrambles/)).
 - 4g) Setelah mengacak puzzle, pengacak harus memastikan bahwa puzzle telah teracak dengan benar. Apabila puzzle dalam keadaan tidak benar teracak, pengacak harus menyelesaikan puzzle ke dalam keadaan solved dan menerapkan acakan yang harus diterapkan.
     - 4g1) Pengecualian: untuk kubus 6x6x6, 7x7x7, dan Megaminx, pengulangan pengacakan tidak perlu dilakukan, dengan keputusan WCA Delegate.
 
