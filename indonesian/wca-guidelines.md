@@ -47,7 +47,7 @@ Agar lebih informatif, tiap Pedoman digolongkan menggunakan salah satu dari labe
 
 ## <article-2><competitors><competitors> Pasal 2 : Kompetitor
 
-- 2c+) [TAMBAHAN] Kompetitor yang baru pertama kali ikut sebaiknya mendaftar menggunakan nama aslinya. Mereka boleh mendaftar menggunakan nama panggilan yang masuk akal, berdasarkan kebijakan WCA Delegate.
+- 2c+) [TAMBAHAN] Kompetitor yang baru pertama kali ikut sebaiknya mendaftar menggunakan nama aslinya. Mereka boleh mendaftar menggunakan nama panggilan yang masuk akal, berdasarkan keputusan WCA Delegate.
 - 2c++) [TAMBAHAN] Kompetitor tidak boleh memberikan informasi yang salah dengan sengaja, dan kompetitor yang sudah pernah ikut sebaiknya memberikan informasi konsisten dengan informasi sebelumnya (contohnya nama dan WCA ID).
 - 2d+) [TAMBAHAN] Tanggal lahir dan informasi kontak sebaiknya dirahasiakan.
 - 2d++) [REKOMENDASI] Jika pihak ketiga (contohnya wartawan) menanyakan panitia untuk menghubungi kompetitor, kompetitor tersebut sebaiknya ditanyakan untuk persetujuan.
@@ -58,19 +58,19 @@ Agar lebih informatif, tiap Pedoman digolongkan menggunakan salah satu dari labe
 
 ## <article-3><puzzles><puzzles> Pasal 3: Puzzle
 
-- 3a+) [KLARIFIKASI] Kompetitor boleh menggunakan puzzle dengan ukuran apapun yang masuk akal, berdasarkan kebijakan WCA Delegate.
-- 3a++) [TAMBAHAN] Secara default, seorang kompetitor sebaiknya menggunakan puzzle yang sama untuk attempt yang berurutan dalam sebuah round speedsolving. Seorang kompetitor boleh mengganti puzzle diantara attempt, berdasarkan kebijakan judge atau WCA Delegate.
+- 3a+) [KLARIFIKASI] Kompetitor boleh menggunakan puzzle dengan ukuran apapun yang masuk akal, berdasarkan keputusan WCA Delegate.
+- 3a++) [TAMBAHAN] Secara default, seorang kompetitor sebaiknya menggunakan puzzle yang sama untuk attempt yang berurutan dalam sebuah round speedsolving. Seorang kompetitor boleh mengganti puzzle diantara attempt, berdasarkan keputusan judge atau WCA Delegate.
 - 3a+++) [KLARIFIKASI] Kompetitor boleh meminjam puzzle dari kompetitor lain secara pribadi, untuk digunakan dalam kompetisi.
 - 3a1+) [KLARIFIKASI] Kompetitor dapat didiskualifikasi jika mereka tidak datang ketika dipanggil, atau jika mereka tidak mempunyai puzzle yang siap untuk dikumpulkan (contohnya jika mereka berencana menggunakan puzzle yang sedang digunakan kompetitor lain, sehingga mereka tidak bisa mengumpulkan puzzle pada saat itu).
 - 3d1b+) [KLARIFIKASI] Pola tidak harus ada pada setiap sisi, tetapi hanya ada pada sisi di mana warna yang berbeda tidak dapat ditemukan. Piece tidak boleh memiliki ciri apapun (contohnya tekstur, pola yang tidak teratur) yang secara signifikan membedakannya dengan piece yang sama.
 - 3h+) [KLARIFIKASI] Bagian dalam puzzle dapat disempurnakan dengan mengamplas atau melubrikasi.
 - 3h++) [CONTOH] Contoh peningkatan termasuk: gerakan baru menjadi mungkin, gerakan normal tidak memungkinkan, lebih banyak piece atau muka yang terlihat, warna di sisi belakang puzzle terlihat, gerakan dapat dilakukan otomatis, atau puzzle memiliki keadaan terselesaikan yang berbeda/lebih banyak.
 - 3h2+) [KLARIFIKASI] Sebelumnya, puzzle "tanpa stiker" tidak diperbolehkan. Sekarang, puzzle sejenis diperbolehkan.
-- 3h2++) [KLARIFIKASI] Puzzle "tanpa stiker" yang secara signifikan berbeda dengan mayoritas puzzle "tanpa stiker" yang diproduksi massal hanya diperbolehkan atas kebijakan dari WCA Delegate.
+- 3h2++) [KLARIFIKASI] Puzzle "tanpa stiker" yang secara signifikan berbeda dengan mayoritas puzzle "tanpa stiker" yang diproduksi massal hanya diperbolehkan atas keputusan dari WCA Delegate.
 - 3j+) [PERINGATAN] Sebelumnya, part ukiran/timbul diperbolehkan. Sekarang tidak lagi diperbolehkan.
 - 3j++) [KLARIFIKASI] Pada Clock, pin tidak boleh dibedakan dari pin lain pada sisi yang sama.
 - 3j2+) [KLARIFIKASI] Pada Clock, semua (delapan belas) jarum jam dianggap piece yang sama.
-- 3l+) [TAMBAHAN] Logo boleh bercirikan desain apapun yang masuk akal yang tidak memberikan keuntungan yang mencolok (contohnya encoding informasi yang dapat digunakan untuk berbuat curang), dan part berwarna di luar logo terlihat jelas. Logo inkonvensional hanya diperbolehkan atas kebijakan WCA Delegate.
+- 3l+) [TAMBAHAN] Logo boleh bercirikan desain apapun yang masuk akal yang tidak memberikan keuntungan yang mencolok (contohnya encoding informasi yang dapat digunakan untuk berbuat curang), dan part berwarna di luar logo terlihat jelas. Logo inkonvensional hanya diperbolehkan atas keputusan WCA Delegate.
 
 
 ## <article-4><scrambling><scrambling> Pasal 4: Pengacakan
@@ -161,7 +161,7 @@ Agar lebih informatif, tiap Pedoman digolongkan menggunakan salah satu dari labe
 - A6b+) [PENJELASAN] Angka asal 0.06 dipilih untuk mengakomodir masalah-masalah yang terjadi akibat malfungsinya Stackmat Timer.
 - A6f+) [KLARIFIKASI] Jika kompetitor me-reset timer sebelum hasil dicatat, judge tidak boleh menuliskan hasil berdasarkan ingatan atau dari bukti video atau fotografi, dan attempt tersebut harus didiskualifikasi (DNF).
 - A6g+) [TAMBAHAN] Ketika sedang menentukan perlunya memberikan penalti untuk putaran yang kurang, judge sebaiknya jangan menyentuh puzzle.
-- A7c+) [TAMBAHAN] Jika hasil yang telah ditandatangani oleh kompetitor tidak lengkap atau tidak terbaca, hasil tersebut harus ditafsirkan sebagai hasil terburuk (contohnya "1:05" dianggap 1:05.99, "25.X3" dianggap 25.73 jika X mirip angka 1 atau 7). Pada Stackmat timer, waktu X:0Y.ss ditampilkan sebagai X:Y.ss, hal tersebut lebih dianggap angka puluhan yang hilang dibandingkan angka satuan yang hilang (contohnya "1:2.27" dianggap 1:02.27). Judge yang menandatangani hasil yang ambigu bisa saja diminta untuk menjelaskannya, berdasarkan kebijakan pengambil skor.
+- A7c+) [TAMBAHAN] Jika hasil yang telah ditandatangani oleh kompetitor tidak lengkap atau tidak terbaca, hasil tersebut harus ditafsirkan sebagai hasil terburuk (contohnya "1:05" dianggap 1:05.99, "25.X3" dianggap 25.73 jika X mirip angka 1 atau 7). Pada Stackmat timer, waktu X:0Y.ss ditampilkan sebagai X:Y.ss, hal tersebut lebih dianggap angka puluhan yang hilang dibandingkan angka satuan yang hilang (contohnya "1:2.27" dianggap 1:02.27). Judge yang menandatangani hasil yang ambigu bisa saja diminta untuk menjelaskannya, berdasarkan keputusan pengambil skor.
 - A7g+) [CONTOH] Contoh insiden yang dapat menyebabkan kompetitor diberikan attempt tambahan: tidak menunggu lampu hijau menyala, tidak memulai atau memberhentikan waktu dengan tidak benar, melebihi waktu inspeksi karena ketidakpahaman bagaimana cara memulai attempt, atau prosedur penalti waktu lainnya.
 - A7g++) [KLARIFIKASI] Penalti individu tidak boleh dibebaskan dari kompetitor baru. Attempt tambahan utuh harus diberikan.
 - A7g+++) [REKOMENDASI] WCA Delegate harus menggunakan kebijakan yang lebih kuat saat memberikan lebih dari satu attempt tambahan kepada kompetitor baru yang sama. Jika lebih dari satu attempt tambahan diberikan, attempt tersebut harus disebabkan oleh insiden yang berbeda.
