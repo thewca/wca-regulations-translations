@@ -14,7 +14,7 @@ If you'd like to (re)-translate the Regulations, please use the following proces
     - If you're updating an existing translation, you can instead download the current translations [here](https://github.com/thewca/wca-regulations-translations/archive/master.zip/).
 - Translate `wca-guidelines.md` and `wca-regulations.md`
    - Try to keep all the formatting intact and only change the words.
-    - Read through the [style guide](https://github.com/thewca/wca-documents-extra/blob/master/style-guide.md) for detailed information about how the Regulations are formatted.
+    - Read through the [style guide](https://github.com/thewca/wca-regulations/blob/official/style-guide.md) for detailed information about how the Regulations are formatted.
     - Add a section at the top of the Regulations called "Translation", which should include any useful information about the translation, as well as a translation of the following text:
 
 > Please note that this translation is not an official version (even though it is provided on the WCA website): it may be useful, but it does not come with any guarantees. If there is a difference between a translation and the (current official) English version, the English version must be used.
