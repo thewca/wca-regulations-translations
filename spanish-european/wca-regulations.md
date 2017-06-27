@@ -232,7 +232,7 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
         - 9b3a) El formato de competición de estas pruebas es "Mejor de X" (donde X es 1, 2 o 3)
         - 9b3b) Para el Cubo de Rubik a Ciegas, la WCA también reconoce ránkings de "Media de 3" basados en los tiempos de las rondas con formato de "Mejor de 3".
 - 9f) Los resultados de una ronda se miden como sigue:
-    - 9f1) Todos los resultados cronometrados por debajo de 10 minutos se miden y se redondean a la centésima de segundo. Todas las medias por debajo de 10 minutos se miden y se redondean a la centésima de segundo.
+    - 9f1) Todos los resultados cronometrados por debajo de 10 minutos se miden y se truncan a la centésima de segundo. Todas las medias por debajo de 10 minutos se miden y se redondean a la centésima de segundo.
     - 9f2) Todos los resultados y medias por encima de 10 minutos se miden y se redondean al segundo (por ejemplo, x.4 se convierte en x, x.5 se convierte en x+1).
     - 9f4) El resultado de un intento se anota como DNF (*Did Not Finish*) si el intento se descalifica o está sin acabar o no resuelto.
     - 9f5) El resultado de un intento se anota como DNS (*Did Not Start*) si el competidor puede hacer el intento pero rehúsa hacerlo.
