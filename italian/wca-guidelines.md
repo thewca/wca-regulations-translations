@@ -9,7 +9,7 @@ Ultima revisione testuale: 12 dicembre 2016
 
 ### Regolamento WCA
 
-Le Linee Guida WCA integrano il [Regolamento WCA](regulations:top). Si prega di consultare il Regolamento per maggiori informazioni riguardo la WCA.
+Le Linee Guida WCA integrano il [Regolamento WCA](regulations:top). Si prega di consultare il Regolamento per maggiori informazioni riguardo alla WCA.
 
 ### Numerazione
 
