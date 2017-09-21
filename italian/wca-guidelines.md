@@ -1,11 +1,9 @@
 # <wca-title>Linee guida regolamento WCA
 
-<version>Versione: 18 aprile 2016
+<version>Versione: 19 giugno 2017
 
 
 ## Note
-
-Ultima revisione testuale: 12 dicembre 2016
 
 ### Regolamento WCA
 
@@ -13,18 +11,18 @@ Le Linee Guida WCA integrano il [Regolamento WCA](regulations:top). Si prega di 
 
 ### Numerazione
 
-Le Linee Guida seguono la numerazione delle Regole a cui fanno riferimento. Più Linee Guida possono essere essere riferite alla stessa Regola, mentre alcune Linee Guida fanno riferimento a Regole che non esistono più.
+Le Linee Guida seguono la numerazione delle Regole a cui fanno riferimento. Più Linee Guida possono essere essere riferite alla stessa Regola, mentre alcune Linee Guida fanno riferimento a Regole non più esistenti.
 
 ### Codice
 
 Per rendere più semplice e immediata la consultazione, ogni Linea Guida è classificata secondo il codice seguente. Tale classificazione è puramente informativa e non conferisce in alcun modo un'importanza maggiore ad una Linea Guida rispetto ad un'altra.
 
 - <label>[AMPLIAMENTO] Informazione aggiuntiva che ha lo scopo di integrare il Regolamento.
-- <label>[CHIARIMENTO] Informazione che può servire a chiarire qualsiasi possibile dubbio riguardo l'interpretazione del Regolamento.
+- <label>[CHIARIMENTO] Informazione che può servire a chiarire qualsiasi possibile dubbio riguardo all'interpretazione del Regolamento.
 - <label>[SPIEGAZIONE] Informazione che illustra il fine di una regola.
 - <label>[RACCOMANDAZIONE] Direttiva non strettamente obbligatoria, ma che deve essere seguita quando possibile.
-- <label>[PROMEMORIA] Informazione che può essere riferita ad un'altra regola/linea guida ma che merita di essere ripetuta per la sua rilevanza.
-- <label>[ESEMPIO] Un esempio che illustra una situazione in cui viene applicata una determinata regola.
+- <label>[PROMEMORIA] Informazione che può essere riferita ad un'altra Regola/Linea Guida ma che merita di essere ripetuta per la sua rilevanza.
+- <label>[ESEMPIO] Un esempio che illustra una situazione in cui viene applicata una determinata Regola.
 
 
 ## <contents> [Contenuto](guidelines:contents)
@@ -34,11 +32,11 @@ Per rendere più semplice e immediata la consultazione, ogni Linea Guida è clas
 
 ## <article-1><officials><officials> Articolo 1: Ufficiali di gara
 
-- 1c3+) [RACCOMANDAZIONE]  Il file dei risultati deve essere completo alla fine dell'ultimo giorno della competizione.
+- 1c3+) [RACCOMANDAZIONE]  I risultati devono essere pronti per la fine dell'ultimo giorno della competizione.
 - 1c3++) [AMPLIAMENTO] I risultati fisici (es. foglietti dei risultati, soluzioni scritte del Fewest Moves Solving) devono essere conservati almeno per un mese. I risultati digitali (es. scramble, risultati) devono essere conservati permanentemente.
 - 1c3b+) [CHIARIMENTO] Se ci sono più gruppi, non è necessario indicare quale partecipante era in quale gruppo.
 - 1c4+) [RACCOMANDAZIONE] Eventuali correzioni ai risultati dovrebbero essere inoltrate entro una settimana dal termine della competizione.
-- 1c10+) [CHIARIMENTO] E' sufficiente che sia consultabile una copia digitale del Regolamento.
+- 1c10+) [CHIARIMENTO] È sufficiente che sia consultabile una copia digitale del Regolamento.
 - 1h+) [RACCOMANDAZIONE] I partecipanti dello stesso gruppo devono avere gli stessi scramble. Gruppi diversi devono avere scramble diversi.
 - 1h++) [RACCOMANDAZIONE] I turni finali di tutti gli eventi, così come tutti i tentativi di Fewest Moves, dovrebbero avere gli stessi scramble per tutti i partecipanti (es. un solo gruppo).
 - 1h1+) [CHIARIMENTO] Giudici/mischiatori dovrebbero giudicare o mischiare nel loro stesso gruppo solo se è necessario per motivi logistici o di tempistica.
@@ -51,6 +49,8 @@ Per rendere più semplice e immediata la consultazione, ogni Linea Guida è clas
 - 2c++) [AMPLIAMENTO] I partecipanti non devono fornire intenzionalmente informazioni fuorvianti. I partecipanti che hanno già preso parte ad una competizione devono fornire informazioni in accordo con i dati presenti nel database (ad esempio nome esatto e WCA ID).
 - 2d+) [AMPLIAMENTO] La data di nascita e le informazioni di contatto devono essere inequivocabilmente esatte.
 - 2d++) [RACCOMANDAZIONE] Se terzi (ad esempio giornalisti) chiedono al team organizzativo di essere messi in contatto con un partecipante, questo deve fornire il suo consenso prima che qualsiasi dato venga trasmesso.
+- 2e+) [CHIARIMENTO] Se un partecipante possiede due o più cittadinanze, può scegliere il paese che vuole rappresentare in occasione della sua prima competizione.
+- 2e3+) [CHIARIMENTO] I partecipanti apolidi non hanno record e classifiche nazionali e continentali.
 - 2h+) [CHIARIMENTO] I partecipanti possono essere scalzi durante la risoluzione coi piedi (With Feet).
 - 2j2+) [ESEMPIO] Ad esempio, se un partecipante è squalificato da un evento per non essersi presentato al turno finale, i suoi risultati dei turni precedenti rimangono validi.
 - 2s+) [PROMEMORIA] Eventuali accorgimenti devono essere riportati nel report del Delegato.
