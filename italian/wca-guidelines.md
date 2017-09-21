@@ -40,7 +40,7 @@ Per rendere più semplice e immediata la consultazione, ogni Linea Guida è clas
 - 1c4+) [RACCOMANDAZIONE] Eventuali correzioni ai risultati dovrebbero essere inoltrate entro una settimana dal termine della competizione.
 - 1c10+) [CHIARIMENTO] E' sufficiente che sia consultabile una copia digitale del Regolamento.
 - 1h+) [RACCOMANDAZIONE] I partecipanti dello stesso gruppo devono avere gli stessi scramble. Gruppi diversi devono avere scramble diversi.
-- 1h++) [RACCOMANDAZIONE] I turni finali di tutti gli eventi, così come tutti i tentativi di Fewest Moves, dovrebbero avere gli stessi scramble per tutti i partecipanti (come per un singolo gruppo).
+- 1h++) [RACCOMANDAZIONE] I turni finali di tutti gli eventi, così come tutti i tentativi di Fewest Moves, dovrebbero avere gli stessi scramble per tutti i partecipanti (es. un solo gruppo).
 - 1h1+) [CHIARIMENTO] Giudici/mischiatori dovrebbero giudicare o mischiare nel loro stesso gruppo solo se è necessario per motivi logistici o di tempistica.
 - 1h1++) [CHIARIMENTO] Per il Fewest Moves, i giudici possono giudicare altri partecipanti nel loro stesso gruppo prima di aver terminato il loro tentativo (es. mentre stanno partecipando).
 
@@ -113,7 +113,7 @@ Per rendere più semplice e immediata la consultazione, ogni Linea Guida è clas
 
 - 8a4++) [RACCOMANDAZIONE] La competizione dovrebbe essere annunciata almeno un mese prima dell'inizio della stessa.
 - 8a5+) [RACCOMANDAZIONE] La competizione dovrebbe avere almeno 12 partecipanti.
-- 8a7+) [AMPLIAMENTO] Agli organizzatori è fortemente consigliato a effettuare modifiche agli Stackmat timer volte a prevenire incidenti comuni, come rendere più difficile la pressione involontaria dei bottoni (es. posizionado O-Ring intorno ai bottoni) e impedire il movimento delle batterie (es. inserendo un'imbottitura nello scompartimento della batteria).
+- 8a7+) [AMPLIAMENTO] Gli organizzatori sono fortemente invitati a effettuare modifiche agli Stackmat timer volte a prevenire incidenti comuni, come rendere più difficile la pressione involontaria dei bottoni (es. posizionado O-Ring intorno ai bottoni) e impedire il movimento delle batterie (es. inserendo un'imbottitura nello scompartimento della batteria).
 
 
 ## <article-9><events><events> Articolo 9: Eventi
@@ -148,10 +148,10 @@ Per rendere più semplice e immediata la consultazione, ogni Linea Guida è clas
 
 ## <article-A><speedsolving><speedsolving> Articolo A: Speed Solving
 
-- A1a2+) [AMPLIAMENTO] In caso di un tempo limite cumulativo, il giudice deve registrare il tempo che il partecipante ha ottenuto, benchè il tentativo fosse DNF, per esempio "DNF (1:02.27)”.
+- A1a2+) [AMPLIAMENTO] In caso di un tempo limite cumulativo, il giudice deve registrare il tempo che il partecipante ha ottenuto, benchè il tentativo fosse DNF, per esempio "DNF (1:02.27)".
 - A1a2++) [CHIARIMENTO] Tempi limite cumulativi potrebbero essere applicati per un singolo evento o per una combinazione di eventi.
 - A1a2+++) [CHIARIMENTO] In caso di un tempo limite cumulativo, dopo che questo è stato raggiunto dal partecipante, i tentativi rimanenti saranno segnati come DNS (Did Not Start).
-- A1a3+) [PROMEMORIA] Gli organizzatori e il Delegato devono essere a consoscenza del fatto che i limiti di tempo influenzano le scelte dei partecipanti (es. sbrigarsi nei primi due tentativi per cercare di raggiungere il cutoff in un round combinato) e che il cambiamento di tali llimiti dopo l'inizio della competizione può ingiustamente svantaggiare alcuni partecipanti.
+- A1a3+) [PROMEMORIA] Gli organizzatori e il Delegato devono essere consapevoli del fatto che i limiti di tempo influenzano le scelte dei partecipanti (es. sbrigarsi nei primi due tentativi per cercare di raggiungere il cutoff in un round combinato) e che il cambiamento di tali llimiti dopo l'inizio della competizione può ingiustamente svantaggiare alcuni partecipanti.
 - A1a4+) [PROMEMORIA] Se a un partecipante è stato accidentalmente permesso di superare il tempo limite, questo dovrebbe essere applicato retroattivamente; il giudice, il partecipante e il Delegato WCA dovrebbero esserne informati (vedi [Regola 1g2](regulations:regulation:1g2)). I giudici devono essere sempre consapevoli del tempo limite per il tentativo corrente (che potrebbe dipendere dai tentativi precedenti, in caso di tempo limite cumulativo).
 - A1c+) [CHIARIMENTO] I Delegati WCA dovrebbero usare solamente la loro discrezione per prevenire comportamenti dei partecipanti che potrebbero risultare dannosi per la competizione (es. perdita di tempo o spreco di risorse). I partecipanti non dovrebbero essere squalificati per risultati "scadenti" quando stanno partecipanto al massimo delle loro capacità.
 - A2c1+) [CHIARIMENTO] In passato, i foglietti per registrare i tempi sono stati usati come cover per i cubi, prima dell’inizio della risoluzione. Dato che questo metodo lascia, nella maggior parte dei casi, scoperte alcune parti del puzzle, non è più possibile usare questa soluzione.
