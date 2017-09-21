@@ -191,7 +191,7 @@ Per rendere più semplice e immediata la consultazione, ogni Linea Guida è clas
 ## <article-E><fewest-moves><fewestmovessolving> Articolo E: Fewest Moves Solving
 
 - E2b+) [CHIARIMENTO] Un partecipante può scegliere di interrompere il tentativo prima della fine del tempo e consegnare la soluzione ai giudici.
-- E2c+) [CHIARIMENTO] Anche se il giudice dovrebbe fornire un foglio standard su cui segnare la soluzione, il partecipante può decidere di consegnare un foglio differente a patto che su di questo si indicata in modo ambiguo una sequenza di mosse che corrisponde alla soluzione (Si noti che questo pezzo di carta deve essere fornito dal giudice, secondo la[Regulation E3a](regulations:regulation:E3a)).
+- E2c+) [CHIARIMENTO] Anche se il giudice dovrebbe fornire un foglio standard su cui segnare la soluzione, il partecipante può decidere di consegnare un foglio differente a patto che su di questo si indicata in modo non ambiguo una sequenza di mosse che corrisponde alla soluzione (Si noti che questo pezzo di carta deve essere fornito dal giudice, secondo la [Regulation E3a](regulations:regulation:E3a)).
 - E2c++) [CHIARIMENTO] La soluzione del partecipante deve usare solamente le mosse definite nella [Regola 12a](regulations:regulation:12a). Per esempio non sono permesse: [F], [R, U], [R: U], R'2, L'w, f, M, U2'.
 - E2e+) [CHIARIMENTO] I partecipanti non devono in alcun modo derivare la soluzione da parti della sequenza di scramble, e le soluzioni non dovrebbero condividere parti significanti della sequenza inversa di scramble.
 - E2e++) [ESEMPIO] Esempio di soluzione che dovrebbe risultare nella squalifica del tentativo (DNF): soluzioni che iniziano con le stesse 4 o più mosse della sequenza inversa di scramble.
