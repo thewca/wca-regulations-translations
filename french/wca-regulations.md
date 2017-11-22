@@ -138,13 +138,13 @@ Note : les numéros des articles et des règles ne sont pas réassignés lors d'
 - 3j) Les casse-tête doivent être propres, et ne doivent pas avoir de marquages, de pièces surélevées, de défaut, ou d'autres détails qui permettent d'aider à distinguer deux pièces entre elles. Exception : un logo (voir la [règle 3l](regulations:regulation:3l)).
     - 3j1) Les casse-tête peuvent être relativement usés, à la discrétion du Délégué WCA.
     - 3j2) Définition : deux pièces sont similaires si elles sont de formes identiques et de tailles identiques, ou si elles sont de formes symétriques et de tailles identiques.
-    - 3j3) Les parties ondulées ou avec des textures permettant de déterminer l'orientation d'une pièce au touché ne sont pas autorisées pour les épreuves à l'aveugle.
+    - 3j3) Les parties ondulées ou avec des textures permettant de déterminer l'orientation d'une pièce au toucher ne sont pas autorisées pour les épreuves à l'aveugle.
 - 3k) Les casse-tête doivent être approuvés par le Délégué WCA avant leurs utilisation en compétition.
 - 3l) Un casse-tête peut avoir un logo sur une partie colorée, mais si c'est le cas il doit avoir au plus une pièce colorée avec un logo.
     - 3l1) Le logo doit être placé sur une des pièces centrales. Exceptions pour les casse-tête n'ayant pas de pièce centrale :
         - 3l1a) Pour le Pyraminx et le 2xx2, le logo peut être sur n'importe quelle pièce.
         - 3l1b) Pour le Square-1, le logo doit être placé sur l'une des pièce de la tranche du milieu.
-    - 3l2) Le logo peut être en relief, gravé, ou être une étiquette recouvrante. Exception : On ne doit pas pouvoir distinguer le logo au touché pour les épreuves à l'aveugle (Pas de logo en relief, gravé, ou d'étiquette recouvrante).
+    - 3l2) Le logo peut être en relief, gravé, ou être une étiquette recouvrante. Exception : On ne doit pas pouvoir distinguer le logo au toucher pour les épreuves à l'aveugle (Pas de logo en relief, gravé, ou d'étiquette recouvrante).
 - 3m) Toutes les marques de casse-tête et de pièce de casse-tête sont autorisées, dès lors que le casse-tête est en accord avec le Règlement WCA.
 
 
