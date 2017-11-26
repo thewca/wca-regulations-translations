@@ -1,6 +1,6 @@
 # <wca-title>Recommandations WCA
 
-<version>Version : 18 Avril 2016
+<version>Version : 19 Juin 2017
 
 
 ## Notes
@@ -49,6 +49,8 @@ Afin de donner la nature de la recommandation, chacune d'elle est répertoriée 
 - 2c++) [AJOUT] Les compétiteurs ne doivent pas fournir intentionnellement de fausses informations, et les compétiteurs revenant après une période d'absence doivent fournir des informations cohérentes avec les informations originales (par exemple nom complet et identifiant WCA).
 - 2d+) [AJOUT] La date de naissance et les informations de contact doivent faire l'objet d'une attention particulière.
 - 2d++) [CONSEIL] Si une tierce personne (par exemple un journaliste) demande à l'équipe organisatrice le contact d'un compétiteur, celui-ci devrait d'abord donner son accord.
+- 2e+) [ECLAIRCISSEMENT] Si un compétiteur possède plusieurs nationalités, il peut choisir le pays qu'il souhaite représenter à leur première compétition.
+- 2e3+) [ECLAIRCISSEMENT] Les compétiteurs apatrides n'ont pas de record ou classement nationaux, ni de record ou classement continentaux.
 - 2h+) [ECLAIRCISSEMENT] Les compétiteurs peuvent être pieds nus pour la résolution avec les pieds.
 - 2j2+) [EXEMPLE] Par exemple, si un compétiteur est disqualifié d'une épreuve car il n'a pas pu participer au tour final, ses précédents résultats restent valides.
 - 2s+) [RAPPEL] Les aménagements spéciaux doivent être indiqués dans le rapport du Délégué WCA.
@@ -66,7 +68,7 @@ Afin de donner la nature de la recommandation, chacune d'elle est répertoriée 
 - 3h2+) [ECLAIRCISSEMENT] Par le passé, les casse-têtes dont les parties colorées étaient visibles de l'intérieur ("stickerless") étaient interdits. Ils sont maintenant autorisés.
 - 3h2++) [ECLAIRCISSEMENT] Les casse-têtes "stickerless" qui diffèrent clairement des "stickerless" produits en masse ne sont autorisés qu'à la discrétion du Délégué WCA.
 - 3j+) [RAPPEL] Avant certaines pièces gravées ou en relief étaient autorisées. Ce n'est plus le cas.
-- 3j++) [ECLAIRCISSEMENT] Pour le Clock, les boutons ne doivent pas être identifiables entre eux sur un même côté.
+- 3j++) [ECLAIRCISSEMENT] Pour le Clock, les boutons ne doivent pas être différentiables entre eux sur un même côté.
 - 3j2+) [ECLAIRCISSEMENT] Pour le Clock, les dix-huit horloges internes sont considérées comme des pièces similaires.
 - 3l+) [AJOUT] Les logos peuvent présenter un design original dans la mesure où celui-ci ne lui donne pas un avantage (par exemple en dissimulant des informations qui pourraient être utilisées pour tricher), et le logo doit permettre de reconnaître facilement la partie colorée. Les logos non conventionnels ne sont autorisés qu'à la discrétion du Délégué WCA.
 
