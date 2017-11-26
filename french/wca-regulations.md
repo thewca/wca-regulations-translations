@@ -1,6 +1,6 @@
 # <wca-title>Règlement WCA
 
-<version>Version : 18 Avril 2016
+<version>Version : 19 Juin 2017
 
 
 ## Notes
@@ -48,7 +48,7 @@ Note : les numéros des articles et des règles ne sont pas réassignés lors d'
     - 1c3) Envoyer les résultats de la compétition à l'équipe des résultats de la WCA, au plus tard une semaine après la fin de la compétition.
         - 1c3a) Toutes les séquences de mélange utilisées lors d'une compétition doivent être envoyées avec les résultats de cette compétition.
         - 1c3b) Les séquences de mélanges doivent être annotées avec les épreuves, les tours, et les groupes pour lesquels elles ont été utilisées.
-    - 1c4) Envoyer des corrections aux résultats de la compétition au Bureau de la WCA.
+    - 1c4) Envoyer les corrections aux résultats de la compétition à l'Équipe des Résultats de la WCA.
     - 1c5) Conseiller les autres officiels lorsque c'est nécessaire.
     - 1c6) Approuver toutes les épreuves et tous les formats d'épreuves d'une compétition, avant que la compétition ne débute, et au cours de celle-ci quand il est nécessaire de procéder à des changements.
     - 1c7) Décider de la disqualification d'un compétiteur de la compétition.
@@ -81,9 +81,10 @@ Note : les numéros des articles et des règles ne sont pas réassignés lors d'
 - 2c) Les compétiteurs s'inscrivent en fournissant toutes les informations dont l'équipe organisatrice à besoin (dont : nom complet, pays, date de naissance, sexe, coordonnées, épreuves choisies).
     - 2c1) Un compétiteur ne peut pas participer sans une inscription complète, comme définie par l'équipe organisatrice.
 - 2d) Le nom complet, le pays, le sexe, et les résultats d'un compétiteur sont considérées comme des informations publiques. Toutes les autres informations personnelles sont considérées comme confidentielles, et ne doivent pas être divulguées en dehors de l'équipe organisatrice sans l'accord du compétiteur.
-- 2e) Les compétiteurs doivent représenter un pays dont ils ont la nationalité. Le Délégué WCA devrait vérifier la nationalité représentée au moyen d'un document officiel (par exemple : carte d'identité). Si un compétiteur n'est pas capable de prouver la nationalité sous laquelle il s'est inscrit, ce compétiteur peut être disqualifié rétroactivement et/ou suspendu, à la discrétion du Bureau de la WCA.
-    - 2e1) La liste des pays que l'on peut représenter est définie par l'article Wikipedia "List of sovereign states" (pays annotés par "UN member states and observer states" et "Other states").
+- 2e) Les compétiteurs doivent représenter un pays dont ils ont la nationalité. Le Délégué WCA devrait vérifier la nationalité représentée au moyen d'un document officiel (par exemple : carte d'identité) à leur première compétition. Si un compétiteur n'est pas capable de prouver la nationalité sous laquelle il s'est inscrit, ce compétiteur peut être disqualifié rétroactivement et/ou suspendu, à la discrétion du Bureau de la WCA.
+    - 2e1) La liste des pays que l'on peut représenter est définie par la [Liste des Pays Reconnus de la WCA](https://www.worldcubeassociation.org/regulations/countries/).
     - 2e2) Les compétiteurs ayant plusieurs nationalités peuvent changer le pays qu'ils représentent, pour leur première compétition d'une année civile donnée.
+    - 2e3) Les compétiteurs n'ayant pas de nationalité peuvent participer en tant qu'"Apatride".
 - 2f) Les compétiteur doivent respecter les règlements du lieu et se conduire de manière correcte.
 - 2g) Les compétiteurs doivent rester calmes à l'intérieur de l'espace de compétition. Les discussions sont autorisées, mais elles doivent être d'un volume sonore raisonnable, et ne pas se dérouler à proximité des personnes en train de concourir.
     - 2g3) Les compétiteurs dans la Zone des Compétiteurs ne doivent pas communiquer entre eux à propos des mélanges des casse-tête du tour en cours. Pénalité : disqualification du compétiteur de l'épreuve en cours, à la discrétion du Délégué WCA.
@@ -304,7 +305,7 @@ Note : les numéros des articles et des règles ne sont pas réassignés lors d'
 - 11e) Si un incident se produit au cours d'un essai, le Délégué WCA peut accorder à un compétiteur un essai supplémentaire remplaçant l'essai au cours duquel l'incident a eu lieu. Le compétiteur doit faire sa demande oralement ou par écrit au juge et au Délégué WCA, au moment de l'incident et avant de terminer son essai, afin de pouvoir se voir accorder un essai supplémentaire. Effectuer une demande ne garantie pas que celle-ci aboutira à un essai supplémentaire.
     - 11e1) Si un compétiteur se voit accorder un essai supplémentaire, celui-ci doit être réalisé à partir d'une séquence de mélange différente de l'originale. Cette séquence doit être générée à partir de la version officielle du mélangeur officiel de la WCA (voir la [règle 4f](regulations:regulation:4f)).
     - 11e2) Si un compétiteur reçoit un essai supplémentaire, cet essai supplémentaire devrait être effectué directement après l'essai qui l'a causé, et doit remplacer l'essai original qui l'a causé.
-    - 11e3) S'il n'est pas certain qu'un incident devrait donner lieu à un essai supplémentaire, le compétiteur peut se voir attribuer un essai supplémentaire provisoire, qui ne sera utilisé que s'il se trouve que l'essai supplémentaire était approprié (par exemple par décision du Bureau de la WCA).
+    - 11e3) S'il n'est pas certain qu'un incident devrait donner lieu à un essai supplémentaire, le compétiteur peut se voir attribuer un essai supplémentaire provisoire, qui ne sera utilisé que s'il se trouve que l'essai supplémentaire était approprié (par exemple par décision du Comité Réglementaire de la WCA).
 - 11f) Les décisions à propos d'un incident peuvent être justifiées à l'aide d'une analyse photo ou vidéo, à la discrétion du Délégué WCA.
 
 
@@ -390,7 +391,7 @@ Note : les numéros des articles et des règles ne sont pas réassignés lors d'
         - A3d2) Lorsque le temps d'inspection atteint 8 secondes, le juge annonce "8 secondes".
         - A3d3) Lorsque le temps d'inspection atteint 12 secondes, le juge annonce "12 secondes".
 - A4) Début de la résolution :
-    - A4b) Le compétiteur utilise ses doigt pour toucher les capteurs du chronomètre. Ses paumes doivent être orientées vers le bas, et du côté du chronomètre qui est le plus proche de lui. Pénalité : pénalité de temps (+2 secondes).
+    - A4b) Le compétiteur utilise ses doigt pour toucher les capteurs du chronomètre. Ses paumes doivent être orientées vers le bas, et du côté du chronomètre qui est le plus proche du compétiteur. Pénalité : pénalité de temps (+2 secondes).
         - A4b1) Le compétiteur ne doit pas entrer en contact avec le casse-tête entre la période d'inspection et de début de la résolution. Pénalité : pénalité de temps (+2 secondes).
     - A4d) Si un chronomètre Stackmat est utilisé, le compétiteur démarre la résolution en vérifiant que la lumière verte du chronomètre est allumée, et en enlevant ensuite ses mains du chronomètre (démarrant ainsi le chronomètre).
         - A4d1) Le compétiteur doit démarrer sa résolution dans un intervalle de 15 secondes après le début de l'inspection. Pénalité : pénalité de temps (+2 secondes).
