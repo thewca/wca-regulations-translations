@@ -215,6 +215,7 @@ Agar lebih informatif, tiap Pedoman digolongkan menggunakan salah satu dari labe
 ## <article-D><with-feet><solvingwithfeet> Pasal D: Solving With Feet
 
 - D1b+) [KLARIFIKASI] Kompetitor diperbolehkan menggunakan kaus kaki selama Solving.
+- D1b++) [KLARIFIKASI] Sebelumnya, kompetitor harus menginspeksi Puzzle dengan kaki untuk Solving With Feet. Sekarang, kompetitor diperbolehkan untuk menggunakan tangan atau anggota badan lainnya untuk inspeksi (lihat [Pedoman A5b+](guidelines:guideline:A5b+)).
 - D1c+) [PERINGATAN] Selama membenarkan Puzzle yang rusak, anggota tubuh lain tidak diperbolehkan untuk menyentuk Puzzle.
 
 
