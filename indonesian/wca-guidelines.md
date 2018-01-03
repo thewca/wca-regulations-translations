@@ -7,6 +7,9 @@
 
 ### Terjemahan
 
+Perhatikan bahwa terjemahan ini **bukanlah** versi resmi walaupun terjemahan ini tersedia di situs web WCA agar lebih memudahkan.
+Jika ada perbedaan antara terjemahan dengan versi resmi (yang sedang berlaku) dalam bahasa Inggris, regulasi dalam berbahasa Inggrislah yang harus digunakan.
+
 Beberapa istilah sengaja tidak diterjemahkan ke dalam Bahasa Indonesia karena istilah-istilah ini lebih sering disebut dan mudah dimengerti dalam bahasa Inggris jika dibandingkan dengan istilah dalam Bahasa Indonesia. Istilah-istilah yang dimaksud adalah sebagai berikut.
 - Attempt: sebuah urutan percobaan dalam penyelesaian Puzzle dengan masing-masing percobaan memiliki Scramble yang berbeda.
 - Blindfolded (Solving): (menyelesaikan Puzzle dengan) mata tertutup.
