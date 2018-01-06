@@ -5,10 +5,11 @@
 
 ## Ghi chú
 
-Lần chỉnh sửa gần nhất: 04 tháng 1, 2018
+Lần chỉnh sửa gần nhất: 06 tháng 1, 2018
 
 ### Bản dịch
 
+Đây là bản dịch tiếng Việt Quy định và Hướng dẫn WCA, được dịch bởi [Vương Thiện Trung](mailto:vttrung12@gmail.com). Mọi thắc mắc vui lòng liên hệ qua email.
 Lưu ý: Bản dịch này không phải là phiên bản chính thức của Quy định WCA (mặc dù được đưa lên trang chủ của WCA): bản dịch chỉ mang tính tham khảo, không bảo đảm hoàn toàn về độ chính xác. 
 Nếu có sự khác nhau giữa bản dịch Tiếng Việt và bản (chính thức) Tiếng Anh, bản Tiếng Anh phải được sử dụng.
 
@@ -34,7 +35,7 @@ Nếu có câu hỏi và phản hồi, xin vui lòng gửi tới [WCA Regulation
 
 ## <contents> [Nội dung](regulations:contents)
 
-Ghi chú: Vì số thứ tự các Mục và Quy định không được sắp xếp lại lúc chỉnh sửa, có thể số thứ tự sẽ không liên tục.
+Ghi chú: Vì số thứ tự các Mục và Quy định không được sắp xếp lại lúc chỉnh sửa, có thể số thứ tự sẽ bị ngắt quãng
 
 <table-of-contents>
 
@@ -122,7 +123,7 @@ Ghi chú: Vì số thứ tự các Mục và Quy định không được sắp x
 ## <article-3><puzzles><puzzles> Mục 3: Puzzles (Khối hình)
 
 - 3a) Thí sinh phải tự mang theo các khối hình của mình cho giải đấu.
-    - 3a1) Thí sinh phải trong trạng thái sẵn sàng nộp khối h của mình khi được gọi tên (xem [Quy định 2u](regulations:regulation:2u)).
+    - 3a1) Thí sinh phải trong trạng thái sẵn sàng nộp khối hình của mình khi được gọi tên (xem [Quy định 2u](regulations:regulation:2u)).
     - 3a2) Các khối hình phải hoạt động tốt, để giúp cho quá trình tráo.
     - 3a3) Các khối hình đa diện phải sử dụng hệ màu mà ở trạng thái đã được giải, mỗi mặt chỉ chứa một màu duy nhất. Mỗi biến thể (về hệ màu) của khối hình phải có các bước, trạng thái, cách giải tương tự như khối hình gốc.
 - 3d) Khối hình phải có những thành phần mang màu, giúp xác định được hệ màu của khối hình, và phải là một trong những thứ sau: miếng dán màu (sticker), tấm nhựa màu (tiles/stickerless), hoặc màu sơn/màu in. Tất cả các phần mang màu đều phải làm từ cùng một chất liệu.
