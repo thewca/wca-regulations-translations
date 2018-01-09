@@ -163,7 +163,7 @@ Hướng dẫn được đánh số thứ tự theo quy định tương ứng. L
 - A3c3+) [LÀM RÕ] Thí sinh có thể khởi động lại đồng hồ trước khi, trong khi quan sát nếu trọng tài sơ ý quên. Tuy nhiên, trọng tài có trách nhiệm bảo đảm rằng đồng hồ bấm giờ đã được khởi động lại (xem [Quy định A3b](regulations:regulation:A3b)). Nếu thí sinh bắt đầu lượt giải trong khi đồng hồ chưa được khởi động lại, lượt giải cần được thay thế bằng lượt giải bổ sung, dưới sự cho phép của WCA Delegate.
 - A3c4+) [LÀM RÕ] Nếu sử dụng một vật mỏng, trọng tài không được bỏ vật mỏng ra giúp thí sinh.
 - A3c4++) [LÀM RÕ] Thí sinh có thể bỏ vật mỏng ra trong lúc giải, nếu thí sinh chưa làm vậy trong lúc quan sát (do quên).
-- A4b+) [LÀM RÕ] Trong khi quan sát hoặc giải khối hình, thí sinh có thể chạm vào khối hình bằng bất kỳ bộ phận nào. Ngoại lệ: Giải Một tay và Giải Bằng chân (xem [Quy định C1b](regulations:regulation:C1b) và [Quy định D1b](regulations:regulation:D1b)).
+- A5b+) [LÀM RÕ] Trong khi quan sát hoặc giải khối hình, thí sinh có thể chạm vào khối hình bằng bất kỳ bộ phận nào. Ngoại lệ: Giải Một tay và Giải Bằng chân (xem [Quy định C1b](regulations:regulation:C1b) và [Quy định D1b](regulations:regulation:D1b)).
 - A6b+) [GIẢI THÍCH] Giá trị ngẫu nhiên 0.06 giây được chọn để giải quyết vấn đề liên quan đến trục trặc của đồng hồ Stackmat.
 - A6e+) [LÀM RÕ] Nếu khối hình rơi vào lòng thí sinh sau khi dừng đồng hồ, đây được coi là chạm vào khối hình.
 - A6g+) [BỔ SUNG] Trong khi trọng tài đang quyết định xem có áp dụng hình phạt do khối hình lệch không, trọng tài không được chạm vào khối hình.
