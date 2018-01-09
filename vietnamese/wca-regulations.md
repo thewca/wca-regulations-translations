@@ -58,7 +58,7 @@ Ghi chú: Vì số thứ tự các Mục và Quy định không được sắp x
     - 1c10) Cung cấp bản sao của Quy định WCA ở mỗi giải đấu.
 - 1e) Mỗi nội dung phải có ít nhất một trọng tài.
     - 1e1) Trọng tài có trách nhiệm thực hiện các thủ tục ở mỗi nội dung.
-        - 1e1a) Một trọng tài có thể đồng thời giám sát nhiều thí sinh, tuỳ theo quyết định của WCA Delegate, với điều kiện trọng tài có thể bảo đảm tất cả các Quy định WCA được tuân thủ mọi lúc. 
+        - 1e1a) Một trọng tài có thể đồng thời giám sát nhiều thí sinh, tuỳ theo quyết định của WCA Delegate, với điều kiện trọng tài có thể bảo đảm tất cả các Quy định WCA được tuân thủ mọi lúc.
     - 1e2) Mọi thí sinh đều phải có khả năng làm trọng tài. Nếu được yêu cầu làm trọng tài, thí sinh chỉ có thể được miễn nếu đưa ra lí do thoả đáng (v.d không hiểu rõ về nội dung thi đấu), tuỳ theo quyết định của WCA Delegate. Hình phạt: truất quyền thi đấu khỏi giái (xem [Quy định 2k](regulations:regulations:2k)).
 - 1f) Mỗi nội dung phải có ít nhất một người tráo. Ngoại lệ: Giải Tối Ưu.
     - 1f1) Người tráo sử dụng chuỗi công thức tráo đã được cung cấp cho mỗi lượt.
