@@ -493,7 +493,7 @@ Ghi chú: Vì số thứ tự các Mục và Quy định không được sắp x
 - E2) Các quy trình trong Giải Tối ưu:
     - E2a) Trọng tài phát chuỗi công thức tráo cho tất cả các thí sinh. Sau đó trọng tài bắt đầu đồng hồ bấm giờ và thông báo bắt đầu.
     - E2b) Tất cả các thí sinh có giới hạn thời gian là 60 phút để nghĩ lời giải.
-        - E2b2) Trọng tài cần thông báo "CÒN 5 PHÚT" sau 55 phút, và thông báo "KẾT THÚC" sau 60 phút.
+        - E2b1) Trọng tài cần thông báo "CÒN 5 PHÚT" sau 55 phút, và thông báo "KẾT THÚC" sau 60 phút.
     - E2c) Sau 60 phút, mỗi thí sinh phải nộp cho trọng tài lời giải của mình kèm tên, viết ra giấy và phải đọc được, sử dụng ký hiệu được định nghĩa trong Hệ đo bước các tầng ngoài (Outer Block Turn Metric) (định nghĩa trong [Quy định 12a](regulations:regulation:12a)). Hình phạt: truất quyền khỏi lượt thi (DNF).
     - E2d) Độ dài của lời giải được tính bằng Hệ đo bước các tầng ngoài (Outer Block Turn Metric) (xem [Quy định 12a](regulations:regulation:12a)).
         - E2d1) Độ dài lời giải tối đa được cho phép là 80 bước (xoay và đổi hướng).
