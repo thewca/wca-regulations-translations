@@ -14,12 +14,12 @@ Beberapa istilah sengaja tidak diterjemahkan ke dalam Bahasa Indonesia karena is
 - Attempt: sebuah urutan percobaan dalam penyelesaian Puzzle dengan masing-masing percobaan memiliki Scramble yang berbeda.
 - Blindfolded (Solving): (menyelesaikan Puzzle dengan) mata tertutup.
 - Board: dewan
-- Cap: bagian dari Puzzle yang berfungsi menutupi kekosongan/membuat permukaan pada Piece.
+- Cap: bagian dari Puzzle yang berfungsi menutupi kekosongan (lubang)/membuat permukaan pada Piece.
 - Delegate: delegasi/wakil
 - Generate: proses penghasilan/pembangkitan
 - Judge: orang yang mengawasi dan mewasiti kompetitor yang sedang menyelesaikan Puzzle.
-- Judging: aktivitas mengawasi dan mewasiti kompetitor yang sedang menyelesaikan Puzzle.
-- Piece: sebuah bagian dari Puzzle
+- Judging: menjadi Judge; aktivitas mengawasi dan mewasiti kompetitor yang sedang menyelesaikan Puzzle.
+- Piece: sebuah bagian penyusun dari Puzzle.
 - Pillowed: bentuk kubus yang membulat; "Rounded Cube".
 - Puzzle: permainan teka-teki yang diperlombakan dalam kompetisi resmi WCA.
 - Scrambler: pengacak; orang yang bertugas untuk mengacak Puzzle yang dikumpulkan oleh kompetitor.
@@ -59,16 +59,16 @@ Catatan: Karena nomor Pasal dan Regulasi tidak diatur kembali saat ada Regulasi 
 - 1a) Sebuah kompetisi harus dihadiri seorang Delegate WCA dan memiliki tim panitia (beranggotakan satu atau lebih anggota): Judge, Scrambler dan Score Taker.
 - 1b) Tim panitia dari sebuah kompetisi bertanggung jawab atas logistik sebelum, selama, dan sesudah kompetisi.
 - 1c) Delegate WCA dapat melimpahkan tugas-tugasnya kepada anggota dari tim panitia, tetapi pada akhirnya bertanggung jawab atas bagaimana tugas-tugas ini dijalankan. Delegate WCA dalam sebuah kompetisi bertanggung jawab untuk:
-    - 1c1) Melaporkan hal-hal yang terkait dengan Regulasi WCA selama kompetisi, jalannya keseluruhan kompetisi, dan insiden apapun selama kompetisi kepada Board WCA. Laporan harus disampaikan ke Board WCA dalam jangka waktu satu minggu tanggal kompetisi berakhir.
-    - 1c3) Mengirimkan hasil kompetisi ke WCA Results Team dalam jangka waktu satu minggu tanggal kompetisi berakhir.
+    - 1c1) Melaporkan hal-hal yang terkait dengan Regulasi WCA selama kompetisi, jalannya keseluruhan kompetisi, dan insiden apapun selama kompetisi kepada Board WCA. Laporan harus disampaikan kepada Board WCA dalam jangka waktu satu minggu setelah kompetisi berakhir.
+    - 1c3) Mengirimkan hasil kompetisi ke WCA Results Team dalam jangka waktu satu minggu setelah kompetisi berakhir.
         - 1c3a) Seluruh rangkaian Scramble yang digunakan selama kompetisi harus dikirimkan bersama hasil kompetisi.
-        - 1c3b) Seluruh rangkaian Scramble harus diberi label bertuliskan cabang, ronde, dan grup di mana Scramble digunakan.
+        - 1c3b) Seluruh rangkaian Scramble harus diberi label bertuliskan cabang, babak, dan grup di mana Scramble digunakan.
     - 1c4) Mengirim ralat hasil kompetisi ke Board WCA.
     - 1c5) Memberi nasihat kepada panitia jika dibutuhkan.
-    - 1c6) Menyetujui seluruh cabang dan format ronde sebuah kompetisi, sebelum kompetisi dimulai, dan apabila diperlukan perubahan selama kompetisi.
+    - 1c6) Menyetujui seluruh cabang dan format babak sebuah kompetisi, sebelum kompetisi dimulai, dan apabila diperlukan perubahan selama kompetisi.
     - 1c7) Memutuskan untuk mendiskualifikasi kompetitor selama kompetisi.
     - 1c8) Menyediakan rangkaian Scramble.
-    - 1c9) Memutuskan untuk mengubah jadwal waktu dari tiap ronde. Dalam kasus perubahan tersebut, pengumuman yang jelas harus diumumkan kepada seluruh kompetitor.
+    - 1c9) Memutuskan untuk mengubah jadwal waktu dari tiap babak. Dalam kasus perubahan tersebut, pengumuman yang jelas harus diumumkan kepada seluruh kompetitor.
     - 1c10) Menyediakan salinan Regulasi WCA pada kompetisi.
 - 1e) Setiap cabang harus mempunyai satu atau lebih Judge.
     - 1e1) Judge bertanggung jawab melaksanakan prosedur dari sebuah cabang.
@@ -80,8 +80,8 @@ Catatan: Karena nomor Pasal dan Regulasi tidak diatur kembali saat ada Regulasi 
 - 1g) Setiap cabang harus mempunyai satu atau lebih Score Taker.
     - 1g1) Score Taker bertanggung jawab untuk menyusun hasil kompetisi.
     - 1g2) Setiap perubahan pada Score Sheet harus dilakukan di bawah keputusan Delegate WCA.
-- 1h) Kompetitor pada ronde yang sama dari seluruh cabang dapat dibagi dalam beberapa grup.
-    - 1h1) Scrambler dan Judge sebuah ronde sebaiknya tidak mengacak Puzzle/Judging kompetitor dalam grup Scrambler dan Judge yang bersangkutan sebelum seluruh kompetitor dalam grup tersebut menyelesaikan Attempt-nya. Scrambler dan Judge yang bersangkutan dapat mengacak Puzzle/Judging kompetitor di grup yang bersangkutan apabila diizinkan oleh Delegate WCA, tetapi tim panitia harus yakin bahwa Scrambler dan Judge yang bersangkutan tidak boleh melihat Scramble untuk Attempt yang belum mereka laksanakan.
+- 1h) Kompetitor pada babak yang sama dari seluruh cabang dapat dibagi dalam beberapa grup.
+    - 1h1) Scrambler dan Judge sebuah babak sebaiknya tidak mengacak Puzzle/Judging kompetitor dalam grup Scrambler dan Judge yang bersangkutan sebelum seluruh kompetitor dalam grup tersebut menyelesaikan Attempt-nya. Scrambler dan Judge yang bersangkutan dapat mengacak Puzzle/Judging kompetitor di grup yang bersangkutan apabila diizinkan oleh Delegate WCA, tetapi tim panitia harus yakin bahwa Scrambler dan Judge yang bersangkutan tidak boleh melihat Scramble untuk Attempt yang belum mereka laksanakan.
 - 1j) Seluruh panitia diperbolehkan ikut berkompetisi dalam suatu kompetisi.
 - 1k) Panitia dapat menjalankan beberapa peran (contohnya sebagai tim panitia, Delegate WCA, Judge, Score Taker, Scrambler).
 
@@ -96,13 +96,13 @@ Catatan: Karena nomor Pasal dan Regulasi tidak diatur kembali saat ada Regulasi 
 - 2c) Kompetitor melakukan pendaftaran dengan memberikan seluruh informasi yang dibutuhkan oleh tim panitia (termasuk: nama, negara, tanggal lahir, jenis kelamin, informasi kontak, cabang yang diikuti).
     - 2c1) Kompetitor tidak memenuhi syarat untuk berkompetisi apabila data pendaftaran tidak lengkap, seperti yang ditentukan oleh tim panitia.
 - 2d) Nama kompetitor, negara, jenis kelamin, dan hasil kompetisi dianggap sebagai informasi publik. Seluruh informasi pribadi lainnya dianggap rahasia, dan tidak boleh diungkapkan pada organisasi luar/orang tanpa izin dari kompetitor.
-- 2e) Kompetitor harus mewakili negara yang mengeluarkan kewarganegaraan mereka. Delegate WCA harus memastikan kewarganegaraan berdasarkan dokumen atau kartu identitas (contoh: paspor) pada kompetisi pertama mereka. Jika kompetitor tidak memenuhi syarat untuk mewakilkan negara yang telah didaftarkan, kompetitor dapat didiskualifikasi dan/atau dihukum atas keputusan Board WCA.
+- 2e) Kompetitor harus mewakili negara yang mengeluarkan kewarganegaraan mereka. Delegate WCA harus memastikan kewarganegaraan berdasarkan dokumen atau kartu identitas (contoh: paspor, KTP, SIM, kartu pelajar, KK, dan sejenisnya) pada kompetisi pertama mereka. Jika kompetitor tidak memenuhi syarat untuk mewakilkan negara yang telah didaftarkan, kompetitor dapat didiskualifikasi dan/atau dihukum atas keputusan Board WCA.
     - 2e1) Daftar negara yang dapat diwakili tertulis dalam artikel [WCA List of Recognized Countries](https://www.worldcubeassociation.org/regulations/countries/).
     - 2e2) Kompetitor dengan status kewarganegaraan baru dapat mengganti negara yang diwakilkan sebelum atau saat kompetisi pertama yang diikuti kompetitor tersebut. Pengecualian: jika kompetitor kehilangan status kewarganegaraan dari negara sebelumnya, mereka harus mengubah negara yang diwakili sebelum atau saat kompetisi selanjutnya yang mereka ikuti.
 	- 2e3) Kompetitor yang tidak memiliki kewarganegaraan dapat berkompetisi dengan status "Tidak Berkewarganegaraan (Stateless)".
 - 2f) Kompetitor harus mematuhi regulasi venue kompetisi dan bersikap baik.
 - 2g) Kompetitor harus tetap tenang ketika berada di dalam area kompetisi yang ditetapkan. Berbicara diizinkan, tetapi dalam batas yang wajar, dan dalam jarak yang cukup jauh dari kompetitor yang sedang berkompetisi.
-    - 2g3) Kompetitor di dalam area kompetisi tidak boleh berkomunikasi satu sama lain mengenai Scramble Puzzle pada ronde yang sedang berlangsung. Penalti: diskualifikasi dari cabang yang bersangkutan, atas keputusan Delegate WCA.
+    - 2g3) Kompetitor di dalam area kompetisi tidak boleh berkomunikasi satu sama lain mengenai Scramble Puzzle pada babak yang sedang berlangsung. Penalti: diskualifikasi dari cabang yang bersangkutan, atas keputusan Delegate WCA.
 - 2h) Kompetitor harus berpakaian lengkap di lokasi kompetisi. Atas keputusan Delegate WCA, kompetitor dapat didiskualifikasi dari kompetisi karena pakaian yang tidak pantas.
 - 2i) Ketika berkompetisi, kompetitor tidak boleh menggunakan alat elektronik atau perangkat audio (contoh: telepon selular, MP3 player, diktafon, lampu untuk penerangan tambahan).
     - 2i1) Kompetitor dapat menggunakan bantuan non-elektronik tertentu yang tidak memberikan ketidakadilan, atas keputusan Delegate WCA. Alat-alat bantuan ini termasuk:
@@ -114,7 +114,7 @@ Catatan: Karena nomor Pasal dan Regulasi tidak diatur kembali saat ada Regulasi 
 - 2j) Delegate WCA dapat mendiskualifikasi kompetitor dari cabang tertentu.
     - 2j1) Jika kompetitor didiskualifikasi dari sebuah cabang karena suatu alasan, dia tidak boleh melakukan Attempt selanjutnya pada cabang yang bersangkutan.
 		- 2j1a) Hasil dari sisa Attempt yang belum diambil akan terisi DNF secara otomatis.
-    - 2j2) Jika kompetitor didiskualifikasi selama cabang berlangsung, hasil-hasil dari Attempt-Attempt yang dilakukan sebelumnya tetap sah. Pengecualian: kasus kecurangan (lihat [Regulasi 2k2a](regulations:regulation:2k2a)).
+    - 2j2) Jika kompetitor didiskualifikasi selama cabang berlangsung, hasil dari seluruh Attempt yang dilakukan sebelumnya tetap sah. Pengecualian: kasus kecurangan (lihat [Regulasi 2k2a](regulations:regulation:2k2a)).
 - 2k) Atas keputusan Delegate WCA, kompetitor dapat didiskualifikasi dari suatu cabang (satu cabang, banyak cabang, atau seluruh cabang) jika kompetitor:
     - 2k1) Tidak melakukan pendaftaran tepat waktu pada saat kompetisi.
     - 2k2) Dicurigai melakukan kecurangan pada panitia selama kompetisi berlangsung.
@@ -125,8 +125,8 @@ Catatan: Karena nomor Pasal dan Regulasi tidak diatur kembali saat ada Regulasi 
 - 2l) Kompetitor dapat secepatnya didiskualifikasi, atau setelah peringatan, bergantung pada sifat dan beratnya pelanggaran.
     - 2l1) Kompetitor yang didiskualifikasi tidak diperbolehkan meminta pengembalian dana atas partisipasi di kompetisi.
 - 2n) Kompetitor dapat menyangkal keputusan Delegate WCA secara verbal.
-    - 2n1) Sangkalan hanya diterima selama kompetisi, dalam jangka waktu 30 menit setelah insiden yang bersangkutan terjadi dan sebelum ronde selanjutnya dalam cabang yang relevan dilaksanakan.
-    - 2n2) Delegate WCA harus menyelesaikan sangkalan sebelum ronde selanjutnya dalam cabang yang bersangkutan dimulai.
+    - 2n1) Sangkalan hanya diterima selama kompetisi, dalam jangka waktu 30 menit setelah insiden yang bersangkutan terjadi dan sebelum babak selanjutnya dalam cabang yang relevan dilaksanakan.
+    - 2n2) Delegate WCA harus menyelesaikan sangkalan sebelum babak selanjutnya dalam cabang yang bersangkutan dimulai.
     - 2n3) Kompetitor harus menyetujui seluruh keputusan akhir dari Delegate WCA. Penalti: diskualifikasi dari kompetisi.
 - 2s) Kompetitor dengan kekurangan fisik yang dapat mencegah kompetitor untuk mematuhi satu atau lebih Regulasi WCA, dapat meminta fasilitas khusus dari Delegate WCA. Kompetitor yang membutuhkan fasilitas tersebut, sebaiknya menghubungi tim panitia selambat-lambatnya 2 (dua) minggu sebelum kompetisi dilaksanakan.
 - 2t) Setiap kompetitor harus familiar dan mengerti Regulasi WCA sebelum kompetisi dilangsungkan.
@@ -139,7 +139,7 @@ Catatan: Karena nomor Pasal dan Regulasi tidak diatur kembali saat ada Regulasi 
 - 3a) Kompetitor harus membawa Puzzle mereka sendiri untuk kompetisi.
     - 3a1) Kompetitor harus siap untuk mengumpulkan puzzle ketika dipanggil (lihat [Regulasi 2u](regulations:regulation:2u)).
     - 3a2) Puzzle harus beroperasi dengan semestinya, sehingga dapat dilakukan Scrambling dengan normal.
-    - 3a3) Puzzle bersisi banyak harus menggunakan skema warna dengan satu warna unik per sisi dalam keadaan terselesaikan. Setiap variasi Puzzle harus memiliki gerakan, keadaan, dan solusi yang secara fungsional identik dengan Puzzle aslinya.
+    - 3a3) Puzzle polihedral/bersisi banyak harus menggunakan skema warna dengan satu warna unik per sisi dalam keadaan terselesaikan. Setiap variasi Puzzle harus memiliki gerakan, keadaan, dan solusi yang secara fungsional identik dengan Puzzle aslinya.
 - 3d) Puzzle harus memiliki bagian berwarna, yang mendefinisikan skema warna Puzzle tersebut, dan harus terbuat dari satu dan hanya satu dari: stiker berwarna, Tile berwarna, plastik berwarna, atau cat/cetakan berwarna. Seluruh bagian berwarna dari sebuah Puzzle harus terbuat dari bahan yang sama.
     - 3d1) Untuk kompetitor dengan disabilitas penglihatan yang telah didokumentasi secara medis, pengecualian berikut berlaku:
 		- 3d1a) Kompetitor tuna netra dapat memakai Puzzle bertekstur dengan tekstur yang berbeda pada sisi yang berbeda. Setiap sisi harus memiliki warna yang berbeda, untuk memudahkan Scrambling dan Judging.
@@ -156,8 +156,8 @@ Catatan: Karena nomor Pasal dan Regulasi tidak diatur kembali saat ada Regulasi 
 	- 3j2) Definisi: Dua Piece dikatakan sama jika mereka memiliki bentuk dan ukuran yang identik, atau bentuk yang tercermin dan ukuran yang indentik.
 	- 3j3) Bagian bergelombang/bertekstur yang dapat membedakan orientasi Piece dari sentuhan tidak diperbolehkan untuk cabang Blindfolded.
 - 3k) Puzzle harus disetujui oleh Delegate WCA sebelum dipakai pada kompetisi.
-	- 3k1) Jika ditemukan Puzzle yang seharusnya tidak boleh dipakai saat ronde berlangsung, kompetitor harus segera mengganti dengan Puzzle yang boleh dipakai.
-	- 3k2) Penalti untuk Attempt yang menggunakan Puzzle yang tidak diizinkan: diskualifikasi Attempt (DNF). Pengecualian: Jika ditemukan Puzzle yang seharusnya tidak boleh dipakai saat ronde berlangsung, hasil dapat diganti dengan Attempt tambahan, atas keputusan Delegate WCA.
+	- 3k1) Jika ditemukan Puzzle yang seharusnya tidak boleh dipakai saat babak berlangsung, kompetitor harus segera mengganti dengan Puzzle yang boleh dipakai.
+	- 3k2) Penalti untuk Attempt yang menggunakan Puzzle yang tidak diizinkan: diskualifikasi Attempt (DNF). Pengecualian: Jika ditemukan Puzzle yang seharusnya tidak boleh dipakai saat babak berlangsung, hasil dapat diganti dengan Attempt tambahan, atas keputusan Delegate WCA.
 - 3l) Sebuah Puzzle kubus dapat memiliki logo pada bagian berwarna. Jika ada, paling banyak hanya dapat ada satu bagian berwarna yang memiliki logo. Pengecualian: Untuk cabang Blindfolded, Puzzle tidak boleh memiliki logo.
     - 3l1) Logo harus ditempatkan pada Center Piece. Pengecualian untuk Puzzle yang tidak memiliki center Piece:
 		- 3l1a) Untuk Pyraminx dan 2x2x2, logo dapat ditempatkan pada Piece manapun.
@@ -171,7 +171,7 @@ Catatan: Karena nomor Pasal dan Regulasi tidak diatur kembali saat ada Regulasi 
 - 4a) Scrambler menerapkan rangkaian Scramble kepada Puzzle.
 - 4b) Puzzle harus teracak oleh rangkaian Scramble yang di-generate oleh komputer.
     - 4b1) Scramble yang di-generate tidak boleh dilihat/diperiksa sebelum kompetisi berlangsung, dan tidak boleh dipilih atau diseleksi dengan alasan apapun oleh Delegate WCA.
-    - 4b2) Rangkaian Scramble sebuah ronde hanya dapat diakses oleh Delegate WCA dan Scrambler sebuah cabang sampai akhir ronde. Pengecualian: Untuk cabang Fewest Moves Solving, kompetitor menerima rangkaian Scramble pada saat ronde berlangsung (lihat [Pasal E](regulations:article:E)).
+    - 4b2) Rangkaian Scramble sebuah babak hanya dapat diakses oleh Delegate WCA dan Scrambler sebuah cabang sampai akhir babak. Pengecualian: Untuk cabang Fewest Moves Solving, kompetitor menerima rangkaian Scramble pada saat babak berlangsung (lihat [Pasal E](regulations:article:E)).
 	- 4b3) Spesifikasi untuk program Scramble: Rangkaian Scramble resmi harus menghasilkan keadaan random dari keadaan yang membutuhkan setidaknya 2 (dua) gerakan untuk diselesaikan (kemungkinan yang sama untuk tiap keadaan). Tambahan/pengecualian berikut berlaku:
 		- 4b3a) Untuk cabang Blindfolded, rangkaian Scramble harus mengubah orientasi Puzzle secara random (kemungkinan sama untuk tiap orientasi).
 		- 4b3b) Kubus 2x2x2: Keadaan (random) harus membutuhkan setidaknya 4 (empat) gerakan untuk diselesaikan.
@@ -224,7 +224,7 @@ Catatan: Karena nomor Pasal dan Regulasi tidak diatur kembali saat ada Regulasi 
     - 7f2) Pengukur waktu Stackmat harus terpasang pada karpet dan diletakkan pada permukaan, dengan pengukur waktu menghadap pada sisi terdekat dari kompetitor.
         - 7f2a) Pengecualian: untuk Solving dengan kaki (With Feet), Stackmat harus diletakkan langsung di lantai. Alat pengukur waktu dapat ditempatkan di sisi dari karpet (mat) yang paling jauh dari kompetitor.
 - 7h) Area kompetisi harus memiliki Area kompetitor.
-    - 7h1) Tim panitia mungkin mengharuskan kompetitor yang sudah dipanggil berkompetisi untuk harus tetap berada di dalam area kompetitor sampai dia sudah menyelesaikan seluruh Attempt-nya dalam ronde tersebut.
+    - 7h1) Tim panitia mungkin mengharuskan kompetitor yang sudah dipanggil berkompetisi untuk harus tetap berada di dalam area kompetitor sampai dia sudah menyelesaikan seluruh Attempt-nya dalam babak tersebut.
 
 
 ## <article-8><competitions><competitions> Pasal 8: Kompetisi
@@ -245,50 +245,50 @@ Catatan: Karena nomor Pasal dan Regulasi tidak diatur kembali saat ada Regulasi 
 - 9a) WCA menyelenggarakan kompetisi untuk Puzzle mekanik yang dioperasikan dengan memutar beberapa Piece, yang umumnya dikenal dengan "Twisty Puzzle".
 - 9b) Puzzle dan format cabang resmi WCA adalah sebagai berikut:
     - 9b1) Kubus 3x3x3, Kubus 2x2x2, Kubus 4x4x4, Kubus 5x5x5, 3x3x3 One-Handed, 3x3x3 With Feet, Clock, Megaminx, Pyraminx, Skewb, dan Square-1.
-        - 9b1a) Format ronde untuk cabang-cabang tersebut adalah: "Average of 5". Untuk Ronde Gabungan formatnya adalah "Best of 2" untuk fase pertama dan "Average of 5" untuk fase selanjutnya. Pengecualian: Untuk kasus khusus, format ronde untuk cabang ini dapat menjadi "Best of X" (di mana X adalah 1, 2, atau 3), atas keputusan Board WCA.
+        - 9b1a) Format babak untuk cabang-cabang tersebut adalah: "Average of 5". Untuk Babak Gabungan (Combined Round) formatnya adalah "Best of 2" untuk fase pertama dan "Average of 5" untuk fase selanjutnya. Pengecualian: Untuk kasus khusus, format babak untuk cabang ini dapat menjadi "Best of X" (di mana X adalah 1, 2, atau 3), atas keputusan Board WCA.
     - 9b2) 3x3x3 Fewest Moves, Kubus 6x6x6, dan Kubus 7x7x7.
-        - 9b2a) Format ronde untuk cabang-cabang tersebut adalah: "Best of X" (di mana X adalah 1 atau 2) dan "Mean of 3".
+        - 9b2a) Format babak untuk cabang-cabang tersebut adalah: "Best of X" (di mana X adalah 1 atau 2) dan "Mean of 3".
     - 9b3) 3x3x3 Blindfolded, 4x4x4 Blindfolded, 5x5x5 Blindfolded, dan 3x3x3 Multi-Blind.
-        - 9b3a) Format ronde untuk cabang-cabang tersebut adalah: "Best of X" (di mana X adalah 1, 2, atau 3).
-		- 9b3b) Untuk 3x3x3 Blindfolded, WCA juga mengenal ranking dan rekor "Mean of 3" berdasarkan waktu-waktu pada ronde "Best of 3".
-- 9f) Hasil dari ronde diukur sebagai berikut:
-    - 9f1) Seluruh hasil waktu di bawah 10 menit dihitung dan dipotong sampai ke seperseratus detik terdekat. Seluruh hasil waktu average dan mean dibawah 10 menit diukur dan dibulatkan ke seperseratus detik terdekat.
+        - 9b3a) Format babak untuk cabang-cabang tersebut adalah: "Best of X" (di mana X adalah 1, 2, atau 3).
+		- 9b3b) Untuk 3x3x3 Blindfolded, WCA juga mengenal ranking dan rekor "Mean of 3" berdasarkan waktu-waktu pada babak "Best of 3".
+- 9f) Hasil dari sebuah babak diukur sebagai berikut:
+    - 9f1) Seluruh hasil waktu di bawah 10 menit dihitung dan dipotong sampai ke seperseratus detik terdekat. Seluruh hasil waktu average dan mean dibawah 10 menit diukur dan dibulatkan ke seperseratus detik terdekat (dua angka di belakang koma).
     - 9f2) Seluruh hasil waktu di atas 10 menit dihitung dan dibulatkan ke detik terdekat (contohnya x.4 menjadi x, x.5 menjadi x+1).
     - 9f4) Hasil dari Attempt dinyatakan DNF (Did Not Finish) jika peserta gagal menyelesaikan Puzzle atau dikenakan diskualifikasi pada Attempt yang bersangkutan.
     - 9f5) Hasil dari Attempt dinyatakan DNS (Did Not Start) jika peserta mampu/diperbolehkan melakukan Attempt, tetapi peserta menolaknya.
-    - 9f6) Untuk ronde "Best of X", setiap peserta diberi kesempatan X attemps. Hasil terbaik dari seluruh Attempt dihitung untuk menentukan peringkat peserta di ronde tersebut.
-    - 9f7) Untuk ronde "Best of X", hasil DNF (Did Not Finish) atau DNS (Did Not Start) adalah hasil terburuk.
-    - 9f8) Untuk ronde "Average of 5", peserta diberi kesempatan 5 (lima) Attempt. Dari 5  (lima) Attempt yang dilakukan, hasil terbaik dan terburuk dibuang dan perhitungan rata-rata secara aritmetik dari 3 (tiga) hasil yang tersisa menentukan peringkat peserta di ronde tersebut.
-    - 9f9) Untuk ronde "Average of 5", hasil DNF (Did Not Finish) atau DNS (Did Not Start) dapat dihitung sebagai hasil terburuk. Jika tedapat lebih dari 1 (satu) hasil DNF (Did Not Finish) atau DNS (Did Not Start) di dalam ronde tersebut, hasil average dianggap DNF (Did Not Finish).
-    - 9f10) Untuk ronde "Mean of 3", peserta dineri kesempatan 3 (tiga) Attempt. Perhitungan rata-rata secara aritmetik dari 3 (tiga) hasil yang didapatkan menentukan peringkat peserta pada ronde tersebut.
-    - 9f11) Untuk ronde "Mean of 3", jika peserta mempunyai setidaknya 1 (satu) hasil DNF (Did Not Finish) atau DNS (Did Not Start) di dalam ronde tersebut, hasil average di anggap DNF (Did Not Finish).
+    - 9f6) Untuk babak "Best of X", setiap peserta diberi kesempatan X attemps. Hasil terbaik dari seluruh Attempt dihitung untuk menentukan peringkat peserta di babak tersebut.
+    - 9f7) Untuk babak "Best of X", hasil DNF (Did Not Finish) atau DNS (Did Not Start) adalah hasil terburuk.
+    - 9f8) Untuk babak "Average of 5", peserta diberi kesempatan 5 (lima) Attempt. Dari 5  (lima) Attempt yang dilakukan, hasil terbaik dan terburuk dibuang dan perhitungan rata-rata secara aritmetik dari 3 (tiga) hasil yang tersisa menentukan peringkat peserta di babak tersebut.
+    - 9f9) Untuk babak "Average of 5", hasil DNF (Did Not Finish) atau DNS (Did Not Start) dapat dihitung sebagai hasil terburuk. Jika tedapat lebih dari 1 (satu) hasil DNF (Did Not Finish) atau DNS (Did Not Start) di dalam babak tersebut, hasil average dianggap DNF (Did Not Finish).
+    - 9f10) Untuk babak "Mean of 3", peserta diberi kesempatan 3 (tiga) Attempt. Perhitungan rata-rata secara aritmetik dari 3 (tiga) hasil yang didapatkan menentukan peringkat peserta pada babak tersebut.
+    - 9f11) Untuk babak "Mean of 3", jika peserta mempunyai setidaknya 1 (satu) hasil DNF (Did Not Finish) atau DNS (Did Not Start) di dalam babak tersebut, hasil average dianggap DNF (Did Not Finish).
     - 9f12) Pada format "Best of X", peringkat didasarkan pada hasil terbaik dari tiap kompetitor. Penentuan peringkat terbaik berdasarkan kepada:
         - 9f12a) Untuk hasil waktu, "lebih baik" berarti waktu yang lebih singkat yang didapatkan sebagai hasil.
         - 9f12b) Untuk Fewest Moves Solving, "lebih baik" berarti solusi yang didapatkan yang memiliki lebih sedikit gerakan.
-        - 9f12c) Untuk Multiple Blindfolded Solving, peringkat dinilai berdasarkan jumlah Puzzle yang terselesaikan dikurangi jumlah Puzzle yang tidak terselesaikan, di mana semakin besar perbedaan, semakin lebih baik. Jika perbedaan kurang dari 0 (nol), atau hanya 1 Puzzle yang terselesaikan, hasil Attempt dianggap tidak terselesaikan (DNF). Jika peserta mendapatkan hasil yang sama dengan peserta lain, peringkat dinilai berdasarkan total waktu, di mana semakin singkat waktu yang tercatat, semakin lebih baik. Jika peserta mendapatkan hasil yang sama dan total waktu yang sama dengan peserta lain, peringkat dinilai berdasarkan jumlah Puzzle yang tidak terselesaikan, di mana semakin sedikit Puzzle yang tidak terselesaikan, semakin lebih baik.
-    - 9f13) Untuk ronde "Mean of 3" dan "Average of 5", peringkat dinilai berdasarkan urutan dari average/mean dari kompetisi, di mana "lebih baik" diartikan sebagai hasil waktu lebih singkat yang tercatat.
-    - 9f14) Untuk ronde "Mean of 3" dan "Average of 5", jika 2 (dua) atau lebih peserta mendapatkan hasil average/mean yang identik, peringkat dinilai berdasarkan hasil Attempt terbaik, di mana "lebih baik" diartikan sebagai hasil waktu lebih singkat yang tercatat.
-    - 9f15) Peserta yang mendapatkan hasil yang sama dalam sebuah ronde mendapatkan peringkat yang identik pada ronde tersebut.
+        - 9f12c) Untuk Multiple Blindfolded Solving, peringkat ditentukan berdasarkan jumlah Puzzle yang terselesaikan dikurangi jumlah Puzzle yang tidak terselesaikan, di mana semakin besar perbedaan, semakin lebih baik. Jika perbedaan kurang dari 0 (nol), atau hanya 1 Puzzle yang terselesaikan, hasil Attempt dianggap tidak terselesaikan (DNF). Jika peserta mendapatkan hasil yang sama dengan peserta lain, peringkat dinilai berdasarkan total waktu, di mana semakin singkat waktu yang tercatat, semakin lebih baik. Jika peserta mendapatkan hasil yang sama dan total waktu yang sama dengan peserta lain, peringkat dinilai berdasarkan jumlah Puzzle yang tidak terselesaikan, di mana semakin sedikit Puzzle yang tidak terselesaikan, semakin lebih baik.
+    - 9f13) Untuk babak "Mean of 3" dan "Average of 5", peringkat dinilai berdasarkan urutan dari average/mean dari kompetisi, di mana "lebih baik" diartikan sebagai hasil waktu lebih singkat yang tercatat.
+    - 9f14) Untuk babak "Mean of 3" dan "Average of 5", jika 2 (dua) atau lebih peserta mendapatkan hasil average/mean yang identik, peringkat dinilai berdasarkan hasil Attempt terbaik, di mana "lebih baik" diartikan sebagai hasil waktu lebih singkat yang tercatat.
+    - 9f15) Peserta yang mendapatkan hasil yang sama dalam sebuah babak mendapatkan peringkat yang identik/sama pada babak tersebut.
 - 9g) Combined round terdiri atas 2 fase Attempt, di mana peserta melanjutkan ke fase kedua apabila mereka menyelesaikan di bawah batas waktu yang ditetapkan pada fase pertama.
-    - 9g2) Jika peserta melanjutkan ke fase selanjutnya dari Combined round, harus ditentukan berdasarkan peringkat (x peserta terbaik) atau berdasarkan hasil (seluruh peserta dengan hasil waktu dibawah x) dari fase pertama.
+    - 9g2) Jika peserta melanjutkan ke fase selanjutnya dari Combined round, harus ditentukan berdasarkan peringkat (x peserta terbaik) atau berdasarkan hasil (seluruh peserta dengan hasil waktu di bawah x) dari fase pertama.
 - 9i) Hasil dari kompetisi resmi WCA harus dicatat ke WCA World Rangkings (peringkat dunia WCA).
-    - 9i1) WCA mengenali tipe-tipe rekor berikut ini: rekor nasional (national records), rekor benua (continental records), dan rekor dunia (world records).
-    - 9i2) Seluruh hasil dari sebuah ronde dianggap terjadi pada hari terakhir kompetisi, jika rekor regional dipecahkan beberapa kali pada hari yang sama, hanya hasil terbaik yang memecahkan rekor regional.
+    - 9i1) WCA mengakui tipe-tipe rekor berikut ini: rekor nasional (national records), rekor benua (continental records), dan rekor dunia (world records).
+    - 9i2) Seluruh hasil dari sebuah babak dianggap terjadi pada hari terakhir kompetisi, jika rekor regional dipecahkan beberapa kali pada hari yang sama, hanya hasil terbaik yang memecahkan rekor regional.
     - 9i3) Jika Regulasi WCA untuk sebuah cabang diubah, rekor regional yang ada bertahan sampai rekor yang baru dipecahkan di bawah Regulasi WCA yang baru.
 - 9j) Setiap cabang harus didakan maksimal satu kali per kompetisi.
 - 9k) Seluruh peserta dapat berpartisipasi di seluruh cabang di kompetisi, kecuali dalam kasus khusus yang disetujui oleh penyelenggara.
-- 9l) Setiap ronde harus diselesaikan sebelum ronde selanjutnya dalam cabang yang sama dimulai.
-- 9m) Maksimal jumlah ronde pada satu cabang yang diizinkan adalah 4 ronde.
-    - 9m1) Jumlah maksimal ronde yang diizinkan pada cabang dengan jumlah peserta 99 (sembilan puluh sembilan) atau kurang adalah 3 (tiga) ronde.
-    - 9m2) Jumlah maksimal ronde yang diizinkan pada cabang dengan jumlah peserta 15 (lima belas) atau kurang adalah 2 (dua) ronde.
-    - 9m3) Jumlah maksimal ronde yang diizinkan pada cabang dengan jumlah peserta 7 (tujuh) atau kurang adalah 1 (satu) ronde.
-- 9o) Combined round  dianggap sebagai 1 (satu) ronde pada saat penghitungan jumlah ronde per cabang.
-- 9p) Jika sebuah cabang mempunyai beberapa ronde, maka:
-    - 9p1) Setidaknya 25% (dua puluh lima persen) dari peserta harus tereliminasi diantara putaran ronde pada cabang yang sama.
-    - 9p2) Peserta yang melanjutkan ke ronde selanjutnya harus diputuskan berdasarkan batas peringkat (x kompetitor teratas) atau dengan hasil (seluruh kompetitor dengan hasil yang lebih baik dari x) pada ronde sebelumnya.
-		- 9p2a) Untuk setiap ronde, syarat-syarat untuk lolos ke ronde berikutnya harus diumumkan sebelum sebuah ronde dimulai, dan tidak boleh diubah setelah ronde dimulai. Perubahan harus dibuat atas keputusan Delegate WCA yang harus berhati-hati untuk tetap menjaga keadilan dari perubahan tersebut.
-    - 9p3) Jika peserta yang memenuhi syarat mengundurkan diri dari sebuah ronde, peserta tersebut dapat digantikan oleh peserta lain dengan peringkat dibawahnya pada ronde sebelumnya.
-- 9s) Setiap ronde dari setiap cabang harus mempunyai batas waktu (lihat [Regulasi A1a](regulations:regulation:A1a)).
+- 9l) Setiap babak harus diselesaikan sebelum babak selanjutnya dalam cabang yang sama dimulai.
+- 9m) Maksimal jumlah babak pada satu cabang yang diizinkan adalah 4 babak.
+    - 9m1) Jumlah maksimal babak yang diizinkan pada cabang dengan jumlah peserta 99 (sembilan puluh sembilan) atau kurang adalah 3 (tiga) babak.
+    - 9m2) Jumlah maksimal babak yang diizinkan pada cabang dengan jumlah peserta 15 (lima belas) atau kurang adalah 2 (dua) babak.
+    - 9m3) Jumlah maksimal babak yang diizinkan pada cabang dengan jumlah peserta 7 (tujuh) atau kurang adalah 1 (satu) babak.
+- 9o) Combined round  dianggap sebagai 1 (satu) babak pada saat penghitungan jumlah babak per cabang.
+- 9p) Jika sebuah cabang mempunyai beberapa babak, maka:
+    - 9p1) Setidaknya 25% (dua puluh lima persen) dari peserta harus tereliminasi diantara putaran babak pada cabang yang sama.
+    - 9p2) Peserta yang melanjutkan ke babak selanjutnya harus diputuskan berdasarkan batas peringkat (x kompetitor teratas) atau dengan hasil (seluruh kompetitor dengan hasil yang lebih baik dari x) pada babak sebelumnya.
+		- 9p2a) Untuk setiap babak, syarat-syarat untuk lolos ke babak berikutnya harus diumumkan sebelum sebuah babak dimulai, dan tidak boleh diubah setelah babak dimulai. Perubahan harus dibuat atas keputusan Delegate WCA yang harus berhati-hati untuk tetap menjaga keadilan dari perubahan tersebut.
+    - 9p3) Jika peserta yang memenuhi syarat mengundurkan diri dari sebuah babak, peserta tersebut dapat digantikan oleh peserta lain dengan peringkat dibawahnya pada babak sebelumnya.
+- 9s) Setiap babak dari setiap cabang harus mempunyai batas waktu (lihat [Regulasi A1a](regulations:regulation:A1a)).
 
 
 ## <article-10><solved-state><solvedstate> Pasal 10: Keadaan Terselesaikan
@@ -306,7 +306,7 @@ Catatan: Karena nomor Pasal dan Regulasi tidak diatur kembali saat ada Regulasi 
     - 10f2) Megaminx: maksimal 36 (tiga puluh enam) derajat.
     - 10f3) Pyraminx dan Skewb: maksimal 60 (enam puluh) derajat.
     - 10f4) Square-1: maksimal 45 (empat puluh lima) derajat untuk layer atas dan bawah (U/D) atau 90 (sembilan puluh) derajat untuk slice (/).
-- 10h) Puzzle yang tidak dijelaskan di pasal ini diwasiti secara umum untuk mencapai keadaan terselesaikan seperti yang didefinisikan sebagai hasil/tujuan yang tercapai pada Puzzle.
+- 10h) Puzzle yang tidak dijelaskan di pasal ini di-Judging secara umum untuk mencapai keadaan terselesaikan seperti yang didefinisikan sebagai hasil/tujuan yang tercapai pada Puzzle.
 	- 10h1) Keadaan terselesaikan pada Clock dicapai saat seluruh delapan belas jarum jam menunjukkan angka 12 (dua belas).
 
 
@@ -359,10 +359,10 @@ Catatan: Karena nomor Pasal dan Regulasi tidak diatur kembali saat ada Regulasi 
     - 12e2) Searah jarum jam, 120 derajat: U (2 sisi atas), L (2 sisi kiri), R (2 sisi kanan), B (2 sisi belakang), u (ujung bagian atas), l (ujung bagian kiri), r (ujung bagian kanan), b (ujung bagian belakang).
     - 12e3) Berlawanan arah jarum jam, 120 derajat: U' (2 sisi atas), L' (2 sisi kiri), R' (2 sisi kanan), B' (2 sisi belakang), u' (ujung bagian atas), l' (ujung bagian kiri), r' (ujung bagian kanan), b' (ujung bagian belakang).
 - 12g) Notasi untuk Clock:
-    - 12g1) Puzzle diorientasikan dengan angka 12 di atas, dengan sisi mana saja terletak didepan.
+    - 12g1) Puzzle diorientasikan dengan angka 12 di atas, dengan sisi mana saja terletak di depan.
     - 12g2) Gerakkan pin naik: UR (atas-kanan), DR (bawah-kanan), DL (bawah-kiri), UL (atas-kiri), U (dua pin bagian atas), R (dua pin bagian kanan), D (dua pin bagian bawah), L (dua pin bagian kiri), ALL (seluruh pin).
     - 12g3) Memutar gir yang bersebelahan dengan pin yang sedang berada di posisi atas dan gerakkan seluruh pin kebawah setelah melakukan gerakan ini: x+ (putaran x searah jarum jam), x- (putaran x berkebalikan dengan arah jarum jam).
-    - 12g4) Putar Puzzle dengan angka 12 tetap diatas, lalu buat seluruh pin kebawah: y2.
+    - 12g4) Putar Puzzle dengan angka 12 tetap di atas, lalu buat seluruh pin ke bawah: y2.
 - 12h) Notasi untuk Skewb:
 	- 12h1) Puzzle diorientasikan dengan tiga sisi terlihat jelas, di mana sisi teratas berada di atas.
 	- 12h2) Searah dengan jarum jam, 120 derajat: R (layer sekitar sumbu bawah-kanan terjauh yang terlihat), U (layer sekitar sumbu atas terjauh yang terlihat), L (layer sekitar sumbu bawah-kiri terjauh yang terlihat), B (layer sekitar sumbu belakang terjauh yang tidak terlihat).
@@ -372,20 +372,20 @@ Catatan: Karena nomor Pasal dan Regulasi tidak diatur kembali saat ada Regulasi 
 ## <article-A><speedsolving><speedsolving> Pasal A: Speed Solving
 
 - A1) Seluruh Attempt Speed Solving harus menaati seluruh prosedur berikut.
-    - A1a) Tim organisasi diperbolehkan untuk melaksanakan batas waktu untuk tiap Solving dan/atau ronde.
+    - A1a) Tim organisasi diperbolehkan untuk melaksanakan batas waktu untuk tiap Solving dan/atau babak.
         - A1a1) Batas waktu default untuk tiap Attempt adalah 10 menit, akan tetapi tim organisasi diperbolehkan untuk mengumumkan limit yang lebih lambat atau lebih cepat.
         - A1a2) Batas waktu kumulatif dapat diterapkan (misal, 3 Attempt dengan batas waktu kumulatif 20 menit - lihat [Regulasi A1a5](regulations:regulation:A1a5)). Waktu yang terpakai di Attempt yang DNF (Did Not Finish) akan tetap terhitung dalam batas waktu kumulatif tersebut.
-        - A1a3) Untuk setiap ronde, batas waktu harus diumumkan sebelum ronde dimulai, dan sebaiknya tidak diganti setelah ronde tersebut dimulai. Penggantian harus dibuat atas keputusan Delegate WCA yang harus berhati-hati untuk tetap menjaga keadilan dari penggantian tersebut.
-        - A1a4) Kompetitor harus menyelesaikan setiap Solving dalam batas waktu yang telah diterapkan. Jika seorang kompetitor melebehi batas waktu untuk sebuah Solving/ronde, Judge menghentikan Solving tersebut segera dan hasilnya adalah DNF. Pengecualian: Multiple Blindfolded Solving (lihat [Regulasi H1b1](regulations:regulation:H1b1)).
+        - A1a3) Untuk setiap babak, batas waktu harus diumumkan sebelum babak dimulai, dan sebaiknya tidak diganti setelah babak tersebut dimulai. Penggantian harus dibuat atas keputusan Delegate WCA yang harus berhati-hati untuk tetap menjaga keadilan dari penggantian tersebut.
+        - A1a4) Kompetitor harus menyelesaikan setiap Solving dalam batas waktu yang telah diterapkan. Jika seorang kompetitor melebehi batas waktu untuk sebuah Solving/babak, Judge menghentikan Solving tersebut segera dan hasilnya adalah DNF. Pengecualian: Multiple Blindfolded Solving (lihat [Regulasi H1b1](regulations:regulation:H1b1)).
         - A1a5) Solving dianggap akan dianggap memenuhi batas waktu jika dan hanya jika hasil akhir, setelah seluruh penalti waktu telah dihitung, belum menyentuh batas waktu tersebut. Pengecualian: Multiple Blindfolded Solving (lihat [Regulasi H1b1](regulations:regulation:H1b1)).
     - A1b) Jika batas waktu untuk sebuah Solving lebih dari 10 menit, Stopwatch harus digunakan untuk penghitungan waktu.
         - A1b1) Stackmat harus digunakan sebagai pelengkap Stopwatch. Pengecualian: untuk cabang tanpa inspeksi di mana kompetitor yakin akan melebihi waktu 10 menit, penggunaan Stackmat tidak diharuskan.
         - A1b2) Jika Stackmat Timer menunjukan sebuah waktu, maka waktu tersebut yang harus dicatat. Jika tidak ada waktu yang tampak pada Stackmat Timer, maka hasil dari Stopwatch yang harus dicatat.
     - A1c) Kompetitor yang berpartisipasi dalam sebuah cabang harus memenuhi syarat cabang tersebut (contohnya mampu menyelesaikan Puzzle tersebut). Kompetitor yang mengikuti cabang tersebut tidak boleh berekspetasi hasil DNF (Did Not Finish) atau hasil buruk yang disengaja. Penalti: diskualifikasi Attempt tersebut (DNF) atau diskualifikasi dari cabang (lihat [Regulasi 2j](regulations:regulation:2j)), atas keputusan Delegate WCA.
 - A2) Scrambling:
-    - A2a) Jika telah dipanggil untuk sebuah ronde, kompetitor mengumpulkan Puzzle dalam keadaan terselesaikan kepada Scrambler dan menunggu di Area Kompetitor sampai dia dipanggil untuk Attempt.
+    - A2a) Jika telah dipanggil untuk sebuah babak, kompetitor mengumpulkan Puzzle dalam keadaan terselesaikan kepada Scrambler dan menunggu di Area Kompetitor sampai dia dipanggil untuk Attempt.
     - A2b) Scrambler mengacak Puzzle sesuai dengan regulasi di [Pasal 4](regulations:article:4).
-		- A2b1) Untuk Square-1, panitia dapat menyisipkan benda tipis pada Puzzle untuk menghindari gerakan yang tidak disengaja sebelum Attempt dimulai. Jika objek ini dipakai, maka panitia harus mengumumkannya sebelum ronde dimulai.
+		- A2b1) Untuk Square-1, panitia dapat menyisipkan benda tipis pada Puzzle untuk menghindari gerakan yang tidak disengaja sebelum Attempt dimulai. Jika objek ini dipakai, maka panitia harus mengumumkannya sebelum babak dimulai.
     - A2c) Setelah Scrambler memulai mengacak Puzzle, kompetitor dilarang melihat Puzzle sampai saat fase inspeksinya dimulai.
         - A2c1) Scrambler menutup Puzzle yang telah teracak dengan sebuah penutup agar tidak ada kompetitor atau penonton yang dapat melihat bagian manapun dari Puzzle tersebut. Penutup harus tetap menutup Puzzle sampai dimulainya Attempt.
     - A2d) Ketika mengambil sebuah Puzzle dari Scrambler, Judge melihat sekilas Puzzle yang telah teracak tersebut untuk memastikan Puzzle telah teracak. Jika Judge merasa Puzzle belum teracak secara benar, Scrambler melakukan pengecekan setelah mendetail.
@@ -396,11 +396,11 @@ Catatan: Karena nomor Pasal dan Regulasi tidak diatur kembali saat ada Regulasi 
     - A3a) Kompetitor diperbolehkan menginspeksi Puzzle di awal Attempt.
         - A3a1) Kompetitor diberikan waktu maksimal 15 detik untuk menginspeksi dan memulai Solving.
     - A3b) Sebelum kompetitor memulai Attempt, Judge me-reset pengukur waktu dan, jika diperlukan, Stopwatch.
-        - A3b1) Ketika Judge merasa kompetitor telah siap, dia menanyakan "SIAP/READY?". Kompetitor harus siap untuk memulai Attempt maksimal 1 menit setelah dipanggil, jika tidak kompetitor akan kehilangan kesempatan mengambil Attempt(DNS), atas keputusan Judge.
+        - A3b1) Ketika Judge merasa kompetitor telah siap, dia menanyakan "SIAP/READY?". Kompetitor harus siap untuk memulai Attempt maksimal 1 menit setelah dipanggil, jika tidak kompetitor akan kehilangan kesempatan mengambil Attempt (DNS), atas keputusan Judge.
         - A3b2) Kompetitor memulai Attemptnya dengan memberitahu bahwa kompetitor sudah siap, dan Judge membuka penutup Puzzle dan memulai waktu inspeksi pada saat yang bersamaan.
     - A3c) Kompetitor diperbolehkan mengangkat Puzzle ketika inspeksi.
         - A3c1) Kompetitor dilarang melakukan gerakan apapun pada Puzzle ketika inspeksi. Penalti: diskualifikasi Attempt tersebut (DNF)
-        - A3c2) Jika ada bagian Puzzle yang tidak terposisi dengan rapi, kompetitor diperbolehkan memperbaikinya, asalkan misposisi tersebut masih dibawah batas [Regulasi 10f](regulations:regulation:10f).
+        - A3c2) Jika ada bagian Puzzle yang tidak terposisi dengan rapi, kompetitor diperbolehkan memperbaikinya, asalkan misposisi tersebut masih di bawah batas [Regulasi 10f](regulations:regulation:10f).
         - A3c3) Kompetitor diperbolehkan me-reset pengukur waktu sebelum memulai Solving.
 		- A3c4) Untuk Square-1, jika penggunaan benda tipis di dalam Puzzle diterapkan oleh tim panitia (lihat [Regulasi A2b1](regulations:regulation:A2b1), kompetitor dapat melepas benda tersebut dari Puzzle pada saat inspeksi.
     - A3d) Selesai inspeksi, kompetitor memposisikan puzzlenya di atas mat, dalam posisi dan orientasi apapun. Penalti jika Puzzle diletakkan di luar mat: penalti waktu (+2 detik).
@@ -408,7 +408,7 @@ Catatan: Karena nomor Pasal dan Regulasi tidak diatur kembali saat ada Regulasi 
         - A3d3) Setelah waktu inspeksi telah melewati 12 detik, Judge mengatakan "12 DETIK".
 - A4) Memulai Solving:
     - A4b) Kompetitor menggunakan jarinya untuk menyentuh bidang sensor dari pengukur waktu. Telapak tangan kompetitor harus menghadap ke bawah, dan berposisi pada sisi Timer yang berdekatan dengan kompetitor. Penalti: penalti waktu (+2 detik).
-        - A4b1) Kompetitor dilarang menyentuh Puzzle diantara waktu inspeksi dan awal Solving. Penalti: penalti waktu (+2 detik).
+        - A4b1) Kompetitor dilarang menyentuh Puzzle di antara waktu inspeksi dan awal Solving. Penalti: penalti waktu (+2 detik).
     - A4d) Jika Stackmat Timer dipakai sebagai pengukur waktu utama, ompetitor memulai Solving dengan memastikan menyalanya lampu hijau di pengukur waktu, setelah itu memindahkan tangannya (dengan begitu pengukur waktu akan menyala).
         - A4d1) Kompetitor harus memulai Solving dalam waktu 15 detik setelah inspeksi dimulai. Penalti: penalti waktu (+2 detik).
         - A4d2) Kompetitor harus memulai Solving dalam waktu 17 detik setelah inspeksi dimulai. Penalti: diskualifikasi Attempt tersebut (DNF).
@@ -418,33 +418,33 @@ Catatan: Karena nomor Pasal dan Regulasi tidak diatur kembali saat ada Regulasi 
     - A5a) Ketika inspeksi atau Solving, kompetitor dilarang berkomunikasi dengan siapapun selain Judge atau Delegate WCA. Penalti: diskualifikasi Attempt tersebut (DNF)
     - A5b) Ketika inspeksi atau Solving, kompetitor dilarang mendapat bantuan dari orang lain atau benda lain selain permukaan tempat dia melakukan Solving (lihat juga [Regulasi 2i](regulations:regulation:2i)). Penalti: diskualifikasi Attempt tersebut (DNF).
 - A6) Memberhentikan Solving:
-    - A6a) Kompetitor memberhentikan Solving dengan melepaskan Puzzle dan memberhentikan pengukur waktu. Jika Stopwatch digunakan sebagai pengukur waktu, Judge memberhentikan Stopwatch sesaat setelah kompetitor melakukannya.
-        - A6a1) Jika hanya Stopwatch yang digunakan sebagai pengukur waktu, kompetitor memberhentikan Solving dengan melepaskan Puzzle dan memberitahu Judge bahwa dia telah menyelesaikan Solving-nya. Judge memberhentikan Stopwatch sesaat setelah kompetitor memberitahu.
+    - A6a) Kompetitor menghentikan Solving dengan melepaskan Puzzle dan memberhentikan pengukur waktu. Jika Stopwatch digunakan sebagai pengukur waktu, Judge memberhentikan Stopwatch sesaat setelah kompetitor melakukannya.
+        - A6a1) Jika hanya Stopwatch yang digunakan sebagai pengukur waktu, kompetitor menghentikan Solving dengan melepaskan Puzzle dan memberitahu Judge bahwa dia telah menyelesaikan Solving-nya. Judge menghentikan Stopwatch sesaat setelah kompetitor memberitahu.
         - A6a2) Jika hanya Stopwatch yang digunakan sebagai pengukur waktu, secara default kompetitor akan memberitahukan Judge dengan cara melepaskan Puzzle dan memposisikan tangan di permukaan, dengan telapak menghadap bawah. Kompetitor dan Judge dapat membuat persetujuan tentang cara lain yang sesuai sebelum Solving dimulai.
     - A6b) Kompetitor bertanggung jawab untuk menghentikan pengukur waktu dengan benar.
-        - A6b1) Jika pengukur waktu berhenti sebelum Solving selesai dan pengukur waktu menunjukan waktu dibawah 0.06 detik, Attempt diganti dengan Attempt tambahan. Kompetitor tidak diberi Attempt tambahan jika Delegate WCA memutuskan bahwa pengukur waktu diberhentikan dengan sengaja.
+        - A6b1) Jika pengukur waktu berhenti sebelum Solving selesai dan pengukur waktu menunjukan waktu dibawah 0.06 detik, Attempt diganti dengan Attempt tambahan. Kompetitor tidak diberi Attempt tambahan jika Delegate WCA memutuskan bahwa pengukur waktu dihentikan dengan sengaja.
         - A6b2) Jika pengukur waktu berhenti sebelum Solving selesai dan pengukur waktu menunjukan waktu 0.06 detik atau lebih, Attempt tersebut didiskualifikasi (DNF). Pengecualian: Jika kompetitor bisa membuktikan bahwa pengukur waktu malfungsi, dia diperbolehkan Attempt tambahan, atas persetujuan Delegate WCA.
     - A6c) Kompetitor harus melepaskan Puzzle secara utuh sebelum menghentikan pengukur waktu. Penalti: penalti waktu (+2 detik).
     - A6d) Kompetitor harus menghentikan pengukur waktu dengan kedua tangan pada sensor dengan keadaan telapak menghadap ke bawah. Penalti: penalti waktu (+2 detik).
     - A6e) Kompetitor dilarang menyentuh atau menggerakan Puzzle sampai Judge telah selesai menginspeksi Puzzle tersebut. Penalti: diskualifikasi Attempt tersebut (DNF). Pengecualian: Jika tidak ada gerakan yang terjadi, penalti waktu (+2 detik) dapat diterapkan, atas keputusan Judge.
     - A6f) Kompetitor dilarang me-reset pengukur waktu sampai Judge telah selesai mencatat hasil di Score Sheet. Penalti: diskualifikasi Attempt tersebut (DNF), atas keputusan Judge.
-		- A6f1) Jika kompetitor me-reset pengukur waktu sebelum hasil selesai dicatat semuanya, Judge tidak boleh menulis hasil berdasarkan ingatan atau dari bukti video atau foto, dan harus mendiskualifikasi Attempt tersebut (DNF).
+		- A6f1) Jika kompetitor me-reset pengukur waktu sebelum hasil selesai dicatat seluruhnya, Judge tidak boleh menulis hasil berdasarkan ingatan atau dari bukti video atau foto, dan harus mendiskualifikasi Attempt tersebut (DNF).
     - A6g) Judge memastikan bahwa Puzzle telah terselesaikan. Judge tidak diperbolehkan melakukan gerakan apapun pada Puzzle ketika memeriksa Puzzle. Pengecualian: Untuk Clock, Judge biasanya harus mengangkat Puzzle untuk mengecek kedua sisi.
     - A6h) Jika ada ketidaksetujuan, gerakan apapun dilarang untuk dilakukan di Puzzle tersebut sampai ketidaksetujuan tersebut terselesaikan.
-    - A6i) Penalti waktu untuk pemberhentian Solving bersifat kumulatif.
+    - A6i) Penalti waktu untuk penghentian Solving bersifat kumulatif.
 - A7) Pencatatan hasil:
     - A7a) Judge memberitahukan hasil ke kompetitor.
         - A7a1) Jika Judge memastikan Puzzle terselesaikan dengan benar, Judge mengatakan "OKE".
         - A7a2) Jika Judge memberikan penalti, Judge mengatakan "PENALTI".
         - A7a3) Jika hasilnya DNF, Judge mengatakan "DNF".
     - A7b) Judge mencatat hasil di Score Sheet dan ditandatangani di sebelah hasil untuk menandakan bahwa hasil sudah tercatat dengan benar, lengkap, sesuai format, dan dapat terbaca.
-        - A7b1) Jika penalti diberikan, Judge mencatat waktu asli yang ditunjukan pengukur waktu, dicatat berdampingan dengan penalti yang ada. Format yang harus digunakan adalah "X + T + Y = F", di mana X adalah jumlah penalti waktu sebelum dan saat memulai Solving, T adalah waktu yang ditunjukan pengukur waktu (waktu asli yang tercatat), Y adalah jumlah penalti waktu ketika atau setelah Solving, dan F adalah waktu akhir setelah semuanya dijumlah (contohnya 2 + 17.65 + 2 = 21.65). Jika X dan/atau Y adalah 0, angka 0 tersebut dapat dihapus (contohnya 17.65 + 2 = 19.65).
+        - A7b1) Jika penalti diberikan, Judge mencatat waktu asli yang ditunjukan pengukur waktu, dicatat berdampingan dengan penalti yang ada. Format yang harus digunakan adalah "X + T + Y = F", di mana X adalah jumlah penalti waktu sebelum dan saat memulai Solving, T adalah waktu yang ditunjukan pengukur waktu (waktu asli yang tercatat), Y adalah jumlah penalti waktu ketika atau setelah Solving, dan F adalah waktu akhir setelah seluruhnya dijumlah (contohnya 2 + 17.65 + 2 = 21.65). Jika X dan/atau Y adalah 0, angka 0 tersebut dapat dihapus (contohnya 17.65 + 2 = 19.65).
     - A7c) Judge dan kompetitor berkewajiban untuk mengecek kembali hasil yang tercatat dan menandatangani (atau memberi inisial) Score Sheet untuk menyetujui bahwa hasil tercatat dengan benar, lengkap, sesuai format, dan dapat terbaca. Hal ini mengakhiri Attempt tersebut.
         - A7c1) Jika kompetitor atau Judge menolak untuk menerima dan menandatangi Score Sheet, Delegate WCA harus menyelesaikan masalah tersebut.
 		- A7c2) Jika kompetitor menandatangani (atau menandai) Attempt sebelum kompetitor melakukan Attempt, mereka kehilangan Attempt dan hasilnya akan dinyatakan sebagai DNS.
 		- A7c3) Jika kompetitor menandatangani (atau menandai) Attempt setelah memulai Attempt namun sebelum Judge selesai mencatat hasil, Attempt akan dinyatakan tidak selesai (DNF).
-		- A7c4) Kompetitor tidak boleh tanda tangan sebuah Attempt sebelum Judge mencatat dan menandatangani Attempt tersebut. Kompetitor bertanggung jawab untuk meyakinkan bahwa kompetitor dan Judge telah menandatangani Attempt tersebut. Jika sebuah Attempt ditemukan tidak memiliki satu atau kedua tanda tangan setelah Judge mengantarkan Score Sheet kepada Score Taker (ligat [Regulasi A7f](regulations:regulation:A7f)), Attempt akan dinyatakan tidak selesai (DNF).
-    - A7f) Jika Score Sheet seorang kompetitor untuk sebuah ronde telah dilengkapi, Judge mengantarkan Score Sheet kepada Score Taker.
+		- A7c4) Kompetitor tidak boleh tanda tangan sebuah Attempt sebelum Judge mencatat dan menandatangani Attempt tersebut. Kompetitor bertanggung jawab untuk meyakinkan bahwa kompetitor dan Judge telah menandatangani Attempt tersebut. Jika sebuah Attempt ditemukan tidak memiliki satu atau kedua tanda tangan setelah Judge mengantarkan Score Sheet kepada Score Taker (lihat [Regulasi A7f](regulations:regulation:A7f)), Attempt akan dinyatakan tidak selesai (DNF).
+    - A7f) Jika Score Sheet seorang kompetitor untuk sebuah babak telah dilengkapi, Judge mengantarkan Score Sheet kepada Score Taker.
 	- A7g) Atas keputusan Delegate WCA, insiden atau penalti yang disebabkan oleh kompetitor baru yang tidak berpengalaman dapat diganti dengan Attempt tambahan.
 
 
@@ -470,7 +470,7 @@ Catatan: Karena nomor Pasal dan Regulasi tidak diatur kembali saat ada Regulasi 
     - B4b) Kompetitor dilarang melakukan gerakan apapun sebelum dia memasang penutup matanya secara sempurna. Penalti: diskualifikasi Attempt tersebut (DNF).
     - B4c) Judge harus memastikan bahwa harus ada sebuah benda tidak tembus cahaya diantara muka kompetitor dan Puzzle ketika kompetitor sedang Solving.
         - B4c1) Dalam seluruh kasus, kompetitor harus memakai penutup matanya dalam keadaan di mana dia tidak akan bisa melihat Puzzle meski benda tidak tembus cahaya tersebut tidak menghalanginya.
-        - B4c2) Secara default, Judge sebaiknya memposisikan objek tersebut (contohnya selembar kertas atau papan) diantara kompetitor dan Puzzle ketika dia telah memakai penutup mata.
+        - B4c2) Secara default, Judge sebaiknya memposisikan objek tersebut (contohnya selembar kertas atau papan) di antara kompetitor dan Puzzle ketika dia telah memakai penutup mata.
         - B4c3) Jika Judge dan kompetitor telah sepakat sebelumnya, kompetitor diperbolehkan untuk memposisikan Puzzle dibelakang benda yang sesuai (contohnya penyangga buku musik, permukaan meja) ketika fase Blindfolded.
     - B4d) Kompetitor dilarang melihat Puzzle-nya pada saat fase Blindfolded. Penalti: diskualifikasi Attempt tersebut (DNF)
     - B4e) Selama kompetitor belum melakukan gerakan pertamanya pada Puzzle, kompetitor diperbolehkan membuka penutup matanya untuk kembali ke fase memorisasi.
@@ -485,7 +485,7 @@ Catatan: Karena nomor Pasal dan Regulasi tidak diatur kembali saat ada Regulasi 
 - C1) Prosedur standar Speed Solving diterapkan, seperti yang telah dijelaskan di [Pasal A](regulations:article:A) (Speed Solving). Regulasi tambahan yang meniadakan prosedur tertentu di [Pasal A](regulations:article:A) dijelaskan di bawah ini.
     - C1b) Ketika Solving, kompetitor hanya dapat menggunakan satu tangan untuk memberi gerakan pada Puzzle. Penalti: diskualifikasi Attempt tersebut (DNF).
         - C1b2) Ketika kecacatan/kerusakan Puzzle terjadi, dan kompetitor memilih untuk memperbaikinya, dia harus memperbaikinya hanya dengan satu tangan. Penalti: diskualifikasi Attempt tersebut (DNF)
-        - C1b3) Ketika kecacatan/kerusakan Puzzle terjadi, dan Piece-Piece dari Puzzle tersebut terkena salah satu bagian tubuh lain kompetitor tanpa sengaja, hal ini tidak dianggap menerapkan gerakan pada Puzzle, atas keputusan Judge.
+        - C1b3) Ketika kecacatan/kerusakan Puzzle terjadi, dan beberapa Piece dari Puzzle tersebut terkena salah satu bagian tubuh lain kompetitor tanpa sengaja, hal ini tidak dianggap menerapkan gerakan pada Puzzle, atas keputusan Judge.
     - C1c) Ketika Solving, begitu salah satu tangan kompetitor menerapkan gerakan pada Puzzle, dia dilarang menyentuh Puzzle tersebut dengan tangannya yang lain. Penalti: diskualifikasi Attempt tersebut (DNF).
 
 
@@ -497,26 +497,26 @@ Catatan: Karena nomor Pasal dan Regulasi tidak diatur kembali saat ada Regulasi 
 - D3) Memulai Solving:
     - D3a) Kompetitor menaruh kakinya di atas sensor pengukur waktu.
     - D3b) Kompetitor memindahkan kakinya dari sensor pengukur waktu untuk memulai Solving.
-- D4) Memberhentikan Solving:
-    - D4a) Kompetitor memberhentikan pengukur waktu dengan cara menaruh kakinya di atas sensor pengukur waktu.
+- D4) Menghentikan Solving:
+    - D4a) Kompetitor menghentikan pengukur waktu dengan cara menaruh kakinya di atas sensor pengukur waktu.
 
 
 ## <article-E><fewest-moves><fewestmovessolving> Pasal E: Fewest Moves Solving
 
 - E2) Prosedur untuk Fewest Moves Solving
-    - E2a) Judge membagikan rangkaian Scramble kepada seluruh kompetitor. Judge kemudian menjalankan Stopwatch dan meneriakan "MULAI".
+    - E2a) Judge membagikan rangkaian Scramble kepada seluruh kompetitor. Judge kemudian menjalankan Stopwatch dan meneriakkan "MULAI".
     - E2b) Seluruh kompetitor diberi batas waktu 60 menit untuk merancang sebuah solusi.
-        - E2b1) Judge sebaiknya meneriakan "5 MENIT LAGI" pada saat 55 menit, dan harus meneriakan "BERHENTI/STOP" pada saat 60 menit.
+        - E2b1) Judge sebaiknya meneriakkan "5 MENIT LAGI" pada saat 55 menit, dan harus meneriakkan "BERHENTI/STOP" pada saat 60 menit.
     - E2c) Pada saat 60 menit, setiap kompetitor harus memberikan sebuah solusi yang tertulis dengan baik kepada Judge, dilengkapi dengan nama kompetitor, menggunakan notasi yang didefinisikan di Outer Block Turn Metric (dijelaskan di [Regulasi 12a](regulations:regulation:12a)) Penalti: diskualifikasi Attempt tersebut (DNF).
     - E2d) Panjang dari sebuah solusi dihitung dalam Outer Block Turn Metric (lihat [Regulasi 12a](regulations:regulation:12a)).
         - E2d1) Kompetitor diperbolehkan solusi maksimal sepanjang 80 (gerakan dan rotasi).
     - E2e) Solusi kompetitor tidak boleh secara langsung didapatkan dari bagian manapun pada algoritma Scramble. Penalti: diskualifikasi Attempt tersebut (DNF), atas keputusan Delegate WCA.
-        - E2e1) Delegate WCA diperbolehkan untuk menanyakan kompetitor untuk meminta penjelasan tujuan dari setiap gerakan pada solusinya, terlepas dari algoritma Scramble. Jika sang kompetitor tidak bisa memberikan penjelasan yang sah, Attempt tersebut didiskualifikasikan (DNF).
+        - E2e1) Delegate WCA diperbolehkan untuk menanyakan kompetitor untuk meminta penjelasan tujuan dari setiap gerakan pada solusinya, terlepas dari algoritma Scramble. Jika sang kompetitor tidak bisa memberikan penjelasan yang sah, Attempt tersebut didiskualifikasi (DNF).
 - E3) Kompetitor diperbolehkan menggunakan beberapa benda di bawah ini pada saat Attempt. Penalti untuk penggunaan benda yang tidak diizinkan: diskualifikasi Attempt tersebut (DNF).
     - E3a) Kertas dan pena (keduanya disediakan Judge).
     - E3b) Kubus 3x3x3 (maksimal 3, disediakan sendiri), seperti yang dijelaskan pada [Pasal 3](regulations:article:3).
     - E3c) Stiker (disediakan sendiri).
-	- E3d) Stopwatch atau arloji (disediakan sendiri) untuk memeriksa waktu yang telah ditempuh, jika disetujui oleh Delegate WCA.
+	- E3d) Stopwatch atau arloji/jam tangan (disediakan sendiri) untuk memeriksa waktu yang telah ditempuh, jika disetujui oleh Delegate WCA.
 
 
 ## <article-F><clock><clocksolving> Pasal F: Clock Solving
@@ -545,7 +545,7 @@ Tim panitia dapat mengadopsi regulasi-regulasi opsional untuk memfasilitasi admi
 
 - Z1) Tim panitia dapat mengharuskan kompetitor untuk mengumpulkan Puzzle mereka pada saat pendaftaran.
 - Z2) Tim panitia dapat membatasi jumlah cabang yang diikuti oleh setiap kompetitor.
-- Z3) Tim panitia dapat memilih sebagian kompetitor yang langsung lolos ke ronde tertentu di suatu cabang bedasarkan hasil kompetisi sebelumnya.
+- Z3) Tim panitia dapat memilih sebagian kompetitor yang langsung lolos ke babak tertentu di suatu cabang bedasarkan hasil kompetisi sebelumnya.
 - Z4) Tim panitia dapat membatasi jumlah kompetitor pada tiap cabang, bedasarkan sistem "Siapa Cepat Dia Dapat" atau berdasarkan hasil kualifikasi atau ranking di WCA World Rankings pada tanggal spesifik yang telah ditentukan sebelumnya. Jika jumlah kompetitor per cabang atau per kompetisi dibatasi, regulasi-regulasi berikut berlaku:
 	- Z4a) Jika batas pada kompetisi atau cabang telah tercapai sebelum hari kompetisi, tim panitia dilarang menerima pendaftaran di tempat untuk kompetisi atau cabang tersebut.
 	- Z4b) Batas kompetitor harus diumumkan bersamaan dengan pengumuman kompetisi. Batas kompetitor dapat diubah atas keputusan Board WCA.

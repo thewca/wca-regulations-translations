@@ -14,12 +14,12 @@ Beberapa istilah sengaja tidak diterjemahkan ke dalam Bahasa Indonesia karena is
 - Attempt: sebuah urutan percobaan dalam penyelesaian Puzzle dengan masing-masing percobaan memiliki Scramble yang berbeda.
 - Blindfolded (Solving): (menyelesaikan Puzzle dengan) mata tertutup.
 - Board: dewan
-- Cap: bagian dari Puzzle yang berfungsi menutupi kekosongan/membuat permukaan pada Piece.
+- Cap: bagian dari Puzzle yang berfungsi menutupi kekosongan (lubang)/membuat permukaan pada Piece.
 - Delegate: delegasi/wakil
 - Generate: proses penghasilan/pembangkitan
 - Judge: orang yang mengawasi dan mewasiti kompetitor yang sedang menyelesaikan Puzzle.
-- Judging: aktivitas mengawasi dan mewasiti kompetitor yang sedang menyelesaikan Puzzle.
-- Piece: sebuah bagian dari Puzzle
+- Judging: menjadi Judge; aktivitas mengawasi dan mewasiti kompetitor yang sedang menyelesaikan Puzzle.
+- Piece: sebuah bagian penyusun dari Puzzle.
 - Pillowed: bentuk kubus yang membulat; "Rounded Cube".
 - Puzzle: permainan teka-teki yang diperlombakan dalam kompetisi resmi WCA.
 - Scrambler: pengacak; orang yang bertugas untuk mengacak Puzzle yang dikumpulkan oleh kompetitor.
@@ -64,9 +64,9 @@ Agar lebih informatif, tiap Pedoman digolongkan menggunakan salah satu dari labe
 - 1c4+) [REKOMENDASI] Ralat hasil sebaiknya sudah ada dalam satu minggu dari tanggal kompetisi.
 - 1c10+) [KLARIFIKASI] Memastikan akses ke salinan digital Regulasi itu cukup.
 - 1h+) [REKOMENDASI] Kompetitor dalam grup yang sama sebaiknya menggunakan rangkaian Scramble yang sama. Grup yang berbeda sebaiknya menggunakan rangkaian Scramble yang berbeda.
-- 1h++) [REKOMENDASI] Semua Attempt pada ronde final dari setiap cabang, termasuk semua Attempt Fewest Moves Solving, sebaiknya punya Scramble yang sama untuk tiap kompetitor (dengan kata lain hanya 1 grup).
+- 1h++) [REKOMENDASI] Semua Attempt pada babak final dari setiap cabang, termasuk semua Attempt Fewest Moves Solving, sebaiknya punya Scramble yang sama untuk tiap kompetitor (dengan kata lain hanya 1 grup).
 - 1h1+) [KLARIFIKASI] Scrambler/Judge sebaiknya hanya mengacak untuk/Judging kompetitor lain dalam grup yang sama hanya jika hal itu penting untuk kepentingan logistik kompetisi.
-- 1h1++) [KLARIFIKASI] Untuk Fewest Moves Solving, Judge boleh Judging kompetitor dalam grup yang Judge ikuti sebelum Judge telah menyelesaikan Attempt (yaitu saat mereka sedang melakukan Attempt).
+- 1h1++) [KLARIFIKASI] Untuk Fewest Moves Solving, Judge boleh Judging kompetitor lain dalam grup yang diikuti Judge sebelum Judge telah menyelesaikan Attempt (yaitu saat mereka sedang melakukan Attempt).
 
 
 ## <article-2><competitors><competitors> Pasal 2 : Kompetitor
@@ -89,7 +89,7 @@ Agar lebih informatif, tiap Pedoman digolongkan menggunakan salah satu dari labe
 ## <article-3><puzzles><puzzles> Pasal 3: Puzzle
 
 - 3a+) [KLARIFIKASI] Kompetitor boleh menggunakan Puzzle dengan ukuran apapun yang masuk akal, atas keputusan Delegate WCA.
-- 3a++) [TAMBAHAN] Secara default, seorang kompetitor sebaiknya menggunakan Puzzle yang sama untuk Attempt yang berurutan dalam sebuah ronde speedsolving. Seorang kompetitor boleh mengganti Puzzle diantara Attempt, atas keputusan Judge atau Delegate WCA.
+- 3a++) [TAMBAHAN] Secara default, seorang kompetitor sebaiknya menggunakan Puzzle yang sama untuk Attempt yang berurutan dalam sebuah babak Speed Solving. Seorang kompetitor boleh mengganti Puzzle di antara Attempt, atas keputusan Judge atau Delegate WCA.
 - 3a+++) [KLARIFIKASI] Kompetitor boleh meminjam Puzzle dari kompetitor lain secara pribadi, untuk digunakan dalam kompetisi.
 - 3a1+) [KLARIFIKASI] Kompetitor dapat didiskualifikasi jika mereka tidak datang ketika dipanggil, atau jika mereka tidak mempunyai Puzzle yang siap untuk dikumpulkan (contohnya jika mereka berencana menggunakan Puzzle yang sedang digunakan kompetitor lain, sehingga mereka tidak bisa mengumpulkan Puzzle pada saat itu).
 - 3d1b+) [KLARIFIKASI] Pola tidak harus ada pada setiap sisi, tetapi hanya ada pada sisi di mana warna yang berbeda tidak dapat ditemukan. Piece tidak boleh memiliki ciri apapun (contohnya tekstur, pola yang tidak teratur) yang secara signifikan membedakannya dengan Piece yang sama.
@@ -128,7 +128,7 @@ Agar lebih informatif, tiap Pedoman digolongkan menggunakan salah satu dari labe
 
 - 6a+) [TAMBAHAN] Penghargaan, hadiah, atau kehormatan bisa diberikan kepada kompetitor berdasarkan pengumuman kompetisi.
 - 6b+) [REKOMENDASI] Kompetitor sebaiknya menghadiri upacara pemenang untuk menerima penghargaan/hadiah/kehormatan.
-- 6b1+) [REKOMENDASI] Pengumuman pemenang sebaiknya diadakan di tempat kompetisi, dalam satu jam setelah akhir cabang terakhir.
+- 6b1+) [REKOMENDASI] Pengumuman pemenang sebaiknya diadakan di tempat kompetisi, dalam satu jam setelah cabang terakhir selesai.
 - 6c+) [REKOMENDASI] Pemenang penghargaan, hadiah atau kehormatan sebaiknya bersiap untuk berbicara kepada wartawan atau media apapun yang meliput kompetisi tersebut.
 - 6d+) [REKOMENDASI] Tim panitia sebaiknya memiliki sertifikat untuk semua kategori pemenang, ditandatangani oleh ketua tim panitia dan Delegate WCA.
 
@@ -150,12 +150,12 @@ Agar lebih informatif, tiap Pedoman digolongkan menggunakan salah satu dari labe
 
 - 9b+) [TAMBAHAN] Format yang lebih didahulukan untuk sebuah cabang adalah "Average of 5" atau "Mean of 3", jika memungkinkan.
 - 9b++) [TAMBAHAN] Cabang selain yang disebutkan pada [Regulasi 9b](regulations:regulation:9b) dapat dilakukan selama kompetisi berlangsung, tetapi dianggap tidak resmi dan tidak diikutsertakan dalam hasil resmi kompetisi.
-- 9b3b+) [KLARIFIKASI] Statistik "Mean of 3" tidak mempengaruhi ranking kompetitor dalam ronde "Best of 3" (yang mana berdasarkan hasil terbaik). WCA dapat mengenalinya di luar format kompetisi.
+- 9b3b+) [KLARIFIKASI] Statistik "Mean of 3" tidak mempengaruhi ranking kompetitor dalam babak "Best of 3" (yang mana berdasarkan hasil terbaik). WCA dapat mengenalinya di luar format kompetisi.
 - 9f1+) [CONTOH] Jika pengukur waktu menunjukkan 12.678 pada sebuah Attempt, waktu asli yang dicatat adalah 12.67 (digit setelah dua angka di belakang koma dihilangkan). Judge boleh saja menulis waktu yang sangat presisi pada Score Sheet (dan juga setelah dijumlahkan dengan penalti), selama Score Taker memotongnya untuk hasil resmi.
-- 9f4+) [PENJELASAN] Hasil dari Attempt adalah DNF hanya jika kompetitor memulai Attempt dengan mengindikasikan bahwa kompetitor siap (lihat [Regulasi A3b2](regulations:regulation:A3b2)) namun Attempt-nya didiskualifikasi.
-- 9f5+) [KLARIFIKASI] Hasil dari Attempt adalah DNS jika peserta tidak mampu dan menolak melakukan Attempt (lihat [Regulasi A3b2](regulations:regulation:A3b2)). Jika peserta tidak memenuhi syarat untuk sebuah Attempt (contohnya combined round), peseta tidak punya hasil untuk Attempt tersebut).
-- 9p2+) [KLARIFIKASI] Hasil merujuk kepada Single atau rata-rata yang menentukan ranking pada ronde terkait.
-- 9q+) [REKOMENDASI] Setiap cabang dan ronde harus memiliki setidaknya 2 (dua) peserta.
+- 9f4+) [PENJELASAN] Hasil sebuah Attempt adalah DNF hanya jika kompetitor memulai Attempt dengan mengindikasikan bahwa kompetitor siap (lihat [Regulasi A3b2](regulations:regulation:A3b2)) namun Attempt tersebut didiskualifikasi.
+- 9f5+) [KLARIFIKASI] Hasil sebuah Attempt adalah DNS jika peserta tidak mampu dan menolak melakukan Attempt (lihat [Regulasi A3b2](regulations:regulation:A3b2)). Jika peserta tidak memenuhi syarat untuk sebuah Attempt (contohnya combined round), peseta tidak punya hasil untuk Attempt tersebut).
+- 9p2+) [KLARIFIKASI] Hasil merujuk kepada Single atau rata-rata yang menentukan ranking pada babak terkait.
+- 9q+) [REKOMENDASI] Setiap cabang dan babak harus memiliki setidaknya 2 (dua) peserta.
 
 
 ## <article-10><solved-state><solvedstate> Pasal 10: Keadaan Terselesaikan
@@ -176,12 +176,12 @@ Agar lebih informatif, tiap Pedoman digolongkan menggunakan salah satu dari labe
 
 ## <article-A><speedsolving><speedsolving> Pasal A: Speed Solving
 
-- A1a2+) [TAMBAHAN] Dalam kasus dimana waktu menyentuh batas waktu, Judge menulis waktu di sebelah "DNF" dalam tanda kurung. misal, DNF (1:02.27).
-- A1a2++) [KLARIFIKASI] Batas waktu kumulatif bisa saja dilaksanakan untuk sebuah ronde atau gabungan dari beberapa ronde pada beberapa cabang.
-- A1a2+++) [KLARIFIKASI] Dalam kasus batas waktu kumulatif, hasil dari tiap Attempt yang tersisa pada ronde tersebut dianggap DNS (Did Not Start) setelah kompetitor melebihi batas waktu.
+- A1a2+) [TAMBAHAN] Dalam kasus di mana waktu menyentuh batas waktu, Judge menulis "DNF" beserta waktu di dalam tanda kurung. Contoh: "DNF (1:02.27)".
+- A1a2++) [KLARIFIKASI] Batas waktu kumulatif bisa saja dilaksanakan untuk sebuah babak atau gabungan dari beberapa babak pada beberapa cabang.
+- A1a2+++) [KLARIFIKASI] Dalam kasus batas waktu kumulatif, hasil dari tiap Attempt yang tersisa pada babak tersebut dianggap DNS (Did Not Start) setelah kompetitor melebihi batas waktu.
 - A1a2++++) [TAMBAHAN] Jika batas waktu kumulatif untuk satu cabang atau beberapa cabang diterapkan, cabang tersebut tidak memiliki lagi batas waktu per Solve.
 - A1a2+++++) [KLARIFIKASI] Cabang di mana batas waktu per Attempt ditentukan dari Regulasi (3x3x3 Fewest Moves dan 3x3x3 Multi-Blind) tidak boleh memiliki batas waktu kumulatif.
-- A1a3+) [PERINGATAN] Tim organisasi dan Delegate WCA harus sadar bahwa batas waktu bisa mengubah strategi beberapa kompetitor (misalnya buru-buru menyelesaikan 2 Attempt pertama dengan harapan dapat melewati Cut-off dalam combined round), dan mengganti batas waktu setelah dimulainya sebuah ronde dapat memberikan ketidakadilan bagi beberapa kompetitor.
+- A1a3+) [PERINGATAN] Tim organisasi dan Delegate WCA harus sadar bahwa batas waktu bisa mengubah strategi beberapa kompetitor (misalnya buru-buru menyelesaikan 2 Attempt pertama dengan harapan dapat melewati Cut-off dalam combined round), dan mengganti batas waktu setelah dimulainya sebuah babak dapat memberikan ketidakadilan bagi beberapa kompetitor.
 - A1a4+) [PERINGATAN] Jika ada kompetitor yang tidak sengaja diberikan kesempatan untuk melewati batas waktu, batas waktu harus diterapkan secara retroaktif, dan Judge, kompetitor serta Delegate WCA sebaiknya diberitahukan (lihat [Regulasi 1g2](regulations:regulation:1g2)). Judge harus selalu memperhatikan time limit untuk Attempt yang sedang berlangsung (yang mungkin saja bergantung dengan Attempt sebelumnya, dalam kasus batas waktu kumulatif).
 - A1c+) [KLARIFIKASI] Delegate WCA hanya boleh menggunakan kebijakan untuk mencegah kompetitor dari kerugian berat dalam kompetisi (contohnya membuang waktu dan/atau kebutuhan kompetisi). Kompetitor tidak boleh didiskualifikasi dari hasil yang "buruk" saat mereka berkompetisi dengan mengerahakan kemampuan yang terbaik.
 - A2c1+) [PERINGATAN] Sebelumnya, Score Sheet sering digunakan untuk menjadi cover sehingga beberapa sisi dari Puzzle terlihat. Hal ini sudah tidak diperbolehkan.
@@ -208,7 +208,7 @@ Agar lebih informatif, tiap Pedoman digolongkan menggunakan salah satu dari labe
 ## <article-C><one-handed><onehandedsolving> Pasal C: One-Handed Solving
 
 - C1b+) [KLARIFIKASI] Kompetitor dapat menggunakan kedua tangannya selama waktu inspeksi.
-- C1b++) [KLARIFIKASI] Kompetitor tidak diharuskan untuk menggunakan tangan yang sama dalam pengambilan Attempt lain dalam ronde yang sama.
+- C1b++) [KLARIFIKASI] Kompetitor tidak diharuskan untuk menggunakan tangan yang sama dalam pengambilan Attempt lain dalam babak yang sama.
 - C1b+++) [PERINGATAN] Menggunakan permukaan meja selama membenarkan atau memperbaiki cube diperbolehkan.
 
 
@@ -224,7 +224,7 @@ Agar lebih informatif, tiap Pedoman digolongkan menggunakan salah satu dari labe
 - E2b+) [KLARIFIKASI] Kompetitor dapat memilih untuk menghentikan Attempt-nya lebih cepat dengan cara memberikan solusinya sebelum batas waktu yang ditentukan
 - E2c+) [KLARIFIKASI] Meskipun Judge menyediakan kertas standar kepada kompetitor untuk menulis solusi, kompetitor boleh menulis solusi pada kertas yang berbeda, selama sebuah rangkaian gerakan tidak ambigu untuk dianggap sebagai solusi. (Catat bahwa kertas harus diberikan dari Judge, berdasarkan [Regulasi E3a](regulations:regulation:E3a).)
 - E2c++) [KLARIFIKASI] Solusi kompetitor hanya boleh menggunakan gerakan yang didefinisikan pada [Regulasi 12a](regulations:regulation:12a). Contoh notasi dan gerakan yang tidak boleh digunakan pada kompetisi: [F], [R, U], [R: U], R'2, L'w, f, M, U2'.
-- E2e+) [KLARIFIKASI] Kompetitor tidak boleh menurunkan solusi dari bagian apapun pada rangkaian Scramble, dan solusi tidak boleh menggunakan bagian signifikan dari kebalikan rangkaian Scramble.
+- E2e+) [KLARIFIKASI] Kompetitor tidak boleh menggunakan dari bagian apapun pada rangkaian Scramble untuk solusi, dan solusi tidak boleh menggunakan bagian signifikan dari kebalikan rangkaian Scramble.
 - E2e++) [CONTOH] Contoh solusi yang harus didiskualifikasi pada sebuah Attempt (DNF): solusi yang diawali dengan 4 (empat) atau lebih gerakan yang sama dengan kebalikan rangkaian Scramble.
 - E3d+) [KLARIFIKASI] Stopwatch dan arloji apapun yang digunakan kompetitor tidak boleh memiliki fungsionalitas yang dapat membantu kompetitor untuk mencari solusi.
 - E3d++) [KLARIFIKASI] Kompetitor tidak boleh menganggap Stopwatch atau arloji pribadi sebagai waktu resmi, dan harus mengumpulkan solusi setelah Judge mengatakan "BERHENTI/STOP".
