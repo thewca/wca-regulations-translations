@@ -136,7 +136,7 @@ Afin de donner la nature de la recommandation, chacune d'elle est répertoriée 
 
 - 10e1+) [ECLAIRCISSEMENT] Pour le Square-1, à cause des propriétés de changement de forme du casse-tête, la métrique pour les désalignements définies à la [règle 10f4](regulations:regulation:10f4) est différente de la métrique pour la notation, utilisée par le programme de mélange et définie à la [règle 12c4](regulations:regulation:12c4).
 - 10f+) [EXPLICATION] Les limites de désalignements sont choisies de manière à ce qu'elles donnent une limite naturelle entre deux états du casse-tête : l'état résolu sans pénalité, et un état distant d'un mouvement.
-- 10f4+) [ECLAIRCISSEMENT] Pour compter les mouvements dans le cas d'un désalignement à la fin d'une résolution, x et y sont considérés séparément. Eemple : (5, 1) est considéré comme 1 désalignement, (5, 5) est considéré comme 2 désalignements.
+- 10f4+) [ECLAIRCISSEMENT] Pour compter les mouvements dans le cas d'un désalignement à la fin d'une résolution, x et y sont considérés séparément. Exemple : (5, 1) est considéré comme 1 désalignement, (5, 5) est considéré comme 2 désalignements.
 - 10h1+) [AJOUT] L'état résolu du Clock n'est pas affecté par des caches de bouton détachés ou se détachant facilement.
 
 
@@ -154,7 +154,7 @@ Afin de donner la nature de la recommandation, chacune d'elle est répertoriée 
 - A1a2++) [ECLAIRCISSEMENT] Des limites de temps cumulatives peuvent être imposées pour un seul tour ou un ensemble de tours de différentes épreuves.
 - A1a2+++) [ECLAIRCISSEMENT] Dans le cas d'une limite de temps cumulative, une fois qu'un compétiteur a atteint cette limite, le résultat de chaque essai restant est DNS.
 - A1a2++++) [AJOUT] Si une limite de temps cumulative est utilisée pour un tour ou un ensemble de tours de différentes épreuves, ces épreuves n'ont pas de limite de temps par essai.
-- A1a2+++++) [ECLAIRCISSEMENT] Les épreuves pour lesquelles une limite de temps par essai est défini dans le règlement (3x3x3 résolution optimisée et 3x3x3 résolution multiple à l'aveugle) ne doivent pas avoir de limite de temps cumulative.
+- A1a2+++++) [ECLAIRCISSEMENT] Les épreuves pour lesquelles une limite de temps par essai est définie dans le règlement (3x3x3 résolution optimisée et 3x3x3 résolution multiple à l'aveugle) ne doivent pas avoir de limite de temps cumulative.
 - A1a3+) [RAPPEL] L'équipe organisatrice et le Délégué WCA doivent être conscients que les limites de temps ont un impact sur la stratégie des compétiteurs (par exemple prendre des risques dans les deux premiers essais pour espérer passer la limite de temps d'un tour combiné), et que les modifier après le début d'un tour peut désavantager inéquitablement certains compétiteurs.
 - A1a4+) [RAPPEL] Si par accident un compétiteur a été autorisé à dépasser la limite de temps, celle-ci doit être appliquée rétroactivement, et le juge, le compétiteur, et le Délégué WCA doivent être informés (voir la [règle 1g2](regulations:regulation:1g2)). Les juges doivent toujours connaître la limite de temps pour l'essai en cours (qui peut déprendre des essais précédents, dans le cas d'une limite de temps cumulative).
 - A1c+) [ECLAIRCISSEMENT] Les Délégués WCA ne devraient intervenir que pour empêcher un compétiteur de nuire au déroulement de la compétition (par exemple perdre du temps et/ou gâcher les ressources de la compétition). Les compétiteur ne devraient pas être disqualifiés pour un "mauvais" résultat quand ils participent au meilleur de leur capacités.
@@ -214,5 +214,5 @@ Afin de donner la nature de la recommandation, chacune d'elle est répertoriée 
 
 ## <article-Z><optional><optional> Article Z : Points de règlement optionnels
 
-- Z4+) [ECLAIRCISSEMENT] Dans le cas d'une limite du nombre de compétiteurs basée sur des temps de qualification ou des positions dans le classement mondial de la WCA à une date annoncée avant la compétition, l'équipe organisatrice doit utiliser un seul type de résultat(meilleur essai ou meilleure moyenne)
-- Z4b+) [EXEMPLE] Exemples de raisons justifiant un changement de limite du nombre de compétiteurs après l'annonce de la compétition : Le lieu a changé ou le nombre d'inscriptions est plus élevé que prévu.
+- Z4+) [ECLAIRCISSEMENT] Dans le cas d'une limite du nombre de compétiteurs basée sur des temps de qualification ou des positions dans le classement mondial de la WCA à une date annoncée avant la compétition, l'équipe organisatrice doit utiliser un seul type de résultat (meilleur essai ou meilleure moyenne)
+- Z4b+) [EXEMPLE] Exemples de raisons justifiant un changement de limite du nombre de compétiteurs après l'annonce de la compétition : le lieu a changé ou le nombre d'inscriptions est plus élevé que prévu.
