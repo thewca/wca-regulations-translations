@@ -58,10 +58,10 @@ Note : les numéros des articles et des règles ne sont pas réassignés lors d'
 - 1e) Chaque épreuve doit avoir un ou plusieurs juges.
     - 1e1) Un juge d'une épreuve est en charge de l'exécution des procédures relatives à l'épreuve.
         - 1e1a) Un juge peut juger plusieurs compétiteurs simultanément, à la discrétion du Délégué WCA, tant que le juge est capable de s'assurer que tout le Règlement WCA est respecté à tout moment.
-    - 1e2) Chaque compétiteur doit être disponible pour juger. Si l'équipe organisatrice exprime le besoin d'un compétiteur pour juger, celui-ci ne peut être exempté que pour une raison légitime (par exemple : ne pas être à l'aise avec un casse-tête), à la discrétion du Délégué WCA. Pénalité : Disqualification de la compétition (voir : [Règle 2k](regulations:regulation:2k)).
+    - 1e2) Chaque compétiteur doit être disponible pour juger. Si l'équipe organisatrice exprime le besoin d'un compétiteur pour juger, celui-ci ne peut être exempté que pour une raison légitime (par exemple : ne pas être à l'aise avec un casse-tête), à la discrétion du Délégué WCA. Pénalité : Disqualification de la compétition (voir la [règle 2k](regulations:regulation:2k)).
 - 1f) Chaque épreuve doit avoir un ou plusieurs mélangeurs. Exception : Résolution optimisée.
     - 1f1) Un mélangeur applique des séquence de mélanges afin de préparer des casse-têtes pour des essais.
-    - 1f2) Chaque compétiteur doit être disponible pour mélanger. Si l'équipe organisatrice exprime le besoin d'un compétiteur pour mélanger, celui-ci ne peut être exempté que pour une raison légitime (par exemple : ne pas être à l'aise avec la notation de mélange), à la discrétion du Délégué WCA. Pénalité : disqualification de la compétition (voir : [Règle 2k](regulations:regulation:2k)).
+    - 1f2) Chaque compétiteur doit être disponible pour mélanger. Si l'équipe organisatrice exprime le besoin d'un compétiteur pour mélanger, celui-ci ne peut être exempté que pour une raison légitime (par exemple : ne pas être à l'aise avec la notation de mélange), à la discrétion du Délégué WCA. Pénalité : disqualification de la compétition (voir la [règle 2k](regulations:regulation:2k)).
 - 1g) Chaque épreuve doit avoir un ou plusieurs teneurs de scores.
     - 1g1) Un teneur de score est en charge de l'enregistrement des résultats.
     - 1g2) Les modifications de résultats sur une feuille de score ne sont permises qu'à la discrétion du Délégué WCA.
@@ -94,12 +94,12 @@ Note : les numéros des articles et des règles ne sont pas réassignés lors d'
         - 2i1a) Aides physiques et médicales portées par le compétiteur (telles que lunettes, attelle, aide auditive). Exception à la [règle 2i](regulations:regulation:2i) : l'aide médicale peut être électronique si le compétiteur n'a pas d'alternative non-électronique confortable (par exemple si le compétiteur a une aide auditive ou un pacemaker).
         - 2i1b) Les boules Quies et cache-oreilles (mais pas les casques audio ou les écouteurs).
     - 2i2) Les compétiteurs peuvent utiliser des caméras aux emplacements utilisés pour la résolution, à la discrétion du Délégué WCA. Les restrictions suivantes s'appliquent du début de l'essai à l'arrêt de la résolution. Pénalité pour ne pas respecter une restriction : disqualification de l'essai (DNF).
-        - 2i2a) Chaque écran de caméra doit être vierge ou hors de la vue du compétiteur (voir : [règle A5b](regulations:regulation:A5b)).
+        - 2i2a) Chaque écran de caméra doit être vierge ou hors de la vue du compétiteur (voir la [règle A5b](regulations:regulation:A5b)).
         - 2i2b) Le compétiteur ne doit pas interagir avec une caméra allumée (par exemple la tenir, la porter, la manipuler). Exception : le compétiteur peut porter une caméra sur sa tête, tant qu'elle est hors de sa vue, et qu'il n'interagit pas avec elle (hormis le fait de la porter).
 - 2j) Le Délégué WCA peut disqualifier un compétiteur d'une épreuve particulière.
     - 2j1) Si un compétiteur est disqualifié d'une épreuve, quelle qu'en soit la raison, il ne peut plus effectuer d'autres essais dans l'épreuve.
         - 2j1a) Les résultats des essais restants de l'épreuve sont notés comme DNF.
-    - 2j2) Si un compétiteur est disqualifié au cours d'une épreuve, ses précédents résultats restent valides. Exception : triche ou escroquerie (voir : [Règle 2k2a](regulations:regulation:2k2a)).
+    - 2j2) Si un compétiteur est disqualifié au cours d'une épreuve, ses précédents résultats restent valides. Exception : triche ou escroquerie (voir la [règle 2k2a](regulations:regulation:2k2a)).
 - 2k) Le compétiteur peut être disqualifié d'une ou plusieurs épreuves, à la discrétion du Délégué WCA, si celui-ci :
     - 2k1) Ne se présente pas à temps pour son enregistrement à la compétition.
     - 2k2) Est suspecté de tricherie ou d'escroquer les officiels au cours de la compétition.
@@ -122,7 +122,7 @@ Note : les numéros des articles et des règles ne sont pas réassignés lors d'
 ## <article-3><puzzles><puzzles> Article 3 : Casse-tête
 
 - 3a) Les compétiteurs doivent utiliser leurs propres casse-têtes pour la compétition.
-    - 3a1) Les compétiteurs doivent être présents et prêts à concourir lorsqu'ils sont appelés pour participer à une épreuve (voir : [règle 2u](regulations:regulation:2u)).
+    - 3a1) Les compétiteurs doivent être présents et prêts à concourir lorsqu'ils sont appelés pour participer à une épreuve (voir la [règle 2u](regulations:regulation:2u)).
     - 3a2) Les casse-têtes doivent être complètement fonctionnels, de manière à ce qu'ils soient mélangeables normalement.
     - 3a3) Les casse-têtes polyédriques doivent utiliser une configuration de couleur possédant une couleur unique par face dans l'état résolu. Les différentes variations d'un même casse-tête doivent avoir des caractéristiques identiques au casse-tête d'origine (mouvements possibles, états atteignables, résolution).
 - 3d) Les casse-têtes doivent avoir des parties colorées, qui définissent le schéma de couleur du casse-tête, et qui doivent faire partie d'une unique catégorie parmi les suivantes : étiquettes colorées, tuiles colorées, plastique coloré, ou couleurs imprimées/peintes. Toutes les parties colorées d'un casse tête doivent être faites de matériau similaire.
@@ -133,7 +133,7 @@ Note : les numéros des articles et des règles ne sont pas réassignés lors d'
 - 3h) Les modifications qui améliorent le concept basique du casse-tête ne sont pas autorisées. Les casse-têtes modifiés sont autorisés seulement si ses modifications ne rendent pas d'informations supplémentaires disponibles (tel que l'emplacement des pièces) par rapport à la version originale du casse-tête.
     - 3h1) Les casse-têtes bombés sont autorisés.
     - 3h2) Les casse-têtes dont les parties colorées sont visibles à l'intérieur de celui ci sont autorisés (par exemple les casse-têtes "stickerless"). Cela n'inclue pas les casse-têtes suivant :
-        - 3h2a) Les casse-têtes avec des pièces transparentes. Exception : une étiquette recouvrante (voir : [règle 3l](regulations:regulation:3l)).
+        - 3h2a) Les casse-têtes avec des pièces transparentes. Exception : une étiquette recouvrante (voir la [règle 3l](regulations:regulation:3l)).
     - 3h3) Aucune modification du casse-tête dégradant les performances d'un compétiteur ne peut justifier un essai supplémentaire.
     - 3h4) Pour le Clock, les images internes personnalisées sont autorisées sous réserve d'avoir la même taille et la même forme que les images originales, à la discrétion du Délégué WCA. Ces images doivent avoir une position "midi" clairement identifiée, située au même endroit que sur les images originales.
 - 3j) Les casse-têtes doivent être propres, et ne doivent pas avoir de marquages, de pièces surélevées, de défaut, ou d'autres détails qui permettent d'aider à distinguer deux pièces entre elles. Exception : un logo (voir la [règle 3l](regulations:regulation:3l)).
@@ -439,7 +439,7 @@ Note : les numéros des articles et des règles ne sont pas réassignés lors d'
     - B1a) Il n'y a pas de phase d'inspection.
     - B1b) Le compétiteur apporte son propre bandeau.
 - B2) Début de la résolution :
-    - B2a) Le juge remet à zéro le ou les chronomètre et demande "Prêt ?", comme décrit par la [Règle A3b1](regulations:regulation:A3b1). Le compétiteur doit être prêt à démarrer son essai dans la minute suivant la demande du juge, sinon il déclare forfait pour son essai (DNS), à la discrétion du juge.
+    - B2a) Le juge remet à zéro le ou les chronomètre et demande "Prêt ?", comme décrit par la [règle A3b1](regulations:regulation:A3b1). Le compétiteur doit être prêt à démarrer son essai dans la minute suivant la demande du juge, sinon il déclare forfait pour son essai (DNS), à la discrétion du juge.
     - B2b) Le compétiteur utilise ses doigts pour toucher les capteurs du chronomètre. Les paumes du compétiteur doivent être orientées vers le bas, et du côté du chronomètre qui est le plus proche de lui. Pénalité : pénalité de temps (+2 secondes).
     - B2c) Le compétiteur ne doit pas entrer en contact avec le casse-tête avant de débuter la résolution. Pénalité : pénalité de temps (+2 secondes).
     - B2d) Le compétiteur démarre l'essai en retirant ses mains des capteurs, déclenchant par conséquent le chronomètre. (Cela démarre également la résolution.)
@@ -493,7 +493,7 @@ Note : les numéros des articles et des règles ne sont pas réassignés lors d'
     - E2b) Tous les compétiteurs disposent en tout et pour tout de 60 minutes pour résoudre le mélange avec un minimum de mouvements.
         - E2b1) Le juge devrait annoncer "5 minutes restantes" après 55 minutes écoulées, et annoncer "STOP" au bout de 60 minutes.
     - E2c) Au bout de 60 minutes, chaque compétiteur doit donner au juge sa solution clairement écrite avec son nom, en utilisant la notation "Outer Block Turn Metric" (décrite dans la [règle 12a](regulations:regulation:12a)). Pénalité : disqualification de la résolution (DNF).
-    - E2d) La métrique OBTM est utilisée pour évaluer la longueur de la solution (voir : [règle 12a](regulations:regulation:12a)).
+    - E2d) La métrique OBTM est utilisée pour évaluer la longueur de la solution (voir la [règle 12a](regulations:regulation:12a)).
         - E2d1) La longueur maximale autorisée d'une solution est de 80 (mouvements et rotations inclus).
     - E2e) La solution du compétiteur ne doit en aucun cas être obtenue à partir d'une quelconque partie de la séquence de mélange. Pénalité : disqualification de la résolution (DNF), à la discrétion du Délégué WCA.
         - E2e1) Le Délégué WCA peut demander au compétiteur d'expliquer chaque mouvement de sa solution, peu importe la séquence de mélange. Si le compétiteur ne peut pas fournir une explication correcte, la résolution est disqualifiée (DNF).
