@@ -31,6 +31,7 @@ Jede Richtlinie ist einer der folgenden Kategorien zugeordnet. Diese Beschriftun
 
 ## <article-1><officials><officials> Abschnitt 1: Offizielle Organe
 
+- 1c+) [Erklärung] "Der WCA-Delegierte" bezieht sich auf alle WCA-Delegierten, die bei einem Wettbewerb die Rolle des WCA-Delegierten innehaben.
 - 1c3+) [Empfehlung] Die Resultate sollten am Ende des letzten Tages des Turniers ausgewertet sein.
 - 1c3++) [Zusatz] Analoge Aufzeichnungen (z.B. Scoresheets, aufgeschriebene Fewest-Moves-Lösungen) müssen mindestens einen Monat lang aufgehoben werden. Digitale Aufzeichnungen (z.B. Scrambles, Ergebnisse) müssen dauerhaft aufgehoben werden.
 - 1c3b+) [Erklärung] Wenn es mehrere Gruppen gibt, ist es nicht notwendig, zu kennzeichnen, welcher Teilnehmer in welchen Gruppen war.
@@ -46,9 +47,15 @@ Jede Richtlinie ist einer der folgenden Kategorien zugeordnet. Diese Beschriftun
 
 - 2c+) [Zusatz] Erstmalige Teilnehmer sollten ihren bürgerlichen Namen bei der Registrierung verwenden. Sie dürfen nach Ermessen des WCA-Delegierten einen sinnvollen Spitznamen (wie etwa "Max Mustermann" statt "Maximilian Mustermann") zur Registrierung verwenden.
 - 2c++) [Zusatz] Teilnehmer dürfen keine absichtlich irreführende Informationen verwenden, und wiederkehrende Teilnehmer sollten Informationen verwenden, die zu bereits verwendeten Daten passt (z.B. exakter Name und WCA ID).
+- 2c1+) [Zusatz] Die Bedingungen für eine vollständige Registrierung müssen eindeutig auf der Webseite des Wettbewerbs angegeben werden.
+- 2c1++) [Beispiel] Zum Beispiel kann das Organisationsteam verlangen, dass Teilnehmer eine Bestätigungsmail bis zu einem bestimmten Datum beantworten, die Teilnahmegebühr im Voraus verrichten, oder ausstehende Teilnahmegebühren früherer Wettbewerbe bezahlen. Das Organisationsteam sollte diese Bedingungen hinsichtlich ihrer Fairness vorsichtig abwägen.
 - 2d+) [Zusatz] Das Geburtsdatum und Kontaktinformationen sollten besonders geschützt werden.
 - 2d++) [Empfehlung] Wenn ein Dritter (z.B. ein Journalist) das Organisationsteam darum bittet, Kontakt zu einem Teilnehmer zu vermitteln, sollte zuerst dessen Einverständnis eingeholt werden.
+- 2e+) [Erklärung] Wenn ein Teilnehmer mehrere Staatsangehörigkeiten besitzt, darf er bei seinem ersten Wettbewerb entscheiden, welchen Staat er repräsentieren möchte.
+- 2e++) [Zusatz] Der WCA-Delegierte sollte auch den Namen und das Geburtsdatum jedes neuen Teilnehmers bei seinem ersten Wettbewerb durch das Dokument (z.B. einen Ausweis) verifizieren.
+- 2e3+) [Erklärung] Staatenlose Teilnehmer haben keine nationalen Rekorde oder Ranglisten, sowie keine kontinentalen Rekorde und Ranglisten.
 - 2h+) [Erklärung] Teilnehmer dürfen in der Kategorie "Mit den Füßen lösen" barfuß sein.
+- 2i1b+) [Erklärung] Dies schließt entsprechende Geräte, die ausgeschaltet oder nicht verbunden sind, ein.
 - 2j2+) [Beispiel] Wenn beispielsweise ein Teilnehmer von einer Kategorie disqualifiziert wird, weil er nicht am Finale teilnimmt, bleiben seine Resultate aus früheren Runden gültig.
 - 2s+) [Erinnerung] Spezielle Anpassungen müssen im Bericht des WCA-Delegierten erwähnt werden.
 
@@ -59,15 +66,16 @@ Jede Richtlinie ist einer der folgenden Kategorien zugeordnet. Diese Beschriftun
 - 3a++) [Zusatz] Standardmäßig sollte ein Teilnehmer das gleiche Puzzle für aufeinanderfolgende Versuche in einer Speedsolving Runde verwenden. Ein Teilnehmer darf das Puzzle nach Ermessen des Judges oder WCA-Delegierten zwischen den Versuchen wechseln.
 - 3a+++) [Erklärung] Teilnehmer dürfen Puzzles von anderen Teilnehmern privat ausborgen, um sie im Turnier zu verwenden.
 - 3a1+) [Erklärung] Teilnehmer dürfen disqualifiziert werden, wenn sie kein Puzzle parat haben, sobald sie aufgerufen werden (z.B. wenn sie vorhatten, ein Puzzle zu verwenden, das ein anderer Teilnehmer gerade benötigt und deswegen im Moment kein Puzzle bereitstellen können).
-- 3d1b+) [Erklärung] Muster müssen nicht auf jeder Seite vorhanden sein, sondern lediglich auf Seiten, auf denen keine eindeutige Farbe erkannt werden kann. Teile dürfen keine Eigenschaften haben (z.B. Strukturen, Unregelmässigkeiten im Muster), die sie signifikant von anderen ähnlichen Teilen unterscheiden.
-- 3h+) [Erklärung] Puzzles dürfen in ihrem Inneren durch Abschleifen oder Schmieren aufbereitet werden.
-- 3h++) [Beispiel] Beispiele für Erweiterungen schließen ein: neue Drehungen sind möglich, normale Drehungen sind unmöglich, mehr Teile oder Seiten sind sichtbar, Farben auf der Rückseite des Puzzles sind sichtbar, Drehungen werden automatisch ausgeführt, oder das Puzzles hat mehrere/verschiedene gelöste Zustände.
+- 3d1b+) [Erklärung] Muster müssen nicht auf jeder Seite vorhanden sein, sondern lediglich auf Seiten, auf denen keine eindeutige Farbe erkannt werden kann. Teile dürfen keine Eigenschaften haben (z.B. Strukturen, Unregelmäßigkeiten im Muster), die sie signifikant von anderen ähnlichen Teilen unterscheiden.
+- 3h+) [Erklärung] Das Innere von Puzzles darf durch Abschleifen, die Benutzung von Schmiermitteln oder Modifikationen, welche die Stabilität verbessern (z.B. Magnete), verändert werden.
+- 3h++) [Beispiel] Beispiele für Erweiterungen schließen ein: neue Drehungen sind möglich, normale Drehungen sind unmöglich, mehr Teile oder Seiten sind sichtbar, Farben auf der Rückseite des Puzzles sind sichtbar, Drehungen werden automatisch ausgeführt, oder das Puzzle hat mehrere/verschiedene gelöste Zustände.
 - 3h2+) [Erklärung] In der Vergangenheit waren "stickerless" Puzzle nicht erlaubt. Diese Puzzle sind nun erlaubt.
 - 3h2++) [Erklärung] "Stickerless" Puzzle, die sich signifikant von den meisten massenproduzierten Puzzles unterscheidet, sind nur nach dem Ermessen des WCA-Delegierten erlaubt.
 - 3j+) [Erinnerung] Gravierte/Geprägte Teile wurden früher erlaubt. Dies ist nun nicht mehr gestattet.
 - 3j++) [Erklärung] Bei Clock dürfen die Pins sich nicht von den anderen Pins auf der gleichen Seite unterscheiden.
-- 3j2+) [Erklärung] Bei Clock werden alle achtzehn inneren Uhren als gleichwertige Teile angesehen.
+- 3j2+) [Erklärung] Bei Clock werden alle neun inneren Uhren auf einer Seite als gleichwertige Teile angesehen.
 - 3l+) [Zusatz] Logos dürfen auf jede Art und Weise gestaltet sein, so dass das Design keinen offensichtlichen Vorteil mit sich bringt (z.B. das Kodieren von Informationen, die zum Schummeln verwendet werden können) und farbige Teil weiterhin klar erkennbar ist. Unkonventionelle Logos sind nur nach Ermessen des WCA-Delegierten zugelassen.
+- 3l++) [Erklärung] In der Vergangenheit waren Puzzles mit Logos auch in Blindkategorien erlaubt. Diese Puzzles sind nun nicht mehr erlaubt.
 
 
 ## <article-4><scrambling><scrambling> Abschnitt 4: Scrambling
@@ -85,7 +93,7 @@ Jede Richtlinie ist einer der folgenden Kategorien zugeordnet. Diese Beschriftun
 
 - 5b5+) [Beispiel] Beispiele für abgelöste Teile, die zu einem gelösten Zustand führen: eine 3x3x3-Centercap, ein Big Cube Centerstein, ein inneres Teil eines Big Cubes.
 - 5b5++) [Beispiel] Beispiele für abgelöste Teile, die zu einem DNF führen: zwei 3x3x3-Centercaps, zwei Big Cube Centersteine, ein 3x3x3 Kantenstein, ein 4x4x4-Kantenstein ("wing"), jede Kombination zweier Steine mit jeweils farbigen Teilen.
-- 5b5+++) [Beispiel] Ein Beispiel für ein nicht vollständig positioniertes Teil, dass zu einem gelösten Zustand führt: ein 5x5x5-Centerstein, der in seiner richtigen Position gedreht ist.
+- 5b5+++) [Beispiel] Ein Beispiel für ein vollständig physikalisch montiertes, aber nicht vollständig platziertes Teil, dass zu einem gelösten Zustand führt: ein 5x5x5-Centerstein, der in seiner richtigen Position gedreht ist.
 - 5b5++++) [Beispiel] Ein Beispiel für ein nicht vollständig positioniertes Teil, dass zu einem nicht gelösten Zustand (DNF) führt: ein 3x3x3-Kantenstein, der leicht herausgesprungen ist.
 - 5c+) [Erinnerung] Wenn der Teilnehmer einen Puzzle-Defekt hat, gibt ihm das keinen Anspruch auf einen Extraversuch.
 
@@ -108,7 +116,6 @@ Jede Richtlinie ist einer der folgenden Kategorien zugeordnet. Diese Beschriftun
 
 ## <article-8><competitions><competitions> Abschnitt 8: Turniere
 
-- 8a4++) [Empfehlung] Das Turnier sollte mindestens einen Monat vor seinem Beginn angekündigt werden.
 - 8a5+) [Empfehlung] Das Turnier sollte mindestens 12 Teilnehmer haben.
 - 8a7+) [Zusatz] Organisatoren sollten eine Modifikation der Stackmat Timer in Erwägung ziehen, um sie widerstandsfähiger gegen häufige Zwischenfälle zu machen. Dazu zählt, das versehentliche Drücken der Tasten zu erschweren (z.B. durch das Anbringen von O-Ringen) und die Batterie zu fixieren (z.B. durch das Auspolstern des Batteriefachs).
 
@@ -121,12 +128,15 @@ Jede Richtlinie ist einer der folgenden Kategorien zugeordnet. Diese Beschriftun
 - 9f1+) [Beispiel] Wenn der Timer bei einem Versuch 12.678 anzeigt, beträgt die tatsächlich aufgezeichnete Zeit 12.67 (Nachkommastellen kleiner als eine hundertstel Sekunde werden ignoriert). Ein Judge darf nichtsdestotrotz die exakte Zeit auf das Scoresheet schreiben (und sie bei Berechnung von Zeitstrafen beibehalten), solange der Scoretaker die Zeit korrekt gekürzt als 12.67 aufzeichnet.
 - 9f4+) [Erklärung] Das Ergebnis eines Versuchs ist nur dann DNF wenn der Teilnehmer den Versuch begonnen hat, indem er signalisiert hat, dass er bereit ist. (siehe [Regel A3b2](regulations:regulation:A3b2)), und der Versuch disqualifiziert wurde.
 - 9f5+) [Erklärung] Das Ergebnis eines Versuchs ist DNS, wenn der Teilnehmer den Versuch durchführen hätte dürfen, den Versuch aber nicht begonnen hat. Wenn der Teilnehmer sich nicht für einen Versuch qualifiziert hat (z.B. in einer kombinierten Runde), so hat er kein Resultat für diesen Versuch.
+- 9p2+) [Erklärung] Ergebnis bezieht sich auf ein Einzelergebnis oder einen Durchschnitt, der die Rangliste der zugehörigen Runde bestimmt.
 - 9q+) [Empfehlung] Kategorien und Runden sollten mindestens 2 Teilnehmer haben.
 
 
 ## <article-10><solved-state><solvedstate> Abschnitt 10: Gelöster Zustand
 
-- 10f+) [Erklärung] Die Grenzen für die fehlerhafte Ausrichtung ("Misalignment") sind derart ausgewählt, dass sie eine natürliche Grenze zwischen einem Zustand eines Puzzles (ohne Zeitstrafe) und einem Zustand, der eine Drehung entfernt ist, ziehen.
+- 10e1+) [Erklärung] Für Square-1 unterscheidet sich die Metrik für fehlerhafte Ausrichtungen ("Misalignments"), die in [Regel 10f4](regulations:regulation:10f4) definiert ist, aufgrund der formverändernden Eingenschaft des Puzzles von der Metrik für die Notation, die von Scrambling Programmen verwendet wird und in [Regel 12c4](regulations:regulation:12c4) definiert ist.
+- 10f+) [Erklärung] Die Grenzen für die fehlerhafte Ausrichtung sind derart ausgewählt, dass sie eine natürliche Grenze zwischen einem Zustand eines Puzzles (ohne Zeitstrafe) und einem Zustand, der eine Drehung entfernt ist, ziehen.
+- 10f4+) [Erklärung] Beim Zählen der Drehungen bei einer fehlerhaften Ausrichtung am Ende des Versuchs, werden x und y separat betrachtet. Beispiel: (5, 1) wird als eine fehlerhafte Ausrichtung gewertet, (5, 5) als zwei fehlerhafte Ausrichtungen.
 - 10h1+) [Zusatz] Der gelöste Zustand von Clock wird nicht durch gelöste oder herausgefallene Pin Kappen beeinflusst.
 
 
@@ -137,27 +147,27 @@ Jede Richtlinie ist einer der folgenden Kategorien zugeordnet. Diese Beschriftun
 - 11e2+) [Zusatz] Wenn ein Extraversuch selbst zu einem weiteren Extraversuch führt, sollte der Teilnehmer solange Versuche machen, bis genug vorhanden sind, um so viele reguläre Ergebnisse zu ersetzen wie benötigt. Die gültigen Extraversuche ersetzen die relevanten regulären Versuche in aufsteigender Reihenfolge.
 - 11e2++) [Beispiel] Angenommen ein Teilnehmer hat 5 reguläre Versuche und der 2. Versuch führt zu einem Extraversuch. Der Teilnehmer sollte nun Extraversuche durchführen, bis ein gültiger Versuch vorhanden ist, um den 2. Versuch zu ersetzen. Wenn spätere Versuche zu weiteren Extraversuchen führen, sollten diese in gleicher Weise durchgeführt werden.
 
-## <article-12><notation><notation> Article 12: Notation
-
-- 12c2+) [Zusatz] Beim Auswerten von fehlerhaften Ausrichtungen am Ende eines Solves, werden x und y separat betrachtet. Beispiel: (5, 1) zählt als eine mangelnde Ausrichtung, (5, 5) zählt als zwei mangelnde Ausrichtungen.
 
 ## <article-A><speedsolving><speedsolving> Abschnitt A: Speed Solving (Lösen auf Zeit)
 
 - A1a2+) [Zusatz] Im Falle eines kumulativen Zeitlimits schreibt der Judge die für einen DNF gestoppte Zeit in Klammer auf das Scoresheet, z.B. "DNF (1:02.27)".
-- A1a2++) [Erklärung] Kumulative Zeitlimits dürfen für ein Event oder eine Kombination von Events gesetzt werden.
+- A1a2++) [Erklärung] Kumulative Zeitlimits dürfen für eine Kategorie oder eine Kombination von Runden von unterschiedlichen Kategorien gesetzt werden.
 - A1a2+++) [Erklärung] Wenn ein kumulatives Zeitlimit gesetzt wurde, wird nach dem Erreichen des Zeitlimits jeder verbleibenden Versuche als DNS (Did Not Start) gewertet.
+- A1a2++++) [Zusatz] Wenn ein kumulatives Zeitlimit für eine einzelne Kategorie oder eine Kombination von Kategorien gesetzt wurde, haben diese kein reguläres Zeitlimit.
+- A1a2+++++) [Erklärung] Kategorien, bei denen ein Zeitlimit pro Versuch in den Regeln definiert ist (3x3x3 Fewest Moves und 3x3x3 Multi-Blind), dürfen kein kumulatives Zeitlimit haben.
 - A1a3+) [Erinnerung] Das Organisationsteam und der WCA-Delegierte sollten sich dessen bewusst sein, dass Zeitlimits die Strategien der Teilnehmer beeinflussen (z.B. in den ersten beiden Versuchen hektisch lösen, in der Hoffnung das Cutoff in einer kombinierten Runde zu schaffen), und dass das Ändern des Zeitlimits nach Beginn einer Runde für manche Teilnehmer ein unfairer Nachteil sein kann.
 - A1a4+) [Erinnerung] Wurde versehentlich ein Teilnehmer trotz Überschreitung des Zeitlimits nicht gestoppt, so muss der Versuch nachträglich disqualifiziert werden und der Judge, der Teilnehmer und der WCA-Delegierte sollten informiert werden (siehe [Regel 1g2](regulations:regulation:1g2)). Judges müssen stets das Zeitlimit der aktuellen Versuche (welches bei kumulativen Limits von den Ergebnissen der vorherigen Versuche abhängen kann) bzw. Runden kennen.
 - A1c+) [Erklärung] WCA-Delegierte sollten nur ihr Urteilsvermögen nutzen, um Teilnehmer davon abzuhalten, dem Turnier zu schaden (z.B. durch Zeitverschwendung und/oder Verschwendung von anderen Ressourcen des Turniers). Teilnehmer sollten nicht für schlechte Resultate disqualifiziert werden, wenn sie nach besten Können am Turnier teilnehmen.
-- A2c1+) [Erinnerung] In der Vergangenheit wurden oft Scoresheets als Abdeckung für die Puzzle benutzt, wobei jedoch manche Seiten der Puzzle sichtbar waren. Dies ist nicht mehr gestattet.
-- A3c3+) [Erklärung] Der Teilnehmer darf den Timer vor/während der Inspektionsphase zurücksetzen, wenn der Judge dies versehentlich nicht getan hat. Allerdings liegt es in der Verantwortung des Judges sicherzustellen, dass der Timer zurückgesetzt wurde (siehe [Regel A3b](regulations:regulation:A3b)). Wenn der Teilnehmer versehentlich den Versuch mit einem Timer beginnt, den der Judge nicht zurückgesetzt hat (z.B. wenn der Teilnehmer die Inspektion durchführt, die Hände in der Annahme, dass der Timer normal starten wird, für eine ausreichende Zeit auf den Timer legt und beginnt das Puzzle zu lösen), sollte der Versuch mit einem Extraversuch ersetzt werden, nach Ermessen des WCA-Delegierten.
+- A2c1+) [Erinnerung] In der Vergangenheit wurden oft Scoresheets als Abdeckung für die Puzzles benutzt, wobei jedoch manche Seiten der Puzzles sichtbar waren. Dies ist nicht mehr gestattet.
+- A3c3+) [Erklärung] Der Teilnehmer darf den Timer vor/während der Inspektionsphase zurücksetzen, wenn der Judge dies versehentlich nicht getan hat. Allerdings liegt es in der Verantwortung des Judges sicherzustellen, dass der Timer zurückgesetzt wurde (siehe [Regel A3b](regulations:regulation:A3b)). Wenn der Teilnehmer versehentlich den Versuch mit einem Timer beginnt, den der Judge nicht zurückgesetzt hat (z.B. wenn der Teilnehmer die Inspektion durchführt, die Hände in der Annahme, dass der Timer normal starten wird, für eine ausreichende Zeit auf den Timer legt und beginnt das Puzzle zu bedienen), sollte der Versuch mit einem Extraversuch ersetzt werden, nach Ermessen des WCA-Delegierten.
 - A3c4+) [Erklärung] Wenn ein dünner Gegenstand im Inneren des Puzzles genutzt wird darf der Judge dieses nicht im Auftrag des Teilnehmers entfernen.
 - A3c4++) [Erklärung] Der Teilnehmer darf den Gegenstand während des Solves entfernen, wenn er dies nicht während der Inspektionsphase getan hat (z.B. vergessen hat).
 - A5b+) [Erklärung] Während dem Inspizieren und Lösen des Puzzles darf der Teilnehmer das Puzzle mit jedem Teil seines Körpers berühren. Ausnahme: Einhändiglösen und Lösen mit Füßen (siehe [Regel C1b](regulations:regulation:C1b) und [Regel D1b](regulations:regulation:D1b)).
 - A6b+) [Erläuterung] Der unbegründete Wert von 0.06 Sekunden wurde gewählt, um möglichen Bedenken bezüglich einer Fehlfunktion des Timers Rechnung zu tragen.
-- A6f+) [Erklärung] Wenn der Teilnehmer den Timer zurücksetzt, bevor das Ergebnis komplett erfasst wurde, darf der Judge dieses nicht aus dem Gedächtnis oder mit Hilfe eines Videos oder eines fotografischen Belegs aufschreiben, und muss den Versuch stattdessen disqualifizieren (DNF).
+- A6e+) [Erklärung] Wenn das Puzzle nach dem Stoppen des Timers in den Schoß des Teilnehmers fällt, wird dies als Berührung des Puzzles gewertet.
 - A6g+) [Erläuterung] Während der Judge entscheidet, ob er eine Strafe für ein Misalignment geben soll, sollte er das Puzzle nicht berühren.
 - A7c+) [Zusatz] Wenn ein vom Teilnehmer unterschriebenes Ergebnis unvollständig oder unleserlich ist, sollte es auf die schlechteste plausible Art und Weise gelesen werden (z.B. wird 1:05 als 1:05.99 betrachtet, 25.X3 wird als 25.73 betrachtet wenn X entweder eine 1 oder eine 7 sein könnte). Da der Stackmat-Timer Zeiten wie X:0Y.ss als X:Y.ss anzeigt, sollte eine fehlende Zehnerstelle eher in Betracht gezogen werden als eine fehlende Einerstelle (z.B. wird 1:2.27 als 1:02.27 betrachtet). Der Judge der ein zweideutiges Ergebnis unterschrieben hat, kann nach Ermessen des Scoretakers gebeten werden, dieses zu erklären.
+- A7c4+) [Zusatz] Fehlende Unterschriften dürfen nachträglich ergänzt werden, wenn der verantwortliche Judge und/oder Teilnehmer gefunden werden kann, nach Ermessen des Scoretakers.
 - A7g+) [Beispiel] Beispiele für Zwischenfälle, bei denen einem neuen Teilnehmer ein Extraversuch zugesprochen werden kann: nicht auf das grüne Licht warten, den Timer unsachgemäß starten oder stoppen, die Inspektionszeit durch ein Fehlverständnis, wie ein Versuch zu starten ist, überziehen, oder andere Zeitstrafen für Verfahrensweisen.
 - A7g++) [Erläuterung] Individuelle Zeitstrafen für einen neuen Teilnehmer dürfen nicht erlassen werden. Ein vollständiger Extraversuch muss gegeben werden.
 - A7g+++) [Empfehlung] Der WCA-Delegierte sollte strenger abwägen, wenn demselben Teilnehmer mehr als ein Extraversuch gegeben wird. Wenn mehr als ein Extraversuch gegeben wird, sollte dieser für unterschiedliche Zwischenfälle gegeben werden.
@@ -178,6 +188,7 @@ Jede Richtlinie ist einer der folgenden Kategorien zugeordnet. Diese Beschriftun
 ## <article-D><feet><solvingwithfeet> Abschnitt D: Lösen mit den Füßen
 
 - D1b+) [Erklärung] Der Teilnehmer darf während des Lösens Socken tragen.
+- D1b++) [Erklärung] In der Vergangenheit mussten Teilnehmer das Puzzle bei Solving with Feet mit den Füßen inspizieren. Sie dürfen nun während der Inspektionszeit das Puzzle mit den Händen und anderen Körperteilen berühren (siehe [Richtlinie A5b+](guidelines:guideline:A5b+)).
 - D1c+) [Erinnerung] Während dem Reparieren von Defekten des Puzzles dürfen keine anderen Körperteile das Puzzle berühren.
 
 
@@ -188,7 +199,6 @@ Jede Richtlinie ist einer der folgenden Kategorien zugeordnet. Diese Beschriftun
 - E2c++) [Erklärung] Die Lösung des Teilnehmers darf nur Züge enthalten, die in [Regel 12a](regulations:regulation:12a) exakt definiert sind. Beispiele für Notationen und Züge, die nicht erlaubt sind: [F], [R, U], [R: U], R'2, L'w, f, M, U2'.
 - E2e+) [Erklärung] Teilnehmer dürfen ihre Lösung nicht von einem Teil des Scrambles ableiten und die Lösung sollte nicht in signifikaten Teilen mit dem inversen Scramble übereinstimmen.
 - E2e++) [Beispiel] Beispiel für Lösungen, die zu einer Disqualifikation des Versuchs (DNF) führen sollten: Lösungen die mit denselben 4 Moves wie der inverse Scramble beginnen.
-- E3b+) [Erinnerung] "Rubik's Cube" bezeichnet hier nur das Standard 3x3x3-Puzzle.
 - E3d+) [Erklärung] Jegliche Stoppuhr oder Uhr, die durch einen Teilnehmer genutzt wird, darf keine zusätzlichen Funktionen haben, die dem Teilnehmer dabei helfen kann, eine Lösung zu finden.
 - E3d++) [Erklärung] Teilnehmer sollten eine persönliche Stoppuhr oder Uhr nicht als offizielle Zeit ansehen und müssen ihre Lösung einreichen, wenn der Judge "STOP" ruft.
 
@@ -199,3 +209,9 @@ Jede Richtlinie ist einer der folgenden Kategorien zugeordnet. Diese Beschriftun
 - H1b1++) [Zusatz] Der Judge darf dem Teilnehmer erlauben, den Versuch inoffiziell fortzuführen, aber der Versuch muss zuerst gestoppt und in Übereinstimmung mit den Regeln bewertet werden.
 - H1d+) [Beispiel] Beispiel: Angenommen ein Teilnehmer versucht 10 Würfel, schließt mit einer Zeit von 59:57 ab und hat zwei Zeitstrafen. Das abschließende Ergebnis ist: 59:57 + 2*2 = 60:01 (siehe [Regel A1a5](Regel A1a5)).
 - H1d++) [Beispiel] Beispiel: Angenommen ein Teilnehmer versucht 10 Würfel und der Judge stoppt ihn bei 60 Minuten und der Versuch hat zwei Zeitstrafen. Das abschließende Ergebnis ist 60:00 + 2*2 = 60:04.
+
+
+## <article-Z><optional><optional> Article Z: Optional Regulations
+
+- Z4+) [Erklärung] Wenn ein Teilnehmerlimit sich auf Qualifikationsergebnisse oder Ranglisten in der WCA Weltrangliste eines vorab angekündigten Kalendertages bezieht, darf das Organisationsteam nur diesen Typ von Ergebnissen nutzen (d.h. Einzelzeiten oder Durchschnitt (Average/Mean)).
+- Z4b+) [Beispiel] Beispiele für Gründe, die eine Änderung des Teilnehmerlimits rechtfertigen, nachdem der Wettbewerb angekündigt wurde: der Veranstaltungsort hat sich geändert oder die Anzahl an Registrierungen ist höher als erwartet.
