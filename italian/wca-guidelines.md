@@ -1,30 +1,28 @@
 # <wca-title>Linee guida regolamento WCA
 
-<version>Versione: 18 Aprile 2016
+<version>Versione: 19 giugno 2017
 
 
 ## Note
 
-Ultima revisione testuale: 12 Dicembre 2016
-
 ### Regolamento WCA
 
-Le Linee Guida WCA integrano il [Regolamento WCA](regulations:top). Si prega di fare consultare il Regolamento per maggiori informazioni riguardo la WCA.
+Le Linee Guida WCA integrano il [Regolamento WCA](regulations:top). Si prega di consultare il Regolamento per maggiori informazioni riguardo alla WCA.
 
 ### Numerazione
 
-Le Linee Guida seguono la numerazione delle regole a cui fanno riferimento. Più linee guida possono essere essere riferite alla stessa regola, mentre alcune Linee Guida fanno riferimento a regole che non esistono più.
+Le Linee Guida seguono la numerazione delle Regole a cui fanno riferimento. Più Linee Guida possono essere essere riferite alla stessa Regola, mentre alcune Linee Guida fanno riferimento a Regole non più esistenti.
 
 ### Codice
 
 Per rendere più semplice e immediata la consultazione, ogni Linea Guida è classificata secondo il codice seguente. Tale classificazione è puramente informativa e non conferisce in alcun modo un'importanza maggiore ad una Linea Guida rispetto ad un'altra.
 
 - <label>[AMPLIAMENTO] Informazione aggiuntiva che ha lo scopo di integrare il Regolamento.
-- <label>[CHIARIMENTO] Informazione che può servire a chiarire qualsiasi possibile dubbio riguardo l'interpretazione del Regolamento.
+- <label>[CHIARIMENTO] Informazione che può servire a chiarire qualsiasi possibile dubbio riguardo all'interpretazione del Regolamento.
 - <label>[SPIEGAZIONE] Informazione che illustra il fine di una regola.
 - <label>[RACCOMANDAZIONE] Direttiva non strettamente obbligatoria, ma che deve essere seguita quando possibile.
-- <label>[PROMEMORIA] Informazione che può essere riferita ad un'altra regola/linea guida ma che merita di essere ripetuta per la sua rilevanza.
-- <label>[ESEMPIO] Un esempio che illustra una situazione in cui viene applicata una determinata regola.
+- <label>[PROMEMORIA] Informazione che può essere riferita ad un'altra Regola/Linea Guida ma che merita di essere ripetuta per la sua rilevanza.
+- <label>[ESEMPIO] Un esempio che illustra una situazione in cui viene applicata una determinata Regola.
 
 
 ## <contents> [Contenuto](guidelines:contents)
@@ -34,11 +32,11 @@ Per rendere più semplice e immediata la consultazione, ogni Linea Guida è clas
 
 ## <article-1><officials><officials> Articolo 1: Ufficiali di gara
 
-- 1c3+) [RACCOMANDAZIONE]  Il file dei risultati deve essere completo alla fine dell'ultimo giorno della competizione.
-- 1c3++) [AMPLIAMENTO] I risultati fisici (es. foglietti dei risultati, soluzioni scritte del Fewest Moves Solving) devono essere tenuti almeno per un mese. I risultati digitali (es. scramble, risultati) devono essere tenuti permanentemente.
+- 1c3+) [RACCOMANDAZIONE]  I risultati devono essere pronti per la fine dell'ultimo giorno della competizione.
+- 1c3++) [AMPLIAMENTO] I risultati fisici (es. foglietti dei risultati, soluzioni scritte del Fewest Moves Solving) devono essere conservati almeno per un mese. I risultati digitali (es. scramble, risultati) devono essere conservati permanentemente.
 - 1c3b+) [CHIARIMENTO] Se ci sono più gruppi, non è necessario indicare quale partecipante era in quale gruppo.
 - 1c4+) [RACCOMANDAZIONE] Eventuali correzioni ai risultati dovrebbero essere inoltrate entro una settimana dal termine della competizione.
-- 1c10+) [CHIARIMENTO] E' sufficiente che sia consultabile una copia digitale del Regolamento.
+- 1c10+) [CHIARIMENTO] È sufficiente che sia consultabile una copia digitale del Regolamento.
 - 1h+) [RACCOMANDAZIONE] I partecipanti dello stesso gruppo devono avere gli stessi scramble. Gruppi diversi devono avere scramble diversi.
 - 1h++) [RACCOMANDAZIONE] I turni finali di tutti gli eventi, così come tutti i tentativi di Fewest Moves, dovrebbero avere gli stessi scramble per tutti i partecipanti (es. un solo gruppo).
 - 1h1+) [CHIARIMENTO] Giudici/mischiatori dovrebbero giudicare o mischiare nel loro stesso gruppo solo se è necessario per motivi logistici o di tempistica.
@@ -47,10 +45,12 @@ Per rendere più semplice e immediata la consultazione, ogni Linea Guida è clas
 
 ## <article-2><competitors><competitors> Articolo 2: Partecipanti
 
-- 2c+) [AMPLIAMENTO] I partecipanti che si registrano per la prima volta devono usare il loro nominativo completo. Possono registrarsi utilizzando un ragionevole soprannome, a discrezione del Delegato WCA.
+- 2c+) [AMPLIAMENTO] I partecipanti che si registrano per la prima volta devono usare il loro nome completo. Possono registrarsi utilizzando un soprannome ragionevole, a discrezione del Delegato WCA.
 - 2c++) [AMPLIAMENTO] I partecipanti non devono fornire intenzionalmente informazioni fuorvianti. I partecipanti che hanno già preso parte ad una competizione devono fornire informazioni in accordo con i dati presenti nel database (ad esempio nome esatto e WCA ID).
 - 2d+) [AMPLIAMENTO] La data di nascita e le informazioni di contatto devono essere inequivocabilmente esatte.
-- 2d++) [RACCOMANDAZIONE] Se terzi (ad esempio giornalisti) chiedono al team organizzativo di essere messi in contatto con un partecipante, costui deve fornire il suo consenso prima che qualsiasi dato venga trasmesso.
+- 2d++) [RACCOMANDAZIONE] Se terzi (ad esempio giornalisti) chiedono al team organizzativo di essere messi in contatto con un partecipante, questo deve fornire il suo consenso prima che qualsiasi dato venga trasmesso.
+- 2e+) [CHIARIMENTO] Se un partecipante possiede due o più cittadinanze, può scegliere il paese che vuole rappresentare in occasione della sua prima competizione.
+- 2e3+) [CHIARIMENTO] I partecipanti apolidi non hanno record e classifiche nazionali e continentali.
 - 2h+) [CHIARIMENTO] I partecipanti possono essere scalzi durante la risoluzione coi piedi (With Feet).
 - 2j2+) [ESEMPIO] Ad esempio, se un partecipante è squalificato da un evento per non essersi presentato al turno finale, i suoi risultati dei turni precedenti rimangono validi.
 - 2s+) [PROMEMORIA] Eventuali accorgimenti devono essere riportati nel report del Delegato.
@@ -76,7 +76,7 @@ Per rendere più semplice e immediata la consultazione, ogni Linea Guida è clas
 ## <article-4><scrambling><scrambling> Articolo 4: Come mischiare
 
 - 4b1+) [PROMEMORIA] Il Delegato WCA non deve rimpiazzare uno scramble già assegnato con l'intento di smistare intenzionalmente gli scramble. Per esempio, non è permesso ispezionare gli scramble prima di una competizione e generarne un nuovo set "più equo".
-- 4b2+) [CHIARIMENTO] In generale, tutti gli scramble ufficiali dovrebbero essere tenuti segreti per l'intera durata della competizione e pubblicati tutti insieme alla fine di quwesta ( vedi[Regola 1c3a]((regulations:regulation:1c3a)). In alcuni casi (es. record mondiale), il team organizzativo potrebbe decidere di rilasciare lo scramble in anticipo, alla fine del round.
+- 4b2+) [CHIARIMENTO] In generale, tutti gli scramble ufficiali dovrebbero essere tenuti segreti per l'intera durata della competizione e pubblicati tutti insieme alla fine di questa ( vedi[Regola 1c3a]((regulations:regulation:1c3a)). In alcuni casi (es. record mondiale), il team organizzativo potrebbe decidere di rilasciare lo scramble in anticipo, alla fine del round.
 - 4b4+) [CHIARIMENTO] Tutti i tentativi che sono già inizati seguono la normale procedura (es. quando scade il periodo di validità degli scramble, i tentativi non vengono fermati).
 - 4d+) [CHIARIMENTO] Alcuni puzzle presentano lo schema di colori standard, con il nero al posto del bianco. In questo caso, il nero è il colore più scuro e non deve essere considerato come il bianco quando si mischia il puzzle.
 - 4d++) [AMPLIAMENTO] Il puzzle può cambiare orientamento quando viene spostato dal tavolo degli scrambler alla postazione di risoluzione, a patto che non avvenga un tentativo volontario di influenzare la casualità dell'orientamento (vedi [Regola A2e1](regulations:regulation:A2e1)).
@@ -86,11 +86,11 @@ Per rendere più semplice e immediata la consultazione, ogni Linea Guida è clas
 
 ## <article-5><puzzle-defects><puzzledefects> Articolo 5: Difetti del puzzle
 
-- 5b5+) [ESEMPIO] Esempio di parti fisicamente staccate che non intaccano la risoluzione: il coperchio di un centro di un 3x3x3, un centro di un Big Cube (4x4x4 o superiore), un pezzo interno.
-- 5b5++) [ESEMPIO] Esempio di parti fisicamente staccate che causano un "DNF": due coperchi dei centri di un 3x3x3, due centri di un Big Cube, uno spigolo di un 3x3x3, uno spigolo di un 4x4x4, qualsiasi combinazione di due pezzi aventi entrambi parti colorate.
+- 5b5+) [ESEMPIO] Esempio di parti fisicamente staccate che non intaccano la risoluzione: il cap di un centro di un 3x3x3, un centro di un Big Cube (4x4x4 o superiore), un pezzo interno.
+- 5b5++) [ESEMPIO] Esempio di parti fisicamente staccate che causano un "DNF": due caps dei centri di un 3x3x3, due centri di un Big Cube, uno spigolo di un 3x3x3, uno spigolo di un 4x4x4, qualsiasi combinazione di due pezzi aventi entrambi parti colorate.
 - 5b5+++) [ESEMPIO] Esempio di parti non completamente attaccate che non intaccano la risoluzione: un centro di un 5x5x5 ruotato su sé stesso.
 - 5b5++++) [ESEMPIO] Esempio di parti fisicamente attaccate che generano un "DNF": uno spigolo di un 3x3x3 leggermente fuori dalla sua sede.
-- 5c+) [PROMEMORIA] In caso di un difetto del puzzle, questo non garantisce il diritto di effettuare un tentativo extra.
+- 5c+) [PROMEMORIA] Un difetto del puzzle, non garantisce il diritto di effettuare un tentativo extra.
 
 
 ## <article-6><awards><awards> Articolo 6: Premi/premiazioni
@@ -98,14 +98,14 @@ Per rendere più semplice e immediata la consultazione, ogni Linea Guida è clas
 - 6a+) [AMPLIAMENTO] I partecipanti possono ricevere premi/medaglie/attestati in base a quanto stabilito al momento dell'annuncio della competizione.
 - 6b+) [RACCOMANDAZIONE] I partecipanti dovrebbero essere presenti alla cerimonia di premiazione per ricevere premi/medaglie/attestati.
 - 6b1+) [RACCOMANDAZIONE] La cerimonia di premiazione dovrebbe svolgersi nella venue dove si è svolta la competizione, entro un'ora dal termine dell'ultimo evento.
-- 6c+) [RACCOMANDAZIONE] I vincitori dovrebbero essere disponibili e preparati a parlare coi giornalisti o i media che coprono l'evento.
+- 6c+) [RACCOMANDAZIONE] I vincitori dovrebbero essere disponibili e preparati a parlare con i giornalisti o con i media che coprono l'evento.
 - 6d+) [RACCOMANDAZIONE] Il team organizzativo dovrebbe consegnare un attestato, firmato dal leader del team e dal Delegato WCA, al vincitore di ogni categoria.
 
 
 ## <article-7><environment><environment> Articolo 7: Ambiente di gara
 
 - 7d+) [RACCOMANDAZIONE] La temperatura dell'ambiente di gara dovrebbe essere compresa tra 21 e 25 gradi centigradi.
-- 7f1a+) [CHIARIMENTO] Un tappetino grande ha dimensioni minime di 30cm (da sinistra a destra) per 25cm (da fronte a retro).
+- 7f1a+) [CHIARIMENTO] Un tappetino grande ha dimensioni minime di 30 cm (da sinistra a destra) per 25 cm (da fronte a retro).
 - 7h2+) [AMPLIAMENTO] I partecipanti che si trovano nell'Area Partecipanti non devono essere in grado di vedere i puzzle che gli altri partecipanti stanno risolvendo.
 
 
@@ -113,7 +113,7 @@ Per rendere più semplice e immediata la consultazione, ogni Linea Guida è clas
 
 - 8a4++) [RACCOMANDAZIONE] La competizione dovrebbe essere annunciata almeno un mese prima dell'inizio della stessa.
 - 8a5+) [RACCOMANDAZIONE] La competizione dovrebbe avere almeno 12 partecipanti.
-- 8a7+) [AMPLIAMENTO] Gli organizzatori sono fortemente consigliati a effettuare modifiche agli Stackmat timer volte a prevenire incidenti comuni, come rendere più difficile la pressione involontaria dei bottone (es. posizionado O-Ring intorno ai bottoni) e impedire il movimento delle batterie (es. inserendo un'imbottitura nello scompartimento batteria).
+- 8a7+) [AMPLIAMENTO] Gli organizzatori sono fortemente invitati a effettuare modifiche agli Stackmat timer volte a prevenire incidenti comuni, come rendere più difficile la pressione involontaria dei bottoni (es. posizionado O-Ring intorno ai bottoni) e impedire il movimento delle batterie (es. inserendo un'imbottitura nello scompartimento della batteria).
 
 
 ## <article-9><events><events> Articolo 9: Eventi
@@ -122,7 +122,7 @@ Per rendere più semplice e immediata la consultazione, ogni Linea Guida è clas
 - 9b++) [AMPLIAMENTO] Eventi extra, non specificati nella [Regola 9b](regulations:regulation:9b), possono essere tenuti benché verranno considerati non ufficiali e non verranno inclusi nei risultati ufficiali della competizione.
 - 9b3b+) [CHIARIMENTO] La statistica "Mean of 3" non influenza la classifica in un round con formato "Best of 3" (che è basata sul miglior risultato). La WCA riconosce la "Mean of 3" al di fuori del formato della competizione.
 - 9f1+) [ESEMPIO] Se il timer mostra 12.678, il tempo registrato è 12.67 (viene troncata qualsiasi cifra dopo i centesimi di secondo). Un giudice potrebbe scrivere il tempo con la precisione massima (i millisecondi) sul foglietto segna-tempo (e tenere la stessa precisione nel conteggio delle penalità), ma eventuali cifre decimali aggiuntive saranno troncate durante il calcolo della media.
-- 9f4+) [SPIEGAZIONE] Il risultato di un tentativo è "DNF" solamente è iniziato tramite il segnale di "pronto" del partecipante (vedi [Regola A3b2](regulations:regulation:A3b2)), ma il tentativo è stato squalificato.
+- 9f4+) [SPIEGAZIONE] Il risultato di un tentativo è DNF solamente se è iniziato tramite il segnale di "pronto" del partecipante (vedi [Regola A3b2](regulations:regulation:A3b2)) e se il tentativo è stato squalificato.
 - 9f5+) [CHIARIMENTO] Il risultato di un tentativo è DNS se il partecipante idoneo alla risoluzione decide di non iniziare il tentativo (vedi [Regola A3b2](regulations:regulation:A3b2)). Se il partecipante non si è qualificato per il tentativo (es. in un round combinato), non ci saranno risultati per il tentativo.
 - 9q+) [RACCOMANDAZIONE] Eventi e turni dovrebbero avere almeno due partecipanti.
 
@@ -130,7 +130,7 @@ Per rendere più semplice e immediata la consultazione, ogni Linea Guida è clas
 ## <article-10><solved-state><solvedstate> Article 10: Stato Risolto
 
 - 10f+) [SPIEGAZIONE] I limiti di disallineamento sono pensati per stabilire il limite tra una risoluzione senza penalità e una con penalità.
-- 10h1+) [AMPLIAMENTO] La condizione di risolto del Clock non è influenzata da coperchi dei pin distaccati dal puzzle.
+- 10h1+) [AMPLIAMENTO] Lo stato risolto del Clock non è influenzato dai caps dei pin distaccati dal puzzle.
 
 
 ## <article-11><incidents><incidents> Articolo 11: Incidenti
@@ -138,7 +138,7 @@ Per rendere più semplice e immediata la consultazione, ogni Linea Guida è clas
 - 11e+) [CHIARIMENTO] Dato che la semplice richiesta di avere un extra time non dà diritto automatico ad un'ulteriore risoluzione, il partecipante può scegliere di non fermare il tempo mentre pone la richiesta, per poi riprendere se lo ritiene appropriato (es. La richiesta è stata rifiutata e si vuole evitare DNF).
 - 11e1+) [PROMEMORIA] Lo scramble per un extra time deve essere una sequenza originale generata programma di mischiatura ufficiale (vedi [Regola 4f](regulations:regulation:4f), [Linea Guida 4f+](guidelines:guideline:4f+)).
 - 11e2+) [AMPLIAMENTO] Se un tentativo extra produce un ulteriore tentativo extra, il partecipante deve continuare a fare tentativi extra fino a quando non si ottiene un tentativo valido che sostituisca l'originale.
-- 11e2++) [ESEMPIO] Supponendo che un partecipante abbia 5 tentativi regolari e che il #2 generi un tentativo extra. Il partecipante deve continuare a effettuare tentativi extra fin quando non ne viene generato uno che sostisuisca il #2 originale. In caso un altro tentativo successivo generi un extra il partecipante continua allo stesso modo del #2.
+- 11e2++) [ESEMPIO] Supponendo che un partecipante abbia 5 tentativi regolari e che il secondo generi un tentativo extra. Il partecipante deve continuare a effettuare tentativi extra fin quando non ne viene generato uno che sostisuisca il secondo originale. In caso un tentativo successivo generi un extra il partecipante continua allo stesso modo del secondo.
 
 
 ## <article-12><notation><notation> Articolo 12: Notazione
@@ -148,11 +148,11 @@ Per rendere più semplice e immediata la consultazione, ogni Linea Guida è clas
 
 ## <article-A><speedsolving><speedsolving> Articolo A: Speed Solving
 
-- A1a2+) [AMPLIAMENTO] In caso di un tempo limite comulativo, il giudice deve registrare il tempo che il partecipante ha ottenuto, benchè il tentativo fosse DNF, per esempio “DNF (1:02.27)”.
+- A1a2+) [AMPLIAMENTO] In caso di un tempo limite cumulativo, il giudice deve registrare il tempo che il partecipante ha ottenuto, benchè il tentativo fosse DNF, per esempio "DNF (1:02.27)".
 - A1a2++) [CHIARIMENTO] Tempi limite cumulativi potrebbero essere applicati per un singolo evento o per una combinazione di eventi.
 - A1a2+++) [CHIARIMENTO] In caso di un tempo limite cumulativo, dopo che questo è stato raggiunto dal partecipante, i tentativi rimanenti saranno segnati come DNS (Did Not Start).
-- A1a3+) [PROMEMORIA] The organisation team and the WCA Delegate must be mindful that time limits influence the strategies of the competitors (e.g. rushing the first two attempts in hopes of meeting a cutoff in a combined round), and that changing time limits after the start of the round can disadvantage some competitors unfairly.
-- A1a4+) [PROMEMORIA] Se a un partecipante è stato accidentalmente permesso di superare il tempo limite, questo dovrebbe essere applicato retroattivamente e giudice, partecipante e Delegato WCA dovrebbero esserne informati (vedi [Regola 1g2](regulations:regulation:1g2)). I giudici devono essere sempre consapevoli del tempo limite per il tentativo corrente (che potrebbe dipendere dai tentativi precedenti, in caso di tempo limite cumulativo).
+- A1a3+) [PROMEMORIA] Gli organizzatori e il Delegato devono essere consapevoli del fatto che i limiti di tempo influenzano le scelte dei partecipanti (es. sbrigarsi nei primi due tentativi per cercare di raggiungere il cutoff in un round combinato) e che il cambiamento di tali llimiti dopo l'inizio della competizione può ingiustamente svantaggiare alcuni partecipanti.
+- A1a4+) [PROMEMORIA] Se a un partecipante è stato accidentalmente permesso di superare il tempo limite, questo dovrebbe essere applicato retroattivamente; il giudice, il partecipante e il Delegato WCA dovrebbero esserne informati (vedi [Regola 1g2](regulations:regulation:1g2)). I giudici devono essere sempre consapevoli del tempo limite per il tentativo corrente (che potrebbe dipendere dai tentativi precedenti, in caso di tempo limite cumulativo).
 - A1c+) [CHIARIMENTO] I Delegati WCA dovrebbero usare solamente la loro discrezione per prevenire comportamenti dei partecipanti che potrebbero risultare dannosi per la competizione (es. perdita di tempo o spreco di risorse). I partecipanti non dovrebbero essere squalificati per risultati "scadenti" quando stanno partecipanto al massimo delle loro capacità.
 - A2c1+) [CHIARIMENTO] In passato, i foglietti per registrare i tempi sono stati usati come cover per i cubi, prima dell’inizio della risoluzione. Dato che questo metodo lascia, nella maggior parte dei casi, scoperte alcune parti del puzzle, non è più possibile usare questa soluzione.
 - A3c3+) [CHIARIMENTO] Se il giudice se ne dimentica, il partecipante può resettare il timer prima dell'inizio dell'ispezione o durante questa. È comunque responsabilità del giudice assicurarsi che il timer sia stato resettato (vedi [Regola A3b](regulations:regulation:A3b)). Se il partecipante dovesse accidentalmente tentare di iniziare la risoluzione senza che il timer sia stato resettato (es. il partecipante effettua l'ispezione, piazza le mani sul timer per un periodo di tempo sufficientemente lungo assumendo che questo sia sufficiente per avviare il timer e poi effettua delle mosse), il tentativo dovrebbe essere sostituito da uno extra, a discrezione del Delegato WCA.
@@ -160,12 +160,12 @@ Per rendere più semplice e immediata la consultazione, ogni Linea Guida è clas
 - A3c4++) [CHIARIMENTO] In caso lo spessore non sia stato rimosso durante la fase di ispezione, il partecipante può rimuoverlo durante quella di risoluzione (es. il partecipante si è dimenticato).
 - A5b+) [CHIARIMENTO] Durante l'ispezione o la risoluzione del puzzle, il partecipante può toccarlo con qualsiasi parte del corpo. Eccezione: risoluzione con una mano (One Handed) e risoluzione con i piedi (With Feet) (vedi [Regola C1b](regulations:regulation:C1b) e [Regola D1b](regulations:regulation:D1b)).
 - A6b+) [SPIEGAZIONE] Il valore arbitrario di 0.06 secondi è stato scelto tenendo conto dei malfunzionamenti occasionali del timer Stackmat.
-- A6f+) [CHIARIMENTO] In caso il partecipante resetto il timer prima che il risultato sia stato completamente registrato, il giudice non deve riportare le cifre mancanti affidandosi alla memoria, a video o fotografie ma deve squalificare il tentativo (DNF).
+- A6f+) [CHIARIMENTO] In caso il partecipante resetti il timer prima che il risultato sia stato completamente registrato, il giudice non deve riportare le cifre mancanti affidandosi alla memoria, a video o fotografie ma deve squalificare il tentativo (DNF).
 - A6g+) [AMPLIAMENTO] Mentre il giudice sta esaminando il puzzle, appurando se la risoluzione sia con o senza penalità, non dovrebbe toccare lo stesso.
 - A7c+) [AMPLIAMENTO] In caso il partecipante firmi un risultato e questo sia incompleto o illeggibile, verrà registrato nel peggior modo compatile con quanto scritto (es. "1:05" sarà registrato come "1:05.99", "25.X3" sarà considerato 25.73 se X può essere sia 1 che 7). Dato che il timer Stackmat mostra un tempo X:0Y.ss come X:Y.ss, in caso di mancanza di una decina sarà considerato come una cifra mancante (es. "1:2.27" sarà considerato come "1:02.27"). Eventuali chiarimenti potrebbero essere richiesti a guidici responsabili di aver segnato tempo ambigui o illeggibili.
 - A7g+) [ESEMPIO] Esempio di incidenti che potrebbero garantire un tentativo extra a un esordiente: non guardare la luce verde sul timer Stackmat, errato modo di avviare o fermare il timer, oltrepassare il tempo di ispezione a causa della poca chiarezza della procedura.
 - A7g++) [CHIARIMENTO] Penalità individuali non possono essere evitate per gli esordienti, ma deve essere assegnato un tentativo extra.
-- A7g+++) [RACCOMANDAZIONE] Il Delegato WCA dovrebbe usare giudicare in modo adeguato prima di assegnare un secondo tentativo extra allo stesso esordiente. Se più di un tentativo extra viene assegnat, dovrebbe essere per un incidente diverso.
+- A7g+++) [RACCOMANDAZIONE] Il Delegato WCA dovrebbe usare giudicare in modo adeguato prima di assegnare un secondo tentativo extra allo stesso esordiente. Se più di un tentativo extra viene assegnato, dovrebbe essere per un incidente diverso.
 
 
 
@@ -191,7 +191,7 @@ Per rendere più semplice e immediata la consultazione, ogni Linea Guida è clas
 ## <article-E><fewest-moves><fewestmovessolving> Articolo E: Fewest Moves Solving
 
 - E2b+) [CHIARIMENTO] Un partecipante può scegliere di interrompere il tentativo prima della fine del tempo e consegnare la soluzione ai giudici.
-- E2c+) [CHIARIMENTO] Anche se il giudice dovrebbe fornire un foglio standard su cui segnare la soluzione, il partecipante può decidere di consegnare un foglio differente a patto che su di questo si indicata in modo ambiguo una sequenza di mosse che corrisponde alla soluzione (Si noti che questo pezzo di carta deve essere fornito dal giudice, secondo la[Regulation E3a](regulations:regulation:E3a)).
+- E2c+) [CHIARIMENTO] Anche se il giudice dovrebbe fornire un foglio standard su cui segnare la soluzione, il partecipante può decidere di consegnare un foglio differente a patto che su di questo si indicata in modo non ambiguo una sequenza di mosse che corrisponde alla soluzione (Si noti che questo pezzo di carta deve essere fornito dal giudice, secondo la [Regulation E3a](regulations:regulation:E3a)).
 - E2c++) [CHIARIMENTO] La soluzione del partecipante deve usare solamente le mosse definite nella [Regola 12a](regulations:regulation:12a). Per esempio non sono permesse: [F], [R, U], [R: U], R'2, L'w, f, M, U2'.
 - E2e+) [CHIARIMENTO] I partecipanti non devono in alcun modo derivare la soluzione da parti della sequenza di scramble, e le soluzioni non dovrebbero condividere parti significanti della sequenza inversa di scramble.
 - E2e++) [ESEMPIO] Esempio di soluzione che dovrebbe risultare nella squalifica del tentativo (DNF): soluzioni che iniziano con le stesse 4 o più mosse della sequenza inversa di scramble.
