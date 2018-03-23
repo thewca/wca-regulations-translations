@@ -21,7 +21,7 @@ Per rendere più semplice e immediata la consultazione, ogni Linea Guida è clas
 - <label>[CHIARIMENTO] Informazione che può servire a chiarire qualsiasi possibile dubbio riguardo all'interpretazione del Regolamento.
 - <label>[SPIEGAZIONE] Informazione che illustra il fine di una regola.
 - <label>[RACCOMANDAZIONE] Direttiva non strettamente obbligatoria, ma che deve essere seguita quando possibile.
-- <label>[PROMEMORIA] Informazione che può essere riferita da un'altra Regola/Linea Guida ma che merita di essere ripetuta per la sua rilevanza.
+- <label>[PROMEMORIA] Informazione che può essere riferita ad un'altra Regola/Linea Guida ma che merita di essere ripetuta per la sua rilevanza.
 - <label>[ESEMPIO] Un esempio che illustra una situazione in cui viene applicata una determinata Regola.
 
 
