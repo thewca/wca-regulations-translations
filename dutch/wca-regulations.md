@@ -13,7 +13,7 @@ Als er een verschil is tussen de vertaling en de (huidige officiële) Engelse ve
 ### WCA Reglementen en Richtlijnen
 
 De WCA Reglementen bevatten de volledige set Reglementen die van toepassing zijn op alle officiële wedstrijden die worden gesanctioneerd door de World Cube Association.
-De WCA Reglementen zijn aangevuld met de WCA Richtlijnen. De Reglementen moeten worden beschouwd als een volledig document, maar de Richtlijnen bevatten aanvullende verduidelijkingen en verklaringen.
+De WCA Reglementen zijn aangevuld met de [WCA Richtlijnen](guidelines:top). De Reglementen moeten worden beschouwd als een volledig document, maar de Richtlijnen bevatten aanvullende verduidelijkingen en verklaringen.
 
 
 ### Woordgebruik

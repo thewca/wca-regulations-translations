@@ -17,7 +17,7 @@ Als er een verschil is tussen de vertaling en de (huidige officiële) Engelse ve
 ### WCA Richtlijnen
 
 
-De WCA Richtlijnen zijn aanvullend op de [WCA Regulations](regulations:top). Zie de Reglementen voor meer informatie over de WCA.
+De WCA Richtlijnen zijn aanvullend op de [WCA Reglementen](regulations:top). Zie de Reglementen voor meer informatie over de WCA.
 
 
 ### Nummering
