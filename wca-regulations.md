@@ -11,13 +11,13 @@
 
 دستور العمل های انجمن جهانی مکعب [آیین نامه ی انجمن جهانی مکعب](regulations:top) را تکمیل می کند . برای اطلاعات بیشتر درمورد انجمن جهانی مکعب، آیین نامه ی انجمن را مشاهده کنید.
 
-### Numbering
+### شماره گذاری
 
-Guidelines are numbered in correspondence with related regulations. Note that multiple Guidelines may correspond to the same Regulation, and some Guidelines correspond to Regulations that do not exist anymore.
+دستورالعمل ها متناطر با آیین نامه ها شماره گذاری شده اند. توجه داشته باشید که ممکن است چند دستورالعمل به یک آیین نامه مربوط باشند، و بعضی دستورالعمل ها به به آیین نامه هایی مربوط باشند که دیگر وجود ندارند.
 
-### Labels
+### برچسب ها
 
-To be more informative, each Guideline is classified using one of the following labels. Note that this should be treated as metadata, not as a description of importance.
+برای مفیدتر بودن، هر دستورالعمل با یکی از برچسب های زیر طبقه بندی شده.دقت کنید که این باید به عنوان اطلاعات کلی تلقی شود، نه به عنوان توصیف اهمیت هر دستورالعمل.
 
 - <label>[ADDITION] Additional information to supplement the Regulations.
 - <label>[CLARIFICATION] Information to address any possible questions about the interpretation of the Regulations.
