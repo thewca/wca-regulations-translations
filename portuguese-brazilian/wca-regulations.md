@@ -1,4 +1,4 @@
-# <wca-title>Regulamento da WCA 2016
+# <wca-title>Regulamento da WCA 2018
 
 <version>Versão: 1 de Janeiro de 2018
 
