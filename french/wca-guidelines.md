@@ -53,7 +53,7 @@ Afin de donner la nature de la recommandation, chacune d'elle est répertoriée 
 - 2d+) [AJOUT] La date de naissance et les informations de contact doivent faire l'objet d'une attention particulière.
 - 2d++) [CONSEIL] Si une tierce personne (par exemple un journaliste) demande à l'équipe organisatrice le contact d'un compétiteur, celui-ci devrait d'abord donner son accord.
 - 2e+) [ECLAIRCISSEMENT] Si un compétiteur possède plusieurs nationalités, il peut choisir le pays qu'il souhaite représenter à leur première compétition.
-- 2e++) [AJOUT] Le Délégué WCA devrait aussi vérifier le nom et la date de naissance à l'aide de documents (par exemple le passeport) de chaque nouveau compétiteur à leur première compétition. 
+- 2e++) [AJOUT] Le Délégué WCA devrait aussi vérifier le nom et la date de naissance à l'aide de documents (par exemple le passeport) de chaque nouveau compétiteur à leur première compétition.
 - 2e3+) [ECLAIRCISSEMENT] Les compétiteurs apatrides n'ont pas de record ou classement nationaux, ni de record ou classement continentaux.
 - 2h+) [ECLAIRCISSEMENT] Les compétiteurs peuvent être pieds nus pour la résolution avec les pieds.
 - 2i1b+) [ECLAIRCISSEMENT] Cela inclut de tels appareils éteints ou déconnectés.

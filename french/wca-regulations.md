@@ -522,7 +522,6 @@ Note : les numéros des articles et des règles ne sont pas réassignés lors d'
     - H1b) Si un compétiteur tente moins de 6 casse-têtes il dispose d'un temps de 10 minutes par casse-tête, sinon le temps maximum de l'essai est 60 minutes.
         - H1b1) Le compétiteur peut signaler la fin de l'essai à tout moment. Si et quand la limite de temps maximum est atteinte, le juge arrête l'essai et inscrit le résultat. La limite de temps maximum pour l'essai représente le temps par défaut enregistré pour l'essai.
     - H1d) Les pénalités de temps pour chaque casse-tête de l'essai sont cumulatives.
-    - H1e) L'utilisation du chronomètre Stackmat est optionnelle pour la mesure du temps.
 
 
 ## <article-Z><optional><optional> Article Z : Points de règlement optionnels
