@@ -13,7 +13,7 @@ WCA-ohjesäännöt täydentävät [WCA-sääntöjä](regulations:top). Lue sää
 
 ### Numerointi
 
-Ohjesäännöt on numeroitu niitä vastaavan säännön mukaan. Huomaa, että useat ohjesäännöt voivat vastata samaa sääntöä ja jotkut ohjesäännöt vastaavat sääntöjä joita ei enää ole.
+Ohjesäännöt on numeroitu niitä vastaavan säännön mukaan. Huomaa, että useat ohjesäännöt voivat vastata samaa sääntöä ja jotkut ohjesäännöt vastaavat sääntöjä, joita ei enää ole.
 
 ### Merkintä
 
