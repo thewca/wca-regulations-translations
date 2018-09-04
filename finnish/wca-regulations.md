@@ -9,14 +9,14 @@ Viimeisin kielikorjaus: 29. toukokuuta 2018
 
 ### WCA-säännöt ja -ohjesäännöt
 
-WCA-säännöt on kokoelma säännöistä joita tulee noudattaa kaikissa World Cube Associationin hyväksymissä virallisissa kilpailuissa.
+WCA-säännöt on kokoelma säännöistä, joita tulee noudattaa kaikissa World Cube Associationin hyväksymissä virallisissa kilpailuissa.
 [WCA-ohjesäännöt](guidelines:top) tukevat WCA-sääntöjä. Sääntöjä tulisi pitää täydellisenä asiakirjana, mutta ohjesäännöt sisältävät tarkennuksia ja selityksiä sääntöihin.
 
 ### Kieliasu
 Englanninkielinen asiakirja [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt) selittää sanojen "must", "must not", "should", "should not" ja "may" merkitykset. Tämä käännös seuraa alkuperäisten sääntöjen sanamuotoja mahdollisimman tarkasti. Sanaan "must" viitataan sanalla "täytyy", sanoihin "must not" sanoilla "ei saa", sanaan "should" sanalla "pitäisi", sanoihin "should not" sanoilla "ei pitäisi" ja sanaan "may" sanalla "voi".
 
 ### Käännös
-Tämä käännös ei ole virallinen versio vaikka se löytyy WCA:n verkkosivulta: käännöksestä voi olla hyötyä, mutta sen täsmällisyys ei ole taattu. Jos käännöksen ja nykyisen englanninkielisen version välillä on eroavaisuuksia, täytyy englanninkielistä versiota käyttää.
+Tämä käännös ei ole virallinen versio, vaikka se löytyy WCA:n verkkosivulta: käännöksestä voi olla hyötyä, mutta sen täsmällisyys ei ole taattu. Jos käännöksen ja nykyisen englanninkielisen version välillä on eroavaisuuksia, täytyy englanninkielistä versiota käyttää.
 
 ### Tietoa internetissä
 World Cube Associationin verkkosivu: [www.worldcubeassociation.org](https://www.worldcubeassociation.org/)
@@ -32,7 +32,7 @@ Ota yhteyttä [WCA Regulations Committee:n (WRC)](mailto:wrc@worldcubeassociatio
 
 ## <contents> [Sisältö](regulations:contents)
 
-Huomautus: Koska artikloille ja säännöille ei määrätä uusia numerioita kun sääntöjä poistetaan, voi numeroinnissa olla aukkoja.
+Huomautus: Koska artikloille ja säännöille ei määrätä uusia numeroita kun sääntöjä poistetaan, voi numeroinnissa olla aukkoja.
 
 <table-of-contents>
 
