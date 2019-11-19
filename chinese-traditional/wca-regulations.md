@@ -162,7 +162,7 @@ WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-do
 - 4d) 轉亂時方向：
     - 4d1) 立方體方塊及12面體Megaminx轉亂時白色面（如果不可行，就選擇最亮的面）朝上，綠面（如果不可行，就選擇鄰面最暗的一面）朝前。
     - 4d2) 金字塔Pyraminx轉亂時黃色面（如果不可行，就選擇最亮的一面）朝下，綠面（如果不可行，就選擇鄰面最暗的一面）朝前。
-    - 4d3) Square-1轉亂時最暗面朝前（兩種可能的方向之一）。
+    - 4d3) Square-1轉亂時，在兩種可能的方向中，將最暗面朝前。（較小的邊塊擺在左邊，參見[規則 12c](regulations:article:12c)）
     - 4d4) 魔錶Clock轉亂時，任意面朝前且12點鐘方向朝上方。
     - 4d5) 斜轉方塊Skewb轉亂時白色面（如果不可行，就選擇最亮的一面）朝上，綠面（如果不可行，就選擇鄰面最暗的一面）朝左前。
 - 4f) 比賽用轉亂步驟必須要使用目前最新的官方轉亂程式來產生（可在[WCA網站](https://www.worldcubeassociation.org/regulations/scrambles/)取得）。
@@ -306,7 +306,7 @@ WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-do
         - 12a1a) 順時鐘90度：F（前面）、B（後面）、R（右面）、L（左面）、U（頂面）、D（底面）。
         - 12a1b) 逆時鐘90度：F'、B'、R'、L'、U'、D'。
         - 12a1c) 180度：F2、B2、R2、L2、U2、D2。
-    - 12a2) 多層轉動(Outer Block Moves)（最外n層同時轉動）底下列出的轉動代號，n代表多少層同時轉動，n必須是 1<n<N（N代表總共的層數）n=2 時可以省略：
+    - 12a2) 多層轉動(Outer Block Moves)（最外n層同時轉動）底下列出的轉動代號，n代表多少層同時轉動，n必須是 1 < n < N（N代表總共的層數）n = 2 時可以省略：
         - 12a2a) 順時鐘90度：nFw、nBw、nRw、nLw、nUw、nDw。
         - 12a2b) 逆時鐘90度：nFw'、nBw'、nRw'、nLw'、nUw'、nDw'。
         - 12a2c) 180度：nFw2、nBw2、nRw2、nLw2、nUw2、nDw2。
