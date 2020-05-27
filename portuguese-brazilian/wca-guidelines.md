@@ -5,7 +5,7 @@
 
 ## Notas
 
-Última revisão textual: 29 de Maio de 2018
+Última revisão textual: xx de fevereiro de 2020
 
 ### Regulamento da WCA
 
