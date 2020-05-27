@@ -458,17 +458,6 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
     - C1c) Durante a resolução, uma vez que o competidor operar o quebra-cabeça com uma mão, ele não pode operá-lo com a outra mão. Pena: desqualificação da tentativa (DNF).
 
 
-## <article-D><feet><solvingwithfeet> Artigo D: Resolvendo com os pés
-
-- D1) O procedimento padrão do "speed solving" é seguido, como descrito no [Artigo A](regulations:article:A) (Resolvendo Rápido). Regras adicionais que se sobrepõe aos procedimentos correspondentes do [Artigo A](regulations:article:A) estão descritas abaixo.
-    - D1a) Durante a tentativa, o competidor deve se sentar numa cadeira, na superfície ou ficar de pé.
-    - D1b) Durante a resolução, o competidor só pode operar o quebra-cabeça com seus pés e a superfície. Pena: desqualificação da tentativa (DNF).
-- D3) Iniciando a resolução:
-    - D3a) O competidor posiciona seus pés nos sensores do "Stackmat timer".
-    - D3b) O competidor remove seus pés dos sensores do "Stackmat timer" para iniciar a resolução.
-- D4) Finalizando a resolução:
-    - D4a) O competidor para o "Stackmat timer" colocando seus pés nos sensores.
-
 ## <article-E><fewest-moves><fewestmovessolving> Artigo E: Resolvendo em Menos Movimentos
 
 - E2) Procedimento para 3x3x3 em Menos Movimentos:
