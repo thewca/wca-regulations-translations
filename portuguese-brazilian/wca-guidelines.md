@@ -1,6 +1,6 @@
 # <wca-title>Orientações Adicionais da WCA
 
-<version>Versão: 1 de Janeiro de 2018
+<version>Versão: 1 de Janeiro de 2020
 
 
 ## Notas
@@ -34,12 +34,8 @@ Para ser mais informativa, cada Orientação é classificada com um dos seguinte
 
 ## <article-1><officials><officials> Artigo 1: Oficiais
 
-- 1c+) [ESCLARECIMENTO] "O Delegado da WCA" se refere a qualquer pessoa executando a função de Delegado da WCA numa competição.
-- 1c3+) [RECOMENDAÇÃO] Os resultados devem estar prontos ao final do último dia da competição.
-- 1c3++) [ADIÇÃO] Registros físicos (isto é: súmulas, soluções escritas da Resolução em Menos Movimentos) precisam ser guardados por no mínimo um mês. Registros digitais (por exemplo: sequências de embaralhamento, resultados) precisam ser guardados permanentemente.
-- 1c3b+) [ESCLARECIMENTO] Se existem vários grupos, não é necessário identificar quais competidores estavam em cada grupo.
-- 1c4+) [RECOMENDAÇÃO] Correções nos resultados devem ser feitas dentro de uma semana após a data da competição.
-- 1c10+) [ESCLARECIMENTO] Uma cópia digital do Regulamento é suficiente.
+- 1c+) [ESCLARECIMENTO] Se houverem múltiplos delegados da WCA designados para a competição, "O Delegado da WCA" se refere a qualquer um deles. "O Delegado da WCA" também se refere a qualquer pessoa nomeada para uma responsabilidade do Delegado da WCA para a competição executando a função de Delegado da WCA numa competição por um Delegado da WCA designado.
+- 1c3++) [ESCLARECIMENTO] Delegados da WCA podem comparecer à competição sem serem designados a servir o papel de Delegado da WCA para a competição. "O Delegado da WCA" não se refere a este a menos que este seja nomeado para uma responsailidade relevante por um Delegado da WCA designado para a competição.
 - 1h+) [RECOMENDAÇÃO] Competidores no mesmo grupo devem usar as mesmas sequências de embaralhamento. Grupos diferentes devem usar sequências de embaralhamento diferentes.
 - 1h++) [RECOMENDAÇÃO] Todas as tentativas na rodada final de um evento, assim como todas as tentativas de Resolução em Menos Movimentos, devem ter as mesmas sequências de embaralhamento para todos os competidores (isto é: somente um grupo).
 - 1h1+) [ESCLARECIMENTO] Embaralhadores/juízes somente podem embaralhar/fiscalizar outros competidores do mesmo grupo se for importante para a logística da competição.
