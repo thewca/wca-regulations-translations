@@ -88,12 +88,13 @@ Para ser mais informativa, cada Orientação é classificada com um dos seguinte
 ## <article-4><scrambling><scrambling> Artigo 4: Embaralhamento
 
 - 4b1+) [LEMBRETE] O Delegado da WCA nunca pode gerar novamente qualquer sequência de embaralhamento para substituir outras, com propósito de filtrar. Por exemplo, não é permitido ver as sequências de embaralhamento de uma competição e gerar o conjunto todo de novo para obter sequências “mais justas”.
-- 4b2+) [ESCLARECIMENTO] Em geral, todas as sequências de embaralhamento devem ser mantidas em sigilo durante a competição e publicadas juntas após o fim da competição (veja [Regra 1c3a](regulations:regulation:1c3a)). Em alguns casos (por exemplo: recordes mundiais), a equipe de organização pode divulgar embaralhamentos específicos antes disso, mas após o final da rodada.
+- 4b2+) [ESCLARECIMENTO] Em geral, todas as sequências de embaralhamento devem ser mantidas em sigilo durante a competição e publicadas juntas após o fim da competição. Em alguns casos (por exemplo: recordes mundiais), a equipe de organização pode divulgar embaralhamentos específicos antes disso, após o final de um grupo.
+- 4b2++) [ADIÇÃO] Organizadores da competição devem assegurar que os embalharadores, as sequências de embaralhamento e quebra-cabeças parcial ou inteiramente embaralhados estejam visualmente isolados de competidores (veja: Regulamento A2c). Por exemplo, os embaralhadores podem ser colocados atrás de uma parede, ou um divisor suficientemente alto (Por exemplo: um divisor de papelão rodeando uma mesa na qual os embaralhadores estejam sentados) pode ser utilizado para que os competidores não possam ver os quebra-cabeças enquanto os embaralhadores aplicam as sequências de embaralhamento.
 - 4b4+) [ESCLARECIMENTO] Todas as tentativas que foram iniciadas dentro do intervalo de tempo seguem o procedimento padrão (isto é: não são interrompidas quando o intervalo de tempo da sequência de embaralhamento terminar).
 - 4d+) [ESCLARECIMENTO] Alguns quebra-cabeças usam um esquema de cores padrão, com exceção do branco substituído pelo preto. Neste caso, o preto é a cor mais escura e não pode ser tratado como branco.
 - 4d++) [ADIÇÃO] É permitido que a orientação do quebra-cabeça seja alterada quando ele é movido do embaralhador para a estação de resolução, contanto que ninguém tente influenciar a aleatoriedade da orientação (veja [Regra A2e1](regulations:regulation:A2e1)).
 - 4f+) [RECOMENDAÇÃO] O Delegado da WCA deve gerar sequências de embaralhamento suficientes para todo a competição previamente, incluindo sequências para tentativas adicionais.
-- 4f++) [LEMBRETE] Se o Delegado da WCA gerar qualquer sequência de embaralhamento adicional durante a competição, estas precisam ser salvas (veja [Regra 1c3a](regulations:regulation:1c3a)).
+- 4f++) [LEMBRETE] Se o Delegado da WCA gerar qualquer sequência de embaralhamento adicional durante a competição, estas precisam ser salvas.
 
 
 ## <article-5><puzzle-defects><puzzledefects> Artigo 5: Defeitos nos quebra-cabeças
