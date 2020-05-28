@@ -45,17 +45,22 @@ Para ser mais informativa, cada Orientação é classificada com um dos seguinte
 ## <article-2><competitors><competitors> Artigo 2: Competidores
 
 - 2c+) [ADIÇÃO] Competidores novatos devem se inscrever usando seu nome legal. É permitido usar uma versão reduzida do nome ou um apelido razoável, a critério do Delegado da WCA.
-- 2c++) [ADIÇÃO] Competidores não podem fornecer informação intencionalmente enganosa, e aqueles que já competiram devem fornecer informação consistente com informação passada (por exemplo: mesmo nome e ID da WCA).
 - 2c1+) [ADIÇÃO] Os requisitos de uma inscrição completa precisam estar claramente indicados no website da competição.
 - 2c1++) [EXEMPLO] A equipe de organização pode requerer por exemplo que um e-mail de confirmação seja respondido até uma certa data, pagamento antecipado da taxa de inscrição ou pagamento de taxas de inscrição de competições passadas. Os organizadores devem considerar cuidadosamente se os requisitos são justos.
+- 2c2+) [ESCLARECIMENTO] Um perfil da WCA é a reunião de dados relacionados à um competidor e inclui suas informações pessoais (nome, nacionalidade, genero e data de nascimento) assim como todos os seus resultados em competições oficiais da WCA.
 - 2d+) [ADIÇÃO] Data de nascimento e informações de contato devem ser especialmente protegidas.
 - 2d++) [RECOMENDAÇÃO] Se algum terceiro (por exemplo: um jornalista) solicitar à equipe de organização o contato de algum competidor, deve ser previamente solicitado consentimento ao competidor.
 - 2e+) [ESCLARECIMENTO] Se um competidor tem múltipla nacionalidade, ele pode escolher qual país quer representar em sua primeira competição.
 - 2e++) [ADIÇÃO] O Delegado da WCA deve verificar também o nome e data de nascimento por meio de documentos (p. ex. um passaporte) de todos os competidores em sua primeira competição.
-- 2e3+) [ESCLARECIMENTO] Competidores "stateless" não têm recordes ou rankings nacionais ou continentais.
-- 2h+) [ESCLARECIMENTO] Os competidores podem estar descalços para resolver com os pés.
+- 2e3+) [ESCLARECIMENTO] Competidores apátridas não têm recordes ou rankings nacionais ou continentais.
+- 2i+) [ADIÇÃO] Embora o competidor posso pegar um cronômetro para ver o seu tempo atual (quando não está vendado), ele não deve começar, parar, pausar ou de qualquer forma interagir com a cronometragem do relógio.
+- 2i++) [ADIÇÃO] A equipe de organização pode prover ao competidor um cronômetro não oficial (iniciado ao mesmo tempo que o cronômetro principal) para ver o tempo decorrido, no caso de o competidor não ser permitido de tocar o cronômetro oficial.
+- 2i+++) [LEMBRETE] Quebra-cabeças que possuam conexão bluetooth são considerados aparelhos eletrônicos.
 - 2i1b+) [ESCLARECIMENTO] Isso inclui dispositivos que estejam desligados ou desconectados.
+- 2i1c+) [ESCLARECIMENTO] Aquecedores de mão eletrônicos podem ser usados apenas antes ou depois de uma tentativa. Aquecedores de mão não eletrônicos podem ser usados a qualquer momento durante uma tentativa.
+- 2i2a+) [ADIÇÃO] Um monitor de uma câmera pode estar vísivel ao competidor contanto que este não mostre a imagem da câmera. 
 - 2j2+) [EXEMPLO] Por exemplo, se um competidor for desqualificado de um evento por não se apresentar a tempo para a rodada final, seus resultados das rodadas anteriores continuam válidos.
+- 2k6+) [ESCLARECIMENTO] Delegados da WCA devem apenas, ao seu critério, evitar que um competidor cause um forte dano à competição (por exemplo: desperdiçar tempo e/ou recursos da competição). Competidores não devem ser desqualificador por conta de um resultado "ruim" quando estão competindo com o seu maior esforço. 
 - 2s+) [LEMBRETE] Acomodações especiais precisam ser informadas no relatório do Delegado.
 
 
