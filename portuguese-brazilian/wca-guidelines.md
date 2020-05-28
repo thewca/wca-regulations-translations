@@ -67,19 +67,22 @@ Para ser mais informativa, cada Orientação é classificada com um dos seguinte
 ## <article-3><puzzles><puzzles> Artigo 3: Quebra-cabeças
 
 - 3a+) [ESCLARECIMENTO] Competidores podem usar quebra-cabeças de qualquer tamanho razoável, a critério do Delegado da WCA.
-- 3a++) [ADIÇÃO] Por padrão, um competidor deve usar o mesmo quebra-cabeça para tentativas consecutivas em uma rodada de resolução rápida. O competidor pode trocar de quebra-cabeça entre uma tentativa e outra, a critério do Delegado da WCA.
+- 3a++) [ADIÇÃO] Por padrão, um competidor deve usar o mesmo quebra-cabeça para tentativas consecutivas em uma rodada de resolução rápida. O competidor pode trocar de quebra-cabeça entre uma tentativa e outra, a critério do juíz ou do Delegado da WCA.
 - 3a+++) [ESCLARECIMENTO] Competidores podem pegar quebra-cabeças emprestados de outros competidores para usar na competição.
 - 3a1+) [ESCLARECIMENTO] Competidores podem ser desqualificados se não tiverem um quebra-cabeça preparado para entregar quando forem chamados (por exemplo: se planejavam usar um quebra-cabeça que outro competidor está usando atualmente, e assim não podem entregar um quebra-cabeça naquele momento).
 - 3d1b+) [ESCLARECIMENTO] Não é necessário que existam padrões em todas as faces, mas somente naquelas nas quais uma cor distinta não puder ser encontrada. As peças não podem ter alguma característica (por exemplo: texturas, irregularidades nos padrões) que as diferenciem significativamente de outras peças similares.
 - 3h+) [ESCLARECIMENTO] Quebra-cabeças podem ser aprimorados internamente lixando-os, lubrificando-os ou fazendo modificações que melhorem a estabilidade (p. ex. instalando ímãs).
 - 3h++) [EXEMPLO] Exemplos de melhorias incluem: novos movimentos são possíveis, movimentos normais não são possíveis, mais peças são visíveis, cores na parte de trás do quebra-cabeça são visíveis, movimentos são feitos automaticamente, ou o quebra-cabeça tem mais/diferentes estados resolvidos.
-- 3h2+) [ESCLARECIMENTO] No passado, quebra-cabeças “stickerless” não eram permitidos. Tais quebra-cabeças são permitidos agora.
 - 3h2++) [ESCLARECIMENTO] Quebra-cabeças "stickerless" que sejam significativamente diferentes da maioria dos quebra-cabeças "stickerless" produzidos em massa somente são permitidos a critério do Delegado da WCA.
 - 3j+) [LEMBRETE] No passado, peças gravadas ou com relevo eram permitidas. Tais peças não são mais permitidas.
 - 3j++) [ESCLARECIMENTO] No Clock, um pino não pode ser diferenciável dos outros pinos na mesma face.
 - 3j2+) [ESCLARECIMENTO] No Clock, os nove relógios internos em uma face são considerados peças similares.
+- 3k2+) [ADIÇÃO] O Delegado da WCA não deve aplicar uma das exceções listadas caso acredite que o competidor tentou utilizar um quebra-cabeça não permitido de próposito.
+- 3k2b+) [ESCLARECIMENTO] Se um quebra-cabeça não permitido for descoberto durante uma tentativa de 3x3x3 Múltiplos Cubos Vendado, o quebra-cabeça não deve ser trocado ou removido da tentativa e deverá ser contado como não resolvido se a tentativa não for desqualificada.
+- 3k2b+) [EXEMPLO] Supondo que o competidor tente 10 quebra-cabeças e consiga resolver 8. Se for descoberto que dois quebra-cabeças resolvidos e um não resolvido não se enquadrem como quebra-cabeças permitidos, o competidor tem seu resultado considerado como seis quebra-cabeças resolvidos de dez (Ou seja, não um DNF) à critério do Delegado da WCA.
 - 3l+) [ADIÇÃO] Logotipos podem ter qualquer desenho razoável que não dê uma vantagem notável (por exemplo: informação codificada que poderia ser usada para fraude), e que deixe a parte colorida claramente reconhecível. Logotipos não-convencionais somente são permitidos a critério do Delegado da WCA.
 - 3l++) [ESCLARECIMENTO] No passado, quebra-cabeças com logotipos eram permitidos nos eventos vendados. Esses quebra-cabeças não podem mais ser usados nesse caso.
+- 3l1+) [ESCLARECIMENTO] Nos quebra-cabeças NxNxN, uma peça central é qualquer peça com uma única parte colorida. Por exemplo, o cubo 5x5x5 tem 9 peças centrais em cada face.
 
 
 ## <article-4><scrambling><scrambling> Artigo 4: Embaralhamento
