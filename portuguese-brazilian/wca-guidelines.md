@@ -99,6 +99,7 @@ Para ser mais informativa, cada Orientação é classificada com um dos seguinte
 
 ## <article-5><puzzle-defects><puzzledefects> Artigo 5: Defeitos nos quebra-cabeças
 
+- 5b+) [ADIÇÃO] O competidor tem permissão de causar a um quebra-cabeça defeitos intencionalmente, com a exceção de fazê-lo a fim de corrigir um defeito prévio (veja Regulamento 5b3b e Regulamento 5b3c) Exemplos de defeitos intencionais: remover uma tampa de peça central, rotacionar uma peça de quina, arrancar um adesivo.
 - 5b5+) [EXEMPLO] Exemplos de partes fisicamente soltas, resultando em um estado resolvido: uma tampa de centro do 3x3x3, uma peça de centro de um “big cube”, uma peça interna de um “big cube”.
 - 5b5++) [EXEMPLO] Exemplos de peças fisicamente soltas, resultando em "DNF": duas tampas de centro do 3x3x3, duas peças de centro de um “big cube”, uma peça de meio do 3x3x3, uma peça de meio (“wing”) do 4x4x4, qualquer combinação de duas peças que tenham partes coloridas.
 - 5b5+++) [EXEMPLO] Exemplo de peças fisicamente ligadas mas não posicionadas totalmente, resultando em um estado resolvido: uma peça de centro do 5x5x5 girada no lugar.
@@ -120,12 +121,6 @@ Para ser mais informativa, cada Orientação é classificada com um dos seguinte
 - 7d+) [ADIÇÃO] A temperatura no local de competição deve estar entre 21 e 25 graus Celsius.
 - 7f1a+) [ESCLARECIMENTO] Um tapete de tamanho compatível deve ter dimensões mínimas de 30 cm (esquerda-direita) por 25 cm (frente-trás).
 - 7h2+) [ADIÇÃO] Os competidores na área de competição não devem conseguir ver os quebra-cabeças dos competidores nas estações de resolução.
-
-
-## <article-8><competitions><competitions> Artigo 8: Competições
-
-- 8a5+) [RECOMENDAÇÃO] A competição deve ter no mínimo 12 competidores.
-- 8a7+) [ADIÇÃO] Os organizadores devem considerar seriamente fazer modificações nos “Stackmat timers” para deixá-los mais resistentes contra incidentes comuns, como tornar os botões mais difíceis de apertar (por exemplo: colando O-rings ao redor dos botões) e fixando a bateria de forma mais firme (por exemplo: preenchendo o compartimento da bateria com um papel).
 
 
 ## <article-9><events><events> Artigo 9: Eventos
