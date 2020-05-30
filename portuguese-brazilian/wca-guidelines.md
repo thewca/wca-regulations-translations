@@ -146,9 +146,15 @@ Para ser mais informativa, cada Orientação é classificada com um dos seguinte
 ## <article-11><incidents><incidents> Artigo 11: Incidentes
 
 - 11e+) [ESCLARECIMENTO] Como a solicitação não tem garantias de ter sucesso, o competidor pode escolher deixar o “Stackmat timer” marcando o tempo enquanto faz a solicitação, e continuar a tentativa quando apropriado.
+- 11e++) [RECOMENDAÇÃO] O Delegado da WCA deve registrar os motivos para tentativas extras (por exemplo: na parte de trás da súmula).
 - 11e1+) [LEMBRETE] A tentativa adicional precisa ser embaralhada usando uma sequência de embaralhamento não-modificada, gerada por um programa oficial de embaralhamento (veja[Regra 4f](regulations:regulation:4f), [Orientação 4f+](guidelines:guideline:4f+)).
 - 11e2+) [ADIÇÃO] Se uma tentativa adicional levar a outra tentativa adicional, o competidor deve fazer tentativas adicionais até que haja uma tentativa válida para substituir a tentativa original.
 - 11e2++) [EXEMPLO] Suponha que um competidor tem 5 tentativas numeradas regularmente, e a tentativa número 2 leve a várias tentativas adicionais. Ele deve fazer tentativas adicionais até que haja uma tentativa válida para substituir a de número 2. Caso posteriormente outra tentativa leve a tentativa(s) adicional(is), deve ser procedido da mesma forma que para a tentativa número 2.
+
+
+## <article-12><notation><notaion> Artigo 12: Notação
+
+- 12a2+) [ESCLARECIMENTO] Por exemplo, ambos Rw e 2Rw são notações válidas para o mesmo movimento no Cubo 3x3x3. 1Rw não é notação válida para qualquer Cubo NxNxN, e 3Rw não é notação válida para o Cubo 2x2x2 ou o Cubo 3x3x3 (mas 3Rw é notação válida para o Cubo 4x4x4 e Cubos NxNxN maiores).
 
 
 ## <article-A><speedsolving><speedsolving> Artigo A: Resolvendo Rápido
