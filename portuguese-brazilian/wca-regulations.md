@@ -291,7 +291,7 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
     - 11e2) Se um competidor recebe uma tentativa adicional, esta deve ser feita logo após a tentativa que será substituída.
     - 11e3) Se não estiver claro se um incidente resulta em uma tentativa adicional ou não, o competidor pode receber uma tentativa adicional provisória, que será usada somente se posteriormente for determinado que uma tentativa adicional era apropriada (p. ex. por uma decisão do Comitê do Regulamento da WCA - WRC).
 - 11f) Decisões sobre um incidente podem ser baseadas em evidência de vídeo ou fotografia, a critério do Delegado da WCA.
-
+- 11g) O Delegado da WCA deve certificar que cópias do regulamento e das orientações estejam disponíveis (por exemplo: impressos, através de meios digitais ou acessíveis via internet) para consultar quaisquer incidentes.
 
 ## <article-12><notation><notation> Artigo 12: Notação
 
@@ -304,13 +304,13 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
         - 12a2a) Sentido horário, 90 graus: nFW, nBw, nRw, nLw, nUw, nDw.
         - 12a2b) Sentido anti-horário, 90 graus: nFw', nBw', nRw', nLw', nUw', nDw'.
         - 12a2c) 180 graus: nFw2, nBw2, nRw2, nLw2, nUw2, nDw2.
-    - 12a3) "Outer Block Turn Metric (OBTM)" é definida como:
-        - 12a3a) Cada movimento das categorias Movimentos de face e Movimentos de camadas múltiplas externas conta como 1 movimento.
-        - 12a3b) Cada rotação conta como 0 movimentos.
-- 12b) Rotações para os quebra-cabeças NxNxN:
-    - 12b1) Sentido horário, 90 graus: [f] ou z, [b] ou z', [r] ou x, [l] ou x', [u] ou y, [d] ou y'.
-    - 12b2) Sentido anti-horário, 90 graus: [f'] ou z', [b'] ou z, [r'] ou x', [l'] ou x, [u'] ou y', [d'] ou y.
-    - 12b3) 180 graus: [f2] ou z2, [b2] ou z2, [r2] ou x2, [l2] ou x2, [u2] ou y2, [d2] ou y2.
+    - 12a4) Rotações (quebra-cabeça inteiro):
+        - 12a4a) Sentido horário, 90 graus: x (mesma direção que R ou L'), y (mesma direção que U ou D'), z (mesma direção que F ou B').
+        - 12a4b) Sentido anti-horário, 90 graus: x' (mesma direção que R' ou L), y' (mesma direção que U' ou D), z' (mesma direção que F' ou B)
+        - 12a4c) 180 graus: x2, y2, z2.
+    12a5) Métrica de blocos externos (OBTM) é definida como:
+        - 12a5a) Cada movimento das categorias de movimento de face e movimentos de blocos externos é contado como um movimento.
+        - 12a5b) Cada movimento da categoria das Rotações é contado como zero movimentos.
 - 12c) Notação para o Square-1:
     - 12c1) Os movimentos são aplicados com a parte menor da camada do meio à esquerda da face da frente.
     - 12c2) (x,y) significa: gire a camada superior x vezes 30 graus no sentido horário, gire a camada inferior y vezes 30 graus no sentido horário. x e y têm que ser números inteiros entre -5 e 6, e não podem ser ambos iguais a 0.
