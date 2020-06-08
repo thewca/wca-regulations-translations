@@ -373,7 +373,7 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
         - A3c3) O competidor pode zerar o "Stackmat timer" antes de começar a resolver.
         - A3c4) Para o Square-1, se o uso de um objeto fino foi determinado pela equipe de organização (veja [Regra A2b1](regulations:regulation:A2b1)), o competidor pode remover o objeto do quebra-cabeça durante a inspeção.
     - A3d) No final da inspeção, o competidor coloca o quebra-cabeça sobre o "Mat", em qualquer orientação e posição. Pena por colocar o quebra-cabeça fora do “Mat”: pena de tempo (+2 segundos).
-                - A3d2) Quando o tempo de inspeção atingir 8 segundos, o juiz diz "8 SEGUNDOS".
+        - A3d2) Quando o tempo de inspeção atingir 8 segundos, o juiz diz "8 SEGUNDOS".
         - A3d3) Quando o tempo de inspeção atingir 12 segundos, o juiz diz "12 SEGUNDOS".
 - A4) Iniciando a resolução:
     - A4b) O competidor usa seus dedos para tocar a parte elevada do "Stackmat timer". Suas palmas têm que estar para baixo, e posicionadas no lado do “Stackmat timer” mais próximo dele. Pena: de tempo (+2 segundos).
@@ -386,6 +386,7 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
 - A5) Durante a resolução:
     - A5a) Enquanto estiver inspecionando ou resolvendo o quebra-cabeça, o competidor não pode se comunicar com ninguém além do juiz ou Delegado da WCA. Pena: desqualificação da tentativa (DNF).
     - A5b) Enquanto estiver inspecionando ou resolvendo o quebra-cabeça, o competidor não pode receber assistência de ninguém ou de nenhum objeto além da superfície (ver também [Regra 2i](regulations:regulation:2i)). Pena: desqualificação da tentativa (DNF).
+    - A5c) O competidor deve segurar o quebra-cabeças contra a sua superficie para resolve-lo (ver Regra 7f1d (regulations:regulation 71fd))
 - A6) Finalizando a resolução:
     - A6a) O competidor finaliza a resolução soltando o quebra cabeça e parando o "Stackmat timer". Se um cronômetro estiver sendo usado, o juiz para o cronômetro assim que o competidor fizer isso.
         - A6a1) Se um cronômetro está sendo usado como único marcador de tempo, o competidor finaliza a resolução soltando o quebra-cabeça e notificando o juiz de que ele terminou a resolução.
