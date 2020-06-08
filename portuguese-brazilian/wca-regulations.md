@@ -386,7 +386,7 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
 - A5) Durante a resolução:
     - A5a) Enquanto estiver inspecionando ou resolvendo o quebra-cabeça, o competidor não pode se comunicar com ninguém além do juiz ou Delegado da WCA. Pena: desqualificação da tentativa (DNF).
     - A5b) Enquanto estiver inspecionando ou resolvendo o quebra-cabeça, o competidor não pode receber assistência de ninguém ou de nenhum objeto além da superfície (ver também [Regra 2i](regulations:regulation:2i)). Pena: desqualificação da tentativa (DNF).
-    - A5c) O competidor deve segurar o quebra-cabeças contra a sua superficie para resolve-lo (ver Regra 7f1d (regulations:regulation 71fd))
+    - A5c) Durante a resolução, o competidor pode segurar o quebra-cabeças contra a superfície para ajudá-lo a operá-lo (ver Regra 7f1d (regulations:regulation 71fd)).
 - A6) Finalizando a resolução:
     - A6a) O competidor finaliza a resolução soltando o quebra cabeça e parando o "Stackmat timer". Se um cronômetro estiver sendo usado, o juiz para o cronômetro assim que o competidor fizer isso.
         - A6a1) Se um cronômetro está sendo usado como único marcador de tempo, o competidor finaliza a resolução soltando o quebra-cabeça e notificando o juiz de que ele terminou a resolução.
@@ -456,6 +456,7 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
     - C1b) Durante a resolução, o competidor só pode usar uma mão para operar o quebra-cabeça. Pena: desqualificação da tentativa (DNF).
         - C1b2) Se um defeito no quebra-cabeça ocorrer, e o competidor escolher repará-lo, ele precisa fazer o reparo usando apenas a mão usada na resolução. Pena: desqualificação da tentativa (DNF).
         - C1b3) Se outras partes do corpo do competidor entrarem em contato com o quebra-cabeça ou partes dele de forma não intencional e sem que movimentos tenham sido aplicados, isso não é considerado como operar o quebra-cabeça, a critério do juiz.
+        - C1b4) Durante a resolução, o competidor pode segurar o quebra-cabeças contra a superfície para ajudá-lo a operá-lo (ver Regra 7f1d (regulations:regulation 71fd)).
     - C1c) Durante a resolução, uma vez que o competidor operar o quebra-cabeça com uma mão, ele não pode operá-lo com a outra mão. Pena: desqualificação da tentativa (DNF).
 
 
@@ -463,9 +464,15 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
 
 - E2) Procedimento para 3x3x3 em Menos Movimentos:
     - E2a) O juiz distribui um embaralhamento para todos os competidores. Ele então inicia o cronômetro e diz "VAI".
+        -E2a1) Antes que a tentativa tenha começado, o competidor não deve escrever em nenhum papel relacionado à tentativa. Exceção: o competidor pode escrever informações para identificar a tentativa (ver Regra E2c1 (regulations:regulatione2c1)). Se este escrever essa informação no papel que contenha a sequência de embaralhamento, este deve escrever somente no lado sem a sequência de embaralhamento antes da tentativa. Penalidade para escrever quaisquer outras informações para identificar a tentativa: desqualificação da tentativa (DNF).
     - E2b) Todos os competidores têm um limite total de tempo de 60 minutos para encontrar uma solução.
         - E2b1) O juiz deve anunciar "5 MINUTOS RESTANTES" quanto o tempo atingir 55 minutos, e precisa dizer "PAREM" quando o tempo atingir 60 minutos.
-    - E2c) Ao final dos 60 minutos, cada competidor tem que entregar ao juiz uma solução escrita de forma legível, com o nome do competidor, usando a notação definida por "Outer Block Turn Metric" (descrita na [Regra 12a](regulations:regulation:12a)). Pena: desqualificação da tentativa (DNF).
+    - E2c) Ao final dos 60 minutos, cada competidor deve entregar ao juiz um único pedaço de papel com uma solução escrita e informação para identificar a tentativa.
+        - E2c1) Informação para identificar a tentativa é definida como: o nome do competidor, ID da WCA ou ID do competidor naquela competição (pelo menos um, opcionalmente múltiplos), e opcionalmente o nome da competição, round ou número da tentativa. Penalidade para uma solução entregue sem nome, ID da wCA ou do competidor naquela competição: desqualificação da tentativa (DNF).
+        - E2c2) A solução deve ser uma única e não-ambígua sequência de movimentos com cada movimento individual escrito em uma ordem sequencial. Penalidade para uma solução ambígua: desqualificação da tentativa (DNF).
+        - E2c3) O competidor deve claramente ocultar ou rabiscar todos os movimentos no papel que não são parte da solução.
+        - E2c4) A solução do competidor deve usar apenas movimentos que s~~ao definidos exatamente como notação para o Cubo 3x3x3 na Regra 12a (regulations:regulation12a), e não devem usar quaisquer símbolos ou combinações de símbolos que não seja especificamente definidos nesta regra. Penalidade: desqualificação da tentativa (DNF).
+        - E2c5: A solução do competidor é considerada correta se começando com um quebra-cabeças resolvido e aplicando a sequência de embaralhamento seguida pela solução o quebra-cabeças terminar resolvido. Penalidade para uma solução incorreta: desqualificação da tentativa (DNF).
     - E2d) O tamanho da solução é calculado usando-se a "Outer Block Turn Metric" (ver [Regra 12a](regulations:regulation:12a)).
         - E2d1) O tamanho máximo permitido para a solução é de 80 (movimentos e rotações).
     - E2e) A solução do competidor não pode ser diretamente derivada de alguma parte da sequência de embaralhamento. Pena: desqualificação da tentativa (DNF).
@@ -475,6 +482,8 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
     - E3b) Cubos 3x3x3 (no máximo 3, fornecidos pelo competidor), conforme descrito no [Artigo 3](regulations:regulation:3).
     - E3c) Adesivos coloridos (fornecidos pelo competidor).
     - E3d) Cronômetro ou relógio (fornecido pelo competidor) para acompanhar o tempo decorrido, se aprovado pelo Delegado da WCA.
+    - E3e) Outros aparelhos eletrônicos que não dêem uma vantagem injusta, a critério do Delegado da WCA (ver Regra 2i1 (regulations:regulation2i1)).
+- E4) O Delegado da WCA pode optar por publicar as soluções (por exemplo: foto da folha de solução ou transcrição das soluções).
 
 
 ## <article-F><clock><clocksolving> Artigo F: Resolvendo o Clock
