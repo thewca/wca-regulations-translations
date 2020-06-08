@@ -490,6 +490,8 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
 
 - F1) O procedimento padrão do "speed solving" é seguido, como descrito no [Artigo A](regulations:article:A) (Resolvendo Rápido). Regras adicionais que se sobrepõe aos procedimentos correspondentes do [Artigo A](regulations:article:A) estão descritas abaixo.
 - F2) O juiz posiciona o quebra-cabeça embaralhado sobre o "Mat" na posição "em pé".
+    - F2a) A equipe de organização deve impor o uso de um stand para o quebra-cabeças para prevenir que ele caía antes que a tentativa comece. Se esses stands forem o utilizados, seu uso deve ser anunciado antes da rodada começar.
+        - F2a1) O juiz deve remover o stand do tapete imediatamente depois do competidor remover o quebra-cabeças dele.
 - F3) Ao final do período de inspeção, o competidor posiciona o quebra-cabeça sobre o "Mat" na posição "em pé". Pena: desqualificação da tentativa (DNF).
     - F3a) O competidor não pode mudar a posição de nenhum dos pinos antes do início da resolução. Pena: desqualificação (DNF).
 
@@ -504,17 +506,3 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
     - H1b) Se o competidor estiver tentando menos de 6 cubos, ele tem um limite de tempo igual a 10 minutos vezes o número de cubos na tentativa; caso contrário o limite de tempo é de 60 minutos.
         - H1b1) O competidor pode sinalizar o fim da tentativa a qualquer momento. Se e quando o limite de tempo for atingido, o juiz para a tentativa e ela é pontuada; o limite de tempo conta como o tempo original registrado.
     - H1d) Punições de tempo para os quebra-cabeças da tentativa são cumulativas.
-
-
-## <article-Z><optional><optional> Artigo Z: Regras Opcionais
-
-As equipes de organização podem adotar regras opcionais para facilitar a administração da competição, a critério do Conselho da WCA.
-
-- Z1) A equipe de organização pode solicitar que os competidores entreguem seus quebra-cabeças durante a inscrição.
-- Z2) A equipe de organização pode limitar o número de eventos por competidor.
-- Z3) A equipe de organização pode selecionar competidores que se classificam diretamente para certas rodadas de certos eventos, baseando-se em resultados de competições anteriores específicas.
-- Z4) A equipe de organização pode limitar o número de competidores por evento or por competição, seja por ordem de inscrição ou baseado em tempos de qualificação ou rankings na WCA de um ano calendário previamente anunciado. Se o número de competidores por evento ou por competição for limitado, as seguintes regras se aplicam:
-    - Z4a) Se o limite de uma competição ou de um evento for atingido antes desta, a equipe de organização não pode aceitar inscrições no local para aquela competição ou evento.
-    - Z4b) Os limites de competidores devem ser anunciados junto com a competição. Qualquer mudança nestes limites só pode ocorrer a critério do Conselho da WCA.
-    - Z4c) Se houver mais de um período de inscrições, a equipe de organização precisa anunciar cada período adicional pelo menos 48 horas antes de seu início.
-- Z5) A equipe de organização pode restringir a participação de competidores em uma combinação de eventos específica.
