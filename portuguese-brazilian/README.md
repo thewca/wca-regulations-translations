@@ -16,7 +16,7 @@ The following people helped with the translation:
 
 ## Terminologies / Terminologias
 
-| English | Portugês |
+| English | Português |
 |-|-|
 |must|tem que (ou precisa)|
 |must not|não pode|
