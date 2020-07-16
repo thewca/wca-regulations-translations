@@ -28,7 +28,7 @@ Fonte original do Regulamento da WCA: [www.worldcubeassociation.org/regulations]
 Regulamento da WCA em [Formato PDF](link:pdf)
 
 ### Código Fonte
-O desenvolvimento do Regulamento e Orientações da WCA é público no [GitHub](https://github.com/thewca/wca-regulations).
+O desenvolvimento do Regulamento e Orientações da WCA é público no [GitHub](https://github.com/thewca/wca-regulations) e a discussão é pública no [Fórum da WCA](https://forum.worldcubeassociation.org/c/regulations).
 
 ### Contato
 Para questões e sugestões, por favor contate o [Comitê do Regulamento da WCA (WRC)](mailto:regulations@worldcubeassociation.org).
@@ -137,8 +137,8 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
     - 3j3) Partes texturizadas/corrugadas que permitam distinguir a orientação pelo tato não são permitidas nos eventos vendados.
 - 3k) Os quebra-cabeças devem ser aprovados pelo Delegado da WCA antes de serem usados na competição.
     - 3k1) Se um quebra-cabeça não permitido for encontrado durante uma rodada, o competidor não pode continuar a usar o quebra-quebeça, e precisa fornecer um substituto.
-    - 3k2) Pena por tentativas feitas com quebra-cabeças não permitidos: desqualificação da tentativa (DNF). As seguintes exceções se aplicam: 
-        - 3k2a) Se um quebra-cabeça não permitido for encontrado antes de que uma rodada termine, os resultados afetados na rodada podem ser substituídos com tentativas extras, a critério do Delegado da WCA. 
+    - 3k2) Pena por tentativas feitas com quebra-cabeças não permitidos: desqualificação da tentativa (DNF). As seguintes exceções se aplicam:
+        - 3k2a) Se um quebra-cabeça não permitido for encontrado antes de que uma rodada termine, os resultados afetados na rodada podem ser substituídos com tentativas extras, a critério do Delegado da WCA.
         - 3k2b) 3x3x3 Multi-Vendado: Se qualquer quebra-cabeça não for permitido, esse quebra-cabeça pode ser individualmente considerado não resolvido (sem desqualificar a tentativa inteira), a critério do Delegado da WCA.
 - 3l) Um quebra-cabeça podem ter um logotipo em uma parte colorida. Neste caso, pode ter no máximo uma parte colorida com um logotipo. Exceção: Para eventos vendados, um quebra-cabeça não pode ter um logotipo.
     - 3l1) O logotipo tem que ser colocado em uma peça de centro. Exceções para quebra-cabeças que não têm peças de centro:
@@ -453,7 +453,7 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
         - B4c2) Por padrão, o juiz deve posicionar o objeto (p. ex. uma folha de papel ou cartão) entre o quebra-cabeça e o competidor enquanto ele estiver usando a venda.
         - B4c3) Se o juiz e o competidor concordarem anteriormente, o competidor pode escolher posicionar ele mesmo o quebra-cabeça atrás de um objeto apropriado (p. ex. uma estante de partitura, a superfície da mesa) durante a fase vendada.
     - B4d) O competidor não pode ver o quebra-cabeça em nenhum momento durante a fase vendada. Pena: desqualificação da tentativa (DNF).
-    - B4e) Até que o competidor aplique o primeiro movimento ao quebra-cabeça, ele pode remover a venda e retornar à fase de memorização. 
+    - B4e) Até que o competidor aplique o primeiro movimento ao quebra-cabeça, ele pode remover a venda e retornar à fase de memorização.
 - B5) Finalizando a resolução:
     - B5a) Quando estiver usando o timer Stackmat, o competidor finaliza a tentativa soltando o quebra-cabeça e parando o timer.
     - B5b) Quando estiver usando um cronômetro, o competidor finaliza a tentativa colocando o quebra-cabeça de volta na superfície e avisando ao juiz que ele terminou a tentativa. Nesse momento, o juiz para o cronômetro.
