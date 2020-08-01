@@ -520,7 +520,7 @@
     - H1d) Штрафы за все кубы в попытке накапливаются.
 
 
-## <article-Y><temporary-regulations></article-Y> Статья Y: Временные положения
+## <article-Y><temporary-regulations><temporaryregulations> Статья Y: Временные положения
 
 - Y1) Ниже описаны дополнительные положения, которые замещают собой другие. Данные положения призваны дополнить [Competition Safety Policy](https://www.worldcubeassociation.org/documents/policies/external/Competition%20Safety.pdf).
 - Y2) Определения:
