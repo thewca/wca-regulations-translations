@@ -1,6 +1,6 @@
 # <wca-title>WCA 指南
 
-<version>版本: 2020年1月1日
+<version>版本: 2020年8月1日
 
 
 ## 注释
