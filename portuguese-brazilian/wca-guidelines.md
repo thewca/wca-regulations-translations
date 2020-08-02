@@ -1,11 +1,11 @@
 # <wca-title>Orientações Adicionais da WCA
 
-<version>Versão: 1 de Janeiro de 2020
+<version>Versão: 1 de Agosto de 2020
 
 
 ## Notas
 
-Última revisão textual: 6 de julho de 2020
+Última revisão textual: 1 de agosto de 2020
 
 ### Regulamento da WCA
 

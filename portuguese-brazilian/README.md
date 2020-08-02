@@ -27,6 +27,7 @@ The following people helped with the translation:
 |e.g.|p. ex.|
 |at the discretion of|a critério do|
 |attempt|tentativa|
+|attendee|participante|
 |blindfolded solving|resolução vendada|
 |competition|competição|
 |competition area|área de competição|
@@ -41,6 +42,7 @@ The following people helped with the translation:
 |event|evento|
 |extra attempt|tentativa extra|
 |Fewest Moves Solving|Resolução em Menos Movimentos|
+|fixed seating|mesa fixa|
 |logo|logotipo|
 |new competitor|novato|
 |notation|notação|
@@ -49,6 +51,8 @@ The following people helped with the translation:
 |piece|peça|
 |penalty|pena|
 |puzzle|quebra-cabeça|
+|Regulation (espific section of the Regulations)|Regra|
+|Regulations (name of the document)|Regulamento|
 |round|rodada|
 |score taker|anotador de resultado|
 |score sheet|súmula|
@@ -63,6 +67,7 @@ The following people helped with the translation:
 |Speed Solving|Resolução por Velocidade|
 |Stackmat|Stackmat|
 |Stackmat timer|timer Stackmat|
+|stopwatch|cronômetro|
 |surface|superfície|
 |timer|timer|
 |WCA Delegate|Delegado da WCA|

@@ -1,11 +1,11 @@
 # <wca-title>Regulamento da WCA 2020
 
-<version>Versão: 1 de Janeiro de 2020
+<version>Versão: 1 de Agosto de 2020
 
 
 ## Notas
 
-Última revisão textual: 6 de julho de 2020
+Última revisão textual: 1 de agosto de 2020
 
 ### Tradução
 Portuguese - 2020
@@ -63,7 +63,7 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
 
 ## <article-2><competitors><competitors> Artigo 2: Competidores
 
-- 2a) Qualquer pessoa pode participar de uma competição da WCA se ele(a):
+- 2a) Qualquer pessoa pode participar de uma competição da WCA se ele(a) (complementado pela [Regra Y3](regulations:regulation:Y3)):
     - 2a1) Estiver em conformidade com o Regulamento da WCA.
     - 2a2) Atender aos requisitos da competição, que precisam ser claramente anunciados antes da competição.
     - 2a3) Não esteja suspenso pelo Conselho da WCA.
@@ -97,7 +97,7 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
     - 2k1) Não se apresentar ou se inscrever a tempo para a competição.
     - 2k2) For suspeito de trapacear ou fraudar os oficiais durante a competição.
         - 2k2a) O Delegado da WCA pode desqualificar quaisquer resultados suspeitos.
-    - 2k3) Se comportar de maneira que seja ilegal, violenta ou indecente; ou danificar intencionalmente as instalações do local ou propriedades pessoais dentro do local.
+    - 2k3) Se comportar de maneira que seja ilegal, violenta,indecente ou insegura; ou danificar intencionalmente as instalações do local ou propriedades pessoais dentro do local.
     - 2k4) Distrair ou inteferir outros durante a competição.
     - 2k5) Não cumprir o Regulamento da WCA durante a competição.
     - 2k6) Não cumpre os requisitos do evento (p. ex. não sabe como resolver o quebra-cabeça). Um competidor não pode competir com a expectativa de um DNF ou de um resultado intencionalmente ruim.
@@ -206,7 +206,7 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
         - 7f1d) Superfície: A superfície plana na qual o Stackmat foi posicionado. O tapete é considerado parte da superfície. O timer não é considerado parte da superfície.
     - 7f2) O timer Stackmat tem que estar preso ao tapete e posicionado na superfície, com o timer na parte do tapete mais próxima ao competidor.
     - 7f3) A equipe de organização deve modificar o timer Stackmat para que ele seja mais robusto em face de incidentes comuns, fazendo com que os butões sejam mais difíceis de apertar por acidente (p. ex. acoplando aneis de borracha ao redor dos butões) e prendendo a bateria mais firmemente (p. ex. preenchendo o compartimento da bateria).
-- 7h) O local de competição tem que ter uma ou mais Áreas de Competidores.
+- 7h) O local de competição tem que ter uma ou mais Áreas de Competidores (substituído pela [Regra Y6a](regulations:regulation:Y6a)).
     - 7h1) A equipe de organização pode exigir que um competidor que foi chamado para competir permaneça dentro da Área de Competidores até que tenha terminado todas as suas tentativas daquela rodada.
 
 
@@ -301,6 +301,7 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
     - 11e3) Se não estiver claro se um incidente resulta em uma tentativa adicional ou não, o competidor pode receber uma tentativa adicional provisória, que será usada somente se posteriormente for determinado que uma tentativa adicional era apropriada (p. ex. por uma decisão do WRC).
 - 11f) Decisões sobre um incidente podem ser baseadas em evidência de vídeo ou fotografia, a critério do Delegado da WCA.
 - 11g) O Delegado da WCA deve garantir que cópias do Regulamento e das Orientações estejam disponíveis (p. ex. impressas, digitais ou acessíveis via internet) para consultar para quaisquer incidentes.
+- 11h) Um Delegado da WCA pode exigir que competidores em violação severa da [Regra 2k3](regulations:regulation:2k3) deixe o local da competição, considerando a gravidade da situação e o melhor caminho de ação possível. Se o competidor se recusar a fazer isso, ele pode enfrentar ação disciplinar na WCA.
 
 ## <article-12><notation><notation> Artigo 12: Notação
 
@@ -350,7 +351,7 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
 
 ## <article-A><speedsolving><speedsolving> Artigo A: Resolução por Velocidade
 
-- A1) Tentativas de Resolução por Velocidade têm que seguir os seguintes procedimentos.
+- A1) Tentativas de Resolução por Velocidade têm que seguir os seguintes procedimentos (parcialmente substituído pela [Regra Y7](regulations:regulation:Y7)).
     - A1a) A equipe de organização precisa estabelecer exatamente um tipo de limite de tempo (limite de tempo por tentativa ou limite de tempo cumulativo) para cada rodada.
         - A1a1) O tempo limite padrão por tentativa é de 10 minutos em uma rodada, mas a equipe de organização pode anunciar um limite maior ou menor por tentativa. Nesse caso, o limite tem que ser o mesmo para todas as tentativas em uma rodada.
         - A1a2) Para eventos que não 3x3x3 em Menos Movimentos e 3x3x3 Multi-Vendado, a equipe de organização pode definir um limite de tempo cumulativo. O limite de tempo cumulativo pode se aplicar para todas as tentativas em uma rodada (p. ex. 3 resoluções com um limite de tempo cumulativo de 20 minutos), ou para todas as tentativas numa combinação de rodadas para eventos diferentes. Nesse caso, o limite de tempo para um tentativa particular é o limite de tempo menos o total de tempo de todas as outras tentativas contando para o limite de tempo até o momento (ver [Regra A1a5](regulations:regulation:A1a5)). Se uma rodada tem um limite de tempo aplicável, ela deve ter no máxmimo um.
@@ -374,7 +375,7 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
 - A3) Inspeção:
     - A3a) O competidor pode inspecionar o quebra-cabeça no início de cada tentativa.
         - A3a1) O competidor tem um tempo máximo de 15 segundos para inspecionar o quebra-cabeça e iniciar a resolução.
-    - A3b) O juiz prepara o timer ligando-o e zerando-o se necessário. Separadamente, o juiz também prepara um cronômetro para marcar o tempo de inspeção.
+    - A3b) O juiz prepara o timer ligando-o e zerando-o se necessário. Separadamente, o juiz também prepara um cronômetro para marcar o tempo de inspeção (parcialmente substituído pela [Regra Y7d1](regulations:regulation:Y7d1)).
         - A3b1) Quando o juiz acredita que o competidor está pronto, ele pergunta "PRONTO?". O competidor tem que estar pronto para iniciar a tentativa dentro de um minuto após ter sido chamado, senão perde o direito à tentativa (DNS), a critério do juiz.
         - A3b2) O competidor inicia a tentativa confirmando que está pronto, e então o juiz descobre o quebra-cabeça e começa a marcar o tempo de inspeção.
     - A3c) O competidor pode pegar o quebra-cabeça durante a inspeção.
@@ -419,7 +420,7 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
         - A7a3) Se o resultado for DNF, o juiz diz "DNF".
     - A7b) O juiz anota o resultado em uma súmula e assina próximo a teste para atestar que o resultado está correto, completo, formatado corretamente e legível.
         - A7b1) Se alguma pena for aplicada, o juiz anota o resultado original mostrado no timer, juntamente com quaisquer penas. O formato deve ser "X + T + Y = F", em que X representa a soma das penas de tempo antes/no início da resolução, T representa o tempo mostrado no timer, Y representa a soma das  de tempo durante/depois da resolução, e F representa o resultado final (p. ex. 2 + 17,65 + 2 = 21,65). Se X e/ou Y forem 0, os termos 0 são omitidos (p. ex. 17,65 + 2 = 19,65).
-    - A7c) O competidor precisa verificar o resultado registrado e assinar (ou colocar sua inicial) a súmula para reconhecer que o resultado está correto, completo, devidamente formato e claramente legível. Isso conclui a tentativa.
+    - A7c) O competidor precisa verificar o resultado registrado e assinar (ou colocar sua inicial) a súmula para reconhecer que o resultado está correto, completo, devidamente formato e claramente legível. Isso conclui a tentativa (parcialmente substituído pela [Regra Y7e1](regulations:regulation:Y7e)).
         - A7c1) Se o competidor ou o juiz se recusar a aceitar e assinar a súmula, o Delegado da WCA tem que resolver a disputa.
         - A7c2) Se o competidor assinar (ou marcar de outra forma) uma tentativa antes que a tenha iniciado, ele perde o direito àquela tentativa e o resultado será considerado DNS.
         - A7c3) Se o competidor assinar (ou marcar de outra forma) uma tentativa depois que já a tenha iniciado mas antes que o juiz termine de registrar o resultado, a tentativa será considerada não concluída (DNF).
@@ -430,11 +431,11 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
 
 ## <article-B><blindfolded><blindfoldedsolving> Artigo B: Resolução Vendada
 
-- B1) O procedimento padrão de resolução por velocidade é seguido, como descrito no [Artigo A](regulations:article:A) (Resolução por Velocidade). Regras adicionais que se sobrepõe aos procedimentos correspondentes do [Artigo A](regulations:article:A) estão descritas abaixo.
+- B1) O procedimento padrão de resolução por velocidade é seguido, como descrito no [Artigo A](regulations:article:A) (Resolução por Velocidade). Regras adicionais que se sobrepõe aos procedimentos correspondentes do [Artigo A](regulations:article:A) estão descritas abaixo (parcialmente substituído pela [Regra Y7](regulations:regulation:Y7)).
     - B1a) Não há período de inspeção.
     - B1b) O competidor fornece sua própria venda.
 - B2) Iniciando a tentativa:
-    - B2a) O juiz zera o(s) timer(s) como na [Regra A3b](regulations:regulation:A3b) e indica que está pronto para que o competidor inicie a tentativa (p. ex. colocando o pote na frente do competidor, dizendo "PRONTO" e dando um sinal de joinha"). O competidor precisa começar a tentativa dentro de um minuto, senão perde o direito à tentativa (DNS), a critério do juiz.
+    - B2a) O juiz zera o(s) timer(s) como na [Regra A3b](regulations:regulation:A3b) e indica que está pronto para que o competidor inicie a tentativa (p. ex. colocando o pote na frente do competidor, dizendo "PRONTO" e dando um sinal de joinha"). O competidor precisa começar a tentativa dentro de um minuto, senão perde o direito à tentativa (DNS), a critério do juiz (parcialmente substituído pela [Regra Y7d1](regulations:regulation:Y7d1)).
     - B2b) O competidor usa seus dedos para tocar a parte elevada do timer. Suas palmas têm que estar para baixo, e posicionadas no lado do timer mais próximo dele. Pena: +2 segundos no tempo.
     - B2c) O competidor não pode ter contato físico com o quebra-cabeça antes do início da resolução. Pena: pena de tempo (+2 segundos).
     - B2d) O competidor inicia a tentativa removendo suas mãos do timer, iniciando-o. (Isso também inicia a resolução.)
@@ -508,7 +509,7 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
 
 ## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Artigo H: Resolução Multi-Vendada
 
-- H1) O procedimento padrão de resolução vendada é seguido, como descrito no [Artigo B](regulations:article:B) (Resolução Vendada). Regras adicionais que se sobrepõe aos procedimentos correspondentes do [Artigo B](regulations:article:B) estão descritas abaixo.
+- H1) O procedimento padrão de resolução vendada é seguido, como descrito no [Artigo B](regulations:article:B) (Resolução Vendada). Regras adicionais que se sobrepõe aos procedimentos correspondentes do [Artigo B](regulations:article:B) estão descritas abaixo (parcialmente substituído pela [Regra Y7](regulations:regulation:Y7)).
     - H1a) Antes da tentativa, o competidor tem que informar à equipe de organização o número de cubos (no mínimo 2) que ele deseja tentar.
         - H1a1) O competidor não pode mudar o número de cubos depois de ter informado o número à equipe de organização.
         - H1a2) O competidor pode solicitar que sua informação seja mantida em sigilo até que todos os competidores tenham informado seu número de cubos. Assim que todos os competidores tiverem informado seu número, a informação se torna pública (p. ex. um competidor pode perguntar pelos números de qualquer outro competidor antes de iniciar a tentativa).
@@ -516,3 +517,32 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
     - H1b) Se o competidor estiver tentando menos de 6 cubos, ele tem um limite de tempo igual a 10 minutos vezes o número de cubos na tentativa; caso contrário o limite de tempo é de 60 minutos.
         - H1b1) O competidor pode sinalizar o fim da resolução a qualquer momento. Se e quando o limite de tempo for atingido, o juiz para a tentativa e ela é pontuada; o limite de tempo conta como o tempo original registrado
     - H1d) Penas de tempo para os quebra-cabeças da tentativa são cumulativas.
+
+
+## <article-H><temporary-regulations><temporaryregulations> Artigo Y: Regras Temporárias
+
+- Y1) Regras adicionais que substituem todas as outras regras são descritas abaixo. Essas regras são destinadas a complementar a [Política de Segurança de Competições](https://www.worldcubeassociation.org/documents/policies/external/Competition%20Safety.pdf).
+- Y2) Definições:
+    - Y2a) Participante: Qualquer pessoas que comparece a uma Competição da WCA, incluindo competidores, oficiais e convidados.
+    - Y2b) Mesa fixa: Um método de competição em que o competidor faz todas as suas resoluções de uma rodada na mesma estação de resolução.
+- Y3) Além do que é exigido pela [Regra 2a](regulations:regulation:2a), se julgado necessário pelo Delegado da WCA e anunciado claramente antes da competição, um participante pode ser exigido a cumprir um ou mais dos seguintes requisitos:
+    - Y3a) Usar uma máscara facial dentro do local de competição.
+    - Y3b) Não ter entrado em contato com uma pessoa com COVID-19 por pelo menos 14 dias antes da competição.
+    - Y3c) Não ter COVID-19 ou sentir sintomas de COVID-19 (conforme determinado pela [Organização Mundial da Saúde](https://www.who.int/)) por pelo menos 14 dias antes da competição.
+    - Y3d) Cumprir outras medidas de segurança razoáveis sancionadas pela Organização Mundial de Saúde.
+- Y4) Todos os competidores e oficiais devem trazer sua própria caneta para a competição.
+- Y5) Juízes podem trazer seu próprio cronômetro ou celular para cronometrar a inspeção, que deve ser checado pelo Delegado da WCA.
+- Y6) Ambiente:
+    - Y6a) Se julgado necessário pelo Delegado da WCA, a área de competição não pode ter uma Área de Competidores.
+    - Y6b) Competidores devem se abster de tocar a superfície da estação de resolução quando eles não estiverem no processo de uma tentativa oficial. 
+- Y7) Procedimentos de competição que substituem o [Artigo A](regulations:article:A), o [B](regulations:article:B) e o [H](regulations:article:H) são descritos abaixo. Esses procedimentos não se aplicam ao [Artigo E](regulations:article:E), de Resolução em Menos Movimentos.
+    - Y7a) Competições devem usar mesa fixa (veja [Regra Y2b](regulations:regulation:Y2b)).
+    - Y7b) O juiz deve evitar tocar o quebra-cabeça em todos os momentos. Exceção: para Clock, o juiz deve pegar o quebra-cabeça para verificar que ambas as faces estão resolvidas.
+    - Y7c) Embaralhamento:
+        - Y7c1)  Quando for chamado para uma rodada, depois de desinfetar os seus quebra-cabeças, o competidor entrega o quebra-cabeça, no estado resolvido, para o embaralhador. O competidor então espera na estação de resolução designada.
+    - Y7d) Inspeção:
+        - Y7d1) O juiz pede ao competidor para preparar o timer ligando-o e zerando-o se necessário. O competidor então liga o timer e o zera se necessário. O juiz deve evitar tocar o timer em todos os momentos.
+    - Y7e) Registrando resultados:
+        - Y7e1) O competidor precisa verificar o resultado registrado e assinar (ou colocar sua inicial) a súmula com sua própria caneta para reconhecer que o resultado está correto, completo, devidamente formato e claramente legível. Isso conclui a tentativa.
+        - Y7e2) O competidor não deve tocar na súmula.
+    - Y7f) Depois de terminar a tentativa, se há mais tentativas a serem feitas, o competidor deve colocar o quebra-cabeça dentro do balde.
