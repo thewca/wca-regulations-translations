@@ -534,7 +534,7 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
 - Y5) Juízes podem trazer seu próprio cronômetro ou celular para cronometrar a inspeção, que deve ser checado pelo Delegado da WCA.
 - Y6) Ambiente:
     - Y6a) Se julgado necessário pelo Delegado da WCA, a área de competição não pode ter uma Área de Competidores.
-    - Y6b) Competidores devem se abster de tocar a superfície da estação de resolução quando eles não estiverem no processo de uma tentativa oficial. 
+    - Y6b) Competidores devem se abster de tocar a superfície da estação de resolução quando eles não estiverem no processo de uma tentativa oficial.
 - Y7) Procedimentos de competição que substituem o [Artigo A](regulations:article:A), o [B](regulations:article:B) e o [H](regulations:article:H) são descritos abaixo. Esses procedimentos não se aplicam ao [Artigo E](regulations:article:E), de Resolução em Menos Movimentos.
     - Y7a) Competições devem usar mesa fixa (veja [Regra Y2b](regulations:regulation:Y2b)).
     - Y7b) O juiz deve evitar tocar o quebra-cabeça em todos os momentos. Exceção: para Clock, o juiz deve pegar o quebra-cabeça para verificar que ambas as faces estão resolvidas.
