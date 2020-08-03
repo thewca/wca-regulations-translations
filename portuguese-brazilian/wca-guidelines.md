@@ -35,7 +35,7 @@ Para ser mais informativa, cada Orientação é classificada com um dos seguinte
 ## <article-1><officials><officials> Artigo 1: Oficiais
 
 - 1c+) [ESCLARECIMENTO] Se houverem múltiplos Delegados da WCA designados para a competição, "o Delegado da WCA" se refere a qualquer um deles. "O Delegado da WCA" também se refere a qualquer pessoa nomeada por um Delegado da WCA designado para uma responsabilidade relevante do Delegado da WCA na competição.
-- 1c3++) [ESCLARECIMENTO] Delegados da WCA podem comparecer à competição sem serem designados a servir a função de Delegado da WCA para a competição. "O Delegado da WCA" não se refere a este a menos que este seja nomeado para uma responsailidade relevante por um Delegado da WCA designado para a competição (ver [Orientação 1c+](guidelines:guideline:1c+)).
+- 1c++) [ESCLARECIMENTO] Delegados da WCA podem comparecer à competição sem serem designados a servir a função de Delegado da WCA para a competição. "O Delegado da WCA" não se refere a este a menos que este seja nomeado para uma responsailidade relevante por um Delegado da WCA designado para a competição (ver [Orientação 1c+](guidelines:guideline:1c+)).
 - 1h+) [RECOMENDAÇÃO] Competidores no mesmo grupo devem usar as mesmas sequências de embaralhamento. Grupos diferentes devem usar sequências de embaralhamento diferentes.
 - 1h++) [RECOMENDAÇÃO] Todas as tentativas na rodada final de um evento, assim como todas as tentativas de 3x3x3 em Menos Movimentos, devem ter as mesmas sequências de embaralhamento para todos os competidores (isto é: somente um grupo).
 - 1h1+) [ESCLARECIMENTO] Embaralhadores/juízes somente podem embaralhar/fiscalizar outros competidores do mesmo grupo se for importante para a logística da competição.

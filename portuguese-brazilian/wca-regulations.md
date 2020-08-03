@@ -475,7 +475,7 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
 
 - E2) Procedimento para 3x3x3 em Menos Movimentos:
     - E2a) O juiz distribui um embaralhamento para todos os competidores. Ele então inicia o cronômetro e diz "VAI".
-        -E2a1) Antes que a tentativa tenha começado, o competidor não deve escrever em nenhum papel relacionado à tentativa. Exceção: o competidor pode escrever informações para identificar a tentativa (ver Regra E2c1 (regulations:regulatione2c1)). Se ele escrever essa informação no papel que contenha a sequência de embaralhamento, ele deve escrever somente no lado sem a sequência de embaralhamento antes da tentativa. Pena para escrever qualquer outra coisa que não informações para identificar a tentativa: desqualificação da tentativa (DNF).
+        - E2a1) Antes que a tentativa tenha começado, o competidor não deve escrever em nenhum papel relacionado à tentativa. Exceção: o competidor pode escrever informações para identificar a tentativa (ver Regra E2c1 (regulations:regulatione2c1)). Se ele escrever essa informação no papel que contenha a sequência de embaralhamento, ele deve escrever somente no lado sem a sequência de embaralhamento antes da tentativa. Pena para escrever qualquer outra coisa que não informações para identificar a tentativa: desqualificação da tentativa (DNF).
     - E2b) Todos os competidores têm um limite total de tempo de 60 minutos para encontrar uma solução.
         - E2b1) O juiz deve anunciar "5 MINUTOS RESTANTES" quanto o tempo atingir 55 minutos, e precisa dizer "PAREM" quando o tempo atingir 60 minutos.
     - E2c) Ao final dos 60 minutos, cada competidor deve entregar ao juiz um único pedaço de papel com uma solução escrita e informação para identificar a tentativa.
@@ -483,7 +483,7 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
         - E2c2) A solução deve ser uma única e não-ambígua sequência de movimentos com cada movimento individual escrito em uma ordem sequencial. Pena para uma solução ambígua: desqualificação da tentativa (DNF).
         - E2c3) O competidor deve claramente ocultar ou rabiscar todos os movimentos no papel que não são parte da solução.
         - E2c4) A solução do competidor deve usar apenas movimentos que são definidos exatamente como notação para o Cubo 3x3x3 na [Regra 12a] (regulations:regulation12a), e não devem usar quaisquer símbolos ou combinações de símbolos que não seja especificamente definidos nesta regra. Pena: desqualificação da tentativa (DNF).
-        - E2c5: A solução do competidor é considerada correta se começando com um quebra-cabeças resolvido e aplicando a sequência de embaralhamento seguida pela solução o quebra-cabeças terminar resolvido. Pena para uma solução incorreta: desqualificação da tentativa (DNF).
+        - E2c5) A solução do competidor é considerada correta se começando com um quebra-cabeças resolvido e aplicando a sequência de embaralhamento seguida pela solução o quebra-cabeças terminar resolvido. Pena para uma solução incorreta: desqualificação da tentativa (DNF).
     - E2d) O tamanho da solução é calculado usando-se a "Outer Block Turn Metric" (ver [Regra 12a](regulations:regulation:12a)).
         - E2d1) O tamanho máximo permitido para a solução é de 80 (movimentos e rotações).
     - E2e) A solução do competidor não pode ser diretamente derivada de qualquer parte da sequência de embaralhamento. Pena: desqualificação da tentativa (DNF).
@@ -519,7 +519,7 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
     - H1d) Penas de tempo para os quebra-cabeças da tentativa são cumulativas.
 
 
-## <article-H><temporary-regulations><temporaryregulations> Artigo Y: Regras Temporárias
+## <article-Y><temporary-regulations><temporaryregulations> Artigo Y: Regras Temporárias
 
 - Y1) Regras adicionais que substituem todas as outras regras são descritas abaixo. Essas regras são destinadas a complementar a [Política de Segurança de Competições](https://www.worldcubeassociation.org/documents/policies/external/Competition%20Safety.pdf).
 - Y2) Definições:
