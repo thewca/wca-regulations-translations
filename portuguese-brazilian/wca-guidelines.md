@@ -1,6 +1,6 @@
 # <wca-title>Orientações Adicionais da WCA
 
-<version>Versão: 1 de Agosto de 2020
+<version>Versão: 1 de agosto de 2020
 
 
 ## Notas
