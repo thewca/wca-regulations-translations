@@ -198,7 +198,7 @@ Huomautus: Koska artikloille ja säännöille ei määrätä uusia numeroita kun
         - 7f1a) Stackmat: Speed Stacks Stackmat-ajastin ja täysikokoinen matto. Hyväksytyt ajastinmallit: Generation 2, Generation 3 Pro Timer, Generation 4 Pro Timer.
         - 7f1b) Matto: Stackmatin matto.
         - 7f1c) Ajastin: Stackmatin ajastin tai sekuntikello (pidemmille ratkaisuyrityksille).
-        - 7f1d) Alusta: Tasainen alusta, jolle Stackmat one asetettu. Matto on osa alustaa. Ajastin ei ole osa alustaa.
+        - 7f1d) Alusta: Tasainen alusta, jolle Stackmat on asetettu. Matto on osa alustaa. Ajastin ei ole osa alustaa.
     - 7f2) Stackmat-ajastimen täytyy olla kiinnitettynä mattoon ja asetettuna alustalle siten, että ajastin on kilpailijaa lähimpänä olevalla maton sivulla.
 	- 7f3) Järjestäjäryhmän pitäisi muokata Stackmat-ajastimia kestämään paremmin yleisiä sattumuksia vaikeuttamalla ajastimen nappien painamista vahingossa (esim. kiinnittämällä nappien ympärille renkaita) ja varmistamalla, että paristo pysyy tukevasti paikallaan (esim. pehmustamalla paristokotelo).
 - 7h) Kilpailualueella on oltava ainakin yksi kilpailijoiden alue (huom. [sääntö Y6a](regulations:regulation:Y6a) syrjäyttää säännön 7h).
