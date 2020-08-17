@@ -107,7 +107,7 @@ Jokainen ohjesääntö on informatiivisuuden lisäämiseksi luokiteltu käyttäe
 
 ## <article-6><awards><awards> Artikla 6: Palkinnot/kunnianosoitukset
 
-- 6a+) [LISÄYS] Kilpailijoille voidaan antaa palkintoja tai kunninaosoituksia kilpailun ilmoituksen mukaan.
+- 6a+) [LISÄYS] Kilpailijoille voidaan antaa palkintoja tai kunnianosoituksia kilpailun ilmoituksen mukaan.
 - 6b+) [SUOSITUS] Kilpailijoiden pitäisi osallistua palkintojenjakoon vastaanottaakseen palkinnot/kunnianosoitukset.
 - 6b1+) [SUOSITUS] Palkintojenjako pitäisi pitää kilpailupaikalla tunnin sisällä viimeisen lajin päättymisestä.
 - 6c+) [SUOSITUS] Palkintojen tai kunnianosoitusten voittajien pitäisi olla valmiita puhumaan toimittajille tai kilpailua kattaville tiedotusvälineille.
