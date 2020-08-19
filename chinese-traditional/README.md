@@ -1,18 +1,18 @@
 # Official Documents (Original English Ver.) 原始版本
 
 [Regulations](https://www.worldcubeassociation.org/regulations/)
-Ver. 2020-01-01 [[GitHub 原始碼]](https://github.com/thewca/wca-regulations/blob/official/wca-regulations.md)
+Ver. 2020-08-01 [[GitHub 原始碼]](https://github.com/thewca/wca-regulations/blob/official/wca-regulations.md)
 
 [Guidelines](https://www.worldcubeassociation.org/regulations/guidelines.html)
-Ver. 2020-01-01 [[GitHub 原始碼]](https://github.com/thewca/wca-regulations/blob/official/wca-guidelines.md)
+Ver. 2020-08-01 [[GitHub 原始碼]](https://github.com/thewca/wca-regulations/blob/official/wca-guidelines.md)
 
 # Traditional Chinese 繁體中文版本
 
 [Regulations競賽規則](https://www.worldcubeassociation.org/regulations/translations/chinese-traditional/)
-Ver. 2020-01-01 [[GitHub 原始碼]](https://github.com/thewca/wca-regulations-translations/blob/master/chinese-traditional/wca-regulations.md)
+Ver. 2020-08-01 [[GitHub 原始碼]](https://github.com/thewca/wca-regulations-translations/blob/master/chinese-traditional/wca-regulations.md)
 
 [Guidelines指導方針](https://www.worldcubeassociation.org/regulations/translations/chinese-traditional/guidelines.html)
-Ver. 2020-01-01 [[GitHub 原始碼]](https://github.com/thewca/wca-regulations-translations/blob/master/chinese-traditional/wca-guidelines.md)
+Ver. 2020-08-01 [[GitHub 原始碼]](https://github.com/thewca/wca-regulations-translations/blob/master/chinese-traditional/wca-guidelines.md)
 
 # Terminologies字彙:
 
@@ -30,6 +30,7 @@ Ver. 2020-01-01 [[GitHub 原始碼]](https://github.com/thewca/wca-regulations-t
 |Scrambler|轉亂員|-|
 |Score Taker|成績紀錄員|-|
 |Competitor|參賽者|-|
+|Attendee|參加者|包含參賽者，工作人員，以及陪同者，所有在比賽會場的人員|
 |Competitors Area|參賽者預備區|在參賽者被唱名前等待的指定區域|
 |Competition Area|比賽區域|包含參賽者預備區、還原區域的場地|
 |Stackmat|Stackmat|-|
