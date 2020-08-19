@@ -515,7 +515,7 @@ WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-re
     - H1b) 如果還原的顆數少於六顆，參賽者的比賽時間限制為10分鐘乘上該次還原的方塊顆數，除此之外，時間限制皆為60分鐘。
         - H1b1) 參賽者可以隨時示意還原結束。當時間限制達到時，裁判停止參賽者的還原，並記錄下成績，該次還原的時間限制記錄為比賽成績的時間。
     - H1d) 方塊的加時處罰是累積制的。
-    
+
     
 ## <article-Y><temporary-regulations><temporaryregulations> 附則 Y: 臨時規則
 
