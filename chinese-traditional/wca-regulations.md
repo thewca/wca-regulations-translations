@@ -516,7 +516,7 @@ WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-re
         - H1b1) 參賽者可以隨時示意還原結束。當時間限制達到時，裁判停止參賽者的還原，並記錄下成績，該次還原的時間限制記錄為比賽成績的時間。
     - H1d) 方塊的加時處罰是累積制的。
 
-    
+
 ## <article-Y><temporary-regulations><temporaryregulations> 附則 Y: 臨時規則
 
 - Y1) 額外且取代其他規則的部分描述在以下內容。這些規則是用來補充[比賽安全政策](https://www.worldcubeassociation.org/documents/policies/external/Competition%20Safety.pdf)。
