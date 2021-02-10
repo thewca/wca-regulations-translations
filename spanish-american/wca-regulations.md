@@ -41,7 +41,7 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
 
 - 1a) Una competencia debe incluir un Delegado de la WCA y un equipo organizador (que conste de una o más personas) con los siguientes miembros: jueces, mezcladores (los que hacen las mezclas o “scrambles”) y encargados de recoger y compilar los resultados.
 - 1b) El equipo organizador es el responsable de la logística y el buen funcionamiento de la competencia antes, durante y después de la misma.
-- 1c) El Delegado de la WCA es responsable de asegurar que la competencia se adhiere al Reglamento y a cualquier politica o requerimiento de la WCA aplicables. El Delegado de la WCA puede delegar responsabilidades a otros miembros del equipo de organizadores, pero es el responsable en última instancia de cómo se llevan a cabo esas responsabilidades.
+- 1c) El Delegado de la WCA es responsable de asegurar que la competencia se adhiere al Reglamento y a cualquier política o requerimiento de la WCA aplicables. El Delegado de la WCA puede delegar responsabilidades a otros miembros del equipo de organizadores, pero es el responsable en última instancia de cómo se llevan a cabo esas responsabilidades.
 - 1e) Cada evento debe tener uno o más jueces.
     - 1e1) Un juez es responsable de ejecutar los procedimientos de un evento.
         - 1e1a)  Un juez puede juzgar a varios competidores simultáneamente, a discreción del Delegado de la WCA, siempre y cuando el juez pueda asegurarse de que se cumpla el reglamento de la WCA en todo momento.
@@ -119,7 +119,7 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
 - 3d) Los puzzles deben tener partes de colores, las cuales definen su esquema de colores y deben ser una de las siguientes opciones: “stickers” de colores, “tiles” de colores, plástico de colores o colores pintados/impresos. Todas las partes de colores de un puzzle deben estar hechas de un material similar.
     - 3d1) Para los competidores con una discapacidad visual documentada médicamente, aplican las siguientes excepciones:
         - 3d1a) Los competidores ciegos pueden usar puzzles con texturas diferentes en cada cara. Cada cara debería tener un color distinto, para facilitar la mezcla y el trabajo del juez.
-        - 3d1b) Los competidores daltónicos que no puedan distinguir entre el número necesario de colores pueden usar partes de colores con patrones, si ha sido aprovado explícitamente de acuerdo con la [Regla 2s](regulations:regulation:2s). Los patrones pueden ser de los "stickers" o pueden estar dibujados.
+        - 3d1b) Los competidores daltónicos que no puedan distinguir entre el número necesario de colores pueden usar partes de colores con patrones, si ha sido aprobado explícitamente de acuerdo con la [Regla 2s](regulations:regulation:2s). Los patrones pueden ser de los "stickers" o pueden estar dibujados.
     - 3d2) Los colores del puzzle deben ser sólidos, con un color uniforme por cara. Cada color en el puzzle debe ser claramente distinto a los demás.
 - 3h) Las modificaciones que mejoran el concepto básico de un puzzle no están permitidas. Las versiones modificadas de un puzzle sólo están permitidas si la modificación no aporta ninguna información adicional al competidor (p.ej. orientación o identidad de las piezas), con respecto a la versión sin modificar del mismo puzzle.
     - 3h1) Los puzzles redondeados (“Pillowed”) están permitidos.
