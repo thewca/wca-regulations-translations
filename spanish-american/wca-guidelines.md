@@ -45,7 +45,7 @@ En pro de la claridad, cada Directriz se clasifica usando una de las siguientes 
 - 2c+) [ADICIÓN] Los competidores que lo sean por primera vez, deben registrarse usando su nombre legal. Pueden registrarse usando un apodo razonable, a criterio del Delegado de la WCA.
 - 2c1+) [ADICIÓN] Los requerimientos para un registro completo deben estar claramente descritos en la página web de la competencia.
 - 2c1++) [EJEMPLO] Por ejemplo, el equipo organizador puede requerir que se responda a un email de confirmación antes de determinada fecha, que se pague el precio de la entrada al momento de registrarse o que se paguen las entradas que el competidor debe de competencias anteriores. El equipo organizador debería considerar cuidadosamente si los requerimientos son justos.
-- 2c2+) [ACLARACIÓN] Un perfil de la WCA es la colección de información relacionada a un competidor, e incluye su información personal (nombre, nacionalidad, sexo y fecha de nacimiento) así como todos sus resultados en competencias oficiales de la WCA.
+- 2c2+) [ACLARACIÓN] Un perfil de la WCA es la colección de información relacionada a un competidor, e incluye su información personal (nombre, nacionalidad, género y fecha de nacimiento) así como todos sus resultados en competencias oficiales de la WCA.
 - 2d+) [ADICIÓN] La fecha de nacimiento e información de contacto deben ser especialmente confidenciales.
 - 2d++) [RECOMENDACIÓN] Si algún tercero (p.ej. un periodista) pide al equipo organizador para ponerse en contacto con cualquier competidor o competidores, estos deberían ser consultados antes.
 - 2e+) [ACLARACIÓN] Si un competidor tiene múltiples ciudadanías, puede elegir qué país quiere representar en su primera competencia.

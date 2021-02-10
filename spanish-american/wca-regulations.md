@@ -65,10 +65,10 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
     - 2a2) Cumple los requisitos para participar, los cuales deben ser claramente anunciados antes de la competencia.
     - 2a3) No está suspendido por la Junta Directiva de la WCA (WCA Board).
 - 2b) Los competidores menores de 18 años deben tener el consentimiento de su(s) padre(s)/tutor(es) para inscribirse y competir.
-- 2c) Los competidores se inscribirán proporcionando toda la información requerida por el equipo organizador (Incluyendo: nombre, país, fecha de nacimiento, sexo, información de contacto, eventos seleccionados).
+- 2c) Los competidores se inscribirán proporcionando toda la información requerida por el equipo organizador (Incluyendo: nombre, país, fecha de nacimiento, género, información de contacto, eventos seleccionados).
     - 2c1) Un competidor no podrá competir sin una inscripción completa, como haya sido determinada por el equipo organizador.
-    - 2c2) Los competidores recurrentes deben proporcionar información personal coherente con su perfil de la WCA. Si un competidor desea cambiar o actualizar su información personal entre competencias (p.ej. cambio de nacionalidad, nombre o sexo), debe [contactar al WCA Results Team](https://www.worldcubeassociation.org/contact/website).
-- 2d) El nombre, país, sexo y resultados de un competidor son considerados información pública. Cualquier otra información personal es considerada confidencial, y no debe ser revelada a otras organizaciones/personas sin el consentimiento del competidor.
+    - 2c2) Los competidores recurrentes deben proporcionar información personal coherente con su perfil de la WCA. Si un competidor desea cambiar o actualizar su información personal entre competencias (p.ej. cambio de nacionalidad, nombre o género), debe [contactar al WCA Results Team](https://www.worldcubeassociation.org/contact/website).
+- 2d) El nombre, país, género y resultados de un competidor son considerados información pública. Cualquier otra información personal es considerada confidencial, y no debe ser revelada a otras organizaciones/personas sin el consentimiento del competidor.
 - 2e) Los competidores deben representar a un país del que tengan la ciudadanía. El delegado de la WCA debería verificar la ciudadanía mediante documentos (p.ej. un pasaporte) en la primera competencia a la que asista el competidor. Si un competidor no puede representar al país bajo el cual se ha registrado, el competidor puede ser descalificado y/o suspendido, a discreción de la Junta Directiva de la WCA (WCA Board).
     - 2e1) Los países elegibles están definidos en la [Lista de Países Reconocidos por la WCA](https://www.worldcubeassociation.org/regulations/countries/).
     - 2e2) Los competidores que cambien su ciudadanía, pueden cambiar su país de representación antes o durante su primera competencia del año. Excepción: si el competidor pierde la ciudadanía del país bajo el cual estaba previamente registrado, debe cambiar su país de representación antes o durante su próxima competencia (ver [Regla 2c2](regulations:regulation:2c2)).
@@ -420,7 +420,7 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
         - A7c1) Si el competidor o el juez se niegan a reconocer y firmar la hoja de tiempos, el Delegado de la WCA debe resolver la disputa.
         - A7c2) Si el competidor firma (o de otra manera marca) un intento antes de empezarlo, renuncia al intento y el resultado será considerado DNS.
         - A7c3) Si el competidor firma (o de otra manera marca) un intento después de empezarlo, pero antes de que el juez haya terminado de registrar el resultado, el intento se considerará no terminado (DNF).
-        - A7c4) El competidor no debería firmar un intento antes de que el juez lo haya registrado y firmado. El competidor es responsable en última instancia de asegurarse de que él y el juez hayan firmado el intento. Si se encuentra que en un intento faltan una o ambas firmas, después de que el juez haya entregado la hoja de tiempos al encargado de recoger los resultados (ver [Regla A7f](regulations:regulation:A7f)), este será considerado como no terminado (DNF). 
+        - A7c4) El competidor no debería firmar un intento antes de que el juez lo haya registrado y firmado. El competidor es responsable en última instancia de asegurarse de que él y el juez hayan firmado el intento. Si se encuentra que en un intento faltan una o ambas firmas, después de que el juez haya entregado la hoja de tiempos al encargado de recoger los resultados (ver [Regla A7f](regulations:regulation:A7f)), este será considerado como no terminado (DNF).
     - A7f) Cuando la hoja de resultados de una ronda está completa, el juez entrega la hoja al encargado de registrar los tiempos en la computadora.
     - A7g) A discreción del Delegado de la WCA, un incidente o penalización causado por la falta de experiencia de un competidor nuevo podrá ser reemplazado con un intento extra.
 
@@ -498,7 +498,7 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
 - F1) Se siguen los procedimientos estándar de Speed Solving, descritos en el [Artículo A](regulations:article:A) (Speed Solving). Las reglas adicionales que reemplazan a los correspondientes procedimientos del [Artículo A](regulations:article:A) se describen a continuación.
 - F2) El juez sitúa el puzzle mezclado sobre el mat en posición vertical.
     - F2a) El equipo organizador puede requerir el uso de un atríl para prevenir que el puzzle se caiga antes de comenzar el intento. Si dicho atríl es usado, esto debe anunciarse antes de que comience la ronda.
-        - F2a1) El juez debe quitar el atríl del mat inmediatamente después de que el competidor saca el puzzle del mismo. 
+        - F2a1) El juez debe quitar el atríl del mat inmediatamente después de que el competidor saca el puzzle del mismo.
 - F3) Al final del período de inspección, el competidor sitúa el puzzle sobre el mat en posición vertical. Penalización: descalificación del intento (DNF).
     - F3a) El competidor no debe cambiar las posiciones de la mezcla de ninguno de los botones antes del comienzo de la resolución. Penalización: descalificación del intento (DNF).
 
