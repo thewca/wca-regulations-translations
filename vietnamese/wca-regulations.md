@@ -4,7 +4,7 @@
 
 
 ## Ghi chú
-Lần chỉnh sửa cuối: 06 Tháng 4, 2021
+Lần chỉnh sửa cuối: 07 Tháng 4, 2021
 ### Bản dịch
 Đây là bản dịch tiếng Việt của Quy định WCA, được dịch bởi [Nguyễn Hải Dương](haiduongnguyen32@gmail.com).
 
@@ -74,7 +74,7 @@ Chú ý: Vì số thứ tự của các Mục và Quy định không được s�
     - 2e3) Thí sinh không có quốc tịch vẫn có thể tham gia thi.
 - 2f) Thí sinh phải tuân theo quy định tại hội trường và cư sử một cách hợp lí.
 - 2g) Thí sinh phải giữ im lặng khi đang ở trong khu vực thi đấu được chỉ định. Việc nói chuyện được cho phép, nhưng âm lượng phải ở mức vừa phải và phải tránh xa các thi sinh đang tập trung quá trình thi đấu.
-
+[//]: # (all finished up until this point)
     - 2g3) Competitors in a Competitors Area must not communicate with each other about the scrambled states of the puzzles of the round in progress. Penalty: disqualification of the competitor(s) from the event, at the discretion of the WCA Delegate.
 - 2h) Competitors must be fully dressed while in the competition venue. At the discretion of the WCA Delegate, competitors may be disqualified from the competition for inappropriate clothing.
 - 2i) While competing, competitors must not use electronics or audio equipment (e.g. cell phones, MP3 players, dictaphones, additional lighting) apart from the Stackmat timer or stopwatch.
