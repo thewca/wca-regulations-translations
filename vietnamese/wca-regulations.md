@@ -1,540 +1,545 @@
 # <wca-title>Quy định WCA
 
-<version>Bản cập nhật: 01 Tháng 1, 2018
+<version>Bản cập nhật: 01 Tháng 8, 2020
 
 
 ## Ghi chú
-
-Lần chỉnh sửa gần nhất: 06 tháng 1, 2018
-
+Lần chỉnh sửa cuối: 06 Tháng 4, 2021
 ### Bản dịch
+Đây là bản dịch tiếng Việt của Quy định WCA, được dịch bởi [Nguyễn Hải Dương](haiduongnguyen32@gmail.com).
 
-Đây là bản dịch tiếng Việt Quy định và Hướng dẫn WCA, được dịch bởi [Vương Thiện Trung](mailto:vttrung12@gmail.com). Mọi thắc mắc vui lòng liên hệ qua email.
-Lưu ý: Bản dịch này không phải là phiên bản chính thức của Quy định WCA (mặc dù được đưa lên trang chủ của WCA): bản dịch chỉ mang tính tham khảo, không bảo đảm hoàn toàn về độ chính xác.
-Nếu có sự khác nhau giữa bản dịch Tiếng Việt và bản (chính thức) Tiếng Anh, bản Tiếng Anh phải được sử dụng.
+Lưu ý rằng bản dịch không phải là chính thức và chỉ mang tính tham khảo, mặc dù được cung cấp trên website WCA. Nếu có điểm khác biệt giữa bản dịch và bản tiếng Anh hiện hành, bản tiếng Anh phải được sử dụng.
 
 ### Quy định và Hướng dẫn WCA
 
-Quy định WCA bao gồm tất cả các Quy định có hiệu lực đối với tất cả các giải đấu chính thức được cấp phép bởi Hiệp hội Rubik Thế giới (WCA).
-Quy định WCA được bổ sung thêm bởi [Hướng dẫn WCA](guidelines:top). Quy định WCA là một văn bản hoàn chỉnh, bản Hướng dẫn chỉ chứa thông tin bổ sung và giải thích.
+Quy định WCA bao gồm tất cả các Quy định có hiệu lực với tất cả các giải đấu chính thức được cấp phép bởi Hiệp hội Rubik Thế giới (WCA)
+The WCA Regulations contain the full set of Regulations that apply to all official competitions sanctioned by the World Cube Association.
+Quy định WCA được bổ sung bởi [Hướng dẫn WCA](guidelines:top). Bản Quy định là văn bản hoàn thiện, còn Hướng dẫn WCA bao gồm những thông tin bổ sung và giải thích. 
 
 ### Ngôn ngữ
-Việc sử dụng các từ ngữ "phải", "không được", "nên", "không nên" và "có thể" được tham khảo từ [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt).
+Những từ "phải" (must), "không được" (must not), "nên" (should), "không nên" (should not) và "có thể" (may) được định nghĩa theo [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt).
 
 ### Thông tin trực tuyến
-Trang chủ Hiệp hội Lập phương Thế giới: [www.worldcubeassociation.org](https://www.worldcubeassociation.org/).
-Bản gốc của Quy định WCA: [www.worldcubeassociation.org/regulations](https://www.worldcubeassociation.org/regulations/).
-Quy định WCA ở [định dạng PDF](link:pdf).
+Website Liên đoàn Rubik Thế giới: [www.worldcubeassociation.org](https://www.worldcubeassociation.org/)
+Bản gốc của bản Quy định WCA: [www.worldcubeassociation.org/regulations](https://www.worldcubeassociation.org/regulations/)
+Bản Quy định WCA dưới [dạng file PDF](link:pdf)
 
 ### Nguồn
-Sự phát triển của Quy định và Hướng dẫn WCA được công khai [trên Github](https://github.com/thewca/wca-regulations).
+Quá trình phát triển Quy định và Hướng dẫn WCA được công khai [trên GitHub](https://github.com/thewca/wca-regulations) và được thảo luận công khai [trên diễn đàn WCA](https://forum.worldcubeassociation.org/c/regulations).
 
 ### Liên hệ
-Nếu có câu hỏi và phản hồi, xin vui lòng gửi tới [WCA Regulations Committee (WRC)](mailto:wrc@worldcubeassociation.org).
+Nếu có câu hỏi và phản hồi, hãy liên hệ [WCA Regulations Committee (WRC)](mailto:wrc@worldcubeassociation.org).
 
 
 ## <contents> [Nội dung](regulations:contents)
 
-Ghi chú: Vì số thứ tự các Mục và Quy định không được sắp xếp lại lúc chỉnh sửa, có thể số thứ tự sẽ bị ngắt quãng.
+Chú ý: Vì số thứ tự của các Mục và Quy định không được sắp xếp lại khi các Quy định bị loại bỏ, các số thứ tự có thể bị ngắt quãng.
 
 <table-of-contents>
 
 
 ## <article-1><officials><officials> Mục 1: Thành viên chính thức
-
-- 1a) Một giải đấu phải bao gồm ít nhất một WCA Delegate và một đội ngũ ban tổ chức (gồm có một người hoặc hơn) cùng với những thành viên chính thức sau: trọng tài, người tráo và một người ghi kết quả.
-- 1b) Đội ngũ ban tổ chức của giải đấu chịu trách nhiệm về hậu cần trước, trong và sau giải đấu.
-- 1c) WCA Delegate có thể uỷ quyền cho một thành viên khác trong ban tổ chức, nhưng luôn là người chịu trách nhiệm cuối cùng về giải đấu. WCA Delegate của một giải đấu chịu trách nhiệm chính về:
-    - 1c1) Báo cáo với Ban Quản trị WCA về sự tuân thủ Quy định WCA ở giải đấu, toàn bộ tiến trình của giải đấu, và bất kì sự cố nào. Bản báo cáo phải được nộp cho Ban Quản trị WCA trong vòng một tuần sau ngày kết thúc giải đấu.
-    - 1c3) Gửi kết quả của giải đấu về Đội ngũ Kết quả WCA trong vòng một tuần sau ngày kết thúc giải đấu.
-        - 1c3a) Tất cả công thức tráo được sử dụng trong giải đấu đều phải được gửi cùng với kết quả của giải đấu.
-        - 1c3b) Công thức tráo phải được đánh dấu bằng tên nội dung, vòng, và nhóm thi đấu tương ứng.
-    - 1c4) Đính chính về kết quả của giải đấu với Đội ngũ Kết quả WCA.
-    - 1c5) Giúp đỡ các thành viên chính thức khác nếu cần thiết.
-    - 1c6) Xác nhận tất cả các nội dung và cách thức thi của giải đấu, trước khi giải diễn ra, và trong giải đấu nếu có bất cứ sự thay đổi cần thiết nào.
-    - 1c7) Quyết định truất quyền thi đấu thí sinh trong khi giải đấu diễn ra.
-    - 1c8) Cung cấp công thức tráo.
-    - 1c9) Quyết định về sự thay đổi về thời gian biểu mỗi vòng. Trong trường hợp như vậy, một thông báo rõ ràng phải được gửi đến tất cả các thí sinh.
-    - 1c10) Cung cấp bản sao của Quy định WCA ở mỗi giải đấu.
-- 1e) Mỗi nội dung phải có ít nhất một trọng tài.
-    - 1e1) Trọng tài có trách nhiệm thực hiện các thủ tục ở mỗi nội dung.
-        - 1e1a) Một trọng tài có thể đồng thời giám sát nhiều thí sinh, tuỳ theo quyết định của WCA Delegate, với điều kiện trọng tài có thể bảo đảm tất cả các Quy định WCA được tuân thủ mọi lúc.
-    - 1e2) Mọi thí sinh đều phải có khả năng làm trọng tài. Nếu được yêu cầu làm trọng tài, thí sinh chỉ có thể được miễn nếu đưa ra lí do thoả đáng (v.d không hiểu rõ về nội dung thi đấu), tuỳ theo quyết định của WCA Delegate. Hình phạt: truất quyền thi đấu khỏi giái (xem [Quy định 2k](regulations:regulations:2k)).
-- 1f) Mỗi nội dung phải có ít nhất một người tráo. Ngoại lệ: Giải Tối Ưu.
-    - 1f1) Người tráo sử dụng chuỗi công thức tráo đã được cung cấp cho mỗi lượt.
-    - 1f2) Mọi thi sinh đều phải có khả năng làm người tráo. Nếu được yêu cầu làm người tráo, thí sinh chỉ có thể được miễn nếu đưa ra lí do thoả đáng (v.d không quen các kí hiệu tráo), tuỳ theo quyết định của WCA Delegate. Hình phạt: truất quyền thi đấu khỏi giải (xem [Quy định 2k](regulations:regulations:2k)).
-- 1g) Mỗi nội dung phải có ít nhất một người ghi kết quả.
-    - 1g1) Người ghi kết quả có trách nhiệm tổng hợp kết quả thi đấu.
-    - 1g2) Sự thay đổi về kết quả trên giấy ghi kết quả phải được sự chấp thuận của WCA Delegate.
-- 1h) Thí sinh thi cùng một vòng của một nội dung có thể được chia ra thành nhiều nhóm thi.
-    - 1h1) Người tráo và trọng tài của một vòng không được tham gia tráo/giám sát thí sinh khác nếu chưa tham gia và hoàn thành tất cả các lượt đấu của vòng thi đó. Người tráo và trọng tài có thể tham gia tráo/giám sát thí sinh cùng nhóm thi, tuỳ theo quyết định của WCA Delegate, nhưng đội ngũ ban tổ chức phải bảo đảm những người tráo/trọng tài đó không được nhìn thấy những công thức tráo mà họ chưa giải.
-- 1j) Tất cả các thành viên chính thức đều có thể tham gia thi đấu.
-- 1k) Thành viên chính thức có thể tham gia nhiều vai trò (v.d ban tổ chức, WCA Delegate, trọng tài, người ghi kết quả, người tráo).
-
+- 1a) Một giải đấu phải có một WCA Delegate và ban tổ chức (có một hoặc nhiều người) với các thành viên dưới đây: trọng tài, người tráo và người ghi kết quả.
+- 1b) Ban tổ chức giải đấu chịu trách nhiệm hậu cần trước, trong và sau giải đấu.
+- 1c) WCA Delegate chịu trách nhiệm đảm bảo giải đấu tuân theo Quy định WCA và các chính sách và yêu cầu khác của WCA. WCA Delegate có thể ủy quyền các thành viên khác của ban tổ chức, nhưng luôn là người chịu trách nhiệm cuối cùng.
+- 1e) Mỗi nội dung thi đấu phải có một hoặc nhiều trọng tài.
+    - 1e1) Trọng tài chịu trách nhiệm thực thi các thủ tục của nội dung thi đấu.
+        - 1e1a) Một trọng tài có thể đồng thời giám sát nhiều thí sinh tùy theo quyết định của WCA Delegate, với điều kiện trọng tài có thể đảm bảo tất cả các Quy định WCA luôn được tuân thủ.
+    - 1e2) Tất cả thí sinh đều phải có khả năng làm trọng tài. Nếu được yêu cầu làm trọng tài, thí sinh chỉ có thể được miễn nếu có lí do chính đáng (VD: không hiểu rõ về nội dung thi đấu), tùy theo quyết đinh của WCA Delegate. Hình phạt: truất quyền thi đấu khỏi giải (xem [Quy định 2k](regulations:regulation:2k)).
+- 1f) Mỗi nội dung thi đấu phải có một hoặc nhiều người tráo. Ngoại lệ: Giải Tối ưu 3x3x3.
+    - 1f1) Người tráo sử dụng công thức tráo để chuẩn bị khối hình cho mỗi lượt giải (xem [Quy định A2](regulations:regulation:A2)).
+    - 1f2) Tất cả thí sinh đều phải có khả năng làm người tráo. Nếu được yêu cầu làm người tráo, thí sinh chỉ có thể được miễn nếu có lí do chính đáng (VD: không quen với các kí hiệu tráo), tùy theo quyết đinh của WCA Delegate. Hình phạt: truất quyền thi đấu khỏi giải (xem [Quy định 2k](regulations:regulation:2k)).
+- 1g) Mỗi nội dung thi đấu phải có một hoặc nhiều người ghi kết quả.
+    - 1g1) Người ghi kết quả chịu trách nhiệm tổng hợp các kết quả trong giải.
+    - 1g2) Việc chỉnh sửa các kết quả trên phiếu ghi kết quả phải được WCA Delegate chấp thuận.
+- 1h) Các thí sinh trong cùng một vòng thi của một nội dung thi đấu có thể được gộp thành một nhóm thi duy nhất hoặc được chia thành nhiều nhóm thi.
+    - 1h1) Người tráo và trọng tài cho một vòng thi không được tráo hay làm trọng tài cho các thí sinh khác trong cùng nhóm thi cho đến khi hoàn thành toàn bộ lượt giải của mình trong vòng thi đó. Họ có thể tráo hay làm trọng tài chô các thí sinh khác trong cùng nhóm thi theo quyết định của WCA Delegate, nhưng ban tổ chức phải đảm bảo những người tráo và trọng tài không thể nhìn thấy các công thức tráo cho các lượt giải mà họ chưa thực hiện (xem [Quy định 4b2](regulations:regulation:4b2)).
+- 1j) Tất cả các thành viên chính thức đều có thể tham gia thi trong giải đấu.
+- 1k) Các thành viên chính thức có thể đóng nhiều vai trò khác nhau (VD: ban tổ chức, WCA Delegate, trọng tài, người ghi kết quả, người tráo).
 
 ## <article-2><competitors><competitors> Mục 2: Thí sinh
 
-- 2a) Tất cả mọi người đều có thể tham gia thi đấu ở giải đấu WCA nếu họ:
-    - 2a1) Tuân thủ Quy định WCA.
-    - 2a2) Đủ tiêu chuẩn tham gia giải đấu. Tiêu chuẩn phải được thông báo rõ ràng trước giải đấu.
+- 2a) Bất kì ai có thể tham gia thi trong một giải đấu WCA nêu họ (được bổ sung bởi [Quy định Y3](regulations:regulation:Y3)):
+    - 2a1) Tuân thủ Quy định WCA
+    - 2a2) Đạt được những tiêu chuẩn của giải đấu. Tiêu chuẩn phải được thông báo rõ ràng trước giải đấu.
     - 2a3) Không bị đình chỉ bởi Ban Quản trị WCA.
-- 2b) Thí sinh dưới 18 tuổi phải được sự chấp thuận từ phụ huynh/người giám hộ trước khi đăng kí và thi đấu.
-- 2c) Thí sinh đăng kí bằng cách cung cấp đầy đủ thông tin mà ban tổ chức yêu cầu (bao gồm: họ tên, quốc gia, ngày sinh, giới tính, thông tin liên lạc, nội dung đăng kí).
-    - 2c1) Thí sinh không thể tham gia thi đấu nếu chưa hoàn thành bản đăng kí mà ban tổ chức đưa ra.
-- 2d) Thông tin về tên, quốc tịch, giới tính, và kết quả thi đấu của thí sinh được công khai. Tất cả những thông tin cá nhân khác đều là thông tin mật, và không được tiết lộ cho các tổ chức/cá nhân bên ngoài mà không được sự cho phép của thí sinh.
-- 2e) Quốc tịch của thí sinh phải tương ứng với quốc gia mà họ sở hữu quyền công dân. WCA Delegate có trách nhiệm xác nhận qua tài liệu (v.d hộ chiếu). Nếu thí sinh đăng kí sai quốc tịch, thí sinh có thể bị truất quyền thi đấu, kể cả khi giải đấu đã kết thúc, và/hoặc bị đình chỉ thi đấu, tuỳ theo quyết định của Ban Quản trị WCA.
-    - 2e1) Các quốc gia được công nhận theo [Dạnh sách các Quốc gia được công nhận bởi WCA](https://www.worldcubeassociation.org/regulations/countries/).
-    - 2e2) Thí sinh nếu có thay đổi về tình trạng công dân có thể thay đổi quốc tịch trước hoặc tại giải đấu chính thức đầu tiên trong năm dương lịch của họ. Ngoại lệ: nếu thí sinh mất quốc tịch của quốc gia mà họ đại diện trước đó, thí sinh bắt buộc phải đổi thông tin quốc tịch trước hoặc tại giải đấu kế tiếp.
-    - 2e3) Các thí sinh nếu không có quốc tịch vẫn có thể tham gia thi.
-- 2f) Thí sinh phải tuân theo quy định ở địa điểm thi và ứng xử đúng mực.
-- 2g) Thí sinh phải giữ trật tự khi đang ở trong khu vực dành cho thi đấu. Thí sinh được phép nói chuyện, nhưng phải giữ âm lượng ở mức độ vừa phải, và tránh xa nơi thí sinh khác đang tập trung thi đấu.
-    - 2g3) Thí sinh ở trong Khu vực thi đấu không được bàn bạc với người khác về đề thi (trình tự tráo) ở vòng thi đang diễn ra. Hình phạt: truất quyền thi đấu khỏi giải, tuỳ theo quyết định của WCA Delegate.
-- 2h) Thí sinh phải ăn mặc chỉnh tề khi đến địa điểm thi đấu. Tuỳ theo quyết định của WCA Delegate, thí sinh có thể bị truất quyền thi đấu nếu ăn mặc không phù hợp.
-- 2i) Trong khi thi đấu, thí sinh không được sử dụng thiết bị điện tử hay thiết bị âm thanh (v.d điện thoại di động, máy nghe nhạc MP3, máy ghi âm, thiết bị hỗ trợ chiếu sáng).
-    - 2i1) Thí sinh có thể sử dụng thiết bị không phải điện tử và không đem lại lợi thế không công bằng cho các thí sinh khác, theo sự chấp thuận của WCA Delegate. Bao gồm:
-        - 2i1a) Thiết bị hỗ trợ về y tế/thể chất mà thí sinh đeo trên người (v.d kính mắt, vòng cổ tay). Ngoài ra, thí sinh có thể sử dụng thiết bị y tế điện tử hỗ trợ nếu như không có thiết bị nào khác để thay thế (v.d máy trợ thính, máy tạo nhịp tim).
-        - 2i1b) Nút tai hoặc bịt tai (không phải loại tai nghe điện tử).
-    - 2i2) Thí sinh có thể sử dụng máy quay ở bàn thi đấu nếu được sự đồng ý của WCA Delegate, nhưng phải tuân theo những điều kiện sau từ lúc bắt đầu giải đề thi cho đến lúc hoàn thành hoặc dừng lại. Hình phạt nếu không tuân theo: truất quyền thi đấu của lượt thi (DNF).
-        - 2i2a) Màn hình máy quay phải nằm ngoài tầm nhìn của thí sinh (xem [Quy định A5b](regulations:regulations:A5b)).
-        - 2i2b) Thí sinh không được tương tác với máy quay đang hoạt động (v.d vận hành, cầm, đeo). Ngoại lệ: thí sinh có thể sử dụng loại máy quay đeo trên đỉnh đầu, với điều kiện máy quay phải ở ngoài tầm nhìn và thí sinh không được tương tác với nó (ngoài việc đeo).
-- 2j) WCA Delegate có thể truất quyền thi đấu thí sinh khỏi một nội dung.
-    - 2j1) Nếu thí sinh bị truất quyền thi đấu khỏi một nội dung vì bất kì lí do gì, họ không thể tham gia thi các lượt tiếp theo của nội dung đó.
-        - 2j1a) Thành tích của các lượt thi đấu còn lại đều bị đánh dấu DNF.
-    - 2j2) Nếu thí sinh bị truất quyền thi đấu khi một nội dung đang diễn ra, kết quả của họ trước đó vẫn được công nhận. Ngoại lệ: gian lận (xem [Quy định 2k2a](regulations:regulations:2k2a)).
-- 2k) Tuỳ theo quyết định của WCA Delegate, thí sinh có thể bị truất quyền thi đấu một số nội dung (một/nhiều/tất cả nội dung) nếu thí sinh:
-    - 2k1) Không đăng kí hoặc điểm danh không đúng thời hạn quy định.
-    - 2k2) Bị nghi ngờ gian lận trong khi giải đấu đang diễn ra.
-        - 2k2a) WCA Delegate có thể huỷ bỏ mọi kết quả bị nghi gian lận.
-    - 2k3) Hành xử không đúng luật, bạo lực hoặc không đúng mực; hoặc cố tình phá hoại cơ sở vật chất hoặc tài sản cá nhân ở địa điểm thi.
-    - 2k4) Gây trở ngại hoặc phân tâm người khác trong khi giải đấu đang diễn ra.
-    - 2k5) Không tuân theo Quy định WCA trong khi giải đấu đang diễn ra.
-- 2l) Thí sinh có thể bị truất quyền thi đấu ngay lập tức, hoặc sau khi nhận cảnh cáo, tuỳ thuộc vào tính chất và mức độ của sự vi phạm.
-    - 2l1) Thí sinh đã bị truất quyền không được hoàn trả bất kì chi phí nào liên quan đến việc tham gia vào giải đấu.
-- 2n) Thí sinh có thể khiếu nại quyết định của WCA Delegate.
-    - 2n1) Khiếu nại chỉ được cho phép trong lúc giải đấu đang diễn ra, trong vòng 30 phút kể từ khi sự việc được khiếu nại xảy ra và trước khi vòng thi tiếp theo của nội dung đó diễn ra (nếu có).
-    - 2n2) WCA Delegate phải giải quyết khiếu nại trước khi vòng thi tiếp theo của nội dung đó diễn ra.
-    - 2n3) Thí sinh phải chấp nhận quyết định cuối cùng được đưa ra của WCA Delegate. Hình phạt: truất quyền thi đấu khỏi giải.
-- 2s) Thí sinh khuyết tật nếu gặp trở ngại trong việc tuân theo một hoặc nhiều Quy định WCA có thể yêu cầu sự hỗ trợ đặc biệt từ WCA Delegate. Thí sinh phải liên hệ đội ngũ ban tổ chức và WCA Delegate ít nhất 2 tuần trước giải đấu.
-- 2t) Mỗi thí sinh phải làm quen và nắm bắt được Quy định WCA trước khi tham gia giải đấu.
-- 2u) Thí sinh phải có mặt và sẵn sàng tham gia thi đấu khi được gọi thi đấu. Hình phạt: truất quyền thi đấu khỏi nội dung.
-    - 2u1) Ngoại lệ: Thí sinh không có mặt đúng giờ ở một sự kiện có lịch thi đấu dành riêng cho cá nhân (v.d Giải Tối Ưu, Bịt Mắt nhiều 3x3x3) có thể được coi là đã từ chối tham gia lượt thi (DNS), tuỳ theo quyết định của WCA Delegate.
+- 2b) Những thí sinh dưới 18 tuổi phải được sự cho phép của cha mẹ hoặc người giám hộ để được đăng ký và tham gia thi.
+- 2c) Thí sinh đăng ký bằng cách cung cấp tất cả các thông tin được yêu cầu bởi ban tổ chức (bao gồm: họ tên, quốc gia, ngày sinh, giới tính, thông tin liên lạc, các nội dung thi đấu đăng kí).
+    - 2c1) A competitor is not eligible to compete without a completed registration, as determined by the organization team.
+    - 2c2) Returning competitors must provide personal information consistent with their WCA profile. If a competitor wishes to change or update their personal information between competitions (e.g. a change of nationality, name, or gender), they must [contact the WCA Results Team](https://www.worldcubeassociation.org/contact/website).
+- 2d) A competitor's name, country, gender, and competition results are considered public information. All other personal information is considered confidential, and must not be disclosed to outside organizations/persons without the consent of the competitor.
+- 2e) Competitors must represent a country of which they hold citizenship. The WCA Delegate should verify citizenship by means of documents (e.g. a passport) at their first competition. If a competitor is found ineligible to represent the country under which they have registered, the competitor may be disqualified retroactively and/or suspended, at the discretion of the WCA Board.
+    - 2e1) The eligible countries are defined by the [WCA List of Recognized Countries](https://www.worldcubeassociation.org/regulations/countries/).
+    - 2e2) Competitors with updates to their citizenship status may change their country of representation before or at their first competition of a calendar year. Exception: if the competitor loses citizenship of the country which they were previously representing, they must change the country of representation before or at their next competition (see [Regulation 2c2](regulations:regulation:2c2)).
+    - 2e3) Competitors who have no citizenship may compete as "Stateless".
+- 2f) Competitors must obey venue rules and conduct themselves in a considerate manner.
+- 2g) Competitors must remain quiet when inside the designated competition area. Talking is permitted, but must be kept at a reasonable level, and away from competitors who are actively competing.
+    - 2g3) Competitors in a Competitors Area must not communicate with each other about the scrambled states of the puzzles of the round in progress. Penalty: disqualification of the competitor(s) from the event, at the discretion of the WCA Delegate.
+- 2h) Competitors must be fully dressed while in the competition venue. At the discretion of the WCA Delegate, competitors may be disqualified from the competition for inappropriate clothing.
+- 2i) While competing, competitors must not use electronics or audio equipment (e.g. cell phones, MP3 players, dictaphones, additional lighting) apart from the Stackmat timer or stopwatch.
+    - 2i1) Competitors may use non-electronic aids that do not give an unfair advantage, at the discretion of the WCA Delegate. This includes:
+        - 2i1a) Medical/physical aids worn by the competitor (e.g. glasses, wrist brace). As an exception to [Regulation 2i](regulations:regulation:2i), medical aids may be electronic if the competitor does not have comfortable non-electronic alternatives (e.g. if the competitor has a personal hearing aid or pacemaker).
+        - 2i1b) Earplugs and earmuffs (but not electronic headphones and earbuds).
+        - 2i1c) Hand warmers.
+        - 2i1d) Food and drink.
+    - 2i2) Competitors may use cameras at the solving station at the discretion of the WCA Delegate, but the following restrictions apply from the start of the attempt until the competitor stops the solve. Penalty for breaking a restriction: disqualification of the attempt (DNF).
+        - 2i2a) Each camera monitor must be blank or out of sight of the competitor (see [Regulation A5b](regulations:regulation:A5b)).
+        - 2i2b) The competitor must not interact with (e.g. operate, hold, wear) any active camera. Exception: the competitor may wear a camera mounted on their head, as long as it is out of their sight and it is clear that they are not interacting with it (apart from wearing it).
+- 2j) The WCA Delegate may disqualify a competitor from a specific event.
+    - 2j1) If a competitor is disqualified from an event for any reason, they are not eligible for any more attempts in the event.
+        - 2j1a) The results of all remaining attempts in the event are recorded as DNF.
+    - 2j2) If a competitor is disqualified during the course of an event, their earlier results remain valid. Exception: cheating or defrauding (see [Regulation 2k2a](regulations:regulation:2k2a)).
+- 2k) At the discretion of the WCA Delegate, a competitor may be disqualified from some events (a single event, multiple events, or all events) if the competitor:
+    - 2k1) Fails to check in or register in time for the competition.
+    - 2k2) Is suspected of cheating or defrauding the officials during the competition.
+        - 2k2a) The WCA Delegate may disqualify any suspected results.
+    - 2k3) Behaves in a way that is unlawful/violent/indecent/unsafe, or intentionally damages venue facilities or personal property within the venue.
+    - 2k4) Distracts or interferes with others during the competition.
+    - 2k5) Fails to abide by WCA Regulations during the competition.
+    - 2k6) Does not fulfill the event's requirements (e.g. not knowing how to solve the puzzle). A competitor must not compete with the expectation of a DNF result or an intentionally poor result.
+- 2l) A competitor may be disqualified immediately, or after a warning, depending on the nature and severity of the infraction.
+    - 2l1) A disqualified competitor is not eligible for the refund of any expenses due to participating in the competition.
+- 2n) Competitors may verbally dispute a ruling to the WCA Delegate.
+    - 2n1) Disputes are only permitted during the competition, within 30 minutes after the disputed incident happened and before the start of any following rounds of the relevant event.
+    - 2n2) The WCA Delegate must resolve the dispute before the start of the next round of the event.
+    - 2n3) The competitor must accept all final rulings of the WCA Delegate. Penalty: disqualification from the competition.
+- 2s) Competitors with disabilities that may prevent them from abiding by one or more WCA Regulations may request special accommodations from the WCA Delegate. Competitors requesting such accommodations should contact the organization team and WCA Delegate at least two weeks before the competition.
+- 2t) Each competitor must be familiar with and understand the WCA Regulations before the competition.
+- 2u) Competitors must be present and ready to compete when they are called to compete for an attempt. Penalty: disqualification from the event.
+    - 2u1) Exception: A competitor who is not present in time for an individually scheduled attempt (e.g. a 3x3x3 Fewest Moves attempt, a 3x3x3 Multi-Blind attempt) may be considered to have declined that attempt (DNS), at the discretion of the WCA Delegate.
 
 
-## <article-3><puzzles><puzzles> Mục 3: Puzzles (Khối hình)
+## <article-3><puzzles><puzzles> Article 3: Puzzles
 
-- 3a) Thí sinh phải tự mang theo các khối hình của mình cho giải đấu.
-    - 3a1) Thí sinh phải trong trạng thái sẵn sàng nộp khối hình của mình khi được gọi tên (xem [Quy định 2u](regulations:regulation:2u)).
-    - 3a2) Các khối hình phải hoạt động tốt, để giúp cho quá trình tráo.
-    - 3a3) Các khối hình đa diện phải sử dụng hệ màu mà ở trạng thái đã được giải, mỗi mặt chỉ chứa một màu duy nhất. Mỗi biến thể (về hệ màu) của khối hình phải có các bước, trạng thái, cách giải tương tự như khối hình gốc.
-- 3d) Khối hình phải có những thành phần mang màu, giúp xác định được hệ màu của khối hình, và phải là một trong những thứ sau: miếng dán màu (sticker), tấm nhựa màu (tiles/stickerless), hoặc màu sơn/màu in. Tất cả các phần mang màu đều phải làm từ cùng một chất liệu.
-    - 3d1) Các thí sinh khiếm thị (có giấy tờ chứng minh) có thể được hưởng các hình thức ngoại lệ:
-        - 3d1a) Thí sinh bị mù có thể sử dụng khối hình mà mỗi mặt có kết cấu bề mặt khác nhau. Mỗi mặt nên có một màu riêng, để hỗ trợ quá trình tráo và trọng tài.
-        - 3d1b) Thí sinh mù màu không phân biệt được số màu cần thiết có thể vẽ hình lên các mặt, nếu được cho phép theo như [Quy định 2s](regulations:regulation:2s). Hình vẽ có thể có sẵn từ miếng dán hoặc được vẽ lên.
-    - 3d2) Các màu của khối hình phải mang tính đồng nhất, mỗi mặt mang một khối màu nhất định. Mỗi màu phải khác rõ các màu còn lại.
-- 3h) Mọi thay đổi làm tăng khả năng hoạt động của khối hình đều không được chấp nhận. Sư thay đổi chỉ có thể được cho phép nếu không giúp cho thí sinh có thêm thông tin nào về trạng thái của khối hình (v.d giúp định hướng hoặc nhận dạng các mặt), so với khối hình gốc.
-    - 3h1) Các khối hình có dạng "gối" được cho phép.
-    - 3h2) Các khối hình không sử dụng miếng dán (stickerless) được chấp nhận. Những hình khối này không bao gồm:
-        - 3h2a) Khối hình trong suốt không được chấp nhận. Ngoại lệ: sử dụng miếng dán che phần trong suốt (xem [Quy định 31](regulations:regulation:3l)).
-    - 3h3) Mọi sự thay đổi dẫn đến kết quả thi đấu không tốt của một thí sinh không được dùng làm lí do để bổ sung lượt giải.
-    - 3h4) Đối với Clock, kim đồng hồ có thể được làm riêng (cùng hình dáng và kích thước so với kim đồng hồ bằng giấy) được chấp nhận, theo quyết định của WCA Delegate. Kim đồng hồ phải chỉ rõ được hướng 12h giống như kim đồng hồ gốc.
-- 3j) Khối hình phải được giữ sạch và không được có vết đánh dấu, các phần bị lệch, hư hỏng, hay bất kỳ khác biệt rõ giữa các viên. Ngoại lệ: logo (xem [Quy định 3l](regulations:regulation:3l)).
-    - 3j1) Khối hình bị xước có thể được chấp nhận, theo sự cho phép của WCA Delegate.
-    - 3j2) Định nghĩa: 2 viên của khối hình được coi là giống nhau nếu giống về hình dáng và kích thước, hoặc đối nhau về hình dáng và cùng kích thước.
-    - 3j3) Các phần có bề mặt có thể nhận ra khi sờ và giúp định hướng khối hình không được chấp nhận ở các nội dung bịt mắt.
-- 3k) Khối hình phải được chấp nhận bởi WCA Delegate trước khi sử dụng trong giải đấu.
-    - 3k1) Nếu một khối hình bị phát hiện vi phạm quy định trong vòng thi. Thí sinh phải nộp khối hình khác thay thế.
-    - 3k2) Hình phạt cho các lượt thi sử dụng khối hình phạm quy: truất quyền thi đấu trong lượt thi (DNF). Ngoại lệ: Nếu khối hình bị phát hiện vi phạm quy định trong vòng thi, các kết quả trước có thể được thay thế bằng lượt thi mới, tùy theo quyết định của WCA Delegate.
-- 3l) Một khối hình có thể có logo ở mặt có màu. Trong trường hợp đó, chỉ có tối đa một mặt màu được có logo. Ngoại lệ: Đối với Giải Bịt Mắt, khối hình không được phép có logo.
-    - 3l1) Logo phải được đặt ở viên trung tâm. Ngoại lệ là những khối hình không có viên trung tâm.
-        - 3l1a) Đối với Pyraminx và 2x2x2, logo có thể được đặt ở bất kỳ viên nào.
-        - 3l1b) Đối với Square-1, logo phải được đặt ở tầng giữa (xích đạo).
-    - 3l2) Logo có thể được dập nổi, khắc, hoặc đi kèm miếng dán đè lên miếng dán màu có sẵn.
-- 3m) Khối hình và thành phần của khối hình từ tất cả các hãng đều được chấp nhận, với điều kiện khối hình phải tuân theo tất cả Quy định WCA.
-
-
-## <article-4><scrambling><scrambling> Mục 4: Tráo
-
-- 4a) Người tráo là người thực hiện xáo trộn các khối hình theo các chuỗi công thức.
-- 4b) Khối hình phải được tráo bằng chuỗi công thức ngẫu nhiên, được tạo ra bởi máy tính.
-    - 4b1) Các chuỗi công thức tráo không được để lộ trước giải đấu, và không được chọn lọc bởi WCA Delegate dưới bất kỳ hình thức nào.
-    - 4b2) Chỉ WCA Delegate và người tráo được tiếp xúc với các công thức tráo của một vòng, cho đến khi vòng thi kết thúc. Ngoại lệ: đối với Giải Tối Ưu, thí sinh nhận công thức tráo trong lượt thi đấu của mình (xem [Mục E](regulations:article:E)).
-    - 4b3) Chi tiết về phần mềm tráo: Một chuỗi công thức tráo phải tạo ra một trạng thái ngẫu nhiên cho khối hình, và đòi hỏi tối thiểu 2 bước để giải (xác suất bằng nhau đối với mỗi trạng thái). Ngoài ra:
-        - 4b3a) Đối với Giải Bịt Mắt, công thức tráo phải định hướng khối hình một cách ngẫu nhiên (xác suất đưa ra mỗi hướng là bằng nhau).
-        - 4b3b) Khối hình 2x2x2: Trạng thái (ngẫu nhiên) phải đòi hỏi tối thiếu 4 bước để giải.
-        - 4b3c) Skewb: Trạng thái (ngẫu nhiên) phải đòi hỏi tối thiểu 7 bước để giải.
-        - 4b3d) Square-1: Trạng thái (ngẫu nhiên) phải đòi hỏi tối thiểu 11 bước để giải.
-        - 4b3e) Khối hình 5x5x5, 6x6x6, 7x7x7, và Megaminx: một số bước tráo ngẫu nhiên (thay vì trạng thái ngẫu nhiên), tối thiểu 2 bước để giải.
-        - 4b3f) Pyraminx: Trạng thái (ngẫu nhiên) phải đòi hỏi tối thiếu 6 bước để giải.
-    - 4b4) Mỗi chuỗi công thức tráo phải được hoàn thành bởi người tráo trong vòng tối đa 2 giờ. Thời gian này bắt đầu từ lúc bắt đầu áp dựng chuỗi công thức lên khối hình.
-- 4d) Định hướng tráo:
-    - 4d1) Khối hình NxNxX và Megaminx được tráo bắt đầu với mặt trắng (nếu không thể, sử dụng mặt sáng màu nhất) ở phía trên và mặt xanh lá (nếu không thể, sử dụng mặt liền kề tối màu nhất) ở phía trước.
-    - 4d2) Pyraminx được tráo bắt đầu với mặt vàng (nếu không thể, sử dụng mặt sáng màu nhất) ở phía dưới và mặt xanh (nếu không thể, sử dụng mặt liền kề tối màu nhất) ở phía trước.
-    - 4d3) Square-1 được tráo bắt đầu với mặt màu tối hơn đặt ở phía trước (trong 2 hướng khả thi).
-    - 4d4) Clock được tráo bắt đầu với bất kì mặt nào trong 2 mặt, đặt ở phía trước và hướng 12 giờ chỉ lên trên.
-    - 4d5) Skewb được trái bắt đầu với mặt trắng (nếu không thể, sử dụng mặt sáng màu nhất) ở phía trên và mặt xanh (nếu không thể, sử dụng mặt liền kề tối màu nhất) ở mặt trái-trước.
-- 4f) Các chuỗi công thức tráo cho giải đấu phải được tạo bởi phiên bản chính thức hiện tại của phần mềm tráo WCA (có sẵn [trên trang chủ của WCA](https://www.worldcubeassociation.org/regulations/scrambles/)).
-- 4g) Sau khi tráo một khối hình, người tráo phải kiểm tra để xác nhận khối hình đã được tráo đúng như chuỗi công thức. Nếu trạng thái của khối hình không chính xác, người tráo phải sửa lại trạng thái (v.d. bằng cách giải khối hình và tráo lại theo công thức).
-    - 4g1) Ngoại lệ: Đối với khối hình 6x6x6, 7x7x7, và Megaminx, người tráo không nhất thiết phải sửa lại trạng thái của khối hình, dưới sự đồng ý của WCA Delegate.
+- 3a) Competitors must provide their own puzzles for the competition.
+    - 3a1) Competitors must be ready to submit their puzzles when they are called (see [Regulation 2u](regulations:regulation:2u)).
+    - 3a2) Puzzles must be fully operational, such that normal scrambling is possible.
+    - 3a3) Polyhedral puzzles must use a color scheme with one unique color per face in the solved state. Each puzzle variation must have moves, states, and solutions functionally identical to the original puzzle.
+    - 3a4) Puzzles must not have electronic components (e.g. Bluetooth or Wi-Fi capabilities, motors, sensors, lights). See [Regulation 2i](regulations:regulation:2i).
+- 3d) Puzzles must have colored parts, which define the color scheme of the puzzle and must be one and only one of the following: colored stickers, colored tiles, colored plastic, or painted/printed colors. All colored parts of a puzzle must be made of a similar material.
+    - 3d1) For competitors with a medically documented visual disability, the following exceptions apply:
+        - 3d1a) Blind competitors may use textured puzzles with different textures on different faces. Each face should have a distinct color, to aid in scrambling and judging.
+        - 3d1b) Color blind competitors who cannot distinguish between the necessary number of colors may use colored parts with patterns, if it has been explicitly approved according to [Regulation 2s](regulations:regulation:2s). Patterns may come from stickers or be drawn.
+    - 3d2) The colors of the colored parts must be solid, with one uniform color per face. Each color must be clearly distinct from the other colors.
+- 3h) Modifications that enhance the basic concept of a puzzle are not permitted. Modified versions of puzzles are permitted only if the modification does not make any additional information available to the competitor (e.g. orientation or identity of pieces), compared to an unmodified version of the same puzzle.
+    - 3h1) "Pillowed" puzzles are permitted.
+    - 3h2) Puzzles whose colored plastic is visible inside the puzzle (e.g. "stickerless" puzzles) are permitted. This does not include the following puzzles:
+        - 3h2a) Puzzles with transparent parts that can reveal more information about the state of the puzzle. Exception: An overlay sticker or a logo (see [Regulation 3l](regulations:regulation:3l)).
+    - 3h3) Any modifications to a puzzle that result in poor performance by a competitor are not grounds for additional attempts.
+    - 3h4) For Clock, custom "inserts" (the same shape and size as the traditional paper inserts) are permitted, at the discretion of the WCA Delegate. The inserts must have a clear indication of 12 o'clock that matches the original inserts.
+- 3j) Puzzles must be clean, and must not have any markings, elevated pieces, damage, or other differences that significantly distinguish any piece from a similar piece. Exception: a logo (see [Regulation 3l](regulations:regulation:3l)).
+    - 3j1) Puzzles are permitted to have reasonable wear, at the discretion of the WCA Delegate.
+    - 3j2) Definition: Two pieces are similar to each other if they are identical in shape and size, or mirrored in shape and identical in size.
+    - 3j3) Corrugated/textured parts which permit the orientation of pieces to be distinguished by feel are not permitted for blindfolded events.
+- 3k) Puzzles should be approved by the WCA Delegate before use in the competition.
+    - 3k1) If a non-permitted puzzle is found during a round, the competitor must not continue to use the puzzle, and must submit a replacement.
+    - 3k2) Penalty for attempts done with puzzles which are not permitted: disqualification of the attempt (DNF). The following exceptions apply:
+        - 3k2a) If a non-permitted puzzle is found before a round is complete, affected results in the round may be replaced with extra attempts, at the discretion of the WCA Delegate.
+        - 3k2b) 3x3x3 Multi-Blind: if any puzzles are found to be non-permitted, such puzzles may be individually counted as unsolved (without disqualifying the entire attempt), at the discretion of the WCA Delegate.
+- 3l) A puzzle may have a logo on a colored part. If it does, it must have at most one colored part with a logo. Exception: For blindfolded events, a puzzle must not have a logo.
+    - 3l1) The logo must be placed on a center piece. Exceptions for puzzles that do not have center pieces:
+        - 3l1a) For Pyraminx and 2x2x2, the logo may be on any piece.
+        - 3l1b) For Square-1, the logo must be on a piece in the equatorial slice.
+    - 3l2) The logo may be embossed, engraved, or consist of an overlay sticker.
+- 3m) All brands of puzzles and puzzle parts are permitted, as long as the puzzles comply with all WCA Regulations.
 
 
-## <article-5><puzzle-defects><puzzledefects> Mục 5: Khối hình biến dạng
+## <article-4><scrambling><scrambling> Article 4: Scrambling
 
-- 5a) Ví dụ về một khối hình biến dạng bao gồm: thành phần bị bung, vỡ, các viên bị xoay, lật tại chỗ, và ốc/miếng dán/viên nhựa bị rời.
-- 5b) Nếu một khối hình bị biến dạng giữa lượt giải, thí sinh có quyền chọn sửa phần biến dạng và tiếp tục, hoặc dừng lượt giải.
-    - 5b1) Nếu lựa chọn sửa khối hình, thí sinh chỉ được sửa phần biến dạng. Thí sinh không được dùng dụng cụ và/hoặc thành phần của khối hình khác để sửa khối hình gốc. Hình phạt: truất quyền thi đấu khỏi lượt thi (DNF).
-    - 5b2) Bất kỳ sự sửa chữa nào cũng không được tạo lợi thế dành cho thí sinh. Hình phạt: truất quyền thi đấu khỏi lượt thi (DNF).
-    - 5b3) Các hình thức sửa chữa được cho phép:
-        - 5b3a) Nếu có thành phần bị bung ra khỏi vị trí cố định, thí sinh có thể đặt lại đúng chỗ.
-        - 5b3b) Nếu, sau khi sửa khối hình và trước khi kết thúc lượt thi, nhận ra khối hình không thể giải được, thí sinh có thể tháo ra và lắp lại tối đa 4 viên để đưa khối hình vào trạng thái có thể giải.
-        - 5b3c) Nếu khối hình không thể giải được, và có thể đưa vào trạng thái có thể giải bằng cách vặn một viên góc, thí sinh có thể vặn lại góc mà không cần tháo khối hình.
-    - 5b4) Trong lúc giải bịt bắt (xem [Quy định B4](regulations:regulation:b4)), tất cả sửa chữa phải thực hiện trong lúc bịt mắt. Hình phạt: truất quyền thi đấu khỏi lượt thi (DNF).
-    - 5b5) Sau khi lượt thi kết thúc, nếu một số phần của khối hình bị rời hoặc không hoàn toàn cố định, các quy định sau sẽ có hiệu lực:
-        - 5b5a) Nếu một hoặc hơn một phần không mang màu bị ảnh hưởng, khối hình được coi là đã hoàn thành.
-        - 5b5b) Nếu một phần chỉ mang một màu bị ảnh hưởng, khối hình được coi là đã hoàn thành.
-        - 5b5c) Nếu hơn một phần chỉ mang một màu bị ảnh hưởng, khối hình được coi là chưa hoàn thành (DNF).
-        - 5b5d) Nếu một hoặc hơn một phần mang nhiều hơn một màu bị ảnh hưởng, khối hình được coi là chưa hoàn thành (DNF).
-        - 5b5e) Quy định [5b5c](regulations:regulation:5b5c) và [5b5d](regulations:regulation:5b5d) có hiệu lực hơn [5b5a](regulations:regulation:5b5a) và [5b5b](regulations:regulation:5b5b).
-
-
-## <article-7><environment><environment> Mục 7: Môi trường
-
-- 7b) Khán giả phải giữ khoảng cách tối thiểu là 1.5 mét khỏi khu vực thi đấu.
-- 7c) Ánh sáng ở địa điểm của giái đấu phải được đặc biệt chú ý. Ánh sáng phải vừa mắt, giúp cho thí sinh có thể phân biệt được các màu khác nhau của khối hình.
-- 7e) Không được hút thuốc ở địa điểm của giải đấu.
-- 7f) Khu vực thi đấu:
-    - 7f1) Định nghĩa:
-        - 7f1a) Stackmat: Đồng hồ bấm giờ loại Speed Stacks và thảm kê cỡ vừa trở lên
-        - 7f1b) Mat: Thảm kê mặt bàn
-        - 7f1c) Đồng hồ bấm giờ: loại Speed Stacks, hoặc đồng hồ cầm tay (cho những lượt thi đấu cần nhiều thời gian).
-        - 7f1d) Bề mặt: mặt phẳng để kê Stackmat. Thảm kê coi là một phần của bề mặt. Đồng hồ không được coi là một phần của bề mặt.
-    - 7f2) Đồng hồ Stackmat phải được gắn vào thảm kê và đặt trên bề mặt phẳng, và xoay thảm sao cho đồng hồ ở gần thí sinh nhất.
-        - 7f2a) Ngoại lệ: Đối với Giải Bằng Chân, Stackmat phải được đặt trực tiếp trên sàn nhà. Đồng hồ bấm giờ có thể được đặt trên thảm ở phía xa thí sinh nhất.
-- 7h) Địa điểm thi đấu phải có khu vực dành cho thí sinh.
-    - 7h1) Ban tổ chức có thể yêu cầu những thí sinh được gọi lên thi đấu tập trung ở khu vực dành cho thí sinh cho đến khi kết thúc vòng thi của mình.
+- 4a) A scrambler applies scramble sequences to the puzzles.
+- 4b) Puzzles must be scrambled using computer-generated random scramble sequences.
+    - 4b1) Generated scramble sequences must not be inspected before the competition, and must not be filtered or selected in any way by the WCA Delegate.
+    - 4b2) Scramble sequences for a group must be available only to the WCA Delegate before the start of that group, and only available to the WCA Delegate and the scramblers for the group until it is finished. Exception: For 3x3x3 Fewest Moves, competitors receive scramble sequences during the round (see [Article E](regulations:article:E)).
+        - 4b2a) The designated WCA Delegate for the competition must only give access to scramble sequences for future groups to other members of the organization team if they will be temporarily unavailable (e.g. competing themselves), and should give others access to the minimum possible amount of scrambles in this case.
+    - 4b3) Specification for a scramble program: An official scramble sequence must produce a random state from all states that require at least 2 moves to solve (equal probability for each state). The following additions/exceptions apply:
+        - 4b3a) For blindfolded events, the scramble sequence must orient the puzzle randomly (equal probability for each orientation).
+        - 4b3b) 2x2x2 Cube: The (random) state must require at least 4 moves to solve.
+        - 4b3c) Skewb: The (random) state must require at least 7 moves to solve.
+        - 4b3d) Square-1: The (random) state must require at least 11 moves to solve.
+        - 4b3e) 5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube, and Megaminx: sufficiently many random moves (instead of random state), at least 2 moves to solve.
+        - 4b3f) Pyraminx: The (random) state must require at least 6 moves to solve.
+    - 4b4) Each scramble sequence should be applied during a maximum time frame of 2 hours. This time frame starts when the scramble sequence is applied for the first time.
+- 4d) Scrambling orientation:
+    - 4d1) NxNxN Cubes and Megaminx are scrambled starting with the white face (if not possible, then the lightest face) on the top and the darkest adjacent green face (if not possible, then the darkest adjacent face) on the front.
+    - 4d2) Pyraminx is scrambled starting with the yellow face (if not possible, then the lightest face) on the bottom and the green face (if not possible, then the darkest adjacent face) on the front.
+    - 4d3) Square-1 is scrambled starting with the darker color on front (out of the 2 possible scrambling orientations).
+    - 4d4) Clock is scrambled starting with either side in front and 12 o'clock pointing up.
+    - 4d5) Skewb is scrambled starting with the white face (if not possible, then the lightest face) on top and the green face (if not possible, then the darkest adjacent face) on the front-left.
+- 4f) Competition scramble sequences must be generated using a current official version of an official WCA scramble program (available [via the WCA website](https://www.worldcubeassociation.org/regulations/scrambles/)).
+- 4g) After scrambling a puzzle, the scrambler must verify that the puzzle is scrambled correctly. If the puzzle state is wrong, the scrambler must correct it (e.g. by solving the puzzle and applying the scramble sequence again).
+    - 4g1) Exception: For the 6x6x6 Cube, 7x7x7 Cube, and Megaminx, it is not necessary to correct the puzzle state, at the discretion of the WCA Delegate.
 
 
-## <article-8><competitions><competitions> Mục 8: Giải đấu
+## <article-5><puzzle-defects><puzzledefects> Article 5: Puzzle Defects
 
-- 8a) Một giải đấu WCA chính thức phải:
-    - 8a1) Được duyệt bởi Ban Quản trị WCA.
-    - 8a2) Chấp hành các Quy định WCA.
-    - 8a3) Có sự tham gia của WCA Delegate.
-    - 8a4) Được thông báo trên trang chủ của WCA ít nhất bốn tuần trước khi giải đấu bắt đầu. Ngoại lệ: Trong trường hợp đặc biệt, giải đấu có thể được thông báo muộn nhất hai tuần trước khi diễn ra, dưới sự cho phép của Ban Quản trị WCA.
-    - 8a6) Dành cho tất cả mọi người.
-    - 8a7) Sử dụng đồng hồ bấm giờ chính hãng Speed Stacks (Gen 2, Gen 3 Pro, Gen 4 Pro) để tính thời gian.
-    - 8a8) Tất cả mọi người đều có thể tham gia thi đấu.
-- 8f) Nếu Quy định WCA không được thực hiện đúng trong khi giải đấu diễn ra, kết quả có thể được điều chỉnh theo quyết định của Ban Quản trị WCA.
-
-
-## <article-9><events><events> Mục 9: Nội dung thi đấu
-
-- 9a) WCA quản lý các giải đấu về các khối hình cơ học có thể điều khiển bằng cách xoay một số viên, hay còn được gọi là "khối hình xoay".
-- 9b) Các khối hình và hình thức thi đấu chính thức của WCA bao gồm:
-    - 9b1) 3x3x3, 2x2x2, 4x4x4, 5x5x5, Giải Một Tay, Giải Bằng Chân, Clock, Megaminx, Pyraminx, Skewb, và Square-1
-        - 9b1a) Hình thức thi đấu: "Trung bình 5 lượt", đối với vòng thi gộp hình thức thi đấu là "Thành tích tốt nhất trong 2 lượt" ở phần đầu và "Trung bình 5 lượt" ở phần hai. Ngoại lệ: Trong trường hợp đặc biệt, hình thức thi đấu của các nội dung trên có thể là "Thành tích tốt nhất trong X lượt" (trong đó X bằng 1, 2, hoặc 3), dưới sự cho phép của Ban Quản trị WCA.
-    - 9b2) Giải 3x3x3 Tối Ưu, 6x6x6, 7x7x7.
-        - 9b2a) Hình thức thi đấu: "Thành tích tốt nhất trong X lượt" (trong đó X bằng 1, 2, hoặc 3) và "Trung bình 3 lượt".
-    - 9b3) 3x3x3: Giải Bịt Mắt, 4x4x4: Giải Bịt Mắt, 5x5x5: Giải Bịt Mắt, và Giải Bịt Mắt Nhiều 3x3x3.
-        - 9b3a) Hình thức thi đấu: "Thành tích tốt nhất trong X lượt" (trong đó X bằng 1, 2, hoặc 3).
-        - 9b3b) Đối với 3x3x3: Giải Bịt Mắt, WCA cũng công nhận thành tích "Trung bình 3 lượt" để xếp hạng dựa vào thành tích từ vòng thi "Thành tích tốt nhất trong 3 lượt".
-- 9f) Kết quả của một vòng được tính như sau:
-    - 9f1) Tất cả các thành tích dưới 10 phút được ghi lại và rút gọn xuống hàng phần trăm giây. Tất cả các thành tích trung bình dưới 10 phút được tính và làm tròn đến hàng phần trăm giây gần nhất.
-    - 9f2) Tất cả các thành tích, trung bình trên 10 phút được tính và làm tròn đến hàng đơn vị giây gần nhất (v.d. x.4 trở thành x, x.5 trở thành x+1).
-    - 9f4) Kết quả của một lượt thi đấu bị đánh dấu DNF (Không hoàn thành) nếu thí sinh bị truất quyền hoặc chưa/không hoàn thành.
-    - 9f5) Kết quả của một lượt thi đấu bị đánh dấu DNS (Không bắt đầu) nếu thí sinh đủ điều kiện nhưng từ chối tham gia lượt thi đấu.
-    - 9f6) Đối với vòng thi "Thành tích tốt nhất trong X lượt", mỗi thí sinh có X lượt thi. Thành tích tốt nhất trong số đó được dùng để xếp hạng thí sinh trong vòng thi.
-    - 9f7) Đối với vòng thi "Thành tích tốt nhất trong X lượt", DNF hoặc DNS là kết quả kém nhất.
-    - 9f8) Đối với vòng thi "Trung bình 5 lượt", mỗi thí sinh có 5 lượt thi. Kết quả tốt và kém nhất được bỏ qua, và trung bình cộng của 3 thành tích còn lại được dùng để xếp hạng thí sinh trong vòng thi.
-    - 9f9) Đối với vòng thi "Trung bình 5 lượt", một thành tích DNF hoặc DNS được tính là kết quả kém nhất của thí sinh trong vòng thi. Nếu thí sinh có nhiều hơn một kết quả DNF và/hoặc DNF trong vòng thi, trung bình của cả vòng thi sẽ là DNF.
-    - 9f10) Đối với vòng thi "Trung bình 3 lượt", mỗi thí sinh có 3 lượt thi. Trung bình cộng của 3 thành tích được dùng để xếp hạng thí sinh trong vòng thi.
-    - 9f11) Đối với vòng thi "Trung bình 3 lượt", nếu thí sinh có ít nhất một kết quả DNF hoặc DNS, trung bình của cả vòng thi sẽ là DNF.
-    - 9f12) Đối vòng thi "Thành tích tốt nhất trong X lượt", thứ hạng được đánh giá dựa theo thành tích tốt nhất của mỗi thí sinh. Kết quả được so sánh như sau:
-        - 9f12a) Đối với thành tích thời gian, "tốt hơn" được định nghĩa là thời gian ngắn hơn.
-        - 9f12b) Đối với Giải Tối Ưu, "tốt hơn" được định nghĩa là lời giải có ít bước hơn.
-        - 9f12c) Đối với Giải Bịt Mắt Nhiều 3x3x3, thứ hạng được đánh giá dựa vào số lượng khối hình được hoàn thành trừ đi số lượng khối hình chưa hoàn thành, trong đó hiệu số càng lớn được coi là tốt hơn. Nếu hiệu số nhỏ hơn 0, hoặc chỉ có 1 khối hình được giải, lượt thi được đánh dấu chưa hoàn thành (DNF). Nếu thí sinh có cùng kết quả, thứ hạng được đánh giá dựa vào tổng thời gian, trong đó thời gian ngắn hơn được coi là tốt hơn. Nếu thí sinh có cùng kết quả và cùng thời gian, thứ hạng được đánh giá dựa vào số lượng khối hình mà thí sinh không hoàn thành, trong đó số lượng càng ít được coi là tốt hơn.
-    - 9f13) Đối với vòng thi "Trung bình 3 lượt" và "Trung bình 5 lượt", thứ hạng được đánh giá dựa vào thứ tự thành tích của thí sinh, trong đó "tốt hơn" được định nghĩa là thời gian ngắn hơn.
-    - 9f14) Đối với vòng thi "Trung bình 3 lượt" và "Trung bình 5 lượt", nếu hai hoặc nhiều hơn hai thí sinh có thành tích trung bình bằng nhau, thành tích được đánh giá dựa vào thành tích đơn tốt nhất của thí sinh, trong đó "tốt hơn" được định nghĩa là thời gian ngắn hơn.
-    - 9f15) Thí sinh có kết quả giống nhau trong vòng thi sẽ có thứ hạng giống nhau.
-- 9g) Một vòng thi gộp (Combined Round) bao gồm hai phần thi đấu, trong đó thí sinh được vào phần thứ hai nếu vượt qua được mốc thời gian được chỉ định ở phần đầu.
-    - 9g2) Việc xác định thí sinh có vào phần tiếp theo của một vòng thi gộp phải được quyết định bằng kết quả (tất cả các thí sinh với thành tích tốt hơn x) ở lượt đầu (xem [Quy định 9f12](regulations:regulation:9f12)).
-- 9i) Kết quả của giải đấu WCA chính thức phải được liệt kê trên bảng xếp hạng thế giới của WCA.
-    - 9i1) WCA công nhận các loại kỷ lục sau: kỷ lục quốc gia, kỷ lục châu lục, và kỷ lục thế giới.
-    - 9i2) Tất cả các thành tích trong một vòng thi được coi là diễn ra tại ngày dương lịch cuối cùng của vòng thi. Nếu một kỷ lục được phá nhiều lần trong cùng một ngày dương lịch, chỉ có kết quả tốt nhất được công nhận là kỷ lục mới.
-    - 9i3) Nếu Quy định WCA của một nội dung được thay đổi, kỷ lục vẫn được giữ nguyên cho đến khi bị phá trong lúc Quy định WCA mới có hiệu lực.
-- 9j) Mỗi nội dung chỉ được tổ chức tối đa một lần tại mỗi giải đấu.
-- 9k) Tất cả các thí sinh đều có thể tham gia mọi nội dung trong một giải đấu, ngoại trừ trường hợp đặc biệt được chỉ định bởi Ban Quản trị WCA.
-- 9l) Mỗi vòng thi phải được hoàn thành trước khi vòng thi tiếp theo của cùng nội dung bắt đầu.
-- 9m) Các nội dung chỉ được có tối đa bốn vòng thi.
-    - 9m1) Vòng thi với 99 thí sinh trở xuống chỉ được có tối đa hai vòng kế tiếp.
-    - 9m2) Vòng thi với 15 thí sinh trở xuống chỉ được có tối đa một vòng kế tiếp.
-    - 9m3) Vòng thi với 7 thí sinh trở xuống không được có vòng kế tiếp.
-- 9o) Vòng thi gộp được tính là một vòng khi tính số lượng vòng thi của mỗi nội dung.
-- 9p) Nếu một nội dung có nhiều vòng thi, thì:
-    - 9p1) Ít nhất 25% thí sinh phải bị loại giữa hai vòng liền kề của cùng nội dung.
-    - 9p2) Thí sinh được vào vòng tiếp theo phải được xác định bằng thứ hạng (x thí sinh tốt nhất) hoặc bằng kết quả (tất cả các thí sinh với thành tích tốt hơn x) ở vòng thi trước đó.
-        - 9p2a) Đối với mỗi vòng thi, điều kiện để vào vòng trong phải được thông báo trước khi vòng thi bắt đầu, và không nên thay đổi sau đó. Bất kỳ sự thay đổi nào đều phải có sự cho phép của WCA Delegate, người có trách nhiệm cân nhắc tính công bằng của sự thay đổi đó.
-     - 9p3) Nếu một thí sinh đủ điều kiện rút khỏi vòng thi, thí sinh xếp hạng cao nhất mà trước đó không đủ điều kiện có thể thay thế để vào vòng tiếp theo.
-- 9s) Mỗi vòng thi của mỗi nội dung đều phải có giới hạn thời gian (xem [Quy định A1a](regulations:regulation:A1a)).
+- 5a) Examples of puzzle defects include: popped parts, pieces twisted in place, and detached screws/caps/stickers.
+- 5b) If a puzzle defect occurs during an attempt, the competitor may choose to either repair the defect and continue the attempt, or to stop the attempt.
+    - 5b1) If a competitor chooses to repair the puzzle, they must repair only the defective parts. Tools and/or parts of other puzzles must not be used to repair the original puzzle. Penalty: disqualification of the attempt (DNF).
+    - 5b2) Any repair to a puzzle must not give the competitor an advantage in solving the puzzle. Penalty: disqualification of the attempt (DNF).
+    - 5b3) Permitted repairs:
+        - 5b3a) If any parts have fallen out or moved out of place, the competitor may place them back.
+        - 5b3b) If the competitor repairs the puzzle but finds that the puzzle is unsolvable later during the solve, they may disassemble and reassemble a maximum of 4 pieces to make the puzzle solvable.
+        - 5b3c) If the puzzle is unsolvable, and can be made solvable by rotating a single corner piece, the competitor may correct the corner piece by twisting it in place without disassembling the puzzle.
+    - 5b4) During a blindfolded phase (see [Regulation B4](regulations:regulation:b4)), all repairs must be performed blindfolded. Penalty: disqualification of the attempt (DNF).
+    - 5b5) If some parts of the puzzle are physically detached or not fully placed at the end of the solve, the following regulations apply:
+        - 5b5a) If one or more parts without colored faces are affected, the puzzle is considered solved.
+        - 5b5b) If one part with one colored face is affected, the puzzle is considered solved.
+        - 5b5c) If more than one part with one colored face is affected, the puzzle is considered unsolved (DNF).
+        - 5b5d) If one or more parts with more than one colored face are affected, the puzzle is considered unsolved (DNF).
+        - 5b5e) Regulations [5b5c](regulations:regulation:5b5c) and [5b5d](regulations:regulation:5b5d) supersede [5b5a](regulations:regulation:5b5a) and [5b5b](regulations:regulation:5b5b).
 
 
-## <article-10><solved-state><solvedstate> Mục 10: Trạng thái hoàn thành
+## <article-7><environment><environment> Article 7: Environment
 
-- 10b) Khối hình chỉ được xem xét trong trạng thái tĩnh, sau khi đồng hồ bấm giờ đã được dừng.
-- 10c) Khối hình có thể hướng về bất cứ hướng nào ở cuối lượt thi.
-- 10d) Tất cả thành phần của một khối hình phải không bị rời ra và ở đúng vị trí. Ngoại lệ: xem [quy định 5b5](regulations:regulation:5b5).
-- 10e) Một khối hình được hoàn thành khi tất cả các phần mang màu được đưa về đúng vị trí và thẳng hàng trong giới hạn được quy định như sau:
-    - 10e1) Đối với các phần liền kề (v.d. hai tầng song song, liền nhau của khối lập phương) không thẳng hàng trong giới hạn được quy định trong [Quy định 10f](regulations:regulation:10f), khối hình được coi là cần thêm một bước để hoàn thành (xem "Hệ đo bước các tầng ngoài" trong [Mục 12](regulations:article:12)).
-    - 10e2) Nếu không cần thêm bước nào để đưa khối hình về trạng thái hoàn thành, khối hình được tính là đã được giải và không có hình phạt.
-    - 10e3) Nếu cần một bước, khối hình được tính là đã được giải cùng với hình phạt về thời gian (+2 giây).
-    - 10e4) Nếu cần hơn một bước, khối hình được tính là chưa hoàn thành (DNF).
-- 10f) Giới hạn thẳng hàng được chấp nhận của khối hình:
-    - 10f1) NxNxN: tối đa 45 độ.
-    - 10f2) Megaminx: tối đa 36 độ.
-    - 10f3) Pyraminx và Skewb: tối đa 60 độ.
-    - 10f4) Square-1: tối đa 45 độ (U/D) hoặc 90 độ (/).
-- 10h) Khối hình không được liệt kê trong mục này sẽ được đánh giá là hoàn thành theo như quy ước của khối hình.
-    - 10h1) Trạng thái hoàn thành của Clock là khi tất cả các đồng hồ con chỉ về hướng 12 giờ.
+- 7b) Spectators must remain at least 1.5 meters away from the solving stations when they are in use.
+- 7c) Lighting of the competition area must be given special attention. Lighting should be neutral, such that competitors can easily differentiate among the colors on the puzzles.
+- 7e) The competition area must be smoke-free.
+- 7f) Solving station:
+    - 7f1) Definitions:
+        - 7f1a) Stackmat: The Speed Stacks Stackmat timer and a full-size compatible mat. Generation 2, Generation 3 Pro Timer, or/and Generation 4 Pro Timer must be used for time measurement.
+        - 7f1b) Mat: The mat of the Stackmat.
+        - 7f1c) Timer: The timer of the Stackmat, or a stopwatch (for longer attempts).
+        - 7f1d) Surface: The flat surface on which the Stackmat has been placed. The mat is considered a part of the surface. The timer is not considered a part of the surface.
+    - 7f2) The Stackmat timer must be attached to the mat and placed on the surface, with the timer on the side of the mat nearest to the competitor.
+    - 7f3) The organization team should modify Stackmat timers to be more robust against common incidents, by making the buttons more difficult to press by accident (e.g. by attaching O-rings around the buttons) and securing the battery more firmly (e.g. by padding the battery compartment).
+- 7h) The competition area must have one or more Competitors Areas (superseded by [Regulation Y6a](regulations:regulation:Y6a)).
+    - 7h1) The organization team may require that a competitor who has been called to compete must remain within their assigned Competitors Area until the competitor has finished all attempts for the round.
 
 
-## <article-11><incidents><incidents> Mục 11: Sự cố
+## <article-9><events><events> Article 9: Events
 
-- 11a) Các kiểu sự cố bao gồm:
-    - 11a1) Điều hành, xử lý sai khi tham gia giải đấu, bởi thành viên chính thức hoặc thí sinh.
-    - 11a2) Gián đoạn về cơ sở vật chất (v.d. mất điện, báo động khẩn cấp).
-    - 11a3) Thiết bị hư hỏng.
-- 11b) Nếu sự cố xảy ra, WCA Delegate sẽ đưa ra quyết định công bằng và phù hợp.
-- 11d) Nếu Quy định WCA đưa ra không thực sự rõ ràng hoặc nếu sự cố không được nhắc đến trong Quy định WCA, WCA Delegate phải đưa ra quyết định dựa trên tinh thần thượng võ (xem [Quy định 11e3](regulations:regulation:11e3)).
-- 11e) Nếu sự cố xảy ra giữa lượt thi, WCA Delegate có thể cho phép thí sinh lượt thi bổ sung, để thay thế cho lượt thi gặp sự cố. Thí sinh phải báo với trọng tài WCA Delegate (nói hoặc viết) tại thời điểm xảy ra sự cố. Thông báo không đảm bảo cho thí sinh có thêm lượt thi bổ sung.
-    - 11e1) Nếu thí sinh được thi bổ sung, lượt thi phải được tráo bằng một chuỗi công thức tráo khác. Chuỗi công thức tráo này phải được tạo ra bằng phiên bản chính thức của phần mềm tráo của WCA (xem [Quy định 4f](regulations:regulation:4f)).
-    - 11e2) Nếu thí sinh được thi bổ sung, lượt thi phải được tiến hành ngay sau lượt thi cần thay thế, và số thứ tự cũng thay thế cho lượt thi cũ.
-    - 11e3) Trong tình huống không rõ ràng liệu thí sinh có được lượt thi bổ sung hay không, thí sinh có thể nhận được một lượt thi bổ sung khi và chỉ khi lượt thi bổ sung được chấp nhận (v.d. do quyết định của WRC).
-- 11f) Quyết định liên quan đến sự cố có thể được củng cố qua phân tích video hoặc hình ảnh, dưới sự cho phép của WCA Delegate.
-
-
-## <article-12><notation><notation> Mục 12: Ký hiệu
-
-- 12a) Ký hiệu đối với khối hình NxNxN:
-    - 12a1) Xoay các mặt:
-        - 12a1a) Theo chiều kim đồng hồ, 90 độ: F (mặt trước), B (mặt sau), R (mặt phải), L (mặt trái), U (mặt trên), D (mặt dưới).
-        - 12a1b) Ngược chiều kim đồng hồ, 90 độ: F', B', R', L', U', D'.
-        - 12a1c) 180 độ: F2, B2, R2, L2, U2, D2.
-    - 12a2) Xoay nhiều tầng (mặt ngoài cùng tầng giữa liền kề; n được định nghĩa bằng tổng số tầng cần xoay; có thể bỏ qua đối với 2 tầng)
-        - 12a2a) Theo chiều kim đồng hồ, 90 độ: nFw, nBw, nRw, nLw, nUw, nDw.
-        - 12a2b) Ngược chiều kim đồng hồ, 90 độ: nFw', nBw', nRw', nLw', nUw', nDw'.
-        - 12a2c) 180 độ: nFw2, nBw2, nRw2, nLw2, nUw2, nDw2.
-    - 12a3) Hệ đo bước các tầng ngoài (Outer Block Turn Metric) được định nghĩa như sau:
-        - 12a3a) Mỗi bước xoay được định nghĩa trong phần Xoay các mặt và Xoay nhiều tầng được tính là 1 bước.
-        - 12a3b) Mỗi bước chuyển hướng khối hình được tính là 0 bước.
-- 12b) Chuyển hướng khối hình NxNxN:
-    - 12b1) Theo chiều kim đồng hồ, 90 độ: [f] hoặc z, [b] hoặc z', [r] hoặc x, [l] hoặc x', [u] hoặc y, [d] hoặc y'.
-    - 12b2) Ngược chiều kim đồng hồ, 90 độ: [f'] hoặc z', [b'] hoặc z, [r'] hoặc x', [l'] hoặc x, [u'] hoặc y', [d'] hoặc y.
-    - 12b3) 180 độ: [f2] hoặc z2, [b2] hoặc z2, [r2] hoặc x2, [l2] hoặc x2, [u2] hoặc y2, [d2] hoặc y2.
-- 12c) Ký hiệu đối với Square-1:
-    - 12c1) Trong trạng thái ban đầu, khối hình sẽ được xoay với mặt nhỏ hơn của tầng xích đạo nằm về phía bên trái của mặt trước.
-    - 12c2) (x, y) có nghĩa: xoay tầng trên 30 độ x lần theo chiều kim đồng hồ, xoay tầng dưới 30 độ y lần theo chiều kim đồng hồ. x và y phải là số nguyên từ -5 đến 6, và không được đồng thời bằng 0.
-    - 12c3) "/" có nghĩa: xoay nửa bên phải của khối hình 180 độ.
-    - 12c4) Hệ đo bước đối với Square-1: (x, y) tính là một bước, "/" tính là một bước.
-- 12d) Ký hiệu đối với Megaminx (ký hiệu tráo):
-    - 12d1) Xoay các mặt:
-        - 12d1a) Theo chiều kim đồng hồ, 72 độ: U (mặt trên).
-        - 12d1b) Ngược chiều kim đồng hồ, 72 độ: U' (mặt trên).
-    - 12d2) Các ký hiệu khác được áp dụng bằng cách giữ nguyên 3 viên ở mặt trên bên trái cố định và xoay phần còn lại của khối hình:
-        - 12d2c) 144 độ theo chiều kim đồng hồ ngoại trừ mặt chứa 3 viên ở phía trên bên trái: R++ (mặt nằm dọc), D++ (mặt nằm ngang).
-        - 12d2d) 144 độ ngược chiều kim đồng hồ ngoại trừ mặt chứa 3 viên ở phía trên bên trái: R-- (mặt nằm dọc), D-- (mặt nằm ngang).
-- 12e) Ký hiệu đối với Pyraminx:
-    - 12e1) Khối hình được định hướng với mặt đáy nằm ngang hoàn toàn và mặt trước đối diện với người giữ khối hình.
-    - 12e2) Theo chiều kim đồng hồ, 120 độ: U (2 tầng trên), L (2 tầng trái), R (2 tầng phải), B (2 tầng sau), u (đỉnh trên), l (đỉnh dưới), r (đỉnh phải), b (đỉnh trái).
-    - 12e3) Ngược chiều kim đồng hồ, 120 độ: U' (2 tầng trên), L' (2 tầng trái), R' (2 tầng phải), B' (2 tầng sau), u' (đỉnh trên), l' (đỉnh dưới), r' (đỉnh phải), b' (đỉnh trái).
-- 12g) Ký hiệu đối với Clock:
-    - 12g1) Khối hình được đặt để 12 giờ hướng lên trên, và bất kì mặt nào ở phía trước.
-    - 12g2) Nhả nút ghim: UR (trên-phải), DR (dưới-phải), DL (dưới-trái), UL (trên-trái), U (trên), R (phải), D (dưới), L (trái), ALL (tất cả).
-    - 12g3) Xoay bánh răng cạnh nút ghim đang nhả và sau đó ghim tất cả các nút: x+ (theo chiều kim đồng hồ x lần), x- (ngược chiều kim đồng hồ x lần).
-    - 12g4) Đổi mặt khối hình sao cho 12 giờ vẫn hướng lên trên, sau đó ghim tất cả các nút: y2.
-- 12h) Ký hiệu đối với Skewb:
-    - 12h1) Khối hình được định hướng sao cho nhìn thấy được ba mặt, với mặt trên ở trên cùng.
-    - 12h2) Theo chiều kim đồng hồ, 120 độ: R (tầng xung quanh đỉnh dưới-phải xa nhất trong tầm nhìn), U (tầng xung quanh đỉnh trên xa nhất trong tầm nhìn), L (tầng xung quanh đính dưới-trái xa nhất trong tầm nhìn), B (tầng xung quanh đỉnh xa nhất ở phía sau không trong tầm nhìn).
-    - 12h3) Ngược chiều kim đồng hồ, 120 độ: R' (tầng xung quanh đỉnh dưới-phải xa nhất trong tầm nhìn), U' (tầng xung quanh đỉnh trên xa nhất trong tầm nhìn), L' (tầng xung quanh đính dưới-trái xa nhất trong tầm nhìn), B' (tầng xung quanh đỉnh xa nhất ở phía sau không trong tầm nhìn).
+- 9a) The WCA governs competitions for mechanical puzzles that are operated by twisting groups of pieces, commonly known as "twisty puzzles".
+- 9b) The official events of the WCA are:
+    - 9b1) 3x3x3 Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, 3x3x3 One-Handed, Clock, Megaminx, Pyraminx, Skewb, and Square-1.
+        - 9b1a) Full round format for these events: "Average of 5".
+        - 9b1b) Cutoff format for these events: "Best of 2" cutoff phase for "Average of 5".
+    - 9b2) 6x6x6 Cube and 7x7x7 Cube.
+        - 9b2a) Full round format for these events: "Mean of 3".
+        - 9b2b) Cutoff format for these events: "Best of 1" cutoff phase for "Mean of 3".
+    - 9b3) 3x3x3 Blindfolded, 4x4x4 Blindfolded, 5x5x5 Blindfolded.
+        - 9b3a) Full round format for these events: "Best of 3".
+        - 9b3b) For these events, the WCA also recognizes "Mean of 3" rankings and records based on the times from "Best of 3" rounds.
+    - 9b4) 3x3x3 Fewest Moves.
+        - 9b4a) Full round formats for this event: Best of X" (where X is 1 or 2) or "Mean of 3".
+        - 9b4b) Cutoff formats for this event: "Best of 1" cutoff phase for "Best of 2" or "Best of X" (where X is 1 or 2) cutoff phase for "Mean of 3".
+    - 9b5) 3x3x3 Multi-Blind
+        - 9b5a) Full round formats for this event: "Best of X" (where X is 1, 2, or 3).
+        - 9b5b) Cutoff formats for this event: "Best of X" (where X is 1 or 2) cutoff phase for "Best of Y" (where Y is 2 or 3, and Y > X).
+- 9f) The results of a round are measured as follows:
+    - 9f1) All timed results under 10 minutes, except for 3x3x3 Multi-Blind, are measured and truncated to the nearest hundredth of a second. All timed averages and means under 10 minutes are measured and rounded to the nearest hundredth of a second.
+    - 9f2) All timed results, averages, and means over 10 minutes, as well as all times for 3x3x3 Multi-Blind results, are measured and rounded to the nearest second (e.g. x.49 becomes x, x.50 becomes x+1).
+    - 9f4) The result of an attempt is recorded as DNF (Did Not Finish) if the attempt is disqualified or unsolved/unfinished.
+    - 9f5) The result of an attempt is recorded as DNS (Did Not Start) if the competitor is eligible for an attempt but declines it.
+    - 9f6) For "Best of X" rounds, each competitor is allotted X attempts. The best result of these attempts determines the competitor's ranking in the round.
+    - 9f7) For "Best of X" rounds, a DNF or DNS is the worst possible result.
+    - 9f8) For "Average of 5" rounds, competitors are allotted 5 attempts. Of these 5 attempts, the best and worst attempts are removed, and the arithmetic mean of the remaining 3 attempts determines the competitor's ranking in the round.
+    - 9f9) For "Average of 5" rounds, one DNF or DNS is permitted to count as the competitor's worst result of the round. If a competitor has more than one DNF and/or DNS result in the round, their average result for the round is DNF.
+    - 9f10) For "Mean of 3" rounds, competitors are allotted 3 attempts. The arithmetic mean of the 3 attempts determines the competitor's ranking in the round.
+    - 9f11) For "Mean of 3" rounds, if the competitor has at least one DNF or DNS result, their average result for the round is DNF.
+    - 9f12) For "Best of X" rounds, rankings are assessed based on the best result per competitor. The following are used to compare results:
+        - 9f12a) For timed results, "better" is defined as the shorter time.
+        - 9f12b) For 3x3x3 Fewest Moves, "better" is defined as the shorter solution length.
+        - 9f12c) For 3x3x3 Multi-Blind, rankings are assessed based on the number of puzzles solved minus the number of puzzles not solved, where a greater difference is better. If the difference is less than 0, or if only 1 puzzle is solved, the attempt is considered unsolved (DNF). If competitors achieve the same result, rankings are assessed based on total time, where the shorter recorded time is better. If competitors achieve the same result and the same time, rankings are assessed based on the number of puzzles the competitors failed to solve, where fewer unsolved puzzles are better.
+    - 9f13) For "Mean of 3" and "Average of 5" rounds, rankings are assessed based on the ordering of the averages/means of the competitors, where "better" is the smaller recorded result.
+    - 9f14) For "Mean of 3" and "Average of 5" rounds, if two or more competitors achieve identical average/mean results, rankings are assessed based on the best attempt per competitor, where "better" is defined as the smaller recorded result.
+    - 9f15) Competitors who achieve the same result in a round receive an identical ranking for the round.
+- 9g) A Cutoff Round is a round with a "Best of X" cutoff phase and a cutoff result (e.g. "Best of 2" with a cutoff result of 2 minutes). If the competitor meets the cutoff result in at least one of their cutoff phase attempts, they are eligible for the remaining attempts. Attempts from the cutoff phase count towards the full round format.
+- 9i) Results of official WCA competitions must be listed on the WCA world rankings.
+    - 9i1) The WCA recognizes the following types of regional records: national records, continental records, and world records.
+    - 9i2) All the results of a round are considered to take place on the last calendar date of the round. If a regional record is broken multiple times on the same calendar date, only the best result is recognized as breaking that regional record.
+    - 9i3) If the WCA Regulations for an event are changed, existing regional records stand until they are broken under the new WCA Regulations.
+- 9j) Each event must be held at most once per competition.
+- 9k) All competitors may participate in all events of a competition, except in cases specifically approved by the Board.
+- 9l) Each round must be completed before any following round of the same event can start.
+- 9m) Events must have at most four rounds.
+    - 9m1) Rounds with 99 or fewer competitors must have at most two subsequent rounds.
+    - 9m2) Rounds with 15 or fewer competitors must have at most one subsequent round.
+    - 9m3) Rounds with 7 or fewer competitors must not have subsequent rounds.
+- 9o) Cutoff rounds count as one round when counting the number of rounds per event.
+- 9p) If an event has multiple rounds, then:
+    - 9p1) At least 25% of competitors must be eliminated between consecutive rounds of the same event.
+    - 9p2) The competitors who advance to the next round must be determined by ranking (best x competitors) or by result (all competitors with a better result than x) in the preceding round.
+        - 9p2a) For each round, advancement conditions must be announced before the round starts, and should not be changed after it has begun. Changes must be made at the discretion of the WCA Delegate, who must carefully consider the fairness of the change.
+    - 9p3) If a qualifying competitor withdraws from a round, they may be replaced by the best-ranked non-qualifying competitor from the preceding round.
+- 9s) Each round of each event must have a time limit (see [Regulation A1a](regulations:regulation:A1a)).
 
 
-## <article-A><speedsolving><speedsolving> Mục A: Giải Tốc độ
+## <article-10><solved-state><solvedstate> Article 10: Solved State
 
-- A1) Các lượt Giải Tốc độ phải tuân theo những quy trình sau:
-    - A1a) Ban tổ chức phải đặt giới hạn thời gian cho mỗi lượt giải và/hoặc vòng thi.
-        - A1a1) Giới hạn thời gian mặc định cho mỗi lượt giải là 10 phút, nhưng ban tổ chức có thể đặt giới hạn cao hơn hoặc thấp hơn.
-        - A1a2) Có thể đặt giới hạn thời gian tổng (v.d. 3 lượt thi với giới hạn thời gian tổng là 20 phút, xem [Quy định A1a5](regulations:regulation:A1a5)). Thời gian của một kết quả DNF vẫn được tính vào tổng thời gian.
-        - A1a3) Với mỗi vòng, mọi giới hạn thời gian đều phải được thông báo trước khi vòng thi bắt đầu, và không nên thay đổi sau đó. Bất kỳ sự thay đổi nào đều phải có sự cho phép của WCA Delegate, người có trách nhiệm cân nhắc tính công bằng của sự thay đổi đó.
-        - A1a4) Thí sinh phải hoàn thành phần thi trước thời gian giới hạn. Nếu thí sinh đạt đến thời gian giới hạn của lượt thi/vòng thi, trọng tài sẽ lập tức dừng lượt giải và đánh dấu kết quả là DNF. Ngoại lệ: Giải Bịt mắt nhiều 3x3x3 (xem [Quy định H1b1](regulations:regulation:H1b1)).
-        - A1a5) Lượt giải được coi là trong giới hạn thời gian khi và chỉ khi kết quả cuối cùng, sau khi đã cộng thời gian phạt, vẫn nằm trong giới hạn thời gian. Ngoại lệ: Giải Bịt mắt nhiều 3x3x3 (xem [Quy định H1b1](regulations:regulation:H1b1)).
-    - A1b) Nếu giới hạn thời gian của một lượt giải lớn hơn 10 phút, đồng hồ bấm giờ phải được sử dụng để theo dõi thời gian.
-        - A1b1) Stackmat phải được sử dụng cùng đồng hồ bấm giờ. Ngoại lệ: những nội dung không bao gồm thời gian quan sát, trong đó thí sinh có khả năng hoàn thành vượt quá 10 phút, việc sử dụng Stackmat là không bắt buộc.
-        - A1b2) Nếu có kết quả thời gian trong Stackmat, đó sẽ là kết quả gốc được ghi lại. Nếu không, sử dụng thời gian trong đồng hồ bấm giờ để ghi kết quả.
-    - A1c) Thí sinh tham gia vào một nội dung phải có khả năng hoàn thành yêu cầu của nội dung (v.d. biết cách giải khối hình). Thí sinh không được tham gia để cố tình đạt thành tích kém hoặc DNF. Hình phạt: truất quyền khỏi lượt thi (DNF) hoặc truất quyền thi đấu khỏi nội dung (xem [Quy định 2j](regulations:regulation:2j)), theo quyết định của WCA Delegate.
-- A2) Tráo:
-    - A2a) Khi được gọi tên trong một vòng thi, thí sinh nộp khối hình, trong trạng thái hoàn thành, cho người tráo. Thí sinh sau đó chờ trong Khu vực thi đấu đến khi được gọi lên thi đấu.
-    - A2b) Người tráo sẽ tráo khối hình theo như các quy định trong [Mục 4](regulations:article:4).
-        - A2b1) Đối với Square-1, ban tổ chức có thể kẹp một vật mỏng vào khối hình để chặn việc khối hình tình cờ bị xê dịch trước lượt thi. Nếu bất kỳ vật nào được sử dụng, ban tổ chức phải thông báo trước khi vòng thi bắt đầu.
-    - A2c) Sau khi người tráo bắt đầu tráo khối hình, thí sinh không được nhìn khối hình cho đến khi thời gian quan sát bắt đầu.
-        - A2c1) Người tráo đặt dụng cụ để che khối hình sao cho thí sinh hay khán giả không thể nhìn thấy bất kỳ phần nào của khối hình. Dụng cụ che được giữ nguyên cho đến khi lượt thi bắt đầu.
-    - A2d) Khi lấy khối hình từ người tráo, trọng tài nhìn qua khối hình để đảm bảo khối hình đã được tráo. Trọng tài báo người tráo nếu có vấn đề, để người tráo kiểm tra lại kỹ hơn.
-        - A2d1) Ban tổ chức có thể yêu cầu người tráo làm thêm một số bước để đảm bảo đã làm đúng theo chuỗi công thức tráo (v.d. ký vào phiếu ghi kết quả để xác nhận rằng đã sử dụng đúng chuỗi công thức tráo và khối hình khớp với hình ảnh trong phần mềm, hoặc sử dụng thêm người để kiểm tra quá trình tráo).
-    - A2e) Trọng tài đặt khối hình ở vị trí bất kỳ trên thảm trong lúc đảm bảo khối hình vẫn được che hoàn toàn.
-        - A2e1) Thí sinh không có quyền yêu cầu một định hướng nhất định nào của khối hình, và trọng tài không được cố tình định hướng khối hình trên thảm.
-- A3) Quan sát:
-    - A3a) Thí sinh có thể quan sát khối hình khi bắt đầu mỗi lượt thi.
-        - A3a1) Thí sinh có 15 giây để quan sát khối hình và chuẩn bị bắt đầu lượt giải.
-    - A3b) Trọng tài chuẩn bị đồng hồ bấm giờ bằng cách bật sẵn và khởi động lại nếu cần thiết. Ngoài ra, trọng tài cũng chuẩn bị đồng hồ bấm giờ để tính thời gian quan sát.
-        - A3b1) Khi trọng tài thấy thí sinh đã sẵn sàng, trọng tài hỏi thí sinh để xác nhận. Thí sinh phải sẵn sàng bắt đầu lượt thi trong vòng một phút kể từ khi được gọi tên, nếu không thí sinh sẽ được coi như bỏ lượt thi (DNS), theo quyết định của trọng tài.
-        - A3b2) Thí sinh bắt đầu lượt thi bằng cách xác nhận đã sẵn sàng, trọng tài bỏ che khối hình và bắt đầu tính thời gian quan sát.
-    - A3c) Thí sinh có thể cầm khối hình trong khi quan sát.
-        - A3c1) Thí sinh không được xoay khối hình khi đang quan sát. Hình phạt: truất quyền thi đấu khỏi lượt thi (DNF).
-        - A3c2) Nếu thành phần của khối hình không được thẳng hàng, thí sinh có thể điều chỉnh lại, với điều kiện phần không được thẳng hàng nằm trong giới hạn như [Mục 10f](regulations:regulation:10f).
-        - A3c3) Thí sinh có thể khởi động lại đồng hồ bấm giờ trước khi bắt đầu lượt thi.
-        - A3c4) Đối với Square-1, nếu vật mỏng được sử dụng bởi ban tổ chức trong lúc tráo (xem [Quy định A2b1](regulations:regulation:A2b1)), thí sinh có thể bỏ vật đó khỏi khối hình trong lúc quan sát.
-    - A3d) Sau khi quan sát, thí sinh đặt khối hình lên thảm, ở bất kỳ định hướng nào. Hình phạt nếu đặt khối hình ngoài thảm: hình phạt thời gian (+2 giây).
-        - A3d2) Sau 8 giây quan sát, trọng tài thông báo "8 GIÂY".
-        - A3d3) Sau 12 giây quan sát, trọng tài thông báo "12 GIÂY".
-- A4) Bắt đầu lượt giải:
-    - A4b) Thí sinh dùng ngón tay để chạm phần bề mặt cảm ứng của đồng hồ bấm giờ. Bàn tay của thí sinh phải úp xuống, và phải ở phía gần thí sinh hơn so với đồng hồ bấm giờ. Hình phạt: hình phạt thời gian (+2 giây).
-        - A4b1) Thí sinh không được chạm vào khối hình sau khi quan sát và trước khi bắt đầu lượt giải. Hình phạt: hình phạt thời gian (+2 giây).
-    - A4d) Nếu Stackmat được sử dụng, thí sinh bắt đầu lượt giải sau khi đèn xanh sáng lên và bỏ tay khỏi phần cảm ứng của đồng hồ (bắt đầu tính giờ).
-        - A4d1) Thí sinh phải bắt đầu giải trong vòng 15 giây từ khi bắt đầu quan sát. Hình phạt: hình phạt thời gian (+2 giây).
-        - A4d2) Thí sinh phải bắt đầu giải trong vòng 17 giây từ khi bắt đầu quan sát. Hình phạt: truất quyền thi đấu khỏi lượt thi (DNF).
-        - A4d3) Nếu đồng hồ bấm giờ được sử dụng, trọng tài bắt đầu bấm giờ khi thí sinh bắt đầu giải.
-    - A4e) Hình phạt thời gian khi bắt đầu lượt giải có thể được cộng dồn.
-- A5) Trong lượt giải:
-    - A5a) Khi quan sát hoặc giải khối hình, thí sinh không được trao đổi với bất kỳ ai ngoài trọng tài hoặc WCA Delegate. Hình phạt: truất quyền thi đấu khỏi lượt thi (DNF).
-    - A5b) Khi quan sát hoặc giải khối hình, thí sinh không được nhận hỗ trợ từ bất kỳ ai hoặc bất kỳ vật dụng gì ngoại trừ bề mặt (xem [Quy định 2i](regulations:regulation:2i)). Hình phạt: truất quyền thi đấu khỏi lượt thi (DNF).
-- A6) Kết thúc lượt giải:
-    - A6a) Thí sinh kết thúc lượt giải bằng cách thả khối hình và dừng đồng hồ Stackmat. Nếu sử dụng đồng hồ bấm giờ, trọng tài dừng đồng hồ ngay khi thí sinh thả khối hình.
-        - A6a1) Nếu chỉ sử dụng đồng hồ bấm giờ, thí sinh kết thúc lượt giải bằng cách thả khối hình và thông báo trọng tài rằng đã hoàn thành lượt giải. Nếu trọng tài xác định rằng thí sinh chủ động dừng đồng hồ, thí sinh từ bỏ quyền có thêm lượt giải thay thế.
-        - A6a2) Nếu chỉ sử dụng đồng hồ bấm giờ, cách mặc định để thí sinh thông báo đã hoàn thành lượt giải là thả khối hình và đặt úp bàn tay lên mặt bàn. Thí sinh và trọng tài có thể thống nhất các khác để thông báo hoàn thành (trước khi bắt đầu lượt thi).
-    - A6b) Thí sinh có trách nhiệm dừng đồng hồ Stackmat đúng cách.
-        - A6b1) Nếu đồng hồ Stackmat ngừng chạy trước khi lượt giải kết thúc và đồng hồ hiển thị thời gian nhỏ hơn 0.06 giây, lượt thi sẽ được thay thế bằng một lượt thi bổ sung. Thí sinh không được thi bổ sung nếu WCA Delegate xác nhận rằng thí sinh cố tình dừng đồng hồ.
-        - A6b2) Nếu đồng hồ Stackmat ngừng chạy trước khi lượt giải kết thúc và đồng hồ hiển thị thời gian lớn hơn hoặc bằng 0.06 giây, lượt thi bị hủy (DNF). Ngoại lệ: nếu có thể chứng minh rằng đồng hồ bị hỏng, thí sinh có thể có lượt thi thay thế, dưới sự đồng ý của WCA Delegate.
-    - A6c) Thí sinh phải thả hoàn toàn khối hình trước khi dừng đồng hồ. Hình phạt: truất quyền khỏi lượt thi (DNF). Ngoại lệ: nếu thí sinh không xoay thêm bước nào trước khi thả khối hình và sau khi dừng đồng hồ, thí sinh có thể nhận hình phạt thời gian (+2 giây), theo quyết định của trọng tài.
-    - A6d) Thí sinh phải dừng đồng hồ bằng cả hai tay, đặt đúng vào phần cảm ứng của đồng hồ, úp bàn tay xuống mặt bàn. Hình phạt: hình phạt thời gian (+2 giây).
-    - A6e) Sau khi thả khối hình, thí sinh không được chạm vào hoặc xoay khối hình cho đến khi trọng tài đã kiểm tra khối hình. Hình phạt: truất quyền khỏi lượt thi (DNF). Ngoại lệ: nếu thí sinh không xoay thêm bước nào, thí sinh có thể nhận hình phạt thời gian (+2 giây), theo quyết định của trọng tài.
-    - A6f) Thí sinh không được khởi động lại đồng hồ cho đến khi trọng tài đã ghi lại thành tích lên phiếu kết quả. Hình phạt: truất quyền khỏi lượt thi (DNF), theo quyết định của trọng tài.
-        - A6f1) Nếu thí sinh khởi động lại đồng hồ trước khi trọng tài ghi xong kết quả, trọng tài không được viết kết quả dựa vào trí nhớ hoặc từ video/hình ảnh, và phải truất quyền lượt thi (DNF).
-    - A6g) Trọng tài quyết định liệu một khối hình đã được hoàn thành. Trọng tài không được xoay hay chỉnh sửa khối hình khi đang kiểm tra. Ngoại lệ: Đối với Clock, trọng tài thường cần cầm khối hình lên để xem cả hai mặt.
-    - A6h) Trong trường hợp có khiếu nại, không được xoay hay chỉnh sửa khối hình cho đến khi khiếu nại được giải quyết.
-    - A6i) Hình phạt thời gian khi kết thúc lượt giải có thể được cộng dồn.
-- A7) Ghi kết quả:
-    - A7a) Trọng tài thông báo kết quả cho thí sinh.
-        - A7a1) Nếu trọng tài xác nhận rằng khối hình đã được hoàn thành, trọng tài thông báo "TỐT".
-        - A7a2) Nếu trọng tài đưa ra hình phạt nào, trọng tài thông báo "LỖI".
-        - A7a3) Nếu kết quả là DNF, trọng tài thông báo "DNF".
-    - A7b) Trọng tài ghi lại thành tích trên phiếu ghi kết quả và ký tên cạnh kết quả để xác nhận rằng thành tích đã chính xác, hoàn thiện, theo đúng mẫu và rõ ràng.
-        - A7b1) Nếu có bất kỳ hình phạt nào, trọng tài ghi lại kết quả gốc được hiển thị, kèm theo hình phạt. Mẫu ghi kết quả sẽ là "X + T + Y = F", trong đó X là tổng của hình phạt thời gian trước khi bắt đầu lượt giải, T là thời gian hiển thị trên đồng hồ, và Y là tổng của hình phạt thời gian trong/sau khi giải, và F là kết quả cuối cùng (v.d. 2 + 17.65 + 2 = 21.65). Nếu X và/hoặc Y bằng 0, trọng tài có thể bỏ qua X và Y (v.d. 17.65 + 2 = 19.65).
-    - A7c) Thí sinh phải kiểm tra kết quả được ghi lại, và ký tên (hoặc viết tắt tên) trên phiếu kết quả để xác nhận rằng thành tích đã chính xác, hoàn thiện, theo đúng mẫu và rõ ràng. Lượt thi được coi là kết thúc sau đó.
-        - A7c1) Nếu thí sinh hoặc trọng tài không chấp nhận kết quả và từ chối ký, WCA Delegate phải giải quyết khiếu nại.
-        - A7c2) Nếu thí sinh ký (hoặc đánh dấu) một lượt thi trước khi bắt đầu, thí sinh được coi là từ bỏ lượt thi và kết quả được đánh dấu DNS.
-        - A7c3) Nếu thí sinh ký (hoặc đánh dấu) một lượt thi sau khi hoàn thành nhưng trước khi trọng tài ghi kết quả, lượt thi sẽ được coi là chưa hoàn thành (DNF).
-        - A7c4) Thí sinh không nên ký một lượt thi trước khi trọng tài ghi kết quả và ký. Thí sinh là người cuối cùng chịu trách nhiệm đảm bảo cả thí sinh và trọng tài đã ký một lượt thi. Nếu một lượt thi thiếu chữ ký của một hoặc cả hai người sau khi trọng tài chuyển phiếu kết quả đến người ghi kết quả (xem [Quy định A7f](regulations:regulation:A7f)), lượt thi sẽ được coi là chưa hoàn thành (DNF).
-    - A7f) Sau khi thí sinh hoàn thành vòng thi, phiếu kết quả được trọng tài chuyển đến cho người ghi kết quả.
-    - A7g) Dưới sự đồng ý của WCA Delegate, sự cố hoặc hình phạt gây ra bởi thí sinh thiếu kinh nghiệm có thể được thay thế bằng một lượt thi khác.
+- 10b) Only the resting state of the puzzle, after the timer has been stopped, is considered.
+- 10c) The puzzle may be in any orientation at the end of the solve.
+- 10d) All parts of a puzzle must be physically attached to the puzzle and fully placed in their required positions. Exception: see [Regulation 5b5](regulations:regulation:5b5).
+- 10e) A puzzle is solved when all colored parts are reassembled and all parts are aligned within the limits specified below:
+    - 10e1) For every two adjacent parts (e.g. two parallel, adjacent slices of a cube) of the puzzle that are misaligned by more than the limit described in [Regulation 10f](regulations:regulation:10f), the puzzle is considered to require one additional move to solve (see "Outer Block Turn Metric" in [Article 12](regulations:article:12)).
+    - 10e2) If no further moves are required to bring the puzzle to its solved state, the puzzle is considered solved without penalty.
+    - 10e3) If one move is required, the puzzle is be considered solved with a time penalty (+2 seconds).
+    - 10e4) If more than one move is required, the puzzle is considered unsolved (DNF).
+- 10f) Limits of acceptable misalignment for puzzles:
+    - 10f1) NxNxN Cubes: at most 45 degrees.
+    - 10f2) Megaminx: at most 36 degrees.
+    - 10f3) Pyraminx and Skewb: at most 60 degrees.
+    - 10f4) Square-1: at most 45 degrees (U/D) or 90 degrees (/).
+- 10h) Puzzles not specified in this article are judged according to the solved state as defined by the generally accepted goal of the puzzle.
+    - 10h1) The solved state of Clock is achieved when all eighteen inner clock faces point to 12 o'clock.
 
 
-## <article-B><blindfolded><blindfoldedsolving> Mục B: Giải Bịt mắt
+## <article-11><incidents><incidents> Article 11: Incidents
 
-- B1) Có các bước tiêu chuẩn giống như Giải Tốc độ, được đề cập trong [Mục A](regulations:regulation:A) (Giải Tốc độ). Những quy định thay thế cho phần tương ứng trong [Mục A](regulations:regulation:A) cụ thể như sau.
-    - B1a) Không có thời gian quan sát.
-    - B1b) Thí sinh tự mang bịt mắt.
-- B2) Bắt đầu lượt giải:
-    - B2a) Trọng tài khởi động lại đồng hồ bấm giờ và xác nhận thí sinh đã sẵn sàng như trong [Quy định A3b1](regulations:regulation:A3b1). Thí sinh phải sẵn sàng bắt đầu lượt thi trong vòng một phút kể từ khi được gọi tên, nếu không thí sinh sẽ được coi như bỏ lượt thi (DNS), theo quyết định của trọng tài.
-    - B2b) Thí sinh dùng ngón tay để chạm phần bề mặt cảm ứng của đồng hồ bấm giờ. Bàn tay của thí sinh phải úp xuống, và phải ở phía gần thí sinh hơn so với đồng hồ bấm giờ. Hình phạt: hình phạt thời gian (+2 giây).
-    - B2c) Thí sinh không được chạm vào khối hình sau khi quan sát và trước khi bắt đầu lượt giải. Hình phạt: hình phạt thời gian (+2 giây).
-    - B2d) Nếu Stackmat được sử dụng, thí sinh bắt đầu lượt giải sau khi đèn xanh sáng lên và bỏ tay khỏi phần cảm ứng của đồng hồ (bắt đầu tính giờ).
-        - B2d1) Thí sinh bỏ hộp che khối hình sau khi bắt đầu tính giờ.
-    - B2e) Nếu đồng hồ bấm giờ được sử dụng, trọng tài bắt đầu bấm giờ khi thí sinh bắt đầu giải.
-    - B2f) Nếu chỉ có đồng hồ bấm giờ được sử dụng, thí sinh đặt tay lên bàn (thay vì đồng hồ Stackmat). Sau khi xác nhận đã sẵn sàng, thí sinh bắt đầu lượt giải bằng cách bỏ hộp che khối hình. Trọng tài bắt đầu bấm giờ khi thí sinh bắt đầu giải.
-- B3) Thời gian ghi nhớ:
-    - B3a) Thí sinh có thể cầm khối hình trong lúc ghi nhớ.
-    - B3b) Thí sinh không được ghi chép trong lúc ghi nhớ. Hình phạt: truất quyền khỏi lượt thi (DNF).
-    - B3c) Thí sinh không được xoay khối hình trong lúc ghi nhớ. Hình phạt: truất quyền khỏi lượt thi (DNF).
-- B4) Thời gian bịt mắt:
-    - B4a) Thí sinh kéo tấm bịt mắt xuống để bắt đầu thời gian bịt mắt.
-    - B4b) Thí sinh không được xoay khối hình trước khi bịt mắt. Hình phạt: truất quyền khỏi lượt thi (DNF).
-    - B4c) Trọng tài phải bảo đảm có một vật chắn giữa mặt thí sinh và khối hình trong lúc thí sinh đang giải.
-        - B4c1) Trong mọi lượt giải, thí sinh phải đeo bịt mắt sao cho thí sinh không thể nhìn thấy khối hình ngay cả khi không có vật chắn.
-        - B4c2) Trong mọi lượt giải, trọng tài luôn phải đặt vật chắn (v.d. một tờ giấy hoặc tấm bìa) giữa thí sinh và khối hình trong lúc thí sinh đang đeo bịt mắt.
-        - B4c3) Nếu trọng tài và thí sinh đồng ý trước đó, thí sinh có thể tự mình đặt vật chắn cho khối hình (v.d. dưới mặt bàn) trong thời gian bịt mắt.
-    - B4d) Thí sinh không được nhìn khối hình ở bất kỳ thời điểm nào trong thời gian bịt mắt. Hình phạt: truất quyền khỏi lượt thi (DNF).
-    - B4e) Trước khi thí sinh xoay bước đầu tiên, thí sinh có thể bỏ bịt mắt để quay lại thời gian ghi nhớ.
-- B5) Kết thúc lượt giải:
-    - B5a) Nếu sử dụng đồng hồ Stackmat, thí sinh kết thúc lượt giải bằng cách thả khối hình và dừng đồng hồ.
-    - B5b) Nếu sử dụng đồng hồ bấm giờ, thí sinh kết thúc lượt giải bằng cách đặt lại khối hình lên mặt bàn và thông báo với trọng tài đã hoàn thành lượt giải, trọng tài sẽ dừng đồng hồ.
-    - B5c) Nếu thí sinh đang không cầm khối hình, thí sinh có thể bỏ bịt mắt trước khi dừng đồng hồ. Thí sinh không được chạm vào khối hình cho tới khi lượt giải kết thúc. Hình phạt nếu chạm vào khối hình: truất quyền khỏi lượt thi (DNF).
+- 11a) Incidents include:
+    - 11a1) Incorrect execution of event procedures, by officials or competitors.
+    - 11a2) Interference or facility interruptions (e.g. power failure, emergency alarm activation).
+    - 11a3) Equipment malfunction.
+- 11b) If an incident occurs, the WCA Delegate determines an impartial and appropriate course of action.
+- 11d) If the WCA Regulations are not fully clear or if the incident is not covered by the WCA Regulations, then the WCA Delegate must make a decision based on fair sportsmanship (also see [Regulation 11e3](regulations:regulation:11e3)).
+- 11e) If an incident occurs during an attempt, the WCA Delegate may grant a competitor an extra attempt, replacing the attempt during which the incident occurred. The competitor must appeal verbally or in writing to the judge and WCA Delegate at the time of the incident, before finishing the original attempt, to be eligible for an extra attempt. An appeal does not guarantee the competitor an extra attempt.
+    - 11e1) If a competitor is granted an extra attempt, the extra attempt must be scrambled using a different scramble sequence. This scramble sequence must be generated using a current official version of an official WCA scramble program (see [Regulation 4f](regulations:regulation:4f)).
+    - 11e2) If a competitor is granted an extra attempt, the extra attempt should be done right after the attempt that caused it, and must replace the original regularly numbered attempt.
+    - 11e3) If it is unclear whether an incident should result in an extra attempt, the competitor may be granted a provisional extra attempt that will be used only if it is later found that an extra attempt was appropriate (e.g. by a decision of the WRC).
+- 11f) Decisions about an incident may be supported with video or photographic analysis, at the discretion of the WCA Delegate.
+- 11g) The WCA Delegate must ensure that copies of the Regulations and Guidelines are available (e.g. printed, digital, or accessible via internet) to consult for any incidents.
+- 11h) A WCA Delegate may require competitors in serious violation of [Regulation 2k3](regulations:regulation:2k3) to leave the competition venue, taking into account the seriousness of the situation and the best possible course of action. If the competitor refuses to do so, they may face disciplinary action in the WCA.
 
 
-## <article-C><one-handed><onehandedsolving> Mục C: Giải Một tay
+## <article-12><notation><notation> Article 12: Notation
 
-- C1) Có các bước tiêu chuẩn giống như Giải Tốc độ, được đề cập trong [Mục A](regulations:regulation:A) (Giải Tốc độ). Những quy định thay thế cho phần tương ứng trong [Mục A](regulations:regulation:A) cụ thể như sau.
-    - C1b) Trong lượt giải, thí sinh chỉ được dùng một tay để xoay khối hình. Hình phạt: truất quyền khỏi lượt thi (DNF).
-        - C1b2) Nếu khối hình bị biến dạng, và thí sinh muốn sửa lại, thí sinh chỉ được dùng một tay đang giải để sửa. Hình phạt: truất quyền khỏi lượt thi (DNF).
-        - C1b3) Nếu một phần cơ thể của thí sinh chạm vào khối hình hoặc một phần của khối hình do sơ suất và va chạm không làm ảnh hưởng đến khối hình, đây không được coi là xoay khối hình, theo quyết định của trọng tài.
-    - C1c) Trong lượt giải, một khi thí sinh chọn giải bằng một tay, thí sinh không thể giải bằng tay còn lại. Hình phạt: truất quyền khỏi lượt thi (DNF).
-
-
-## <article-D><feet><solvingwithfeet> Mục D: Giải Bằng chân
-
-- D1) Có các bước tiêu chuẩn giống như Giải Tốc độ, được đề cập trong [Mục A](regulations:regulation:A) (Giải Tốc độ). Những quy định thay thế cho phần tương ứng trong [Mục A](regulations:regulation:A) cụ thể như sau.
-    - D1a) Trong lượt thi, thí sinh phải ngồi trên ghế, trên sàn nhà, hoặc đứng.
-    - D1b) Trong lượt giải, thí sinh chỉ được dùng chân và sàn nhà để xoay khối hình. Hình phạt: truất quyền khỏi lượt thi (DNF).
-- D3) Bắt đầu lượt giải:
-    - D3a) Thí sinh đặt bàn chân lên cảm ứng của đồng hồ Stackmat.
-    - D3b) Thí sinh bỏ chân ra khỏi cảm ứng để bắt đầu lượt giải.
-- D4) Kết thúc lượt giải:
-    - D4a) Thí sinh dừng đồng hồ bằng cách đặt chân lên cảm ứng của đồng hồ.
-
-
-## <article-E><fewest-moves><fewestmovessolving> Mục E: Giải Tối ưu
-
-- E2) Các quy trình trong Giải Tối ưu:
-    - E2a) Trọng tài phát chuỗi công thức tráo cho tất cả các thí sinh. Sau đó trọng tài bắt đầu đồng hồ bấm giờ và thông báo bắt đầu.
-    - E2b) Tất cả các thí sinh có giới hạn thời gian là 60 phút để nghĩ lời giải.
-        - E2b1) Trọng tài cần thông báo "CÒN 5 PHÚT" sau 55 phút, và thông báo "KẾT THÚC" sau 60 phút.
-    - E2c) Sau 60 phút, mỗi thí sinh phải nộp cho trọng tài lời giải của mình kèm tên, viết ra giấy và phải đọc được, sử dụng ký hiệu được định nghĩa trong Hệ đo bước các tầng ngoài (Outer Block Turn Metric) (định nghĩa trong [Quy định 12a](regulations:regulation:12a)). Hình phạt: truất quyền khỏi lượt thi (DNF).
-    - E2d) Độ dài của lời giải được tính bằng Hệ đo bước các tầng ngoài (Outer Block Turn Metric) (xem [Quy định 12a](regulations:regulation:12a)).
-        - E2d1) Độ dài lời giải tối đa được cho phép là 80 bước (xoay và đổi hướng).
-    - E2e) Lời giải của thí sinh không được lấy trực tiếp từ bất kỳ phần nào của chuỗi công thức tráo. Hình phạt: truất quyền khỏi lượt thi (DNF), theo quyết định của WCA Delegate.
-        - E2e1) WCA Delegate có thể yêu cầu thí sinh giải thích mục đích của từng bước trong lời giải. Nếu thí sinh không đưa ra lời giải thích hợp lý, lượt giải được đánh dấu không hoàn thành (DNF).
-- E3) Thí sinh có thể sử dụng các vật dụng sau trong lượt thi. Hình phạt nếu sử dụng vật dụng không được cho phép: truất quyền khỏi lượt thi (DNF).
-    - E3a) Giấy và bút (được cung cấp bởi trọng tài).
-    - E3b) Khối hình 3x3x3 (tối đa 3, tự mang), như được đề cập ở [Mục 3](regulations:article:3).
-    - E3c) Miếng dán (tự mang).
-    - E3d) Đồng hồ hoặc đồng hồ bấm giờ (tự mang) để theo dõi thời gian, nếu được WCA Delegate cho phép.
-
-
-## <article-F><clock><clocksolving> Mục F: Clock
-
-- F1) Có các bước tiêu chuẩn giống như Giải Tốc độ, được đề cập trong [Mục A](regulations:regulation:A) (Giải Tốc độ). Những quy định thay thế cho phần tương ứng trong [Mục A](regulations:regulation:A) cụ thể như sau.
-- F2) Trọng tài dựng đứng khối hình đã được tráo lên thảm.
-- F3) Ở cuối thời gian quan sát, thí sinh đặt khối hình dựng đứng. Hình phạt: truất quyền khỏi lượt thi (DNF).
-    - F3a) Thí sinh không được thay đổi vị trí của bất kỳ nút ghim nào trước khi bắt đầu lượt giải. Hình phạt: truất quyền khỏi lượt thi (DNF).
-
-
-## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Mục H: Giải Bịt mắt Nhiều 3x3x3
-
-- H1) Có các bước tiêu chuẩn giống như Giải Bịt mắt, được đề cập trong [Mục B](regulations:regulation:B) (Giải Bịt mắt). Những quy định thay thế cho phần tương ứng trong [Mục B](regulations:regulation:B) cụ thể như sau.
-    - H1a) Trước lượt thi, thí sinh phải thông báo với ban tổ chức số lượng khối hình (tối thiểu 2) mà mình sẽ giải.
-        - H1a1) Thí sinh không được thay đổi số lượng khối hình sau khi đã thông báo với ban tổ chức.
-        - H1a2) Thí sinh có thể yêu cầu giữ bí mật về số lượng khối hình cho tới khi tất cả thí sinh đã thông báo với ban tổ chức. Sau khi tất cả thí sinh đã thông báo về khối hình của mình, thông tin về số lượng sẽ được công bố (v.d. thí sinh có thể hỏi số lượng khối hình của thí sinh khác trước khi bắt đầu lượt thi).
-        - H1a3) Trước lượt thi, khối hình đã được tráo phải được đặt trên bàn theo hướng bất kỳ trong khi vẫn được che kín. Khối hình phải được đặt vuông vắn hết mức có thể (v.d. 8 khối hình nên được xếp thành 2 hàng với 3 khối hình và 1 hàng với 2 khối hình).
-    - H1b) Nếu thí sinh thi đấu với ít hơn 6 khối hình, thí sinh sẽ có giới hạn thời gian là 10 phút nhân với số lượng khối hình trong lượt thi, nếu không giới hạn thời gian sẽ là 60 phút.
-        - H1b1) Thí sinh có thể ra hiệu kết thúc lượt thi bất kỳ lúc nào. Nếu và khi vượt quá giới hạn thời gian, trọng tài dừng lượt thi và ghi kết quả lượt thi; giới hạn thời gian của lượt thi được tính vào thành tích thời gian.
-    - H1d) Hình phạt thời gian cho từng khối hình trong lượt thi có thể được cộng dồn.
+- 12a) Notation for NxNxN Cubes:
+    - 12a1) Face Moves (outer slice):
+        - 12a1a) Clockwise, 90 degrees: F (front face), B (back face), R (right face), L (left face), U (upper face), D (bottom face).
+        - 12a1b) Counter-clockwise, 90 degrees: F', B', R', L', U', D'.
+        - 12a1c) 180 degrees: F2, B2, R2, L2, U2, D2.
+    - 12a2) Outer Block Moves (outer slice with adjacent inner slices). For each of the moves defined below, n is the total number of slices to move, which must be in the range 1 < n < N (where N is the number of layers in the puzzle). n may be also be omitted, for an implicit value of n = 2 slices. Outer Block Moves are:
+        - 12a2a) Clockwise, 90 degrees: nFw, nBw, nRw, nLw, nUw, nDw.
+        - 12a2b) Counter-clockwise, 90 degrees: nFw', nBw', nRw', nLw', nUw', nDw'.
+        - 12a2c) 180 degrees: nFw2, nBw2, nRw2, nLw2, nUw2, nDw2.
+    - 12a4) Rotations (entire puzzle):
+        - 12a4a) Clockwise, 90 degrees: x (same direction as R or L'), y (same direction as U or D'), z (same direction as F or B').
+        - 12a4b) Counter-clockwise, 90 degrees: x' (same direction as R' or L), y' (same direction as U' or D), z' (same direction as F' or B).
+        - 12a4c) 180 degrees: x2, y2, z2.
+    - 12a5) Outer Block Turn Metric (OBTM) is defined as:
+        - 12a5a) Each move of the categories Face Moves and Outer Block Moves is counted as 1 move.
+        - 12a5b) Each move of the Rotations category is counted as 0 moves.
+    - 12a6) Execution Turn Metric (ETM) is defined as: Each move of the categories Face Moves, Outer Block Moves, and Rotations is counted as 1 move.
+- 12c) Notation for Square-1:
+    - 12c1) Moves are applied with one of the two smallest surfaces of the equatorial slice on the left side of the front face.
+    - 12c2) (x, y) means: turn upper layer x times 30 degrees clockwise, turn bottom layer y times 30 degrees clockwise. x and y must be integers from -5 to 6, and cannot be both equal to 0.
+    - 12c3) "/" means: turn the right half of the puzzle 180 degrees.
+    - 12c4) Metric for Square-1: (x, y) counts as one move, "/" counts as one move.
+- 12d) Notation for Megaminx (scrambling notation only):
+    - 12d1) Face Moves:
+        - 12d1a) Clockwise, 72 degrees: U (upper face).
+        - 12d1b) Counter-clockwise, 72 degrees: U' (upper face).
+    - 12d2) Other moves are applied while keeping 3 pieces fixed at the top left of the puzzle:
+        - 12d2c) Clockwise 144 degrees move of whole puzzle except for the slice of top left three pieces: R++ (vertical slices), D++ (horizontal slices).
+        - 12d2d) Counter-clockwise 144 degrees move of whole puzzle except for the slice of top left three pieces: R-- (vertical slices), D-- (horizontal slices).
+- 12e) Notation for Pyraminx:
+    - 12e1) The puzzle is oriented with the bottom face completely horizontal and the front face facing the person who is holding the Pyraminx.
+    - 12e2) Clockwise, 120 degrees: U (upper 2 layers), L (left 2 layers), R (right 2 layers), B (back 2 layers), u (upper vertex), l (left vertex), r (right vertex), b (back vertex).
+    - 12e3) Counter-clockwise, 120 degrees: U' (upper 2 layers), L' (left 2 layers), R' (right 2 layers), B' (back 2 layers), u' (upper vertex), l' (left vertex), r' (right vertex), b' (back vertex).
+- 12g) Notation for Clock:
+    - 12g1) The puzzle is oriented with 12 o'clock on top, and either side in front.
+    - 12g2) Move pins up: UR (top-right), DR (bottom-right), DL (bottom-left), UL (top-left), U (both top), R (both right), D (both bottom), L (both left), ALL (all).
+    - 12g3) Turn a wheel next to an up-position pin and move all pins down afterwards: x+ (x clockwise turns), x- (x counter-clockwise turns).
+    - 12g4) Turn around the puzzle so that 12 o'clock stays on top, and then move all pins down: y2.
+- 12h) Notation for Skewb:
+    - 12h1) The puzzle is oriented with three faces fully visible, where the upper face is on top.
+    - 12h2) Clockwise, 120 degrees: R (the layer around the farthest visible bottom-right vertex), U (the layer around the farthest visible upper vertex), L (the layer around the farthest visible bottom-left vertex), B (the layer around the farthest non-visible back vertex).
+    - 12h3) Counter-clockwise, 120 degrees: R' (the layer around the farthest visible bottom-right vertex), U' (the layer around the farthest visible upper vertex), L' (the layer around the farthest visible bottom-left vertex), B' (the layer around the farthest non-visible back vertex).
 
 
-## <article-Z><optional><optional> Article Z: Quy định không bắt buộc
+## <article-A><speedsolving><speedsolving> Article A: Speed Solving
 
-Ban tổ chức có thể sử dụng các quy định không bắt buộc để hỗ trợ quản lý giải đấu, dưới sự đồng ý của Ban Quản trị WCA.
+- A1) Speed Solving attempts must abide by the following procedures (partially superseded by [Regulation Y7](regulations:regulation:Y7)).
+    - A1a) The organization team must apply exactly one kind of time limit (time limit per attempt or cumulative time limit) to each round.
+        - A1a1) The default time limit is 10 minutes for each attempt in a round, though the organization team may announce a higher or lower time limit per attempt. In this case, the limit must be the same for all attempts in a round.
+        - A1a2) For events other than 3x3x3 Fewest Moves and 3x3x3 Multi-Blind, the organization team may define a cumulative time limit. The cumulative time limit must either apply to all attempts in one round (e.g. 3 attempts with a cumulative time limit of 20 minutes), or to all attempts in a combination of rounds for different events. In this case, the time limit for a particular attempt is the cumulative time limit minus the total time in other attempts counting towards the time limit so far (see [Regulation A1a5](regulations:regulation:A1a5)). If a round has an applicable cumulative time limit, it must have at most one.
+        - A1a3) The time limits for all rounds must be announced before the competition, and should not be changed after any affected rounds have begun. Changes must be made at the discretion of the WCA Delegate, who must carefully consider the fairness of the change.
+        - A1a4) The competitor must end each solve before the time limit for the attempt is reached. If a competitor's timer reaches the time limit for an attempt, the judge stops the solve immediately and records the result as DNF. Exception: 3x3x3 Multi-Blind (see [Regulation H1b1](regulations:regulation:H1b1)).
+        - A1a5) The time counting towards the time limit for an attempt is either the result after time penalties are applied (if the result was not DNF) or the time elapsed in the solve (if the result was DNF).
+    - A1b) If the time limit for an attempt is greater than 10 minutes, a stopwatch must be used for timekeeping.
+        - A1b1) A Stackmat must be used in addition to the stopwatch. Exception: for events without inspection where the competitor is expected to exceed 10 minutes, use of the Stackmat is optional.
+        - A1b2) If a time from the Stackmat timer is available, it is the original recorded time. Otherwise, the stopwatch time is the original recorded time.
+    - A1c) A competitor participating in an event must be able to fulfill the event's requirements (see [Regulation 2k6](regulations:regulation:2k6)).
+- A2) Scrambling:
+    - A2a) When called for a round, the competitor submits the puzzle, in its solved state, to the scrambler. The competitor then waits in their assigned Competitors Area until they are called to compete.
+    - A2b) A scrambler scrambles the puzzle according to the regulations in [Article 4](regulations:article:4).
+        - A2b1) For Square-1, the organization team may enforce placing a thin object in the puzzle to prevent accidental moves from being applied before the start of the attempt. If these objects are used, this must be announced before the round starts.
+    - A2c) After the scrambler starts scrambling the puzzle, the competitor must not see the puzzle until the inspection phase starts.
+        - A2c1) The scrambler places a cover over the scrambled puzzle that makes it impossible for any competitors or spectators to see any part of the puzzle. The cover remains over the puzzle until the start of the attempt.
+    - A2d) When taking a puzzle from the scrambler, the judge briefly inspects the puzzle to ensure thorough scrambling of the puzzle. The judge raises any concerns with the scrambler, who then conducts a detailed check.
+        - A2d1) The scrambler or an authorized judge must check the scrambled puzzle, and sign (or initial) the score sheet to affirm that they applied the correctly-numbered scramble sequence and checked that it matches the image (see [Regulation 4g](regulations:regulation:4g)). Exception: for 6x6x6 Cube, 7x7x7 Cube, and Megaminx the scrambler may sign (or initial) to affirm that the puzzle is sufficiently scrambled (see [Regulation 4g1](regulations:regulation:4g1)).
+    - A2e) The judge places the puzzle onto the mat in an arbitrary orientation while ensuring that it remains completely covered.
+        - A2e1) The competitor is not permitted to request a specific orientation, and the judge must not influence the orientation they place the puzzle on the mat based on what they know or expect the puzzle state to be.
+- A3) Inspection:
+    - A3a) The competitor may inspect the puzzle at the start of each attempt.
+        - A3a1) The competitor is allotted a maximum of 15 seconds to inspect the puzzle and start the solve.
+    - A3b) The judge prepares the timer by turning it on and resetting if necessary. Separately, the judge also prepares a stopwatch for timing inspection (partially superseded by [Regulation Y7d1](regulations:regulation:Y7d1)).
+        - A3b1) When the judge believes the competitor is ready, the judge asks "READY?". The competitor must be ready to start the attempt within one minute from the moment they are asked, or else the competitor forfeits the attempt (DNS), at the discretion of the judge.
+        - A3b2) The competitor starts the attempt by confirming that they are ready, and the judge uncovers the puzzle and starts timing the inspection.
+    - A3c) The competitor may pick up the puzzle during inspection.
+        - A3c1) The competitor must not apply moves during inspection. Penalty: disqualification of the attempt (DNF).
+        - A3c2) If the parts of the puzzle are not fully aligned, then the competitor may align the faces, as long as misalignments stay within the limits of [Regulation 10f](regulations:regulation:10f).
+        - A3c3) The competitor may reset the timer before the start of the solve.
+        - A3c4) For Square-1, if the use of a thin object inside the puzzle has been enforced by the organization team (see [Regulation A2b1](regulations:regulation:A2b1)), the competitor may remove the object from the puzzle during inspection.
+    - A3d) At the end of the inspection, the competitor places the puzzle on the mat, in any orientation. Penalty for placing it outside the mat: time penalty (+2 seconds).
+        - A3d2) When 8 seconds of inspection have elapsed, the judge calls "8 SECONDS".
+        - A3d3) When 12 seconds of inspection have elapsed, the judge calls "12 SECONDS".
+- A4) Starting the solve:
+    - A4b) The competitor uses their fingers to touch the elevated sensor surfaces of the timer. The competitor's palms must be facing down, and located on the side of the timer that is closer to the competitor. Penalty: time penalty (+2 seconds).
+        - A4b1) The competitor must have no physical contact with the puzzle while starting the solve. Penalty: time penalty (+2 seconds).
+    - A4d) If a Stackmat timer is in use, the competitor should keep their hands on the timer until they see a green timer light. They start the solve by removing their hands from the timer (thus starting the timer).
+        - A4d1) The competitor must start the solve within 15 seconds of the start of the inspection. Penalty: time penalty (+2 seconds).
+        - A4d2) The competitor must start the solve within 17 seconds of the start of the inspection. Penalty: disqualification of the attempt (DNF).
+        - A4d3) If a stopwatch is in use, the judge starts the stopwatch as soon as the competitor starts the solve.
+    - A4e) Time penalties for starting the solve are cumulative.
+- A5) During the solve:
+    - A5a) While inspecting or solving the puzzle, the competitor must not communicate with anyone other than the judge or the WCA Delegate. Penalty: disqualification of the attempt (DNF).
+    - A5b) While inspecting or solving the puzzle, the competitor must not receive assistance from anyone or any object other than the surface (also see [Regulation 2i](regulations:regulation:2i)). Penalty: disqualification of the attempt (DNF).
+    - A5c) The competitor may hold the puzzle against the surface to help operate the puzzle (see [Regulation 7f1d](regulations:regulation:7f1d)).
+- A6) Stopping the solve:
+    - A6a) The competitor releases the puzzle before stopping the solve, and stops the solve by stopping the timer. If a stopwatch is in use, the judge stops the stopwatch as soon as the competitor does this.
+        - A6a1) When using a stopwatch as the only timer, the competitor stops the solve by releasing the puzzle and notifying the judge that they have stopped the solve. The judge stops the stopwatch as soon as the competitor does this.
+        - A6a2) When using a stopwatch as the only timer, the competitor's default notification signal consists of releasing the puzzle(s) from their hands and placing their hands on the surface, with palms down. The competitor and the judge may agree on another appropriate notification before the start of the attempt.
+    - A6b) The competitor is responsible for stopping the Stackmat timer correctly.
+        - A6b1) If the timer stops before the competitor has solved the puzzle and the timer shows a time strictly below 0.06 seconds, then the attempt is replaced by an extra attempt. A competitor forfeits the right to the additional attempt if the WCA Delegate determines that the timer was stopped deliberately.
+        - A6b2) If the timer stops before the competitor has solved the puzzle and displays a time of 0.06 seconds or higher, then the attempt is disqualified (DNF). Exception: if the competitor can demonstrate that the timer malfunctioned, they may receive an extra attempt, at the discretion of the WCA Delegate.
+    - A6c) The competitor must fully release the puzzle before stopping the timer. Penalty: disqualification of the attempt (DNF). Exception: If no moves have been applied after stopping the timer and before releasing the puzzle, a time penalty (+2 seconds) may be assigned instead, at the discretion of the judge.
+    - A6d) The competitor must stop the timer using both hands, placed flat on the sensors with palms down. Penalty: time penalty (+2 seconds).
+    - A6e) After releasing the puzzle, the competitor must not touch or move the puzzle until the judge has inspected the puzzle. Penalty: disqualification of the attempt (DNF). Exception: If no moves have been applied, a time penalty (+2 seconds) may be assigned instead, at the discretion of the judge.
+    - A6f) The competitor must not reset the timer until the judge has recorded the result on the score sheet. Penalty: disqualification of the attempt (DNF), at the discretion of the judge.
+        - A6f1) If the competitor resets the timer before the result has been completely recorded, the judge must not write down the result from memory or from video or photographic evidence, and must disqualify the attempt instead (DNF).
+    - A6g) The judge determines whether the puzzle is solved. They must not touch the puzzle before they have determined whether to assign a penalty for misalignment. Exception: For Clock, the judge will usually need to pick up the puzzle to verify both faces.
+    - A6h) In case of a dispute, moves or alignments must not be applied to the puzzle before the dispute is resolved.
+    - A6i) Time penalties for stopping the solve are cumulative.
+- A7) Recording results:
+    - A7a) The judge tells the competitor the result.
+        - A7a1) If the judge finds that the puzzle is solved, they call "OKAY".
+        - A7a2) If the judge assigns any penalties, they call "PENALTY".
+        - A7a3) If the result is DNF, the judge calls "DNF".
+    - A7b) The judge records the result on a score sheet and signs next to the result to acknowledge that the result is correct, complete, properly formatted, and clearly readable.
+        - A7b1) If penalties are assigned, the judge records the original recorded time displayed on the timer, along with any penalties. The format should be "X + T + Y = F", where X represents the sum of time penalties before/starting the solve, T represents the time displayed on the timer (the "original recorded time"), Y represents a sum of time penalties during/after the solve, and F represents the final result (e.g. 2 + 17.65 + 2 = 21.65). If X and/or Y is 0, the 0 terms are omitted (e.g. 17.65 + 2 = 19.65).
+    - A7c) The competitor must check the recorded result, and sign (or initial) the score sheet to acknowledge that the result is correct, complete, properly formatted, and clearly readable. This finishes the attempt (partially superseded by [Regulation Y7e1](regulations:regulation:Y7e)).
+        - A7c1) If the competitor or the judge refuses to accept and sign the score sheet, the WCA Delegate must resolve the dispute.
+        - A7c2) If the competitor signs (or otherwise marks) an attempt before they have begun it, they forfeit the attempt and the result will be considered DNS.
+        - A7c3) If the competitor signs (or otherwise marks) an attempt after starting the attempt but before the judge has finished recording the result, the attempt will be considered unfinished (DNF).
+        - A7c4) The competitor should not sign an attempt before the judge has recorded and signed the attempt. The competitor is ultimately responsible for ensuring that they and the judge have signed an attempt. If an attempt is found to be missing one or both signatures after the judge delivered the score sheet to the score taker (see [Regulation A7f](regulations:regulation:A7f)), it will be considered unfinished (DNF).
+    - A7f) When a competitor's score sheet for a round is complete, the judge delivers the score sheet to the score taker.
+    - A7g) At the discretion of the WCA Delegate, an incident or penalty caused by a new competitor's inexperience may be replaced with an extra attempt.
 
-- Z1) Ban tổ chức có thể yêu cầu thí sinh nộp khối hình trong lúc đăng ký.
-- Z2) Ban tổ chức có thể giới hạn số lượng nội dung mà thí sinh có thể tham gia.
-- Z3) Ban tổ chức có thể lựa chọn thí sinh trực tiếp tham gia vào một vòng thi của một nội dung dựa vào kết quả của một giải đấu trước đó.
-- Z4) Ban tổ chức có thể giới hạn số lượng thí sinh trong một nội dung hoặc một giải đấu, có thể dựa vào đăng ký sớm hoặc dựa vào kết quả thành tích trên bảng xếp hạng thế giới WCA trước một thời điểm cụ thể. Nếu số lượng thí sinh trong một nội dung hoặc giải đấu bị giới hạn, các quy định sau sẽ có hiệu lực:
-    - Z4a) Nếu đạt đến giới hạn thí sinh trước giải đấu, ban tổ chức không được chấp nhận thêm đăng ký tại địa điểm thi.
-    - Z4b) Giới hạn thí sinh phải được thông báo cùng thời điểm với giải đấu. Bất kỳ thay đổi nào về giới hạn thí sinh phải được sự cho phép của Ban Quản trị WCA.
-    - Z4c) Nếu như có nhiều hơn một thời điểm đăng ký, ban tổ chức phải thông báo trước 48 tiếng trước mỗi thời điểm.
-- Z5) Ban tổ chức có thể cấm thí sinh tham gia một số nội dung.
+
+## <article-B><blindfolded><blindfoldedsolving> Article B: Blindfolded Solving
+
+- B1) Standard speed solving procedures are followed, as described in [Article A](regulations:article:A) (Speed Solving). Additional regulations that supersede the corresponding procedures in [Article A](regulations:article:A) are described below (partially superseded by [Regulation Y7](regulations:regulation:Y7)).
+    - B1a) There is no inspection period.
+    - B1b) The competitor supplies their own blindfold.
+- B2) Starting the attempt:
+    - B2a) The judge resets the timer(s) as in [Regulation A3b](regulations:regulation:A3b) and indicates that they are ready for the competitor to start the attempt (e.g. placing the puzzle cover in front of the competitor, saying "READY", giving a thumbs-up signal). The competitor must start the attempt within one minute, else the competitor forfeits the attempt (DNS), at the discretion of the judge (partially superseded by [Regulation Y7d1](regulations:regulation:Y7d1)).
+    - B2b) The competitor uses their fingers to touch the elevated sensor surfaces of the timer. The competitor's palms must be facing down, and located on the side of the timer that is closer to them. Penalty: time penalty (+2 seconds).
+    - B2c) The competitor must have no physical contact with the puzzle before the start of the attempt. Penalty: time penalty (+2 seconds).
+    - B2d) The competitor starts the attempt by removing their hands from the timer, thus starting the timer. (This also starts the solve.)
+        - B2d1) The competitor removes the cover from the puzzle after starting the timer.
+    - B2e) If a stopwatch is in use in addition to a Stackmat timer, the judge starts the stopwatch as soon as the competitor starts the solve.
+    - B2f) If a stopwatch is in use as the only timer, the competitor places their hands on the table (instead of a Stackmat timer). After confirming that they are ready, the competitor starts the solve by lifting the cover. The judge starts the stopwatch as soon as the competitor starts the solve.
+- B3) Memorization phase:
+    - B3a) The competitor may pick up the puzzle during the memorization phase.
+    - B3b) The competitor must not make physical notes. Penalty: disqualification of the attempt (DNF).
+    - B3c) The competitor must not apply moves to the puzzle during the memorization phase. Penalty: disqualification of the attempt (DNF).
+- B4) Blindfolded phase:
+    - B4a) The competitor dons the blindfold to start the blindfolded phase.
+    - B4b) The competitor must not apply moves to the puzzle before they have fully donned the blindfold. Penalty: disqualification of the attempt (DNF).
+    - B4c) The judge must ensure that there is a sight blocker between the competitor's face and the puzzle while the competitor is solving.
+        - B4c1) In all cases, the competitor must wear the blindfold such that their view of the puzzle would still clearly be blocked if the sight blocker were not in the way.
+        - B4c2) By default, the judge should place the object (e.g. a sheet of paper or cardboard) between the competitor and the puzzle while the competitor is wearing the blindfold.
+        - B4c3) If the judge and competitor agree beforehand, the competitor may choose to place the puzzle behind a suitable object (e.g. a music stand, the surface of the table) by themselves during the blindfolded phase.
+    - B4d) The competitor must not look at the puzzle at any point during the blindfolded phase. Penalty: disqualification of the attempt (DNF).
+    - B4e) Until the competitor applies the first move to the puzzle, they may remove the blindfold to return to the memorization phase.
+- B5) Stopping the solve:
+    - B5a) When using the Stackmat timer, the competitor stops the solve by releasing the puzzle and then stopping the timer.
+    - B5b) When using a stopwatch, the competitor stops the solve by placing the puzzle back onto the surface and notifying the judge that they are stopping the solve. At that moment, the judge stops the timer.
+    - B5c) If the competitor is not touching the puzzle, they may remove the blindfold before they stop the timer. They must not touch the puzzle until the end of the solve. Penalty for touching the puzzle: disqualification of the attempt (DNF).
+
+
+## <article-C><one-handed><onehandedsolving> Article C: One-Handed Solving
+
+- C1) Standard speed solving procedures are followed, as described in [Article A](regulations:article:A) (Speed Solving). Additional regulations that supersede the corresponding procedures in [Article A](regulations:article:A) are described below.
+    - C1b) During the solve, the competitor must use only one hand to operate the puzzle. Penalty: disqualification of the attempt (DNF).
+        - C1b2) If a puzzle defect occurs, and the competitor chooses to repair it, they must repair it using only the solving hand. Penalty: disqualification of the attempt (DNF).
+        - C1b3) If other body parts of the competitor come in contact with the puzzle or parts of the puzzle without the competitor's intention and without applying moves, this is not considered operating the puzzle, at the discretion of the judge.
+        - C1b4) During the solve, the competitor may hold the puzzle against the surface to help operate the puzzle (see [Regulation 7f1d](regulations:regulation:7f1d)).
+    - C1c) During the solve, once a competitor operates the puzzle with one hand, they must not operate the puzzle with the other hand. Penalty: disqualification of the attempt (DNF).
+
+
+## <article-E><fewest-moves><fewestmovessolving> Article E: Fewest Moves Solving
+
+- E2) Procedure for 3x3x3 Fewest Moves:
+    - E2a) The judge distributes a scramble sequence and paper to all competitors. The judge then starts the stopwatch and calls "GO".
+        - E2a1) Before the attempt has begun, the competitor must not write on any paper intended for the attempt. Exception: the competitor may write information to identify the attempt (see [Regulation E2c1](regulations:regulation:E2c1)). If they write this information on the paper that contains the scramble sequence, they must write only on the the side without the scramble sequence before the attempt. Penalty for writing anything other than information to identify the attempt: disqualification of the attempt (DNF).
+    - E2b) All competitors have a total time limit of 60 minutes to find and write a solution.
+        - E2b1) The judge should call "5 MINUTES REMAINING" at 55 minutes, and must call "STOP" at 60 minutes.
+    - E2c) At 60 minutes, each competitor must submit to the judge a single piece of paper with a written solution and information to identify the attempt.
+        - E2c1) Information to identify the attempt is: the competitor's name, WCA ID, or competition registrant ID (at least one, optionally multiple), and optionally the competition name, round, or attempt number. Penalty for a submitted solution without name, WCA ID, or competition registrant ID: disqualification of the attempt (DNF).
+        - E2c2) The solution must be a single unambiguous move sequence with each individual move written out in sequential order. Penalty for an ambiguous solution: disqualification of the attempt (DNF).
+        - E2c3) The competitor should clearly black out/scribble out all moves on the paper that are not part of their intended solution.
+        - E2c4) The competitor's solution must only use moves that are exactly defined as notation for the 3x3x3 Cube in [Regulation 12a](regulations:regulation:12a), and must not use any symbols or combinations of symbols that are not specifically defined there. Penalty: disqualification of the attempt (DNF).
+        - E2c5) The competitor's solution is considered correct if starting with a solved puzzle and applying the scramble sequence followed by the solution results in a solved puzzle. Penalty for an incorrect solution: disqualification of the attempt (DNF).
+    - E2d) The competitor's result is the number of moves in their solution, calculated using Outer Block Turn Metric (see [Regulation 12a5](regulations:regulation:12a5)).
+        - E2d1) The competitor's solution must not exceed 80 moves (including rotations) when calculated using Execution Turn Metric (see [Regulation 12a6](regulations:regulation:12a6)). Penalty: disqualification of the attempt (DNF).
+    - E2e) The competitor's solution must not be directly derived from any part of the scramble sequence. Penalty: disqualification of the attempt (DNF), at the discretion of the WCA Delegate.
+        - E2e1) The WCA Delegate may ask the competitor to explain the purpose of each move in their solution, irrespective of the scramble sequence. If the competitor cannot give a valid explanation, the attempt is disqualified (DNF).
+- E3) The competitor may use the following objects during the attempt. Penalty for using unauthorized objects: disqualification of the attempt (DNF).
+    - E3a) Paper (supplied by the judge) and pens/pencils or similar (supplied by the judge, or optionally self-supplied).
+    - E3b) 3x3x3 Cubes (at most 3, self-supplied), as described in [Article 3](regulations:article:3).
+    - E3c) Stickers (self-supplied).
+    - E3d) Stopwatch or watch (self-supplied) for keeping track of the elapsed time, if it is approved by the WCA Delegate.
+    - E3e) Other non-electronic aids that do not give an unfair advantage, at the discretion of the WCA Delegate (see [Regulation 2i1](regulations:regulation:2i1)).
+- E4) The WCA Delegate may choose to publish the solutions (e.g. photo of the score sheets or transcriptions of solutions).
+
+
+## <article-F><clock><clocksolving> Article F: Clock Solving
+
+- F1) Standard speed solving procedures are followed, as described in [Article A](regulations:article:A) (Speed Solving). Additional regulations that supersede the corresponding procedures in [Article A](regulations:article:A) are described below.
+- F2) The judge places the scrambled puzzle onto the mat in a standing position.
+    - F2a) The organization team may enforce using a stand for the puzzle to prevent it from falling before the start of the attempt. If such stands are used, this must be announced before the round starts.
+        - F2a1) The judge must remove the stand from the mat immediately after the competitor removes the puzzle from it.
+- F3) At the end of the inspection period, the competitor places the puzzle in a standing position. Penalty: disqualification of the attempt (DNF).
+    - F3a) The competitor must not change the positions of any pins from their scrambled positions before the start of the solve. Penalty: disqualification of the attempt (DNF).
+
+
+## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Article H: Multi-Blind Solving
+
+- H1) Standard blindfolded solving procedures are followed, as described in [Article B](regulations:article:B) (Blindfolded Solving). Additional regulations that supersede the corresponding procedures in [Article B](regulations:article:B) are described below (partially superseded by [Regulation Y7](regulations:regulation:Y7)).
+    - H1a) Before an attempt, the competitor must submit to the organization team the number of puzzles (at least 2) they wish to attempt.
+        - H1a1) A competitor is not permitted to change the number of puzzles after submitting their number to the organization team.
+        - H1a2) A competitor may request to keep their submission private until all competitors have submitted their numbers. Once all competitors have reported their numbers, the information becomes public (e.g. a competitor may ask for the numbers of any other competitors before starting their attempt).
+        - H1a3) Before the attempt, the scrambled puzzles must be placed on the table in an arbitrary orientation while ensuring they remain completely covered. The puzzles should be arranged in shape as square as possible (e.g. 8 puzzles should be arranged in 2 rows with 3 puzzles and 1 row with 2 puzzles).
+    - H1b) If a competitor is attempting fewer than 6 puzzles, they are allotted a time limit of 10 minutes times the number of puzzles in the attempt, else the time limit is 60 minutes.
+        - H1b1) The competitor may signal the end of the solve at any time. If and when the time limit is reached, the judge stops the attempt and the attempt is then scored; the time limit for the attempt counts as the original recorded time.
+    - H1d) Time penalties for the puzzles of the attempt are cumulative.
+
+
+## <article-Y><temporary-regulations><temporaryregulations> Article Y: Temporary Regulations
+
+- Y1) Additional regulations that supersede all other regulations are described below. These regulations are meant to complement the [Competition Safety Policy](https://www.worldcubeassociation.org/documents/policies/external/Competition%20Safety.pdf).
+- Y2) Definitions:
+    - Y2a) Attendee: Any person who attends a WCA Competition, including competitors, officials and guests.
+    - Y2b) Fixed seating: A competition method in which a competitor does all of their attempts in a round at the same solving station.
+- Y3) Besides what is required in [Regulation 2a](regulations:regulation:2a), if deemed necessary by the WCA Delegate and announced clearly before the competition, an attendee may be required to meet one or more of the following requirements:
+    - Y3a) Wear a face mask inside the competition venue.
+    - Y3b) Not to have come in contact with a person with COVID-19 for at least 14 days before the competition.
+    - Y3c) Not to have COVID-19 nor to feel COVID-19 symptoms (as determined by the [World Health Organization](https://www.who.int/)) for at least 14 days before the competition.
+    - Y3d) Comply with other reasonable safety measures sanctioned by the World Health Organization or by local governments.
+- Y4) All competitors and officials should bring their own pen to the competition.
+- Y5) Judges may bring their own stopwatch or phone for timing inspection, which should be checked by the WCA Delegate.
+- Y6) Environment:
+    - Y6a) If deemed necessary by the WCA Delegate, the competition area must not have a Competitors Area.
+    - Y6b) Competitors should refrain from touching the surface of the solving station when they are not in the process of an official attempt.
+- Y7) Competing procedures that supersede [Article A](regulations:article:A), [B](regulations:article:B), and [H](regulations:article:H) are described below. These procedures do not apply to [Article E](regulations:article:E), Fewest Moves Solving.
+    - Y7a) Competitions should use fixed seating (see [Regulation Y2b](regulations:regulation:Y2b)).
+    - Y7b) The judge should avoid touching the puzzle at all times. Exception: for Clock, the judge should pick up the puzzle to verify both faces are solved.
+    - Y7c) Scrambling:
+        - Y7c1) When called for a round, after disinfecting their puzzles, the competitor submits the puzzle, in its solved state, to the scrambler. The competitor then waits at their assigned solving station.
+    - Y7d) Inspection:
+        - Y7d1) The judge asks the competitor to prepare the timer by turning it on and resetting if necessary. The competitor then turns the timer on and resets it if necessary. The judge should avoid touching the timer at all times.
+    - Y7e) Recording results:
+        - Y7e1) The competitor must check the recorded result, and sign (or initial) the score sheet with their own pen to acknowledge that the result is correct, complete, properly formatted, and clearly readable. This finishes the attempt.
+        - Y7e2) The competitor should not touch the score sheet.
+    - Y7f) After finishing the attempt, if there are more attempts to be done, the competitor must place the puzzle inside the cover.
