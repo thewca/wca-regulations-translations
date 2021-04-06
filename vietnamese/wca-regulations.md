@@ -72,8 +72,9 @@ Chú ý: Vì số thứ tự của các Mục và Quy định không được s�
     - 2e1) Các quốc gia được công nhận theo [Danh sách các quốc gia được công nhận bởi WCA](https://www.worldcubeassociation.org/regulations/countries/).
     - 2e2) Các thi sinh nếu có thay đổi tình trạng công dân có thể thay đổi quốc tịch trước hay tại giải đấu đầu tiên trong năm dương lịch của họ. Ngoại lệ: nếu thí sinh mất quyền công dân của quốc gia họ đại diện trước đó, thí sinh phải đổi quốc tịch trước hoặc tại giải đấu tiếp theo (xem [Quy định 2c2](regulations:regulation:2c2)).
     - 2e3) Thí sinh không có quốc tịch vẫn có thể tham gia thi.
-- 2f) Competitors must obey venue rules and conduct themselves in a considerate manner.
-- 2g) Competitors must remain quiet when inside the designated competition area. Talking is permitted, but must be kept at a reasonable level, and away from competitors who are actively competing.
+- 2f) Thí sinh phải tuân theo quy định tại hội trường và cư sử một cách hợp lí.
+- 2g) Thí sinh phải giữ im lặng khi đang ở trong khu vực thi đấu được chỉ định. Việc nói chuyện được cho phép, nhưng âm lượng phải ở mức vừa phải và phải tránh xa các thi sinh đang tập trung quá trình thi đấu.
+
     - 2g3) Competitors in a Competitors Area must not communicate with each other about the scrambled states of the puzzles of the round in progress. Penalty: disqualification of the competitor(s) from the event, at the discretion of the WCA Delegate.
 - 2h) Competitors must be fully dressed while in the competition venue. At the discretion of the WCA Delegate, competitors may be disqualified from the competition for inappropriate clothing.
 - 2i) While competing, competitors must not use electronics or audio equipment (e.g. cell phones, MP3 players, dictaphones, additional lighting) apart from the Stackmat timer or stopwatch.
