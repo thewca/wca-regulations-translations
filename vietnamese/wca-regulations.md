@@ -59,11 +59,11 @@ Chú ý: Vì số thứ tự của các Mục và Quy định không được s�
 
 ## <article-2><competitors><competitors> Mục 2: Thí sinh
 
-- 2a) Bất kì ai có thể tham gia thi trong một giải đấu WCA nêu họ (được bổ sung bởi [Quy định Y3](regulations:regulation:Y3)):
-    - 2a1) Tuân thủ Quy định WCA
+- 2a) Bất kì ai có thể tham gia thi trong một giải đấu WCA nếu họ (được bổ sung bởi [Quy định Y3](regulations:regulation:Y3)):
+    - 2a1) Tuân thủ Quy định WCA.
     - 2a2) Đạt được những tiêu chuẩn của giải đấu. Tiêu chuẩn phải được thông báo rõ ràng trước giải đấu.
     - 2a3) Không bị đình chỉ bởi Ban Quản trị WCA.
-- 2b) Những thí sinh dưới 18 tuổi phải được sự cho phép của cha mẹ hoặc người giám hộ để được đăng ký và tham gia thi.
+- 2b) Các thí sinh dưới 18 tuổi phải được sự cho phép của cha mẹ hoặc người giám hộ để được đăng ký và tham gia thi.
 - 2c) Thí sinh đăng ký bằng cách cung cấp tất cả các thông tin được yêu cầu bởi ban tổ chức (bao gồm: họ tên, quốc gia, ngày sinh, giới tính, thông tin liên lạc, các nội dung thi đấu đăng kí).
     - 2c1) Một thi sinh không đủ điều kiên tham gia thi nếu không có bản đăng ký đầy đủ, theo quyết định của ban tổ chức.
     - 2c2) Các thi sinh cũ phải cung cấp thông tin nhất quán với hồ sơ WCA của họ. Nếu một thí sinh muốn đổi hoặc cập nhận thông tin cá nhân giữa các giải đấu (VD: thay đổi quốc tịch, họ tên hoặc giới tính), họ phải [liên lạc WCA Results Team](https://www.worldcubeassociation.org/contact/website).
@@ -74,84 +74,92 @@ Chú ý: Vì số thứ tự của các Mục và Quy định không được s�
     - 2e3) Thí sinh không có quốc tịch vẫn có thể tham gia thi.
 - 2f) Thí sinh phải tuân theo quy định tại hội trường và cư sử một cách hợp lí.
 - 2g) Thí sinh phải giữ im lặng khi đang ở trong khu vực thi đấu được chỉ định. Việc nói chuyện được cho phép, nhưng âm lượng phải ở mức vừa phải và phải tránh xa các thi sinh đang tập trung quá trình thi đấu.
-[//]: # (all finished up until this point)
-    - 2g3) Competitors in a Competitors Area must not communicate with each other about the scrambled states of the puzzles of the round in progress. Penalty: disqualification of the competitor(s) from the event, at the discretion of the WCA Delegate.
-- 2h) Competitors must be fully dressed while in the competition venue. At the discretion of the WCA Delegate, competitors may be disqualified from the competition for inappropriate clothing.
-- 2i) While competing, competitors must not use electronics or audio equipment (e.g. cell phones, MP3 players, dictaphones, additional lighting) apart from the Stackmat timer or stopwatch.
-    - 2i1) Competitors may use non-electronic aids that do not give an unfair advantage, at the discretion of the WCA Delegate. This includes:
-        - 2i1a) Medical/physical aids worn by the competitor (e.g. glasses, wrist brace). As an exception to [Regulation 2i](regulations:regulation:2i), medical aids may be electronic if the competitor does not have comfortable non-electronic alternatives (e.g. if the competitor has a personal hearing aid or pacemaker).
-        - 2i1b) Earplugs and earmuffs (but not electronic headphones and earbuds).
-        - 2i1c) Hand warmers.
-        - 2i1d) Food and drink.
-    - 2i2) Competitors may use cameras at the solving station at the discretion of the WCA Delegate, but the following restrictions apply from the start of the attempt until the competitor stops the solve. Penalty for breaking a restriction: disqualification of the attempt (DNF).
-        - 2i2a) Each camera monitor must be blank or out of sight of the competitor (see [Regulation A5b](regulations:regulation:A5b)).
-        - 2i2b) The competitor must not interact with (e.g. operate, hold, wear) any active camera. Exception: the competitor may wear a camera mounted on their head, as long as it is out of their sight and it is clear that they are not interacting with it (apart from wearing it).
-- 2j) The WCA Delegate may disqualify a competitor from a specific event.
-    - 2j1) If a competitor is disqualified from an event for any reason, they are not eligible for any more attempts in the event.
-        - 2j1a) The results of all remaining attempts in the event are recorded as DNF.
-    - 2j2) If a competitor is disqualified during the course of an event, their earlier results remain valid. Exception: cheating or defrauding (see [Regulation 2k2a](regulations:regulation:2k2a)).
-- 2k) At the discretion of the WCA Delegate, a competitor may be disqualified from some events (a single event, multiple events, or all events) if the competitor:
-    - 2k1) Fails to check in or register in time for the competition.
-    - 2k2) Is suspected of cheating or defrauding the officials during the competition.
-        - 2k2a) The WCA Delegate may disqualify any suspected results.
-    - 2k3) Behaves in a way that is unlawful/violent/indecent/unsafe, or intentionally damages venue facilities or personal property within the venue.
-    - 2k4) Distracts or interferes with others during the competition.
-    - 2k5) Fails to abide by WCA Regulations during the competition.
-    - 2k6) Does not fulfill the event's requirements (e.g. not knowing how to solve the puzzle). A competitor must not compete with the expectation of a DNF result or an intentionally poor result.
-- 2l) A competitor may be disqualified immediately, or after a warning, depending on the nature and severity of the infraction.
-    - 2l1) A disqualified competitor is not eligible for the refund of any expenses due to participating in the competition.
-- 2n) Competitors may verbally dispute a ruling to the WCA Delegate.
-    - 2n1) Disputes are only permitted during the competition, within 30 minutes after the disputed incident happened and before the start of any following rounds of the relevant event.
-    - 2n2) The WCA Delegate must resolve the dispute before the start of the next round of the event.
-    - 2n3) The competitor must accept all final rulings of the WCA Delegate. Penalty: disqualification from the competition.
-- 2s) Competitors with disabilities that may prevent them from abiding by one or more WCA Regulations may request special accommodations from the WCA Delegate. Competitors requesting such accommodations should contact the organization team and WCA Delegate at least two weeks before the competition.
-- 2t) Each competitor must be familiar with and understand the WCA Regulations before the competition.
-- 2u) Competitors must be present and ready to compete when they are called to compete for an attempt. Penalty: disqualification from the event.
-    - 2u1) Exception: A competitor who is not present in time for an individually scheduled attempt (e.g. a 3x3x3 Fewest Moves attempt, a 3x3x3 Multi-Blind attempt) may be considered to have declined that attempt (DNS), at the discretion of the WCA Delegate.
+    - 2g3) Thí sinh ở trong khu vực thi đấu không được trao đổi về trạng thái tráo của các khôi hình của vòng thi hiện tại. Hình phạt: Truất quyền thi đấu của (các) thí sinh khỏi nội dung, tùy theo quyết định của WCA Delegate.
+- 2h) Thí sinh phải ăn mặc chỉnh tề khi ở trong hội trường thi đấu. Tùy theo quyết định của WCA Delegate, thí sinh có thể bị truất quyền thi đấu khỏi giải nếu ăn mặc không phù hợp.
+- 2i) Khi đang thi đấu, thí sinh không được sử dụng các thiết bị điện tử hay thiết bị âm thanh (VD: điện thoại di động, máy nghe nhạc, máy ghi âm, thiết bị hỗ trợ chiếu sáng) trừ đồng hồ Stackmat hay đồng hồ bấm giờ.
+    - 2i1) Thí sinh có thể sử dụng các thiết bị hỗ trợ không điện tử và không đem lại lợi thế không công bằng, tùy theo quyết định của WCA Delegate, bao gồm:
+        - 2i1a) Thiết bị hỗ trợ thể lực/y tế được đeo trên người bởi thí sinh (VD: kính mắt, vòng cổ tay). Như một ngoại lệ của [Quy định 2i](regulations:regulation:2i), thí sinh có thể sử dụng các thiết bị hỗ trợ y tế điện tử nếu không có thiết bị khác thay thế (VD: máy trợ thính, máy trợ tim).
+        - 2i1b) Nút tai hoặc bịt tai (không phải tai nghe điện tử).
+        - 2i1c) Thiết bị làm ấm tay.
+        - 2i1d) Thức ăn và thức uống.
+    - 2i2) Thí sinh có thể sử dụng máy quay ở bàn thi đấu tùy theo quyết định của WCA Delegate, nhưng phải tuân thủ những điều kiện sau đây kể từ khi lượt giải bắt đầu đến khi kết thúc lượt giải. Hình phạt khi không tuân theo: truất quyền thi đấu của lượt thi (DNF).
+        - 2i2a) Màn hình máy quay phải trống hoặc ngoài tầm nhìn của thí sinh (xem [Quy định A5b](regulations:regulation:A5b)).
+        - 2i2b) Thí sinh không được tương tác với (VD: điều khiển, cầm, đeo trên người) bất kì máy quay đang hoạt động nào. Ngoại lệ: thí sinh có thể đeo máy quay trên đầu, với điều kiện máy quay ngoài tầm nhìn của thí sinh và thí sinh không được tương tác với máy quay (ngoài việc đeo máy).
+- 2j) WCA Delegate có thể truất quyền thi đấu của thí sinh khỏi một nội dung.
+    - 2j1) Nếu một thí sinh bị truất quyền thi đấu khỏi một nội dung vì bất kì lí do nào, họ không được thực hiện những lượt giải tiếp theo của nội dung đó.
+        - 2j1a) Kết quả các lượt giải còn lại trong nội dung đều bị đánh dấu là DNF.
+    - 2j2) Nếu một thí sinh bị truất quyền thi đấu khi một nội dung đang diễn ra, những kết quả trước đó vẫn được tính là hợp lệ. Ngoại lệ: gian lận và lừa đảo (xem [Quy định 2k2a](regulations:regulation:2k2a)).
+- 2k) Theo quyết định của WCA Delegate, thí sinh có thể bị truất quyền thi đấu một số nội dung (một/nhiều/tất cả nội dung) nếu thí sinh
+    - 2k1) Không điểm danh hay đăng ký đúng thời hạn quy định.
+    - 2k2) Bị nghi gian lận hay lừa đảo thành viên chính thức trong khi giải đấu đang diễn ra.
+        - 2k2a) WCA Delegate có thể hủy bỏ tất cả những kết quả bị nghi gian lận.
+    - 2k3) Hành xử không đúng luật, bạo lực, không phù hợp hay không an toàn, hoặc cố ý làm hư hại cơ sở vật chất ở hội trường hoặc tài sản cá nhân trong hội trường.
+    - 2k4) Gây trở ngại hoặc làm phân tâm người khác khi giải đấu đang diễn ra.
+    - 2k5) Không tuân thủ Quy định WCA khi giải đấu đang diễn ra.
+    - 2k6) Không đạt các yêu cầu của nội dung (VD: không biết giải khối hình). Thí sinh không được tham gia thi với mục đích đạt kết quả DNF hay kết quả kém một cách cố ý.
+- 2l) Thí sinh có thể bị truất quyền thi đấu ngay lập tức hoặc sau cảnh cáo, tùy theo tính chất và mức độ nghiêm trọng của sự vi phạm.
+    - 2l1) Thí sinh bị truất quyền thi đấu không được hoàn lại chi phí liên quan đến việc tham gia giải đấu.
+- 2n) Thí sinh có thể khiếu nại quyết định của WCA Delegate.
+    - 2n1) Việc khiếu nại chỉ được cho phép khi giải đấu đang diễn ra, trong vòng 30 phút kể từ khi sự cố diễn ra và trước khi những vòng kế tiếp của nội dung liên quan bắt đầu.
+    - 2n2) WCA Delegate phải giải quyết khiếu nại trước khi vòng tiếp theo của nội dung bắt đầu.
+    - 2n3) Thí sinh phải chấp nhận quyết định cuối cùng của WCA Delegate. Hình phạt: Truất quyền thi đấu khỏi giải.
+- 2s) Thí sinh khuyết tật nếu gặp trở ngại trong việc tuân theo một hay nhiều Quy định WCA có thể yêu cầu sự hỗ trợ đặc biệt từ WCA Delegate. Thí sinh yêu cầu sự hỗ trợ như trên nên liên lạc với ban tổ chức và WCA Delegate ít nhất 2 tuần trước giải đấu.
+- 2t) Mỗi thí sinh phải làm quen và nắm bắt được các Quy định WCA trước khi giải đấu bắt đầu.
+- 2u) Thí sinh phải có mặt và sẵn sàng thi đấu khi được gọi tên tham gia thi một nội dung. Hình phạt: truất quyền thi đấu khỏi nội dung.
+    - 2u1) Ngoại lệ: Thí sinh không có mặt đúng giờ cho một nội dung có lịch thi cá nhân (VD: Giải Tối ưu 3x3x3, Giải Bịt mắt nhiều 3x3x3) có thể được coi là đã từ chối lượt giải đó (DNS), tùy theo quyết định của WCA Delegate.
 
 
-## <article-3><puzzles><puzzles> Article 3: Puzzles
+## <article-3><puzzles><puzzles> Mục 3: Khối hình
 
-- 3a) Competitors must provide their own puzzles for the competition.
-    - 3a1) Competitors must be ready to submit their puzzles when they are called (see [Regulation 2u](regulations:regulation:2u)).
-    - 3a2) Puzzles must be fully operational, such that normal scrambling is possible.
-    - 3a3) Polyhedral puzzles must use a color scheme with one unique color per face in the solved state. Each puzzle variation must have moves, states, and solutions functionally identical to the original puzzle.
-    - 3a4) Puzzles must not have electronic components (e.g. Bluetooth or Wi-Fi capabilities, motors, sensors, lights). See [Regulation 2i](regulations:regulation:2i).
-- 3d) Puzzles must have colored parts, which define the color scheme of the puzzle and must be one and only one of the following: colored stickers, colored tiles, colored plastic, or painted/printed colors. All colored parts of a puzzle must be made of a similar material.
-    - 3d1) For competitors with a medically documented visual disability, the following exceptions apply:
-        - 3d1a) Blind competitors may use textured puzzles with different textures on different faces. Each face should have a distinct color, to aid in scrambling and judging.
-        - 3d1b) Color blind competitors who cannot distinguish between the necessary number of colors may use colored parts with patterns, if it has been explicitly approved according to [Regulation 2s](regulations:regulation:2s). Patterns may come from stickers or be drawn.
-    - 3d2) The colors of the colored parts must be solid, with one uniform color per face. Each color must be clearly distinct from the other colors.
-- 3h) Modifications that enhance the basic concept of a puzzle are not permitted. Modified versions of puzzles are permitted only if the modification does not make any additional information available to the competitor (e.g. orientation or identity of pieces), compared to an unmodified version of the same puzzle.
-    - 3h1) "Pillowed" puzzles are permitted.
-    - 3h2) Puzzles whose colored plastic is visible inside the puzzle (e.g. "stickerless" puzzles) are permitted. This does not include the following puzzles:
-        - 3h2a) Puzzles with transparent parts that can reveal more information about the state of the puzzle. Exception: An overlay sticker or a logo (see [Regulation 3l](regulations:regulation:3l)).
-    - 3h3) Any modifications to a puzzle that result in poor performance by a competitor are not grounds for additional attempts.
-    - 3h4) For Clock, custom "inserts" (the same shape and size as the traditional paper inserts) are permitted, at the discretion of the WCA Delegate. The inserts must have a clear indication of 12 o'clock that matches the original inserts.
-- 3j) Puzzles must be clean, and must not have any markings, elevated pieces, damage, or other differences that significantly distinguish any piece from a similar piece. Exception: a logo (see [Regulation 3l](regulations:regulation:3l)).
-    - 3j1) Puzzles are permitted to have reasonable wear, at the discretion of the WCA Delegate.
-    - 3j2) Definition: Two pieces are similar to each other if they are identical in shape and size, or mirrored in shape and identical in size.
-    - 3j3) Corrugated/textured parts which permit the orientation of pieces to be distinguished by feel are not permitted for blindfolded events.
-- 3k) Puzzles should be approved by the WCA Delegate before use in the competition.
-    - 3k1) If a non-permitted puzzle is found during a round, the competitor must not continue to use the puzzle, and must submit a replacement.
-    - 3k2) Penalty for attempts done with puzzles which are not permitted: disqualification of the attempt (DNF). The following exceptions apply:
-        - 3k2a) If a non-permitted puzzle is found before a round is complete, affected results in the round may be replaced with extra attempts, at the discretion of the WCA Delegate.
-        - 3k2b) 3x3x3 Multi-Blind: if any puzzles are found to be non-permitted, such puzzles may be individually counted as unsolved (without disqualifying the entire attempt), at the discretion of the WCA Delegate.
-- 3l) A puzzle may have a logo on a colored part. If it does, it must have at most one colored part with a logo. Exception: For blindfolded events, a puzzle must not have a logo.
-    - 3l1) The logo must be placed on a center piece. Exceptions for puzzles that do not have center pieces:
-        - 3l1a) For Pyraminx and 2x2x2, the logo may be on any piece.
-        - 3l1b) For Square-1, the logo must be on a piece in the equatorial slice.
-    - 3l2) The logo may be embossed, engraved, or consist of an overlay sticker.
-- 3m) All brands of puzzles and puzzle parts are permitted, as long as the puzzles comply with all WCA Regulations.
+- 3a) Thí sinh phải tự cung cấp khối hình cho giải đấu.
+    - 3a1) Thí sinh phải sẵn sàng nộp khối hình khi được gọi tên (xem [Quy định 2u](regulations:regulation:2u)).
+    - 3a2) Khối hình phải hoạt động hoàn toàn, sao cho có thể tráo một cách bình thường.
+    - 3a3) Các khối hình đa diện phải sử dụng hệ màu với một màu khác nhau cho mỗi mặt trong trạng thái đã giải. Các biến thể (về hệ màu) của khối hình phải có các bước, trạng thái và cách giải tương tự như khối hình gốc.
+    - 3a4) Các khối hình không được có các bộ phận điện tử (VD: khả năng kết nối Bluetooth và Wi-Fi, động cơ, cảm biến, đèn). Xem [Quy định 2i](regulations:regulation:2i).
+- 3d) Khối hình phải có các bộ phận có màu biểu thị hệ màu của khối hình và phải là một và chỉ một trong những loại bộ phận sau: miếng dán màu (sticker), tấm nhựa màu (tile), nhựa màu (stickerless), hoặc màu sơn/màu in. Tất cả các bộ phận có màu của khối hình phải được làm bằng vật liệu tương đồng.
+    - 3d1) Các thí sinh có khiếm khuyết về thị lực (có giấy tờ chứng minh) được hưởng các ngoại lệ sau:
+        - 3d1a) Các thí sinh mù có thể dùng các khối hình có kết cấu bề mặt khác nhau ở mỗi mặt. Mỗi mặt nên có một màu riêng để hỗ trợ quá trình tráo và trọng tài.
+        - 3d1b) Các thí sinh mù màu không thể phân biệt số màu cần thiết có thể sử dụng các bộ phận có màu có các họa tiết, nếu như được cho phép ở [Quy định 2s](regulations:regulation:2s). Họa tiết có thể ở trên sticker hoặc được vẽ lên.
+    - 3d2) Các màu của các bộ phận có màu phải mang tính đồng nhất, với một màu riêng cho mỗi mặt. Mỗi màu phải khác rõ các màu còn lại.
+- 3h) Các thay đổi cải tiến khả năng hoạt động cơ bản của khối hình đều không được chấp nhận. Các thay đổi chỉ được chấp nhận khi các thay đổi không cung cấp thêm thông tin cho thí sinh (VD: thông tin định hướng hoặc nhận dạng các mặt) so với cùng một khối hình khi chưa được thay đổi.
+    - 3h1) Các khối hình có dạng "gối" (pillowed) được chấp nhận.
+    - 3h2) Những khối hình có bộ phận có màu có thể nhìn được ở bên trong (VD: khối hình "stickerless") được chấp nhận. Quy định này không bao gồm:
+        - 3h2a) Sticker có những bộ phận trong suốt có thể tiết lộ thêm thông tin về trạng thái khối hình. Ngoại lệ: Miếng dán phủ (overlay sticker) hoặc logo (xem [Quy định 3l](regulations:regulation:3l)).
+    - 3h3) Các thay đổi dẫn đến kết quả không tốt cho thí sinh đều không phải là lí do chính đáng cho việc bổ sung lượt giải.
+    - 3h4) Đối với Clock, các kim đồng hồ làm riêng (cùng kích cỡ và hình dạng với kim đồng hồ gốc bằng giấy) được cho phép, tùy theo quyết định của WCA Delegate. Kim đồng hồ phải chỉ rõ được hướng 12h như kim đồng hồ gốc.
+- 3j) Các khối hình phải sạch, không có vết đánh dấu, các phần bị lệch, hư hỏng, hoặc các khác biệt rõ khác giữa các viên. Ngoại lệ: logo (xem [Quy định 3l](regulations:regulation:3l)).
+    - 3j1) Các khối hình bị xước được cho phép, tùy theo quyết định của WCA Delegate.
+    - 3j2) Định nghĩa: Hai viên được coi là giống nhau nếu cùng kích cỡ và hình dạng, hoặc hình dạng đối nhau và cùng kích cỡ.
+    - 3j3) Các bộ phận có kết cấu bề mặt cho phép định hướng của các viên được phân biệt khi sờ đều không được chấp nhận cho những nội dung bịt mắt.
+- 3k) Các khối hình nên được chấp nhận bởi WCA Delegate trước khi được sử dụng trong giải.
+    - 3k1) Nếu một khối hình không được chấp nhận bị phát hiện trong khi một vòng thi đang diễn ra, thí sinh không được tiếp tục sử dụng khối hình này và phải nộp một khối hình thay thế.
+    - 3k2) Hình phạt cho những lượt giải được thực hiện bằng khối hình không được chấp nhận: truất quyền thi đấu lượt giải (DNF). Các ngoại lệ sau đây được áp dụng:
+        - 3k2a) Nếu một khối hình không được chấp nhận bị phát hiện trước khi vòng thi kết thúc, các kết quả bị ảnh hưởng có thể được thay thế bằng các lượt giải bổ sung, tùy theo quyết định của WCA Delegate.
+        - 3k2b) Giải Tối ưu 3x3x3: nếu bất kì khối hình nào bị phát hiện là không được chấp nhận, các khối hình đó sẽ được tính riêng là chưa giải (mà không hủy bỏ cả lượt giải), tùy theo quyết định của WCA Delegate.
+- 3l) Khối hình có thể có logo ở một mặt. Nếu có, chỉ được phép có duy nhất một viên của khối hình được có logo. Ngoại lệ: đối với các nội dung bịt mắt, khối hình không được có logo.
+    - 3l1) Logo phải được đặt ở một viên tâm. Ngoại lệ cho các khối hình không có viên tâm.:
+        - 3l1a) Đối với Pyraminx và 2x2x2, logo có thể ở bất kì viên nào.
+        - 3l1b) Đối với Square-1, logo phải ở một viên ở tầng giữa.
+    - 3l2) Logo có thể được khắc, khắc nổi hoặc được dán bằng một miếng dán phủ.
+- 3m) Tất cả các nhãn hiệu khối hình và bộ phận khối hình đều được chấp nhận, với điều kiện khối hình tuân thủ Quy định WCA.
 
 
-## <article-4><scrambling><scrambling> Article 4: Scrambling
+## <article-4><scrambling><scrambling> Mục 4: Tráo
 
-- 4a) A scrambler applies scramble sequences to the puzzles.
-- 4b) Puzzles must be scrambled using computer-generated random scramble sequences.
-    - 4b1) Generated scramble sequences must not be inspected before the competition, and must not be filtered or selected in any way by the WCA Delegate.
-    - 4b2) Scramble sequences for a group must be available only to the WCA Delegate before the start of that group, and only available to the WCA Delegate and the scramblers for the group until it is finished. Exception: For 3x3x3 Fewest Moves, competitors receive scramble sequences during the round (see [Article E](regulations:article:E)).
-        - 4b2a) The designated WCA Delegate for the competition must only give access to scramble sequences for future groups to other members of the organization team if they will be temporarily unavailable (e.g. competing themselves), and should give others access to the minimum possible amount of scrambles in this case.
+- 4a) Người tráo áp dụng các công thức tráo lên khối hình.
+- 4b) Khối hình phải được tráo bằng các công thức tráo ngẫu nhiên được tạo trên máy tính.
+    - 4b1) Các công thức tráo không được quan sát trước giải đấu, và không được phép bị lọc hoặc lựa chọn dưới bất kì hình thức nào bởi WCA Delegate.
+    - 4b2) Các công thức tráo cho một nhóm thi chỉ được phép được truy cập bởi WCA Delegate trước khi nhóm đó bắt đầu thi, và chỉ được phép truy cập bởi WCA Delegate và người tráo cho ngóm thi đó cho đến khi nhóm thi kết thúc. Ngoại lệ: Cho Giải Tối Ưu nhiều 3x3x3, các thí sinh nhận công thức tráo trong vòng thi (xem [Mục E](regulations:article:E)).
+        - 4b2a) WCA Delegate được chỉ định chỉ được phép cho các thành viên khác trong ban tổ chức quyền truy cập các công thức tráo của các nhóm thi sau chỉ khi WCA Delegate tạm thời không thể thực hiện nhiệm vụ (VD: tham gia thi trong giải đấu), và nên giữ số công thức tráo được trao quyền truy cập ở mức ít nhất trong trường hợp này.
+    - 4b3) Yêu cầu cho chương trình tạo công thức tráo: Công thức tráo chính thức phải tạo ra một trạng thái ngẫu nhiên cần ít nhất 2 bước để giải trong số tất cả các trạng thái (xác suất của mỗi trạng thái là như nhau). Các ngoại lệ và bổ sung sau đây được áp dụng:
+        - 4b3a) Đối với các nội dung .
+        - 4b3b) 2x2x2 Cube: The (random) state must require at least 4 moves to solve.
+        - 4b3c) Skewb: The (random) state must require at least 7 moves to solve.
+        - 4b3d) Square-1: The (random) state must require at least 11 moves to solve.
+        - 4b3e) 5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube, and Megaminx: sufficiently many random moves (instead of random state), at least 2 moves to solve.
+        - 4b3f) Pyraminx: The (random) state must require at least 6 moves to solve.
+    - 4b4) Each scramble sequence should be applied during a maximum time frame of 2 hours. This time frame starts when the scramble sequence is applied for the first time.
+
     - 4b3) Specification for a scramble program: An official scramble sequence must produce a random state from all states that require at least 2 moves to solve (equal probability for each state). The following additions/exceptions apply:
         - 4b3a) For blindfolded events, the scramble sequence must orient the puzzle randomly (equal probability for each orientation).
         - 4b3b) 2x2x2 Cube: The (random) state must require at least 4 moves to solve.
