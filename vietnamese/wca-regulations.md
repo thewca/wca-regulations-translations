@@ -152,36 +152,42 @@ Chú ý: Vì số thứ tự của các Mục và Quy định không được s�
     - 4b2) Các công thức tráo cho một nhóm thi chỉ được phép được truy cập bởi WCA Delegate trước khi nhóm đó bắt đầu thi, và chỉ được phép truy cập bởi WCA Delegate và người tráo cho ngóm thi đó cho đến khi nhóm thi kết thúc. Ngoại lệ: Cho Giải Tối Ưu nhiều 3x3x3, các thí sinh nhận công thức tráo trong vòng thi (xem [Mục E](regulations:article:E)).
         - 4b2a) WCA Delegate được chỉ định chỉ được phép cho các thành viên khác trong ban tổ chức quyền truy cập các công thức tráo của các nhóm thi sau chỉ khi WCA Delegate tạm thời không thể thực hiện nhiệm vụ (VD: tham gia thi trong giải đấu), và nên giữ số công thức tráo được trao quyền truy cập ở mức ít nhất trong trường hợp này.
     - 4b3) Yêu cầu cho chương trình tạo công thức tráo: Công thức tráo chính thức phải tạo ra một trạng thái ngẫu nhiên cần ít nhất 2 bước để giải trong số tất cả các trạng thái (xác suất của mỗi trạng thái là như nhau). Các ngoại lệ và bổ sung sau đây được áp dụng:
-        - 4b3a) Đối với các nội dung .
-        - 4b3b) 2x2x2 Cube: The (random) state must require at least 4 moves to solve.
-        - 4b3c) Skewb: The (random) state must require at least 7 moves to solve.
-        - 4b3d) Square-1: The (random) state must require at least 11 moves to solve.
-        - 4b3e) 5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube, and Megaminx: sufficiently many random moves (instead of random state), at least 2 moves to solve.
-        - 4b3f) Pyraminx: The (random) state must require at least 6 moves to solve.
-    - 4b4) Each scramble sequence should be applied during a maximum time frame of 2 hours. This time frame starts when the scramble sequence is applied for the first time.
-
-    - 4b3) Specification for a scramble program: An official scramble sequence must produce a random state from all states that require at least 2 moves to solve (equal probability for each state). The following additions/exceptions apply:
-        - 4b3a) For blindfolded events, the scramble sequence must orient the puzzle randomly (equal probability for each orientation).
-        - 4b3b) 2x2x2 Cube: The (random) state must require at least 4 moves to solve.
-        - 4b3c) Skewb: The (random) state must require at least 7 moves to solve.
-        - 4b3d) Square-1: The (random) state must require at least 11 moves to solve.
-        - 4b3e) 5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube, and Megaminx: sufficiently many random moves (instead of random state), at least 2 moves to solve.
-        - 4b3f) Pyraminx: The (random) state must require at least 6 moves to solve.
-    - 4b4) Each scramble sequence should be applied during a maximum time frame of 2 hours. This time frame starts when the scramble sequence is applied for the first time.
-- 4d) Scrambling orientation:
-    - 4d1) NxNxN Cubes and Megaminx are scrambled starting with the white face (if not possible, then the lightest face) on the top and the darkest adjacent green face (if not possible, then the darkest adjacent face) on the front.
-    - 4d2) Pyraminx is scrambled starting with the yellow face (if not possible, then the lightest face) on the bottom and the green face (if not possible, then the darkest adjacent face) on the front.
-    - 4d3) Square-1 is scrambled starting with the darker color on front (out of the 2 possible scrambling orientations).
-    - 4d4) Clock is scrambled starting with either side in front and 12 o'clock pointing up.
-    - 4d5) Skewb is scrambled starting with the white face (if not possible, then the lightest face) on top and the green face (if not possible, then the darkest adjacent face) on the front-left.
-- 4f) Competition scramble sequences must be generated using a current official version of an official WCA scramble program (available [via the WCA website](https://www.worldcubeassociation.org/regulations/scrambles/)).
-- 4g) After scrambling a puzzle, the scrambler must verify that the puzzle is scrambled correctly. If the puzzle state is wrong, the scrambler must correct it (e.g. by solving the puzzle and applying the scramble sequence again).
-    - 4g1) Exception: For the 6x6x6 Cube, 7x7x7 Cube, and Megaminx, it is not necessary to correct the puzzle state, at the discretion of the WCA Delegate.
+        - 4b3a) Đối với các nội dung bịt mắt, công thức tráo phải đưa khối hình vào định hướng ngẫu nhiên (xác suất của mỗi định hướng là như nhau).
+        - 4b3b) Đối với Khối hình 2x2x2: Trạng thái (ngẫu nhiên) phải cần ít nhất 4 bước để giải.
+        - 4b3c) Đối với Skewb: Trạng thái (ngẫu nhiên) phải cần ít nhất 7 bước để giải.
+        - 4b3d) Đối với Square-1: Trạng thái (ngẫu nhiên) phải cần ít nhất 11 bước để giải.
+        - 4b3e) Đối với Khối 5x5x5, Khối 6x6x6, Khối 7x7x7, và Megaminx: cần đủ số bước ngẫu nhiên (thay vì trạng thái ngẫu nhiên), cần ít nhất 2 bước để giải.
+        - 4b3f) Đối với Pyraminx: Trạng thái (ngẫu nhiên) phải cần ít nhất 6 bước để giải.
+    - 4b4) Mỗi công thức giải nên được áp dung trong khung thời gian dài nhất là 2 giờ. Khung thời gian này bắt đầu khi công thức tráo được áp dụng lần đầu tiên.
+- 4d) Định hướng khi tráo:
+    - 4d1) Các khối NxNxN và Megaminx được tráo với mặt trắng (nếu không thể, sử dụng mặt sáng màu nhất) ở phía trên và mặt xanh lá (nếu không thể, sử dụng mặt liền kề tối màu nhất) ở phía trước.
+    - 4d2) Pyraminx được tráo với mặt vàng (nếu không thể, sử dụng mặt sáng màu nhất) ở phía dưới và mặt xanh lá (nếu không thể, sử dụng mặt liền kề tối màu nhất) ở phía trên.
+    - 4d3) Square-1 được tráo với mặt tối màu hơn ở phía trước (trong số 2 hướng tráo khả thi).
+    - 4d4) Clock được tráo với bất kì một trong hai mặt ở phía trước và hướng 12h chỉ lên trên.
+    - 4d5) Skewb được tráo với mặt trắng (nếu không thể, sử dụng mặt sáng màu nhất) ở phía trên và mặt xanh lá (nếu không thể, sử dụng mặt liền kề tối màu nhất) ở phía trước-trái.
+- 4f) Các công thức tráo cho các giải đấu phải được tạo bằng phiên bản chính thức hiện hành của một chương trình tạo công thức tráo chính thức cho WCA (có ở [website WCA](https://www.worldcubeassociation.org/regulations/scrambles/)).
+- 4g) Sau khi tráo khối hình, người tráo phải xác nhận khối hình đã được tráo chính xác. Nếu trạng thái khối hình không chính xác, người tráo phải sửa lại khối hình (VD: bằng cách giải khối hình và áp dụng công thức tráo một lần nũa).
+    - 4g1) Ngoại lệ: Đối với Khối 6x6x6, Khối 7x7x7 và Megaminx, việc sửa lại khối hình là không cần thiết, tùy theo quyết định của WCA Delegate.
 
 
-## <article-5><puzzle-defects><puzzledefects> Article 5: Puzzle Defects
+## <article-5><puzzle-defects><puzzledefects> Mục 5: Hư hỏng khối hình
 
-- 5a) Examples of puzzle defects include: popped parts, pieces twisted in place, and detached screws/caps/stickers.
+- 5a) Ví dụ về khối hình bị hư hòng bao gồm: các phần bị bung hoặc vỡ, các viên bị xoay, lật tại chỗ, và ốc/miếng dán/viên nhựa rơi ra ngoài.
+- 5b) Nếu khối hình bị hư hỏng khi một lượt giải đang diễn ra, thí sinh có thể chọn giữa việc sửa chữa khối hình và tiếp tục lượt giải, hoặc dừng lượt giải.
+    - 5b1) Nếu thi sinh chọn việc sửa chữa khối hình, họ chỉ được phép sửa những phần bị hư hỏng. Không được phép sử dụng công cụ hoặc các bộ phận của các khối hình khác để sửa chữa khối hình gốc. Hình phạt: truất quyền thi đấu lượt thi (DNF).
+    - 5b2) Việc sửa chữa khối hình không được phép tạo lợi thế cho thí sinh trong việc giải khối hình. Hình phạt: truất quyền thi đấu lượt thi (DNF).
+    - 5b3) Các hình thức sửa chữa được cho phép:
+        - 5b3a) Nếu bộ phận bị bung ra khỏi vị trí cố định, thí sinh có thể đặt lại bộ phận về vị trí đúng.
+        - 5b3b) Nếu thí sinh sửa chữa khối hình nhưng sau đó nhận ra khối hình không thể giải được, thí sinh có thể tháo ra và lắp lại nhiều nhất 4 viên để cho khối hình có thể giải được.
+        - 5b3c) Nếu khối hình không thể giải được và có thể đưa vào trạng thái có thể giải được bằng cách xoay một viên góc, thí sinh có thể sửa chữa bằng cách xoay viên góc mà không tháo khối hình.
+    - 5b4) Trong lúc giải bịt mắt (xem [Quy định B4](regulations:regulation:b4)), tất cả việc sửa chữa đều phải thực hiện khi đang bịt mắt. Hình phạt: truất quyền thi đấu lượt thi (DNF).
+    - 5b5) Nếu một số bộ phận của khối hình bị tách rời hay khong hoàn toàn cố định sao lượt giải, những quy định sau đây được áp dụng:
+        - 5b5a) Nếu một hay nhiều bộ phận không có mặt có màu bị ảnh hưởng, khối hình được coi là đã được giải.
+        - 5b5b) Nếu một bộ phận có một mặt có màu bị ảnh hưởng, khối hình được coi là đã được giải.
+        - 5b5c) Nếu nhiều hơn một bộ phận có một mặt có màu bị ảnh hưởng, khối hình được coi là chưa được giải (DNF).
+        - 5b5d) Nếu một hay nhiều bộ phận có nhiều hơn một mặt có màu bị ảnh hưởng, khối hình được coi là chưa được giải (DNF).
+        - 5b5e) Quy định [5b5c](regulations:regulation:5b5c) và [5b5d](regulations:regulation:5b5d) có hiệu lực hơn [5b5a](regulations:regulation:5b5a) và [5b5b](regulations:regulation:5b5b).
+
 - 5b) If a puzzle defect occurs during an attempt, the competitor may choose to either repair the defect and continue the attempt, or to stop the attempt.
     - 5b1) If a competitor chooses to repair the puzzle, they must repair only the defective parts. Tools and/or parts of other puzzles must not be used to repair the original puzzle. Penalty: disqualification of the attempt (DNF).
     - 5b2) Any repair to a puzzle must not give the competitor an advantage in solving the puzzle. Penalty: disqualification of the attempt (DNF).
