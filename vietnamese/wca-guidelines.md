@@ -1,49 +1,50 @@
-# <wca-title>Quy định WCA
+# <wca-title>Hướng dẫn WCA
 
 <version>Bản cập nhật: 01 Tháng 8, 2020
 
 
-## Notes
+## Ghi chú
+Lần chỉnh sửa cuối: 09 Tháng 4, 2021
+### Quy định WCA
 
-### WCA Regulations
+Hướng dẫn WCA bổ sung cho [Quy định WCA](regulations:top). Hãy đọc bản Quy định để biết thêm thông tin về WCA.
 
-The WCA Guidelines supplement the [WCA Regulations](regulations:top). Please see the Regulations for more information about the WCA.
+### Đánh số
 
-### Numbering
+Các hướng dẫn được đánh số tương ứng với các quy định liên quan. Chú ý rằng nhiều Hướng dẫn có thể tương ứng với cùng một Quy định, và một số Hướng dẫn có thể tương ứng với những Quy định không còn tồn tại nữa.
 
-Guidelines are numbered in correspondence with related regulations. Note that multiple Guidelines may correspond to the same Regulation, and some Guidelines correspond to Regulations that do not exist anymore.
+### Nhãn
 
-### Labels
+Để cung cấp thêm thông tin, mỗi Hướng dẫn được phân loại bằng một trong những nhãn sau. Chú ý rằng những nhãn này nên được coi là thông tin phụ, không phải là báo hiệu về mức độ quan trọng của từng Hướng dẫn.
 
-To be more informative, each Guideline is classified using one of the following labels. Note that this should be treated as metadata, not as a description of importance.
-
-- <label>[ADDITION] Additional information to supplement the Regulations.
-- <label>[CLARIFICATION] Information to address any possible questions about the interpretation of the Regulations.
-- <label>[EXPLANATION] Information that clarifies the intent of Regulations.
-- <label>[RECOMMENDATION] Something that is not strictly mandatory, but that should be done if possible.
-- <label>[REMINDER] Information that may be addressed by other Regulations/Guideline, but whose relevance is worth reiterating.
-- <label>[EXAMPLE] An example of how to apply a Regulation.
+- <label>[BỔ SUNG] Thông tin bổ sung cho Quy định.
+- <label>[LÀM RÕ] Thông tin làm rõ về Quy định.
+- <label>[GIẢI THÍCH] Thông tin giải thích về Quy định.
+- <label>[KHUYẾN CÁO] Những hành động không bắt buộc nhưng nên được thực hiện nếu có thể.
+- <label>[GHI NHỚ] Một quy định được nhắc lại vì sự quan trọng, mặc dù đã được nhắc đến trong Quy định/Hướng dẫn khác.
+- <label>[VÍ DỤ] Ví dụ của cách áp dụng một Quy định.
 
 
-## <contents> [Contents](guidelines:contents)
+## <contents> [Nội dung](guidelines:contents)
 
 <table-of-contents>
 
 
-## <article-1><officials><officials> Article 1: Officials
+## <article-1><officials><officials> Mục 1: Thành viên chính thức
 
-- 1c+) [CLARIFICATION] If there are multiple WCA Delegates designated for the competition, "the WCA Delegate" refers to any of them. "The WCA Delegate" also refers to anyone appointed by a designated WCA Delegate for a relevant responsibility of the WCA Delegate for the competition.
-- 1c++) [CLARIFICATION] WCA Delegates may attend the competition without being designated to serve in the WCA Delegate role for the competition. "The WCA Delegate" does not refer to them unless they have been appointed with a relevant responsibility by a designated WCA Delegate for the competition (see [Guideline 1c+](guidelines:guideline:1c+)).
-- 1h+) [RECOMMENDATION] Competitors in the same group should use the same scramble sequences. Different groups should use different scramble sequences.
-- 1h++) [RECOMMENDATION] All attempts in the final round of an event, as well as all 3x3x3 Fewest Moves attempts, should have the same scramble sequences for all competitors (i.e. only 1 group).
-- 1h1+) [CLARIFICATION] Scramblers/judges should only scramble for/judge other competitors in the same group only if it is important for competition logistics.
-- 1h1++) [CLARIFICATION] For 3x3x3 Fewest Moves, judges may judge competitors in their own group before they have finished their attempt (i.e. while they are competing).
+- 1c+) [LÀM RÕ] Nếu có nhiều WCA Delegate dược phân công cho một giải đấu, "WCA Delegate" chỉ bất kì ai trong số họ. "WCA Delegate" đồng thời cũng chỉ bất kì ai được ủy nhiệm làm nhiệm vụ của WCA Delegate trong giải đấu.
+- 1c++) [LÀM RÕ] Các WCA Delegate có thể tham dự một giải đấu mà không cần được phân công làm nhiệm vụ trong giải đấu đó. "WCA Delegate" không chỉ họ trừ khi họ được ủy nhiệm làm nhiệm vụ bởi WCA Delegate được phân công cho giải đấu (xem [Hướng dẫn 1c+](guidelines:guideline:1c+)).
+ refers to anyone appointed by a designated WCA Delegate for a relevant responsibility of the WCA Delegate for the competition.
+- 1h+) [KHUYẾN CÁO] Thí sinh trong cùng một nhóm thi nên dùng các công thức tráo giống nhau, và các nhóm thi khác nhau nên dùng công thức tráo khác nhau.
+- 1h++) [LÀM RÕ] Tất cả các lượt giải trong vòng chung kết của một nội dung, đồng thời với các lượt Giải Tối ưu 3x3x3, nên có cùng các công thức tráo cho tất cả các thí sinh (vì chỉ có 1 nhóm thi duy nhất).
+- 1h1+) [LÀM RÕ] Người tráo/trọng tài chỉ nên tráo/làm trọng tài cho các thí sinh trong cùng một nhóm thi với họ nếu điều đó quan trọng với việc hậu cần của giải đấu.
+- 1h1++) [CLARIFICATION] Đối với Giải Tối ưu 3x3x3, trọng tài có thể làm trọng tài cho các thí sinh trong cùng nhóm thi với họ trước khi họ hoàn thành lượt giải (khi họ đang thi đấu).
 
 
-## <article-2><competitors><competitors> Article 2: Competitors
+## <article-2><competitors><competitors> Mục 2: Thí sinh
 
-- 2c+) [ADDITION] First-time competitors should register using their legal name. They may register using a reasonable nickname, at the discretion of the WCA Delegate.
-- 2c1+) [ADDITION] The requirements for a completed registration must be clearly stated on the competition website.
+- 2c+) [BỔ SUNG] Những thí sinh mới nên đăng ký bằng tên hợp pháp. Họ có thể đăng ký bằng biệt danh phù hợp, tùy theo quyết định của WCA Delegate.
+- 2c1+) [BỔ SUNG] The requirements for a completed registration must be clearly stated on the competition website. Yêu cầu cho một đơn đăng ký hoàn chỉnh phải được liệt kê rõ trên website của giải đấu.
 - 2c1++) [EXAMPLE] For example, the organization team may require a confirmation e-mail to be answered before a particular date, pre-payment of the registration fee, or paying due registration fees of past competitions. The organization team should carefully consider the fairness of the requirements.
 - 2c2+) [CLARIFICATION] A WCA profile is the collection of data related to a competitor, and includes their personal information (name, nationality, gender, and date of birth) as well as all their results in official WCA competitions.
 - 2d+) [ADDITION] Date of birth and contact information should be especially secured.
