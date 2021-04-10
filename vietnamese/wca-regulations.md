@@ -205,7 +205,7 @@ Chú ý: Vì số thứ tự của các Mục và Quy định không được s�
     - 7h1) Ban tổ chức có thể yêu cầu thí sinh được gọi tên lên thi đấu phải ở trong khu vực thí sinh được chỉ định cho đến khi thí sinh đã hoàn thành tất cả lượt giải trong vòng thi đó.
 
 
-## <article-9><events><events> Article 9: Nội dung thi đấu
+## <article-9><events><events> Mục 9: Nội dung thi đấu
 
 - 9a) WCA quản lí các giải đấu về các khối hình cơ học hoạt động bằng cách xoay cụm các viên, còn được gọi là "khối hình xoay".
 - 9b) Các nội dung thi đấu chính thức của WCA là:
@@ -502,7 +502,7 @@ Chú ý: Vì số thứ tự của các Mục và Quy định không được s�
     - F3a) Thí sinh không được thay đổi vị trí các ghim của khối hình đã được tráo trước khi lượt giải bắt đầu. Hình phạt: hủy bỏ kết quả lượt giải (DNF).
 
 
-## <article-H><multiple-blindfolded><multipleblindfoldedsolving> MỤc H: Giải Bịt mắt nhiều khối hình
+## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Mục H: Giải Bịt mắt nhiều khối hình
 
 - H1) Các quy trình giải bịt mắt được tuân thủ, như đã được mô tả ở [Mục B](regulations:article:B) (Giải Bịt mắt). Các quy định có hiệu lực hơn các quy định tương ứng ở [Mục B](regulations:article:B) được mô tả dưới đây (bị ưu tiên một phần bởi [Quy định Y7](regulations:regulation:Y7)).
     - H1a) Trước một lượt giải, thí sinh phải nộp cho ban tổ chức số khối hình (ít nhất 2 khối) mà thí sinh muốn giải.
