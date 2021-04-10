@@ -457,7 +457,7 @@ Chú ý: Vì số thứ tự của các Mục và Quy định không được s�
     - B5c) Nếu thí sinh đang không chạm vào khối hình, thí sinh có thể bỏ bịt mắt trước khi dừng đồng hồ. Thí sinh không được chạm vào khối hình trước khi lượt giải kết thúc. Hình phạt nếu chạm vào khối hình: hủy bỏ kết quả lượt giải (DNF).
 
 
-## <article-C><one-handed><onehandedsolving> Article C: Giải Một tay
+## <article-C><one-handed><onehandedsolving> Mục C: Giải Một tay
 
 - C1) Các quy trình giải tốc độ được tuân thủ, như đã được mô tả ở [Mục A](regulations:article:A) (Giải Tốc độ). Các quy định có hiệu lực hơn các quy định tương ứng ở [Mục A](regulations:article:A) được mô tả dưới đây.
     - C1b) Trong lượt giải, thí sinh chỉ được dùng một tay để vận hành khối hình. Hình phạt: hủy bỏ kết quả lượt giải (DNF).
