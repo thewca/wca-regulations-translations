@@ -514,7 +514,7 @@ Chú ý: Vì số thứ tự của các Mục và Quy định không được s�
     - H1d) Thời gian phạt của tất cả các khối hình trong lượt giải đều được cộng dồn.
 
 
-## <article-Y><temporary-regulations><temporaryregulations> Article Y: Temporary Regulations
+## <article-Y><temporary-regulations><temporaryregulations> Mục Y: Quy định tạm thời
 
 - Y1) Các quy định bổ sung có hiệu lực hơn tất cả các quy định khác được mô tả tại đây. Các quy định này bổ sung cho [Chính sách an toàn trong giải đấu](https://www.worldcubeassociation.org/documents/policies/external/Competition%20Safety.pdf).
 - Y2) Định nghĩa:
