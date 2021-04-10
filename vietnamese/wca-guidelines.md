@@ -5,6 +5,7 @@
 
 ## Ghi chú
 Lần chỉnh sửa cuối: 10 Tháng 4, 2021
+
 ### Quy định WCA
 
 Hướng dẫn WCA bổ sung cho [Quy định WCA](regulations:top). Hãy đọc bản Quy định để biết thêm thông tin về WCA.
@@ -95,7 +96,7 @@ Các hướng dẫn được đánh số tương ứng với các quy định li
 - 4f++) [GHI NHỚ] Nếu WCA Delegate tạo ra chuỗi công thức bổ sung trong giải đấu, số chuỗi công thức này phải được lưu lại.
 
 
-## <article-5><puzzle-defects><puzzledefects> Article 5: Puzzle Defects
+## <article-5><puzzle-defects><puzzledefects> Mục 5: Hư hỏng khối hình
 
 - 5b+) Thí sinh không được cố ý gây hỏng hóc khối hình, trừ khi thí sinh đang sửa chữa hỏng hóc trước đó (xem [Quy định 5b3b](regulations:regulation:5b3b) và [Quy định 5b3c](regulations:regulation:5b3c)). Ví dụ của việc cố ý gây hỏng hóc: tháo miếng tâm, xoay viên góc, bóc miếng dán.
 - 5b5+) [VÍ DỤ] Ví dụ của phần bị rời, dẫn đến kết quả hoàn thành: một miếng tâm của 3x3x3, một viên tâm của khối hình lớn, một viên giữa của khối hình lớn.
@@ -214,7 +215,7 @@ Các hướng dẫn được đánh số tương ứng với các quy định li
 - E3d++) [LÀM RÕ] Thí sinh không được coi đồng hồ bấm giờ hoặc đồng hồ cá nhân là thời gian chính thức, và phải nộp lời giải sau khi trọng tài thông báo kết thúc.
 
 
-## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Mục H: Giải Bịt mắt nhiều 3x3x3
+## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Mục H: Giải Bịt mắt nhiều khối hình
 
 - H1+) [BỔ SUNG] Nếu một khối hình được tráo bằng một công thức tráo lặp lại được phát hiện giữa lượt giải, khối hình có thể được tráo lại bằng một công thức tráo khác, tùy theo quyết định của WCA Delegate.
 - H1b1+) [GHI NHỚ] Kết quả của lượt giải không bị hủy bỏ vì vượt quá giới hạn thời gian, vì ngoại lệ cho Giải Bịt mắt nhiều 3x3x3 (xem [Quy định A1a4](regulations:regulation:A1a4) và [Quy định A1a5](regulations:regulation:A1a5)).
