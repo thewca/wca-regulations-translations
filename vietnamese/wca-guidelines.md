@@ -4,7 +4,7 @@
 
 
 ## Ghi chú
-Lần chỉnh sửa cuối: 09 Tháng 4, 2021
+Lần chỉnh sửa cuối: 10 Tháng 4, 2021
 ### Quy định WCA
 
 Hướng dẫn WCA bổ sung cho [Quy định WCA](regulations:top). Hãy đọc bản Quy định để biết thêm thông tin về WCA.
@@ -34,7 +34,6 @@ Các hướng dẫn được đánh số tương ứng với các quy định li
 
 - 1c+) [LÀM RÕ] Nếu có nhiều WCA Delegate dược phân công cho một giải đấu, "WCA Delegate" chỉ bất kì ai trong số họ. "WCA Delegate" đồng thời cũng chỉ bất kì ai được ủy nhiệm làm nhiệm vụ của WCA Delegate trong giải đấu.
 - 1c++) [LÀM RÕ] Các WCA Delegate có thể tham dự một giải đấu mà không cần được phân công làm nhiệm vụ trong giải đấu đó. "WCA Delegate" không chỉ họ trừ khi họ được ủy nhiệm làm nhiệm vụ bởi WCA Delegate được phân công cho giải đấu (xem [Hướng dẫn 1c+](guidelines:guideline:1c+)).
- refers to anyone appointed by a designated WCA Delegate for a relevant responsibility of the WCA Delegate for the competition.
 - 1h+) [KHUYẾN CÁO] Thí sinh trong cùng một nhóm thi nên dùng các công thức tráo giống nhau, và các nhóm thi khác nhau nên dùng công thức tráo khác nhau.
 - 1h++) [LÀM RÕ] Tất cả các lượt giải trong vòng chung kết của một nội dung, đồng thời với các lượt Giải Tối ưu 3x3x3, nên có cùng các công thức tráo cho tất cả các thí sinh (vì chỉ có 1 nhóm thi duy nhất).
 - 1h1+) [LÀM RÕ] Người tráo/trọng tài chỉ nên tráo/làm trọng tài cho các thí sinh trong cùng một nhóm thi với họ nếu điều đó quan trọng với việc hậu cần của giải đấu.
@@ -43,8 +42,8 @@ Các hướng dẫn được đánh số tương ứng với các quy định li
 
 ## <article-2><competitors><competitors> Mục 2: Thí sinh
 
-- 2c+) [BỔ SUNG] Những thí sinh mới nên đăng ký bằng tên hợp pháp. Họ có thể đăng ký bằng biệt danh phù hợp, tùy theo quyết định của WCA Delegate.
-- 2c1+) [BỔ SUNG] The requirements for a completed registration must be clearly stated on the competition website. Yêu cầu cho một đơn đăng ký hoàn chỉnh phải được liệt kê rõ trên website của giải đấu.
+- 2c+) [BỔ SUNG] Những thí sinh mới nên đăng ký bằng tên hợp pháp. Thí sinh có thể đăng ký bằng biệt danh phù hợp, tùy theo quyết định của WCA Delegate.
+- 2c1+) [BỔ SUNG] Yêu cầu cho một đơn đăng ký hoàn chỉnh phải được liệt kê rõ trên website của giải đấu.
 - 2c1++) [VÍ DỤ] Ví dụ, ban tổ chức có thể yêu cầu trả lời một email xác nhận trước một ngày nhất định, trả trước lệ phí thi đấu, hoặc trả lệ phí còn nợ của các giải đấu trước đó. Ban tổ chức nên cân nhắc kĩ sự công bằng của các yêu cầu.
 - 2c2+) [LÀM RÕ] Hồ sơ WCA là bộ thông tin liên quan đến một thí sinh, bao gồm thông tin cá nhân (họ tên, quốc tịch, giới tính và ngày sinh) cùng với tất cả kết quả trong các giải đấu WCA trước đó của thí sinh.
 - 2d+) [BỔ SUNG] Ngày sinh và thông tin liên lạc nên được bảo mật một cách cẩn trọng.
@@ -59,17 +58,17 @@ Các hướng dẫn được đánh số tương ứng với các quy định li
 - 2i1c+) [LÀM RÕ] Thiết bị làm ấm tay điện tử chỉ được sử dụng trước hay sau lượt giải. Các thiết bị làm ấm tay không điện tử có thể được sử dụng vào bất kì lúc nào giữa lượt giải.
 - 2i2a+) [BỔ SUNG] Màn hình máy quay có thể trong tầm nhìn của thí sinh nếu màn hình không phát lại nguồn thu trực tiếp của máy quay.
 - 2j2+) [VÍ DỤ] Ví dụ, nếu thí sinh bị truất quyền thi đấu khỏi một nội dung vì không có mặt ở vòng chung kết, kết quả ở các vòng trước của thí sinh vẫn được tính là hợp lệ.
-- 2k6+) [LÀM RÕ]WCA Delegate chỉ nên sử dụng quyền truất quyền thi đấu để ngăn việc thí sinh gây ảnh hưởng nặng nề đến giải đấu (VD: làm lãng phí thời gian/tài nguyên của giải đấu). Thi sinh không nên bị truất quyền thi đấu vì kết quả "kém" mặc dù đang cố gắng hết sức.
+- 2k6+) [LÀM RÕ] WCA Delegate chỉ nên sử dụng quyền truất quyền thi đấu để ngăn việc thí sinh gây ảnh hưởng nặng nề đến giải đấu (VD: làm lãng phí thời gian/tài nguyên của giải đấu). Thí sinh không nên bị truất quyền thi đấu vì kết quả "kém" mặc dù đang cố gắng hết khả năng của mình.
 - 2s+) [GHI NHỚ] Những sự hỗ trợ đặc biệt phải được ghi chú lại trong Báo cáo Delegate.
 
 
 ## <article-3><puzzles><puzzles> Mục 3: Khối hình
 
 - 3a+) [LÀM RÕ] Thí sinh có thể sử dụng khối hình với bất kì kích cỡ phù hợp nào, tùy theo quyết định của WCA Delegate.
-- 3a++) [BỔ SUNG] Theo mặc định, thí sinh nên sử dụng cùng một khối hình cho các lượt giải liên tiếp trong một vòng thi giải tốc độ. Thí sinh có thể đổi khối hình giữa các lượt giải, tùy theo quyết định của trọng tài hoặc WCA Delegate .
+- 3a++) [BỔ SUNG] Theo mặc định, thí sinh nên sử dụng cùng một khối hình cho các lượt giải liên tiếp trong một vòng thi giải tốc độ. Thí sinh có thể đổi khối hình giữa các lượt giải, tùy theo quyết định của trọng tài hoặc WCA Delegate.
 - 3a+++) [LÀM RÕ] Thí sinh có thể mượn khối hình của thí sinh khác để sử dụng trong giải đấu.
 - 3a1+) [LÀM RÕ] Thí sinh có thể bị truất quyền thi đấu nếu không có khối hình để nộp khi được gọi tên (VD: khối hình mà thí sinh muốn dùng đang được thí sinh khác sử dụng và vì vậy không thể nộp được vào thời điểm đó).
-- 3d1b+) [LÀM RÕ] Họa tiết không nhất thiết phải có ở mọi mặt, mà chỉ nên ở trên các mặt mang màu mà thí sinh không thể phân biệt. Các viên không được có đặc điểm (v.d. bề mặt, hình vẽ lạ) khác hẳn so với các viên khác.
+- 3d1b+) [LÀM RÕ] Họa tiết không nhất thiết phải có ở mọi mặt, mà chỉ nên ở trên các mặt mang màu mà thí sinh không thể phân biệt. Các viên không được có đặc điểm (VD: bề mặt, hình vẽ lạ) khác hẳn so với các viên khác.
 - 3h+) [LÀM RÕ] Khối hình có thể được nâng cấp bằng chà nhám, bôi trơn, hoặc chỉnh sửa để tăng độ chắc chắn (VD: nam châm).
 - 3h++) [VÍ DỤ] Ví dụ của thay đổi cải tiến: có thể xoay bước mới, không thể xoay bước cũ, nhiều viên hoặc mặt ở trong tầm nhìn cùng một lúc, các màu ở mặt sau của khối hình ở trong tầm nhìn, các bước được tự thực hiện, hoặc các khối hình có nhiều trạng thái giải hoàn thành (khác).
 - 3h2++) [LÀM RÕ] Các khối hình "stickerless" khác hẳn so với các loại được sản xuất hàng loạt khác chỉ được sử dụng dưới sự cho phép của WCA Delegate.
@@ -77,7 +76,7 @@ Các hướng dẫn được đánh số tương ứng với các quy định li
 - 3j++) [LÀM RÕ] Đối với Clock, nút ghim có thể được phân biệt với các nút ghim ở cùng mặt.
 - 3j2+) [LÀM RÕ] Đối với Clock, 9 đồng hồ con ở cùng một mặt được coi là các bộ phận giống nhau.
 - 3k2+) [BỔ SUNG] WCA Delegate không nên áp dụng một ngoại lệ được liệt kê nếu tin rằng thí sinh cố ý sử dụng khối hình không được cho phép.
-- 3k2b+) [LÀM RÕ] Nếu một khối hình không được cho phép bị phát hiện giữa một lượt Giải Bịt mắt nhiều 3x3x3, khối hình không được bị thay đổi hay loại bỏ mà phải bị tính là chưa được giài hoàn toàn nếu cả lượt giải không bị hủy bỏ.
+- 3k2b+) [LÀM RÕ] Nếu một khối hình không được cho phép bị phát hiện giữa một lượt Giải Bịt mắt nhiều 3x3x3, khối hình không được bị thay đổi hay loại bỏ mà phải bị tính là chưa được giải hoàn toàn nếu cả lượt giải không bị hủy bỏ.
 - 3k2b++) [VÍ DỤ] Nếu 2 khối hình được giải hoàn thành và 1 khối hình chưa được giải bị phát hiện là không hợp lệ, thí sinh được coi là đã giải được 6 trong 10 khối hình (thay vì DNF), tùy theo quyết định của WCA Delegate.
 - 3l+) [BỔ SUNG] Logo có thể mang những thiết kế hợp lý mà không đem lại lợi thế (v.d. thông tin được mã hoá mà có thể sử dụng để gian lận). Logo không truyền thống chỉ được sử dụng dưới sự cho phép của WCA Delegate.
 - 3l++) [LÀM RÕ] Trong quá khứ, khối hình có logo từng được cho phép ở nội dung giải bịt mắt. Hiện tại điều này không hợp lệ.
@@ -87,8 +86,8 @@ Các hướng dẫn được đánh số tương ứng với các quy định li
 ## <article-4><scrambling><scrambling> Mục 4: Tráo
 
 - 4b1+) [GHI NHỚ] WCA Delegate không được lấy chuỗi công thức tráo mới để thay đổi chuỗi công thức cũ vì mục đích chọn lọc. Ví dụ, không được đọc chuỗi công thức tráo cho một giải đấu và sau đó tạo chuỗi công thức mới hoàn toàn vì tính "công bằng".
-- 4b2+) [LÀM RÕ] Tất cả các chuỗi công thức tráo chính thức phải được giữ bí mật trong giải đấu và công bố toàn bộ sau khi giải đấu kết thúc (xem [Quy định 1c3a](regulations:regulation:1c3a)). Trong một số trường hợp (v.d. kỷ lục thế giới), ban tổ chức có thể công bố chuỗi công thức sau khi kết thúc nhóm thi.
-- 4b2++) [BỔ SUNG] Ban tổ chức nen đảm bảo người tráo, công thức tráo và các khối hình được tráo (một phần hay hoàn toàn) đều không thể được nhìn thấy bởi các thí sinh(xem [Quy định A2c](regulations:regulation:A2c)). Ví dụ, người tráo có thể ở sau vách tường hoặc một vách ngăn đủ cao (VD: vách ngăn bằng bìa cứng xung quanh bàn tráo) có thể được sử dụng.
+- 4b2+) [LÀM RÕ] Tất cả các chuỗi công thức tráo chính thức phải được giữ bí mật trong giải đấu và công bố toàn bộ sau khi giải đấu kết thúc (xem [Quy định 1c3a](regulations:regulation:1c3a)). Trong một số trường hợp (VD:. kỷ lục thế giới), ban tổ chức có thể công bố chuỗi công thức sau khi kết thúc nhóm thi.
+- 4b2++) [BỔ SUNG] Ban tổ chức nên đảm bảo người tráo, công thức tráo và các khối hình được tráo (một phần hay hoàn toàn) đều không thể được nhìn thấy bởi các thí sinh (xem [Quy định A2c](regulations:regulation:A2c)). Ví dụ, người tráo có thể ở sau vách tường hoặc một vách ngăn đủ cao (VD: vách ngăn bằng bìa cứng xung quanh bàn tráo) có thể được sử dụng.
 - 4b4+) [LÀM RÕ] Tất cả các lượt giải bắt đầu trong khung thời gian tuân theo các quy trình tiêu chuẩn của giải khối hình (lượt giải không bị dừng khi khung thời gian của chuỗi công thức tráo bị vượt quá).
 - 4d+) [LÀM RÕ] Một số khối hình sử dụng hệ màu tiêu chuẩn, ngoại trừ việc mặt trắng được thay bởi đen. Trong trường hợp này, đen là màu tối nhất và không được coi như mặt trắng.
 - 4d++) [BỔ SUNG] Việc khối hình thay đổi hướng khi được mang từ người tráo đến bàn thí sinh là hợp lệ, với điều kiện không có ai đang cố tình ảnh hưởng đến tính ngẫu nhiên của định hướng (xem [Quy định A2e1](regulations:regulation:A2e1)).
@@ -110,7 +109,7 @@ Các hướng dẫn được đánh số tương ứng với các quy định li
 
 - 6a+) [KHUYẾN CÁO] Giải thưởng hay danh hiệu có thể được dành tặng cho thí sinh theo như thông báo của giải đấu.
 - 6b+) [KHUYẾN CÁO] Thí sinh nên có mặt ở lễ trao giải để nhận giải thưởng/danh hiệu.
-- 6b1+) [KHUYẾN CÁO]  Lễ trao giải nên được tổ chức ở địa điểm giải đấu, trong vòng một tiếng đồng hồ sau khi nội dung cuối cùng hoàn thành
+- 6b1+) [KHUYẾN CÁO] Lễ trao giải nên được tổ chức ở địa điểm giải đấu, trong vòng một tiếng đồng hồ sau khi nội dung cuối cùng hoàn thành
 - 6c+) [KHUYẾN CÁO] Thí sinh thắng giải hay danh hiệu cần chuẩn bị để nói chuyện với phóng viên hay truyền thông có mặt ở giải đấu.
 - 6d+) [KHUYẾN CÁO] Ban tổ chức của giải đấu nên có bằng khen cho mọi thí sinh thắng giải, được ký bởi trưởng ban tổ chức và WCA Delegate.
 

@@ -52,7 +52,7 @@ Chú ý: Vì số thứ tự của các Mục và Quy định không được s�
     - 1g1) Người ghi kết quả chịu trách nhiệm tổng hợp các kết quả trong giải.
     - 1g2) Việc chỉnh sửa các kết quả trên phiếu ghi kết quả phải được WCA Delegate chấp thuận.
 - 1h) Các thí sinh trong cùng một vòng thi của một nội dung thi đấu có thể được gộp thành một nhóm thi duy nhất hoặc được chia thành nhiều nhóm thi.
-    - 1h1) Người tráo và trọng tài cho một vòng thi không được tráo hay làm trọng tài cho các thí sinh khác trong cùng nhóm thi cho đến khi hoàn thành toàn bộ lượt giải của mình trong vòng thi đó. Họ có thể tráo hay làm trọng tài chô các thí sinh khác trong cùng nhóm thi theo quyết định của WCA Delegate, nhưng ban tổ chức phải đảm bảo những người tráo và trọng tài không thể nhìn thấy các công thức tráo cho các lượt giải mà họ chưa thực hiện (xem [Quy định 4b2](regulations:regulation:4b2)).
+    - 1h1) Người tráo và trọng tài cho một vòng thi không được tráo hay làm trọng tài cho các thí sinh khác trong cùng nhóm thi cho đến khi hoàn thành toàn bộ lượt giải của mình trong vòng thi đó. Họ có thể tráo hay làm trọng tài cho các thí sinh khác trong cùng nhóm thi theo quyết định của WCA Delegate, nhưng ban tổ chức phải đảm bảo những người tráo và trọng tài không thể nhìn thấy các công thức tráo cho các lượt giải mà họ chưa thực hiện (xem [Quy định 4b2](regulations:regulation:4b2)).
 - 1j) Tất cả các thành viên chính thức đều có thể tham gia thi trong giải đấu.
 - 1k) Các thành viên chính thức có thể đóng nhiều vai trò khác nhau (VD: ban tổ chức, WCA Delegate, trọng tài, người ghi kết quả, người tráo).
 
@@ -171,7 +171,7 @@ Chú ý: Vì số thứ tự của các Mục và Quy định không được s�
 
 ## <article-5><puzzle-defects><puzzledefects> Mục 5: Hư hỏng khối hình
 
-- 5a) Ví dụ về khối hình bị hư hòng bao gồm: các phần bị bung hoặc vỡ, các viên bị xoay, lật tại chỗ, và ốc/miếng dán/viên nhựa rơi ra ngoài.
+- 5a) Ví dụ về khối hình bị hư hỏng bao gồm: các phần bị bung hoặc vỡ, các viên bị xoay, lật tại chỗ, và ốc/miếng dán/viên nhựa rơi ra ngoài.
 - 5b) Nếu khối hình bị hư hỏng khi một lượt giải đang diễn ra, thí sinh có thể chọn giữa việc sửa chữa khối hình và tiếp tục lượt giải, hoặc dừng lượt giải.
     - 5b1) Nếu thi sinh chọn việc sửa chữa khối hình, họ chỉ được phép sửa những phần bị hư hỏng. Không được phép sử dụng công cụ hoặc các bộ phận của các khối hình khác để sửa chữa khối hình gốc. Hình phạt: hủy bỏ kết quả lượt giải (DNF).
     - 5b2) Việc sửa chữa khối hình không được phép tạo lợi thế cho thí sinh trong việc giải khối hình. Hình phạt: hủy bỏ kết quả lượt giải (DNF).
