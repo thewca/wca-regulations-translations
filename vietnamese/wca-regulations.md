@@ -5,6 +5,7 @@
 
 ## Ghi chú
 Lần chỉnh sửa cuối: 09 Tháng 4, 2021
+
 ### Bản dịch
 Đây là bản dịch tiếng Việt của Quy định WCA, được dịch bởi [Nguyễn Hải Dương](haiduongnguyen32@gmail.com), đồng thời có tham khảo bản dịch của [Vương Thiện Trung](mailto:vttrung12@gmail.com).
 
