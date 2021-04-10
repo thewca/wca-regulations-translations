@@ -63,7 +63,7 @@ Các hướng dẫn được đánh số tương ứng với các quy định li
 - 2s+) [GHI NHỚ] Những sự hỗ trợ đặc biệt phải được ghi chú lại trong Báo cáo Delegate.
 
 
-## <article-3><puzzles><puzzles> Article 3: Puzzles
+## <article-3><puzzles><puzzles> Mục 3: Khối hình
 
 - 3a+) [LÀM RÕ] Thí sinh có thể sử dụng khối hình với bất kì kích cỡ phù hợp nào, tùy theo quyết định của WCA Delegate.
 - 3a++) [BỔ SUNG] Theo mặc định, thí sinh nên sử dụng cùng một khối hình cho các lượt giải liên tiếp trong một vòng thi giải tốc độ. Thí sinh có thể đổi khối hình giữa các lượt giải, tùy theo quyết định của trọng tài hoặc WCA Delegate .
@@ -78,148 +78,147 @@ Các hướng dẫn được đánh số tương ứng với các quy định li
 - 3j2+) [LÀM RÕ] Đối với Clock, 9 đồng hồ con ở cùng một mặt được coi là các bộ phận giống nhau.
 - 3k2+) [BỔ SUNG] WCA Delegate không nên áp dụng một ngoại lệ được liệt kê nếu tin rằng thí sinh cố ý sử dụng khối hình không được cho phép.
 - 3k2b+) [LÀM RÕ] Nếu một khối hình không được cho phép bị phát hiện giữa một lượt Giải Bịt mắt nhiều 3x3x3, khối hình không được bị thay đổi hay loại bỏ mà phải bị tính là chưa được giài hoàn toàn nếu cả lượt giải không bị hủy bỏ.
-- 3k2b++) [VÍ DỤ] Suppose the competitor attempts 10 puzzles and solves 8 successfully. If it is found that two solved puzzles and one unsolved puzzle are not permitted, the competitor is considered to have a result with 6 solved puzzles out of 10 (rather than DNF), at the discretion of the WCA Delegate.
-- 3l+) [BỔ SUNG] Logos may feature any reasonable design that does not give a conspicuous advantage (e.g. encoding information that could be used to cheat), and leave the colored part clearly recognizable. Unconventional logos are only permitted at the discretion of the WCA Delegate.
-- 3l++) [LÀM RÕ] In the past, puzzles with logos have been permitted for blindfolded events. Such puzzles are no longer permitted.
-- 3l1+) [LÀM RÕ] On NxNxN puzzles, a center piece is any piece with a single colored part. For example, the 5x5x5 Cube has 9 center pieces on each face.
+- 3k2b++) [VÍ DỤ] Nếu 2 khối hình được giải hoàn thành và 1 khối hình chưa được giải bị phát hiện là không hợp lệ, thí sinh được coi là đã giải được 6 trong 10 khối hình (thay vì DNF), tùy theo quyết định của WCA Delegate.
+- 3l+) [BỔ SUNG] Logo có thể mang những thiết kế hợp lý mà không đem lại lợi thế (v.d. thông tin được mã hoá mà có thể sử dụng để gian lận). Logo không truyền thống chỉ được sử dụng dưới sự cho phép của WCA Delegate.
+- 3l++) [LÀM RÕ] Trong quá khứ, khối hình có logo từng được cho phép ở nội dung giải bịt mắt. Hiện tại điều này không hợp lệ.
+- 3l1+) [LÀM RÕ] Đối với các khối NxNxN, viên tâm là viên có duy nhất một mặt có màu. Ví dụ, Khối 5x5x5 có 9 viên tâm ở mỗi mặt.
 
 
-## <article-4><scrambling><scrambling> Article 4: Scrambling
+## <article-4><scrambling><scrambling> Mục 4: Tráo
 
-- 4b1+) [GHI NHỚ] The WCA Delegate must never re-generate any scramble sequences to replace other ones for the purpose of filtering. For example, it is not permitted to glance at the scramble sequences for a competition and generate the entire set again in order to generate "fairer" scramble sequences.
-- 4b2+) [LÀM RÕ] In general, all official scramble sequences should be kept secret during the competition and published together after the end of the competition. In some cases (e.g. world records), the organization team may wish to release specific scramble sequences sooner after the end of a group.
-- 4b2++) [BỔ SUNG] Competition organizers should ensure that scramblers, scramble sequences, and partially/fully scrambled puzzles are visually isolated from competitors (see [Regulation A2c](regulations:regulation:A2c)). For example, the scramblers may be located behind a wall, or a sufficiently high divider (e.g. a cardboard divider placed around the sides of a table where the scramblers are seated) may be used so that competitors are not able to see puzzles as the scramblers apply scramble sequences.
-- 4b4+) [LÀM RÕ] All attempts that have been started within the time frame follow the standard solving procedure (i.e. they are not stopped when the time frame of the relevant scramble sequence expires).
-- 4d+) [LÀM RÕ] Some puzzles use standard color schemes, except that white is replaced with black. In this case, black is the darkest color and must not be treated as white.
-- 4d++) [BỔ SUNG] It is permitted for the puzzle to change its orientation when it is moved from the scrambler to the solving station, as long as no one is attempting to influence the randomness of the orientation (see [Regulation A2e1](regulations:regulation:A2e1)).
-- 4f+) [KHUYẾN CÁO] The WCA Delegate should generate sufficient scramble sequences for the entire competition ahead of time, including spare scramble sequences for extra attempts.
-- 4f++) [GHI NHỚ] If the WCA Delegate generates any additional scramble sequences during the competition, the scramble sequences must be saved.
+- 4b1+) [GHI NHỚ] WCA Delegate không được lấy chuỗi công thức tráo mới để thay đổi chuỗi công thức cũ vì mục đích chọn lọc. Ví dụ, không được đọc chuỗi công thức tráo cho một giải đấu và sau đó tạo chuỗi công thức mới hoàn toàn vì tính "công bằng".
+- 4b2+) [LÀM RÕ] Tất cả các chuỗi công thức tráo chính thức phải được giữ bí mật trong giải đấu và công bố toàn bộ sau khi giải đấu kết thúc (xem [Quy định 1c3a](regulations:regulation:1c3a)). Trong một số trường hợp (v.d. kỷ lục thế giới), ban tổ chức có thể công bố chuỗi công thức sau khi kết thúc nhóm thi.
+- 4b2++) [BỔ SUNG] Ban tổ chức nen đảm bảo người tráo, công thức tráo và các khối hình được tráo (một phần hay hoàn toàn) đều không thể được nhìn thấy bởi các thí sinh(xem [Quy định A2c](regulations:regulation:A2c)). Ví dụ, người tráo có thể ở sau vách tường hoặc một vách ngăn đủ cao (VD: vách ngăn bằng bìa cứng xung quanh bàn tráo) có thể được sử dụng.
+- 4b4+) [LÀM RÕ] Tất cả các lượt giải bắt đầu trong khung thời gian tuân theo các quy trình tiêu chuẩn của giải khối hình (lượt giải không bị dừng khi khung thời gian của chuỗi công thức tráo bị vượt quá).
+- 4d+) [LÀM RÕ] Một số khối hình sử dụng hệ màu tiêu chuẩn, ngoại trừ việc mặt trắng được thay bởi đen. Trong trường hợp này, đen là màu tối nhất và không được coi như mặt trắng.
+- 4d++) [BỔ SUNG] Việc khối hình thay đổi hướng khi được mang từ người tráo đến bàn thí sinh là hợp lệ, với điều kiện không có ai đang cố tình ảnh hưởng đến tính ngẫu nhiên của định hướng (xem [Quy định A2e1](regulations:regulation:A2e1)).
+- 4f+) [KHUYẾN CÁO] WCA Delegate phải tạo đủ chuỗi công thức tráo cho cả giải đấu trước khi giải bắt đầu, bao gồm cả chuỗi đề phòng cho lượt giải bổ sung.
+- 4f++) [GHI NHỚ] Nếu WCA Delegate tạo ra chuỗi công thức bổ sung trong giải đấu, số chuỗi công thức này phải được lưu lại.
 
 
 ## <article-5><puzzle-defects><puzzledefects> Article 5: Puzzle Defects
 
-- 5b+) [BỔ SUNG] The competitor is not permitted to cause a puzzle defect intentionally, unless correcting a previous puzzle defect (see [Regulation 5b3b](regulations:regulation:5b3b) and [Regulation 5b3c](regulations:regulation:5b3c)). Examples of intentionally causing puzzle defects: removing an attached center cap, rotating a corner piece, peeling a sticker.
-- 5b5+) [VÍ DỤ] Examples of parts physically detached, resulting in a solved state: one 3x3x3 center cap, one big cube center piece, an inner piece of a big cube.
-- 5b5++) [VÍ DỤ] Examples of parts physically detached, resulting in a "DNF": two 3x3x3 center caps, two big cube center pieces, a 3x3x3 edge piece, a 4x4x4 edge piece ("wing"), any combination of two pieces that both have colored parts.
-- 5b5+++) [VÍ DỤ] Example of parts physically attached but not fully placed, resulting in a solved state: a 5x5x5 center piece twisted in its spot.
-- 5b5++++) [VÍ DỤ] Example of parts physically attached but not fully placed, resulting in a "DNF": a 3x3x3 edge piece slightly popped out.
-- 5c+) [GHI NHỚ] If a competitor has a puzzle defect, this does not grant them the right to an extra attempt.
+- 5b+) Thí sinh không được cố ý gây hỏng hóc khối hình, trừ khi thí sinh đang sửa chữa hỏng hóc trước đó (xem [Quy định 5b3b](regulations:regulation:5b3b) và [Quy định 5b3c](regulations:regulation:5b3c)). Ví dụ của việc cố ý gây hỏng hóc: tháo miếng tâm, xoay viên góc, bóc miếng dán.
+- 5b5+) [VÍ DỤ] Ví dụ của phần bị rời, dẫn đến kết quả hoàn thành: một miếng tâm của 3x3x3, một viên tâm của khối hình lớn, một viên giữa của khối hình lớn.
+- 5b5++) [VÍ DỤ] Ví dụ của phần bị rời, dẫn đến kết quả "DNF": hai miếng tâm của 3x3x3, hai viên tâm của khối hình lớn, một viên cạnh của 3x3x3, một viên cạnh (cánh) của 4x4x4, hai viên bất kỳ mang màu.
+- 5b5+++) [VÍ DỤ] Ví dụ của phần không hoàn toàn bị rời nhưng không được đặt đúng chỗ, dẫn đến kết quả hoàn thành: một viên tâm 5x5x5 bị xoáy tại chỗ.
+- 5b5++++) [VÍ DỤ] Ví dụ của phần không hoàn toàn bị rời nhưng không được đặt đúng chỗ, dẫn đến kết quả "DNF": một viên cạnh 3x3x3 hơi bị bung ra.
+- 5c+) [GHI NHỚ] Nếu một thí sinh có khối hình bị hư hỏng, điều này không giúp thí sinh có thêm lượt giải bổ sung.
 
 
-## <article-6><awards><awards> Article 6: Awards/prizes/honors
+## <article-6><awards><awards> Mục 6: Giải thưởng/Danh hiệu
 
-- 6a+) [KHUYẾN CÁO] Awards, prizes or honors may be given to competitors according to the announcement of the competition.
-- 6b+) [KHUYẾN CÁO] Competitors should attend the winner's ceremony to receive awards/prizes/honors.
-- 6b1+) [KHUYẾN CÁO] The winner's ceremony should be held in the competition venue, within one hour after the end of the last event.
-- 6c+) [KHUYẾN CÁO] Winners of awards, prizes or honors should be prepared to talk to journalists or any media covering the competition.
-- 6d+) [KHUYẾN CÁO] Organization teams of competitions should have certificates for all category winners, signed by the leader of the organization team and by the WCA Delegate.
-
-
-## <article-7><environment><environment> Article 7: Environment
-
-- 7d+) [BỔ SUNG] The temperature of the competition area should be 21 to 25 degrees Celsius.
-- 7f1a+) [LÀM RÕ] A full-size mat should have minimum dimensions of 30cm (left to right) by 25cm (front to back).
-- 7h2+) [BỔ SUNG] Competitors in a Competitors Area who are waiting between attempts should not be able to see the puzzles of the competitors on stage.
+- 6a+) [KHUYẾN CÁO] Giải thưởng hay danh hiệu có thể được dành tặng cho thí sinh theo như thông báo của giải đấu.
+- 6b+) [KHUYẾN CÁO] Thí sinh nên có mặt ở lễ trao giải để nhận giải thưởng/danh hiệu.
+- 6b1+) [KHUYẾN CÁO]  Lễ trao giải nên được tổ chức ở địa điểm giải đấu, trong vòng một tiếng đồng hồ sau khi nội dung cuối cùng hoàn thành
+- 6c+) [KHUYẾN CÁO] Thí sinh thắng giải hay danh hiệu cần chuẩn bị để nói chuyện với phóng viên hay truyền thông có mặt ở giải đấu.
+- 6d+) [KHUYẾN CÁO] Ban tổ chức của giải đấu nên có bằng khen cho mọi thí sinh thắng giải, được ký bởi trưởng ban tổ chức và WCA Delegate.
 
 
-## <article-9><events><events> Article 9: Events
+## <article-7><environment><environment> Mục 7: Môi trường
 
-- 9b+) [BỔ SUNG] For an event with multiple rounds, every round after the first round (especially the final round) should be "Average of 5" or "Mean of 3" if one of these is a valid format.
-- 9b++) [BỔ SUNG] Events other than those specified in [Regulation 9b](regulations:regulation:9b) may be held during a competition, but will be considered unofficial and therefore will not be included in the official results of the competition.
-- 9b3b+) [LÀM RÕ] The "Mean of 3" statistic does not affect the competitor's ranking in a "Best of 3" round (which is based on the best result). The WCA recognizes it outside of the competition format.
-- 9f1+) [VÍ DỤ] If the timer displays 12.678 for an attempt, the original recorded time is 12.67 (drop any digit after a hundredth of a second). A judge may write the full-precision time on the score sheet (and keep the precision in the calculation of penalties), as long as the score taker truncates it for the official results.
-- 9f4+) [GIẢI THÍCH] The result of an attempt is DNF only if the competitor began the attempt by indicating that they are ready (see [Regulation A3b2](regulations:regulation:A3b2)) but the attempt was disqualified.
-- 9f5+) [LÀM RÕ] The result of an attempt is DNS if the competitor was eligible for the attempt and did not start it (see [Regulation A3b2](regulations:regulation:A3b2)). If the competitor did not qualify for an attempt (e.g. in a cutoff round), they have no result for the attempt.
-- 9p2+) [LÀM RÕ] Result refers to the single or average that determines the ranking of the corresponding round.
-- 9q+) [KHUYẾN CÁO] Events and rounds should have at least 2 competitors.
+- 7d+) [BỔ SUNG] Nhiệt độ của khu vực thi đấu nên duy trì giữa 21 và 25 độ C.
+- 7f1a+) [LÀM RÕ] Thảm kê cỡ đầy đủ cần có kích cỡ tối thiểu 30cm x 25cm.
+- 7h2+) [BỔ SUNG] Thí sinh trong khu vực thí sinh không nên được nhìn thấy khối hình của các thí sinh đang tham gia thi.
 
 
-## <article-10><solved-state><solvedstate> Article 10: Solved State
+## <article-9><events><events> Mục 9: Nội dung thi đấu
 
-- 10e1+) [LÀM RÕ] For Square-1, because of the shape-shifting property of the puzzle, the metric for misalignments defined in [Regulation 10f4](regulations:regulation:10f4) is different from the metric for the notation, used by the scramble program and defined in [Regulation 12c4](regulations:regulation:12c4).
-- 10f+) [GIẢI THÍCH] The misalignment limits are selected so that they provide a natural cutoff between one state of a puzzle (without penalty) and a state one move away.
-- 10f4+) [LÀM RÕ] When counting the moves in case of a misalignment at the end of a solve, x and y are considered separately. Example: (5, 1) is considered one misalignment, (5, 5) is considered two misalignments.
-- 10h1+) [BỔ SUNG] The solved state of Clock is not affected by loose or popped pin caps.
-
-
-## <article-11><incidents><incidents> Article 11: Incidents
-
-- 11e+) [LÀM RÕ] Since an appeal is not guaranteed to be successful, the competitor may choose to keep the timer running while appealing it, and resume the attempt when appropriate.
-- 11e++) [KHUYẾN CÁO] The WCA Delegate should record the reason(s) for the extra attempt (e.g. on the back of the score sheet).
-- 11e1+) [GHI NHỚ] The extra attempt must be scrambled using an unmodified scramble sequence generated by an official scramble program (see [Regulation 4f](regulations:regulation:4f), [Guideline 4f+](guidelines:guideline:4f+)).
-- 11e2+) [BỔ SUNG] If an extra attempt itself leads to an additional extra attempt, the competitor should keep doing extra attempts until there is a valid extra attempt to replace the original regularly numbered attempt.
-- 11e2++) [VÍ DỤ] Suppose a competitor has 5 regularly numbered attempts, and #2 leads to extra attempts. The competitor should do extra attempts until there is a valid extra attempt to replace #2. Suppose later another attempt leads to extra attempts, the competitor should proceed in a similar way as for #2.
+- 9b+) [BỔ SUNG] Hình thức ưu tiên của các vòng sau vòng đầu của một nội dung là "Trung bình 5 lượt" hoặc "Trung bình 3 lượt", nếu có thể.
+- 9b++) [BỔ SUNG] Ngoài các nội dung được liệt kê trong [Quy định 9b](regulations:regulation:9b), nội dung khác có thể được tổ chức trong giải đấu, nhưng sẽ được coi là không chính thức và do đó không được liệt kê trong kết quả chính thức của giải đấu.
+- 9b3b+) [LÀM RÕ] Số liệu "Trung bình 3 lượt" không làm ảnh hưởng đến xếp hạng của thí sinh trong vòng thi "Tốt nhất trong 3 lượt". WCA công nhận số liệu này bất kể hình thức của giải đấu.
+- 9f1+) [VÍ DỤ] Nếu đồng hồ hiển thị 12.678, thời gian gốc được ghi lại là 12.67 (bỏ tất cả các chữ số sau phần hàng trăm). Trọng tài có thể viết đầy đủ thời gian lên phiếu kết quả, miễn là người ghi kết quả phải rút gọn chữ số trong kết quả chính thức.
+- 9f4+) [GIẢI THÍCH] Kết quả của một lượt giải là DNF chỉ khi thí sinh đã bắt đầu lượt giải bằng cách xác nhận sẵn sàng (xem [Quy định A3b2](regulations:regulation:A3b2)) nhưng kết quả lượt giải bị hủy bỏ.
+- 9f5+) [LÀM RÕ] Kết quả của một lượt giải là DNS khi thí sinh đủ điều kiện tham gia thi và không bắt đầu (xem [Quy định A3b2](regulations:regulation:A3b2)). Nếu thí sinh không đủ điều kiện tham gia thi (VD: trong một vòng thi gộp), thí sinh sẽ không có kết quả cho lượt giải.
+- 9p2+) [LÀM RÕ] "Kết quả" dùng để chỉ thành tích đơn hoặc trung bình mang tính quyết định thứ hạng của thí sinh ở vòng thi.
+- 9q+) [KHUYẾN CÁO] Nội dung và vòng thi nên có ít nhất 2 thí sinh.
 
 
-## <article-12><notation><notation> Article 12: Notation
+## <article-10><solved-state><solvedstate> Mục 10: Trạng thái giải hoàn thành
 
-- 12a2+) [LÀM RÕ] For example, both Rw and 2Rw are valid notation for the same physical move for the 3x3x3 Cube. 1Rw is not valid notation for any NxNxN Cube, and 3Rw is not valid notation for the 2x2x2 Cube or the 3x3x3 Cube (but 3Rw is valid notation for the 4x4x4 Cube and larger NxNxN Cubes).
-
-
-## <article-A><speedsolving><speedsolving> Article A: Speed Solving
-
-- A1a2+) [BỔ SUNG] In case of a cumulative time limit, the judge records the original recorded time for a DNF on the score sheet in parentheses, e.g. "DNF (1:02.27)".
-- A1a2++) [VÍ DỤ] If a round has a cumulative time limit of 30 minutes and the competitor's results of the first two attempts are 6:00 and DNF (10:00), then the time limit for the third attempt is 30:00 - 6:00 - 10:00 = 14:00. For this particular example, note that only the final result for an attempt counts. Therefore, a third attempt with an original recorded time of 13:59 without penalties meets the time limit because the final result is 13:59 (see [Regulation 9f2](regulations:regulation:9f2)), while a third attempt with a result of 13:59 + 2 = 14:01 does not meet the time limit.
-- A1a2+++) [BỔ SUNG] If the result from an attempt is unavailable (e.g. the timer was reset), the judge should consult the WCA Delegate and make an estimate of the elapsed time for the attempt. This estimate counts towards the time limit, but must not be used as the basis of an official result for the individual attempt.
-- A1a3+) [GHI NHỚ] The organization team and the WCA Delegate must be mindful that time limits influence the strategies of the competitors (e.g. rushing the first two attempts in hopes of meeting a cutoff in a cutoff round), and that changing time limits after the start of the round can disadvantage some competitors unfairly.
-- A1a4+) [GHI NHỚ] If a competitor has accidentally been permitted to exceed the time limit, the time limit must be enforced retroactively, and the judge, competitor, and WCA Delegate should be informed (see [Regulation 1g2](regulations:regulation:1g2)). Judges must always be aware of the time limit for a current attempt (which might depend on previous attempts, in the case of a cumulative time limit).
-- A2c1+) [GHI NHỚ] In the past, score sheets have been used to cover puzzles while leaving some sides exposed. This is no longer permitted.
-- A2d1+) [BỔ SUNG] If the scramble signature is found to be missing before an attempt, the puzzle should immediately be returned to a scrambler for verification and a corresponding signature.
-- A2d1++) [BỔ SUNG] An attempt must not be disqualified solely due to a missing scramble signature. If a scramble signature is missing after the beginning of an attempt, the judge must allow the attempt to continue (if it is still in progress) and the WCA Delegate should allow the result to be kept. However, the WCA Delegate may replace the attempt with an extra attempt if they have a reason (other than the missing signature) to suspect that the scramble was incorrect.
-- A2d1+++) [GHI NHỚ] Although the WCA Delegate may allow several individual attempts with missing scramble signatures to count, they should ensure that missing scramble signatures do not become common.
-- A3c3+) [LÀM RÕ] The competitor may reset the timer before/during the inspection phase if the judge accidentally neglected to do so. However, it is the responsibility of the judge to make sure the timer has been reset (see [Regulation A3b](regulations:regulation:A3b)). If the competitor accidentally tries to start the solve with a timer that the judge did not reset (i.e. the competitor performs inspection, places hands on the timer for a reasonable length of time, assumes that the timer will start normally, and starts to operate the puzzle), the attempt should be replaced by an extra attempt, at the discretion of the WCA Delegate.
-- A3c3++) [LÀM RÕ] The competitor cannot "test" or "restart" the timer during inspection, since inspection ends once the competitor starts the solve (see [Regulation A4d](regulations:regulation:A4d)). If the competitor stops the timer after they have started it for the first time, this is considered stopping the solve (see [Regulation A6](regulations:regulation:A6)), even if they do so within 15 seconds of starting inspection.
-- A3c4+) [LÀM RÕ] If the use of a thin object inside the puzzle has been enforced, the judge must not remove the object on behalf of the competitor.
-- A3c4++) [LÀM RÕ] The competitor may remove the object during the solve, if they did not do it during the inspection (e.g. they forgot).
-- A5b+) [LÀM RÕ] While inspecting or solving the puzzle, the competitor may touch the puzzle with any part of their body. Exception: 3x3x3 One-Handed (see [Regulation C1b](regulations:regulation:C1b)).
-- A5b++) [LÀM RÕ] If a part of the competitor's puzzle pops out (see [Regulation 5a](regulations:regulation:5a)), the competitor must not ask for assistance retrieving or locating the part and the judge should attempt to prevent others from assisting. If someone picks up a popped part for the competitor, the judge or competitor may ask them to place it on the solving station and not to assist any further.
-- A6b+) [GIẢI THÍCH] The arbitrary value of 0.06 seconds was chosen to accommodate concerns about Stackmat timer malfunctions.
-- A6e+) [LÀM RÕ] If the puzzle falls into the lap of the competitor after stopping the timer, this is considered touching the puzzle.
-- A7c+) [BỔ SUNG] If a result signed by a competitor is found to be incomplete or unreadable, it should be interpreted the worst reasonable way (e.g. "1:05" will be considered 1:05.99, "25.X3" will be considered 25.73 if X could be either a 1 or a 7). Given that the Stackmat timer displays a time of X:0Y.ss as X:Y.ss, a missing tens digit should be considered more likely than a missing ones digit (e.g. "1:2.27" will be considered 1:02.27). The judge who signed an ambiguous result may be requested to clarify it, at the discretion of the score taker.
-- A7c4+) [BỔ SUNG] Missing signatures found by the score taker may be added by the judge and/or competitor before the end of the competition, at the discretion of the WCA Delegate.
-- A7g+) [VÍ DỤ] Examples of incidents that could grant a new competitor an extra attempt: not waiting for the green light, improperly starting or stopping the timer, going over inspection time due to misunderstanding how to start a solve, or other procedural time penalties.
-- A7g++) [LÀM RÕ] Individual penalties cannot be waived for new competitors. A full extra attempt must be granted.
-- A7g+++) [KHUYẾN CÁO] The WCA Delegate should use stronger discretion when granting more than one extra attempt to the same new competitor. If more than one extra attempt is granted, it should be for a different incident.
+- 10e1+) [LÀM RÕ] Đối với Square-1, vì khả năng thay đổi hình dạng của khối hình, hệ thống đo độ lệch được định nghĩa trong [Quy định 10f4](regulations:regulation:10f4) sẽ khác đối với hệ thống đo dành cho ký hiệu, sử dụng bởi chương trình tráo và được định nghĩa trong [Quy định 12c4](regulations:regulation:12c4).
+- 10f+) [GIẢI THÍCH] Giới hạn độ lệch được chọn sao cho giúp tạo ra ranh giới giữa trạng thái hoàn thành (không có hình phạt) và trạng thái chỉ còn một bước để hoàn thành.
+- 10f4+) [LÀM RÕ] Khi đếm số bước trong trường hợp lệch khối hình ở cuối lượt giải, x và y được xét riêng. Ví dụ (5, 1) được coi là một bước lệch, (5, 5) được coi là hai bước lệch.
+- 10h1+) [BỔ SUNG] Trạng thái hoàn thành của Clock không bị ảnh hưởng bởi nút ghim lỏng hay bị bung.
 
 
+## <article-11><incidents><incidents> Mục 11: Sự cố
 
-## <article-B><blindfolded><blindfoldedsolving> Article B: Blindfolded Solving
-
-- B1+) [GHI NHỚ] The competitor must use a puzzle without textures, markings, or other features that distinguish similar pieces (see [Regulation 3k](regulations:regulation:3k)). This should be given special attention for Blindfolded Solving.
-- B1b+) [KHUYẾN CÁO] Blindfolds should be checked by the WCA Delegate before use in the competition.
-- B2d+) [BỔ SUNG] By default, the competitor starts the solve the first time that they start the timer after the judge has indicated that they are ready (see [Regulation B2a](regulations:regulation:B2a)). If they want to check that the timer is in working order, they must (ask and) receive confirmation from the judge each time before starting/resetting the timer during this phase. Penalty for starting and resetting a timer without confirmation from the judge: disqualification of the attempt (DNF).
-
-
-## <article-C><one-handed><onehandedsolving> Article C: One-Handed Solving
-
-- C1b+) [LÀM RÕ] The competitor may use both hands during inspection.
-- C1b++) [LÀM RÕ] The competitor is not required to use the same solving hand for different attempts of the same round.
+- 11e+) [LÀM RÕ] Vì một khiếu nại không chắc chắn sẽ thành công, thí sinh có thể chọn để đồng hồ tiếp tục chạy trong lúc khiếu nại, và tiếp tục lượt giải khi hoàn thành.
+- 11e1+) [GHI NHỚ] Lượt giải bổ sung phải được tráo bằng chuỗi công thức tráo không chỉnh sửa, được tạo ra bởi chương trình tráo (xem [Quy định 4f](regulations:regulation:4f), [Hướng dẫn 4f+](guidelines:guideline:4f+)).
+- 11e2+) [BỔ SUNG] Nếu lượt giải bổ sung lại dẫn đến lượt giải bổ sung nữa, thí sinh cần tiếp tục giải lượt bổ sung cho tới khi có một lượt giải hợp lệ để thay thế lượt giải ban đầu.
+- 11e2++) [VÍ DỤ] Giả sử một thí sinh bình thường có 5 lượt giải, và lượt 2 đòi hỏi lượt giải bổ sung. Thí sinh cần giải lượt bổ sung cho tới khi có một lượt giải hợp lệ để thay thế cho lượt 2. Giả sử ở lượt giải sau đó thí sinh lại cần lượt giải bổ sung, thí sinh làm theo các bước tương tự như lượt 2.
 
 
-## <article-E><fewest-moves><fewestmovessolving> Article E: Fewest Moves Solving
+## <article-12><notation><notation> Mục 12: Kí hiệu
 
-- E2a1+) [KHUYẾN CÁO] If a judge finds a submitted solution that does not appear to have information to identify the attempt, they should check both sides of the paper.
-- E2b+) [LÀM RÕ] A competitor may choose to stop an attempt early by handing in a solution before the time limit.
-- E2b++) [BỔ SUNG] A competitor may join a 3x3x3 Fewest Moves attempt that is already in progress, at the discretion of the WCA Delegate. In this case, their time limit is the time remaining (i.e. they must finish when other competitors reach their 60 minute time limit). Exception: a competitor must not be permitted to join a 3x3x3 Fewest Moves attempt if any competitor has finished their attempt already (see [Guideline E2b+](guidelines:guideline:E2b+)), or if there is any other risk that information about the scramble may have become known to the competitor who wishes to join.
-- E2c+) [LÀM RÕ] Although the judge may provide a standard sheet for competitors to submit solutions, a competitor may submit a solution on a different piece of paper. (Note that the piece of paper must come from the judge, according to [Regulation E3a](regulations:regulation:E3a).)
-- E2c1+) [GIẢI THÍCH] A competition registrant ID is an identifier (e.g. a number) assigned to a competitor for the competition. Some competitions use this to keep track of score sheets and enter results.
-- E2c1++) [BỔ SUNG] If the competitor forgot to write information to identify the attempt on their intended solution paper, they are permitted to add it in front of a judge after the time limit. In this case, the competitor must ask the judge while submitting their solution and then immediately write information to identify the attempt (without making other changes) under direct supervision of the judge. Once a competitor has finished submitting their solution (e.g. placing it in the judge's hands and allowing the judge to move on to the next competitor, placing it on the judge's table and walking away), they are not permitted to add any information. If the competitor writes anything after the time limit but before asking the judge, the attempt remains disqualified (DNF).
-- E2c1+++) [GIẢI THÍCH] The competitor is not required to write the competition name, round, and/or attempt number on their submitted paper, but may wish to do so in order to help the organization team keep track of submitted solutions.
-- E2c1++++) [BỔ SUNG] If a judge finds a submitted solution without information to identify the attempt (e.g. while grading the attempt), they should find out the competitor who wrote the solution in order to assign them a DNF (rather than DNS). Note that the competitor must not be allowed to write information to identify the attempt at this point, so they must receive a DNF result.
-- E2c2+) [VÍ DỤ] Examples that are not considered a single unambiguous move sequence: multiple solution sequences without exactly one clearly indicated solution, a solution with ambiguous symbols (e.g. a letter that looks similar to "B" and "R" but is not clearly one or the other), a solution with stars or arrows indicating moves to be performed out of written order (e.g. "insertions" that are not written in-line with the rest of the move sequence, "pre-moves" that are not incorporated into the move sequence using valid notation), a move sequence that is not written out roughly as a series of lines in reading order, any arrangement of symbols that cannot be interpreted as an unambiguous move sequence. Exceptions to the examples above: small typographic corrections (e.g. blacking out moves and writing moves above that are clearly meant to replace them, moves written in subscript or superscript to fit between other moves).
-- E2c2++) [GHI NHỚ] In the past, bracket notations (e.g. [r] or [u2]) were permitted for Fewest Moves. Only rotations based on x, y, or z are permitted now (see [Regulation 12a4a](regulations:regulation:12a4a)).
-- E2c3+) [LÀM RÕ] If a move is not clearly blacked out/scribbled out and it is not clear whether the move is part of the solution, the judge should consider it an ambiguous move sequence (see [Regulation E2c2](regulations:regulation:E2c2) and [Guideline E2c2+](guidelines:guideline:E2c2+)).
-- E2c4+) [LÀM RÕ] Examples of symbols or combinations of symbols that are not permitted in solutions for 3x3x3 Fewest Moves: M, e, r, Y (uppercase), T, U1, Ui, U3, U-, R++, R2', R'2, L'w, 1R, 2U, 2f, 2-3r, 1Rw, 3Rw, 2-3Rw, rw, Rr, *, →, ⮐, /, ., ?, [r], [r u], [F], &lt;f&gt;, [f]', [f]2, [x], (x), (L), 2(Rw), (U)2, (U)', (R U)', (R U R'), [R, U], [R: U].
-- E2e+) [LÀM RÕ] Competitors must not derive solutions from any part of the scramble sequence, and solutions should not share significant parts with the inverse scramble sequence.
-- E2e++) [VÍ DỤ] Example of solutions that should result in a disqualification of the attempt (DNF): solutions beginning with the same 4 or more moves as the inverse scramble sequence.
-- E3d+) [LÀM RÕ] Any stopwatch or watch used by a competitor must not have any functions that would help the competitor find a solution.
-- E3d++) [LÀM RÕ] Competitors should not consider a personal stopwatch or watch as the official time, and must submit their solution when the judge calls "STOP".
+- 12a2+) [LÀM RÕ] Ví dụ, cả Rw và 2Rw đều là kí hiệu hợp lệ cho cùng một bước trên Khối 3x3x3. 1Rw không phải là kí hiệu hợp lệ cho bất kì Khối NxNxN nào cả, và 3Rw không phải là kí hiệu hợp lệ cho Khối 2x2x2 hoặc Khối 3x3x3 (nhưng là kí hiệu hợp lệ cho Khối 4x4x4 và các Khối NxNxN lớn hơn).
 
 
-## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Article H: Multiple Blindfolded Solving
+## <article-A><speedsolving><speedsolving> Mục A: Giải Tốc độ
 
-- H1+) [BỔ SUNG] If a puzzle with a duplicate scramble is found during an attempt, the puzzle may be re-scrambled using a different scramble sequence, at the discretion of the WCA Delegate.
-- H1b1+) [GHI NHỚ] The attempt is not disqualified for reaching the time limit, due to exceptions for 3x3x3 Multi-Blind (see [Regulation A1a4](regulations:regulation:A1a4) and [Regulation A1a5](regulations:regulation:A1a5)).
-- H1b1++) [BỔ SUNG] The judge may permit the competitor to continue the attempt unofficially, but the attempt must be stopped and judged first, in full accordance with the Regulations.
-- H1d+) [VÍ DỤ] Example: Suppose a competitor attempts 10 cubes, stops the solve with a time of 59:57, and has two time penalties. The time of the final result is 59:57 + 2*2 = 60:01 (also see [Regulation A1a5](regulations:regulation:A1a5)).
-- H1d++) [VÍ DỤ] Example: Suppose a competitor attempts 10 cubes, the judge stops the competitor at 60 minutes, and the attempt has two time penalties. The time of the final result is 60:00 + 2*2 = 60:04.
+- A1a2+) [BỔ SUNG] Trong trường hợp có giới hạn thời gian cộng dồn, trọng tài đánh dấu DNF và ghi lại thời gian gốc trong ngoặc đơn, v.d. "DNF (1:02.27)".
+- A1a2++) [VÍ DỤ] Nếu một vòng có giới hạn thời gian cộng dồn là 30 phút và kết quả của thí sinh trong 2 lượt giải đầu tiên là 6:00 và DNF (10:00), giới hạn thời gian của lượt giải thứ 3 là 30:00 - 6:00 = 10:00 = 14:00. Trong ví dụ này, lưu ý rằng chỉ kết quả cuối cùng của lượt giải mới được tính. Vì vậy, một lượt giải thứ 3 có thời gian gốc là 13:59 mà không có cộng thời gian không vượt quá giới hạn thời gian vì kết quả cuối cùng là 13:59 (xem [Quy định 9f2](regulations:regulation:9f2)), trong khi lượt giải thứ 3 có kết quả là 13:59 + 2 = 14:01 vượt quá giới hạn thời gian.
+- A1a2+++) [BỔ SUNG] Nếu kết quả của một lượt giải không khả dụng (VD: đồng hồ bị khởi tạo lại), trọng tài nên hỏi ý kiến WCA Delegate và ước tính thời gian của lượt giải. Thời gian ước tính này được tính vào giới hạn thời gian, nhưng không được dùng làm căn cứ cho kết quả chính thức.
+- A1a3+) [GHI NHỚ] Ban tổ chức và WCA Delegate phải chú ý giới hạn thời gian sẽ ảnh hưởng đến chiến thuật của thí sinh (VD: cố gắng ở hai lượt giải đầu tiên với mong muốn vượt qua cutoff của một vòng thi gộp), và việc thay đổi giới hạn thời gian sau khi vòng thi bắt đầu có thể đem lại bất lợi cho một số thí sinh..
+- A1a4+) [GHI NHỚ] Nếu một thí sinh được vượt quá thời gian do sơ suất, giới hạn vẫn phải được áp dụng sau đó, và trọng tài, thí sinh, và WCA Delegate phải được thông báo (xem [Quy định 1g2](regulations:regulation:1g2)). Trọng tài phải luôn để ý giới hạn thời gian của một lượt giải (có thể dựa vào lượt giải trước, trong trường hợp áp dụng giới hạn thời gian cộng dồn).
+- A2c1+) [GHI NHỚ] Trong quá khứ, phiếu ghi kết quả từng được sử dụng để che khối hình trong khi để lộ một vài mặt khác. Hiện tại điều này không hợp lệ.
+- A2d1+) [BỔ SUNG] Nếu chữ kí của người tráo được phát hiện là bị thiếu trước một lượt giải, khối hình nên ngay lập tức được trả lại cho người tráo để được xác minh và kí xác nhận.
+- A2d1++) [BỔ SUNG] Kết quả không được phép bị hủy bỏ chỉ vì thiếu chữ kí người tráo. Nếu chữ kí người tráo bị thiếu sau khi lượt giải kết thúc, trọng tài phải để cho lượt giải được tiếp tục (nếu đang diễn ra) và WCA Delegate nên chấp nhận kết quả. Tuy nhiên, WCA Delegate có thể thay thế một lượt giải bằng một lượt giải bổ sung nếu có lí do nghi ngờ khối hình không được tráo chính xác (ngoài thiếu chữ kí người tráo).
+- A2d1+++) [GHI NHỚ] Mặc dù WCA Delegate có thể chấp nhận nhiều kết quả không có chữ kí người tráo, họ nên đảm bảo việc này không xảy ra thường xuyên.
+- A3c3+) [LÀM RÕ] Thí sinh có thể khởi tạo lại đồng hồ trong khi quan sát nếu trọng tài sơ ý quên. Tuy nhiên, trọng tài có trách nhiệm bảo đảm rằng đồng hồ bấm giờ đã được khởi tạo lại (xem [Quy định A3b](regulations:regulation:A3b)). Nếu thí sinh bắt đầu lượt giải trong khi đồng hồ chưa được khởi tạo lại, lượt giải cần được thay thế bằng lượt giải bổ sung, dưới sự cho phép của WCA Delegate.
+- A3c3++) [LÀM RÕ] Thí sinh không được phép "thử" hay "khởi động lại" đồng hồ khi đang quan sát, vì thời gian quan sát kết thúc khi thí sinh bắt đầu đồng hồ ((xem [Quy định A4d](regulations:regulation:A4d))). Nếu thí sinh dừng đồng hồ sau khi bắt đầu đồng hồ lần đầu tiên, đây được coi là kết thúc lượt giải (xem [Quy định A6](regulations:regulation:A6)), ngay cả khi thí sinh thực hiện điều này trong 15 giây kể từ khi bắt đầu quan sát.
+- A3c4+) [LÀM RÕ] Nếu sử dụng một vật mỏng, trọng tài không được bỏ vật mỏng ra giúp thí sinh.
+- A3c4++) [LÀM RÕ] Thí sinh có thể bỏ vật mỏng ra trong lúc giải, nếu thí sinh chưa làm vậy trong lúc quan sát (do quên).
+- A5b+) Trong khi quan sát hoặc giải khối hình, thí sinh có thể chạm vào khối hình bằng bất kỳ bộ phận nào. Ngoại lệ: Giải Một tay (xem [Quy định C1b](regulations:regulation:C1b)).
+- A5b++) [LÀM RÕ] Nếu một bộ phận của khối hình của thí sinh rời ra (xem [Quy định 5a](regulations:regulation:5a)), thí sinh không được nhờ giúp đỡ khi tìm hay lấy lại bộ phận, và trọng tài nên ngăn người khác giúp đỡ. Nếu có người nhặt một bộ phận bị rời ra cho thí sinh, trọng tài hay thí sinh có thể yêu cầu họ đặt nó lên bàn thi đầu và không giúp đỡ thêm nữa.
+- A6b+) [GIẢI THÍCH] Giá trị ngẫu nhiên 0.06 giây được chọn để giải quyết vấn đề liên quan đến trục trặc của đồng hồ Stackmat.
+- A6e+) [LÀM RÕ] Nếu khối hình rơi vào lòng thí sinh sau khi dừng đồng hồ, đây được coi là chạm vào khối hình.
+- A7c+) [BỔ SUNG] Nếu một kết quả đã được ký bởi thí sinh được phát hiện là thiếu thông tin hoặc không đọc được, nó phải được diễn dịch theo trường hợp xấu nhất (v.d. "1:05" sẽ được coi là 1:05.99, "25.X3" sẽ được coi là 25.73 nếu không thể phân biệt được X là 1 hay 7). Vì đồng hồ Stackmat hiển thị thời gian X:0Y:ss thành X:Y.ss, việc thiếu chữ số hàng chục sẽ thường thấy hơn thiếu chữ số hàng đơn vị (v.d. "1:2.27" sẽ được coi là 1:02.27). Trọng tài ký tên trong một kết quả không rõ ràng sẽ được yêu cầu giải thích bởi người ghi kết quả.
+- A7c4+) [BỔ SUNG] Chữ ký thiếu có thể được bổ sung nếu có thể tìm ra trọng tài/thí sinh chịu trách nhiệm, dưới sự cho phép của WCA Delegate.
+- A7g+) [VÍ DỤ] Ví dụ về sự cố có thể dẫn đến lượt thi bổ sung: không đợi đèn xanh, khởi động hoặc dừng đồng hồ sai cách, vượt quá thời gian quan sát do không hiểu cách bắt đầu lượt giải, hoặc sai ở các bước khác.
+- A7g++) [LÀM RÕ] Thí sinh không thể được miễn hình phạt. Thay vào đó phải là một lượt giải bổ sung.
+- A7g+++) [KHUYẾN CÁO] WCA Delegate phải nghiêm khắc hơn khi cho nhiều hơn một lượt giải bổ sung cho cùng một thí sinh mới. Nếu cho nhiều hơn một lượt giải bổ sung, phải do các sự cố khác nhau.
+
+
+
+## <article-B><blindfolded><blindfoldedsolving> Mục B: Giải Bịt mắt
+
+- B1+) [GHI NHỚ] Thí sinh phải sử dụng khối hình không có bề mặt đặc biệt, đánh dấu, hoặc các đặc điểm khác giúp dễ phân biệt các viên giống nhau (xem [Quy định 3k](regulations:regulation:3k). Điều này phải được đặc biệt chú ý đối với Giải Bịt mắt.
+- B1b+) [KHUYẾN CÁO] Tấm bịt mắt nên được kiểm tra bởi WCA Delegate trước khi được sử dụng trong giải đấu.
+- B2d+) [BỔ SUNG] Nếu thí sinh muốn xác nhận đồng hồ hoạt động bình thường, họ phải (hỏi và) được sự xác nhận của trọng tài mỗi lần trước khi bắt đầu/khởi tạo lại đồng hồ trong lúc này. Hình phạt của việc bắt đầu và khởi tạo lại đồng hồ mà không có sự xác nhận của trọng tài: hủy kết quả lượt giải (DNF).
+
+
+## <article-C><one-handed><onehandedsolving> Mục C: Giải Một tay
+
+- C1b+) [LÀM RÕ] Thí sinh có thể sử dụng cả hai tay trong lúc quan sát.
+- C1b++) [LÀM RÕ] Thí sinh không bắt buộc phải dùng cùng một tay cho nhiều lượt giải khác nhau của cùng một vòng thi.
+
+
+## <article-E><fewest-moves><fewestmovessolving> Mục E: Giải Tối ưu
+
+- E2a1+) [KHUYẾN CÁO] Nếu trọng tài phát hiện một kết quả không có thông tin nhận diện lượt giải, họ nên kiểm tra cả hai mặt giấy.
+- E2b+) [LÀM RÕ] Thí sinh có thể chọn dừng lượt thi bằng cách nộp công thức giải trước khi thời gian kết thúc.
+- E2b++) [BỔ SUNG] Thí sinh có thể tham gia một lượt Giải Tối ưu 3x3x3 đang diễn ra, tùy theo quyết định của WCA Delegate. Trong trường hợp này, thời gian giới hạn của thí sinh là thời gian còn lại (phải kết thúc khi các thí sinh khác hết thời gian 60 phút). Ngoại lệ: thí sinh không được phép tham gia một lượt Giải Tối ưu 3x3x3 đang diễn ra nếu đã có thí sinh hoàn thành lượt giải (xem [Hướng dẫn E2b+](guidelines:guideline:E2b+)), hoặc nếu có nguy cơ thông tin về công thức tráo đã được biết đến bởi thí sinh muốn tham gia.
+- E2c+) [LÀM RÕ] Mặc dù trọng tài có thể cung cấp giấy theo tiêu chuẩn để thí sinh viết công thức giải, thí sinh có thể chọn nộp công thức giải trên tờ giấy khác, với điều kiện phải chỉ rõ chuỗi công thức nào là công thức giải. (Lưu ý tờ giấy phải được phát bởi trọng tài, theo như [Quy định E3a](regulations:regulation:E3a).)
+- E2c1+) [GIẢI THÍCH] Số định xanh thí sinh là một số được cấp cho thí sinh trong một giải đấu. Một số giải đấu dùng số này để theo dõi các phiếu ghi kết quả và để nhập kết quả.
+- E2c1++) [BỔ SUNG] Nếu thí sinh quên ghi thông tin nhận dạng lượt giải trên giấy ghi công thức giải, thí sinh được phép ghi thêm thông tin trước sự theo dõi của trọng tài sau khi thời gian kết thúc. Trong trường hợp này, thí sinh phải hỏi trọng tài khi đang nộp công thức giải và ngay sau đó viết thông tin nhận dạng lượt giải (mà không thay đổi gì khác) dưới sự giám sát trực tiếp của trọng tài. Một khi thí sinh đã nộp công thức giải (VD: đặt vào tay trọng tài, cho trọng tài thu công thức giải của thí sinh sau và bước đi), thí sinh không được thêm thông tin gì nữa. Nếu thí sinh viết thêm bất cứ gì sau khi thời gian kết thúc nhưng trước khi hỏi trọng tài, kết quả lượt giải vẫn bị hủy bỏ (DNF).
+- E2c1+++) [GIẢI THÍCH] Thí sinh không cần thiết phải viết tên giải đấu, số thứ tự vòng/lượt giải trên giấy viết công thức giải đã nộp, nhưng có thể viết để giúp ban tổ chức theo dõi các công thức giải được nộp.
+- E2c1++++) [BỔ SUNG] Nếu trọng tài phát hiện một công thức giải không có thông tin nhận dạng lượt giải (VD: khi đang chấm công thức giải), thí sinh nên tìm ra thí sinh đã viết công thức giải để ghi kết quả DNF (thay vì DNS). Ghi nhớ là thí sinh không được phép viết thông tin nhận dạng lời giải vào lúc này, nên thí sinh phải nhận kết quả DNF.
+- E2c2+) [VÍ DỤ] Ví dụ các trường hợp không được coi là một dãy bước giải rõ ràng với từng bước được viết theo thứ tự: nhiều công thức giải mà không có một công thức giải được chỉ ra rõ ràng, công thức giải có kí hiệu không rõ ràng (VD: Một chữ giống cả chữ "B" và "R" nhưng không thể phân biệt), một công thức giải có kí hiệu dấu sao hay mũi tên báo hiệu các bước giải cần được thực hiện không theo thứ tự được viết ra (VD: các bước giải được "thêm vào" mà không được viết cùng dòng với dãy bước còn lại, các bước giải thực hiện trước mà không được thêm vào dãy bước sử dụng kí hiệu hợp lệ), một dãy bước không được viết dành các dòng theo hướng đọc, các dãy kí hiệu không thể được nhận dạng rõ ràng. Ngoại lệ: các sửa chữa nhỏ (VD: xóa các bước và ghi lại các bước lên phía trên được chỉ rõ ràng là để thay thế các bước ở dưới, các bước được viết chữ nhỏ để vừa ở giữa các bước khác).
+- E2c2++) [GHI NHỚ] Trong quá khứ, các kí hiệu đóng ngoặc (VD: [r] hay [u2]) được cho phép cho nội dung Giải Tối ưu. Hiện tại, chỉ các bước xoay cả khối được kí hiệu dựa trên x, y, z được phép sử dụng (xem [Quy định 12a4a](regulations:regulation:12a4a)).
+- E2c3+) [LÀM RÕ] Nếu một bước không được xóa rõ ràng và không rõ rằng bước đó có phải một phần của công thức giải hay không, trọng tài nên coi đó là một dãy bước không rõ ràng (xem [Quy định E2c2](regulations:regulation:E2c2) và [Hướng dẫn E2c2+](guidelines:guideline:E2c2+)).
+- E2c4+) [LÀM RÕ] Ví dụ các kí hiệu hoặc chuỗi kí hiệu trong được cho phép trong công thức Giải Tối ưu 3x3x3: M, e, r, Y (viết hoa), T, U1, Ui, U3, U-, R++, R2', R'2, L'w, 1R, 2U, 2f, 2-3r, 1Rw, 3Rw, 2-3Rw, rw, Rr, *, →, ⮐, /, ., ?, [r], [r u], [F], &lt;f&gt;, [f]', [f]2, [x], (x), (L), 2(Rw), (U)2, (U)', (R U)', (R U R'), [R, U], [R: U].
+- E2e+) [LÀM RÕ] Thí sinh không được lấy lời giải từ bất kỳ phần nào của chuỗi công thức tráo, và lời giải không được giống như chuỗi công thức tráo đảo ngược.
+- E2e++) [VÍ DỤ] Ví dụ của lời giải có thể làm thí sinh bị hủy bỏ kết quả lượt giải (DNF): Công thức giải bắt đầu với cùng 4 hoặc nhiều hơn số bước như chuỗi công thức tráo đảo ngược.
+- E3d+) [LÀM RÕ] Bất kỳ đồng hồ bấm giờ hoặc đồng hồ đeo tay được sử dụng bởi thí sinh phải không có chức năng giúp cho thí sinh tìm lời giải.
+- E3d++) [LÀM RÕ] Thí sinh không được coi đồng hồ bấm giờ hoặc đồng hồ cá nhân là thời gian chính thức, và phải nộp lời giải sau khi trọng tài thông báo kết thúc.
+
+
+## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Mục H: Giải Bịt mắt nhiều 3x3x3
+
+- H1+) [BỔ SUNG] Nếu một khối hình được tráo bằng một công thức tráo lặp lại được phát hiện giữa lượt giải, khối hình có thể được tráo lại bằng một công thức tráo khác, tùy theo quyết định của WCA Delegate.
+- H1b1+) [GHI NHỚ] Kết quả của lượt giải không bị hủy bỏ vì vượt quá giới hạn thời gian, vì ngoại lệ cho Giải Bịt mắt nhiều 3x3x3 (xem [Quy định A1a4](regulations:regulation:A1a4) và [Quy định A1a5](regulations:regulation:A1a5)).
+- H1b1++) [BỔ SUNG] Trọng tài có thể cho phép thí sinh tiếp tục lượt giải một cách không chính thức, nhưng lượt thi phải được dừng và ghi lại kết quả trước đó, theo đúng Quy định.
+- H1d+) [VÍ DỤ] Ví dụ: Giả sử một thí sinh thi đấu với 10 khối hình, kết thúc lượt giải với thời gian 59:57, và nhận hai hình phạt thời gian. Kết quả cuối cùng là 59:57 + 2\*2 = 60:01 (xem [Quy định A1a5](regulations:regulation:A1a5)).
+- H1d++) [VÍ DỤ] Ví dụ: Giả sử một thí sinh thi đấu với 10 khối hình, kết thúc lượt giải với thời gian 60:00, và nhận hai hình phạt thời gian. Kết quả cuối cùng là 60:00 + 2\*2 = 60:04.

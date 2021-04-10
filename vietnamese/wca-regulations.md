@@ -12,8 +12,7 @@ Lưu ý rằng bản dịch không phải là chính thức và chỉ mang tính
 
 ### Quy định và Hướng dẫn WCA
 
-Quy định WCA bao gồm tất cả các Quy định có hiệu lực với tất cả các giải đấu chính thức được cấp phép bởi Hiệp hội Rubik Thế giới (WCA)
-The WCA Regulations contain the full set of Regulations that apply to all official competitions sanctioned by the World Cube Association.
+Quy định WCA bao gồm tất cả các Quy định có hiệu lực với tất cả các giải đấu chính thức được cấp phép bởi Hiệp hội Rubik Thế giới (WCA).
 Quy định WCA được bổ sung bởi [Hướng dẫn WCA](guidelines:top). Bản Quy định là văn bản hoàn thiện, còn Hướng dẫn WCA bao gồm những thông tin bổ sung và giải thích. 
 
 ### Ngôn ngữ
@@ -181,7 +180,7 @@ Chú ý: Vì số thứ tự của các Mục và Quy định không được s�
         - 5b3b) Nếu thí sinh sửa chữa khối hình nhưng sau đó nhận ra khối hình không thể giải được, thí sinh có thể tháo ra và lắp lại nhiều nhất 4 viên để cho khối hình có thể giải được.
         - 5b3c) Nếu khối hình không thể giải được và có thể đưa vào trạng thái có thể giải được bằng cách xoay một viên góc, thí sinh có thể sửa chữa bằng cách xoay viên góc mà không tháo khối hình.
     - 5b4) Trong lúc giải bịt mắt (xem [Quy định B4](regulations:regulation:b4)), tất cả việc sửa chữa đều phải thực hiện khi đang bịt mắt. Hình phạt: hủy bỏ kết quả lượt giải (DNF).
-    - 5b5) Nếu một số bộ phận của khối hình bị tách rời hay khong hoàn toàn cố định sao lượt giải, những quy định sau đây được áp dụng:
+    - 5b5) Nếu một số bộ phận của khối hình bị tách rời hay không hoàn toàn cố định sau lượt giải, những quy định sau đây được áp dụng:
         - 5b5a) Nếu một hay nhiều bộ phận không có mặt có màu bị ảnh hưởng, khối hình được coi là đã được giải.
         - 5b5b) Nếu một bộ phận có một mặt có màu bị ảnh hưởng, khối hình được coi là đã được giải.
         - 5b5c) Nếu nhiều hơn một bộ phận có một mặt có màu bị ảnh hưởng, khối hình được coi là chưa được giải (DNF).
@@ -264,7 +263,7 @@ Chú ý: Vì số thứ tự của các Mục và Quy định không được s�
 - 9s) Mỗi vòng thi của mỗi nội dung phải có giới hạn thời gian (xem [Quy định A1a](regulations:regulation:A1a)).
 
 
-## <article-10><solved-state><solvedstate> Article 10: Trạng thái giải hoàn thành
+## <article-10><solved-state><solvedstate> Mục 10: Trạng thái giải hoàn thành
 
 - 10b) Chỉ trạng thái tĩnh của khối hình sau khi đồng hồ đã được dừng mới được xem xét.
 - 10c) Khối hình có thể ở hướng về bất kì hướng nào ở cuối lượt giải.
@@ -475,8 +474,8 @@ Chú ý: Vì số thứ tự của các Mục và Quy định không được s�
     - E2b) Các thí sinh có tổng cộng 60 phút để tìm và viết công thức giải.
         - E2b1) Trọng tài nên thông báo "CÒN 5 PHÚT" khi 55 phút đã trôi qua, và phải thông báo "HẾT GIỜ" khi đã hết 60 phút.
     - E2c) Sau 60 phút, mỗi thí sinh phải nộp cho trọng tài một tờ giấy duy nhất với công thức giải được viết ra và thông tin nhận dạng lượt giải.
-        - E2c1) Thông tin nhận dạng lượt giải là: họ tên thí sinh, WCA ID, hoặc số giấy tờ tùy thân, và có thể thêm tên giải đấu, số thứ tự vòng, hoặc số thứ tự lượt giải. Hình phạt nếu nộp công thức giải mà không có họ tên thí sinh, WCA ID, hoặc số giấy tờ tùy thân: hủy bỏ kết quả lượt giải (DNF).
-        - E2c2) Công thức giải phải là một dãy bước giải rõ ràng với từng bước được viết theo thứ thự. Hình phạt nếu công thức giải không rõ ràng: hủy bỏ kết quả lượt giải (DNF).
+        - E2c1) Thông tin nhận dạng lượt giải là: họ tên thí sinh, WCA ID, hoặc số định danh thí sinh, và có thể thêm tên giải đấu, số thứ tự vòng, hoặc số thứ tự lượt giải. Hình phạt nếu nộp công thức giải mà không có họ tên thí sinh, WCA ID, hoặc số định danh thí sinh: hủy bỏ kết quả lượt giải (DNF).
+        - E2c2) Công thức giải phải là một dãy bước giải rõ ràng với từng bước được viết theo thứ tự. Hình phạt nếu công thức giải không rõ ràng: hủy bỏ kết quả lượt giải (DNF).
         - E2c3) Thí sinh nên gạch xóa cẩn thận những bước giải được khi trên giấy không phải là một phần của công thức giải cuối cùng.
         - E2c4) Công thức giải của thí sinh chỉ được phép sử dụng các bước được kí hiệu rõ cho Khối 3x3x3 ở trong [Quy định 12a](regulations:regulation:12a), và không được sử dụng các kí hiệu không được định nghĩa trong quy định trên. Hình phạt: hủy bỏ kết quả lượt giải (DNF).
         - E2c5) Công thức giải của thí sinh được coi là chính xác nếu khối hình được giải hoàn thành sau khi áp dụng công thức giải sau công thức tráo. Hình phạt cho công thức giải không chính xác: hủy bỏ kết quả lượt giải (DNF).
