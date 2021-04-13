@@ -48,7 +48,7 @@ Các hướng dẫn được đánh số tương ứng với các quy định li
 - 2c1++) [VÍ DỤ] Ví dụ, ban tổ chức có thể yêu cầu trả lời một email xác nhận trước một ngày nhất định, trả trước lệ phí thi đấu, hoặc trả lệ phí còn nợ của các giải đấu trước đó. Ban tổ chức nên cân nhắc kĩ sự công bằng của các yêu cầu.
 - 2c2+) [LÀM RÕ] Hồ sơ WCA là bộ thông tin liên quan đến một thí sinh, bao gồm thông tin cá nhân (họ tên, quốc tịch, giới tính và ngày sinh) cùng với tất cả kết quả trong các giải đấu WCA trước đó của thí sinh.
 - 2d+) [BỔ SUNG] Ngày sinh và thông tin liên lạc nên được bảo mật một cách cẩn trọng.
-- 2d++) Nếu một bên thứ ba (VD: phóng viên) nhờ ban tổ chức giúp liên lạc với bất kì (những) thí sinh nào, (những) thí sinh đó nên được hỏi xin phép trước.
+- 2d++) [KHUYẾN CẤU] Nếu một bên thứ ba (VD: phóng viên) nhờ ban tổ chức giúp liên lạc với bất kì (những) thí sinh nào, (những) thí sinh đó nên được hỏi xin phép trước.
 - 2e+) [LÀM RÕ] Nếu thí sinh có nhiều quốc tịch, thí sinh có thể chọn quốc gia muốn đại diện tại giải đấu đầu tiên của họ.
 - 2e++) [BỔ SUNG] WCA Delegate cũng nên xác minh tên và ngày sinh của tất cả các thí sinh mới bằng tài liệu (VD: hộ chiếu).
 - 2e3+) [LÀM RÕ] Các thí sinh không có quốc tịch không có xếp hạng hay kỉ lục quốc gia và châu lục.
@@ -170,7 +170,7 @@ Các hướng dẫn được đánh số tương ứng với các quy định li
 - A3c3++) [LÀM RÕ] Thí sinh không được phép "thử" hay "khởi động lại" đồng hồ khi đang quan sát, vì thời gian quan sát kết thúc khi thí sinh bắt đầu đồng hồ ((xem [Quy định A4d](regulations:regulation:A4d))). Nếu thí sinh dừng đồng hồ sau khi bắt đầu đồng hồ lần đầu tiên, đây được coi là kết thúc lượt giải (xem [Quy định A6](regulations:regulation:A6)), ngay cả khi thí sinh thực hiện điều này trong 15 giây kể từ khi bắt đầu quan sát.
 - A3c4+) [LÀM RÕ] Nếu sử dụng một vật mỏng, trọng tài không được bỏ vật mỏng ra giúp thí sinh.
 - A3c4++) [LÀM RÕ] Thí sinh có thể bỏ vật mỏng ra trong lúc giải, nếu thí sinh chưa làm vậy trong lúc quan sát (do quên).
-- A5b+) Trong khi quan sát hoặc giải khối hình, thí sinh có thể chạm vào khối hình bằng bất kỳ bộ phận nào. Ngoại lệ: Giải Một tay (xem [Quy định C1b](regulations:regulation:C1b)).
+- A5b+) [LÀM RÕ] Trong khi quan sát hoặc giải khối hình, thí sinh có thể chạm vào khối hình bằng bất kỳ bộ phận nào. Ngoại lệ: Giải Một tay (xem [Quy định C1b](regulations:regulation:C1b)).
 - A5b++) [LÀM RÕ] Nếu một bộ phận của khối hình của thí sinh rời ra (xem [Quy định 5a](regulations:regulation:5a)), thí sinh không được nhờ giúp đỡ khi tìm hay lấy lại bộ phận, và trọng tài nên ngăn người khác giúp đỡ. Nếu có người nhặt một bộ phận bị rời ra cho thí sinh, trọng tài hay thí sinh có thể yêu cầu họ đặt nó lên bàn thi đầu và không giúp đỡ thêm nữa.
 - A6b+) [GIẢI THÍCH] Giá trị ngẫu nhiên 0.06 giây được chọn để giải quyết vấn đề liên quan đến trục trặc của đồng hồ Stackmat.
 - A6e+) [LÀM RÕ] Nếu khối hình rơi vào lòng thí sinh sau khi dừng đồng hồ, đây được coi là chạm vào khối hình.
