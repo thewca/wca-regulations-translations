@@ -48,7 +48,7 @@ Các hướng dẫn được đánh số tương ứng với các quy định li
 - 2c1++) [VÍ DỤ] Ví dụ, ban tổ chức có thể yêu cầu trả lời một email xác nhận trước một ngày nhất định, trả trước lệ phí thi đấu, hoặc trả lệ phí còn nợ của các giải đấu trước đó. Ban tổ chức nên cân nhắc kĩ sự công bằng của các yêu cầu.
 - 2c2+) [LÀM RÕ] Hồ sơ WCA là bộ thông tin liên quan đến một thí sinh, bao gồm thông tin cá nhân (họ tên, quốc tịch, giới tính và ngày sinh) cùng với tất cả kết quả trong các giải đấu WCA trước đó của thí sinh.
 - 2d+) [BỔ SUNG] Ngày sinh và thông tin liên lạc nên được bảo mật một cách cẩn trọng.
-- 2d++) [KHUYẾN CẤU] Nếu một bên thứ ba (VD: phóng viên) nhờ ban tổ chức giúp liên lạc với bất kì (những) thí sinh nào, (những) thí sinh đó nên được hỏi xin phép trước.
+- 2d++) [KHUYẾN CÁO] Nếu một bên thứ ba (VD: phóng viên) nhờ ban tổ chức giúp liên lạc với bất kì (những) thí sinh nào, (những) thí sinh đó nên được hỏi xin phép trước.
 - 2e+) [LÀM RÕ] Nếu thí sinh có nhiều quốc tịch, thí sinh có thể chọn quốc gia muốn đại diện tại giải đấu đầu tiên của họ.
 - 2e++) [BỔ SUNG] WCA Delegate cũng nên xác minh tên và ngày sinh của tất cả các thí sinh mới bằng tài liệu (VD: hộ chiếu).
 - 2e3+) [LÀM RÕ] Các thí sinh không có quốc tịch không có xếp hạng hay kỉ lục quốc gia và châu lục.
