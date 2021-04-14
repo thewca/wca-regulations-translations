@@ -14,7 +14,7 @@ Lưu ý rằng bản dịch không phải là chính thức và chỉ mang tính
 ### Quy định và Hướng dẫn WCA
 
 Quy định WCA bao gồm tất cả các Quy định có hiệu lực với tất cả các giải đấu chính thức được cấp phép bởi Hiệp hội Rubik Thế giới (WCA).
-Quy định WCA được bổ sung bởi [Hướng dẫn WCA](guidelines:top). Bản Quy định là văn bản hoàn thiện, còn Hướng dẫn WCA bao gồm những thông tin bổ sung và giải thích. 
+Quy định WCA được bổ sung bởi [Hướng dẫn WCA](guidelines:top). Bản Quy định là văn bản hoàn thiện, còn Hướng dẫn WCA bao gồm những thông tin bổ sung và giải thích.
 
 ### Ngôn ngữ
 Những từ "phải" (must), "không được" (must not), "nên" (should), "không nên" (should not) và "có thể" (may) được định nghĩa theo [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt).
