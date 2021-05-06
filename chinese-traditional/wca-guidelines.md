@@ -120,8 +120,8 @@
 - 9f5+) [釐清] 如果參賽者有辦法比賽但卻沒有參加，成績會記為DNS。(參考[規則 A3b2](regulations:regulation:A3b2))如果參賽者並沒有取得還原資格（例如：門檻制的比賽）他並不會留下任何比賽成績。（翻譯註解：連DNS都不會注記）
 - 9p2+) [釐清] 最佳成績是指決定相應輪次排名的單次或平均成績。
 - 9q+) [建議] 每一個比賽項目及每一輪應該至少要有2名參賽者。
-- 9t+) [解釋] 根據[規則 9t1](regulations:regulain:9t1)及[規則 9t2](regulations:regulain:9t2)，該輪可能會變成不符合[規則 9p1](regulations:regulation:9p1)、[規則 9m1](regulations:regulation:9m1)、[規則 9m2](regulations:regulation:9m2)或是[規則 9m3](regulations:regulation:9m3)。但是，為了符合這些規則而去更改成績相關內容的話，會影響無辜的參賽者，這也是成績必須維持原樣的原因。
-- 9t++) [附加] 如果是在比賽中進行修改成績的話，仍要遵守這項規定。若是在比賽中的話，[規則 9t1](regulations:regulain:9t1)、[規則 9t2](regulations:regulain:9t2)和[規則 9t3](regulations:regulain:9t3)應該要被遵守，由WCA代表決定。
+- 9t+) [解釋] 根據[規則 9t1](regulations:regulation:9t1)及[規則 9t2](regulations:regulation:9t2)，該輪可能會變成不符合[規則 9p1](regulations:regulation:9p1)、[規則 9m1](regulations:regulation:9m1)、[規則 9m2](regulations:regulation:9m2)或是[規則 9m3](regulations:regulation:9m3)。但是，為了符合這些規則而去更改成績相關內容的話，會影響無辜的參賽者，這也是成績必須維持原樣的原因。
+- 9t++) [附加] 如果是在比賽中進行修改成績的話，仍要遵守這項規定。若是在比賽中的話，[規則 9t1](regulations:regulation:9t1)、[規則 9t2](regulations:regulation:9t2)和[規則 9t3](regulations:regulation:9t3)應該要被遵守，由WCA代表決定。
 - 9t3+) [舉例] 假設在某項目的第一輪時參賽者A取得了平均10.00的成績，而參賽者B取得了平均10.05的成績，使得參賽者A進入了決賽，而參賽者B沒有進入決賽。如果事後發現有成績紀錄錯誤，參賽者B的成績其實是平均9.95（參賽者B應該晉級決賽，而不是參賽者A晉級），則參賽者A決賽的成績仍需要被保留下來。
 
 
