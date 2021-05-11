@@ -35,4 +35,4 @@ jobs:
         unzip official.zip
     - name: Execute build
       run: |
-        ./travis.sh
+        ./ci-test.sh
