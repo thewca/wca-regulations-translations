@@ -1,6 +1,6 @@
 # <wca-title>WCA-ohjesäännöt
 
-<version>Versio: 1. elokuuta 2020
+<version>Versio: 1. toukokuuta 2021
 
 
 ## Huomautukset
@@ -43,8 +43,6 @@ Jokainen ohjesääntö on informatiivisuuden lisäämiseksi luokiteltu käyttäe
 ## <article-2><competitors><competitors> Artikla 2: Kilpailijat
 
 - 2c+) [LISÄYS] Ensikertalaisten pitäisi rekisteröityä käyttäen laillista nimeään. He voivat rekisteröityä käyttäen järkevää lempinimeä, WCA-delegaatin harkinnan mukaan.
-- 2c1+) [LISÄYS] Vaatimukset rekisteröitymisen suorittamiseen loppuun täytyy kertoa selvästi kilpailun verkkosivulla.
-- 2c1++) [ESIMERKKI] Järjestäjäryhmä voi esimerkiksi vaatia vahvistussähköpostiin vastaamista ennen tiettyä päivää, osallistumismaksun maksamista etukäteen tai aikaisempien kilpailujen maksamatta jääneiden maksujen maksamista. Järjestäjäryhmän pitäisi harkita huolella vaatimusten reiluutta.
 - 2c2+) [SELVENNYS] WCA-profiiliin on kerätty kilpailijan tietoja, sisältäen henkilötietoja (kilpailijan nimi, kansallisuus, sukupuoli ja syntymäaika) sekä kaikki kilpailijan tulokset WCA-kilpailuista.
 - 2d+) [LISÄYS] Syntymäajan ja yhteystietojen pitäisi olla erityisen hyvin suojattuja.
 - 2d++) [SUOSITUS] Jos kolmas osapuoli (esim. toimittaja) pyytää järjestäjäryhmältä mahdollisuutta olla yhteydessä kilpailijaan/kilpailijoihin, pitäisi kilpailijan/kilpailijoiden suostumusta kysyä ensin.
@@ -105,20 +103,10 @@ Jokainen ohjesääntö on informatiivisuuden lisäämiseksi luokiteltu käyttäe
 - 5c+) [MUISTUTUS] Jos kilpailijan pulmapelissä ilmenee vika, tämä ei oikeuta häntä ylimääräiseen ratkaisuyritykseen.
 
 
-## <article-6><awards><awards> Artikla 6: Palkinnot/kunnianosoitukset
-
-- 6a+) [LISÄYS] Kilpailijoille voidaan antaa palkintoja tai kunnianosoituksia kilpailun ilmoituksen mukaan.
-- 6b+) [SUOSITUS] Kilpailijoiden pitäisi osallistua palkintojenjakoon vastaanottaakseen palkinnot/kunnianosoitukset.
-- 6b1+) [SUOSITUS] Palkintojenjako pitäisi pitää kilpailupaikalla tunnin sisällä viimeisen lajin päättymisestä.
-- 6c+) [SUOSITUS] Palkintojen tai kunnianosoitusten voittajien pitäisi olla valmiita puhumaan toimittajille tai kilpailua kattaville tiedotusvälineille.
-- 6d+) [SUOSITUS] Kilpailun järjestäjäryhmällä pitäisi olla järjestäjäryhmän johtajan ja kilpailun WCA-delegaatin allekirjoittamat kunniakirjat kaikkien lajien voittajille.
-
-
 ## <article-7><environment><environment> Artikla 7: Ympäristö
 
-- 7d+) [LISÄYS] Kilpailualueen lämpötilan pitäisi olla 21:n ja 25:n celsiusasteen välillä.
 - 7f1a+) [SELVENNYS] Täysikokoisen maton minimimitat ovat 30cm (vasemmalta oikealle) kertaa 25cm (edestä taakse).
-- 7h2+) [LISÄYS] Kilpailijoiden alueella olevien kilpailijoiden ei pitäisi pystyä näkemään ratkaisupaikoilla olevien kilpailijoiden pulmapelejä.
+- 7h2+) [LISÄYS] Kilpailijoiden odotusalueella olevien kilpailijoiden ei pitäisi pystyä näkemään ratkaisupaikoilla olevien kilpailijoiden pulmapelejä.
 
 
 ## <article-9><events><events> Artikla 9: Lajit
@@ -131,6 +119,9 @@ Jokainen ohjesääntö on informatiivisuuden lisäämiseksi luokiteltu käyttäe
 - 9f5+) [SELVENNYS] Ratkaisuyrityksen tulos on DNS jos kilpailija oli oikeutettu ratkaisuyritykseen, mutta ei aloittanut sitä (ks. [sääntö A3b2](regulations:regulation:A3b2)). Jos kilpailija ei ollut oikeutettu ratkaisuyritykseen (esim. cutoff-kierroksella), hänellä ei ole tulosta ratkaisuyritykselle.
 - 9p2+) [SELVENNYS] Tulos viittaa parhaaseen ratkaisuun tai keskiarvoon, joka määrittää kyseisen kierroksen sijoitukset.
 - 9q+) [SUOSITUS] Lajeilla ja kierroksilla pitäisi olla vähintään 2 kilpailijaa.
+- 9t+) [SELITYS] Johtuen säännöistä [9t1](regulations:regulation:9t1) ja [9t2](regulations:regulation:9t2), kierrokset saattavat vaikuttaa olevan säännön [9p1](regulations:regulation:9p2), [9m1](regulations:regulation:9m1), [9m2](regulations:regulation:9m2) tai [9m3](regulations:regulation:9m3) vastaisia. Näiden sääntöjen mukaisten muutosten tekeminen vaikuttaisi kuitenkin syyttömiin kilpailijoihin, minkä takia tulosten täytyy pysyä ennallaan.
+- 9t++) [LISÄYS] Jos tulosten muutos tapahtuu kilpailun aikana, täytyy myös käyttää tätä sääntöä. Tässä tapauksessa pitäisi noudattaa myös sääntöjä [9t1](regulations:regulation:9t1), [9t2](regulations:regulation:9t2) ja [9t3](regulations:regulation:9t3), WCA-delegaatin harkinnan mukaan.
+- 9t3+) [ESIMERKKI] Oletetaan, että kilpailija A saa keskiarvon 10.00 ja kilpailija B keskiarvon 10.05 lajin ensimmäisellä kierroksella, niin että kilpailija A jatkaa finaalikierrokselle, mutta kilpailija B ei. Jos havaitaan virhe tulosten tallennuksessa, ja kilpailijan B oikea keskiarvo on 9.95 (jolloin hänen olisi kuulunut päästä finaalikierrokselle kilpailijan A sijaan), kilpailijan A tulokset finaalikierrokselta säilyvät voimassa.
 
 
 ## <article-10><solved-state><solvedstate> Artikla 10: Ratkaistu asema
@@ -175,7 +166,6 @@ Jokainen ohjesääntö on informatiivisuuden lisäämiseksi luokiteltu käyttäe
 - A6b+) [SELITYS] Mielivaltainen arvo 0.06 sekuntia valittiin Stackmat-ajastimen toimintahäiriöistä aiheutuvan huolen lieventämiseksi.
 - A6e+) [SELVENNYS] Jos pulmapeli tippuu kilpailijan syliin sen jälkeen, kun kilpailija pysäyttää ajastimen, tämä katsotaan pulmapeliin koskemiseksi.
 - A7c+) [LISÄYS] Jos kilpailijan allekirjoittama tulos todetaan vaillinaiseksi tai lukukelvottomaksi, pitäisi se tulkita huonoimmalla kohtuullisella tavalla (esim. "1:05" on 1:05.99, "25.X3" on 25.73 jos X voisi olla joko 1 tai 7). Koska Stackmat-ajastin näyttää ajan X:0Y.ss muodossa X:Y.ss, puuttuvaa kymmenlukua tulisi pitää todennäköisempänä kuin puuttuvaa ykköslukua (esim. "1:2.27" on 1:02.27). Tuomaria, joka allekirjoitti epäselvän tuloksen, voidaan pyytää selventämään se, tulosten tallentajan harkinnan mukaan.
-- A7c4+) [LISÄYS] Tuomari tai kilpailija voi lisätä tulosten tallentajan havaitseman puuttuvan allekirjoituksen ennen kilpailun päättymistä, WCA-delegaatin harkinnan mukaan.
 - A7g+) [ESIMERKKI] Esimerkkejä poikkeustilanteista, jotka voisivat johtaa ylimääräisen ratkaisuyrityksen myöntämiseen uudelle kilpailijalle: vihreän valon odottamatta jättäminen, ajastimen käynnistäminen tai pysäyttäminen sääntöjen vastaisesti, tarkasteluvaiheen aikarajan ylittäminen, koska kilpailija käsitti väärin kuinka ratkaisuyritys aloitetaan, muut menettelytapoihin liittyvät aikarangaistukset.
 - A7g++) [SELVENNYS] Uusien kilpailijoiden yksittäisiä rangaistuksia ei saa jättää huomiotta, vaan sen sijaan täytyy myöntää ylimääräinen ratkaisuyritys.
 - A7g+++) [SUOSITUS] WCA-delegaatin pitäisi käyttää vahvempaa harkintaa myöntäessään useamman kuin yhden ylimääräisen ratkaisuyrityksen samalle uudelle kilpailijalle. Jos useampi kuin yksi ylimääräinen ratkaisuyritys myönnetään, pitäisi niiden olla eri poikkeustilanteista.
