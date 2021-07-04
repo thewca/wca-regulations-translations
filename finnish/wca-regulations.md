@@ -1,6 +1,6 @@
 # <wca-title>WCA-säännöt
 
-<version>Versio: 1. elokuuta 2020
+<version>Versio: 1. toukokuuta 2021
 
 
 ## Huomautukset
@@ -73,7 +73,7 @@ Huomautus: Koska artikloille ja säännöille ei määrätä uusia numeroita kun
     - 2e3) Kilpailijat, jotka eivät ole minkään maan kansalaisia, voivat kilpailla ilman edustusmaata (englanniksi "Stateless").
 - 2f) Kilpailijoiden täytyy noudattaa kilpailupaikan sääntöjä ja käyttäytyä harkiten.
 - 2g) Kilpailijoiden on pysyttävä hiljaa ennalta määrätyllä kilpailualueella. Puhuminen on sallittua, mutta se on pidettävä kohtuullisella tasolla ja erillään suorittavista kilpailijoista.
-    - 2g3) Kilpailijat kilpailijoiden alueella eivät saa keskustella käynnissä olevan kierroksen sekoituksista. Rangaistus: kilpailijan hylkäys lajista WCA-delegaatin harkinnan mukaan.
+    - 2g3) Kilpailijat kilpailijoiden odotusalueella eivät saa keskustella käynnissä olevan kierroksen sekoituksista. Rangaistus: kilpailijan hylkäys lajista, WCA-delegaatin harkinnan mukaan.
 - 2h) Kilpailijoiden täytyy olla täysin pukeutuneita kilpailualueella. WCA-delegaatin harkinnan mukaan kilpailija voidaan hylätä kilpailusta epäsopivaan vaatetukseen perustuen.
 - 2i) Kilpaillessaan kilpailijat eivät saa käyttää elektroniikkaa tai äänilaitteita (esim. puhelimet, MP3-soittimet, lisävalaistus).
     - 2i1) Kilpailijat voivat käyttää muita kuin sähköisiä apuvälineitä, jotka eivät anna heille epäreilua etulyöntiasemaa, WCA-delegaatin harkinnan mukaan. Näitä ovat:
@@ -84,9 +84,10 @@ Huomautus: Koska artikloille ja säännöille ei määrätä uusia numeroita kun
     - 2i2) Kilpailijat voivat käyttää kameraa ratkaisupaikalla WCA-delegaatin harkinnan mukaan, mutta seuraavat rajoitukset ovat voimassa ratkaisuyrityksen alusta ratkaisun loppuun asti. Rangaistus rajoituksen rikkomisesta: ratkaisuyrityksen hylkäys (DNF).
         - 2i2a) Jokaisen kameran näytön täytyy olla tyhjä tai poissa kilpailijan näkökentästä (ks. [sääntö A5b](regulations:regulation:A5b)).
         - 2i2b) Kilpailija ei saa operoida kameraa ratkaisun aikana (t.s. painella kameran näppäimiä, pitää sitä kädessään, pitää sitä yllään). Poikkeus: kilpailija saa pitää kameraa päässään, kunhan se on poissa hänen näkökentästään ja on selvää, ettei hän muulla tavalla operoi sitä.
+	- 2i3) Kilpailijalla saa olla matkapuhelin taskussaan, kunhan on selvää, ettei hän käytä sitä mitenkään.
 - 2j) WCA-delegaatti voi hylätä kilpailijan tietystä lajista.
     - 2j1) Jos kilpailija hylätään lajista mistä tahansa syystä, hän ei enää ole oikeutettu kilpailemaan kyseisessä lajissa kilpailun aikana.
-        - 2j1a) Kyseisen lajin osalta kaikkien jäljellä olevien ratkaisuyritysten tulokseksi merkitään DNF.
+        - 2j1a) Jos kilpailija on jo aloittanut vähintään yhden ratkaisuyrityksen ennen hänen hylkäämistään kyseiseltä kierrokselta, kaikkien jäljellä olevien ratkaisuyritysten tulokseksi kyseisessä lajissa merkitään DNF. Jos kilpailija ei ole aloittanut ratkaisuyrityksiä (eli hänellä ei ole tuloksia tai hänellä on vain DNS-tuloksia), tuloksia ei kirjata.
     - 2j2) Jos kilpailija hylätään lajin aikana, hänen aiemmat ratkaisuyrityksensä pysyvät voimassa. Poikkeus: huijaaminen (ks. [sääntö 2k2a](regulations:regulation:2k2a)).
 - 2k) WCA-delegaatin harkinnan mukaan kilpailija voidaan hylätä yhdestä lajista, useasta lajista tai kaikista lajeista, jos kilpailija:
     - 2k1) Ei rekisteröidy tai ilmoittaudu kilpailuun ajoissa.
@@ -201,8 +202,9 @@ Huomautus: Koska artikloille ja säännöille ei määrätä uusia numeroita kun
         - 7f1d) Alusta: Tasainen alusta, jolle Stackmat on asetettu. Matto on osa alustaa. Ajastin ei ole osa alustaa.
     - 7f2) Stackmat-ajastimen täytyy olla kiinnitettynä mattoon ja asetettuna alustalle siten, että ajastin on kilpailijaa lähimpänä olevalla maton sivulla.
 	- 7f3) Järjestäjäryhmän pitäisi muokata Stackmat-ajastimia kestämään paremmin yleisiä sattumuksia vaikeuttamalla ajastimen nappien painamista vahingossa (esim. kiinnittämällä nappien ympärille renkaita) ja varmistamalla, että paristo pysyy tukevasti paikallaan (esim. pehmustamalla paristokotelo).
-- 7h) Kilpailualueella on oltava ainakin yksi kilpailijoiden alue (huom. [sääntö Y6a](regulations:regulation:Y6a) syrjäyttää säännön 7h).
-    - 7h1) Järjestäjäryhmä voi vaatia kilpailijaa, joka on kutsuttu kilpailemaan, pysymään kilpailijoiden alueella siihen asti kun hän on suorittanut kaikki ratkaisuyrityksensä kyseisellä kierroksella.
+- 7h) Kilpailualueella on oltava ainakin yksi kilpailijoiden odotusalue (huom. [sääntö Y6a](regulations:regulation:Y6a) syrjäyttää säännön 7h).
+    - 7h1) Järjestäjäryhmä voi vaatia kilpailijaa, joka on kutsuttu kilpailemaan, pysymään kilpailijoiden odotusalueella siihen asti, kun hän on suorittanut kaikki ratkaisuyrityksensä kyseisellä kierroksella.
+	- 7h2) Määritelmä: Kilpailijoiden odotusalue on alue, jossa ryhmän kilpailijat odottavat kutsua ratkaisupaikalle.
 
 
 ## <article-9><events><events> Artikla 9: Lajit
@@ -242,13 +244,13 @@ Huomautus: Koska artikloille ja säännöille ei määrätä uusia numeroita kun
     - 9f13) "3:n keskiarvo" ja "Typistetty 5:n keskiarvo" -kierroksilla sijoitukset määräytyvät kilpailijoiden (typistettyjen) keskiarvojen paremmuusjärjestyksen perusteella siten, että pienempi keskiarvotulos on "parempi".
     - 9f14) Jos kaksi tai useampi kilpailijaa saavuttaa "3:n keskiarvo" tai "Typistetty 5:n keskiarvo" -kierroksella saman keskiarvotuloksen, sijoitukset määräytyvät kilpailijoiden parhaiden tulosten mukaan siten, että lyhyempi aika on "parempi".
     - 9f15) Kilpailijat, jotka saavuttavat kierroksella saman tuloksen, saavat identtisen sijoituksen kyseisellä kierroksella.
-- 9g) Cutoff-kierroksella on määritelty cutoff-vaihe ("Paras X:stä") sekä cutoff-tulos (esim. cutoff-vaihe "Paras 2:sta" ja cutoff-tulos "2 minuuttia"). Jos edes yksi kilpailijan ratkaisuista cutoff-vaiheessa alittaa cutoff-tuloksen, kilpailija jatkaa kierroksella loppuun asti. Cutoff-vaiheessa tehdyt ratkaisut lasketaan mukaan kierrostuloksiin.
+- 9g) Cutoff-kierroksella on määritelty cutoff-vaihe ("Paras X:stä") sekä cutoff-vaatimus (esim. cutoff-vaihe "Paras 2:sta" ja cutoff-vaatimus "alle 2 minuuttia"). Jos edes yksi kilpailijan ratkaisuista cutoff-vaiheessa täyttää cutoff-vaatimuksen, kilpailija jatkaa kierroksella loppuun asti. Cutoff-vaiheessa tehdyt ratkaisut lasketaan mukaan kierrostuloksiin.
 - 9i) Virallisten WCA-kilpailujen tulosten täytyy olla listattuna WCA:n maailmanrankingissä.
     - 9i1) WCA hyväksyy seuraavanlaiset alueelliset ennätykset: kansalliset ennätykset, maanosan ennätykset ja maailmanennätykset.
     - 9i2) Kaikkien kierroksen tulosten oletetaan tapahtuneen kierroksen viimeisenä kalenteripäivänä. Jos alueellinen ennätys rikotaan useaan kertaan saman kalenteripäivän aikana, vain paras tulos lasketaan alueellisen ennätyksen rikkojaksi.
     - 9i3) Jos lajin WCA-sääntöjä muutetaan, olemassa olevat alueelliset ennätykset pysyvät voimassa kunnes ne rikotaan uusien sääntöjen alla.
 - 9j) Jokainen laji on pidettävä enintään kerran yhden kilpailun aikana.
-- 9k) Kaikki kilpailijat voivat osallistua kilpailussa kaikkiin lajeihin, lukuunottamatta WCA Boardin hyväksymiä erikoistapauksia.
+- 9k) Kaikki kilpailijat voivat osallistua kilpailussa kaikkiin lajeihin, lukuunottamatta WCA Competition Announcement Teamin hyväksymiä erikoistapauksia.
 - 9l) Jokaisen kierroksen on oltava valmis ennen saman lajin seuraavan kierroksen alkua.
 - 9m) Lajeissa on oltava enintään neljä kierrosta.
     - 9m1) Kierrosten, joilla on enintään 99 kilpailijaa, jälkeen täytyy olla enintään kaksi kierrosta.
@@ -261,6 +263,10 @@ Huomautus: Koska artikloille ja säännöille ei määrätä uusia numeroita kun
         - 9p2a) Jokaisen kierroksen jatkoonpääsyvaatimukset täytyy ilmoittaa ennen kierroksen alkua, eikä niitä pitäisi muuttaa kierroksen alettua. Muutokset täytyy tehdä WCA-delegaatin, jonka tulee harkita vahvasti muutoksen reiluutta, harkinnan mukaan.
     - 9p3) Jos jatkoon päässyt kilpailija vetäytyy kierrokselta, hänet voidaan korvata edellisen kierroksen parhaalla karsiutuneella kilpailijalla.
 - 9s) Jokaisen lajin jokaisella kierroksella on oltava aikaraja (ks. [sääntö A1a](regulations:regulation:A1a)).
+- 9t) Jos kilpailun päättymisen jälkeen tapahtuu muutos kilpailijan tuloksiin (esim. tulosten tallennusvirheen tai takautuvan rangaistuksen vuoksi) niin, että kilpailija ei olisi saanut jatkaa seuraavalle kierrokselle (tai ei ollut oikeutettu kilpailemaan kierroksella), kilpailijan kaikki tulokset kaikilta seuraavilta kierroksilta täytyy poistaa.
+    - 9t1) Jos tämän vuoksi kierros ei enää noudata [sääntöä 9p1](regulations:regulation:9p1), muiden kilpailijoiden tuloksia ei saa poistaa.
+	- 9t2) Jos tämän vuoksi kierros ei enää noudata [sääntöä 9m1](regulations:regulation:9m1), [9m2](regulations:regulation:9m2) tai [9m3](regulations:regulation:9m3), mitään jatkokierroksia ei saa poistaa.
+	- 9t3) Jos kilpailijan tuloksiin tehdään muutos, jonka seurauksena toisen kilpailijan ei olisi pitänyt jatkaa seuraavalle kierrokselle, tämän toisen kilpailijan tuloksia ei saa poistaa.
 
 
 ## <article-10><solved-state><solvedstate> Artikla 10: Ratkaistu asema
@@ -356,12 +362,12 @@ Huomautus: Koska artikloille ja säännöille ei määrätä uusia numeroita kun
         - A1a5) Aikarajaan verrattava aika on ratkaisuyrityksen lopullinen tulos aikarangaistusten jälkeen (jos tulos ei ole DNF) tai ratkaisuyritykseen käytetty aika (jos tulos on DNF).
     - A1b) Jos ratkaisun aikaraja on suurempi kuin 10 minuuttia, täytyy sekuntikelloa käyttää ajan mittaamiseen.
         - A1b1) Stackmatia täytyy käyttää sekuntikellon lisäksi. Poikkeus: lajeissa, joissa ei ole tarkasteluvaihetta ja kilpailijan odotetaan ylittävän 10 minuuttia, on Stackmatin käyttö vapaaehtoista.
-        - A1b2) Jos aika Stackmat-ajastimesta on saatavilla, on se alkuperäinen aika. Muulloin sekuntikellon aika on alkuperäinen aika.
+        - A1b2) Jos aika Stackmat-ajastimesta on saatavilla, on se alkuperäinen aika. Muulloin (esim. Stackmat-ajastimessa oli toimintahäiriö, se ylitti 10 minuuttia tai sitä ei käytetty ollenkaan) sekuntikellon aika on alkuperäinen aika.
     - A1c) Kilpailijan, joka osallistuu lajiin, täytyy pystyä täyttämään lajin vaatimukset (ks. [sääntö 2k6](regulations:regulation:2k6)).
 - A2) Sekoittaminen:
-    - A2a) Kierrokselle kutsuttaessa kilpailija toimittaa pulmapelin sekoittajalle ratkaistussa asemassa. Tämän jälkeen kilpailija odottaa kilpailijoiden alueella, kunnes hänet kutsutaan kilpailemaan.
+    - A2a) Kierrokselle kutsuttaessa kilpailija toimittaa pulmapelin sekoittajalle ratkaistussa asemassa. Tämän jälkeen kilpailija odottaa kilpailijoiden odotusalueella, kunnes hänet kutsutaan kilpailemaan.
     - A2b) Sekoittaja sekoittaa pulmapelin [artiklan 4](regulations:article:4) sääntöjen mukaan.
-        - A2b1) Square-1:lle järjestäjäryhmä voi vaatia ohuen esineen asettamista pulmapeliin, jotta vahinkosiirtoja ei tapahtuisi ennen ratkaisuyrityksen alkua. Näiden esineiden käytöstä täytyy ilmoittaa ennen kierroksen alkua.
+        - A2b1) Square-1:lle järjestäjäryhmä voi ottaa käyttöön ohuita esineitä, joita asetetaan pulmapeliin estämään vahinkosiirtoja ennen ratkaisuyrityksen alkua. Järjestäjäryhmän pitäisi ilmoittaa näiden esineiden käyttämisestä ennen kierroksen alkua.
     - A2c) Kilpailija ei saa nähdä pulmapeliä sen sekoittamisen aloittamisen ja tarkasteluvaiheen alun välisenä aikana.
         - A2c1) Sekoittaja asettaa sekoitetun pulmapelin päälle suojan, joka tekee minkä tahansa pulmapelin osan näkemisen mahdottomaksi kilpailijoille ja yleisölle. Suoja pysyy pulmapelin päällä ratkaisuyrityksen alkuun asti.
     - A2d) Ottaessaan pulmapelin sekoittajalta tuomari tutkii pulmapelin pikaisesti varmistaakseen, että se on täysin sekoitettu. Tuomari esittää mahdolliset huolenaiheet sekoittajalle, joka tämän jälkeen suorittaa yksityiskohtaisen tarkastuksen.
@@ -376,7 +382,7 @@ Huomautus: Koska artikloille ja säännöille ei määrätä uusia numeroita kun
         - A3b2) Kilpailija aloittaa ratkaisuyrityksen vahvistamalla, että hän on valmis, minkä jälkeen tuomari paljastaa pulmapelin ja aloittaa tarkasteluvaiheen ajastamisen.
     - A3c) Kilpailija voi nostaa pulmapelin tarkasteluvaiheen aikana.
         - A3c1) Kilpailija ei saa tehdä siirtoja tarkasteluvaiheen aikana. Rangaistus: ratkaisuyrityksen hylkäys (DNF).
-        - A3c2) Jos pulmapelin osat eivät ole täysin suoristettuna, voi kilpailija suoristaa sivut, kunhan korjaukset pysyvät [säännön 10f](regulations:regulation:10f) puitteissa.
+        - A3c2) Jos pulmapelin osat eivät ole täysin suorassa, voi kilpailija suoristaa sivut, kunhan korjaukset pysyvät [säännön 10f](regulations:regulation:10f) puitteissa.
         - A3c3) Kilpailija voi nollata ajastimen ennen ratkaisun aloittamista.
         - A3c4) Jos järjestäjäryhmä on Square-1:lle vaatinut ohuen esineen asettamista pulmapeliin (ks. [sääntö A2b1](regulations:regulation:A2b1)), voi kilpailija poistaa esineen pulmapelistä tarkasteluvaiheen aikana.
     - A3d) Tarkasteluvaiheen lopussa kilpailija asettaa pulmapelin matolle vapaavalintaisessa orientaatiossa. Rangaistus pulmapelin asettamisesta maton ulkopuolelle: aikarangaistus (+2 sekuntia).
@@ -403,8 +409,10 @@ Huomautus: Koska artikloille ja säännöille ei määrätä uusia numeroita kun
         - A6b2) Jos ajastin pysähtyy ennen ratkaisun loppua ja ajastimessa oleva aika on 0.06 sekuntia tai enemmän, ratkaisuyritys hylätään (DNF). Poikkeus: jos kilpailija pystyy osoittamaan, että ajastimessa oli toimintahäiriö, voi hän saada ylimääräisen ratkaisuyrityksen, WCA-delegaatin harkinnan mukaan.
     - A6c) Kilpailijan on päästettävä pulmapelistä täysin irti ennen ratkaisun päättämistä. Rangaistus: ratkaisuyrityksen hylkäys (DNF). Poikkeus: Jos siirtoa/siirtoja ei ole tehty ajastimen pysäyttämisen jälkeen, voidaan sen sijaan määrätä aikarangaistus (+2 sekuntia) tuomarin harkinnan mukaan.
     - A6d) Kilpailijan on pysäytettävä ajastin asettamalla molemmat kädet antureille litteinä, kämmenet alaspäin. Rangaistus: aikarangaistus (+2 sekuntia).
-    - A6e) Kilpailija ei saa koskea pulmapeliin tai liikuttaa sitä ennen kuin tuomari on tarkastanut sen. Rangaistus: ratkaisuyrityksen hylkäys (DNF). Poikkeus: Jos siirtoa/siirtoja ei tehty, voidaan sen sijaan määrätä aikarangaistus (+2 sekuntia) tuomarin harkinnan mukaan.
-    - A6f) Kilpailija ei saa nollata ajastinta ennen kuin tuomari on kirjannut tuloksen tuloskorttiin. Rangaistus: ratkaisuyrityksen hylkäys (DNF) tuomarin harkinnan mukaan.
+    - A6e) Kilpailija ei saa koskea pulmapeliin tai tehdä siihen siirtoa ennen kuin tuomari on tarkastanut sen.
+	    - A6e1) Rangaistus siirron tekemisestä ajastimen pysäyttämisen jälkeen: ratkaisuyrityksen hylkäys (DNF).
+		- A6e2) Rangaistus pulmapeliin koskemisesta ajastimen pysäyttämisen jälkeen ilman, että tehtiin siirtoja: aikarangaistus (+2 sekuntia). Poikkeus: jos välittömästi ajastimen pysäyttämisen jälkeen kilpailija koskee pulmapeliin lyhyesti, vaikuttamatta sen asemaan, aikarangaistus voidaan jättää määräämättä, tuomarin harkinnan mukaan (ks. [sääntö 11f](regulations:regulation:11f)).
+    - A6f) Kilpailija ei saa nollata ajastinta ennen kuin sekä kilpailija että tuomari ovat allekirjoittaneet tuloskortin. Rangaistus: ratkaisuyrityksen hylkäys (DNF), tuomarin harkinnan mukaan.
         - A6f1) Jos kilpailija nollaa ajastimen ennen kuin tulos on kokonaan kirjattu, tuomari ei saa kirjoittaa tulosta ulkomuistista tai videolta/valokuvasta, vaan hänen täytyy hylätä ratkaisuyritys (DNF).
     - A6g) Tuomari päättää, onko pulmapeli ratkaistu. Hän ei saa koskea pulmapeliin ennen kuin hän on päättänyt, johtaako pulmapelin asema rangaistuksiin.  Poikkeus: Clockissa tuomarin täytyy yleensä nostaa pulmapeli tarkistaakseen molemmat sivut.
     - A6h) Riitatilanteessa pulmapeliin ei saa tehdä siirtoja tai suoristuksia ennen kuin riita on ratkaistu.
@@ -416,11 +424,12 @@ Huomautus: Koska artikloille ja säännöille ei määrätä uusia numeroita kun
         - A7a3) Jos tulos on DNF, tuomari sanoo "DNF".
     - A7b) Tuomari kirjaa tuloksen tuloskorttiin ja allekirjoittaa tuloksen viereen vahvistaen, että tulos on oikea, kokonaan ja oikeassa muodossa kirjattu ja selkeästi luettavissa.
         - A7b1) Jos rangaistuksia määrätään, tuomari kirjaa ajastimen näyttämän alkuperäisen ajan ja mahdolliset rangaistukset. Muotoilun pitäisi olla "X + T + Y = F", missä X kuvaa ennen ratkaisun aloittamista ja ratkaisua aloittaessa saatujen aikarangaistuksien summaa, T kuvaa aikaa ajastimessa ("alkuperäinen aika"), Y kuvaa ratkaisun aikana ja ratkaisun jälkeen saatujen aikarangaistuksien summaa ja F kuvaa lopullista tulosta (esim. 2 + 17.65 + 2 = 21.65). Jos X ja/tai Y on 0, voidaan nollatermit jättää pois (esim. 17.65 + 2 = 19.65).
-    - A7c) Kilpailijan täytyy tarkistaa kirjattu tulos ja allekirjoittaa (tai merkitä nimikirjaimensa) tuloskorttiin vahvistaakseen, että tulos on oikea, kokonaan ja oikeassa muodossa kirjattu ja selkeästi luettavissa. Tämä päättää ratkaisuyrityksen (huom. [sääntö Y7e1](regulations:regulation:Y7e1) syrjäyttää säännön A7c osittain).
+    - A7c) Kilpailijan täytyy tarkistaa kirjattu tulos ja allekirjoittaa (tai merkitä nimikirjaimensa) tuloskorttiin vahvistaakseen, että tulos on oikea, kokonaan ja oikeassa muodossa kirjattu ja selkeästi luettavissa. Tämä päättää ratkaisuyrityksen.
         - A7c1) Jos kilpailija tai tuomari kieltäytyy hyväksymästä ja allekirjoittamasta tuloskorttia, täytyy WCA-delegaatin ratkaista riita.
         - A7c2) Jos kilpailija allekirjoittaa (tai muutoin merkitsee) ratkaisuyrityksen ennen sen alkua, menettää hän ratkaisuyrityksen ja tulokseksi merkitään DNS.
         - A7c3) Jos kilpailija allekirjoittaa (tai muutoin merkitsee) ratkaisuyrityksen sen aloittamisen jälkeen, mutta ennen kuin tuomari on lopettanut tuloksen kirjaamisen, ratkaisuyrityksen tulos on ratkaisematon (DNF).
         - A7c4) Kilpailijan ei pitäisi allekirjoittaa ratkaisuyritystä ennen kuin tuomari on kirjannut ja allekirjoittanut sen. Kilpailija on viime kädessä vastuussa siitä, että hän ja tuomari ovat allekirjoittaneet ratkaisuyrityksen. Jos huomataan, että toinen tai molemmat ratkaisuyrityksen allekirjoituksista puuttuu tuloskortin tulosten tallentajalle toimittamisen jälkeen (ks. [sääntö A7f](regulations:regulation:A7f)), yrityksen tulos on ratkaisematon (DNF).
+		- A7c5) Puuttuvat allekirjoitukset, jotka havaitaan ennen kilpailun päättymistä, voidaan lisätä tuomarin ja/tai kilpailijan toimesta, WCA-delegaatin harkinnan mukaan.
     - A7f) Kun kilpailijan tuloskortti kierrokselle on valmis, toimittaa tuomari tuloskortin tulosten tallentajalle.
     - A7g) Uuden kilpailijan kokemattomuudesta johtuva poikkeustilanne tai rangaistus voidaan korvata ylimääräisellä ratkaisuyrityksellä WCA-delegaatin harkinnan mukaan.
 
@@ -433,7 +442,7 @@ Huomautus: Koska artikloille ja säännöille ei määrätä uusia numeroita kun
 - B2) Ratkaisuyrityksen aloittaminen:
     - B2a) Tuomari nollaa ajastimen/ajastimet ja kysyy "VALMIS?" tai "READY?" kuten [säännössä A3b1](regulations:regulation:A3b1). Kilpailijan täytyy olla valmis minuutin sisällä siitä kun häntä kutsuttiin, muutoin kilpailija menettää ratkaisuyrityksen (DNS) tuomarin harkinnan mukaan (huom. [sääntö Y7d1](regulations:regulation:Y7d1) syrjäyttää säännön B2a osittain).
     - B2b) Kilpailija koskettaa sormillaan ajastimen koholla olevia anturipintoja. Kilpailijan kämmenten on osoitettava alaspäin kilpailijaa lähimpänä olevalla ajastimen sivulla. Rangaistus: aikarangaistus (+2 sekuntia).
-    - B2c) Kilpailija ei saa koskea pulmapeliin tarkasteluvaiheen ja ratkaisun aloittamisen välillä. Rangaistus: aikarangaistus (+2 sekuntia).
+    - B2c) Kilpailija ei saa koskea pulmapeliin tai pulmapelin suojaan ratkaisuyritystä aloittaessa. Rangaistus: aikarangaistus (+2 sekuntia).
     - B2d) Kilpailija aloittaa ratkaisuyrityksen nostamalla kätensä ajastimelta käynnistäen sen. (Tämä aloittaa myös ratkaisun.)
         - B2d1) Kilpailija poistaa suojan pulmapeliltä ajastimen käynnistämisen jälkeen.
     - B2e) Jos sekuntikelloa käytetään Stackmat-ajastimen lisäksi, tuomari käynnistää sekuntikellon kun kilpailija aloittaa ratkaisun.
@@ -442,15 +451,15 @@ Huomautus: Koska artikloille ja säännöille ei määrätä uusia numeroita kun
     - B3a) Kilpailija voi nostaa pulmapelin muistiinpainamisvaiheen aikana.
     - B3b) Kilpailija ei saa tehdä fyysisiä muistiinpanoja. Rangaistus: ratkaisuyrityksen hylkäys (DNF).
     - B3c) Kilpailija ei saa tehdä siirtoja muistiinpainamisvaiheen aikana. Rangaistus: ratkaisuyrityksen hylkäys (DNF).
+	- B4d) Jos pulmapelin osat eivät ole täysin suorassa, kilpailija voi suoristaa sivut, kunhan korjaukset pysyvät [säännön 10f](regulations:regulation:10f) puitteissa (ks. [sääntö A3c2](regulations:regulation:A3c2)).
 - B4) Sokkovaihe:
     - B4a) Kilpailija asettaa siteen silmilleen aloittaakseen sokkovaiheen.
+	    - B4a1) Siihen asti, kun kilpailija tekee ensimmäisen siirron pulmapeliin, hän voi poistaa siteen palatakseen muistiinpainamisvaiheeseen.
     - B4b) Kilpailija ei saa tehdä siirtoja ennen kuin hän on asettanut siteen täysin silmilleen. Rangaistus: ratkaisuyrityksen hylkäys (DNF).
-    - B4c) Tuomarin täytyy varmistaa, että kilpailijan kasvojen ja pulmapelin välissä on näköeste, kun kilpailija on ratkaisemassa.
+    - B4c) Heti, kun kilpailija tekee ensimmäisen siirron pulmapeliin, tuomarin täytyy varmistaa, että kilpailijan kasvojen ja pulmapelin välissä on näköeste (esim. paperi- tai pahviarkki).
         - B4c1) Kilpailijan täytyy aina pitää sidettä siten, että hän ei näkisi pulmapeliä, vaikka näköeste ei olisi tiellä.
-        - B4c2) Oletus on, että tuomari asettaa näköesteen (esim. paperi- tai pahviarkin) kilpailijan ja pulmapelin väliin siksi ajaksi, kun kilpailija pitää sidettä silmillään.
         - B4c3) Jos tuomari ja kilpailija sopivat asiasta etukäteen, voi kilpailija itse asettaa pulmapelin sopivan näköesteen taakse (esim. nuottiteline, pöydän pinta) sokkovaiheen aikana.
     - B4d) Kilpailija ei saa katsoa pulmapeliä milloinkaan sokkovaiheen aikana. Rangaistus: ratkaisuyrityksen hylkäys (DNF).
-    - B4e) Kilpailija voi poistaa siteen silmiltään ja palata muistiinpainamisvaiheeseen ennen ensimmäistä siirtoa.
 - B5) Ratkaisun päättäminen:
     - B5a) Kun käytetään Stackmat-ajastinta, kilpailija päättää ratkaisun päästämällä irti pulmapelistä ja pysäyttämällä ajastimen.
     - B5b) Kun käytetään sekuntikelloa, kilpailija päättää ratkaisun asettamalla pulmapelin takaisin alustalle ja ilmoittamalla tuomarille, että hän päättää ratkaisun. Tällöin tuomari pysäyttää ajanoton.
@@ -475,7 +484,7 @@ Huomautus: Koska artikloille ja säännöille ei määrätä uusia numeroita kun
     - E2b) Kaikilla kilpailijoilla on 60 minuuttia aikaa ratkaisun etsimiseen ja kirjoittamiseen.
         - E2b1) Tuomarin pitäisi sanoa "5 MINUUTTIA JÄLJELLÄ" tai "5 MINUTES REMAINING" 55 minuutin kohdalla ja täytyy sanoa "SEIS" tai "STOP" 60 minuutin kohdalla.
     - E2c) 60 minuutin kohdalla jokaisen kilpailijan on annettava tuomarille yksi paperiarkki, joka sisältää ratkaisun sekä tarvittavat tunnistetiedot.
-	    - E2c1) Ratkaisuyrityksen tunnistetietoja ovat kilpailijan nimi ja joko WCA ID tai kilpailijanumero (ainakin toinen, vaihtoehtoisesti molemmat). Valinnaisia ovat kilpailun nimi, kierroksen numero sekä ratkaisuyrityksen numero. Rangaistus kilpailijalle, joka antaa ratkaisun ilman nimeä, WCA ID:tä tai kilpailijanumeroa: ratkaisuyrityksen hylkäys (DNF).
+	    - E2c1) Ratkaisuyrityksen tunnistetietoja ovat kilpailijan nimi ja joko WCA ID tai kilpailijanumero (ainakin toinen, vaihtoehtoisesti molemmat). Valinnaisia ovat kilpailun nimi, kierroksen numero sekä ratkaisuyrityksen numero. Rangaistus kilpailijalle, joka antaa ratkaisun ilman nimeä, WCA ID:tä ja kilpailijanumeroa: ratkaisuyrityksen hylkäys (DNF).
 		- E2c2) Ratkaisun tulee olla yksiselitteinen siirtosarja, jossa jokainen yksittäinen siirto on kirjattu oikeassa järjestyksessä. Rangaistus epäselvästä ratkaisusta: ratkaisuyrityksen hylkäys (DNF).
 		- E2c3) Kilpailijan tulisi pyyhkiä tai mustata paperistaan kaikki siirrot, jotka eivät kuulu lopulliseen ratkaisuun.
 		- E2c4) Kilpailijan ratkaisun tulee sisältää ainoastaan siirtoja, jotka on määritelty 3x3x3-kuution notaatiossa [säännössä 12a](regulations:regulation:12a), eikä se saa sisältää merkkejä tai merkkiyhdistelmiä, joita ei tuolla ole erikseen määritelty. Rangaistus: ratkaisuyrityksen hylkäys (DNF).
@@ -490,6 +499,7 @@ Huomautus: Koska artikloille ja säännöille ei määrätä uusia numeroita kun
     - E3c) Tarroja (kilpailijan).
     - E3d) Sekuntikello tai rannekello (kilpailijan) kuluneen ajan mittaamista varten, jos se on WCA-delegaatin hyväksymä.
 	- E3e) Muut ei-elektroniset apuvälineet, jotka eivät anna epäreilua etulyöntiasemaa, WCA-delegaatin harkinnan mukaan (ks. [sääntö 2i1](regulations:regulation:2i1)).
+	- E3f) Välineitä merkintöjen poistamiseen (kilpailijan), esimerkiksi pyyhekumeja, korjausnestettä tai korjausteippiä.
 - E4) WCA-delegaatti voi halutessaan julkaista ratkaisuja (esim. paperista otettuna valokuvana tai kirjallisena).
 
 
@@ -497,7 +507,7 @@ Huomautus: Koska artikloille ja säännöille ei määrätä uusia numeroita kun
 
 - F1) [Artiklassa A](regulations:article:A) (Nopeusratkaisu) määriteltyjä vakiomenettelytapoja noudatetaan. Lisäsäännöt, jotka korvaavat vastaavat menettelytavat [artiklassa A](regulations:article:A), on määritelty alla.
 - F2) Tuomari asettaa sekoitetun pulmapelin matolle pystyasennossa.
-    - F2a) Järjestäjäryhmä voi ottaa käyttöön telineitä, jotka estävät pulmapelin kaatumisen ennen ratkaisuyrityksen alkua. Jos telineitä käytetään, täytyy siitä ilmoittaa ennen kierroksen alkua.
+    - F2a) Järjestäjäryhmä voi ottaa käyttöön telineitä, jotka estävät pulmapelin kaatumisen ennen ratkaisuyrityksen alkua. Jos telineitä käytetään, järjestäjäryhmän pitäisi ilmoittaa siitä ennen kierroksen alkua.
 	    - F2a1) Tuomarin täytyy siirtää teline pois matolta heti, kun kilpailija ottaa pulmapelin telineestä.
 - F3) Tarkasteluvaiheen lopussa kilpailija asettaa pulmapelin pystyasentoon. Rangaistus: ratkaisuyrityksen hylkäys (DNF).
     - F3a) Kilpailija ei saa vaihtaa tappien asemaa niiden sekoitetuista asemista ennen ratkaisun aloittamista. Rangaistus: ratkaisuyrityksen hylkäys (DNF).
@@ -513,6 +523,8 @@ Huomautus: Koska artikloille ja säännöille ei määrätä uusia numeroita kun
     - H1b) Jos kilpailija yrittää alle 6 pulmapeliä, hänelle myönnetään aikaa 10 minuuttia kertaa ratkaisuyrityksen pulmapelien määrä, muulloin aikaraja on 60 minuuttia.
         - H1b1) Kilpailija voi ilmoittaa ratkaisuyrityksen päättämisen milloin tahansa. Jos ja kun aikaraja saavutetaan, tuomari pysäyttää ratkaisuyrityksen ja tulos kirjataan ylös; ratkaisuyrityksen aikaraja on alkuperäinen aika.
     - H1d) Aikarangaistukset ratkaisuyrityksen pulmapeleille ovat kumulatiivisia.
+	- H1e) Kilpailija ei saa tehdä siirtoja pulmapeleihin muistiinpainamisvaiheen aikana. Rangaistus: ratkaisuyrityksen hylkäys (DNF). Poikkeus: nämä yksittäiset pulmapelit voidaan laskea ratkaisemattomiksi koko ratkaisuyrityksen hylkäämisen sijaan, WCA-delegaatin harkinnan mukaan.
+- H2) Kilpailija voi käyttää alustan päällä omaa tasaista peitettään (esim. mattoa tai kangasta), WCA-delegaatin harkinnan mukaan. Jos kilpailija haluaa käyttää tätä, pyyntö täytyy tehdä samaan aikaan, kun hän toimittaa pulmapeliensä määrän (ks. [sääntö H1a](regulations:regulation:H1a)).
 
 
 ## <article-Y><temporary-regulations><temporaryregulations> Artikla Y: Tilapäiset säännöt
@@ -529,7 +541,7 @@ Huomautus: Koska artikloille ja säännöille ei määrätä uusia numeroita kun
 - Y4) Kaikkien kilpailijoiden ja toimihenkilöiden pitäisi tuoda kilpailuun oma kynä.
 - Y5) Tuomarit voivat tuoda oman sekuntikellon tai puhelimen tarkasteluvaiheen ajastamista varten. WCA-delegaatin pitäisi tarkastaa nämä.
 - Y6) Ympäristö:
-    - Y6a) Jos WCA-delegaatti katsoo tämän tarpeelliseksi, kilpailualueella ei saa olla kilpailijoiden aluetta.
+    - Y6a) Jos WCA-delegaatti katsoo tämän tarpeelliseksi, kilpailualueella ei saa olla kilpailijoiden odotusaluetta.
 	- Y6b) Kilpailijoiden pitäisi olla koskematta ratkaisupaikan pintaan muulloin kuin ratkaisuyrityksen aikana.
 - Y7) Menettelytavat, jotka syrjäyttävät [artiklan A](regulations:article:A), [B](regulations:article:B) ja [H](regulations:article:H), on määritelty alla. Nämä menettelytavat eivät koske [artiklaa E](regulations:article:E) (3x3x3 vähiten siirtoja).
     - Y7a) Kilpailuissa pitäisi käyttää kiinteää istumajärjestystä (ks. [sääntö Y2b](regulations:regulation:Y2b)).
@@ -539,6 +551,5 @@ Huomautus: Koska artikloille ja säännöille ei määrätä uusia numeroita kun
 	- Y7d) Tarkasteluvaihe:
 	    - Y7d1) Tuomari pyytää kilpailijaa valmistelemaan ajastimen eli laittamaan sen päälle ja nollaamaan sen tarvittaessa. Tämän jälkeen kilpailija laittaa ajastimen päälle ja nollaa sen tarvittaessa. Tuomarin pitäisi välttää ajastimeen koskemista.
 	- Y7e) Tulosten kirjaaminen:
-	    - Y7e1) Kilpailijan täytyy tarkistaa kirjattu tulos ja allekirjoittaa (tai merkitä nimikirjaimensa) tuloskorttiin omalla kynällään vahvistaakseen, että tulos on oikea, kokonaan ja oikeassa muodossa kirjattu ja selkeästi luettavissa. Tämä päättää ratkaisuyrityksen.
 		- Y7e2) Kilpailijan ei pitäisi koskea tuloskorttiin.
 	- Y7f) Ratkaisuyrityksen päättämisen jälkeen, jos kilpailijalla on ratkaisuyrityksiä jäljellä, kilpailijan täytyy laittaa pulmapeli suojan sisään.
