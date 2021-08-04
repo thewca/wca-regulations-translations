@@ -551,5 +551,5 @@ Huomautus: Koska artikloille ja säännöille ei määrätä uusia numeroita kun
 	- Y7d) Tarkasteluvaihe:
 	    - Y7d1) Tuomari pyytää kilpailijaa valmistelemaan ajastimen eli laittamaan sen päälle ja nollaamaan sen tarvittaessa. Tämän jälkeen kilpailija laittaa ajastimen päälle ja nollaa sen tarvittaessa. Tuomarin pitäisi välttää ajastimeen koskemista.
 	- Y7e) Tulosten kirjaaminen:
-	- Y7e2) Kilpailijan ei pitäisi koskea tuloskorttiin.
+		- Y7e2) Kilpailijan ei pitäisi koskea tuloskorttiin.
 	- Y7f) Ratkaisuyrityksen päättämisen jälkeen, jos kilpailijalla on ratkaisuyrityksiä jäljellä, kilpailijan täytyy laittaa pulmapeli suojan sisään.
