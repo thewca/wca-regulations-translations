@@ -451,7 +451,7 @@ Huomautus: Koska artikloille ja säännöille ei määrätä uusia numeroita kun
     - B3a) Kilpailija voi nostaa pulmapelin muistiinpainamisvaiheen aikana.
     - B3b) Kilpailija ei saa tehdä fyysisiä muistiinpanoja. Rangaistus: ratkaisuyrityksen hylkäys (DNF).
     - B3c) Kilpailija ei saa tehdä siirtoja muistiinpainamisvaiheen aikana. Rangaistus: ratkaisuyrityksen hylkäys (DNF).
-	- B4d) Jos pulmapelin osat eivät ole täysin suorassa, kilpailija voi suoristaa sivut, kunhan korjaukset pysyvät [säännön 10f](regulations:regulation:10f) puitteissa (ks. [sääntö A3c2](regulations:regulation:A3c2)).
+    - B3d) Jos pulmapelin osat eivät ole täysin suorassa, kilpailija voi suoristaa sivut, kunhan korjaukset pysyvät [säännön 10f](regulations:regulation:10f) puitteissa (ks. [sääntö A3c2](regulations:regulation:A3c2)).
 - B4) Sokkovaihe:
     - B4a) Kilpailija asettaa siteen silmilleen aloittaakseen sokkovaiheen.
 	    - B4a1) Siihen asti, kun kilpailija tekee ensimmäisen siirron pulmapeliin, hän voi poistaa siteen palatakseen muistiinpainamisvaiheeseen.
