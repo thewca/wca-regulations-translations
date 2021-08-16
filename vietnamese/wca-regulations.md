@@ -214,17 +214,17 @@ Chú ý: Vì số thứ tự của các Mục và Quy định không được s�
         - 9b1a) Thể thức thi đấu vòng đầy đủ: "Trung bình 5 lượt".
         - 9b1b) Thể thức cutoff (vòng thi gộp): "Tốt nhất trong 2 lượt" cutoff cho "Trung bình 5 lượt".
     - 9b2) Khối 6x6x6 và Khối 7x7x7.
-        - 9b1a) Thể thức thi đấu vòng đầy đủ: "Trung bình 3 lượt".
-        - 9b1b) Thể thức cutoff (vòng thi gộp): "Tốt nhất trong 1 lượt" cutoff cho "Trung bình 3 lượt".
+        - 9b2a) Thể thức thi đấu vòng đầy đủ: "Trung bình 3 lượt".
+        - 9b2b) Thể thức cutoff (vòng thi gộp): "Tốt nhất trong 1 lượt" cutoff cho "Trung bình 3 lượt".
     - 9b3) Giải Bịt mắt 3x3x3, Giải Bịt mắt 4x4x4, Giải Bịt mắt 5x5x5.
-        - 9b1a) Thể thức thi đấu vòng đầy đủ: "Tốt nhất trong 3 lượt".
+        - 9b3a) Thể thức thi đấu vòng đầy đủ: "Tốt nhất trong 3 lượt".
         - 9b3b) Với các nội dung này, WCA cũng công nhận các kết quả và kỉ lục "Tốt nhất trong 3 lượt" dựa trên kết quả của các vòng "Tốt nhất trên 3 lượt".
     - 9b4) Giải Tối ưu 3x3x3.
-        - 9b1a) Thể thức thi đấu vòng đầy đủ: "Tốt nhất trong X lượt" (X là 1 hoặc 2) hoặc "Trung bình 3 lượt".
-        - 9b1b) Thể thức cutoff (vòng thi gộp): "Tốt nhất trong 1 lượt" cutoff cho "Tốt nhất trong 2 lượt" hoặc "Tốt nhất trong X lượt" (X là 1 hoặc 2) cutoff cho "Trung bình 3 lượt".
+        - 9b4a) Thể thức thi đấu vòng đầy đủ: "Tốt nhất trong X lượt" (X là 1 hoặc 2) hoặc "Trung bình 3 lượt".
+        - 9b4b) Thể thức cutoff (vòng thi gộp): "Tốt nhất trong 1 lượt" cutoff cho "Tốt nhất trong 2 lượt" hoặc "Tốt nhất trong X lượt" (X là 1 hoặc 2) cutoff cho "Trung bình 3 lượt".
     - 9b5) Giải bịt mắt nhiều 3x3x3.
-        - 9b1a) Thể thức thi đấu vòng đầy đủ: "Tốt nhất trong X lượt" (X là 1, 2 hoặc 3).
-        - 9b1b) Thể thức cutoff (vòng thi gộp): "Tốt nhất trong X lượt" (X là 1 hoặc 2) cutoff cho "Tốt nhất trong Y lượt" (Y là 2 hoặc 3 và Y > X).
+        - 9b5a) Thể thức thi đấu vòng đầy đủ: "Tốt nhất trong X lượt" (X là 1, 2 hoặc 3).
+        - 9b5b) Thể thức cutoff (vòng thi gộp): "Tốt nhất trong X lượt" (X là 1 hoặc 2) cutoff cho "Tốt nhất trong Y lượt" (Y là 2 hoặc 3 và Y > X).
 - 9f) Kết quả của một vòng thi được tính như sau:
     - 9f1) Tất cả các kết quả tính giờ dưới 10 phút, trừ Giải Bịt mắt nhiều 3x3x3, được ghi lại và lấy đến số thập phân thứ 2 của giây. Tất cả các kết quả trung bình dưới 10 phút được ghi lại và làm tròn đến số thập phân thứ 2 của giây.
     - 9f2) Tất cả các kết quả tính giờ và trung bình trên 10 phút, tính cả thời gian của Giải Bịt mắt 3x3x3, được ghi lại và làm tròn đến giây gần nhất (VD: x.49 được ghi lại là x, x.50 được ghi lại là x+1).
@@ -241,7 +241,7 @@ Chú ý: Vì số thứ tự của các Mục và Quy định không được s�
         - 9f12b) Đối với Giải Tối ưu 3x3x3, "tốt hơn" được định nghĩa là công thức giải ngắn hơn.
         - 9f12c) Đối với Giải Bịt mắt nhiều 3x3x3, thứ hạng dựa trên số khối hình đã được giải trừ đi số khối hình chưa được giải (hiệu số lớn hơn là tốt hơn). Nếu hiệu số thấp hơn 0, hoặc khi chỉ có 1 khối hình được giải, lượt giải được tính là chưa hoàn thành (DNF). Nếu nhiều thí sinh đạt được cùng một kết quả, thứ hạng dựa trên tổng thời gian (thời gian ngắn hơn là tốt hơn). Nếu nhiều thí sinh đạt được cùng một kết quả trong cùng thời gian, thứ hạng được tính theo số khối hình thí sinh không giải thành công (số khối hình giải không thành công thấp hơn là tốt hơn).
     - 9f13) Đối với các vòng "Trung bình 3 lượt" và "Trung bình 5 lượt", thứ hạng dựa trên kết quả trung bình được sắp xếp của các thí sinh, trong đó kết quả "tốt hơn" được tính là kết quả được ghi lại thấp hơn.
-    - 9f13) Đối với các vòng "Trung bình 3 lượt" và "Trung bình 5 lượt", nếu có hai hay nhiều thí sinh đạt cùng một kết quả trung bình, thứ hạng dựa trên lượt giải tốt nhất của từng thí sinh, trong đó kết quả "tốt hơn" được tính là kết quả được ghi lại thấp hơn.
+    - 9f14) Đối với các vòng "Trung bình 3 lượt" và "Trung bình 5 lượt", nếu có hai hay nhiều thí sinh đạt cùng một kết quả trung bình, thứ hạng dựa trên lượt giải tốt nhất của từng thí sinh, trong đó kết quả "tốt hơn" được tính là kết quả được ghi lại thấp hơn.
     - 9f15) Những thí sinh đạt cùng kết quả trong một vòng thi xếp cùng một thứ hạng trong vòng thi đó.
 - 9g) Một vòng thi gộp là một vòng thi có phần cutoff với thế thức "Tốt nhất trong X lượt" và kết quả cutoff (VD: "Tốt nhất trong 2 lượt" với kết quả cutoff là 2 phút). Nếu thí sinh đạt được kết quả cutoff trong ít nhất một trong những lượt giải trong phần cutoff, thí sinh được quyền thực hiện những lượt giải còn lại. Những lượt giải trong phần cutoff đều được tính trong thể thức vòng thi đầy đủ.
 - 9i) Kết quả của các giải đấu WCA chính thức phải được đăng tải trên bảng xếp hạng thế giới của WCA.
