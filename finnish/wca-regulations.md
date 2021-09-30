@@ -83,7 +83,7 @@ Huomautus: Koska artikloille ja säännöille ei määrätä uusia numeroita kun
 		- 2i1d) Ruoka ja juoma.
     - 2i2) Kilpailijat voivat käyttää kameraa ratkaisupaikalla WCA-delegaatin harkinnan mukaan, mutta seuraavat rajoitukset ovat voimassa ratkaisuyrityksen alusta ratkaisun loppuun asti. Rangaistus rajoituksen rikkomisesta: ratkaisuyrityksen hylkäys (DNF).
         - 2i2a) Jokaisen kameran näytön täytyy olla tyhjä tai poissa kilpailijan näkökentästä (ks. [sääntö A5b](regulations:regulation:A5b)).
-        - 2i2b) Kilpailija ei saa operoida kameraa ratkaisun aikana (t.s. painella kameran näppäimiä, pitää sitä kädessään, pitää sitä yllään). Poikkeus: kilpailija saa pitää kameraa päässään, kunhan se on poissa hänen näkökentästään ja on selvää, ettei hän muulla tavalla operoi sitä.
+        - 2i2b) Kilpailija ei saa operoida kameraa ratkaisun aikana (ts. painella kameran näppäimiä, pitää sitä kädessään, pitää sitä yllään). Poikkeus: kilpailija saa pitää kameraa päässään, kunhan se on poissa hänen näkökentästään ja on selvää, ettei hän muulla tavalla operoi sitä.
 	- 2i3) Kilpailijalla saa olla matkapuhelin taskussaan, kunhan on selvää, ettei hän käytä sitä mitenkään.
 - 2j) WCA-delegaatti voi hylätä kilpailijan tietystä lajista.
     - 2j1) Jos kilpailija hylätään lajista mistä tahansa syystä, hän ei enää ole oikeutettu kilpailemaan kyseisessä lajissa kilpailun aikana.
@@ -216,9 +216,9 @@ Huomautus: Koska artikloille ja säännöille ei määrätä uusia numeroita kun
 		- 9b1b) Cutoff-kierroksen kierrosformaatti näille lajeille on "Paras 2:sta"/"Typistetty 5:n keskiarvo".
     - 9b2) 6x6x6-kuutio ja 7x7x7-kuutio.
         - 9b2a) Yhtenäisen kierroksen kierrosformaatti näille lajeille on "3:n keskiarvo".
-		- 9b2b) Cutoff-kierroksen kierrosformaatti näille lajeille on "Paras 1:sta"/"3:n keskiarvo".
+		- 9b2b) Cutoff-kierroksen kierrosformaatti näille lajeille on "Paras 1:stä"/"3:n keskiarvo".
     - 9b3) 3x3x3 sokkona, 4x4x4 sokkona ja 5x5x5 sokkona
-        - 9b3a) Yhtenäisen kierroksen kierrosformaatti näille lajeille on "Paras 3:stä"
+        - 9b3a) Yhtenäisen kierroksen kierrosformaatti näille lajeille on "Paras 3:sta"
         - 9b3b) Näille lajeille WCA tunnustaa myös "3:n keskiarvo" -rankingin ja -ennätykset, mutta näitä ei käytetä kilpailusijoitusten määrittämiseen.
 	- 9b4) 3x3x3 vähiten siirtoja.
 	    - 9b4a) Yhtenäisen kierroksen kierrosformaatit tälle lajille ovat "Paras 1:stä", "Paras 2:sta" tai "3:n keskiarvo".
@@ -250,7 +250,7 @@ Huomautus: Koska artikloille ja säännöille ei määrätä uusia numeroita kun
     - 9i2) Kaikkien kierroksen tulosten oletetaan tapahtuneen kierroksen viimeisenä kalenteripäivänä. Jos alueellinen ennätys rikotaan useaan kertaan saman kalenteripäivän aikana, vain paras tulos lasketaan alueellisen ennätyksen rikkojaksi.
     - 9i3) Jos lajin WCA-sääntöjä muutetaan, olemassa olevat alueelliset ennätykset pysyvät voimassa kunnes ne rikotaan uusien sääntöjen alla.
 - 9j) Jokainen laji on pidettävä enintään kerran yhden kilpailun aikana.
-- 9k) Kaikki kilpailijat voivat osallistua kilpailussa kaikkiin lajeihin, lukuunottamatta WCA Competition Announcement Teamin hyväksymiä erikoistapauksia.
+- 9k) Kaikki kilpailijat voivat osallistua kilpailussa kaikkiin lajeihin, lukuun ottamatta WCA Competition Announcement Teamin hyväksymiä erikoistapauksia.
 - 9l) Jokaisen kierroksen on oltava valmis ennen saman lajin seuraavan kierroksen alkua.
 - 9m) Lajeissa on oltava enintään neljä kierrosta.
     - 9m1) Kierrosten, joilla on enintään 99 kilpailijaa, jälkeen täytyy olla enintään kaksi kierrosta.
@@ -275,7 +275,7 @@ Huomautus: Koska artikloille ja säännöille ei määrätä uusia numeroita kun
 - 10c) Pulmapeli voi olla missä tahansa orientaatiossa ratkaisuyrityksen lopussa.
 - 10d) Kaikkien pulmapelin osien on oltava täysin paikallaan pulmapelissä niille määrätyillä paikoilla. Poikkeus: ks. [sääntö 5b5](regulations:regulation:5b5).
 - 10e) Pulmapeli on ratkaistu, kun kaikki värjätyt osat ovat kasattuna ja kaikki osat kohdistettuna alla määriteltyjen rajojen puitteissa:
-    - 10e1) Jos kaksi pulmapelin vierekkäistä osaa (t.s. kaksi vierekkäistä samansuuntaista kuution siivua) eivät ole [säännön 10f](regulations:regulation:10f) selittämien rajoitusten puitteissa, pulmapelin ratkaisemisen katsotaan vaativan yhden ylimääräisen siirron (ks. "Outer Block Turn Metric" [artiklassa 12](regulations:article:12)).
+    - 10e1) Jos kaksi pulmapelin vierekkäistä osaa (ts. kaksi vierekkäistä samansuuntaista kuution siivua) eivät ole [säännön 10f](regulations:regulation:10f) selittämien rajoitusten puitteissa, pulmapelin ratkaisemisen katsotaan vaativan yhden ylimääräisen siirron (ks. "Outer Block Turn Metric" [artiklassa 12](regulations:article:12)).
     - 10e2) Jos pulmapelin ratkaiseminen ei vaadi ylimääräisiä siirtoja, pulmapeli on ratkaistu ilman rangaistusta.
     - 10e3) Jos pulmapelin ratkaiseminen vaatii yhden ylimääräisen siirron, pulmapeli on ratkaistu aikarangaistuksella (+2 sekuntia).
     - 10e4) Jos pulmapelin ratkaiseminen vaatii useamman kuin yhden siirron, pulmapeli on ratkaisematon (DNF).
@@ -312,7 +312,7 @@ Huomautus: Koska artikloille ja säännöille ei määrätä uusia numeroita kun
         - 12a1a) Myötäpäivään, 90 astetta: F (etutahko), B (takatahko), R (oikeanpuoleinen tahko), L (vasemmanpuoleinen tahko), U (ylätahko), D (alatahko).
         - 12a1b) Vastapäivään, 90 astetta: F', B', R', L', U', D'.
         - 12a1c) 180 astetta: F2, B2, R2, L2, U2, D2.
-    - 12a2) Ulkolohkosiirot (uloin siivu plus viereiset sisemmät siivut). Alla määritellyissä siirroissa n on liikutettavien siivujen kokonaismäärä, jonka täytyy olla välillä 1 < n < N (N on kuution siivujen määrä). n voidaan jättää pois kahdelle siivulle. Ulkolohkosiirot ovat:
+    - 12a2) Ulkolohkosiirrot (uloin siivu plus viereiset sisemmät siivut). Alla määritellyissä siirroissa n on liikutettavien siivujen kokonaismäärä, jonka täytyy olla välillä 1 < n < N (N on kuution siivujen määrä). n voidaan jättää pois kahdelle siivulle. Ulkolohkosiirrot ovat:
         - 12a2a) Myötäpäivään, 90 astetta: nFw, nBw, nRw, nLw, nUw, nDw.
         - 12a2b) Vastapäivään, 90 astetta: nFw', nBw', nRw', nLw', nUw', nDw'.
         - 12a2c) 180 astetta: nFw2, nBw2, nRw2, nLw2, nUw2, nDw2.
@@ -334,8 +334,8 @@ Huomautus: Koska artikloille ja säännöille ei määrätä uusia numeroita kun
         - 12d1a) Myötäpäivään, 72 astetta: U (ylätahko).
         - 12d1b) Vastapäivään, 72 astetta: U' (ylätahko).
     - 12d2) Muut siirrot tehdään siten, että 3 palaa pulmapelin vasemmassa yläreunassa pysyvät paikoillaan:
-        - 12d2c) 144 asteen siirto myötäpäivään liikuttaen koko pulmapeliä vasemman yläreunan kolmen palan siivua lukuunottamatta: R++ (pystysiivut), D++ (vaakasiivut).
-        - 12d2d) 144 asteen siirto vastapäivään liikuttaen koko pulmapeliä vasemman yläreunan kolmen palan siivua lukuunottamatta: R-- (pystysiivut), D-- (vaakasiivut).
+        - 12d2c) 144 asteen siirto myötäpäivään liikuttaen koko pulmapeliä vasemman yläreunan kolmen palan siivua lukuun ottamatta: R++ (pystysiivut), D++ (vaakasiivut).
+        - 12d2d) 144 asteen siirto vastapäivään liikuttaen koko pulmapeliä vasemman yläreunan kolmen palan siivua lukuun ottamatta: R-- (pystysiivut), D-- (vaakasiivut).
 - 12e) Notaatio Pyraminxille:
     - 12e1) Pulmapeli orientoidaan siten, että alatahko on täysin vaakasuorassa ja etutahko osoittaa kohti Pyraminxiä pitelevää henkilöä.
     - 12e2) Myötäpäivään, 120 astetta: U (2 yläkerrosta), L (2 vasemmanpuoleista kerrosta), R (2 oikeanpuoleista kerrosta), B (2 takakerrosta), u (yläkärki), l (vasemmanpuoleinen kärki), r (oikeanpuoleinen kärki), b (takakärki).
