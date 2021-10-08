@@ -205,7 +205,7 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
     - 7f2) El cronómetro debe estar unido al tapete y colocado en la superficie, con el cronómetro en el lado del tapete más cercano al competidor.
     - 7f3) El equipo organizador debería modificar los cronómetros Stackmat para que sean más robustos contra incidentes comunes, haciendo que los botones sean más difíciles de apretar por accidente (p.ej. pegando anillos alrededor de los botones) y asegurando las baterías para que no se muevan (p.ej. rellenando el compartimiento de las baterías).
 - 7h) El área de la competición debe tener una o más zonas para competidores (reemplazada por la [Regla Y6a](regulations:regulation:Y6a)).
-    - 7h1) El equipo de organizadores puede requerir que los competidores que ya hayan sido llamados una vez para competir se queden dentro del Zona de Espera para Competidores hasta que hayan terminado todos los intentos de la ronda.
+    - 7h1) El equipo de organizadores puede requerir que los competidores que hayan sido llamados para competir se queden dentro del Zona de Espera para Competidores hasta que terminen todos los intentos de la ronda.
     - 7h2) Definición: una Zona de Espera para Competidores es un lugar en el cual los competidores de un grupo esperan a ser llamados para ir a una estación de resolución.
 
 
@@ -413,7 +413,7 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
     - A6e) Luego de haber detenido el cronómetro, el competidor no debe tocar ni mover el puzzle hasta que el juez lo haya inspeccionado.
         - A6e1) Penalización por aplicar un movimiento al puzzle luego de haber detenido el cronómetro: descalificación del intento (DNF).
         - A6e2) Penalización por tocar el puzzle, sin aplicar movimientos, luego de haber detenido el cronómetro: penalización de tiempo (+2 segundos). Excepción: si inmediatamente después de detener el cronómetro, el competidor apenas toca el puzzle sin afectar su estado, la penalización de tiempo puede omitirse, a discreción del juez (ver [Regla 11f](regulations:regulation:11f)).
-    - A6f) El competidor no debe resetear el cronómetro hasta que tanto él como el juez hayan firmado la hoja de resultados. Penalización: descalificación del intento (DNF), a discreción del juez.
+    - A6f) El competidor no debe resetear el cronómetro hasta que él y el juez hayan firmado la hoja de resultados. Penalización: descalificación del intento (DNF), a discreción del juez.
         - A6f1) Si el competidor resetea el cronómetro antes de que el tiempo haya sido completamente registrado, el juez no debe escribir el resultado de memoria o de fotos o videos, en cambio debe descalificar el intento (DNF).
     - A6g) El juez determina si el puzzle está o no resuelto. No debe moverlo ni tocarlo hasta que haya determinado si corresponde una penalización por estar desalineado. Excepción: Para Clock, el juez generalmente necesita agarrarlo para verificar ambas caras.
     - A6h) En caso de disputa, no debe moverse o alinearse el puzzle hasta que la disputa haya sido resuelta.
