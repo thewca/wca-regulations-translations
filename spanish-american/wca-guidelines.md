@@ -1,6 +1,6 @@
 # <wca-title>Directrices WCA
 
-<version>Versión: 1 de Agosto de 2020
+<version>Versión: 1 de mayo de 2021
 
 
 ## Notas
@@ -32,24 +32,22 @@ En pro de la claridad, cada Directriz se clasifica usando una de las siguientes 
 
 ## <article-1><officials><officials> Artículo 1: Miembros Oficiales
 
-- 1c+) [ACLARACIÓN] Si hay múltiples Delegados de la WCA designados para la competencia, "el Delegado de la WCA" se refiere a cualquiera de ellos. "El Delegado de la WCA" también se refiere a cualquier persona que haya sido designada por un Delegado de la WCA designado (para dicha competencia) para llevar a cabo una responsabilidad relevante del Delegado de la competencia.
-- 1c++) [ACLARACIÓN] Los Delegados de la WCA pueden asistir a una competencia sin ser designados para servir como Delegado de la WCA. "El Delegado de la WCA" no se refiere a ellos a no ser que se les asigne una responsabilidad relevante por un Delegado designado para la competencia (ver [Directriz 1c+](guidelines:guideline:1c+)).
+- 1c+) [ACLARACIÓN] Si hay múltiples Delegados de la WCA designados para la competición, "el Delegado de la WCA" se refiere a cualquiera de ellos. "El Delegado de la WCA" también se refiere a cualquier persona que haya sido designada por un Delegado de la WCA designado (para dicha competición) para llevar a cabo una responsabilidad relevante del Delegado de la competición.
+- 1c++) [ACLARACIÓN] Los Delegados de la WCA pueden asistir a una competición sin ser designados para servir como Delegado de la WCA. "El Delegado de la WCA" no se refiere a ellos a no ser que se les asigne una responsabilidad relevante por un Delegado designado para la competición (ver [Directriz 1c+](guidelines:guideline:1c+)).
 - 1h+) [RECOMENDACIÓN] Los competidores del mismo grupo deben usar las mismas secuencias de mezcla. Diferentes grupos deben usar diferentes secuencias de mezcla.
 - 1h++) [RECOMENDACIÓN] Todos los intentos en la ronda final de un evento, así como todos los intentos de Resolución en Menos Movimientos, deben tener las mismas secuencias de mezclas para todos los competidores (p.ej. sólo 1 grupo).
-- 1h1+) [ACLARACIÓN] Los mezcladores/jueces deberían mezclar/juzgar a otros competidores de su mismo grupo sólo si es importante para la logística de la competencia.
+- 1h1+) [ACLARACIÓN] Los mezcladores/jueces deberían mezclar/juzgar a otros competidores de su mismo grupo sólo si es importante para la logística de la competición.
 - 1h1++) [ACLARACIÓN] Para la resolución del Cubo 3x3x3 en Menos Movimientos, los jueces pueden juzgar a los competidores de su mismo grupo antes de terminar su intento (p.ej. mientras están compitiendo).
 
 
 ## <article-2><competitors><competitors> Artículo 2: Competidores
 
 - 2c+) [ADICIÓN] Los competidores que lo sean por primera vez, deben registrarse usando su nombre legal. Pueden registrarse usando un apodo razonable, a criterio del Delegado de la WCA.
-- 2c1+) [ADICIÓN] Los requerimientos para un registro completo deben estar claramente descritos en la página web de la competencia.
-- 2c1++) [EJEMPLO] Por ejemplo, el equipo organizador puede requerir que se responda a un email de confirmación antes de determinada fecha, que se pague el precio de la entrada al momento de registrarse o que se paguen las entradas que el competidor debe de competencias anteriores. El equipo organizador debería considerar cuidadosamente si los requerimientos son justos.
-- 2c2+) [ACLARACIÓN] Un perfil de la WCA es la colección de información relacionada a un competidor, e incluye su información personal (nombre, nacionalidad, género y fecha de nacimiento) así como todos sus resultados en competencias oficiales de la WCA.
+- 2c2+) [ACLARACIÓN] Un perfil de la WCA es la colección de información relacionada a un competidor, e incluye su información personal (nombre, nacionalidad, género y fecha de nacimiento) así como todos sus resultados en competiciones oficiales de la WCA.
 - 2d+) [ADICIÓN] La fecha de nacimiento e información de contacto deben ser especialmente confidenciales.
 - 2d++) [RECOMENDACIÓN] Si algún tercero (p.ej. un periodista) pide al equipo organizador para ponerse en contacto con cualquier competidor o competidores, estos deberían ser consultados antes.
-- 2e+) [ACLARACIÓN] Si un competidor tiene múltiples ciudadanías, puede elegir qué país quiere representar en su primera competencia.
-- 2e++) [ADICIÓN] El Delegado de la WCA también debería verificar el nombre y la fecha de nacimiento por medio de documentos (p.ej. un pasaporte), para cada competidor nuevo en su primera competencia.
+- 2e+) [ACLARACIÓN] Si un competidor tiene múltiples ciudadanías, puede elegir qué país quiere representar en su primera competición.
+- 2e++) [ADICIÓN] El Delegado de la WCA también debería verificar el nombre y la fecha de nacimiento por medio de documentos (p.ej. un pasaporte), para cada competidor nuevo en su primera competición.
 - 2e3+) [ACLARACIÓN] Los competidores que compiten como "Stateless", no tienen récords nacionales ni continentales, y no forman parte de los rankings nacionales ni continentales.
 - 2i+) [ADICIÓN] Por más que un competidor pueda tomar un cronómetro de mano para ver el tiempo (cuando no están con los ojos tapados), no debe empezar, parar, pausar o interactuar de cualquier otra forma con el cronómetro de mano.
 - 2i++) [ADICIÓN] El equipo organizador puede proveer al competidor con un cronómetro de mano no oficial para ver el tiempo transcurrido (que empieza al mismo tiempo que el cronómetro de mano oficial), en cuyo caso el competidor no tiene permitido tocar el cronómetro de mano oficial.
@@ -58,7 +56,7 @@ En pro de la claridad, cada Directriz se clasifica usando una de las siguientes 
 - 2i1c+) [ACLARACIÓN] Los calentadores de manos electrónicos solo pueden ser usados antes o después de un intento. Mientras que los no-electrónicos pueden ser usados en cualquier momento durante un intento.
 - 2i2a+) [ADICIÓN] El monitor de una cámara puede ser visible para el competidor siempre que no muestre lo que filma la cámara en tiempo real.
 - 2j2+) [EJEMPLO] Por ejemplo, si un competidor es descalificado de un evento por no presentarse a la ronda final, sus resultados de rondas anteriores siguen siendo válidos.
-- 2k6+) [ACLARACIÓN] Los delegados de la WCA solo deberían utilizar su discreción para prevenir que los competidores perjudiquen severamente a la competencia (p.ej. gastando tiempo y/o recursos de la competencia). Los competidores no deberían ser descalificados por resultados "malos" cuando están compitiendo con lo mejor de sí.
+- 2k6+) [ACLARACIÓN] Los delegados de la WCA solo deberían utilizar su discreción para prevenir que los competidores perjudiquen severamente a la competición (p.ej. gastando tiempo y/o recursos de la competición). Los competidores no deberían ser descalificados por resultados "malos" cuando están compitiendo con lo mejor de sí.
 - 2s+) [RECORDATORIO] Las adaptaciones especiales deben ser anotadas en el Informe del Delegado.
 
 
@@ -66,7 +64,7 @@ En pro de la claridad, cada Directriz se clasifica usando una de las siguientes 
 
 - 3a+) [ACLARACIÓN] Los competidores pueden usar puzzles de cualquier tamaño razonable, a criterio del Delegado de la WCA.
 - 3a++) [ADICIÓN] Por defecto, cada competidor debería utilizar el mismo puzzle para los intentos consecutivos en una ronda de speed solving. El competidor puede cambiar de puzzle entre intentos a criterio del juez o del Delegado de la WCA.
-- 3a+++) [ACLARACIÓN] Los competidores pueden tomar prestados puzzles de otros competidores de forma privada, para usarlos en competencia.
+- 3a+++) [ACLARACIÓN] Los competidores pueden tomar prestados puzzles de otros competidores de forma privada, para usarlos en competición.
 - 3a1+) [ACLARACIÓN] Los competidores pueden ser descalificados si no tienen un puzzle listo para entregar poco después de que son llamados  (p.ej. si pensaban utilizar un puzzle que otro competidor está usando en ese momento, y por lo tanto no puede entregar su puzzle en ese instante).
 - 3d1b+) [ACLARACIÓN] No es necesario que haya patrones en todas las caras, pueden estar en aquellas cuyos colores no logran ser diferenciados. Las piezas no deben tener ninguna característica (p.ej. texturas, irregularidades en los patrones) que las distingan significativamente de piezas similares.
 - 3h+) [ACLARACIÓN] Los puzzles pueden ser refinados internamente, siendo lijados o lubricados o modificándolos para que sean más estables (p.ej agregando imanes).
@@ -86,12 +84,12 @@ En pro de la claridad, cada Directriz se clasifica usando una de las siguientes 
 ## <article-4><scrambling><scrambling> Artículo 4: Mezclas
 
 - 4b1+) [RECORDATORIO] El Delegado WCA no debe regenerar nunca las mezclas para reemplazar otros con el propósito de filtrar. Por ejemplo, no está permitido mirar las mezclas de una competición y generar de nuevo el lote entero con el propósito de generar mezclas "más justas".
-- 4b2+) [ACLARACIÓN] En general, todas las secuencias de mezcla oficiales deberían mantenerse en secreto durante la competencia y ser publicadas juntas después de terminada la competencia. En algunos casos (p.ej. records mundiales), el equipo organizador puede querer publicar mezclas específicas poco después del final de un grupo.
-- 4b2++) [ADICIÓN] Los organizadores de la competencia deberían asegurarse que los mezcladores, secuencias de mezcla y puzzles parcial o totalmente mezclados permanezcan visualmente aislados de los competidores (ver [Regla A2c](regulations:regulation:A2c)). Por ejemplo, los mezcladores pueden estar ubicados atrás de una pared o un objeto lo suficientemente alto (p.ej. un cartón colocado alrededor de la mesa donde se encuentran los mezcladores) puede ser usado para que los competidores no puedan ver los puzzles mientras los mezcladores les aplican las mezclas.
+- 4b2+) [ACLARACIÓN] En general, todas las secuencias de mezcla oficiales deberían mantenerse en secreto durante la competición y ser publicadas juntas después de terminada la competición. En algunos casos (p.ej. records mundiales), el equipo organizador puede querer publicar mezclas específicas poco después del final de un grupo.
+- 4b2++) [ADICIÓN] Los organizadores de la competición deberían asegurarse que los mezcladores, secuencias de mezcla y puzzles parcial o totalmente mezclados permanezcan visualmente aislados de los competidores (ver [Regla A2c](regulations:regulation:A2c)). Por ejemplo, los mezcladores pueden estar ubicados atrás de una pared o un objeto lo suficientemente alto (p.ej. un cartón colocado alrededor de la mesa donde se encuentran los mezcladores) puede ser usado para que los competidores no puedan ver los puzzles mientras los mezcladores les aplican las mezclas.
 - 4b4+) [ACLARACIÓN] Todos los intentos que hayan empezado dentro del marco de tiempo, siguen los procedimientos de resolución estándar (p.ej. no son parados cuando el marco de tiempo de la mezcla en cuestión expira).
 - 4d+) [ACLARACIÓN] Algunos puzzles usan esquemas de colores estándar, excepto que el blanco sea sustituído por el negro. En este caso, el negro es el color más oscuro y no debe ser tratado como blanco.
 - 4d++) [ADICIÓN] Se permite que el puzzle cambie de orientación cuando se mueve del mezclador a la estación de resolución, siempre y cuando nadie intente influenciar la aleatoriedad de su orientación (ver [Regla A2e1](regulations:regulation:A2e1)).
-- 4f+) [RECOMENDACIÓN] El Delegado WCA debería generar mezclas suficientes para la totalidad de la competencia antes de tiempo, incluyendo mezclas de sobra para intentos extra.
+- 4f+) [RECOMENDACIÓN] El Delegado WCA debería generar mezclas suficientes para la totalidad de la competición antes de tiempo, incluyendo mezclas de sobra para intentos extra.
 - 4f++) [RECORDATORIO] Si el Delegado WCA genera mezclas oficiales durante la competición, las mezclas deben guardarse.
 
 
@@ -105,32 +103,25 @@ En pro de la claridad, cada Directriz se clasifica usando una de las siguientes 
 - 5c+) [RECORDATORIO] Que un competidor tenga un defecto en su puzzle, no es razón para que se le conceda el derecho a un intento extra.
 
 
-## <article-6><awards><awards> Artículo 6: Galardones/Premios/Distinciones
-
-- 6a+) [RECOMENDACIÓN] Pueden darse galardones, premios o distinciones a los competidores de acuerdo con el anuncio de la competencia.
-- 6b+) [RECOMENDACIÓN] Los competidores deberían asistir a la ceremonia de entrega de premios para recibir galardones/premios/distinciones.
-- 6b1+) [RECOMENDACIÓN] La ceremonia de entrega de premios debería ser celebrada en la zona de competencia, durante la hora posterior al final del último evento.
-- 6c+) [RECOMENDACIÓN] Los ganadores de galardones, premios o distinciones deberían estar preparados para hablar con periodistas o medios de comunicación que cubran la competencia.
-- 6d+) [RECOMENDACIÓN] Los equipos organizadores de competencias deberían tener certificados para todos los ganadores de categorías, firmados por el líder del equipo organizador y por el Delegado de la WCA.
-
-
 ## <article-7><environment><environment> Artículo 7: Entorno
 
-- 7d+) [ADICIÓN] La temperatura de la zona de competencia debería estar entre 21 y 25 grados Celsius.
 - 7f1a+) [ACLARACIÓN] Un mat de tamaño completo debería tener unas dimensiones mínimas de 30cm (de izquierda a derecha) por 25cm (de atrás a adelante).
-- 7h2+) [ADICIÓN] Los competidores en la zona de competidores no deberían ser capaces de ver los puzzles de los competidores en la zona de competencia.
+- 7h2+) [ADICIÓN] Los competidores en la Zona de Espera de Competidores no deberían ser capaces de ver los puzzles de los competidores en la zona de competición.
 
 
 ## <article-9><events><events> Artículo 9: Eventos
 
 - 9b+) [ADICIÓN] Para un evento con múltiples rondas, el formato para cualquier ronda después de la primera (especialmente para la final) debería ser "Promedio de 5" o "Media de 3", en caso de ser posible.
-- 9b++) [ADICIÓN] Otros eventos distintos de los especificados en la [Regla 9b](regulations:regulation:9b) pueden ser celebrados durante la competencia, pero serán considerados no oficiales y por tanto no serán incluidos en los resultados oficiales de la competencia.
-- 9b3b+) [ACLARACIÓN] La estadística de la “Media de 3” no afecta el rango de ese competidor en una ronda de “Mejor de 3” (la cual está basada en el mejor resultado). La WCA lo reconoce por fuera del formato de la competencia.
+- 9b++) [ADICIÓN] Otros eventos distintos de los especificados en la [Regla 9b](regulations:regulation:9b) pueden ser celebrados durante la competición, pero serán considerados no oficiales y por tanto no serán incluidos en los resultados oficiales de la competición.
+- 9b3b+) [ACLARACIÓN] La estadística de la “Media de 3” no afecta el rango de ese competidor en una ronda de “Mejor de 3” (la cual está basada en el mejor resultado). La WCA lo reconoce por fuera del formato de la competición.
 - 9f1+) [EJEMPLO] Si el cronómetro muestra el número “12.678” para un intento, el tiempo que se registrará será “12.67” (se quitarán los dígitos extras a la centésima del segundo). Un juez puede escribir el tiempo completo en la hoja de resultados (para calcular con precisión las penalizaciones), siempre y cuando el encargado de digitar los resultados en el ordenador quite los dígitos extra para los resultados oficiales.
 - 9f4+) [EXPLICACIÓN] El resultado de un intento es DNF sólo si el competidor inició el intento indicando que estaba listo (ver [Regla A3b2](regulations:regulation:a3b2)) pero el intento fue descalificado.
 - 9f5+) [ACLARACIÓN] El resultado de un intento es DNS si el competidor era elegible para un intento y no lo comenzó (ver [Regla A3b2](regulationsregulations:a3b2)). Si el competidor no clasificó para un intento (p.ej. en una ronda combinada), no tiene ningún resultado para el intento.
 - 9p2+) [ACLARACIÓN] "Resultado" se refiere a un tiempo o un promedio de tiempos de resolución, que determinan el ranking de la ronda correspondiente.
 - 9q+) [RECOMENDACIÓN] Los eventos y rondas deberían tener al menos 2 competidores.
+- 9t+) [EXPLICACIÓN] Debido a las reglas [9t1](regulations:regulation:9t1) y [9t2](regulations:regulation:9t2), puede parecer que las rondas no cumplen con las reglas [9p1](regulations:regulation:9p1), [9m1](regulations:regulation:9m1), [9m2](regulations:regulation:9m2) o [9m3](regulations:regulation:9m3). Sin embargo, hacer cambios para cumplir con estas reglas afectaría a competidores inocentes, razón por la cual los resultados deben mantenerse iguales.
+- 9t++) [ADICIÓN] Si los cambios en los resultados se dan durante la competición, esta regla también debe ser aplicada. En cuyo caso, las reglas [9t1](regulations:regulation:9t1), [9t2](regulations:regulation:9t2) y [9t3](regulations:regulation:9t3) también deberían cumplirse, a discreción del Delegado de la WCA.
+- 9t3+) [EJEMPLO] Suponiendo que en la primera ronda un competidor A consigue un promedio de 10.00 y un competidor B uno de 10.05, tales que A avanza a la final y B no. Si se descubre un error en la compilación de resultados y en realidad el competidor B consiguió un promedio de 9.95 (por el cual debería haber pasado de ronda, en lugar del competidor A), el competidor A conserva sus resultados de la ronda final.
 
 
 ## <article-10><solved-state><solvedstate> Artículo 10: Estado resuelto de un puzzle
@@ -175,7 +166,6 @@ En pro de la claridad, cada Directriz se clasifica usando una de las siguientes 
 - A6b+) [EXPLICACIÓN] El valor arbitrario de 0.06 segundos ha sido seleccionado para dar respuesta a los errores de funcionamiento de los cronómetros Stackmat.
 - A6e+) [ACLARACIÓN] Si el puzzle cae sobre el regazo del competidor luego de haber detenido el cronómetro, se considera que el competidor tocó el puzzle.
 - A7c+) [ADICIÓN] Si un resultado firmado por un competidor resulta estar incompleto o ilegible, deberá ser interpretado de la peor manera razonable (p.ej. “1:05” será considerado 1:05.99, “25.X3” será considerado 25.73 si X puede ser 1 o 7). Dado que los cronómetros de Stackmat presentan un tiempo de X:0Y.xx como X:Y.xx, un dígito faltante en las décimas será considerado como el dígito más probable de que falte (p.ej. “1:2:27” será considerado 1:02.27). El juez que firma un resultado ambiguo puede ser llamado a aclararlo a discreción de la persona que registra los resultados oficiales.
-- A7c4+) [ADICIÓN] Las firmas faltantes que encuentre la persona a cargo de registrar los resultados oficiales, pueden ser agregadas por el juez y/o competidor antes del final de la competencia, a discreción del Delegado de la WCA.
 - A7g+) [EJEMPLO] Ejemplos de los incidentes que podrían ocurrir y por ello representar un intento extra para un competidor: no esperar a que se encienda la luz verde, que se active o se detenga mal el cronómetro, pasarse del tiempo de inspección debido a un malentendido de cómo se debía iniciar el intento, o cualquier otra penalización de tiempo por razones de procedimiento.
 - A7g++) [ACLARACIÓN] Las penalizaciones de tiempo no pueden cederse para nuevos competidores. Debe otorgarse un intento extra totalmente nuevo.
 - A7g+++) [RECOMENDACIÓN] El delegado de la WCA debería usar una fuerte discreción cuando otorgue un intento extra a un mismo competidor nuevo. Si se le otorga más de un intento extra, deberá ser por un incidente distinto.
@@ -184,7 +174,7 @@ En pro de la claridad, cada Directriz se clasifica usando una de las siguientes 
 ## <article-B><blindfolded><blindfoldedsolving> Artículo B: Resolución a ciegas
 
 - B1+) [RECORDATORIO] El competidor debe usar un puzzle sin texturas, marcas, u otras características que permitan distinguir piezas similares (ver [Regla 3k](regulations:regulation:3k)). A esto se le debería dar especial atención en la Resolución a Ciegas.
-- B1b+) [RECOMENDACIÓN] Los antifaces deberían ser verificados por el Delegado WCA antes de su uso en la competencia.
+- B1b+) [RECOMENDACIÓN] Los antifaces deberían ser verificados por el Delegado WCA antes de su uso en la competición.
 - B2d+) [ADICIÓN] Por defecto, el competidor inicia la resolución la primera vez que este inicia el cronómetro después de que el juez indicara que estaba listo (ver [Regla B2a](regulations:regulation:B2a)). Si el competidor quiere comprobar que el cronómetro funciona correctamente, debe pedir (y recibir) el permiso del juez cada vez antes de iniciar/reiniciar el cronómetro durante esta fase. Penalización por iniciar y reiniciar el cronómetro sin la autorización del juez: descalificación del intento (DNF).
 
 
@@ -200,9 +190,9 @@ En pro de la claridad, cada Directriz se clasifica usando una de las siguientes 
 - E2b+) [ACLARACIÓN] Un competidor puede elegir parar su intento antes de tiempo, proporcionando una solución antes del límite de tiempo.
 - E2b++) [ADICIÓN] Un competidor puede unirse a un intento de Resolución en Menos Movimientos que esté en progreso, a discreción del Delegado de la WCA. En este caso, su tiempo límite es el tiempo restante (p.ej. debe terminar cuando los demás competidores alcancen sus 60 minutos de tiempo límite). Excepción: no debe permitirse que un competidor se una a un intento de Resolución en Menos Movimientos si algún competidor ya terminó su intento (ver [Directriz E2b+](guidelines:guideline:E2b+)), o si existe alguna posibilidad de que información sobre la mezcla haya llegado a manos del competidor que quiere unirse.
 - E2c+) [ACLARACIÓN] Aunque el juez puede proveer una hoja estándar para que los competidores entreguen sus soluciones, un competidor puede entregar una solución en una hoja distinta. (Note que la hoja debe venir de parte del juez, de acuerdo a la [Regla E3a](regulations:regulation:E3a)).
-- E2c1+) [EXPLICACIÓN] La ID de registro de un competidor es un identificador (p.ej. un número) asignado a un competidor para la competencia. Algunas competencias utilizan esto para mantener controladas las hojas de resultados e ingresar resultados.
+- E2c1+) [EXPLICACIÓN] La ID de registro de un competidor es un identificador (p.ej. un número) asignado a un competidor para la competición. En algunas competiciones se utiliza esto para mantener controladas las hojas de resultados e ingresar resultados.
 - E2c1++) [ADICIÓN] Si el competidor olvidó escribir la información para identificar el intento que planea entregar, tiene permitido agregarla frente al juez luego de terminado el límite de tiempo. En este caso, el competidor debe pedir permiso al juez mientras entrega la solución y luego escribir inmediatamente la información necesaria para identificar el intento (sin realizar otros cambios) bajo la supervisión directa del juez. Una vez que el competidor ha entregado la solución (p.ej. colocándola en las manos del juez y permitiéndole al juez continuar con el siguiente competidor o colocando la solución en la mesa del juez y luego irse caminando), no tiene permitido agregar ninguna información. Si el competidor escribe cualquier información después de terminado el límite de tiempo y antes de pedir permiso al juez, el resultado es descalificado (DNF).
-- E2c1+++) [EXPLICACIÓN] El competidor no está obligado a escribir el nombre de la competencia, ronda y/o número de intento en la hoja entregada, pero puede hacerlo para ayudar al equipo organizador a identificar las soluciones entregadas.
+- E2c1+++) [EXPLICACIÓN] El competidor no está obligado a escribir el nombre de la competición, ronda y/o número de intento en la hoja entregada, pero puede hacerlo para ayudar al equipo organizador a identificar las soluciones entregadas.
 - E2c1++++) [ADICIÓN] Si un juez encuentra una solución sin información para identificar al competidor (p.ej. mientras revisa el intento), debería averiguar a qué competidor le pertenece para asignarle un DNF (en vez de un DNS). Nótese que al competidor no se le debe permitir agregar dicha información en este punto, por lo tanto debe recibir un DNF.
 - E2c2+) [EJEMPLO] Ejemplos que no son considerados una sola secuencia de movimientos no ambiguos: múltiples secuencias de soluciones sin que haya una indicada claramente como la definitiva, una solución con símbolos ambiguos (p.ej. una letra que se parezca tanto a una "B" como a una "R" pero no se distingue claramente cuál es), una solución con asteriscos y flechas indicando movimientos fuera del órden escrito (p.ej. "inserciones" que no están alineadas con el resto de los movimientos de la secuencia, "pre-movimientos" que no están incorporados en la secuencia de movimientos utilizando la notación válida), una secuencia de movimientos que no está escrita aproximadamente en una serie de renglones en órden de lectura, cualquier secuencia de símbolos que no pueda ser interpretada como una secuencia de movimientos no ambiguos. Excepciones a los ejemplos de arriba: pequeñas correcciones tipográficas (p.ej. tachar movimientos y escribir nuevos arriba que tengan claramente el objetivo de reemplazar a los tachados, u otros escritos entre medio de otros dos).
 - E2c2++) [RECORDATORIO] En el pasado, las notaciones con paréntesis rectos (p.ej. [r] o [u2]) eran permitidas para la Resolución en Menos Movimientos. Solo las rotaciones basadas en x, y, o z están permiten actualmente (ver [Regla 12a4a](regulations:regulation:12a4a)).
@@ -214,7 +204,7 @@ En pro de la claridad, cada Directriz se clasifica usando una de las siguientes 
 - E3d++) [ACLARACIÓN] Los competidores no deben considerar el tiempo de sus cronómetros personales o relojes como su tiempo oficial, y deben entregar su solución después de que el juez anuncia “PARA” (o "TIEMPO").
 
 
-## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Artículo H: Resolución de Múltiples cubos a ciegas
+## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Artículo H: Resolución de Múltiples Cubos a Ciegas
 
 - H1+) [ADICIÓN] Si un puzzle con una mezcla repetida es encontrado durante un intento, el puzzle puede ser re-mezclado usando una secuencia de mezcla diferente, a discreción del Delegado de la WCA.
 - H1b1+) [RECORDATORIO] El intento no está descalificado por alcanzar el límite de tiempo, excepto en los casos de  Resolución de Múltiples Cubos 3x3x3 a Ciegas (ver [Regla A1a4](regulations:regulation:a1a4) y [Regla A1a5](regulations:regulation:a1a5)).
