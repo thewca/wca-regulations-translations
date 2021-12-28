@@ -1,6 +1,6 @@
 # <wca-title>WCA-ohjesäännöt
 
-<version>Versio: 1. elokuuta 2020
+<version>Versio: 1. toukokuuta 2021
 
 
 ## Huomautukset
@@ -35,16 +35,14 @@ Jokainen ohjesääntö on informatiivisuuden lisäämiseksi luokiteltu käyttäe
 - 1c+) [SELVENNYS] Jos kilpailuun on merkitty useita WCA-delegaatteja, "WCA-delegaatti" viittaa kehen tahansa heistä. "WCA-delegaatti" viittaa myös kehen tahansa, jonka merkitty WCA-delegaatti on nimittänyt suorittamaan WCA-delegaatin vastuutehtäviä kilpailun aikana.
 - 1c++) [SELVENNYS] WCA-delegaatit voivat osallistua kilpailuun ilman, että heidät merkitään WCA-delegaatin rooliin kilpailun aikana. "WCA-delegaatti" ei viittaa heihin, ellei merkitty WCA-delegaatti ole nimittänyt heitä suorittamaan vastuutehtäviä kilpailun aikana (ks. [ohjesääntö 1c+](guidelines:guideline:1c+)).
 - 1h+) [SUOSITUS] Samassa ryhmässä olevien kilpailijoiden pitäisi käyttää samoja sekoitussarjoja. Eri ryhmien pitäisi käyttää eri sekoitussarjoja.
-- 1h++) [SUOSITUS] Sekä kaikilla ratkaisuyrityksillä lajin finaalikierroksella, että kaikilla 3x3x3 vähiten siirtoja -ratkaisuyrityksillä, pitäisi olla samat sekoitussarjat kaikille kilpailijoille (t.s. vain 1 ryhmä).
+- 1h++) [SUOSITUS] Sekä kaikilla ratkaisuyrityksillä lajin finaalikierroksella, että kaikilla 3x3x3 vähiten siirtoja -ratkaisuyrityksillä, pitäisi olla samat sekoitussarjat kaikille kilpailijoille (ts. vain 1 ryhmä).
 - 1h1+) [SELVENNYS] Sekoittajien ja tuomarien pitäisi toimia sekoittajana/tuomarina oman ryhmänsä kilpailijoille vain jos se on kilpailun logistiikan kannalta tärkeää.
-- 1h1++) [SELVENNYS] 3x3x3 vähiten siirtoja: tuomarit voivat toimia tuomarina oman ryhmänsä kilpailijoille ennen kuin he ovat päättäneet ratkaisuyrityksensä (t.s. kilpaillessaan).
+- 1h1++) [SELVENNYS] 3x3x3 vähiten siirtoja: tuomarit voivat toimia tuomarina oman ryhmänsä kilpailijoille ennen kuin he ovat päättäneet ratkaisuyrityksensä (ts. kilpaillessaan).
 
 
 ## <article-2><competitors><competitors> Artikla 2: Kilpailijat
 
 - 2c+) [LISÄYS] Ensikertalaisten pitäisi rekisteröityä käyttäen laillista nimeään. He voivat rekisteröityä käyttäen järkevää lempinimeä, WCA-delegaatin harkinnan mukaan.
-- 2c1+) [LISÄYS] Vaatimukset rekisteröitymisen suorittamiseen loppuun täytyy kertoa selvästi kilpailun verkkosivulla.
-- 2c1++) [ESIMERKKI] Järjestäjäryhmä voi esimerkiksi vaatia vahvistussähköpostiin vastaamista ennen tiettyä päivää, osallistumismaksun maksamista etukäteen tai aikaisempien kilpailujen maksamatta jääneiden maksujen maksamista. Järjestäjäryhmän pitäisi harkita huolella vaatimusten reiluutta.
 - 2c2+) [SELVENNYS] WCA-profiiliin on kerätty kilpailijan tietoja, sisältäen henkilötietoja (kilpailijan nimi, kansallisuus, sukupuoli ja syntymäaika) sekä kaikki kilpailijan tulokset WCA-kilpailuista.
 - 2d+) [LISÄYS] Syntymäajan ja yhteystietojen pitäisi olla erityisen hyvin suojattuja.
 - 2d++) [SUOSITUS] Jos kolmas osapuoli (esim. toimittaja) pyytää järjestäjäryhmältä mahdollisuutta olla yhteydessä kilpailijaan/kilpailijoihin, pitäisi kilpailijan/kilpailijoiden suostumusta kysyä ensin.
@@ -74,11 +72,11 @@ Jokainen ohjesääntö on informatiivisuuden lisäämiseksi luokiteltu käyttäe
 - 3h2++) [SELVENNYS] "Stickerless" pulmapelit, jotka ovat huomattavasti erilaisia kuin useimmat muut massatuotantona valmistetut "stickerless" pulmapelit, ovat sallittuja vain WCA-delegaatin harkinnan mukaan.
 - 3j+) [MUISTUTUS] Aiemmin kaiverretut/kohokuvioidut palat olivat sallittuja. Nämä eivät ole enää sallittuja.
 - 3j++) [SELVENNYS] Clockissa tapit eivät saa olla tunnistettavissa saman sivun muista tapeista.
-- 3j2+) [SELVENNYS] Clockissa samas sivun yhdeksän kellotaulua ovat samantyyppisiä paloja.
+- 3j2+) [SELVENNYS] Clockissa saman sivun yhdeksän kellotaulua ovat samantyyppisiä paloja.
 - 3k2+) [LISÄYS] WCA-delegaatin ei pitäisi käyttää lueteltuja poikkeuksia, jos hän uskoo, että kilpailija yritti käyttää sääntöjen vastaista pulmapeliä tarkoituksella.
 - 3k2b+) [SELVENNYS] Jos sääntöjen vastainen pulmapeli havaitaan 3x3x3 multisokko -yrityksen aikana, pulmapeliä ei saa vaihtaa tai poistaa yrityksestä, vaan se täytyy laskea ratkaisemattomaksi, ellei koko yritystä hylätä.
 - 3k2b++) [ESIMERKKI] Oletetaan, että kilpailija yrittää 10 pulmapeliä ja ratkaisee niistä 8. Jos havaitaan, että näistä kaksi ratkaistua ja yksi ratkaisematon pulmapeli ovat sääntöjen vastaisia, kilpailijan tulos on 6 ratkaistua pulmapeliä 10:stä (DNF:n sijaan), WCA-delegaatin harkinnan mukaan.
-- 3l+) [LISÄYS] Kohtuuden rajoissa logossa voi olla mikä tahansa kuvio, kunhan se ei anna huomattavaa etulyöntiasemaa (esim. koodattua tietoa, jota voidaan käyttään huijaamiseen) ja jättää pulmapelin värjätyn osan selvästi tunnistettavaksi. Epätavanomaiset logot ovat sallittuja vain WCA-delegaatin harkinnan mukaan.
+- 3l+) [LISÄYS] Kohtuuden rajoissa logossa voi olla mikä tahansa kuvio, kunhan se ei anna huomattavaa etulyöntiasemaa (esim. koodattua tietoa, jota voidaan käyttää huijaamiseen) ja jättää pulmapelin värjätyn osan selvästi tunnistettavaksi. Epätavanomaiset logot ovat sallittuja vain WCA-delegaatin harkinnan mukaan.
 - 3l++) [SELVENNYS] Aiemmin sokkolajeissa sai käyttää pulmapelejä, joissa oli logo. Nämä pulmapelit eivät ole enää sallittuja.
 - 3l1+) [SELVENNYS] NxNxN-kuutioissa keskuspala on mikä tahansa pala, jossa on yksi värjätty osa. Esimerkiksi 5x5x5-kuution jokaisella tahkolla on 9 keskuspalaa.
 
@@ -88,7 +86,7 @@ Jokainen ohjesääntö on informatiivisuuden lisäämiseksi luokiteltu käyttäe
 - 4b1+) [MUISTUTUS] WCA-delegaatti ei saa koskaan generoida mitään sekoitussarjoja uudelleen korvatakseen muita sekoitussarjoja valikointitarkoituksessa. Ei esimerkiksi ole sallittua silmäillä kilpailun sekoitussarjoja ja generoida koko settiä uudelleen saadakseen "reilumpia" sekoitussarjoja.
 - 4b2+) [SELVENNYS] Yleisesti ottaen kaikki viralliset sekoitussarjat pitäisi pitää salassa kilpailun aikana ja julkaista yhdessä kilpailun jälkeen. Joissain tapauksissa (esim. maailmanennätykset) järjestäjäryhmä voi julkaista tiettyjä sekoitussarjoja aiemmin kierroksen loppumisen jälkeen.
 - 4b2++) [LISÄYS] Kilpailun järjestäjien pitäisi huolehtia siitä, että sekoittajat, sekoitussarjat sekä osittain/kokonaan sekoitetut pulmapelit on peitetty kilpailijoiden näkyvistä (ks. [sääntö A2c](regulations:regulation:A2c)). Sekoittajat voivat esimerkiksi olla seinän tai sekoituspöydälle asennetun riittävän korkean näköesteen takana, jolloin kilpailijat eivät näe pulmapelejä sekoittajien sekoittaessa niitä.
-- 4b4+) [SELVENNYS] Kaikki ratkaisuyritykset, jotka on aloitettu ennen aikamääreen täyttymistä, noudattavat tavallisia ratkaisumenettelytapoja (t.s. niitä ei pysäytetä, kun sekoituksen aikamääre täyttyy).
+- 4b4+) [SELVENNYS] Kaikki ratkaisuyritykset, jotka on aloitettu ennen aikamääreen täyttymistä, noudattavat tavallisia ratkaisumenettelytapoja (ts. niitä ei pysäytetä, kun sekoituksen aikamääre täyttyy).
 - 4d+) [SELVENNYS] Joissakin pulmapeleissä värit ovat muuten standardijärjestyksessä, mutta valkoinen on korvattu mustalla. Tässä tapauksessa musta on tummin väri eikä sitä saa kohdella valkoisena.
 - 4d++) [LISÄYS] Pulmapeli saa vaihtaa orientaatiotaan, kun sitä kuljetetaan sekoittajalta ratkaisupaikalle, kunhan kukaan ei pyri vaikuttamaan orientaation satunnaisuuteen (ks. [sääntö A2e1](regulations:regulation:A2e1)).
 - 4f+) [SUOSITUS] WCA-delegaatin pitäisi etukäteen generoida riittävästi sekoitussarjoja koko kilpailuun, mukaanlukien ylimääräiset sekoitussarjat ylimääräisille ratkaisuyrityksille.
@@ -105,20 +103,10 @@ Jokainen ohjesääntö on informatiivisuuden lisäämiseksi luokiteltu käyttäe
 - 5c+) [MUISTUTUS] Jos kilpailijan pulmapelissä ilmenee vika, tämä ei oikeuta häntä ylimääräiseen ratkaisuyritykseen.
 
 
-## <article-6><awards><awards> Artikla 6: Palkinnot/kunnianosoitukset
-
-- 6a+) [LISÄYS] Kilpailijoille voidaan antaa palkintoja tai kunnianosoituksia kilpailun ilmoituksen mukaan.
-- 6b+) [SUOSITUS] Kilpailijoiden pitäisi osallistua palkintojenjakoon vastaanottaakseen palkinnot/kunnianosoitukset.
-- 6b1+) [SUOSITUS] Palkintojenjako pitäisi pitää kilpailupaikalla tunnin sisällä viimeisen lajin päättymisestä.
-- 6c+) [SUOSITUS] Palkintojen tai kunnianosoitusten voittajien pitäisi olla valmiita puhumaan toimittajille tai kilpailua kattaville tiedotusvälineille.
-- 6d+) [SUOSITUS] Kilpailun järjestäjäryhmällä pitäisi olla järjestäjäryhmän johtajan ja kilpailun WCA-delegaatin allekirjoittamat kunniakirjat kaikkien lajien voittajille.
-
-
 ## <article-7><environment><environment> Artikla 7: Ympäristö
 
-- 7d+) [LISÄYS] Kilpailualueen lämpötilan pitäisi olla 21:n ja 25:n celsiusasteen välillä.
 - 7f1a+) [SELVENNYS] Täysikokoisen maton minimimitat ovat 30cm (vasemmalta oikealle) kertaa 25cm (edestä taakse).
-- 7h2+) [LISÄYS] Kilpailijoiden alueella olevien kilpailijoiden ei pitäisi pystyä näkemään ratkaisupaikoilla olevien kilpailijoiden pulmapelejä.
+- 7h2+) [LISÄYS] Kilpailijoiden odotusalueella olevien kilpailijoiden ei pitäisi pystyä näkemään ratkaisupaikoilla olevien kilpailijoiden pulmapelejä.
 
 
 ## <article-9><events><events> Artikla 9: Lajit
@@ -131,6 +119,9 @@ Jokainen ohjesääntö on informatiivisuuden lisäämiseksi luokiteltu käyttäe
 - 9f5+) [SELVENNYS] Ratkaisuyrityksen tulos on DNS jos kilpailija oli oikeutettu ratkaisuyritykseen, mutta ei aloittanut sitä (ks. [sääntö A3b2](regulations:regulation:A3b2)). Jos kilpailija ei ollut oikeutettu ratkaisuyritykseen (esim. cutoff-kierroksella), hänellä ei ole tulosta ratkaisuyritykselle.
 - 9p2+) [SELVENNYS] Tulos viittaa parhaaseen ratkaisuun tai keskiarvoon, joka määrittää kyseisen kierroksen sijoitukset.
 - 9q+) [SUOSITUS] Lajeilla ja kierroksilla pitäisi olla vähintään 2 kilpailijaa.
+- 9t+) [SELITYS] Johtuen säännöistä [9t1](regulations:regulation:9t1) ja [9t2](regulations:regulation:9t2), kierrokset saattavat vaikuttaa olevan säännön [9p1](regulations:regulation:9p2), [9m1](regulations:regulation:9m1), [9m2](regulations:regulation:9m2) tai [9m3](regulations:regulation:9m3) vastaisia. Näiden sääntöjen mukaisten muutosten tekeminen vaikuttaisi kuitenkin syyttömiin kilpailijoihin, minkä takia tulosten täytyy pysyä ennallaan.
+- 9t++) [LISÄYS] Jos tulosten muutos tapahtuu kilpailun aikana, täytyy myös käyttää tätä sääntöä. Tässä tapauksessa pitäisi noudattaa myös sääntöjä [9t1](regulations:regulation:9t1), [9t2](regulations:regulation:9t2) ja [9t3](regulations:regulation:9t3), WCA-delegaatin harkinnan mukaan.
+- 9t3+) [ESIMERKKI] Oletetaan, että kilpailija A saa keskiarvon 10.00 ja kilpailija B keskiarvon 10.05 lajin ensimmäisellä kierroksella, niin että kilpailija A jatkaa finaalikierrokselle, mutta kilpailija B ei. Jos havaitaan virhe tulosten tallennuksessa, ja kilpailijan B oikea keskiarvo on 9.95 (jolloin hänen olisi kuulunut päästä finaalikierrokselle kilpailijan A sijaan), kilpailijan A tulokset finaalikierrokselta säilyvät voimassa.
 
 
 ## <article-10><solved-state><solvedstate> Artikla 10: Ratkaistu asema
@@ -166,16 +157,15 @@ Jokainen ohjesääntö on informatiivisuuden lisäämiseksi luokiteltu käyttäe
 - A2d1+) [LISÄYS] Jos sekoittajan allekirjoituksen havaitaan puuttuvan ennen ratkaisuyritystä, pulmapeli pitäisi välittömästi toimittaa takaisin sekoittajalle sekoitussarjan vahvistamista ja allekirjoittamista varten.
 - A2d1++) [LISÄYS] Ratkaisuyritystä ei saa hylätä pelkästään puuttuvan sekoittajan allekirjoituksen vuoksi. Jos sekoittajan allekirjoituksen havaitaan puuttuvan ratkaisuyrityksen aloittamisen jälkeen, tuomarin täytyy antaa yrityksen jatkua (olettaen, että yritys on vielä käynnissä) ja WCA-delegaatin pitäisi sallia tuloksen jääminen voimaan. WCA-delegaatti voi kuitenkin korvata ratkaisuyrityksen ylimääräisellä ratkaisuyrityksellä, jos puuttuvan allekirjoituksen lisäksi on muu syy epäillä, ettei sekoitus ollut oikea.
 - A2d1+++) [MUISTUTUS] Vaikka WCA-delegaatti voi hyväksyä useita ratkaisuyrityksiä, joista puuttuu sekoittajan allekirjoitus, hänen tulisi pitää huoli, ettei allekirjoituksen puuttumisesta tule yleistä.
-- A3c3+) [SELVENNYS] Kilpailija voi nollata ajastimen ennen tarkasteluvaihetta/tarkasteluvaiheen aikana, jos tuomari on vahingossa jättänyt tämän tekemättä. Ajastimen nollaaminen on kuitenkin tuomarin vastuulla (ks. [sääntö A3b](regulations:regulation:A3b)). Jos kilpailija yrittää epähuomiossa aloittaa ratkaisun ajastimella, jota tuomari ei nollannut (t.s. kilpailija suorittaa tarkasteluvaiheen, asettaa kätensä ajastimelle kohtuullisen pitkäksi aikaa olettaen, että ajastin käynnistyy normaalisti ja aloittaa pulmapelin operoimisen), pitäisi ratkaisuyritys korvata ylimääräisellä ratkaisuyrityksellä, WCA-delegaatin harkinnan mukaan.
+- A3c3+) [SELVENNYS] Kilpailija voi nollata ajastimen ennen tarkasteluvaihetta/tarkasteluvaiheen aikana, jos tuomari on vahingossa jättänyt tämän tekemättä. Ajastimen nollaaminen on kuitenkin tuomarin vastuulla (ks. [sääntö A3b](regulations:regulation:A3b)). Jos kilpailija yrittää epähuomiossa aloittaa ratkaisun ajastimella, jota tuomari ei nollannut (ts. kilpailija suorittaa tarkasteluvaiheen, asettaa kätensä ajastimelle kohtuullisen pitkäksi aikaa olettaen, että ajastin käynnistyy normaalisti ja aloittaa pulmapelin operoimisen), pitäisi ratkaisuyritys korvata ylimääräisellä ratkaisuyrityksellä, WCA-delegaatin harkinnan mukaan.
 - A3c3++) [SELVENNYS] Kilpailija ei voi kokeilla (ts. käynnistää ja nollata) ajastinta tarkasteluvaiheen aikana, sillä tarkasteluvaihe päättyy, kun kilpailija aloittaa ratkaisun (ks. [sääntö A4d](regulations:regulation:A4d)). Kun kilpailija pysäyttää ajastimen sen jälkeen, kun hän on ensimmäisen kerran käynnistänyt sen, katsotaan hänen päättäneen ratkaisun (ks. [sääntö A6](regulations:regulation:A6)), vaikka tämä tapahtuisi 15 sekunnin kuluessa tarkasteluvaiheen alkamisesta.
 - A3c4+) [SELVENNYS] Jos pulmapeliin on asetettu ohut esine, tuomari ei saa poistaa esinettä kilpailijan puolesta.
 - A3c4++) [SELVENNYS] Kilpailija voi poistaa esineen ratkaisun aikana, jos hän ei tehnyt sitä tarkasteluvaiheen aikana (esim. unohti).
-- A5b+) [SELVENNYS] Tarkastellessaan tai ratkaistessaan pulmapeliä kilpailija voi koskea pulmapeliin millä tahalla kehonosallaan. Poikkeus: 3x3x3 yhdellä kädellä (ks. [sääntö C1b](regulations:regulation:C1b).
+- A5b+) [SELVENNYS] Tarkastellessaan tai ratkaistessaan pulmapeliä kilpailija voi koskea pulmapeliin millä tahansa kehonosallaan. Poikkeus: 3x3x3 yhdellä kädellä (ks. [sääntö C1b](regulations:regulation:C1b).
 - A5b++) [SELVENNYS] Jos kilpailijan pulmapelistä irtoaa pala (ks. [sääntö 5a](regulations:regulation:5a)), kilpailija ei saa pyytää apua palan poimimiseen tai löytämiseen. Tuomarin pitäisi myös yrittää estää muita auttamasta. Jos joku poimii irronneen palan kilpailijan puolesta, tuomari tai kilpailija voi pyytää häntä asettamaan palan ratkaisupaikalle ja olla auttamatta enempää.
 - A6b+) [SELITYS] Mielivaltainen arvo 0.06 sekuntia valittiin Stackmat-ajastimen toimintahäiriöistä aiheutuvan huolen lieventämiseksi.
 - A6e+) [SELVENNYS] Jos pulmapeli tippuu kilpailijan syliin sen jälkeen, kun kilpailija pysäyttää ajastimen, tämä katsotaan pulmapeliin koskemiseksi.
 - A7c+) [LISÄYS] Jos kilpailijan allekirjoittama tulos todetaan vaillinaiseksi tai lukukelvottomaksi, pitäisi se tulkita huonoimmalla kohtuullisella tavalla (esim. "1:05" on 1:05.99, "25.X3" on 25.73 jos X voisi olla joko 1 tai 7). Koska Stackmat-ajastin näyttää ajan X:0Y.ss muodossa X:Y.ss, puuttuvaa kymmenlukua tulisi pitää todennäköisempänä kuin puuttuvaa ykköslukua (esim. "1:2.27" on 1:02.27). Tuomaria, joka allekirjoitti epäselvän tuloksen, voidaan pyytää selventämään se, tulosten tallentajan harkinnan mukaan.
-- A7c4+) [LISÄYS] Tuomari tai kilpailija voi lisätä tulosten tallentajan havaitseman puuttuvan allekirjoituksen ennen kilpailun päättymistä, WCA-delegaatin harkinnan mukaan.
 - A7g+) [ESIMERKKI] Esimerkkejä poikkeustilanteista, jotka voisivat johtaa ylimääräisen ratkaisuyrityksen myöntämiseen uudelle kilpailijalle: vihreän valon odottamatta jättäminen, ajastimen käynnistäminen tai pysäyttäminen sääntöjen vastaisesti, tarkasteluvaiheen aikarajan ylittäminen, koska kilpailija käsitti väärin kuinka ratkaisuyritys aloitetaan, muut menettelytapoihin liittyvät aikarangaistukset.
 - A7g++) [SELVENNYS] Uusien kilpailijoiden yksittäisiä rangaistuksia ei saa jättää huomiotta, vaan sen sijaan täytyy myöntää ylimääräinen ratkaisuyritys.
 - A7g+++) [SUOSITUS] WCA-delegaatin pitäisi käyttää vahvempaa harkintaa myöntäessään useamman kuin yhden ylimääräisen ratkaisuyrityksen samalle uudelle kilpailijalle. Jos useampi kuin yksi ylimääräinen ratkaisuyritys myönnetään, pitäisi niiden olla eri poikkeustilanteista.
