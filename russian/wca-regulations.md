@@ -11,9 +11,9 @@
 
 Некоторые термины были намеренно не переведены, потому что в русском языке нет соответствующих слов, или потому, что даже на российских соревнованиях используются английские названия. К ним относятся: скрамблёр (человек, который перемешивает головоломки), Square-1, Clock (названия головоломок), и т. д.
 
-Перевод осуществляли: [Антон Ростовиков](https://worldcubeassociation.org/results/p.php?i=2009ROST01), [Олег Гриценко](https://worldcubeassociation.org/results/p.php?i=2011GRIT01).
+Перевод осуществляли: [Антон Ростовиков](https://www.worldcubeassociation.org/persons/2009ROST01), [Олег Гриценко](https://worldcubeassociation.org/results/p.php?i=2011GRIT01).
 
-Перевод корректировали: [Оксана Рузаева](https://worldcubeassociation.org/results/p.php?i=2010RUZA01), [Антон Горячих](https://worldcubeassociation.org/results/p.php?i=2009GORY01), [Дмитрий Анискин](https://worldcubeassociation.org/results/p.php?i=2011ANIS01), [Николай Массон](https://worldcubeassociation.org/results/p.php?i=2011MASS01), [Тимофей Вихрянов](https://worldcubeassociation.org/results/p.php?i=2019VIKH01), [Екатерина Канева](https://worldcubeassociation.org/results/p.php?i=2018KANE03), [Александр Катюков](https://worldcubeassociation.org/results/p.php?i=2015KATY01).
+Перевод корректировали: [Оксана Рузаева](https://www.worldcubeassociation.org/persons/2010RUZA01), [Антон Горячих](https://www.worldcubeassociation.org/persons/2009GORY01), [Дмитрий Анискин](https://www.worldcubeassociation.org/persons/2011ANIS01), [Николай Массон](https://www.worldcubeassociation.org/persons/2011MASS01), [Тимофей Вихрянов](https://www.worldcubeassociation.org/persons/2019VIKH01), [Екатерина Канева](https://www.worldcubeassociation.org/persons/2018KANE03), [Александр Катюков](https://www.worldcubeassociation.org/persons/2015KATY01).
 
 ### Положения WCA и Дополнения к Положениям WCA
 
