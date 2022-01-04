@@ -1,6 +1,6 @@
 # <wca-title>Reglamento WCA (Español Americano)
 
-<version> Versión: 1 de mayo de 2021
+<version> Versión: 1 de enero de 2022
 
 
 ## Notas
@@ -77,7 +77,7 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
 - 2g) Los competidores deben permanecer tranquilos cuando estén dentro del área de competición. Hablar está permitido, pero debe mantenerse a un volumen razonable, y lejos de los competidores que estén compitiendo activamente.
     - 2g3) Los competidores no deben hablar en el Zona de Espera para Competidores acerca del estado inicial del puzzle de la ronda actual. Penalización: descalificación del/los competidor/es del evento, a discreción del Delegado de la WCA.
 - 2h) Los competidores deberán estar completamente vestidos mientras estén en el local de la competición. A discreción del Delagado de la WCA, un competidor puede ser descalificado de la competición por usar una vestimenta inapropiada.
-- 2i) Mientras compite, un competidor no puede usar auriculares ni otros aparatos electrónicos (p.ej. teléfonos móviles, reproductores MP3, iluminación adicional), aparte del timer Stackmat o cronómetro.
+- 2i) Mientras se encuentre en la fase de inspección o en la fase de resolución, un competidor no puede usar auriculares ni otros aparatos electrónicos (p.ej. teléfonos móviles, reproductores MP3, iluminación adicional), aparte del timer Stackmat o cronómetro.
     - 2i1) Los competidores pueden utilizar determinados dispositivos no-electrónicos mientras éstos no le den una ventaja injusta, a discreción del Delegado de la WCA. Esto incluye:
         - 2i1a) Ayudas médicas/físicas que el competidor traiga puestas (p.ej. lentes, muñequeras) Como una excepción a la [Regla 2i](regulations:regulation:2i), las ayudas médicas pueden ser electrónicas si el competidor no tiene ninguna alternativa cómoda que no sea electrónica (p.ej. si el competidor tiene un aparato que lo ayuda a escuchar o un marcapasos).
         - 2i1b) Tapones para los oídos y orejeras (a excepción de auriculares con cancelación electrónica de ruido).
@@ -87,10 +87,11 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
         - 2i2a) Las pantallas de las cámaras deben estar en blanco o fuera de la vista del competidor (ver [Regla A5b](regulations:regulation:A5b)).
         - 2i2b) El competidor no debe interactuar con (p.ej. operar, sostener, traer puesta) ninguna cámara que se encuentre activa. Excepción: el competidor puede traer puesta una cámara si está montada en su cabeza, siempre y cuando esté fuera de su vista y sea claro que no existe ningún tipo de interacción con ésta (además de tenerla puesta).
     - 2i3) El competidor puede tener un teléfono celular en su bolsillo, siempre y cuando quede claro que no está interactuando con él.
+    - 2i4) Mientras compiten, los competidores deberían desactivar todas las notificaciones del teléfono móvil, para evitar molestar al resto de los competidores.
 - 2j) El delegado de la WCA puede descalificar a un competidor de un evento en concreto.
     - 2j1) Si un competidor es descalificado de un evento por cualquier motivo, no tendrá la opción de realizar ningún intento más en dicho evento.
         - 2j1a) Si antes de ser descalificado, el competidor ya ha realizado por lo menos un intento en la ronda, los resultados de todos los intentos restantes son registrados como DNF. Si el competidor no ha realizado ningún intento (p.ej. no tiene resultados o solo tiene DNS), no se registra ningún resultado.
-    - 2j2) Si un competidor es descalificado en el transcurso de un evento, sus intentos anteriores seguirán siendo válidos. Excepción: hacer trampa (ver [Regla 2k2a](regulations:regulation:2k2a)).
+    - 2j2) Si un competidor es descalificado en el transcurso de un evento, sus intentos que ya estaban terminados en el momento en que fue descalificado, seguirán siendo válidos. Excepción: trampa o fraude (ver [Regla 2k2a](regulations:regulation:2k2a)).
 - 2k) A discreción del Delegado de la WCA, un competidor puede ser descalificado de algunos eventos (un sólo evento, múltiples eventos, o todos los eventos) si el competidor:
     - 2k1) No se registra o no aparece a tiempo para la competición.
     - 2k2) Es sospechoso de hacer trampa o de estafar a los miembros oficiales durante la competición.
@@ -104,11 +105,12 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
 - 2n) Los competidores pueden discutir verbalmente la aplicación de una regla con el delegado de la WCA.
     - 2n1) Las discusiones sólo se permiten durante la competición, a menos de 30 minutos desde que ocurrió el incidente que se discute y antes de que comience la siguiente ronda del evento.
     - 2n2) El Delegado de la WCA debe resolver la discusión antes de que empiece la siguiente ronda del evento.
-    - 2n3) El competidor debe aceptar la decisión final tomada por el delegado de la WCA. Penalización: Descalificación de la competición.
+    - 2n3) El competidor debe aceptar la decisión final tomada por el delegado de la WCA. Penalización: descalificación de la competición.
 - 2s) Los competidores con discapacidades que puedan impedirles atenerse a las reglas de la WCA pueden solicitar adaptaciones especiales al Delegado de la WCA. Los competidores que requieran estas adaptaciones deben ponerse en contacto con el equipo organizador y el Delegado de la WCA al menos dos semanas antes de la competición.
 - 2t) Todos los competidores deben entender y estar familiarizados con el reglamento de la WCA antes de la competición.
 - 2u) Los competidores deben estar presentes y listos para competir cuando se les llama para competir en un intento. Penalización: descalificación del evento.
-    - 2u1) Excepción: Un competidor que no esté presente a tiempo para un intento programado (p.ej. un intento de Resolución en menos movimientos o un intento de Resolución de Múltiples cubos a ciegas) puede considerarse como que desistió del intento (DNS), a discreción del Delegado de la WCA.
+    - 2u1) Excepción: un competidor que no esté presente a tiempo para un intento programado (p.ej. un intento de Resolución en menos movimientos o un intento de Resolución de Múltiples cubos a ciegas) puede considerarse como que desistió del intento (DNS), a discreción del Delegado de la WCA.
+    - 2u2) Excepción: para las rondas con tiempo límite acumulativo, un competidor que llega tarde puede competir con un tiempo límite acumulativo menor, a discreción del Delegado de la WCA.
 
 
 ## <article-3><puzzles><puzzles> Artículo 3: Puzzles
@@ -198,12 +200,13 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
 - 7e) El área de la competición debe ser un lugar libre de humo.
 - 7f) Estación de resolución:
     - 7f1) Definiciones:
-        - 7f1a) Stackmat: El cronómetro de Speedstacks y un tapete compatible con el cronómetro. Se debe usar un cronómetro de Speedstacks Generación 2, 3 Pro y/o 4 Pro para tomar los tiempos de resolución.
+        - 7f1a) Stackmat: El cronómetro de Speedstacks y un tapete compatible con el cronómetro. Se debe usar un cronómetro de Speedstacks Generación 2, 3 Pro, 4 Pro y/o Generación 5 Pro para tomar los tiempos de resolución.
         - 7f1b) Mat: Tapete del Stackmat.
         - 7f1c) Cronómetro: Cronómetro del Stackmat, o un cronómetro de mano (para intentos más largos).
         - 7f1d) Superficie: La superficie plana en la que el Stackmat ha sido colocado. El tapete se considera parte de la superficie. El cronómetro, no.
     - 7f2) El cronómetro debe estar unido al tapete y colocado en la superficie, con el cronómetro en el lado del tapete más cercano al competidor.
     - 7f3) El equipo organizador debería modificar los cronómetros Stackmat para que sean más robustos contra incidentes comunes, haciendo que los botones sean más difíciles de apretar por accidente (p.ej. pegando anillos alrededor de los botones) y asegurando las baterías para que no se muevan (p.ej. rellenando el compartimiento de las baterías).
+    - 7f4) Los cronómetros Generación 5 Pro deben ser utilizados en el modo de 2 sensores.
 - 7h) El área de la competición debe tener una o más zonas para competidores (reemplazada por la [Regla Y6a](regulations:regulation:Y6a)).
     - 7h1) El equipo de organizadores puede requerir que los competidores que hayan sido llamados para competir se queden dentro del Zona de Espera para Competidores hasta que terminen todos los intentos de la ronda.
     - 7h2) Definición: una Zona de Espera para Competidores es un lugar en el cual los competidores de un grupo esperan a ser llamados para ir a una estación de resolución.
@@ -378,7 +381,7 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
 - A3) Inspección:
     - A3a) El competidor puede inspeccionar el puzzle al principio de cada intento.
         - A3a1) El competidor tiene un máximo de 15 segundos para inspeccionar el puzzle y comenzar la solución.
-    - A3b) El juez prepara el cronómetro, lo prende o lo resetea de ser necesario. A su vez, el juez prepara el cronómetro de mano para contar el tiempo de inspección (parcialmente reemplazado por la [Regla Y7d1](regulations:regulation:Y7d1)).
+    - A3b) El juez prepara el cronómetro, lo prende o lo resetea según sea necesario. Si se está utilizando un cronómetro Generación 5 Pro, el juez debe asegurarse de que está configurado en el modo de 2 sensores. A su vez, el juez prepara el cronómetro de mano para contar el tiempo de inspección (parcialmente reemplazado por la [Regla Y7d1](regulations:regulation:Y7d1)).
         - A3b1) Cuando el juez cree que el competidor ya está preparado, pregunta “¿PREPARADO?” o “¿LISTO?”. El competidor debe estar listo para empezar el intento antes de que pase un minuto después de que se le pregunte si está listo, de lo contrario el competidor pierde el intento (DNS), a discreción del juez.
         - A3b2) El competidor comienza su intento al confirmar que está preparado, el juez descubre el puzzle y empieza a contar el tiempo de inspección en el cronómetro de mano.
     - A3c) El competidor puede tomar el puzzle durante el tiempo de inspección.
