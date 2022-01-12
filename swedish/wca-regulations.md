@@ -1,6 +1,6 @@
 # <wca-title>WCA-Regler
 
-<version>Version: 1:a maj 2021
+<version>Version: 1:a januari 2022
 
 
 ## Noteringar
@@ -63,7 +63,7 @@ OBS: Eftersom Artikel- och Regelnummer inte omfördelas när Regler raderas kan 
 - 2a) Vem som helst får tävla i en WCA-tävling om de (kompletteras med [Regel Y3](regulations:regulation:Y3)):
     - 2a1) Följer WCA-Reglerna.
     - 2a2) Uppfyller tävlingskraven, som måste meddelas tydligt före tävlingen.
-    - 2a3) Inte är avstängda av WCA:s styrelse.
+    - 2a3) Inte är avstängda av WCA:s Styrelse.
 - 2b) Tävlande under 18 år måste ha tillåtelse från föräldrar/vårdnadshavare för att registrera sig och tävla.
 - 2c) Tävlande registrerar sig genom att tillhandahålla all information som krävs av arrangörsteamet (inklusive: namn, land, födelsedatum, kön, kontaktinformation, valda grenar).
     - 2c1) En tävlande är inte berättigad att tävla utan en fullbordad registrering, enligt arrangörsteamets instruktioner.
@@ -77,7 +77,7 @@ OBS: Eftersom Artikel- och Regelnummer inte omfördelas när Regler raderas kan 
 - 2g) Tävlande måste vara tysta när de befinner sig i det avsedda tävlingsområdet. Att prata är tillåtet, men måste hållas på en rimlig nivå och borta från tävlande som aktivt tävlar.
     - 2g3) Tävlande i ett väntområde får inte kommunicera med varandra om blandningarna i den pågående omgången. Straff: diskvalificering av den/de tävlande från grenen, enligt WCA-Delegatens bedömning.
 - 2h) Tävlande måste vara fullt påklädda när de är i tävlingslokalen. Enligt WCA-Delegatens bedömning får tävlande diskvalificeras från tävlingen för olämplig klädsel.
-- 2i) Under tävlan får tävlande inte använda elektronik eller ljudutrustning (t.ex. mobiltelefoner, MP3-spelare, diktafoner, ytterligare belysning) förutom Stackmat-timern eller stoppuret.
+- 2i) Under inspektion eller lösning får tävlande inte använda elektronik eller ljudutrustning (t.ex. mobiltelefoner, MP3-spelare, diktafoner, ytterligare belysning) förutom Stackmat-timern eller stoppuret.
     - 2i1) Tävlande får använda icke-elektroniska hjälpmedel som inte ger en orättvis fördel, enligt WCA-Delegatens bedömning. Detta inkluderar:
         - 2i1a) Medicinska/fysiska hjälpmedel som bärs av den tävlande (t.ex. glasögon, handledsstöd). Som undantag från [Regel 2i](regulations:regulation:2i), får medicinska hjälpmedel vara elektroniska om den tävlande inte har bekväma icke-elektroniska alternativ (t.ex. om den tävlande har en personlig hörapparat eller pacemaker).
         - 2i1b) Öronproppar och öronskydd (men inte elektroniska hörlurar och öronsnäckor).
@@ -87,10 +87,11 @@ OBS: Eftersom Artikel- och Regelnummer inte omfördelas när Regler raderas kan 
         - 2i2a) Varje kameraskärm måste vara avstängd eller utom synhåll för den tävlande (se [Regel A5b](regulations:regulation:A5b)).
         - 2i2b) Den tävlande får inte interagera med (t.ex. använda, hålla i, ha på sig) någon aktiv kamera. Undantag: den tävlande får bära en kamera monterad på huvudet, så länge den är utom synhåll och det är tydligt att de inte interagerar med den (förutom att ha den på sig).
     - 2i3) Den tävlande får ha en mobiltelefon i fickan, så länge det är tydligt att hen inte annars interagerar med den.
+    - 2i4) Tävlande bör stänga av alla mobil-notifikationer under tävlan för att undvika att störa tävlingen.
 - 2j) WCA-Delegaten får diskvalificera en tävlande från en specifik gren.
     - 2j1) Om en tävlande av någon anledning diskvalificeras från en gren, är hen inte berättigade till fler försök i grenen.
         - 2j1a) Om den tävlande redan har startat minst ett försök i en omgång innan hen diskvalificeras från det, registreras resultaten av alla återstående försök i grenen som DNF. Om den tävlande inte har startat några försök (dvs. inte har några resultat eller bara har DNS-resultat) registreras inga resultat.
-    - 2j2) Om en tävlande diskvalificeras under en gren förblir tidigare resultat giltiga. Undantag: fusk eller bedrägeri (se [Regel 2k2a](regulations:regulation:2k2a)).
+    - 2j2) Om en tävlande diskvalificeras under en gren ska resultat från försök som redan avslutats när den tävlande blir diskvalificerad förbli giltiga. Undantag: fusk eller bedrägeri (se [Regel 2k2a](regulations:regulation:2k2a)).
 - 2k) Enligt WCA-Delegatens bedömning får en tävlande diskvalificeras från grenar (en gren, flera grenar, eller alla grenar) om den tävlande:
     - 2k1) Inte checkar in eller registrerar sig i tid för tävlingen.
     - 2k2) Misstänks ha fuskat eller bedragit funktionärerna under tävlingen.
@@ -109,6 +110,7 @@ OBS: Eftersom Artikel- och Regelnummer inte omfördelas när Regler raderas kan 
 - 2t) Varje tävlande måste vara bekant med och förstå WCA-Reglerna före tävlingen.
 - 2u) Tävlande måste vara närvarande och redo att tävla när de kallas att tävla. Straff: diskvalificering från grenen.
     - 2u1) Undantag: En tävlande som inte är närvarande i tid för ett individuellt schemalagt försök (t.ex. ett försök av 3x3x3 Minst Antal Drag, eller 3x3x3 Multi-Blind) kan anses ha avböjt att genomföra försöket (DNS), enligt WCA-Delegatens bedömning.
+    - 2u2) Undantag: För omgångar med en kumulativ tidsgräns får en tävlande som anländer sent tävla med en reducerad kumulativ tidsgräns, enligt WCA-delegatens bedömning.
 
 
 ## <article-3><puzzles><puzzles> Artikel 3: Pussel
@@ -158,7 +160,7 @@ OBS: Eftersom Artikel- och Regelnummer inte omfördelas när Regler raderas kan 
         - 4b3b) 2x2x2: det (slumpmässiga) tillståndet måste kräva minst 4 drag för att lösa.
         - 4b3c) Skewb: det (slumpmässiga) tillståndet måste kräva minst 7 drag för att lösa.
         - 4b3d) Square-1: det (slumpmässiga) tillståndet måste kräva minst 11 drag för att lösa.
-        - 4b3e) 5x5x5, 6x6x6, 7x7x7, och Megaminx: tillräckligt många slumpmässiga drag (istället för slumpmässigt tillstånd), minst 2 drag att lösa.
+        - 4b3e) 5x5x5, 6x6x6, 7x7x7, och Megaminx: tillräckligt många slumpmässiga drag (i stället för slumpmässigt tillstånd), minst 2 drag att lösa.
         - 4b3f) Pyraminx: det (slumpmässiga) tillståndet måste kräva minst 6 drag för att lösa.
     - 4b4) Varje blandningssekvens bör tillämpas inom en maximal tidsram på 2 timmar. Denna tidsram börjar när blandningssekvensen tillämpas för första gången.
 - 4d) Orientering vid blandning:
@@ -198,12 +200,13 @@ OBS: Eftersom Artikel- och Regelnummer inte omfördelas när Regler raderas kan 
 - 7e) Tävlingsområdet måste vara rökfritt.
 - 7f) Lösningsstationer:
     - 7f1) Definitioner:
-        - 7f1a) Stackmat: Speed Stacks Stackmat-timer och en kompatibel matta i full storlek. Generation 2, Generation 3 Pro Timer och/eller Generation 4 Pro Timer måste användas för tidtagning.
+        - 7f1a) Stackmat: Speed Stacks Stackmat-timer och en kompatibel matta i full storlek. Generation 2, Generation 3 Pro Timer, Generation 4 Pro Timer och/eller Generation 5 Pro Timer måste användas för tidtagning.
         - 7f1b) Matta: Stackmatmattan.
         - 7f1c) Timer: Stackmat-timern eller ett stoppur (för längre försök).
         - 7f1d) Ytan: Den plana ytan som Stackmat har placerats på. Mattan anses vara en del av ytan. Timern anses inte vara en del av ytan.
     - 7f2) Stackmat-timern måste fästas på mattan och placeras på ytan, med timern på sidan av mattan närmast den tävlande.
     - 7f3) Arrangörsteamet bör modifiera Stackmat-timers så att de blir mer robusta mot vanliga incidenter, genom att göra knapparna svårare att trycka på av misstag (t.ex. genom att fästa O-ringar runt knapparna) och fästa batteriet bättre (t.ex. genom att stoppa batterifacket med något).
+    - 7f4) Generation 5 Pro Timer måste vara i 2-pad-läge.
 - 7h) Tävlingsområdet måste ha ett eller flera väntområden för tävlande ([Regel Y6a](regulations:regulation:Y6a) har högre prioritet).
     - 7h1) Arrangörsteamet får kräva att en tävlande som har blivit kallad att tävla måste förbli inom sitt tilldelade väntområde tills den tävlande har avslutat alla försök för omgången.
     - 7h2) Definition: Ett väntområde är ett område där tävlande i en grupp väntar på att bli kallade till en lösningsstation.
@@ -379,7 +382,7 @@ OBS: Eftersom Artikel- och Regelnummer inte omfördelas när Regler raderas kan 
 - A3) Inspektion:
     - A3a) Den tävlande får inspektera pusslet vid början av varje försök.
         - A3a1) Den tävlande har maximalt 15 sekunder på sig att inspektera pusslet och starta lösningen.
-    - A3b) Domaren förbereder timern genom att sätta på den och nollställa den vid behov. Separat förbereder domaren också ett stoppur för att ta tiden på inspektion ([Regel Y7d1](regulations:regulation:Y7d1) har högre prioritet).
+    - A3b) Domaren förbereder timern genom att sätta på den och nollställa den vid behov. Om en Generation 5 Pro Timer används måste domaren säkerställa att den är i 2-pad-läge. Separat förbereder domaren också ett stoppur för att ta tiden på inspektion ([Regel Y7d1](regulations:regulation:Y7d1) har högre prioritet).
         - A3b1) När domaren tror att den tävlande är redo frågar domaren "READY?". Den tävlande måste vara redo att starta försöket inom en minut från det att hen blir ombedd, annars anses försöket förbrukat (DNS), enligt domarens bedömning.
         - A3b2) Den tävlande startar försöket med att bekräfta att hen är redo, och domaren avtäcker pusslet och börjar tidtagningen av inspektionen.
     - A3c) Den tävlande får plocka upp pusslet under inspektionen.
@@ -409,7 +412,7 @@ OBS: Eftersom Artikel- och Regelnummer inte omfördelas när Regler raderas kan 
     - A6b) Den tävlande är ansvarig för att stoppa Stackmat-timern på ett korrekt sätt.
         - A6b1) Om timern stannar innan den tävlande har löst pusslet och timern visar en tid som är strikt under 0,06 sekunder, ersätts försöket med ett extra försök. Rätten till ett extra försök går förlorad om WCA-Delegaten bedömer att timern stoppades medvetet.
         - A6b2) Om timern stannar innan den tävlande har löst pusslet, och visar en tid på 0,06 sekunder eller högre, diskvalificeras försöket (DNF). Undantag: om den tävlande kan visa att timern inte fungerade får hen bli tilldelad ett extra försök, enligt WCA-Delegatens bedömning.
-    - A6c) Den tävlande måste helt släppa pusslet innan timern stoppas. Straff: diskvalificering av försöket (DNF). Undantag: Om inga drag har gjorts efter att timern har stoppats och innan pusslet släppts, får ett tidsstraff (+2 sekunder) tilldelas istället, enligt domarens bedömning.
+    - A6c) Den tävlande måste helt släppa pusslet innan timern stoppas. Straff: diskvalificering av försöket (DNF). Undantag: Om inga drag har gjorts efter att timern har stoppats och innan pusslet släppts, får ett tidsstraff (+2 sekunder) tilldelas i stället, enligt domarens bedömning.
     - A6d) Den tävlande måste stoppa timern med båda händerna, platt placerade på sensorerna med handflatorna nedåt. Straff: tidsstraff (+2 sekunder).
     - A6e) Efter att ha stoppat timern får den tävlande inte röra pusslet eller göra drag förrän domaren har inspekterat pusslet.
         - A6e1) Straff för att göra ett drag på pusslet efter att ha stoppat timern: diskvalificering av försöket (DNF).
@@ -448,7 +451,7 @@ OBS: Eftersom Artikel- och Regelnummer inte omfördelas när Regler raderas kan 
     - B2d) Den tävlande startar försöket genom att ta bort händerna från timern och därmed starta timern. (Detta startar också lösningen.)
         - B2d1) Den tävlande tar bort pusslets cube cover efter att ha startat timern.
     - B2e) Om ett stoppur används utöver en Stackmat-timer, startar domaren stoppuret så snart den tävlande startar lösningen.
-    - B2f) Om ett stoppur används som enda tidtagning placerar den tävlande händerna på bordet (istället för på Stackmat-timern). Efter att ha bekräftat att hen är redo startar den tävlande lösningen genom att lyfta pusslets cube cover. Domaren startar stoppuret så snart den tävlande startar lösningen.
+    - B2f) Om ett stoppur används som enda tidtagning placerar den tävlande händerna på bordet (i stället för på Stackmat-timern). Efter att ha bekräftat att hen är redo startar den tävlande lösningen genom att lyfta pusslets cube cover. Domaren startar stoppuret så snart den tävlande startar lösningen.
 - B3) Memoreringsfas:
     - B3a) Den tävlande får plocka upp pusslet under memoreringsfasen.
     - B3b) Den tävlande får inte göra fysiska anteckningar. Straff: diskvalificering av försöket (DNF).
@@ -525,7 +528,7 @@ OBS: Eftersom Artikel- och Regelnummer inte omfördelas när Regler raderas kan 
     - H1b) Om en tävlande försöker med färre än sex pussel, tilldelas en tidsgräns på 10 minuter gånger antalet pussel i försöket, annars är tidsgränsen 60 minuter.
         - H1b1) Den tävlande får när som helst signalera slutet på lösningen. Om och när tidsgränsen har uppnåtts, stoppar domaren försöket och resultatet beräknas; tidsgränsen för försöket räknas då som den uppmätta tiden.
     - H1d) Tidsstraff för försökets pussel är kumulativa.
-    - H1e) Den tävlande får inte göra några drag på ett eller flera pussel under memoreringsfasen. Straff: diskvalificering av försöket (DNF). Undantag: dessa enskilda pussel får anses vara olösta i slutet av försöket istället för att diskvalificera hela försöket, enligt WCA-Delegatens bedömning.
+    - H1e) Den tävlande får inte göra några drag på ett eller flera pussel under memoreringsfasen. Straff: diskvalificering av försöket (DNF). Undantag: dessa enskilda pussel får anses vara olösta i slutet av försöket i stället för att diskvalificera hela försöket, enligt WCA-Delegatens bedömning.
 - H2) Den tävlande får själv tillhandahålla ett platt underlag (t.ex. en matta eller en tygbit) för ytan, enligt WCA-Delegatens bedömning. Om den tävlande vill göra det måste begäran göras samtidigt som antalet pussel meddelas (se [Regel H1a](regulations:regulation:H1a)).
 
 
