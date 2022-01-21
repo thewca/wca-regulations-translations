@@ -1,6 +1,6 @@
 # <wca-title>Directrices WCA
 
-<version>Versión: 1 de mayo de 2021
+<version>Versión: 1 de enero de 2022
 
 
 ## Notas
@@ -36,7 +36,7 @@ En pro de la claridad, cada Directriz se clasifica usando una de las siguientes 
 - 1c++) [ACLARACIÓN] Los Delegados de la WCA pueden asistir a una competición sin ser designados para servir como Delegado de la WCA. "El Delegado de la WCA" no se refiere a ellos a no ser que se les asigne una responsabilidad relevante por un Delegado designado para la competición (ver [Directriz 1c+](guidelines:guideline:1c+)).
 - 1h+) [RECOMENDACIÓN] Los competidores del mismo grupo deben usar las mismas secuencias de mezcla. Diferentes grupos deben usar diferentes secuencias de mezcla.
 - 1h++) [RECOMENDACIÓN] Todos los intentos en la ronda final de un evento, así como todos los intentos de Resolución en Menos Movimientos, deben tener las mismas secuencias de mezclas para todos los competidores (p.ej. sólo 1 grupo).
-- 1h1+) [ACLARACIÓN] Los mezcladores/jueces deberían mezclar/juzgar a otros competidores de su mismo grupo sólo si es importante para la logística de la competición.
+- 1h1+) [ACLARACIÓN] Los mezcladores/jueces deberían mezclar/juzgar a otros competidores de su mismo grupo si es de importancia para la logística de la competición.
 - 1h1++) [ACLARACIÓN] Para la resolución del Cubo 3x3x3 en Menos Movimientos, los jueces pueden juzgar a los competidores de su mismo grupo antes de terminar su intento (p.ej. mientras están compitiendo).
 
 
@@ -58,6 +58,7 @@ En pro de la claridad, cada Directriz se clasifica usando una de las siguientes 
 - 2j2+) [EJEMPLO] Por ejemplo, si un competidor es descalificado de un evento por no presentarse a la ronda final, sus resultados de rondas anteriores siguen siendo válidos.
 - 2k6+) [ACLARACIÓN] Los delegados de la WCA solo deberían utilizar su discreción para prevenir que los competidores perjudiquen severamente a la competición (p.ej. gastando tiempo y/o recursos de la competición). Los competidores no deberían ser descalificados por resultados "malos" cuando están compitiendo con lo mejor de sí.
 - 2s+) [RECORDATORIO] Las adaptaciones especiales deben ser anotadas en el Informe del Delegado.
+- 2u1+) [ADICIÓN] El competidor puede competir a discreción del Delegado de la WCA. El Delegado de la WCA debe considerar cuidadosamente si permitírselo es justo o no.
 
 
 ## <article-3><puzzles><puzzles> Artículo 3: Puzzles
@@ -70,8 +71,10 @@ En pro de la claridad, cada Directriz se clasifica usando una de las siguientes 
 - 3h+) [ACLARACIÓN] Los puzzles pueden ser refinados internamente, siendo lijados o lubricados o modificándolos para que sean más estables (p.ej agregando imanes).
 - 3h++) [EJEMPLO] Los ejemplos de mejoras incluyen: posibilidad de nuevos movimientos, imposibilidad de movimientos normales, más piezas o caras visibles, colores visibles en la parte trasera del cubo, movimientos automáticos, o el puzzle tiene más/diferentes estados resueltos.
 - 3h2++) [ACLARACIÓN] Los puzzles "stickerless" que sean muy diferentes a la mayoría de aquellos que son producidos en masa, sólo serán permitidos a discreción del Delegado de la WCA.
+- 3h2a+) [ADICIÓN] Ejemplos de partes transparentes que no revelan más información acerca del estado del puzzle: partes internas del mecanismo del puzzle, estructura transparente del Clock.
 - 3j+) [RECORDATORIO] En el pasado, partes gravadas o en relieve han sido admitidas. Pero esto ya no se permite.
 - 3j++) [ACLARACIÓN] En Clock, los botones pueden diferenciarse de cualquier otro botón en la misma cara.
+- 3j1+) [RECORDATORIO] En Clock, los botones flojos (p.ej. aquellos que pueden pasar de un lado al otro por efecto de la gravedad, sin necesidad de ser apretados directamente) no se consideran dentro de los desgastes permitidos.
 - 3j2+) [ACLARACIÓN] En Clock, las 9 caras internas de los relojes en una mismo lado son consideradas piezas similares.
 - 3k2+) [ADICIÓN] El Delegado de la WCA no debería aplicar una de las excepciones listadas si cree que el competidor trató de usar un puzzle no permitido intencionalmente.
 - 3k2b+) [ACLARACIÓN] Si un puzzle no permitido es encontrado en el transcurso de un intento de Múltiples 3x3x3 a Ciegas, el puzzle no debe ser cambiado o removido del intento y debe ser contado como no resuelto si el intento entero no es descalificado.
@@ -151,7 +154,7 @@ En pro de la claridad, cada Directriz se clasifica usando una de las siguientes 
 - A1a2+) [ADICIÓN] En caso de un tiempo límite acumulativo, el juez registra el tiempo original registrado para un DNF en la hoja de resultados entre paréntesis, por ejemplo "DNF (1:02.27)".
 - A1a2++) [EJEMPLO] Si una ronda tiene un tiempo cumulativo de 30 minutos y los primeros dos resultados del competidor son 6:00 y DNF (10:00), entonces el tiempo límite para el tercer intento es 30:00 - 6:00 - 10:00 = 14:00. Para este ejemplo en particular, tenga en cuenta que solo el resultado final para un intento cuenta. Por lo tanto, un tercer intento con un tiempo original de 13:59 sin penalizaciones, alcanza el tiempo límite porque el tiempo final es 13:59 (ver [Regla 9f2](regulations:regulation:9f2)), mientras que un tercer intento con un resultado de 13:59 + 2 = 14:01 no alcanza el tiempo límite.
 - A1a2+++) [ADICIÓN] Si el resultado para un intento no está disponible (p.ej. si el cronómetro fue reiniciado), el juez debería consultar al Delegado de la WCA y hacer una estimación del tiempo transcurrido en el intento. Esta estimación cuenta para el límite de tiempo, pero no debe ser usada como base de un resultado oficial para el intento individual.
-- A1a3+) [RECORDATORIO] El equipo organizador y el Delegado de la WCA deben ser conscientes de que los límites de tiempo influyen en las estrategias de los competidores (por ejemplo, yendo más rápido en los dos primeros intentos con la esperanza de superar un corte en una ronda combinada), y que cambiar esos límites después del comienzo de la ronda puede perjudicar a algunos competidores injustamente.
+- A1a3+) [RECORDATORIO] El equipo organizador y el Delegado de la WCA deben ser conscientes de que los límites de tiempo influyen en las estrategias de los competidores (por ejemplo, ir más rápido en los dos primeros intentos con la esperanza de superar el corte en una ronda combinada), y que cambiar los límites después del comienzo de la ronda puede perjudicar a algunos competidores injustamente.
 - A1a4+) [RECORDATORIO] Si a un competidor se le ha permitido accidentalmente superar el límite de tiempo, el límite de tiempo debe ser aplicado retroactivamente, y el juez, competidor y Delegado de la WCA deben ser informados (ver [Regla 1g2](regulations:regulation:1g2)). Los jueces deben siempre conocer el tiempo límite del intento en curso, (que podría depender de intentos previos, en caso de un tiempo límite acumulativo).
 - A2c1+) [RECORDATORIO] En el pasado, las tarjetas de resultados se usaban para tapar los puzzles, lo que dejaba algunas caras al descubierto. Esto ya no está permitido.
 - A2d1+) [ADICIÓN] Si se descubre que falta la firma del mezclador antes de un intento, el puzzle debería volver inmediatamente a un mezclador para verificar y firmar como corresponde.
@@ -207,6 +210,7 @@ En pro de la claridad, cada Directriz se clasifica usando una de las siguientes 
 ## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Artículo H: Resolución de Múltiples Cubos a Ciegas
 
 - H1+) [ADICIÓN] Si un puzzle con una mezcla repetida es encontrado durante un intento, el puzzle puede ser re-mezclado usando una secuencia de mezcla diferente, a discreción del Delegado de la WCA.
+- H1b+) [ADICIÓN] A discreción del Delegado de la WCA, un competidor puede unirse a un intento de Múltiples Cubos a Ciegas en curso. En este caso, el tiempo límite será el tiempo restante (p.ej. debe terminar el intento antes de que los demás competidores alcancen su respectivo tiempo límite). Excepción: no se debe permitir que un competidor se una a un intento de Múltiples Cubos a Ciegas en curso si otro competidor ya terminó su intento, o si existe el riesgo de que la mezcla haya llegado a manos del competidor que desea unirse al intento en curso.
 - H1b1+) [RECORDATORIO] El intento no está descalificado por alcanzar el límite de tiempo, excepto en los casos de  Resolución de Múltiples Cubos 3x3x3 a Ciegas (ver [Regla A1a4](regulations:regulation:a1a4) y [Regla A1a5](regulations:regulation:a1a5)).
 - H1b1++) [ADICIÓN] El juez puede permitir al competidor continuar con el intento no oficialmente, pero el intento debe ser parado y juzgado primero, en total acuerdo con las Reglas.
 - H1d+) [EJEMPLO] Ejemplo: Si un competidor intenta 10 cubos, para la solución con un tiempo de 59:57, y tiene dos penalizaciones de tiempo, el resultado final es 59:57 + 2*2= 60:01 (ver también [Regla A1a5](regulations:regulationa1a5)).
