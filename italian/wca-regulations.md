@@ -206,7 +206,7 @@ Nota: potrebbero esserci discrepanze nella numerazione dei vari articoli, visto 
     - 7f3) Il team organizzativo può modificare gli Stackmat per renderli più resistenti ai comuni incidenti legati alla pressione accidentale dei tasti (es. applicare degli anelli di plastica intorno ai pulsanti) e al falso contatto delle batterie (es. coprire l'interno del vano batterie con cuscinetti di gomma).
 - 7h) La competizione deve avere una o più Aree Partecipanti (sostituita da [Regola Y6a](regulations:regulation:Y6a)).
     - 7h1) Il team organizzativo potrebbe chiedere ad un partecipante che è stato chiamato a risolvere di rimanere nella propria Area Partecipanti designata fino a che non abbia completato tutti i suoi tentativi per quel particolare round.
-   - 7h2) Definizione: l'Area Partecipanti (area d'attesa) è l'area nella quale i partecipanti di un gruppo attendono di essere chiamati ad una postazione per la risoluzione.
+    - 7h2) Definizione: l'Area Partecipanti (area d'attesa) è l'area nella quale i partecipanti di un gruppo attendono di essere chiamati ad una postazione per la risoluzione.
 
 
 ## <article-9><events><events> Articolo 9: Eventi
@@ -401,7 +401,7 @@ Nota: potrebbero esserci discrepanze nella numerazione dei vari articoli, visto 
 - A5) Durante la risoluzione:
     - A5a) Durante l'ispezione e la risoluzione del puzzle, il partecipante non deve comunicare con nessuno, fatta eccezione per il giudice e il Delegato WCA. Penalità: annullamento del tentativo (DNF).
     - A5b) Durante l'ispezione e la risoluzione del puzzle, il partecipante non deve ricevere alcun aiuto da persone o oggetti, fatta eccezione per la superficie del tavolo. (vedi anche [Regola 2i](regulations:regulation:2i)). Penalità: annullamento del tentativo (DNF).
-   - A5c) Il partecipante può poggiare il puzzle sulla superficie del tavolo per aiutarsi nell'adoperare il puzzle (vedi [Regola 7f1d](regulations:regulation:7f1d)).
+    - A5c) Il partecipante può poggiare il puzzle sulla superficie del tavolo per aiutarsi nell'adoperare il puzzle (vedi [Regola 7f1d](regulations:regulation:7f1d)).
 - A6) Termine della risoluzione:
     - A6a) Il partecipante termina la risoluzione rilasciando completamente il puzzle e arrestando il timer. Se si utilizza un cronometro a mano, il giudice ferma il cronometro non appena il partecipante poggia le mani sul timer.
         - A6a1) Se si utilizza esclusivamente il cronometro a mano, il partecipante termina la risoluzione rilasciando completamente il puzzle e informando il giudice che ha finito. Il giudice ferma il cronometro non appena il partecipante lo comunica.
@@ -456,7 +456,7 @@ Nota: potrebbero esserci discrepanze nella numerazione dei vari articoli, visto 
     - B3d) Se gli strati del puzzle non sono perfettamente allineati, il partecipante può allinearli, a patto che il disallineamento corretto rientri nei limiti stabili in [Regola 10f](regulations:regulation:10f) (vedi [Regola A3c2](regulations:regulation:A3c2)).
 - B4) Fase a occhi bendati:
     - B4a) Il partecipante deve indossare la benda per iniziare la fase a occhi bendati.
-        - B4a1) Finché non ha effettuato la prima mossa sul puzzle, il partecipante può rimuovere la benda per tornare alla fase di memorizzazione. 
+        - B4a1) Finché non ha effettuato la prima mossa sul puzzle, il partecipante può rimuovere la benda per tornare alla fase di memorizzazione.
     - B4b) Il partecipante non deve applicare nessuna mossa prima di aver correttamente indossato la benda. Penalità: squalifica dal tentativo (DNF).
     - B4c) Non appena il partecipante effettua la prima mossa sul puzzle, il giudice deve assicurarsi che sia presente un oggetto opaco (es. foglio di carta o cartone) interposto tra il volto del partecipante e il puzzle.
         - B4c1) In ogni caso, il partecipante deve indossare la benda in modo che la vista del puzzle sia efficacemente bloccata anche se non ci fosse alcun oggetto opaco interposto tra sè e il puzzle.
@@ -509,7 +509,7 @@ Nota: potrebbero esserci discrepanze nella numerazione dei vari articoli, visto 
 
 - F1) Si applicano le procedure standard, come descritte nell'[Articolo A](regulations:article:A) (Speed Solving). Di seguito sono riportate delle regole aggiuntive che sostituiscono le corrispettive procedure descritte nell'[Articolo A](regulations:article:A).
 - F2) Il giudice posizione il puzzle scombinato sul tappetino in posizione eretta.
-    - F2a) Il team organizzativo può richiedere di utilizzare uno stand per il puzzle per evitare che questo cada prima dell'inizio del tentativo. Se è previsto l'utilizzo degli stand, il team organizzativo deve annunciarlo prima dell'inizio di ciascun round. 
+    - F2a) Il team organizzativo può richiedere di utilizzare uno stand per il puzzle per evitare che questo cada prima dell'inizio del tentativo. Se è previsto l'utilizzo degli stand, il team organizzativo deve annunciarlo prima dell'inizio di ciascun round.
         - F2a1) Il giudice deve rimuovere lo stand dal tappetino non appena il partecipante solleva il puzzle dallo stand.
 - F3) Alla fine della fase di ispezione, il partecipante posiziona il puzzle in posizione verticale. Penalità: squalifica della risoluzione (DNF).
     - F3a) Prima di iniziare la risoluzione, il partecipante non deve modificare la posizione di alcun pin rispetto alla posizione iniziale di scramble. Penalità: squalifica della risoluzione (DNF).
