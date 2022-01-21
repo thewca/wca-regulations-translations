@@ -90,7 +90,7 @@ För att vara mer informativa klassificeras varje Riktlinje med en av följande 
 - 4b2++) [TILLÄGG] Tävlingsarrangörer bör se till att blandare, blandningssekvenser och delvis/helt blandade pussel är visuellt separerade från tävlande (se [Regel A2c](regulations:regulation:A2c)). Blandarna kan till exempel vara placerade bakom en vägg, eller så kan en tillräckligt hög avdelare (t.ex. en kartongskärm placerad runt sidorna av ett bord där blandarna sitter) användas så att de tävlande inte kan se pusslen medan blandarna tillämpa blandningssekvenser.
 - 4b4+) [FÖRTYDLIGANDE] Alla försök som har startats inom tidsramen följer standardlösningsproceduren (dvs. de stoppas inte när tidsramen för den aktuella blandningssekvensen löper ut).
 - 4d+) [FÖRTYDLIGANDE] Vissa pussel använder standardfärgscheman, förutom att vitt ersatts med svart. I detta fall är svart den mörkaste färgen och får inte behandlas som vit.
-- 4d++] [TILLÄGG] Det är tillåtet för pusslet att ändra orientering när det flyttas från blandare till lösningsstationen, så länge ingen försöker påverka slumpmässigheten i orienteringen (se [Regel A2e1](regulations:regulation:A2e1)).
+- 4d++) [TILLÄGG] Det är tillåtet för pusslet att ändra orientering när det flyttas från blandare till lösningsstationen, så länge ingen försöker påverka slumpmässigheten i orienteringen (se [Regel A2e1](regulations:regulation:A2e1)).
 - 4f+) [REKOMMENDATION] WCA-Delegaten bör generera tillräckligt många blandningssekvenser för hela tävlingen i förväg, inklusive extra blandningssekvenser för extra försök.
 - 4f++) [PÅMINNELSE] Om WCA-Delegaten genererar ytterligare blandningssekvenser under tävlingen, måste blandningssekvenserna sparas.
 
