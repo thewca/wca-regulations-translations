@@ -463,7 +463,7 @@ OBS: Eftersom Artikel- och Regelnummer inte omfördelas när Regler raderas kan 
     - B4b) Den tävlande får inte göra drag på pusslet innan hen helt har tagit på ögonbindeln. Straff: diskvalificering av försöket (DNF).
     - B4c) Så snart den tävlande gör det första draget på pusslet måste domaren se till att det finns en synblockerare (t.ex. ett pappersark eller kartongbit) mellan den tävlandes ansikte och pusslet.
         - B4c1) Den tävlande måste alltid ha på sig ögonbindeln på ett sådant sätt att synen av pusslet tydligt skulle blockeras även om inte synblockeraren var i vägen.
-        - B4c3) Om domaren och den tävlande kommer överens om det i förväg får den tävlande välja att själv placera pusslet bakom ett lämpligt objekt (t.ex. ett notställ eller bordets yta) under blindfasen. 
+        - B4c3) Om domaren och den tävlande kommer överens om det i förväg får den tävlande välja att själv placera pusslet bakom ett lämpligt objekt (t.ex. ett notställ eller bordets yta) under blindfasen.
     - B4d) Den tävlande får inte titta på pusslet någon gång under blindfasen. Straff: diskvalificering av försöket (DNF).
 - B5) Avsluta lösningen:
     - B5a) När en Stackmat-timer används avslutar den tävlande lösningen genom att släppa pusslet och sedan stoppa timern.
