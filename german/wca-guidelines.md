@@ -32,7 +32,7 @@ Jede Richtlinie ist einer der folgenden Disziplinen zugeordnet. Diese Beschriftu
 ## <article-1><officials><officials> Abschnitt 1: Offizielle Organe
 
 - 1c+) [Erklärung] "Der WCA-Delegierte" bezieht sich auf alle WCA-Delegierten, die bei einem Wettbewerb die Rolle des WCA-Delegierten innehaben. Außerdem bezieht “der WCA-Delegierte” sich auf jeden, dem von einem WCA-Delegierten eine relevante Verantwortlichkeit eines WCA-Delegierten für den Wettbewerb übertragen wurde.
-- 1c++) [Erklärung] WCA-Delegierte können an einem Wettbewerb teilnehmen, ohne notwendigerweise die Rolle eines WCA-Delegierten bei diesem Wettbewerb auszuüben. “Der WCA-Delegierte” bezieht sich nicht auf sie, sofern sie nicht eine relevante Verantwortung von einem WCA-Delegierten für den Wettbewerb erhalten haben. 
+- 1c++) [Erklärung] WCA-Delegierte können an einem Wettbewerb teilnehmen, ohne notwendigerweise die Rolle eines WCA-Delegierten bei diesem Wettbewerb auszuüben. “Der WCA-Delegierte” bezieht sich nicht auf sie, sofern sie nicht eine relevante Verantwortung von einem WCA-Delegierten für den Wettbewerb erhalten haben.
 - 1h+) [Empfehlung] Teilnehmer in derselben Gruppe sollten die gleichen Scrambles verwenden, und verschiedene Gruppen sollten verschiedene Scrambles verwenden.
 - 1h++) [Empfehlung] Alle Versuche in der Finalrunde einer Disziplin sollten, ebenso wie alle Versuche in Fewest Moves, die gleichen Scrambles für alle Teilnehmer nutzen (d.h. nur aus einer Gruppe bestehen).
 - 1h1+) [Erklärung] Scrambler/Judges sollten nur in ihrer eigenen Gruppe scramblen oder judgen, wenn es für den Ablauf des Turniers notwendig ist.
@@ -138,7 +138,7 @@ Jede Richtlinie ist einer der folgenden Disziplinen zugeordnet. Diese Beschriftu
 - 11e+) [Erklärung] Da eine Beschwerde nicht garantiert erfolgreich ist, kann ein Teilnehmer sich dafür entscheiden, den Timer weiterlaufen zu lassen und den Versuch fortzusetzen, wenn es angebracht ist.
 - 11e++) [Empfehlung] Der WCA-Delegierte sollte die Gründe für einen Extraversuch notieren (z.B. auf der Rückseite des Scoresheets).
 - 11e1+) [Erinnerung] Ein Extraversuch muss gescrambelt werden, indem ein nicht modifizierter Scramble verwendet wird, der von einem offiziellen Scramble-Programm generiert wurde (siehe [Regel 4f](regulations:regulation:4f), [Richtlinie 4f+](guidelines:guideline:4f+)).
-- 11e2+) [Zusatz] Wenn ein Extraversuch selbst zu einem weiteren Extraversuch führt, sollte der Teilnehmer solange Versuche machen, bis genug vorhanden sind, um so viele reguläre Ergebnisse zu ersetzen wie benötigt. 
+- 11e2+) [Zusatz] Wenn ein Extraversuch selbst zu einem weiteren Extraversuch führt, sollte der Teilnehmer solange Versuche machen, bis genug vorhanden sind, um so viele reguläre Ergebnisse zu ersetzen wie benötigt.
 - 11e2++) [Beispiel] Angenommen ein Teilnehmer hat 5 reguläre Versuche und der 2. Versuch führt zu einem Extraversuch. Der Teilnehmer sollte nun Extraversuche durchführen, bis ein gültiger Versuch vorhanden ist, um den 2. Versuch zu ersetzen. Wenn spätere Versuche zu weiteren Extraversuchen führen, sollten diese in gleicher Weise durchgeführt werden.
 
 
