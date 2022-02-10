@@ -544,7 +544,7 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 	- Y7b) Der Judge sollte versuchen, das Puzzle des Teilnehmers möglichst nicht zu berühren. Ausnahme: Für Clock sollte der Judge das Puzzle aufheben, um zu überprüfen, dass beide Seiten gelöst sind.
 	- Y7c) Scrambling:
 		- Y7c1) Wenn der Teilnehmer zu einer Runde aufgerufen wird, gibt er sein Puzzle in desinfiziertem und gelöstem Zustand beim Scrambler ab. Der Teilnehmer wartet dann an der ihm zugewiesenen Lösestation.
-	- Y7d) Inspektion: 
+	- Y7d) Inspektion:
 		- Y7d1) Der Judge bittet den Teilnehmer, den Timer vorzubereiten, indem dieser ihn anschaltet und wenn nötig zurücksetzt. Der Teilnehmer führt dies dann durch; der Judge sollte zu jedem Zeitpunkt vermeiden, den Timer zu berühren.
 	- Y7e) Aufzeichnung der Ergebnisse:
 		- Y7e2) Der Teilnehmer sollte das Scoresheet nicht berühren.
