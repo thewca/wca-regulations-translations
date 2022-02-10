@@ -208,7 +208,7 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 		- 7f1d) Oberfläche: Die flache Oberfläche, auf der die Stackmat platziert wurde. Die Matte wird als Teil der Oberfläche angesehen, der Timer jedoch nicht.
 	- 7f2) Der Timer muss an der Matte angebracht sein und auf der Oberfläche platziert sein, so dass die Seite mit dem Timer dem Teilnehmer am nächsten ist.
 	- 7f3) Das Organisationsteam sollte Stackmat Timer dahingehend modifizieren, dass sie widerstandsfähiger gegen geläufige Zwischenfälle sind. Dazu gehört, dass die Knöpfe schwieriger versehentlich zu drücken sind (z.B. durch das Anbringen von O-Ringen um die Knöpfe) und die Batterie stärker fixiert wird (z.B. durch Polsterung des Batteriefachs).
-	7f4) Generation 5 Pro Timer müssen im 2-Pad-Modus verwendet werden.
+	- 7f4) Generation 5 Pro Timer müssen im 2-Pad-Modus verwendet werden.
 - 7h) Der Veranstaltungsort muss einen oder mehrere Wartebereiche für die Teilnehmer haben (durch [Regel Y6a](regulations:regulation:Y6a) ersetzbar).
 	- 7h1) Das Organisationsteam darf von Teilnehmern, die zur Teilnahme aufgerufen wurden, verlangen, dass sie sich im Teilnehmerbereich aufhalten, bis sie alle Versuche ihrer Runde hinter sich gebracht haben.
 	- 7h2) Definition: Der Wartebereich für Teilnehmer ist der Bereich, in dem Teilnehmer einer Gruppe warten, um zu den Lösestationen aufgerufen zu werden.
