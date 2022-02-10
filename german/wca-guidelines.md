@@ -142,7 +142,7 @@ Jede Richtlinie ist einer der folgenden Disziplinen zugeordnet. Diese Beschriftu
 - 11e2++) [Beispiel] Angenommen ein Teilnehmer hat 5 reguläre Versuche und der 2. Versuch führt zu einem Extraversuch. Der Teilnehmer sollte nun Extraversuche durchführen, bis ein gültiger Versuch vorhanden ist, um den 2. Versuch zu ersetzen. Wenn spätere Versuche zu weiteren Extraversuchen führen, sollten diese in gleicher Weise durchgeführt werden.
 
 
-## <article-11><incidents><incidents> Abschnitt 11: Zwischenfälle
+## <article-12><notation><notation> Abschnitt 12: Notation
 
 - 12a2+) [Erklärung] Sowohl Rw als auch 2Rw sind zum Beispiel valide Notationen für den gleichen physischen Zug auf einem 3x3x3 Cube. 1Rw ist keine valide Notation für einen NxNxN Cube und 3Rw ist weder für den 2x2x2 noch den 3x3x3 Cube eine valide Notation (aber 3Rw ist eine valide Notation für den 4x4x4 Cube und größere NxNxN Cubes).
 
