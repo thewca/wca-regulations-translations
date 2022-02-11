@@ -92,8 +92,8 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 	- 2i2) Teilnehmer dürfen am Löse-Platz Kameras nach Ermessen des WCA-Delegierten nutzen, aber die folgenden Bedingungen müssen vom Beginn des Versuchs bis zum Stoppen des Solves eingehalten werden. Strafe für das Brechen der Bedingungen: Disqualifikation des Versuchs (DNF).
 		- 2i2a) Jeder Monitor der Kamera muss ausgeschaltet oder außerhalb des Sichtbereichs des Teilnehmers sein (siehe [Regel A5b](regulations:regulation:A5b)).
 		- 2i2b) Der Teilnehmer darf nicht mit der aktiven Kamera interagieren (z.B. bedienen, halten, tragen). Ausnahme: der Teilnehmer darf eine Kamera tragen, die auf seinem Kopf befestigt ist, solange diese außerhalb seines Sichtbereiches ist und klar ist, dass er nicht mit dieser interagiert (abgesehen vom Tragen).
-		- 2i3) Teilnehmer dürfen ein Smartphone in ihrer Tasche haben, solange klar ist, dass sie nicht anderweitig damit interagieren.
-		- 2i4) Teilnehmer sollten alle Benachrichtigungen auf ihrem Smartphone während der Teilnahme abschalten, um den Wettbewerb nicht zu stören.
+	- 2i3) Teilnehmer dürfen ein Smartphone in ihrer Tasche haben, solange klar ist, dass sie nicht anderweitig damit interagieren.
+	- 2i4) Teilnehmer sollten alle Benachrichtigungen auf ihrem Smartphone während der Teilnahme abschalten, um den Wettbewerb nicht zu stören.
 - 2j) Der WCA-Delegierte darf einen Teilnehmer von einer bestimmten Disziplin ausschließen.
 	- 2j1) Wenn ein Teilnehmer von einer Disziplin ausgeschlossen wird, aus welchem Grund auch immer, hat er keinen Anspruch auf weitere Versuche in dieser Disziplin.
 		- 2j1a) Wenn der Teilnehmer bereits mindestens einen Versuch in der Runde gestartet hat, bevor er disqualifiziert wurde, werden die Ergebnisse aller übrigen Versuche in dieser Disziplin als DNF gewertet. Wenn der Teilnehmer noch keinen Versuch gestartet hat (also keine Ergebnisse hat oder nur DNS-Ergebnisse), werden keine Ergebnisse aufgezeichnet.
@@ -229,9 +229,9 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 	- 9b4) 3x3x3 Fewest Moves (mit möglichst wenigen Zügen).
 		- 9b4a) Turnierformat für vollständige Runden dieser Disziplin: „Best of X" (wobei X für 1 oder 2 stehen kann) oder „Mean of 3“.
 		- 9b4b) Cutoff-Format für diese Disziplin: „Best of 1" Cutoff-Phase für „Best of 2“ oder „Best of X" (wobei X für 1 oder 2 stehen kann) für „Mean of 3“.
-		- 9b5b) Cutoff-Format für diese Disziplin: „Best of X“ Cutoff-Phase (wobei X für 1 oder 2 stehen kann) für Best of Y (wobei Y für 2 oder 3 stehen kann und Y>X gilt).
 	- 9b5) 3x3x3 Multi-Blind (Mehrfach Blind).
 		- 9b5a) Turnierformat für vollständige Runden dieser Disziplin: „Best of X" (wobei X für 1,2 oder 3 stehen kann).
+		- 9b5b) Cutoff-Format für diese Disziplin: „Best of X“ Cutoff-Phase (wobei X für 1 oder 2 stehen kann) für Best of Y (wobei Y für 2 oder 3 stehen kann und Y>X gilt).
 - 9f) Die Ergebnisse einer Runde werden wie folgt gemessen:
 	- 9f1) Alle gestoppten Zeiten unter 10 Minuten (außer 3x3x3 Multi-Blind) werden in Hundertstelsekunden gemessen und auf die nächstliegende Hundertstelsekunde gerundet. Der Durchschnitt bzw. das Mittel werden auf die nächstliegende Hundertstelsekunde gerundet.
 	- 9f2) Alle gestoppten Zeiten über 10 Minuten sowie alle Zeiten für 3x3x3 Multi-Blind und zugehörige Durchschnittszeiten/Mittel werden in Sekunden gemessen, wobei der Durchschnitt bzw. das Mittel auf die nächstliegende Sekunde gerundet wird (x.4 wird x, x.5 wird x+1).
@@ -375,6 +375,7 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 		- A2c1) Der Scrambler deckt das Puzzle ab, so dass es für Teilnehmer und Zuschauer nicht möglich ist, einen Teil des Puzzles zu sehen. Die Abdeckung verdeckt das Puzzle bis zum Beginn des Versuchs.
 	- A2d) Nach dem Scrambeln kontrolliert der Judge kurz, dass das Puzzle sorgfältig gescrambelt wurde. Der Judge richtet jegliche Bedenken an den Scrambler, der dann eine gründliche Überprüfung durchführt.
 		- A2d1) Der Scrambler oder ein autorisierter Judge müssen das gescrambelte Puzzle überprüfen und auf dem Scoresheet unterschreiben/ihre Initialen setzen, dass sie den korrekt nummerierten Scramble angewandt haben und überprüft haben, dass dieser mit dem Bild übereinstimmt (siehe [Regel 4g](regulations:regulation:4g)). Ausnahme: für den 6x6x6 Würfel, 7x7x7 Würfel und Megaminx darf der Scrambler unterschreiben/seine Initialen setzen, dass das Puzzle hinreichend gescrambelt ist (siehe [Regel 4g1](regulations:regulation:4g1)).
+	- A2e) Der Judge legt das Puzzle in zufälliger Orientierung auf der Stackmat ab und stellt sicher, dass es komplett verdeckt bleibt. 
 		- A2e1) Der Teilnehmer darf keine bestimmte Orientierung verlangen und der Judge darf die Orientierung, in der er das Puzzle auf der Stackmat platziert, nicht basierend auf seinem Wissen über die aktuelle oder zu erwartende Orientierung ändern.
 - A3) Inspektion:
 	- A3a) Der Teilnehmer darf das Puzzle zu Beginn jedes Versuchs inspizieren.
@@ -523,7 +524,7 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 	- H1e) Der Teilnehmer darf keine Züge an einem oder mehreren Puzzles während der Memorisierungsphase durchführen. Strafe: Disqualifikation des Versuchs (DNF). Ausnahme: diese einzelnen Puzzles dürfen als ungelöste Puzzles am Ende des Versuchs eingerechnet werden, anstatt den gesamten Versuch zu disqualifizieren; dies geschieht nach Ermessen des WCA-Delegierten.
 - H2) Der Teilnehmer darf selbst eine flache Unterlage für die Oberfläche (z.B. eine Matte oder ein Tuch) mitbringen, nach Ermessen des WCA-Delegierten. Wenn der Teilnehmer dies tun möchte, muss der Wunsch an dem Zeitpunkt geäußert werden, wenn die Anzahl der Puzzles dem Organisationsteam mitgeteilt wird (siehe [Regel H1a](regulations:regulation:H1a)).
 
-## <article-Z><optional><optional> Abschnitt Y: Temporäre Regeln
+## <article-Y><temporary regulations><temporary regulations> Abschnitt Y: Temporäre Regeln
 
 - Y1) Zusätzliche Regeln, die alle zuvor aufgeführten Regeln ersetzen. Diese Regeln dienen der Ergänzung der Competition Safety Policy.
 - Y2) Definitionen:
