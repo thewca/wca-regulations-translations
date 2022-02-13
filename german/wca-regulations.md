@@ -375,7 +375,7 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 		- A2c1) Der Scrambler deckt das Puzzle ab, so dass es für Teilnehmer und Zuschauer nicht möglich ist, einen Teil des Puzzles zu sehen. Die Abdeckung verdeckt das Puzzle bis zum Beginn des Versuchs.
 	- A2d) Nach dem Scrambeln kontrolliert der Judge kurz, dass das Puzzle sorgfältig gescrambelt wurde. Der Judge richtet jegliche Bedenken an den Scrambler, der dann eine gründliche Überprüfung durchführt.
 		- A2d1) Der Scrambler oder ein autorisierter Judge müssen das gescrambelte Puzzle überprüfen und auf dem Scoresheet unterschreiben/ihre Initialen setzen, dass sie den korrekt nummerierten Scramble angewandt haben und überprüft haben, dass dieser mit dem Bild übereinstimmt (siehe [Regel 4g](regulations:regulation:4g)). Ausnahme: für den 6x6x6 Würfel, 7x7x7 Würfel und Megaminx darf der Scrambler unterschreiben/seine Initialen setzen, dass das Puzzle hinreichend gescrambelt ist (siehe [Regel 4g1](regulations:regulation:4g1)).
-	- A2e) Der Judge legt das Puzzle in zufälliger Orientierung auf der Stackmat ab und stellt sicher, dass es komplett verdeckt bleibt. 
+	- A2e) Der Judge legt das Puzzle in zufälliger Orientierung auf der Stackmat ab und stellt sicher, dass es komplett verdeckt bleibt.
 		- A2e1) Der Teilnehmer darf keine bestimmte Orientierung verlangen und der Judge darf die Orientierung, in der er das Puzzle auf der Stackmat platziert, nicht basierend auf seinem Wissen über die aktuelle oder zu erwartende Orientierung ändern.
 - A3) Inspektion:
 	- A3a) Der Teilnehmer darf das Puzzle zu Beginn jedes Versuchs inspizieren.
