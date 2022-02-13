@@ -524,7 +524,7 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 	- H1e) Der Teilnehmer darf keine Züge an einem oder mehreren Puzzles während der Memorisierungsphase durchführen. Strafe: Disqualifikation des Versuchs (DNF). Ausnahme: diese einzelnen Puzzles dürfen als ungelöste Puzzles am Ende des Versuchs eingerechnet werden, anstatt den gesamten Versuch zu disqualifizieren; dies geschieht nach Ermessen des WCA-Delegierten.
 - H2) Der Teilnehmer darf selbst eine flache Unterlage für die Oberfläche (z.B. eine Matte oder ein Tuch) mitbringen, nach Ermessen des WCA-Delegierten. Wenn der Teilnehmer dies tun möchte, muss der Wunsch an dem Zeitpunkt geäußert werden, wenn die Anzahl der Puzzles dem Organisationsteam mitgeteilt wird (siehe [Regel H1a](regulations:regulation:H1a)).
 
-## <article-Y><temporary regulations><temporary regulations> Abschnitt Y: Temporäre Regeln
+## <article-Y><temporary-regulations><temporaryregulations> Abschnitt Y: Temporäre Regeln
 
 - Y1) Zusätzliche Regeln, die alle zuvor aufgeführten Regeln ersetzen. Diese Regeln dienen der Ergänzung der Competition Safety Policy.
 - Y2) Definitionen:
