@@ -1,34 +1,34 @@
 # <wca-title>Regolamento WCA
 
-
-
-
-
-<version>Versione: 1 Maggio 2021
-
-
-
+<version>Versione: 1 Gennaio 2022
 
 
 ## Note
 
+### Traduzione
+
+Si prega di ricordare che questa non è la versione ufficiale del Regolamento WCA (anche se viene fornita sul sito della WCA): la versione ufficiale del Regolamento WCA è quella in lingua inglese, pertanto potrebbero esserci discrepanze.
+In caso ci siano differenze fra una traduzione e la versione in lingua inglese (versione ufficiale attuale), deve essere utilizzata la versione in lingua inglese.
+
 ### Regolamento WCA e Linee Guida
+
 Il Regolamento WCA contiene l'insieme di tutte le regole che vengono applicate in ogni competizione ufficiale riconosciuta dalla World Cube Association.
 Il Regolamento WCA è integrato dalle [Linee Guida](guidelines:top). Il Regolamento è da considerarsi come un documento completo, ma le Linee Guida contengono ulteriori chiarimenti e spiegazioni.
 
+### Formulazione
+Per il regolamento ufficiale in lingua inglese, l'uso delle parole "must", "must not", "should", "should not" e "may" corrisponde a quello descritto in [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt).
+
 ### Informazioni su Internet
 Sito della World Cube Association: [www.worldcubeassociation.org](https://www.worldcubeassociation.org/)
-Versione originale del Regolamento WCA: [www.worldcubeassociation.org/regulations](https://www.worldcubeassociation.org cd/regulations/)
+Versione originale del Regolamento WCA: [www.worldcubeassociation.org/regulations](https://www.worldcubeassociation.org/regulations/)
 Regolamento WCA in [formato PDF](link:pdf)
 
 ### Fonti
-Lo sviluppo e le modifiche del Regolamento WCA e delle Linee Guida è pubblico [su GitHub](https://github.com/thewca/wca-regulations).
+Lo sviluppo del Regolamento e delle Linee Guida WCA è pubblico [su GitHub](https://github.com/thewca/wca-regulations) e la discussione è pubblica [sul Forum WCA](https://forum.worldcubeassociation.org/c/regulations).
 
 ### Contatti
-Per domande e opinioni, si prega di contattare la [WCA Regulations Committee (WRC)](mailto:wrc@worldcubeassociation.org).
+Per domande e opinioni, si prega di contattare il [WCA Regulations Committee (WRC)](mailto:wrc@worldcubeassociation.org).
 
-### Traduzione
-Si prega di ricordare che questa non è la versione ufficiale del Regolamento WCA (anche se viene fornita sul sito della WCA): la versione ufficiale del Regolamento WCA è quella in lingua inglese, pertanto potrebbero esserci discrepanze. In caso ci siano differenze fra una traduzione e la versione in lingua inglese (versione ufficiale), deve essere utilizzata la versione in lingua inglese.
 
 ## <contents> [Contenuto](regulations:contents)
 
@@ -63,7 +63,7 @@ Nota: potrebbero esserci discrepanze nella numerazione dei vari articoli, visto 
 - 2a) Chiunque può partecipare a una competizione WCA se (completato da [Regola Y3](regulations:regulation:Y3)):
     - 2a1) Si attiene al regolamento WCA.
     - 2a2) Soddisfa i requisiti della competizione, che saranno chiaramente definiti prima di essa.
-    - 2a3) Non è stato sospeso dalla WCA Board.
+    - 2a3) Non è stato sospeso dal WCA Board.
 - 2b) I partecipanti al di sotto dei 18 anni devono avere il consenso di un genitore o di un tutore per potersi registrare e competere.
 - 2c) I partecipanti devono fornire, con la registrazione, tutte le informazioni richieste dal team organizzativo (tra cui: nome, paese, data di nascita, sesso, contatto, eventi selezionati)
     - 2c1) Un partecipante non può competere se la propria registrazione è ritenuta incompleta dal team organizzativo.
@@ -77,20 +77,21 @@ Nota: potrebbero esserci discrepanze nella numerazione dei vari articoli, visto 
 - 2g) I partecipanti devono contribuire a creare un clima di quiete quando si trovano all'interno dell'area di gara designata. È permesso parlare, a patto che lo si faccia a un tono di voce basso e lontani da partecipanti che stiano attivamente gareggiando.
     - 2g3) I partecipanti che si trovano nell'Area Partecipanti (area d'attesa) non devono comunicare tra loro a proposito degli scramble dei puzzle del round in corso. Pena la squalifica del/i partecipante/i dall'evento, a discrezione del Delegato WCA.
 - 2h) Quando si trovano nella sede della competizione, i partecipanti devono essere totalmente vestiti. A discrezione del Delegato WCA, un partecipante può essere squalificato dalla competizione per abbigliamento inappropriato.
-- 2i) In fase di gara, i partecipanti non possono utilizzare dispositivi elettronici (ad eccezione del timer Stackmat e del cronometro), equipaggiamento audio (es. cellulari, lettori MP3, registratori) o dispositivi di illuminazione aggiuntiva.
+- 2i) In fase di ispezione e di risoluzione, i partecipanti non possono utilizzare dispositivi elettronici (ad eccezione del timer Stackmat e del cronometro), equipaggiamento audio (es. cellulari, lettori MP3, registratori) o dispositivi di illuminazione aggiuntiva.
     - 2i1) A discrezione del Delegato WCA, i partecipanti possono utilizzare dispositivi non elettronici, a patto che questi ultimi non diano ingiustamente vantaggio al partecipante. Sono inclusi:
         - 2i1a) Supporti medici/fisici indossati dal partecipante (es. occhiali, polsiera). In eccezione a [Regola 2i](regulations:regulation:2i), gli aiuti medici possono essere elettronici se il partecipante non ha una valida alternativa non elettronica (es. apparecchio acustico, pacemaker)
         - 2i1b) Tappi per orecchie e cuffie insonorizzanti (ma non cuffiette elettroniche o cuffie con sistema di cancellazione del rumore).
-        - 2i1c) Scaldamani.
-        - 2i1d) Cibo e bevande.
+       - 2i1c) Scaldamani.
+       - 2i1d) Cibo e bevande.
     - 2i2) I partecipanti possono utilizzare fotocamere/videocamere quando si trovano in postazione di gara, a discrezione del Delegato WCA. Le seguenti restrizioni si applicano dall'inizio del tentativo di risoluzione fino a quando il partecipante non ferma il timer. Pena la squalifica dal tentativo (DNF).
         - 2i2a) Qualsiasi monitor/display del dispositivo deve essere vuoto o completamente non visibile dal partecipante (vedi [Regola A5b](regulations:regulation:A5b)).
-        - 2i2b) Il partecipante non deve interagire con alcun dispositivo attivo (operare, reggere, indossare). Eccezione: il partecipante può indossare una videocamera montata sulla testa, a patto che questa sia totalmente fuori dal suo campo visivo e sia chiaro che il partecipante non stia interagendo con essa, se non indossandola.
+        - 2i2b) Il partecipante non deve interagire con alcun dispositivo attivo (operare, reggere, indossare). Eccezione: il partecipante può indossare una videocamera montata sulla testa, a patto che questa sia totalmente fuori dal suo campo visivo e sia chiaro che il partecipante non stia interagento con essa, se non indossandola.
     - 2i3) Il partecipante può tenere il telefono cellulare in tasca, a patto che sia chiaro che non stia interagendo con esso in alcun modo.
+    - 2i4) In fase di gara, i partecipanti dovrebbero disattivare suonerie e sveglie del proprio telefono cellulare per evitare di disturbare gli altri partecipanti.
 - 2j) Il Delegato WCA può squalificare un partecipante da un singolo evento.
     - 2j1) Se un partecipante è squalificato da un evento per qualsiasi ragione, non gli è più concesso alcun tentativo di risoluzione per quell'evento.
         - 2j1a) Se il partecipante ha già effettuato uno o più tentativi di risoluzione per l'evento in corso prima di essere squalificato, tutti i risultati per i tentativi rimanenti verranno registrati come DNF. Se il partecipante non ha ancora svolto il primo tentativo o ha ottenuto esclusivamente uno o più DNS, nessun risultato verrà registrato.
-    - 2j2) Se un partecipante viene squalificato da un evento mentre questo è in corso, l'ultimo risultato registrato rimane valido. Eccezione: il partecipante ha barato o imbrogliato (vedi [Regola 2k2a](regulations:regulation:2k2a)).
+    - 2j2) Se un partecipante viene squalificato da un evento mentre questo è in corso, i risultati registrati prima della squalifica rimangono validi. Eccezione: il partecipante ha barato o imbrogliato (vedi [Regola 2k2a](regulations:regulation:2k2a)).
 - 2k) A discrezione del Delegato WCA, un partecipante può essere squalificato dagli eventi (uno, alcuni, tutti) se:
     - 2k1) Non esegue la registrazione alla competizione in tempo.
     - 2k2) È sospettato di avere barato o imbrogliato i giudici durante la competizione.
@@ -106,9 +107,10 @@ Nota: potrebbero esserci discrepanze nella numerazione dei vari articoli, visto 
     - 2n2) Il Delegato WCA deve risolvere la contestazione prima dell'inizio del successivo round dell'evento in questione.
     - 2n3) Il partecipante che ha aperto la contestazione deve accettare qualsiasi decisione finale del Delegato WCA. Pena la squalifica dalla competizione.
 - 2s) Partecipanti con riconosciute disabilità che possano impedire il rispetto di uno o più punti del Regolamento WCA possono richiedere un accordo eccezionale con il Delegato WCA. Coloro che intendono fare richiesta di tali accordi, devono contattare il team organizzativo e il Delegato WCA entro e non oltre due settimane dall'inizio della competizione.
-- 2t) Ciascun partecipante deve conoscere e capire il Regolamento WCA prima della competizione.
+- 2t) Ciascun partecipante deve conoscere e comprendere il Regolamente WCA prima della competizione.
 - 2u) I partecipanti devono essere presenti e pronti a competere nel momento in cui sono chiamati a fare il proprio tentativo di risoluzione. Pena la squalifica dall'evento.
     - 2u1) Eccezione: Se un partecipante non è presente a un tentativo individuale precedentemente concordato (es. Fewest Moves, 4-Blind, 5-Blind, Multi-Blind) il tentativo può essere considerato rifiutato (DNS), a discrezione del Delegato WCA.
+    - 2u2) Eccezione: Per i round con un time limit cumulativo, un partecipante che arriva in ritardo può competere con un time limit cumulativo ridotto, a discrezione del Delegato WCA.
 
 
 ## <article-3><puzzles><puzzles> Articolo 3: I Puzzle
@@ -120,7 +122,7 @@ Nota: potrebbero esserci discrepanze nella numerazione dei vari articoli, visto 
     - 3a4) I puzzle non devono avere componenti elettroniche (es. connettività Bluetooth o Wi-Fi, motori, sensori, luci). Vedi [Regola 2i](regulations:regulation:2i).
 - 3d) I puzzle devono avere parti colorate che definiscano lo schema di colorazione di quest'ultimo e devono essere contingenti ad una e solo ad una di queste possibili varianti: sticker colorati, tile colorate, plastiche colorate o colori stampati/pitturati. Tutte le parti colorate di un puzzle devono essere fatte degli stessi materiali.
     - 3d1) Per i partecipanti con disabilità medicalmente documentate, si applicano le seguenti eccezioni:
-        - 3d1a) I partecipanti affetti da cecità possono utilizzare puzzle con rilievi; questi ultimi devono essere diversi per ogni faccia. Ogni faccia deve, possibilmente, avere un colore diverso, per favorire la fase di mescolamento e il lavoro del giudice.
+        - 3d1a) I partecipanti affetti da cecità possono utilizzare puzzle con rilievi; questi ultimi devono essere diversi per ogni faccia. Ogni faccia deve, possibilimente, avere un colore diverso, per favorire la fase di mescolamento e di lavoro del giudice.
         - 3d1b) I partecipanti affetti da daltonismo che non riescono a distinguere il numero necessario di colori posso utilizzare parti colorate con pattern, se è stato esplicitamente approvato secondo il [Regola 2s](regulations:regulation:2s). I pattern possono derivare dallo sticker o possono essere disegnati.
     - 3d2) I colori delle parti colorate devono essere tassativamente solidi, con un unico colore, uniforme, per ogni faccia. Ogni colore deve essere distinguibile chiaramente dagli altri colori.
 - 3h) Le modifiche che alterano il funzionamento base del puzzle non sono permesse. Versioni modificate dei puzzle sono permesse solo se le modifiche non aumentano le informazioni disponibili al partecipante (per esempio orientamento o identificazione dei pezzi), comparati ad una versione non-modificata dello stesso puzzle.
@@ -129,8 +131,8 @@ Nota: potrebbero esserci discrepanze nella numerazione dei vari articoli, visto 
         - 3h2a) Puzzle con parti trasparenti che possano rivelare maggiori informazioni sullo stato di risoluzione. Fanno eccezione gli sticker trasparenti, che riportano il logo, posizionati su parti colorate. (vedi [Regola 3l](regulations:regulation:3l)).
     - 3h3) Eventuali modifiche a un puzzle che si traducono in scarso rendimento di un concorrente non sono motivo di ulteriori tentativi.
     - 3h4) Per il Clock, inserti colorati personalizzati (con la stessa forma e dimensione di quelli originali in carta) sono permessi, a discrezione del delegato WCA. Gli inserti devono indicare chiaramente le ore 12 di ogni orologio combaciando con gli originali.
-- 3j) I puzzle devono essere puliti, non devono avere segni o marcature di nessun tipo, pezzi sopraelevati o altre differenze che distinguano significativamente un pezzo ad ogni altro pezzo simile. Eccezione: un logo (vedi [Regola 3l](regulations:regulation:3l)).
-    - 3j1) È concesso avere un puzzle con logoramento modesto e ragionevole, a discrezione del delegato WCA.
+- 3j) I puzzle devono essere puliti, non devono avere segni o marcature di alcun tipo, pezzi rialzati o altre differenze che distinguano significativamente un pezzo da ogni altro pezzo simile. Eccezione: un logo (vedi [Regola 3l](regulations:regulation:3l)).
+    - 3j1) È concesso avere un puzzle con un logoramento modesto e ragionevole, a discrezione del delegato WCA.
     - 3j2) Definizione: Due pezzi sono simili tra di loro se essi sono identici per forma e per dimensione, o specchiati in forma e identici in dimensione.
     - 3j3) Parti corrugate o con rilievi che permettono la distinzione dell'orientamento dei pezzi al tocco non sono permessi negli eventi della categoria "blindfolded", invero della risoluzione da bendati.
 - 3k) I puzzle devono essere approvati dal delegato WCA prima dell'uso in competizione.
@@ -198,15 +200,16 @@ Nota: potrebbero esserci discrepanze nella numerazione dei vari articoli, visto 
 - 7e) É vietato fumare nella sala in cui si tiene la competizione
 - 7f) Postazioni di risoluzione:
     - 7f1) Definizioni:
-        - 7f1a) Stackmat: il timer "Speed Stacks Stackmat" per cronometrare le risoluzioni e un tappetino compatibile di dimensioni prestabilite. Per cronometrare le risoluzioni possono essere utilizzati Stackmat 2a Generazione, Pro Timer 3a Generazione e Pro Timer 4a Generazione.
+        - 7f1a) Stackmat: il timer "Speed Stacks Stackmat" per cronometrare le risoluzioni e un tappetino compatibile di dimensioni prestabilite. Per cronometrare le risoluzioni possono essere utilizzati Stackmat 2ᵃ Generazione, Pro Timer 3ᵃ Generazione, Pro Timer 4ᵃ Generazione e Pro Timer 5ᵃ Generazione.
         - 7f1b) Mat: il tappetino di gomma dello Stackmat.
         - 7f1c) Timer: il cronometro dello Stackmat, o un cronometro a mano qualunque (per tentativi che la portata dello stackmat non riuscirebbe a coprire).
         - 7f1d) Superficie: la superficie piatta su cui lo Stackmat viene posizionato. Il tappetino è considerato parte della superficie. Il timer non è considerato parte della superficie.
     - 7f2) Il cronometro dello Stackmat deve essere attaccato al tappetino e posizionato sulla superficie, con il timer dalla parte del tappetino più vicina al partecipante.
     - 7f3) Il team organizzativo può modificare gli Stackmat per renderli più resistenti ai comuni incidenti legati alla pressione accidentale dei tasti (es. applicare degli anelli di plastica intorno ai pulsanti) e al falso contatto delle batterie (es. coprire l'interno del vano batterie con cuscinetti di gomma).
+    - 7f4) I Pro Timer 5ᵃ Generazione devono essere utilizzati in modalità "2-pad".
 - 7h) La competizione deve avere una o più Aree Partecipanti (sostituita da [Regola Y6a](regulations:regulation:Y6a)).
     - 7h1) Il team organizzativo potrebbe chiedere ad un partecipante che è stato chiamato a risolvere di rimanere nella propria Area Partecipanti designata fino a che non abbia completato tutti i suoi tentativi per quel particolare round.
-    - 7h2) Definizione: l'Area Partecipanti (area d'attesa) è l'area nella quale i partecipanti di un gruppo attendono di essere chiamati ad una postazione per la risoluzione.
+   - 7h2) Definizione: l'Area Partecipanti (area d'attesa) è l'area nella quale i partecipanti di un gruppo attendono di essere chiamati ad una postazione per la risoluzione.
 
 
 ## <article-9><events><events> Articolo 9: Eventi
@@ -277,10 +280,10 @@ Nota: potrebbero esserci discrepanze nella numerazione dei vari articoli, visto 
 - 10c) Alla fine della risoluzione il puzzle può essere orientato in qualsiasi modo.
 - 10d) Tutte le parti di un puzzle devono essere fisicamente attaccate allo stesso e saldamente posizionate nella posizione richiesta da esso. Eccezione: vedi [Regola 5b5](regulations:regulation:5b5).
 - 10e) Un puzzle si considera risolto quando tutte le parti colorate sono riportate allo stato originale e tutte le parti del puzzle sono allineate, rientrando nei limiti qui di seguito specificati:
-    - 10e1) Per ogni due parti adiacenti (per esempio due sezioni parallele ed adiacenti del cubo) del puzzle che sono disallineate maggiormente dei limiti descritti nella [Regola 10f](regulations:regulation:10f), bisogna considerare il puzzle come "ad una mossa dallo stato di risoluzione" (vedi "Outer Block Turn Metric" nell'[Articolo 12](regulations:article:12)).
-    - 10e2) Se nessuna mossa è richiesta per considerare il puzzle risolto, allora la risoluzione è valida e non presenta alcuna penalità.
-    - 10e3) Se una mossa è richiesta per considerare il puzzle risolto, allora la risoluzione è da considerarsi valida ma con una penalità di tempo (+2 secondi).
-    - 10e4) Se più di una mossa è richiesta per considerare il puzzle risolto, allora la risoluzione non è valida e il risultato è DNF.
+    - 10e1) Per ogni due parti adiacenti (per esempio due sezioni parallele ed adiacenti del cubo) del puzzle che sono disallineate oltre i limiti descritti nella [Regola 10f](regulations:regulation:10f), bisogna considerare il puzzle come "ad una mossa dallo stato di risoluzione" (vedi "Outer Block Turn Metric" nell'[Articolo 12](regulations:article:12)).
+    - 10e2) Se nessuna ulteriore mossa è richiesta una volta fermato il tempo, la risoluzione è valida e non richiede alcuna penalità.
+    - 10e3) Se una sola mossa è richiesta per riportare il puzzle allo stato risolto, allora la risoluzione è da considerarsi valida ma viene applicata una penalità di tempo (+2 secondi).
+    - 10e4) Se più di una mossa è richiesta per riportare il puzzle allo stato risolto, allora la risoluzione non è valida e il risultato è DNF.
 - 10f) Limiti (inclusi) entro i quali è accettabile il disallineamento:
     - 10f1) Cubi NxNxN: al massimo 45 gradi.
     - 10f2) Megaminx: al massimo 36 gradi.
@@ -344,8 +347,8 @@ Nota: potrebbero esserci discrepanze nella numerazione dei vari articoli, visto 
     - 12e3) Senso antiorario, 120 gradi: U' (2 strati superiori, Upper), L' (2 strati a sinistra, Left), R' (2 strati a destra, Right), B' (2 strati posteriori, Back), u' (vertice superiore, Upper), l' (vertice sinistro, Left), r' (vertice destro, Right), b' (vertice posteriore, Back).
 - 12g) Notazione per il Clock:
     - 12g1) Il puzzle si orienta con l'indicazione delle 12 in alto e una faccia qualsiasi frontalmente.
-    - 12g2) Sollevamento dei pin: UR (alto a destra), DR (basso a destra), DL (basso a sinistra), UL (alto a sinistra), U (entrambi in alto), R (entrambi a destra), D (entrambi in basso), L (entrambi a sinistra), ALL (tutti).
-    - 12g3) Girare una rotella vicino ad un pin sollevato, dopodiché abbassare tutti i pin: x+ (x rotazioni in senso orario), x- (x rotazioni in senso antiorario).
+    - 12g2) Sollevamendo dei pin: UR (alto a destra), DR (basso a destra), DL (basso a sinistra), UL (alto a sinistra), U (entrambi in alto), R (entrambi a destra), D (entrambi in basso), L (entrambi a sinistra), ALL (tutti).
+    - 12g3) Girare una rotella vicino ad un pin sollevato, dopodichè abbassare tutti i pin: x+ (x rotazioni in senso orario), x- (x rotazioni in senso antiorario).
     - 12g4) Ribaltare il puzzle in modo che l'indicazione delle 12 rimanga in alto, quindi abbassare tutti i pin: y2.
 - 12h) Notazione per lo Skewb:
     - 12h1) Il puzzle si orienta con 3 facce chiaramente visibili, con la faccia superiore rivolta verso l'alto.
@@ -366,7 +369,7 @@ Nota: potrebbero esserci discrepanze nella numerazione dei vari articoli, visto 
         - A1b1) Deve essere utilizzato uno Stackmat in aggiunta al cronometro a mano. Eccezione: per eventi senza ispezione, in cui è molto probabile che il partecipante superi i 10 minuti, l'uso dello Stackmat è facoltativo.
         - A1b2) Se alla fine della risoluzione è disponibile un tempo dal timer Stackmat, quest'ultimo è il risultato da registrare. In caso contrario (es. malfunzionamento dello Stackmat o sono stati superati i 10 minuti) si registra il tempo indicato dal cronometro a mano.
     - A1c) Ciascun partecipante che prende parte a un evento deve essere in grado di soddisfare i requisiti di quell'evento (vedi [Regola 2k6](regulations:regulation:2k6)).
-- A2) Mescolamento (scrambling):
+- A2) Mischiaggio (scrambling):
     - A2a) Quando è chiamato a competere in un round, il partecipante consegna il proprio puzzle risolto ai mischiatori (scrambler) e si dirige all'Area Partecipanti (area d'attesa) che gli è stata assegnata, per attendere il proprio turno di risoluzione.
     - A2b) Un mischiatore mischia il puzzle secondo il regolamento (vedi [Articolo 4](regulations:article:4)).
         - A2b1) Per lo Square-1, il team organizzativo può richiedere ai mischiatori di inserire un oggetto sottile (es. foglietto di carta) tra gli strati del puzzle per evitare che vengano eseguite mosse accidentali prima dell'inizio del tentativo. Se è previsto l'utilizzo di tali oggetti, il team organizzativo deve annunciarlo prima dell'inizio di ciascun round.
@@ -379,7 +382,7 @@ Nota: potrebbero esserci discrepanze nella numerazione dei vari articoli, visto 
 - A3) Ispezione:
     - A3a) Il partecipante può ispezionare il puzzle all'inizio di ciascun tentativo.
         - A3a1) Il partecipante ha a disposizione un massimo di 15 secondi per ispezionare il puzzle ed iniziare la risoluzione.
-    - A3b) Il giudice si assicura che il timer Stackmat sia pronto all'uso, accendendolo e/o azzerandolo se necessario. Contemporaneamente, prepara il cronometro a mano per l'ispezione, azzerandolo se necessario (parzialmente sostituita da [Regola Y7d1](regulations:regulation:Y7d1)).
+    - A3b) Il giudice si assicura che il timer Stackmat sia pronto all'uso, accendendolo e/o azzerandolo se necessario. Se si utilizza un Pro Timer 5ᵃ Generazione, deve assicurarsi che questo sia impostato alla modalità "2-Pad". Contemporaneamente, il giudice prepara il cronometro a mano per l'ispezione, azzerandolo se necessario (parzialmente sostituita da [Regola Y7d1](regulations:regulation:Y7d1)).
         - A3b1) Quando il giudice ritiene che il partecipante sia pronto, gli chiede "PRONTO?". Il partecipante deve dichiararsi pronto ad iniziare il tentativo entro 1 minuto dalla domanda, altrimenti il tentativo viene considerato rifiutato (DNS), a discrezione del giudice.
         - A3b2) Il partecipante inizia il tentativo confermando di essere pronto. Il giudice scopre il puzzle e avvia il cronometro a mano per l'ispezione.
     - A3c) Il partecipante può prendere in mano il puzzle durante l'ispezione.
@@ -401,7 +404,7 @@ Nota: potrebbero esserci discrepanze nella numerazione dei vari articoli, visto 
 - A5) Durante la risoluzione:
     - A5a) Durante l'ispezione e la risoluzione del puzzle, il partecipante non deve comunicare con nessuno, fatta eccezione per il giudice e il Delegato WCA. Penalità: annullamento del tentativo (DNF).
     - A5b) Durante l'ispezione e la risoluzione del puzzle, il partecipante non deve ricevere alcun aiuto da persone o oggetti, fatta eccezione per la superficie del tavolo. (vedi anche [Regola 2i](regulations:regulation:2i)). Penalità: annullamento del tentativo (DNF).
-    - A5c) Il partecipante può poggiare il puzzle sulla superficie del tavolo per aiutarsi nell'adoperare il puzzle (vedi [Regola 7f1d](regulations:regulation:7f1d)).
+   - A5c) Il partecipante può poggiare il puzzle sulla superficie del tavolo per aiutarsi nell'adoperare il puzzle (vedi [Regola 7f1d](regulations:regulation:7f1d)).
 - A6) Termine della risoluzione:
     - A6a) Il partecipante termina la risoluzione rilasciando completamente il puzzle e arrestando il timer. Se si utilizza un cronometro a mano, il giudice ferma il cronometro non appena il partecipante poggia le mani sul timer.
         - A6a1) Se si utilizza esclusivamente il cronometro a mano, il partecipante termina la risoluzione rilasciando completamente il puzzle e informando il giudice che ha finito. Il giudice ferma il cronometro non appena il partecipante lo comunica.
@@ -456,7 +459,7 @@ Nota: potrebbero esserci discrepanze nella numerazione dei vari articoli, visto 
     - B3d) Se gli strati del puzzle non sono perfettamente allineati, il partecipante può allinearli, a patto che il disallineamento corretto rientri nei limiti stabili in [Regola 10f](regulations:regulation:10f) (vedi [Regola A3c2](regulations:regulation:A3c2)).
 - B4) Fase a occhi bendati:
     - B4a) Il partecipante deve indossare la benda per iniziare la fase a occhi bendati.
-        - B4a1) Finché non ha effettuato la prima mossa sul puzzle, il partecipante può rimuovere la benda per tornare alla fase di memorizzazione.
+        - B4a1) Finché non ha effettuato la prima mossa sul puzzle, il partecipante può rimuovere la benda per tornare alla fase di memorizzazione. 
     - B4b) Il partecipante non deve applicare nessuna mossa prima di aver correttamente indossato la benda. Penalità: squalifica dal tentativo (DNF).
     - B4c) Non appena il partecipante effettua la prima mossa sul puzzle, il giudice deve assicurarsi che sia presente un oggetto opaco (es. foglio di carta o cartone) interposto tra il volto del partecipante e il puzzle.
         - B4c1) In ogni caso, il partecipante deve indossare la benda in modo che la vista del puzzle sia efficacemente bloccata anche se non ci fosse alcun oggetto opaco interposto tra sè e il puzzle.
@@ -465,7 +468,7 @@ Nota: potrebbero esserci discrepanze nella numerazione dei vari articoli, visto 
 - B5) Terminare la risoluzione:
     - B5a) Quando è in uso il timer Stackmat, il partecipante termina la risoluzione rilasciando il puzzle e poi fermando il timer.
     - B5b) Quando è in uso un cronometro, il partecipante interrompe la risoluzione rilasciando il puzzle sulla superficie del tavolo e comunicando al giudice di aver terminato la risoluzione. In quel momento, il giudice deve fermare il cronometro.
-    - B5c) Se il partecipante non sta toccando il puzzle, può rimuovere la benda prima di fermare il timer. Il partecipante non deve toccare il puzzle finché non ha terminato la risoluzione. Penalità per aver toccato il puzzle: squalifica dal tentativo (DNF).
+    - B5c) Se il partecipante non sta toccando il puzzle, può rimuovere la benda prima di fermare il timer. Il partecipante non deve toccare il puzzle finchè non ha terminato la risoluzione. Penalità per aver toccato il puzzle: squalifica dal tentativo (DNF).
 
 
 ## <article-C><one-handed><onehandedsolving> Articolo C: Risoluzione a una mano
@@ -482,7 +485,7 @@ Nota: potrebbero esserci discrepanze nella numerazione dei vari articoli, visto 
 
 - E2) Procedure per la risoluzione Fewest Moves:
     - E2a) Il giudice distribuisce una sequenza di scramble e dei fogli di carta a tutti i partecipanti. Il giudice quindi fa partire il cronometro e annuncia il "VIA".
-        - E2a1) Prima che il tentativo abbia inizio, il partecipante non deve scrivere nulla sui fogli adibiti alla risoluzione. Eccezione: il partecipante può scrivere le informazioni richieste per identificare il tentativo (vedi [Regola E2c1](regulations:regulation:E2c1)). Se le informazioni verranno scritte sul foglio che contiene la sequenza di scramble, queste dovranno essere scritte prima dell'inizio della risoluzione, dal lato che non contiene lo scramble. Penalità per aver scritto dati non necessari sul foglio: squalifica del tentativo (DNF).
+       - E2a1) Prima che il tentativo abbia inizio, il partecipante non deve scrivere nulla sui fogli adibiti alla risoluzione. Eccezione: il partecipante può scrivere le informazioni richieste per identificare il tentativo (vedi [Regola E2c1](regulations:regulation:E2c1)). Se le informazioni verranno scritte sul foglio che contiene la sequenza di scramble, queste dovranno essere scritte prima dell'inizio della risoluzione, dal lato che non contiene lo scramble. Penalità per aver scritto dati non necessari sul foglio: squalifica del tentativo (DNF).
     - E2b) I partecipanti hanno un tempo limite totale di 60 minuti per trovare una soluzione.
         - E2b1) Il giudice deve annunciare "5 MINUTI RIMANENTI" al trascorrere dei 55 minuti e deve annunciare "STOP" al raggiungimento dei 60 minuti.
     - E2c) Al raggiungimento dei 60 minuti, ciascun partecipante deve consegnare al giudice un solo foglio di carta con una soluzione scritta in modo leggibile e i dati identificativi.
@@ -509,7 +512,7 @@ Nota: potrebbero esserci discrepanze nella numerazione dei vari articoli, visto 
 
 - F1) Si applicano le procedure standard, come descritte nell'[Articolo A](regulations:article:A) (Speed Solving). Di seguito sono riportate delle regole aggiuntive che sostituiscono le corrispettive procedure descritte nell'[Articolo A](regulations:article:A).
 - F2) Il giudice posizione il puzzle scombinato sul tappetino in posizione eretta.
-    - F2a) Il team organizzativo può richiedere di utilizzare uno stand per il puzzle per evitare che questo cada prima dell'inizio del tentativo. Se è previsto l'utilizzo degli stand, il team organizzativo deve annunciarlo prima dell'inizio di ciascun round.
+    - F2a) Il team organizzativo può richiedere di utilizzare uno stand per il puzzle per evitare che questo cada prima dell'inizio del tentativo. Se è previsto l'utilizzo degli stand, il team organizzativo deve annunciarlo prima dell'inizio di ciascun round. 
         - F2a1) Il giudice deve rimuovere lo stand dal tappetino non appena il partecipante solleva il puzzle dallo stand.
 - F3) Alla fine della fase di ispezione, il partecipante posiziona il puzzle in posizione verticale. Penalità: squalifica della risoluzione (DNF).
     - F3a) Prima di iniziare la risoluzione, il partecipante non deve modificare la posizione di alcun pin rispetto alla posizione iniziale di scramble. Penalità: squalifica della risoluzione (DNF).

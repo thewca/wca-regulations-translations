@@ -1,6 +1,6 @@
 # <wca-title>Linee guida regolamento WCA
 
-<version>Versione: 1 Maggio 2021
+<version>Versione: 1 Gennaio 2022
 
 
 ## Note
@@ -58,6 +58,7 @@ Per rendere più semplice e immediata la consultazione, ogni Linea Guida è clas
 - 2j2+) [ESEMPIO] Ad esempio, se un partecipante è squalificato da un evento per non essersi presentato al turno finale, i suoi risultati dei turni precedenti rimangono validi.
 - 2k6+) [CHIARIMENTO] I Delegati WCA devono avvalersi della propria discrezione soltanto per evitare i casi in cui la condotta di un partecipante comprometta la competizione (es. perdita di tempo e/o risorse). Nessun partecipante deve essere squalificato per un risultato "scarso" se sta gareggiando al massimo delle sue possibilità.
 - 2s+) [PROMEMORIA] Eventuali accorgimenti devono essere riportati nel report del Delegato.
+- 2u1+) [AMPLIAMENTO] Il partecipante può competere a discrezione del Delegato WCA. Il Delegato deve attentamente valutare l'equità di tale concessione.
 
 
 ## <article-3><puzzles><puzzles> Articolo 3: I Puzzle
@@ -70,8 +71,10 @@ Per rendere più semplice e immediata la consultazione, ogni Linea Guida è clas
 - 3h+) [CHIARIMENTO] Si possono apportare modifiche interne ai puzzle quali processi di limatura, lubrificazione, o modifiche che migliorino la stabilità (es. installazione di magneti).
 - 3h++) [ESEMPIO] Esempi di modifiche non permesse: nuove mosse vengono rese possibili, le mosse normali sono impossibili da eseguire, vengono resi visibili più pezzi o facce, vengono resi visibili i colori che si trovano sul retro del puzzle, le mosse vengono eseguite automaticamente, o il puzzle possiede più/differenti configurazioni di risoluzione.
 - 3h2++) [CHIARIMENTO] I puzzle "stickerless" che differiscono significativamente dalla maggior parte di quelli prodotti in massa, sono permessi a discrezione del Delegato WCA.
+- 3h2a+) [AMPLIAMENTO] Esempi di parti trasparenti che non rivelano informazioni aggiuntive sullo stato del puzzle: parti interne del meccanismo del puzzle, rivestimento esterno del Clock.
 - 3j+) [PROMEMORIA] In passato, le parti intagliate o in rilievo erano permesse, mentre ora non lo sono più.
 - 3j++) [CHIARIMENTO] I pin presenti su una faccia del Clock possono essere distinguibili fra loro.
+- 3j1+) [PROMEMORIA] Nel Clock, pin allentati (che cambiano posizione per gravità e senza alcuna pressione) non sono da considerare logoramento ragionevole.
 - 3j2+) [CHIARIMENTO] Tutti e nove gli orologi interni per ogni lato del Clock sono considerati pezzi simili fra di loro.
 - 3k2+) [AMPLIAMENTO] Il Delegato WCA non dovrebbe applicare le eccezioni previste se ritiene che il partecipante stia tentando volontariamente di competere con un puzzle non ammissibile.
 - 3k2b+) [CHIARIMENTO] Se un puzzle viene giudicato non ammissibile durante un tentativo di Multi-Blind, il puzzle non deve essere scambiato o rimosso dal tentativo, e deve essere considerato non risolto se il tentativo non viene squalificato.
@@ -156,9 +159,9 @@ Per rendere più semplice e immediata la consultazione, ogni Linea Guida è clas
 - A2c1+) [PROMEMORIA] In passato, i foglietti per registrare i tempi sono stati usati come cover per i cubi, prima dell’inizio della risoluzione. Dato che questo metodo lascia, nella maggior parte dei casi, scoperte alcune parti del puzzle, non è più possibile usare questa soluzione.
 - A2d1+) [AMPLIAMENTO] Se prima di un tentativo manca la firma dello scramble, il puzzle deve essere immediatamente riportato a un mischiatore per la verifica e la successiva firma.
 - A2d1++) [AMPLIAMENTO] Un tentativo non deve essere squalificato soltanto perché manca la firma del mischiatore. Se dopo l'inizio del tentativo manca la firma del mischiatore, il giudice deve lasciar proseguire il tentativo (se è ancora in corso), e il Delegato WCA dovrebbe convalidare il risultato. Tuttavia, se ha ulteriori motivi (oltre la mancanza della firma) per credere che lo scramble fosse errato, il Delegato WCA può sostituire il risultato con un tentativo extra.
-- A2d1+++) [PROMEMORIA] Sebbene il Delegato WCA possa concedere svariati risultati individuali privi della firma del mischiatore, resta suo compito assicurarsi che l'assenza di firme per lo scramble non diventi un problema frequente.
+- A2d1+++) [PROMEMORIA] Sebbene il Delegato WCA possa concedere svariati risultati individuali privi della firma del mischiatore, resta suo compito assicurarsi che l'assenza di firme per lo scramble non diventi un problema frequente. 
 - A3c3+) [CHIARIMENTO] Se il giudice se ne dimentica, il partecipante può azzerare il timer prima dell'inizio dell'ispezione o durante questa. È comunque responsabilità del giudice assicurarsi che il timer sia stato azzerato (vedi [Regola A3b](regulations:regulation:A3b)). Se il partecipante dovesse accidentalmente tentare di iniziare la risoluzione senza che il timer sia stato azzerato (es. il partecipante effettua l'ispezione, piazza le mani sul timer per un periodo di tempo sufficientemente lungo assumendo che questo sia sufficiente per avviare il timer e poi inizia ad adoperarlo), il tentativo dovrebbe essere sostituito da uno extra, a discrezione del Delegato WCA.
-- A3c3++) [CHIARIMENTO] Il partecipante non può "provare" il timer avviandolo e azzerandolo durante l'ispezione, poiché l'ispezione finisce quando il partecipante inizia la risoluzione (vedi [Regola A4d](regulations:regulation:A4d)). Se il partecipante ferma il timer dopo averlo avviato la prima volta, questo è considerato come fermare la solve (vedi [Regola A6](regulations:regulation:A6)), anche nel caso in cui ciò avvenga entro i 15 secondi dall'inizio dell'ispezione.
+- A3c3++) [CHIARIMENTO] Il partecipante non può "provare" il timer avviandolo e azzerandolo durante l'ispezione, poiché l'ispezione finisce quando il partecipante inizia la risoluzione (vedi [Regola A4d](regulations:regulation:A4d)). Se il partecipante ferma il timer dopo averlo avviato la prima volta, questo è considerato come fermare la solve (vedi [Regola A6](regulations:regulation:A6)), anche nel caso in cui ciò avvenga entro i 15 secondi dall'inizio dell'ispezione. 
 - A3c4+) [CHIARIMENTO] Se è stato forzato l'utilizzo di uno spessore all'interno del puzzle, il giudice non deve rimuoverlo per conto del partecipante.
 - A3c4++) [CHIARIMENTO] In caso lo spessore non sia stato rimosso durante la fase di ispezione, il partecipante può rimuoverlo durante quella di risoluzione (es. il partecipante si è dimenticato).
 - A5b+) [CHIARIMENTO] Durante l'ispezione o la risoluzione del puzzle, il partecipante può toccarlo con qualsiasi parte del corpo. Eccezione: risoluzione con una mano (One Handed) (vedi [Regola C1b](regulations:regulation:C1b)).
@@ -207,7 +210,8 @@ Per rendere più semplice e immediata la consultazione, ogni Linea Guida è clas
 
 ## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Articolo H: Risoluzione Multi-Blind
 
-- H1+) [AMPLIAMENTO] Se durante un tentativo viene individuato un puzzle con uno scramble duplicato, il puzzle può essere rimescolato utilizzando uno scramble diverso, a discrezione del Delegato WCA.
+- H1+) [AMPLIAMENTO] Se durante un tentativo viene individuato un puzzle con uno scramble duplicato, il puzzle può essere rimescolato utilizzando uno scramble diverso, a discrezione del Delegato WCA. 
+- H1b+) [AMPLIAMENTO] A discrezione del Delegato WCA, un partecipante può inserirsi in un tentativo di Multi-Blind in corso. In tal caso, il time limit previsto per il partecipante sarà il tempo rimanente (ovvero dovrà finire quando gli altri partecipanti avranno raggiunto il proprio time limit). Eccezione: un partecipante non ha diritto ad unirsi a un tentativo di Multi-Blind nel caso in cui uno o più partecipanti abbiano già terminato il proprio tentativo, oppure se c'è il rischio che il partecipante in questione abbia potuto ottenere informazioni riguardo gli scramble.
 - H1b1+) [PROMEMORIA] La risoluzione non è squalificata nel caso del raggiungimento del tempo limite, a causa di alcune clausole nel regolamento riguardo alla risoluzione Multi-Blind (vedi [Regola A1a4](regulations:regulation:A1a4) e [Regola A1a5](regulations:regulation:A1a5)).
 - H1b1++) [AMPLIAMENTO] Il giudice può permettere al partecipante di continuare il tentativo in via non ufficiale, ma prima di ciò la risoluzione ufficiale deve essere fermata e registrata, come da Regolamento.
 - H1d+) [ESEMPIO] Esempio: Se un partecipante prova a risolvere 10 cubi, stoppa con un tempo di 59:57 e ha due penalità di tempo, il tempo per il risultato finale è 59:57 + 2*2 = 60:01 (vedi anche (vedi [Regola A1a5](regulations:regulation:A1a5)).
