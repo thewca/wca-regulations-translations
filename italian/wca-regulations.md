@@ -459,7 +459,7 @@ Nota: potrebbero esserci discrepanze nella numerazione dei vari articoli, visto 
     - B3d) Se gli strati del puzzle non sono perfettamente allineati, il partecipante può allinearli, a patto che il disallineamento corretto rientri nei limiti stabili in [Regola 10f](regulations:regulation:10f) (vedi [Regola A3c2](regulations:regulation:A3c2)).
 - B4) Fase a occhi bendati:
     - B4a) Il partecipante deve indossare la benda per iniziare la fase a occhi bendati.
-        - B4a1) Finché non ha effettuato la prima mossa sul puzzle, il partecipante può rimuovere la benda per tornare alla fase di memorizzazione. 
+        - B4a1) Finché non ha effettuato la prima mossa sul puzzle, il partecipante può rimuovere la benda per tornare alla fase di memorizzazione.
     - B4b) Il partecipante non deve applicare nessuna mossa prima di aver correttamente indossato la benda. Penalità: squalifica dal tentativo (DNF).
     - B4c) Non appena il partecipante effettua la prima mossa sul puzzle, il giudice deve assicurarsi che sia presente un oggetto opaco (es. foglio di carta o cartone) interposto tra il volto del partecipante e il puzzle.
         - B4c1) In ogni caso, il partecipante deve indossare la benda in modo che la vista del puzzle sia efficacemente bloccata anche se non ci fosse alcun oggetto opaco interposto tra sè e il puzzle.
@@ -512,7 +512,7 @@ Nota: potrebbero esserci discrepanze nella numerazione dei vari articoli, visto 
 
 - F1) Si applicano le procedure standard, come descritte nell'[Articolo A](regulations:article:A) (Speed Solving). Di seguito sono riportate delle regole aggiuntive che sostituiscono le corrispettive procedure descritte nell'[Articolo A](regulations:article:A).
 - F2) Il giudice posizione il puzzle scombinato sul tappetino in posizione eretta.
-    - F2a) Il team organizzativo può richiedere di utilizzare uno stand per il puzzle per evitare che questo cada prima dell'inizio del tentativo. Se è previsto l'utilizzo degli stand, il team organizzativo deve annunciarlo prima dell'inizio di ciascun round. 
+    - F2a) Il team organizzativo può richiedere di utilizzare uno stand per il puzzle per evitare che questo cada prima dell'inizio del tentativo. Se è previsto l'utilizzo degli stand, il team organizzativo deve annunciarlo prima dell'inizio di ciascun round.
         - F2a1) Il giudice deve rimuovere lo stand dal tappetino non appena il partecipante solleva il puzzle dallo stand.
 - F3) Alla fine della fase di ispezione, il partecipante posiziona il puzzle in posizione verticale. Penalità: squalifica della risoluzione (DNF).
     - F3a) Prima di iniziare la risoluzione, il partecipante non deve modificare la posizione di alcun pin rispetto alla posizione iniziale di scramble. Penalità: squalifica della risoluzione (DNF).
