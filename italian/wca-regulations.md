@@ -81,8 +81,8 @@ Nota: potrebbero esserci discrepanze nella numerazione dei vari articoli, visto 
     - 2i1) A discrezione del Delegato WCA, i partecipanti possono utilizzare dispositivi non elettronici, a patto che questi ultimi non diano ingiustamente vantaggio al partecipante. Sono inclusi:
         - 2i1a) Supporti medici/fisici indossati dal partecipante (es. occhiali, polsiera). In eccezione a [Regola 2i](regulations:regulation:2i), gli aiuti medici possono essere elettronici se il partecipante non ha una valida alternativa non elettronica (es. apparecchio acustico, pacemaker)
         - 2i1b) Tappi per orecchie e cuffie insonorizzanti (ma non cuffiette elettroniche o cuffie con sistema di cancellazione del rumore).
-       - 2i1c) Scaldamani.
-       - 2i1d) Cibo e bevande.
+        - 2i1c) Scaldamani.
+        - 2i1d) Cibo e bevande.
     - 2i2) I partecipanti possono utilizzare fotocamere/videocamere quando si trovano in postazione di gara, a discrezione del Delegato WCA. Le seguenti restrizioni si applicano dall'inizio del tentativo di risoluzione fino a quando il partecipante non ferma il timer. Pena la squalifica dal tentativo (DNF).
         - 2i2a) Qualsiasi monitor/display del dispositivo deve essere vuoto o completamente non visibile dal partecipante (vedi [Regola A5b](regulations:regulation:A5b)).
         - 2i2b) Il partecipante non deve interagire con alcun dispositivo attivo (operare, reggere, indossare). Eccezione: il partecipante può indossare una videocamera montata sulla testa, a patto che questa sia totalmente fuori dal suo campo visivo e sia chiaro che il partecipante non stia interagento con essa, se non indossandola.
@@ -485,7 +485,7 @@ Nota: potrebbero esserci discrepanze nella numerazione dei vari articoli, visto 
 
 - E2) Procedure per la risoluzione Fewest Moves:
     - E2a) Il giudice distribuisce una sequenza di scramble e dei fogli di carta a tutti i partecipanti. Il giudice quindi fa partire il cronometro e annuncia il "VIA".
-       - E2a1) Prima che il tentativo abbia inizio, il partecipante non deve scrivere nulla sui fogli adibiti alla risoluzione. Eccezione: il partecipante può scrivere le informazioni richieste per identificare il tentativo (vedi [Regola E2c1](regulations:regulation:E2c1)). Se le informazioni verranno scritte sul foglio che contiene la sequenza di scramble, queste dovranno essere scritte prima dell'inizio della risoluzione, dal lato che non contiene lo scramble. Penalità per aver scritto dati non necessari sul foglio: squalifica del tentativo (DNF).
+        - E2a1) Prima che il tentativo abbia inizio, il partecipante non deve scrivere nulla sui fogli adibiti alla risoluzione. Eccezione: il partecipante può scrivere le informazioni richieste per identificare il tentativo (vedi [Regola E2c1](regulations:regulation:E2c1)). Se le informazioni verranno scritte sul foglio che contiene la sequenza di scramble, queste dovranno essere scritte prima dell'inizio della risoluzione, dal lato che non contiene lo scramble. Penalità per aver scritto dati non necessari sul foglio: squalifica del tentativo (DNF).
     - E2b) I partecipanti hanno un tempo limite totale di 60 minuti per trovare una soluzione.
         - E2b1) Il giudice deve annunciare "5 MINUTI RIMANENTI" al trascorrere dei 55 minuti e deve annunciare "STOP" al raggiungimento dei 60 minuti.
     - E2c) Al raggiungimento dei 60 minuti, ciascun partecipante deve consegnare al giudice un solo foglio di carta con una soluzione scritta in modo leggibile e i dati identificativi.
