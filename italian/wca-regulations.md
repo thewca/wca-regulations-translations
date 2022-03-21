@@ -209,7 +209,7 @@ Nota: potrebbero esserci discrepanze nella numerazione dei vari articoli, visto 
     - 7f4) I Pro Timer 5ᵃ Generazione devono essere utilizzati in modalità "2-pad".
 - 7h) La competizione deve avere una o più Aree Partecipanti (sostituita da [Regola Y6a](regulations:regulation:Y6a)).
     - 7h1) Il team organizzativo potrebbe chiedere ad un partecipante che è stato chiamato a risolvere di rimanere nella propria Area Partecipanti designata fino a che non abbia completato tutti i suoi tentativi per quel particolare round.
-   - 7h2) Definizione: l'Area Partecipanti (area d'attesa) è l'area nella quale i partecipanti di un gruppo attendono di essere chiamati ad una postazione per la risoluzione.
+    - 7h2) Definizione: l'Area Partecipanti (area d'attesa) è l'area nella quale i partecipanti di un gruppo attendono di essere chiamati ad una postazione per la risoluzione.
 
 
 ## <article-9><events><events> Articolo 9: Eventi
