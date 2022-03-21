@@ -404,7 +404,7 @@ Nota: potrebbero esserci discrepanze nella numerazione dei vari articoli, visto 
 - A5) Durante la risoluzione:
     - A5a) Durante l'ispezione e la risoluzione del puzzle, il partecipante non deve comunicare con nessuno, fatta eccezione per il giudice e il Delegato WCA. Penalità: annullamento del tentativo (DNF).
     - A5b) Durante l'ispezione e la risoluzione del puzzle, il partecipante non deve ricevere alcun aiuto da persone o oggetti, fatta eccezione per la superficie del tavolo. (vedi anche [Regola 2i](regulations:regulation:2i)). Penalità: annullamento del tentativo (DNF).
-   - A5c) Il partecipante può poggiare il puzzle sulla superficie del tavolo per aiutarsi nell'adoperare il puzzle (vedi [Regola 7f1d](regulations:regulation:7f1d)).
+    - A5c) Il partecipante può poggiare il puzzle sulla superficie del tavolo per aiutarsi nell'adoperare il puzzle (vedi [Regola 7f1d](regulations:regulation:7f1d)).
 - A6) Termine della risoluzione:
     - A6a) Il partecipante termina la risoluzione rilasciando completamente il puzzle e arrestando il timer. Se si utilizza un cronometro a mano, il giudice ferma il cronometro non appena il partecipante poggia le mani sul timer.
         - A6a1) Se si utilizza esclusivamente il cronometro a mano, il partecipante termina la risoluzione rilasciando completamente il puzzle e informando il giudice che ha finito. Il giudice ferma il cronometro non appena il partecipante lo comunica.
