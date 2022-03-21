@@ -208,9 +208,9 @@ Per rendere più semplice e immediata la consultazione, ogni Linea Guida è clas
 - E3d++) [CHIARIMENTO] I partecipanti non dovrebbero far riferimento al tempo indicato dal proprio orologio o cronometro a mano come al tempo ufficiale, ma devono sottomettere la loro soluzione allo "STOP" del giudice.
 
 
-## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Articolo H: Risoluzione Multi-Blind
+## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Articolo H:  Risoluzione Multi-Blind
 
-- H1+) [AMPLIAMENTO] Se durante un tentativo viene individuato un puzzle con uno scramble duplicato, il puzzle può essere rimescolato utilizzando uno scramble diverso, a discrezione del Delegato WCA
+- H1+) [AMPLIAMENTO] Se durante un tentativo viene individuato un puzzle con uno scramble duplicato, il puzzle può essere rimescolato utilizzando uno scramble diverso, a discrezione del Delegato WCA.
 - H1b+) [AMPLIAMENTO] A discrezione del Delegato WCA, un partecipante può inserirsi in un tentativo di Multi-Blind in corso. In tal caso, il time limit previsto per il partecipante sarà il tempo rimanente (ovvero dovrà finire quando gli altri partecipanti avranno raggiunto il proprio time limit). Eccezione: un partecipante non ha diritto ad unirsi a un tentativo di Multi-Blind nel caso in cui uno o più partecipanti abbiano già terminato il proprio tentativo, oppure se c'è il rischio che il partecipante in questione abbia potuto ottenere informazioni riguardo gli scramble.
 - H1b1+) [PROMEMORIA] La risoluzione non è squalificata nel caso del raggiungimento del tempo limite, a causa di alcune clausole nel regolamento riguardo alla risoluzione Multi-Blind (vedi [Regola A1a4](regulations:regulation:A1a4) e [Regola A1a5](regulations:regulation:A1a5)).
 - H1b1++) [AMPLIAMENTO] Il giudice può permettere al partecipante di continuare il tentativo in via non ufficiale, ma prima di ciò la risoluzione ufficiale deve essere fermata e registrata, come da Regolamento.
