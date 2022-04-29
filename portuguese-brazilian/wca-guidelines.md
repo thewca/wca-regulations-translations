@@ -76,7 +76,7 @@ Para ser mais informativa, cada Orientação é classificada com um dos seguinte
 - 3h2a+) [ADIÇÃO] Exemplos de partes transparentes que não revelam mais informações quanto ao estado do quebra-cabeça: partes internas do mecanismo do quebra-cabeça, estojos de Clock transparentes.
 - 3j+) [LEMBRETE] No passado, peças gravadas ou com relevo eram permitidas. Tais peças não são mais permitidas.
 - 3j++) [ESCLARECIMENTO] No Clock, um pino pode ser diferenciável dos outros pinos na mesma face.
-- 3j1+ [LEMBRETE] No Clock, pinos folgados (isso é, pinos que podem subir ou descer utilizando-se da gravidade ao invés de serem diretamente pressionados) não são considerados como tendo desgaste razoável.
+- 3j1+) [LEMBRETE] No Clock, pinos folgados (isso é, pinos que podem subir ou descer utilizando-se da gravidade ao invés de serem diretamente pressionados) não são considerados como tendo desgaste razoável.
 - 3j2+) [ESCLARECIMENTO] No Clock, os nove relógios internos em uma face são considerados peças similares.
 - 3k2+) [ADIÇÃO] O Delegado da WCA não deve aplicar uma das exceções listadas caso acredite que o competidor tentou utilizar um quebra-cabeça não permitido de próposito.
 - 3k2b+) [ESCLARECIMENTO] Se um quebra-cabeça não permitido for descoberto durante uma tentativa de 3x3x3 Múltiplos Cubos Vendado, o quebra-cabeça não deve ser trocado ou removido da tentativa e deverá ser contado como não resolvido se a tentativa inteira não for desqualificada.

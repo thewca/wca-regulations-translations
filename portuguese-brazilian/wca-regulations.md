@@ -89,8 +89,8 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
     - 2i2) Os competidores podem usar câmeras na estação de resolução a critério do Delegado da WCA, mas as seguintes restrições se aplicam do início da tentativa até que o competidor termine a resolução. Pena por violar uma restrição: desqualificação da tentativa (DNF).
         - 2i2a) Todos os monitores da câmera têm que estar em branco ou fora do campo de visão do competidor (ver [Regra A5b](regulations:regulation:A5b)).
         - 2i2b) O competidor não pode interagir (p. ex. operar, segurar, vestir) com nenhuma câmera ativa. Exceção: o competidor pode usar uma câmera presa à sua cabeça, contanto que esteja fora de seu campo de visão e que esteja claro que ele não está interagindo com ela (além de estar vestindo ela).
-    - 2i3) O competitor pode ter um celular no seu bolso, contanto que esteja claro que o competidor não está de alguma forma interagindo com o celular.
-    -2i4) Competidor devem desligar todas as notificações do celular enquanto competindo para evitar atrapalhar a competição.
+    - 2i3) O competidor pode ter um celular no seu bolso, contanto que esteja claro que o competidor não está de alguma forma interagindo com o celular.
+    - 2i4) Competidor devem desligar todas as notificações do celular enquanto competindo para evitar atrapalhar a competição.
 - 2j) O Delegado da WCA pode desqualificar um competidor de um evento específico.
     - 2j1) Se um competidor for desqualificado de um evento por qualquer motivo, ele não tem direito a mais nenhuma tentativa naquele evento.
         - 2j1a) Se o competidor já tiver começado pelo menos uma tentativa em uma rodada antes de ser desqualificado dela, os resultados de todas as tentativas restantes no evento são registrados como DNF. Se o competidor não tiver começado nenhuma tentativa (isso é, não tiver nenhum resultado ou apenas resultados DNS), nenhum resultado é registrado.
