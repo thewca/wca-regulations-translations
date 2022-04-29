@@ -1,11 +1,11 @@
 # <wca-title>Orientações Adicionais da WCA
 
-<version>Versão: 1 de agosto de 2020
+<version>Versão: 1 de janeiro de 2022
 
 
 ## Notas
 
-Última revisão textual: 1 de agosto de 2020
+Última revisão textual: 1 de janeiro de 2022
 
 ### Regulamento da WCA
 
@@ -45,8 +45,6 @@ Para ser mais informativa, cada Orientação é classificada com um dos seguinte
 ## <article-2><competitors><competitors> Artigo 2: Competidores
 
 - 2c+) [ADIÇÃO] Competidores novatos devem se inscrever usando seu nome legal. É permitido usar uma versão reduzida do nome ou um apelido razoável, a critério do Delegado da WCA.
-- 2c1+) [ADIÇÃO] Os requisitos de uma inscrição completa precisam estar claramente indicados no website da competição.
-- 2c1++) [EXEMPLO] A equipe de organização pode requerer por exemplo que um e-mail de confirmação seja respondido até uma certa data, pagamento antecipado da taxa de inscrição ou pagamento de taxas de inscrição de competições passadas. Os organizadores devem considerar cuidadosamente se os requisitos são justos.
 - 2c2+) [ESCLARECIMENTO] Um perfil da WCA é a reunião de dados relacionados à um competidor, e inclui suas informações pessoais (nome, nacionalidade, gênero e data de nascimento) assim como todos os seus resultados em competições oficiais da WCA.
 - 2d+) [ADIÇÃO] Data de nascimento e informações de contato devem ser especialmente protegidas.
 - 2d++) [RECOMENDAÇÃO] Se algum terceiro (p. ex. um jornalista) solicitar à equipe de organização o contato de algum competidor, deve ser previamente solicitado consentimento ao competidor.
@@ -62,6 +60,7 @@ Para ser mais informativa, cada Orientação é classificada com um dos seguinte
 - 2j2+) [EXEMPLO] Por exemplo, se um competidor for desqualificado de um evento por não se apresentar a tempo para a rodada final, seus resultados das rodadas anteriores continuam válidos.
 - 2k6+) [ESCLARECIMENTO] Delegados da WCA devem apenas usar seu arbítrio para evitar que competidores sejam um detrimento severo à competição (p. ex. desperdiçar tempo e/ou recursos da competição). Competidores não devem ser desqualificador por um resultado "ruim" quando estão competindo com o seu maior esforço.
 - 2s+) [LEMBRETE] Acomodações especiais precisam ser informadas no relatório do Delegado.
+- 2u1+) [ADIÇÃO] O competidor pode competir a critério do Delegado da WCA. O Delegado da WCA precisa considerar com cuidado a justiça desta decisão.
 
 
 ## <article-3><puzzles><puzzles> Artigo 3: Quebra-cabeças
@@ -74,8 +73,10 @@ Para ser mais informativa, cada Orientação é classificada com um dos seguinte
 - 3h+) [ESCLARECIMENTO] Quebra-cabeças podem ser aprimorados internamente lixando-os, lubrificando-os ou fazendo modificações que melhorem a estabilidade (p. ex. ímãs).
 - 3h++) [EXEMPLO] Exemplos de melhorias incluem: novos movimentos são possíveis, movimentos normais não são possíveis, mais peças são visíveis, cores na parte de trás do quebra-cabeça são visíveis, movimentos são feitos automaticamente, ou o quebra-cabeça tem mais/diferentes estados resolvidos.
 - 3h2++) [ESCLARECIMENTO] Quebra-cabeças "stickerless" que sejam significativamente diferentes da maioria dos quebra-cabeças "stickerless" produzidos em massa somente são permitidos a critério do Delegado da WCA.
+- 3h2a+) [ADIÇÃO] Exemplos de partes transparentes que não revelam mais informações quanto ao estado do quebra-cabeça: partes internas do mecanismo do quebra-cabeça, estojos de Clock transparentes.
 - 3j+) [LEMBRETE] No passado, peças gravadas ou com relevo eram permitidas. Tais peças não são mais permitidas.
 - 3j++) [ESCLARECIMENTO] No Clock, um pino pode ser diferenciável dos outros pinos na mesma face.
+- 3j1+ [LEMBRETE] No Clock, pinos folgados (isso é, pinos que podem subir ou descer utilizando-se da gravidade ao invés de serem diretamente pressionados) não são considerados como tendo desgaste razoável.
 - 3j2+) [ESCLARECIMENTO] No Clock, os nove relógios internos em uma face são considerados peças similares.
 - 3k2+) [ADIÇÃO] O Delegado da WCA não deve aplicar uma das exceções listadas caso acredite que o competidor tentou utilizar um quebra-cabeça não permitido de próposito.
 - 3k2b+) [ESCLARECIMENTO] Se um quebra-cabeça não permitido for descoberto durante uma tentativa de 3x3x3 Múltiplos Cubos Vendado, o quebra-cabeça não deve ser trocado ou removido da tentativa e deverá ser contado como não resolvido se a tentativa inteira não for desqualificada.
@@ -96,6 +97,7 @@ Para ser mais informativa, cada Orientação é classificada com um dos seguinte
 - 4f+) [RECOMENDAÇÃO] O Delegado da WCA deve gerar sequências de embaralhamento suficientes para todo a competição previamente, incluindo sequências para tentativas adicionais.
 - 4f++) [LEMBRETE] Se o Delegado da WCA gerar qualquer sequência de embaralhamento adicional durante a competição, as sequências de embaralhamento precisam ser salvas.
 
+
 ## <article-5><puzzle-defects><puzzledefects> Artigo 5: Defeitos nos quebra-cabeças
 
 - 5b+) [ADIÇÃO] O competidor não tem permissão de causar um defeito no quebra-cabeça intencionalmente, a não ser corrigindo um defeito prévio do quebra-cabeça (ver [Regra 5b3b](regulations:regulation:5b3b) e [Regra 5b3c](regulations:regulation:5b3c)). Exemplos de causar defeitos intencionais no quebra-cabeça: remover uma tampa de centro acoplada, girar uma peça de quina, remover um adesivo.
@@ -106,20 +108,10 @@ Para ser mais informativa, cada Orientação é classificada com um dos seguinte
 - 5c+) [LEMBRETE] Se um competidor tem um defeito no quebra-cabeça, isso não dá a ele o direito de uma tentativa adicional.
 
 
-## <article-6><awards><awards> Artigo 6: Prêmios/honrarias
-
-- 6a+) [RECOMENDAÇÃO] Prêmios ou honrarias podem ser dados aos competidores de acordo com os anúncios da competição.
-- 6b+) [RECOMENDAÇÃO] Competidores devem participar da cerimônia de premiação para receber prêmios/honrarias.
-- 6b1+) [RECOMENDAÇÃO] A cerimônia de premiação deve ser feita no local da competição, dentro de uma hora após o fim do último evento.
-- 6c+) [RECOMENDAÇÃO] Os ganhadores de prêmios ou honrarias devem estar preparados para falar com jornalistas ou outras mídias que estejam cobrindo a competição.
-- 6d+) [RECOMENDAÇÃO] Equipes de organização devem ter certificados para os vencedores de cada categoria, assinados pelo líder da equipe de organização e pelo Delegado da WCA.
-
-
 ## <article-7><environment><environment> Artigo 7: Ambiente
 
-- 7d+) [ADIÇÃO] A temperatura no local de competição deve estar entre 21 e 25 graus Celsius.
 - 7f1a+) [ESCLARECIMENTO] Um tapete de tamanho completo deve ter dimensões mínimas de 30 cm (esquerda-direita) por 25 cm (frente-trás).
-- 7h2+) [ADIÇÃO] Os competidores em uma Área de Competidores não devem conseguir ver os quebra-cabeças dos competidores nas estações de resolução.
+- 7h2+) [ADIÇÃO] Os competidores em uma Área de Espera de Competidores não devem conseguir ver os quebra-cabeças dos competidores nas estações de resolução.
 
 
 ## <article-9><events><events> Artigo 9: Eventos
@@ -129,9 +121,12 @@ Para ser mais informativa, cada Orientação é classificada com um dos seguinte
 - 9b3b+) [ESCLARECIMENTO] A estatística “Média de 3” não afeta o posicionamento do competidor em uma rodada “Melhor de 3” (que é baseado no melhor resultado). A WCA reconhece esta estatística separadamente do formato da competição.
 - 9f1+) [EXEMPLO] Se o timer mostrar 12.678 em uma tentativa, o tempo original registrado é 12.67 (desconsiderar qualquer dígito além dos centésimos de segundo). O juiz pode escrever o tempo com precisão integral (três dígitos decimais) na súmula (e mantê-la no cálculo de penas), contanto que o anotador de resultados faça o ajuste nos resultados oficiais.
 - 9f4+) [EXPLICAÇÃO] O resultado de uma tentativa é DNF somente se o competidor iniciou a tentativa indicando que estava pronto (ver [Regra A3b2](regulations:regulation:A3b2)) mas a tentativa foi desqualificada.
-- 9f5+) [ESCLARECIMENTO] O resultado de uma tentativa é DNS se o competidor tinha direito à tentativa mas não a iniciou (ver [Regra A3b2](regulations:regulation:A3b2)). Se o competidor não se qualificou para uma tentativa (p. ex. numa rodada de corte), ele não tem nenhum resultado para aquela tentativa.
+- 9f5+) [ESCLARECIMENTO] O resultado de uma tentativa é DNS se o competidor tinha direito à tentativa mas não a iniciou (ver [Regra A3b2](regulations:regulation:A3b2)). Se o competidor não se qualificou para uma tentativa (p. ex. numa Rodada de Corte), ele não tem nenhum resultado para aquela tentativa.
 - 9p2+) [ESCLARECIMENTO] "Resultado" se refere ao tempo único ou média que determina a posição do competidores naquela rodada.
 - 9q+) [RECOMENDAÇÃO] Eventos e rodadas devem ter no mínimo 2 competidores.
+- 9t+) [EXPLICAÇÃO] Por conta do [9t1](regulations:regulation:9t1) e [9t2] (regulations:regulation:9t2), as rodadas podem aparentemente não cumprir [9p1](regulations:regulation:9p1), [9m1](regulations:regulation:9m1), [9m2](regulations:regulation:9m2) ou [9m3](regulations:regulation:9m3). No entanto, fazer mudanças para cumprir estas regras afetaria competidores inocentes, o que justifica que os resultados sejam mantidos os mesmos.
+-9t++) [ADIÇÃO] Se a mudança dos resultados acontecer durante a competição, esta regra também pode ser aplicada. Neste caso, [9t1](regulations:regulation:9t1), [9t2](regulations:regulation:9t2) e [9t3](regulations:regulation:9t3) devem também ser seguidos, a critério do Delegado da WCA.
+9t3+) [EXEMPLO] Supondo que o competidor A obtenha uma média de 10,00 e o competidor B obtenha uma média de 10,05 na primeira rodada de uma modalidade, de modo que o competidor A avance para a final mas o competidor B, não. Se um erro de anotação dos resultados for descoberto, e o competidor B tenha, na verdade, obtido uma média de 9.95 (e devesse ter avançado no lugar de A), o competidor A terá o seu resultado da final mantido.
 
 
 ## <article-10><solved-state><solvedstate> Artigo 10: Estado Resolvido
@@ -176,11 +171,9 @@ Para ser mais informativa, cada Orientação é classificada com um dos seguinte
 - A6b+) [EXPLICAÇÃO] O valor arbitrário de 0,06 foi escolhido para levar em conta imprecisões devidas ao mau funcionamento do timer Stackmat.
 - A6e+) [ESCLARECIMENTO] Se o quebra-cabeça cair no colo do competidor após este ter parado o timer, isso é considerado como tocar o quebra-cabeça.
 - A7c+) [ADIÇÃO] Se um resultado assinado por um competidor estiver incompleto ou ilegível, deve ser interpretado da pior forma possível (p. ex. "1:05" será considerado 1:05.99, "25.X3" será considerado 25.73 se X puder ser um 1 ou um 7). Considerando que o timer Stackmat mostra um tempo de X:0Y.ss como X:Y.ss, uma dezena faltando deve ser considerada mais provável do que um dígito faltando (p. ex. "1:2.27" será considerado 1:02.27). O juiz que assinou um resultado ambíguo pode ser solicitado a esclarecê-lo, a critério do anotador de resultados.
-- A7c4+) [ADIÇÃO] Assinaturas ausentes encontradas pelo anotador de resultados ser adicionadas pelo juiz e/ou pelo competidor antes do fim da competição, a critério do Delegado da WCA.
 - A7g+) [EXEMPLO] Exemplos de incidentes que podem dar a um competidor novato uma tentativa adicional: não esperar a luz verde do timer, iniciar ou parar o timer incorretamente, exceder o período de inspeção em virtude de não entender como iniciar a tentativa, ou outras penas por erros procedimentais.
 - A7g++) [ESCLARECIMENTO] Punições individuais não podem ser dispensadas para competidores novatos. Uma tentativa adicional deve ser concedida.
 - A7g+++) [RECOMENDAÇÃO] O Delegado da WCA deve ter especial cuidado quando conceder mais de uma tentativa adicional para o mesmo competidor novato. Se mais de uma tentativa adicional for concedida, deve ser devido a um tipo de incidente diferente.
-
 
 
 ## <article-B><blindfolded><blindfoldedsolving> Artigo B: Resolução Vendada
@@ -219,6 +212,7 @@ Para ser mais informativa, cada Orientação é classificada com um dos seguinte
 ## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Artigo H: Resolvendo Múltiplos Vendados
 
 - H1+) [ADIÇÃO] Se um quebra-cabeça com um embaralhamento duplicado for encontrado durante uma tentativa, o quebra-cabeça pode ser re-embaralhado usando uma sequência de embaralhamento diferente, a critério do Delegado da WCA.
+- H1b+) [ADIÇÃO] Um competidor pode participar de uma tentativa de Múltiplos Vendados que já está em andamento, a critério do Delegado da WCA. Nesse caso, o seu limite de tempo é o tempo restante (isso é, ele precisa acabar quando outros competidores atingirem o seu limite). Exceção: um competidor não pode ser autorizado a participar de uma tentativa de Múltiplos Vendados se qualquer dos competidores já tiver terminado a sua tentativa, ou se existe qualquer outro risco de que informações sobre o embaralhamento tenham chegado ao competidor que deseja participar.
 - H1b1+) [LEMBRETE] A tentativa não é desqualificada por atingir o tempo limite, devido às exceções para Resolução de Múltiplos Cubos Vendado (ver [Regra A1a4](regulations:regulation:A1a4) e [Regra A1a5](regulations:regulation:A1a5)).
 - H1b1++) [ADIÇÃO] O juiz pode permitir ao competidor continuar a tentativa extra-oficialmente, mas esta tem que ser interrompida e julgada primeiro, de acordo com o Regulamento.
 - H1d+) [EXEMPLO] Exemplo: Suponha que um competidor tente 10 cubos, termine a resolução com um tempo de 59:57 e tenha duas penas de tempo. O resultado final é 59:57 +2 +2 = 60:01 (ver também [Regra A1a5](regulations:regulation:A1a5)).

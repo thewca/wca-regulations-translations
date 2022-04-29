@@ -1,14 +1,14 @@
 # <wca-title>Regulamento da WCA 2020
 
-<version>Versão: 1 de agosto de 2020
+<version>Versão: 1 de janeiro de 2022
 
 
 ## Notas
 
-Última revisão textual: 1 de agosto de 2020
+Última revisão textual: 1 de janeiro de 2022
 
 ### Tradução
-Portuguese - 2020
+Portuguese - 2022
 
 Por favor atente-se para o fato de que essa tradução não é uma versão oficial (embora seja disponibilizada no site da WCA): ela pode ser útil, mas não vem com nenhuma garantia. Se houver diferenças entre uma tradução e a versão em inglês (atualmente oficial), esta última deve ser usada.
 
@@ -78,9 +78,9 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
     - 2e3) Os competidores que não tem cidadania podem competir como "Sem Estado".
 - 2f) Os competidores têm que obedecer às regras do local e se portar de maneira apropriada.
 - 2g) Os competidores precisam permanecer quietos quando estiverem dentro da área designada de competição. É permitido falar, mas o barulho tem que ser mantido em um nível razoável, e distante dos competidores que estiverem competindo ativamente.
-    - 2g3) Os competidores em uma Área de Competidores não podem se comunicar uns com os outros sobre os embaralhamentos dos quebra-cabeças da rodada em progresso. Pena: desqualificação do competidor(es) daquele evento, a critério do Delegado da WCA.
+    - 2g3) Os competidores em uma Área de Espera de Competidores não podem se comunicar uns com os outros sobre os embaralhamentos dos quebra-cabeças da rodada em progresso. Pena: desqualificação do competidor(es) daquele evento, a critério do Delegado da WCA.
 - 2h) Os competidores precisam estar totalmente vestidos dentro do local de competição. A critério do Delegado, competidores podem ser desqualificados da competição por se vestir de maneira inadequada.
-- 2i) Enquanto estiverem competindo, os competidores não podem usar equipamentos eletrônicos ou de áudio (p. ex. celulares, tocadores de MP3, dictafones, iluminação adicional) além do timer Stackmat ou cronômetro.
+- 2i) Enquanto estiverem competindo ou resolvendo, os competidores não podem usar equipamentos eletrônicos ou de áudio (p. ex. celulares, tocadores de MP3, dictafones, iluminação adicional) além do timer Stackmat ou cronômetro.
     - 2i1) Os competidores podem usar certas assistências não-eletrônicas que não dêem a eles uma vantagem injusta, a critério do Delegado da WCA. Isso inclui:
         - 2i1a) Assistência médica ou física usada pelo competidor (p. ex. óculos, munhequeira). Como exceção à [Regra 2i](regulations:regulation:2i), assistência médica eletrônica pode ser utilizado caso o competidor não tenha alternativas não-eletrônica confortáveis (p. ex. se o competidor usa um aparelho auditivo ou marcapasso).
         - 2i1b) Tampões e protetores de ouvido (mas não fones de ouvido eletrônicos).
@@ -89,10 +89,12 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
     - 2i2) Os competidores podem usar câmeras na estação de resolução a critério do Delegado da WCA, mas as seguintes restrições se aplicam do início da tentativa até que o competidor termine a resolução. Pena por violar uma restrição: desqualificação da tentativa (DNF).
         - 2i2a) Todos os monitores da câmera têm que estar em branco ou fora do campo de visão do competidor (ver [Regra A5b](regulations:regulation:A5b)).
         - 2i2b) O competidor não pode interagir (p. ex. operar, segurar, vestir) com nenhuma câmera ativa. Exceção: o competidor pode usar uma câmera presa à sua cabeça, contanto que esteja fora de seu campo de visão e que esteja claro que ele não está interagindo com ela (além de estar vestindo ela).
+    - 2i3) O competitor pode ter um celular no seu bolso, contanto que esteja claro que o competidor não está de alguma forma interagindo com o celular.
+    -2i4) Competidor devem desligar todas as notificações do celular enquanto competindo para evitar atrapalhar a competição.
 - 2j) O Delegado da WCA pode desqualificar um competidor de um evento específico.
     - 2j1) Se um competidor for desqualificado de um evento por qualquer motivo, ele não tem direito a mais nenhuma tentativa naquele evento.
-        - 2j1a) Os resultados de todas as tentativas restantes no evento são registrados como DNF.
-    - 2j2) Se um competidor for desqualificado durante o curso de um evento, seus resultados anteriores permanecem válidos. Exceção: trapaças ou fraudes (ver [Regra 2k2a](regulations:regulation:2k2a)).
+        - 2j1a) Se o competidor já tiver começado pelo menos uma tentativa em uma rodada antes de ser desqualificado dela, os resultados de todas as tentativas restantes no evento são registrados como DNF. Se o competidor não tiver começado nenhuma tentativa (isso é, não tiver nenhum resultado ou apenas resultados DNS), nenhum resultado é registrado.
+    - 2j2) Se um competidor for desqualificado durante o curso de um evento, resultados de tentativas já concluídas quando o competidor foi desqualificado permanecem válidos. Exceção: trapaças ou fraudes (ver [Regra 2k2a](regulations:regulation:2k2a)).
 - 2k) A critério do Delegado da WCA, um competidor pode ser desqualificado de alguns eventos (um único evento, vários eventos ou todos os eventos) se ele:
     - 2k1) Não se apresentar ou se inscrever a tempo para a competição.
     - 2k2) For suspeito de trapacear ou fraudar os oficiais durante a competição.
@@ -111,6 +113,7 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
 - 2t) Todos os competidores precisam estar familiarizados e entender o Regulamento da WCA antes da competição.
 - 2u) Os competidores têm que estar presentes e preparados quando forem chamados para competir em uma tentativa. Pena: desqualificação do evento.
     - 2u1) Exceção: Um competidor que não estiver presente na hora marcada para uma tentativa individual (p. ex. uma tentativa de 3x3x3 em Menos Movimentos ou de 3x3x3 Multi-Vendado) pode ter aquela tentativa considerada como declinada (DNS), a critério do Delegado da WCA.
+    - 2u2) Exceção: Para rodadas com um limite de tempo cumulativo, um competidor que chegue atrasado pode competir com um limite de tempo cumulativo reduzido, a critério do delegado da WCA.
 
 
 ## <article-3><puzzles><puzzles> Artigo 3: Quebra-cabeças
@@ -200,14 +203,16 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
 - 7e) A área de competição têm que ser "não-fumante".
 - 7f) Estação de resolução:
     - 7f1) Definições:
-        - 7f1a) Stackmat: O timer Speed Stacks Stackmat e um tapete de tamanho compatível. Timer Geração 2, Timer Geração 3 Pro, ou/e Timer Geração 4 Pro tem que ser usados para medição de tempo.
+        - 7f1a) Stackmat: O timer Speed Stacks Stackmat e um tapete de tamanho compatível. Timer Geração 2, Timer Geração 3 Pro, Timer Geração 4 Pro e/ou Timer Geração 5 Pro tem que ser usados para medição de tempo.
         - 7f1b) Tapete: O tapete do Stackmat.
         - 7f1c) Timer: O timer do Stackmat, ou um cronômetro (para tentativas mais longas).
         - 7f1d) Superfície: A superfície plana na qual o Stackmat foi posicionado. O tapete é considerado parte da superfície. O timer não é considerado parte da superfície.
     - 7f2) O timer Stackmat tem que estar preso ao tapete e posicionado na superfície, com o timer na parte do tapete mais próxima ao competidor.
     - 7f3) A equipe de organização deve modificar o timer Stackmat para que ele seja mais robusto em face de incidentes comuns, fazendo com que os butões sejam mais difíceis de apertar por acidente (p. ex. acoplando aneis de borracha ao redor dos butões) e prendendo a bateria mais firmemente (p. ex. preenchendo o compartimento da bateria).
-- 7h) O local de competição tem que ter uma ou mais Áreas de Competidores (substituído pela [Regra Y6a](regulations:regulation:Y6a)).
-    - 7h1) A equipe de organização pode exigir que um competidor que foi chamado para competir permaneça dentro da Área de Competidores até que tenha terminado todas as suas tentativas daquela rodada.
+    - 7f4) Timers Geração 5 Pro tem que ser usados no modo 2-pad.
+- 7h) O local de competição tem que ter uma ou mais Áreas de Espera de Competidores (substituído pela [Regra Y6a](regulations:regulation:Y6a)).
+    - 7h1) A equipe de organização pode exigir que um competidor que foi chamado para competir permaneça dentro da Área de Espera de Competidores designada até que tenha terminado todas as suas tentativas da rodada.
+    - 7h2) Definição: Uma Área de Espera de Competidores é uma área na qual os competidores de um grupo esperam até serem chamados para uma estação de resolução.
 
 
 ## <article-9><events><events> Artigo 9: Eventos
@@ -224,7 +229,7 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
         - 9b3a) Formato de rodada completa para esses eventos: "Melhor de 3".
         - 9b3b) Para esses eventos, a WCA também reconhece rankings e recordes de “Média de 3” baseados nos tempos de rodadas “Melhor de 3”.
     - 9b4) 3x3x3 em Menos Movimentos.
-        - 9b4a) Formato de rodada completa para esse evento: Melhor de X" (onde X é 1 ou 2) ou "Média de 3".
+        - 9b4a) Formato de rodada completa para esse evento: "Melhor de X" (onde X é 1 ou 2) ou "Média de 3".
         - 9b4b) Formato de corte para esses eventos: fase de corte de "Melhor de 1" para "Melhor de 2" ou fase de corte de "Melhor de X" (onde X é 1 ou 2) para "Média de 3".
     - 9b5) 3x3x3 Multi-Vendado.
         - 9b5a) Formato de rodada completa para esse evento: "Melhor de X" (onde X é 1, 2 ou 3).
@@ -247,25 +252,29 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
     - 9f13) Nas rodadas "Média de 3" e "Média de 5", os resultados são ordenados com base na ordem das médias dos competidores, em que "melhor" é o menor resultado registrado.
     - 9f14) Nas rodadas "Média de 3" e "Média de 5", se dois ou mais competidores obtiverem médias idênticas, os resultados são ordenados com base na melhor tentativa por competidor, em que "melhor" é definido como o menor resultado registrado.
     - 9f15) Competidores que obtiverem o mesmo resultado em uma rodada ficam na mesma posição naquela rodada.
-- 9g) Uma Rodada de Corte é uma rodada com uma fase de corte de "Melhor de X" e um resultado de corte (p. ex. "Melhor de 2" com um resultado de corte de 2 minutos). Se o competitor se adequar ao resultado de corte em pelo menos uma de suas tentativas na fase de corte, ele tem direito às tentativas remanescentes. Tentativas da fase de corte contam para o formato da rodada completo da rodada.
+- 9g) Uma Rodada de Corte é uma rodada com uma fase de corte de "Melhor de X" e um requisito de corte (p. ex. "Melhor de 2" com um requisito de corte de estritamente melhor que 2 minutos). Se o competitor atender ao requisito de corte em pelo menos uma de suas tentativas na fase de corte, ele tem direito às tentativas remanescentes. Tentativas da fase de corte contam para o formato da rodada completo da rodada.
 - 9i) Os resultados de competições oficiais da WCA serão listados nos rankings mundiais da WCA.
     - 9i1) A WCA reconhece os seguintes tipos de recordes regionais: recordes nacionais, continentais e mundiais.
     - 9i2) Todos os resultados de uma rodada são considerados como tendo acontecido na última data do calendário daquela rodada. Se um recorde regional é quebrado várias vezes na mesma data do calendário, somente o melhor resultado é reconhecido como tendo quebrado aquele recorde regional.
     - 9i3) Se as regras da WCA para um evento forem alteradas, os recordes regionais existentes permanecem até que sejam quebrados sob as novas regras.
 - 9j) Cada evento só pode acontecer uma vez por competição.
-- 9k) Todos os competidores podem participar em todos os eventos de uma competição, exceto em casos especificamente aprovados pelo Conselho.
+- 9k) Todos os competidores podem participar em todos os eventos de uma competição, exceto em casos especificamente aprovados pelo Equipe de Anúncios de Competições da WCA.
 - 9l) Cada rodada precisa ser completada antes que qualquer rodada seguinte do mesmo evento possa começar.
 - 9m) Os eventos podem ter no máximo quatro rodadas.
     - 9m1) Rodadas com 99 competidores ou menos podem ter no máximo duas rodadas subsequentes.
     - 9m2) Rodadas com 15 competidores ou menos podem ter no máximo uma rodada subsequente.
     - 9m3) Rodadas com 7 competidores ou menos não podem ter rodadas subsequentes.
-- 9o) Rodadas de corte contam como uma rodada no evento.
+- 9o) Rodadas de Corte contam como uma rodada no evento.
 - 9p) Se um evento tem múltiplas rodadas, então:
     - 9p1) No mínimo 25% dos competidores têm que ser eliminados entre rodadas consecutivas do mesmo evento.
     - 9p2) Os competidores que avançam para a próxima rodada têm que ser determinados por uma posição de corte ou um tempo de corte na rodada eliminatória anterior.
         - 9p2a) Para cada rodada, as condições de avanço precisam ser anunciadas antes que a rodada comece, e não devem ser alteradas depois disso. Alterações somente podem ser feitas a critério do Delegado da WCA, que precisa considerar cuidadosamente se a mudança é justa.
     - 9p3) Se um competidor classificado se retira de uma rodada, ele pode ser substituído pelo competidor melhor classificado abaixo do corte na rodada anterior.
 - 9s) Cada rodada de um evento precisa ter um limite de tempo (ver [Regra A1a](regulations:regulation:A1a)).
+- 9t) Se qualquer mudança ocorrer aos resultados de um competidor após o término da competição (p. ex. erro de anotação de resultados, penalidade retroativa), de modo que este competidor não devesse ter avançado para a rodada seguinte (ou não tenha sido autorizado a participar da rodada), todos os resultados deste competidor de todos as rodadas subsequentes têm que ser removidos.
+    - 9t1) Se isto fizer com que uma rodada não atenda à [Regra 9p1](regulations:regulation:9p1), resultados de outros competidores não podem ser removidos.
+    - 9t2) Se isto fizer com que uma rodada não atenda às [regras 9m1](regulations:regulation:9m1), [9m2](regulations:regulation:9m2) ou [9m3](regulations:regulation:9m3), quaisquer rodadas subsequentes não podem ser removidas.
+    - 9t3) Se qualquer mudança ocorrer ao resultado de um competidor, de modo que qualquer outro competidor não devesse ter avançado para a próxima rodada, o resultado do segundo competidor não poderá ser removido.
 
 
 ## <article-10><solved-state><solvedstate> Artigo 10: Estado Resolvido
@@ -360,12 +369,12 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
         - A1a5) O tempo contando para o limite de tempo de uma tentativa é ou o resultado depois que penas de tempo são aplicadas (se o resultado não for DNF) ou o tempo decorrido na resolução (se o resultado foi DNF).
     - A1b) Se o tempo limite para uma tentativa for maior que 10 minutos, um cronômetro tem que ser usado para medir o tempo.
         - A1b1) Um Stackmat precisa ser usado além do cronômetro. Exceção: Para eventos sem inspeção nos quais é esperado que o competidor exceda 10 minutos, o uso de um Stackmat é opcional.
-        - A1b2) Se um tempo medido pelo timer Stackmat estiver disponível, deverá ser o tempo registrado. Caso contrário, o tempo do cronômetro é o tempo [original] registrado.
+        - A1b2) Se um tempo medido pelo timer Stackmat estiver disponível, ele será o tempo original registrado. Caso contrário (p. ex. o timer Stackmat parou de funcionar, passou de 10 minutos ou não foi usado), o tempo do cronômetro é o tempo original registrado.
     - A1c) Um competidor participando em um evento precisa ser capaz de cumprir as exigências do evento (ver [Regra 2k6](regulations:regulation:2k6)).
 - A2) Embaralhamento:
-    - A2a) Quando for chamado para uma rodada, o competidor entrega o quebra-cabeça, no estado resolvido, para o embaralhador e espera na sua Área de Competidores designada até que seja chamado para competir.
+    - A2a) Quando for chamado para uma rodada, o competidor entrega o quebra-cabeça, no estado resolvido, para o embaralhador e espera na sua Área de Espera de Competidores designada até que seja chamado para competir.
     - A2b) Um embaralhador embaralha o quebra-cabeça de acordo com as regras do [Artigo 4](regulations:article:4).
-        - A2b1) Para o Square-1, a equipe de organização pode determinar a colocação de um objeto fino no quebra-cabeça para evitar que movimentos acidentais sejam aplicados antes do início da tentativa. Se tais objetos forem usados, isto precisa ser anunciado antes do início da rodada.
+        - A2b1) Para o Square-1, a equipe de organização pode determinar a colocação de um objeto fino no quebra-cabeça para evitar que movimentos acidentais sejam aplicados antes do início da tentativa. Se tais objetos forem usados, isto deve ser anunciado antes do início da rodada.
     - A2c) Depois que o embaralhador começa a embaralhar o quebra-cabeça, o competidor não pode ver o quebra-cabeça até que a fase de inspeção comece.
         - A2c1) O embaralhador posiciona um pote sobre o quebra-cabeça embaralhado, de forma que seja impossível a qualquer competidor ou espectador ver qualquer parte do quebra-cabeça. O pote deve permanecer sobre o quebra-cabeça até o início da tentativa.
     - A2d) Ao receber um quebra-cabeça do embaralhador, o juiz rapidamente inspeciona-o para assegurar que foi embaralhado corretamente. Em caso de dúvida, o juiz contata o embaralhador, que faz uma conferência detalhada.
@@ -375,7 +384,7 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
 - A3) Inspeção:
     - A3a) O competidor pode inspecionar o quebra-cabeça no início de cada tentativa.
         - A3a1) O competidor tem um tempo máximo de 15 segundos para inspecionar o quebra-cabeça e iniciar a resolução.
-    - A3b) O juiz prepara o timer ligando-o e zerando-o se necessário. Separadamente, o juiz também prepara um cronômetro para marcar o tempo de inspeção (parcialmente substituído pela [Regra Y7d1](regulations:regulation:Y7d1)).
+    - A3b) O juiz prepara o timer ligando-o e zerando-o se necessário. Se o Timer Geração 5 Pro estiver em utilização, o juiz tem que assegurar que ele está no modo 2-pad. Separadamente, o juiz também prepara um cronômetro para marcar o tempo de inspeção (parcialmente substituído pela [Regra Y7d1](regulations:regulation:Y7d1)).
         - A3b1) Quando o juiz acredita que o competidor está pronto, ele pergunta "PRONTO?". O competidor tem que estar pronto para iniciar a tentativa dentro de um minuto após ter sido chamado, senão perde o direito à tentativa (DNS), a critério do juiz.
         - A3b2) O competidor inicia a tentativa confirmando que está pronto, e então o juiz descobre o quebra-cabeça e começa a marcar o tempo de inspeção.
     - A3c) O competidor pode pegar o quebra-cabeça durante a inspeção.
@@ -407,7 +416,9 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
         - A6b2) Se o timer parar antes do competidor ter resolvido o quebra-cabeça e mostrar um tempo de 0,06 segundos ou maior, a tentativa é desqualificada (DNF). Exceção: se o competidor conseguir demonstrar que o timer teve um mau funcionamento, ele pode receber uma tentativa adicional, a critério do Delegado da WCA.
     - A6c) O competidor tem que soltar totalmente o quebra-cabeça antes de parar o timer. Pena: desqualificação da tentativa (DNF). Exceção: Se nenhum movimento tiver sido aplicado após parar o timer e antes de soltar o quebra-cabeça, poderá ser aplicada uma pena de tempo (+2 segundos), a critério do juiz.
     - A6d) O competidor tem que parar o timer usando ambas as mãos, colocadas planas sobre os sensores e com as palmas para baixo. Pena: pena de tempo (+2 segundos).
-    - A6e) Depois de soltar o quebra-cabeça, o competidor não pode tocá-lo ou movê-lo até que o juiz o tenha inspecionado. Pena: desqualificação da tentativa (DNF). Exceção: Se nenhum movimento foi aplicado, uma pena de tempo (+2 segundos) pode ser aplicada ao invés do DNF, a critério do juiz.
+    - A6e) Depois de soltar o quebra-cabeça, o competidor não pode tocá-lo ou movê-lo até que o juiz o tenha inspecionado. 
+        - A6e1) Penalidade para aplicar um movimento ao quebra-cabeça após parar o timer: desqualificação da tentativa (DNF).
+        - A6e2) Penalidade para tocar o quebra-cabeça após parar o timer sem aplicar nenhum movimento: pena de tempo (+2 segundos). Exceção: Se, imediatamente após tocar o quebra-cabeça, o competidor brevemente tocar o quebra-cabeça sem afetar o seu estado, a pena de tempo deve ser desconsiderada, a critério do juíz (ver [Regra 11f](regulations:regulation:11f)).
     - A6f) O competidor não pode zerar o timer até que o juiz tenha anotado o resultado na súmula. Pena: desqualificação da tentativa (DNF), a critério do juiz.
         - A6f1) Se o competidor zerar o timer antes que o resultado tenha sido registrado completamente, o juiz não pode escrever o resultado a partir de sua memória ou de evidência fotográfica, e tem que desqualificar a tentativa (DNF).
     - A6g) O juiz determina se o quebra-cabeça está resolvido. Ele não pode tocar o quebra-cabaça antes de determinar se aplicar uma pena por desalinhamenot ou não. Exceção: Para o Clock, o juiz geralmente precisa pegar o quebra-cabeça para verificar ambas as faces.
@@ -420,11 +431,12 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
         - A7a3) Se o resultado for DNF, o juiz diz "DNF".
     - A7b) O juiz anota o resultado em uma súmula e assina próximo a teste para atestar que o resultado está correto, completo, formatado corretamente e legível.
         - A7b1) Se alguma pena for aplicada, o juiz anota o resultado original mostrado no timer, juntamente com quaisquer penas. O formato deve ser "X + T + Y = F", em que X representa a soma das penas de tempo antes/no início da resolução, T representa o tempo mostrado no timer, Y representa a soma das  de tempo durante/depois da resolução, e F representa o resultado final (p. ex. 2 + 17,65 + 2 = 21,65). Se X e/ou Y forem 0, os termos 0 são omitidos (p. ex. 17,65 + 2 = 19,65).
-    - A7c) O competidor precisa verificar o resultado registrado e assinar (ou colocar sua inicial) a súmula para reconhecer que o resultado está correto, completo, devidamente formato e claramente legível. Isso conclui a tentativa (parcialmente substituído pela [Regra Y7e1](regulations:regulation:Y7e)).
+    - A7c) O competidor precisa verificar o resultado registrado e assinar (ou colocar sua inicial) a súmula para reconhecer que o resultado está correto, completo, devidamente formatado e claramente legível. Isso conclui a tentativa.
         - A7c1) Se o competidor ou o juiz se recusar a aceitar e assinar a súmula, o Delegado da WCA tem que resolver a disputa.
         - A7c2) Se o competidor assinar (ou marcar de outra forma) uma tentativa antes que a tenha iniciado, ele perde o direito àquela tentativa e o resultado será considerado DNS.
         - A7c3) Se o competidor assinar (ou marcar de outra forma) uma tentativa depois que já a tenha iniciado mas antes que o juiz termine de registrar o resultado, a tentativa será considerada não concluída (DNF).
         - A7c4) O competidor não deve assinar uma tentativa antes que o juiz tenha registrado o resultado e assinado. O competidor é responsável em última instância por garantir que ele e o juiz assinem a tentativa. Se uma tentativa tiver uma ou as duas assinaturas faltando após o juiz entregar a súmula ao anotador de resultados (ver [Regra A7f](regulations:regulations:A7f)), esta será considerada não concluída (DNF).
+        - A7c5) Assinaturas ausentes encontradas antes do fim da competição podem ser adicionadas pelo juíz e/ou competidor, a critério do Delegado da WCA.
     - A7f) Quando a súmula de um competidor em uma rodada estiver completa, o juiz a entrega para o anotador de resultados.
     - A7g) A critério do Delegado da WCA, um incidente ou pena causados pela falta de experiência de um novo competidor pode ser substituído por uma tentativa adicional.
 
@@ -437,7 +449,7 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
 - B2) Iniciando a tentativa:
     - B2a) O juiz zera o(s) timer(s) como na [Regra A3b](regulations:regulation:A3b) e indica que está pronto para que o competidor inicie a tentativa (p. ex. colocando o pote na frente do competidor, dizendo "PRONTO" e dando um sinal de joinha"). O competidor precisa começar a tentativa dentro de um minuto, senão perde o direito à tentativa (DNS), a critério do juiz (parcialmente substituído pela [Regra Y7d1](regulations:regulation:Y7d1)).
     - B2b) O competidor usa seus dedos para tocar a parte elevada do timer. Suas palmas têm que estar para baixo, e posicionadas no lado do timer mais próximo dele. Pena: +2 segundos no tempo.
-    - B2c) O competidor não pode ter contato físico com o quebra-cabeça antes do início da resolução. Pena: pena de tempo (+2 segundos).
+    - B2c) O competidor não pode ter contato físico com o quebra-cabeça ou o pote enquanto estiver iniciando a tentativa. Pena: pena de tempo (+2 segundos).
     - B2d) O competidor inicia a tentativa removendo suas mãos do timer, iniciando-o. (Isso também inicia a resolução.)
         - B2d1) O competidor remove o pote do quebra-cabeça depois de ter iniciado o timer.
     - B2e) Se um cronômetro estiver sendo usado além do timer Stackmat, o juiz o inicia no momento em que o competidor inicia a resolução.
@@ -446,15 +458,15 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
     - B3a) O competidor pode pegar o quebra-cabeça durante fase de memorização.
     - B3b) O competidor não pode fazer anotações. Pena: desqualificação da tentativa (DNF).
     - B3c) O competidor não pode aplicar movimentos ao quebra-cabeça durante a fase de memorização.
+    - B3d) Se as partes do quebra-cabeça não estiverem completamente alinhadas, então o competidor pode alinhar as faces, contanto que os desalinhamentos estejam dentro dos limites da [Regra 10f](regulations:regulation:10f).
 - B4) Fase vendada:
     - B4a) O competidor coloca a venda para iniciar a fase vendada.
+        - B4a1) Até que o competidor aplique o primeiro movimento ao quebra-cabeça, ele pode remover a venda e retornar à fase de memorização.
     - B4b) O competidor não pode aplicar movimentos ao quebra-cabeça antes de ter colocado totalmente a venda. Pena: desqualificação da tentativa (DNF).
-    - B4c) O juiz precisa garantir que há um bloqueador de visão entre o quebra-cabeça e o rosto do competidor enquanto ele estiver resolvendo.
+    - B4c) Assim que o competidor aplicar o primeiro movimento no quebra-cabeça, o juiz precisa garantir que há um bloqueador de visão (p. ex. uma folha de papel ou papelão) entre o quebra-cabeça e o rosto do competidor enquanto ele estiver resolvendo.
         - B4c1) Em todos os casos, o competidor precisa usar a venda de forma que sua visão do quebra-cabeça ainda estaria claramente bloqueada se o bloqueador de visão não estivesse no caminho.
-        - B4c2) Por padrão, o juiz deve posicionar o objeto (p. ex. uma folha de papel ou cartão) entre o quebra-cabeça e o competidor enquanto ele estiver usando a venda.
         - B4c3) Se o juiz e o competidor concordarem anteriormente, o competidor pode escolher posicionar ele mesmo o quebra-cabeça atrás de um objeto apropriado (p. ex. uma estante de partitura, a superfície da mesa) durante a fase vendada.
     - B4d) O competidor não pode ver o quebra-cabeça em nenhum momento durante a fase vendada. Pena: desqualificação da tentativa (DNF).
-    - B4e) Até que o competidor aplique o primeiro movimento ao quebra-cabeça, ele pode remover a venda e retornar à fase de memorização.
 - B5) Finalizando a resolução:
     - B5a) Quando estiver usando o timer Stackmat, o competidor finaliza a tentativa soltando o quebra-cabeça e parando o timer.
     - B5b) Quando estiver usando um cronômetro, o competidor finaliza a tentativa colocando o quebra-cabeça de volta na superfície e avisando ao juiz que ele terminou a tentativa. Nesse momento, o juiz para o cronômetro.
@@ -494,6 +506,7 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
     - E3c) Adesivos coloridos (fornecidos pelo competidor).
     - E3d) Cronômetro ou relógio (fornecido pelo competidor) para acompanhar o tempo decorrido, se aprovado pelo Delegado da WCA.
     - E3e) Outros aparelhos eletrônicos que não dêem uma vantagem injusta, a critério do Delegado da WCA (ver Regra 2i1 (regulations:regulation2i1)).
+    - E3f) Ferramentas para remover marcações (fornecidas pelo competidor), como líquido corretivo, fita corretiva ou borrachas.
 - E4) O Delegado da WCA pode optar por publicar as soluções (p. ex. foto da súmula ou transcrição das soluções).
 
 
@@ -501,8 +514,8 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
 
 - F1) O procedimento padrão de resolução por velocidade é seguido, como descrito no [Artigo A](regulations:article:A) (Resolução por Velocidade). Regras adicionais que se sobrepõe aos procedimentos correspondentes do [Artigo A](regulations:article:A) estão descritas abaixo.
 - F2) O juiz posiciona o quebra-cabeça embaralhado sobre o tapete na posição "em pé".
-    - F2a) A equipe de organização pode impor o uso de uma base para o quebra-cabeça para prevenir que ele caía antes do início da tentativa. Se essas bases forem o utilizadas, isso deve ser anunciado antes da rodada começar.
-        - F2a1) O juiz deve remover a base dotapeteimediatamente depois do competidor remover o quebra-cabeças dele.
+    - F2a) A equipe de organização pode impor o uso de uma base para o quebra-cabeça para prevenir que ele caía antes do início da tentativa. Se essas bases forem o utilizadas, a equipe de organização deve fazer um anúncio antes da rodada começar.
+        - F2a1) O juiz deve remover a base do tapete imediatamente depois do competidor remover o quebra-cabeças dele.
 - F3) Ao final do período de inspeção, o competidor posiciona o quebra-cabeça sobre o tapete na posição "em pé". Pena: desqualificação da tentativa (DNF).
     - F3a) O competidor não pode mudar a posição de nenhum dos pinos antes do início da resolução. Pena: desqualificação (DNF).
 
@@ -517,6 +530,8 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
     - H1b) Se o competidor estiver tentando menos de 6 cubos, ele tem um limite de tempo igual a 10 minutos vezes o número de cubos na tentativa; caso contrário o limite de tempo é de 60 minutos.
         - H1b1) O competidor pode sinalizar o fim da resolução a qualquer momento. Se e quando o limite de tempo for atingido, o juiz para a tentativa e ela é pontuada; o limite de tempo conta como o tempo original registrado
     - H1d) Penas de tempo para os quebra-cabeças da tentativa são cumulativas.
+    - H1e) O competidor não pode aplicar qualquer movimento à um ou mais quebra-cabeças durante a fase de memorização: Pena: desqualificação da tentativa (DNF). Exceção: estes quebra-cabeças individuais podem ser considerados como não-resolvidos ao fim da tentativa, ao invés de desqualificar a tentativa inteira, a critério do Delegado da WCA.
+    - H2) O competidor pode fornecer uma cobertura plana (p. ex. um tapete ou um pano) para a superfície, a critério do Delegado da WCA. Se o competidor desejar fazê-lo, o pedido deve ser feito na mesma hora em que os quebra-cabeças forem entregues (ver [Regra H1a(regulations:regulation:H1a)])
 
 
 ## <article-Y><temporary-regulations><temporaryregulations> Artigo Y: Regras Temporárias
@@ -533,7 +548,7 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
 - Y4) Todos os competidores e oficiais devem trazer sua própria caneta para a competição.
 - Y5) Juízes podem trazer seu próprio cronômetro ou celular para cronometrar a inspeção, que deve ser checado pelo Delegado da WCA.
 - Y6) Ambiente:
-    - Y6a) Se julgado necessário pelo Delegado da WCA, a área de competição não pode ter uma Área de Competidores.
+    - Y6a) Se julgado necessário pelo Delegado da WCA, a área de competição não pode ter uma Área de Espera de Competidores.
     - Y6b) Competidores devem se abster de tocar a superfície da estação de resolução quando eles não estiverem no processo de uma tentativa oficial.
 - Y7) Procedimentos de competição que substituem o [Artigo A](regulations:article:A), o [B](regulations:article:B) e o [H](regulations:article:H) são descritos abaixo. Esses procedimentos não se aplicam ao [Artigo E](regulations:article:E), de Resolução em Menos Movimentos.
     - Y7a) Competições devem usar mesa fixa (veja [Regra Y2b](regulations:regulation:Y2b)).
@@ -543,6 +558,5 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
     - Y7d) Inspeção:
         - Y7d1) O juiz pede ao competidor para preparar o timer ligando-o e zerando-o se necessário. O competidor então liga o timer e o zera se necessário. O juiz deve evitar tocar o timer em todos os momentos.
     - Y7e) Registrando resultados:
-        - Y7e1) O competidor precisa verificar o resultado registrado e assinar (ou colocar sua inicial) a súmula com sua própria caneta para reconhecer que o resultado está correto, completo, devidamente formato e claramente legível. Isso conclui a tentativa.
         - Y7e2) O competidor não deve tocar na súmula.
     - Y7f) Depois de terminar a tentativa, se há mais tentativas a serem feitas, o competidor deve colocar o quebra-cabeça dentro do balde.
