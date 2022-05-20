@@ -64,7 +64,7 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
     - 2a1) Cumple con el reglamento de la WCA.
     - 2a2) Cumple los requisitos para participar, los cuales deben ser claramente anunciados antes de la competición.
     - 2a3) No está suspendido por la Junta Directiva de la WCA (WCA Board).
-    - 2a4) Cumplir con todas las medidas sanitarias razonables que el delegado de la WCA considere necesarias. Estas medidas deben ser anunciadas de forma clara antes de la competición.
+    - 2a4) Cumple con todas las medidas sanitarias razonables que el delegado de la WCA considere necesarias. Estas medidas deben ser anunciadas de forma clara antes de la competición.
 - 2b) Los competidores menores de 18 años deben tener el consentimiento de su(s) padre(s)/tutor(es) para inscribirse y competir.
 - 2c) Los competidores se inscribirán proporcionando toda la información requerida por el equipo organizador (Incluyendo: nombre, país, fecha de nacimiento, género, información de contacto, eventos seleccionados).
     - 2c1) Un competidor no podrá competir sin una inscripción completa, como haya sido determinada por el equipo organizador.
@@ -76,7 +76,7 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
     - 2e3) Los competidores que no tienen ciudadanía pueden competir como "Stateless" (apátrida, sin nacionalidad).
 - 2f) Los competidores deben seguir las reglas del local y comportarse decentemente.
 - 2g) Los competidores deben permanecer tranquilos cuando estén dentro del área de competición. Hablar está permitido, pero debe mantenerse a un volumen razonable, y lejos de los competidores que estén compitiendo activamente.
-    - 2g3) Los competidores no deben hablar en el Zona de Espera para Competidores acerca del estado inicial del puzzle de la ronda actual. Penalización: descalificación del/los competidor/es del evento, a discreción del delegado de la WCA.
+    - 2g3) Los competidores no deben hablar en el zona de espera para competidores acerca del estado inicial del puzzle de la ronda actual. Penalización: descalificación del/los competidor/es del evento, a discreción del delegado de la WCA.
 - 2h) Los competidores deberán estar completamente vestidos mientras estén en el local de la competición. A discreción del Delagado de la WCA, un competidor puede ser descalificado de la competición por usar una vestimenta inapropiada.
 - 2i) Mientras se encuentre en la fase de inspección o en la fase de resolución, un competidor no puede usar auriculares ni otros aparatos electrónicos (p.ej. teléfonos móviles, reproductores MP3, iluminación adicional), aparte del timer Stackmat o cronómetro.
     - 2i1) Los competidores pueden utilizar determinados dispositivos no-electrónicos mientras éstos no le den una ventaja injusta, a discreción del delegado de la WCA. Esto incluye:
@@ -208,9 +208,9 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
     - 7f2) El cronómetro debe estar unido al tapete y colocado en la superficie, con el cronómetro en el lado del tapete más cercano al competidor.
     - 7f3) El equipo organizador debería modificar los cronómetros Stackmat para que sean más robustos contra incidentes comunes, haciendo que los botones sean más difíciles de apretar por accidente (p.ej. pegando anillos alrededor de los botones) y asegurando las baterías para que no se muevan (p.ej. rellenando el compartimiento de las baterías).
     - 7f4) Los cronómetros Generación 5 Pro deben ser utilizados en el modo de 2 sensores.
-- 7h) El área de competición debería tener una o más zonas de espera para los competidores.
-    - 7h1) El equipo de organizadores puede requerir que los competidores que hayan sido llamados para competir se queden dentro del Zona de Espera para Competidores hasta que terminen todos los intentos de la ronda.
-    - 7h2) Definición: una Zona de Espera para Competidores es un lugar en el cual los competidores de un grupo esperan a ser llamados para ir a una estación de resolución.
+- 7h) El área de competición debería tener una o más zonas de espera para competidores.
+    - 7h1) El equipo de organizadores puede requerir que los competidores que hayan sido llamados para competir se queden dentro del zona de espera para competidores hasta que terminen todos los intentos de la ronda.
+    - 7h2) Definición: una zona de espera para competidores es un lugar en el cual los competidores de un grupo esperan a ser llamados para ir a una estación de resolución.
 
 
 ## <article-9><events><events> Artículo 9: Eventos
@@ -370,7 +370,7 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
         - A1b2) Si el tiempo del cronómetro del Stackmat está disponible, éste es el tiempo que se anota. De lo contrario (p.ej. si ocurrió un falló en el cronómetro Stackmat, estuvo cronometrando por más de 10 minutos o ni siquiera fue usado), el tiempo del cronómetro de mano es el que será anotado.
     - A1c) Un competidor que esté participando en un evento debe ser capaz de cumplir con los requisitos de dicho evento (ver [Regla 2k6](regulations:regulation:2k6)).
 - A2) Mezclas:
-    - A2a) Cuando se le llama para una ronda, el competidor entrega el puzzle, en su estado resuelto, al mezclador. Después el competidor espera en el Zona de Espera para Competidores hasta que sea llamado para competir.
+    - A2a) Cuando se le llama para una ronda, el competidor entrega el puzzle, en su estado resuelto, al mezclador. Después el competidor espera en el zona de espera para competidores hasta que sea llamado para competir.
     - A2b) Un mezclador mezcla el puzzle de acuerdo con las reglas en el [Artículo 4](regulations:article:4).
         - A2b1) Para Square-1, el equipo organizador puede pedir que se coloque un objeto delgado en el puzzle para evitar que ocurran movimientos accidentales antes de que se comience el intento. Si dichos objetos son usados, el equipo organizador debería anunciarlo antes de que comience la ronda.
     - A2c) Después de que el mezclador ha empezado a mezclar el puzzle, el competidor no debe ver el puzzle hasta que empiece la fase de inspección.
