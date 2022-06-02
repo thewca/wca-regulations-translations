@@ -1,11 +1,11 @@
 # <wca-title>Orientações Adicionais da WCA
 
-<version>Versão: 1 de janeiro de 2022
+<version>Versão: 1 de junho de 2022
 
 
 ## Notas
 
-Última revisão textual: 1 de janeiro de 2022
+Última revisão textual: 26 de maio de 2022
 
 ### Regulamento da WCA
 
