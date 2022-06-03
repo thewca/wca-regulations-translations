@@ -1,6 +1,6 @@
 # <wca-title>WCA-Riktlinjer
 
-<version>Version: 1:a maj 2021
+<version>Version: 1:a januari 2022
 
 
 ## Noteringar
@@ -58,7 +58,7 @@ För att vara mer informativa klassificeras varje Riktlinje med en av följande 
 - 2j2+) [EXEMPEL] Om en tävlande till exempel diskvalificeras från en gren för att inte ha dykt upp till finalomgången, förblir resultaten från tidigare omgångar giltiga.
 - 2k6+) [FÖRTYDLIGANDE] WCA-Delegater bör endast använda sin bedömning för att förhindra att tävlande allvarligt hindrar tävlingen (t.ex. genom att slösa tid och/eller tävlingsresurser). Tävlande bör inte diskvalificeras för ett "dåligt" resultat när de tävlar efter bästa förmåga.
 - 2s+) [PÅMINNELSE] Specialanpassningar måste noteras i Delegatrapporten.
-
+- 2u1+) [TILLÄGG] Den tävlande får delta enligt WCA-Delegatens bedömning. WCA-Delegaten måste noggrant överväga om det är rättvist att tillåta det.
 
 ## <article-3><puzzles><puzzles> Artikel 3: Pussel
 
@@ -70,8 +70,10 @@ För att vara mer informativa klassificeras varje Riktlinje med en av följande 
 - 3h+) [FÖRTYDLIGANDE] Pussel får förbättras internt genom slipning, smörjning, eller modifikationer som förbättrar stabiliteten (t.ex. magneter).
 - 3h++) [EXEMPEL] Exempel på ändringar inkluderar: nya drag är möjliga, normala drag är omöjliga, fler bitar eller sidor är synliga, färger på baksidan av pusslet är synliga, drag görs automatiskt, eller pusslen har fler/andra lösta tillstånd.
 - 3h2++) [FÖRTYDLIGANDE] "Stickerless" pussel som skiljer sig avsevärt från de flesta massproducerade "stickerless" pussel är endast tillåtna enligt WCA-Delegatens bedömning.
+- 3h2a+) [TILLÄGG] Exempel på genomskinliga delar som inte avslöjar mer information om pusslets tillstånd: inre delar av pusselmekanismen, genomskinliga Clock-höljen.
 - 3j+) [PÅMINNELSE] Tidigare har graverade/präglade delar varit tillåtna. Detta är inte längre tillåtet.
 - 3j++) [FÖRTYDLIGANDE] På Clock får pins särskiljas från andra pins på samma sida.
+- 3j1+) [PÅMINNELSE] På Clock anses lösa pins (dvs. pins som kan växla läge med hjälp av gravitationen i stället för att tryckas direkt) inte som rimligt slitage.
 - 3j2+) [FÖRTYDLIGANDE] På Clock betraktas de nio inre urtavlorna på en sida som liknande bitar.
 - 3k2+) [TILLÄGG] WCA-Delegaten bör inte tillämpa ett listat undantag om hen tror att den tävlande försökte använda ett icke-tillåtet pussel med avsikt.
 - 3k2b+) [FÖRTYDLIGANDE] Om ett icke-tillåtet pussel hittas under ett 3x3x3 Multi-Blind-försök, får pusslet inte bytas ut eller tas bort från försöket utan måste räknas som olöst, om inte hela försöket diskvalificeras.
@@ -116,12 +118,12 @@ För att vara mer informativa klassificeras varje Riktlinje med en av följande 
 - 9b3b+) [FÖRTYDLIGANDE] Statistiken "Snitt av 3" påverkar inte den tävlandes ranking i en "Bäst av 3"-runda (som baseras på bästa resultat). WCA erkänner det utanför tävlingsformatet.
 - 9f1+) [EXEMPEL] Om timern visar 12,678 för ett försök, är originaltiden 12,67 (siffror efter hundradelen tas bort). En domare får skriva ut hela tiden på resultatkortet (och behålla precisionen vid beräkningen av straff), så länge resultatregistreraren trunkerar den för de officiella resultaten.
 - 9f4+) [FÖRKLARING] Resultatet för ett försök är DNF endast om den tävlande började försöket genom att ange att hen är redo (se [Regel A3b2](regulations:regulation:A3b2)), men försöket diskvalificerades.
-- 9f5+) [FÖRTYDLIGANDE] Resultatet för ett försök är DNS om den tävlande var berättigad till försöket men inte startade det (se [Regel A3b2](regulations:regulation:A3b2)). Om den tävlande inte kvalificerat sig för ett försök (t.ex. i en cutoff-omgång) har hen inget resultat för försöket.
+- 9f5+) [FÖRTYDLIGANDE] Resultatet för ett försök är DNS om den tävlande var berättigad till försöket men inte startade det (se [Regel A3b2](regulations:regulation:A3b2)). Om den tävlande inte kvalificerat sig för ett försök (t.ex. i en Cutoff-omgång) har hen inget resultat för försöket.
 - 9p2+) [FÖRTYDLIGANDE] Resultatet avser den enskilda tid eller snitt som avgör rankningen för motsvarande omgång.
 - 9q+) [REKOMMENDATION] Grenar och omgångar bör ha minst 2 tävlande.
 - 9t+) [FÖRKLARING] På grund av [9t1](regulations:regulation:9t1) och [9t2](regulations:regulation:9t2) kan omgångar se ut som om de inte överensstämmer med [9p1](regulations:regulation:9p1), [9m1](regulations:regulation:9m1), [9m2](regulations:regulation:9m2) eller [9m3](regulations:regulation:9m3). Att göra ändringar för att följa dessa regler skulle dock påverka oskyldiga tävlande, vilket är varför resultaten inte får ändras.
 - 9t++) [TILLÄGG] Om en resultatförändring sker under tävlingen, måste denna regel också tillämpas. I så fall bör [9t1](regulations:regulation:9t1), [9t2](regulations:regulation:9t2), och [9t3](regulations:regulation:9t3) också följas, enligt WCA-Delegatens bedömning.
-- 9t3+) [EXEMPEL] Antag att tävlande A får ett snitt på 10,00 och tävlande B får ett snitt på 10,05 i den första omgången av en gren, så att tävlande A går vidare till sista omgången men inte B. Om ett misstag upptäcks och tävlande B egentligen fick ett snitt på 9,95 (och borde ha gått vidare istället för A), behåller tävlande A sitt resultat för den sista omgången.
+- 9t3+) [EXEMPEL] Antag att tävlande A får ett snitt på 10,00 och tävlande B får ett snitt på 10,05 i den första omgången av en gren, så att tävlande A går vidare till sista omgången men inte B. Om ett misstag upptäcks och tävlande B egentligen fick ett snitt på 9,95 (och borde ha gått vidare i stället för A), behåller tävlande A sitt resultat för den sista omgången.
 
 
 ## <article-10><solved-state><solvedstate> Artikel 10: Löst Tillstånd
@@ -194,7 +196,7 @@ För att vara mer informativa klassificeras varje Riktlinje med en av följande 
 - E2c1+) [FÖRKLARING] Ett ID för tävlingsregistreringen är en identifierare (t.ex. ett nummer) som tilldelats en tävlande för tävlingen. Vissa tävlingar använder detta för att hålla reda på resultatkort och registrera resultat.
 - E2c1++) [TILLÄGG] Om tävlande glömt att skriva information för att identifiera försöket på deras avsedda lösningspapper, får de lägga till det inför en domare efter att tidsgränsen löpt ut. I så fall måste den tävlande meddela domaren medan hen lämnar in sin lösning och sedan omedelbart skriva information för att identifiera försöket (utan att göra andra ändringar) under direkt övervakning av domaren. När en tävlande har slutfört att lämna in sin lösning (t.ex. lägga den i domarens händer och låta domaren gå vidare till nästa tävlande, eller placera den på domarens bord och gå därifrån) får hen inte längre lägga till någon information. Om den tävlande skriver något efter att tidsgränsen löpt ut men innan hen frågar domaren, förblir försöket diskvalificerat (DNF).
 - E2c1+++) [FÖRKLARING] Den tävlande är inte skyldig att skriva tävlingsnamnet, omgången och/eller försöksnumret på sitt inlämnade papper, men kan välja att göra det för att hjälpa arrangörsteamet att hålla reda på de inlämnade lösningarna.
-- E2c1++++) [TILLÄGG] Om en domare hittar en inlämnad lösning utan information för att identifiera försöket (t.ex. när hen betygsätter försöket), bör hen ta reda på vilken tävlande som skrev lösningen för att tilldela en DNF (istället för DNS). Observera att den tävlande inte får skriva information för att identifiera försöket vid denna tidpunkt, utan ett DNF-resultat måste tilldelas.
+- E2c1++++) [TILLÄGG] Om en domare hittar en inlämnad lösning utan information för att identifiera försöket (t.ex. när hen betygsätter försöket), bör hen ta reda på vilken tävlande som skrev lösningen för att tilldela en DNF (i stället för DNS). Observera att den tävlande inte får skriva information för att identifiera försöket vid denna tidpunkt, utan ett DNF-resultat måste tilldelas.
 - E2c2+) [EXEMPEL] Exempel som inte betraktas som en enda entydig dragsekvens: flera lösningssekvenser utan exakt en tydligt angiven lösning, en lösning med tvetydiga symboler (t.ex. en bokstav som liknar "B" och "R" men som inte tydligt är det ena eller det andra), en lösning med stjärnor eller pilar som indikerar rörelser som inte ska utföras i den skrivna ordningen (t.ex. "instick" som inte skrivs i linje med resten av dragsekvensen, "för-drag" som inte ingår i dragsekvensen med giltig notation), en dragsekvens som inte skrivs ut någorlunda som en serie rader i ordningen som pappret läses, alla kombinationer av symboler som inte kan tolkas som en entydig dragsekvens. Undantag från exemplen ovan: Små typografiska korrigeringar (t.ex. överstrukna drag och drag skrivna ovanför som tydligt är avsedda att ersätta dem, drag skrivna med mindre tecken för att passa mellan andra drag).
 - E2c2++) [PÅMINNELSE] Tidigare var notation med hakparenteser (t.ex. [r] eller [u2]) tillåtna för 3x3x3 Minst Antal Drag. Endast rotationer baserade på x, y eller z är nu tillåtna (se [Regel 12a4a](regulations:regulation:12a4a)).
 - E2c3+) [FÖRTYDLIGANDE] Om ett drag inte är tydligt överstruket och det inte är tydligt om draget är en del av lösningen, bör domaren betrakta det som en tvetydig dragsekvens (se [Regel E2c2](regulations:regulation:E2c2) och [Riktlinje E2c2+](guidelines:guideline:E2c2+)).
@@ -208,6 +210,7 @@ För att vara mer informativa klassificeras varje Riktlinje med en av följande 
 ## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Artikel H: Multi-Blind
 
 - H1+) [TILLÄGG] Om ett pussel med en dubblett-blandning hittas under ett försök, får pusslet blandas om med hjälp av en annan blandningssekvens, enligt WCA-Delegatens bedömning.
+- H1b+) [TILLÄGG] En tävlande får ansluta sig till ett Multi-Blind-försök som redan pågår, enligt WCA-Delegatens bedömning. I detta fall är tidsgränsen den återstående tiden (dvs. de måste avsluta när andra tävlande når sin tidsgräns). Undantag: En tävlande får inte tillåtas delta i ett Multi-Blind-försök om någon tävlande redan har avslutat sitt försök, eller om det finns någon annan risk att information om blandningarna kan ha blivit känd för den tävlande som vill delta.
 - H1b1+) [PÅMINNELSE] Försöket är inte diskvalificerat om det når tidsgränsen, på grund av undantag för 3x3x3 Multi-Blind (se [Regel A1a4](regulations:regulation:A1a4) och [Regel A1a5](regulations:regulation:A1a5)).
 - H1b1++) [TILLÄGG] Domaren får tillåta den tävlande att fortsätta försöket inofficiellt, men försöket måste stoppas och bedömas först, i full överensstämmelse med Reglerna.
 - H1d+) [EXEMPEL] Exempel: Antag att en tävlande försöker 10 kuber, stoppar lösningen med tiden 59:57 och har två tidsstraff. Tiden för slutresultatet är 59:57 + 2*2 = 60:01 (se även [Regel A1a5](regulations:regulation:A1a5)).

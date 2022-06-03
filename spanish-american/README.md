@@ -8,6 +8,7 @@ Credits
 
 The following people helped with the translation:
 
-* [Carlos Méndez García-Barroso](http://worldcubeassociation.org/results/p.php?i=2010GARC02)
-* [Raúl Morales](http://worldcubeassociation.org/results/p.php?i=2013MORA02)
-* [Federico Sánchez Motellón](http://worldcubeassociation.org/results/p.php?i=2009SANC01)
+* [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02)
+* [Gennaro Monetti](https://www.worldcubeassociation.org/persons/2017MONE01)
+* [Raúl Morales](https://www.worldcubeassociation.org/persons/2013MORA02)
+* [Federico Sánchez Motellón](https://www.worldcubeassociation.org/persons/2009SANC01)
