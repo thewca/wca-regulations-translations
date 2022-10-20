@@ -4,6 +4,9 @@
 - For published translations, please visit [the WCA website](https://www.worldcubeassociation.org/regulations/translations/).
 - For translation instructions, see [below](#translation-instructions).
 
+# License
+
+The WCA Regulations and Guidelines, available at [thewca/wca-regulations](https://github.com/thewca/wca-regulations), are licensed under a [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) with CC Plus "CC+" license. The CC+ grants permission to share translations of the licensed material if approved by the World Cube Association Regulations Committee.
 
 # Translation Instructions
 
