@@ -3,7 +3,7 @@
 <version>Versão: 1 de junho de 2022
 
 
-## Notas 
+## Notas
 
 Última revisão textual: 24 de Outubro de 2022
 
