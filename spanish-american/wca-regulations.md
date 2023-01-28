@@ -1,6 +1,6 @@
 # <wca-title>Reglamento WCA (Español Americano)
 
-<version> Versión: 1 de febrero de 2022
+<version> Versión: 1 de febrero de 2023
 
 
 ## Notas
@@ -45,13 +45,13 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
 - 1e) Cada evento debe tener uno o más jueces.
     - 1e1) Un juez es responsable de ejecutar los procedimientos de un evento.
         - 1e1a)  Un juez puede juzgar a varios competidores simultáneamente, a discreción del delegado de la WCA, siempre y cuando el juez pueda asegurarse de que se cumpla el reglamento de la WCA en todo momento.
-    - 1e2) Todos los competidores deberán estar disponibles para hacer de jueces si es necesario. Sólo podrá ser excusado por una razón legítima (p.ej. que no esté familiarizado con un puzzle), a discreción del delegado de la WCA. Penalización: descalificación de uno o más eventos de la competición (ver [Regla 2k](regulations:regulation:2k)).
-- 1f) Cada evento debe tener uno o más mezcladores. Excepción: (FMS) Resolución en menos movimientos.
+    - 1e2) Todos los competidores deben estar disponibles para ser jueces si es necesario. Si se le requiere que sea juez, el competidor solo podrá ser excusado por una razón legítima (p.ej. que no esté familiarizado con un puzzle), a discreción del delegado de la WCA. Penalización: descalificación de uno o más eventos de la competición (ver [Regla 2k](regulations:regulation:2k)).
+- 1f) Cada evento debe tener uno o más mezcladores. Excepción: Resolución en menos movimientos.
     - 1f1) Un mezclador realiza mezclas para preparar los puzzles para intentos oficiales (ver [Regla A2](regulations:regulation:A2)).
-    - 1f2) Todos los competidores deberán estar disponibles para mezclar. Si se requiere que realice una mezcla, el competidor puede ser excusado sólo por una razón legítima (p.ej. No estar familiarizado con la notación de la mezcla), a discreción del delegado de la WCA. Penalización: descalificación de uno o más eventos de la competición (ver [Regla 2k](regulations:regulation:2k)).
+    - 1f2) Todos los competidores deben estar disponibles para mezclar. Si se le requiere que mezcle, el competidor solo puede ser excusado por una razón legítima (p.ej. no estar familiarizado con la notación de la mezcla), a discreción del delegado de la WCA. Penalización: descalificación de uno o más eventos de la competición (ver [Regla 2k](regulations:regulation:2k)).
 - 1g) Cada evento debe tener uno o más encargados de recoger resultados.
     - 1g1) Un encargado de recoger resultados es responsable de compilar los resultados.
-    - 1g2) Los cambios al resultado en una hoja de tiempos sólo están permitidos a discreción del delegado de la WCA.
+    - 1g2) Los cambios a los resultados en una hoja de tiempos solo están permitidos a discreción del delegado de la WCA.
 - 1h) Los competidores en la misma ronda de un evento pueden competir como un solo grupo o ser divididos en múltiples grupos.
     - 1h1) Los mezcladores de una ronda no deberán mezclar o ser juez para participantes de su propio grupo antes de haber acabado todos sus intentos en esa ronda. Pueden mezclar y ser juez a competidores de su propio grupo a discreción del delegado de la WCA, pero el equipo organizador debe asegurarse que los mezcladores y los jueces no puedan ver ninguna mezcla de sus intentos que no hayan realizado aún (ver [Regla 4b2](regulations:regulation:4b2)).
 - 1j) Todos los miembros oficiales pueden participar en la competición.
@@ -63,7 +63,7 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
 - 2a) Cualquier persona puede competir en una competición de la WCA si:
     - 2a1) Cumple con el reglamento de la WCA.
     - 2a2) Cumple los requisitos para participar, los cuales deben ser claramente anunciados antes de la competición.
-    - 2a3) No está suspendido por la WCA.
+    - 2a3) La WCA no le suspendió la participación.
     - 2a4) Cumple con todas las medidas sanitarias razonables que el delegado de la WCA considere necesarias. Estas medidas deben ser anunciadas de forma clara antes de la competición.
 - 2b) Los competidores menores de 18 años deben tener el consentimiento de su(s) padre(s)/tutor(es) para inscribirse y competir.
 - 2c) Los competidores se inscribirán proporcionando toda la información requerida por el equipo organizador (Incluyendo: nombre, país, fecha de nacimiento, género, información de contacto, eventos seleccionados).
@@ -77,7 +77,7 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
 - 2f) Los competidores deben seguir las reglas del local y comportarse decentemente.
 - 2g) Los competidores deben permanecer tranquilos cuando estén dentro del área de competición. Hablar está permitido, pero debe mantenerse a un volumen razonable, y lejos de los competidores que estén compitiendo activamente.
     - 2g3) Los competidores no deben hablar en el zona de espera para competidores acerca del estado inicial del puzzle de la ronda actual. Penalización: descalificación del/los competidor/es del evento, a discreción del delegado de la WCA.
-- 2h) Los competidores deberán estar completamente vestidos mientras estén en el local de la competición. A discreción del Delagado de la WCA, un competidor puede ser descalificado de la competición por usar una vestimenta inapropiada.
+- 2h) Los competidores deberán estar completamente vestidos mientras estén en el local de la competición. A discreción del delegado de la WCA, un competidor puede ser descalificado de la competición por usar una vestimenta inapropiada.
 - 2i) Mientras se encuentre en la fase de inspección o en la fase de resolución, un competidor no puede usar auriculares ni otros aparatos electrónicos (p.ej. teléfonos móviles, reproductores MP3, iluminación adicional), aparte del timer Stackmat o el cronómetro. Penalización: descalificación del intento (DNF).
     - 2i1) Los competidores pueden utilizar determinados dispositivos no-electrónicos mientras éstos no le den una ventaja injusta, a discreción del delegado de la WCA. Esto incluye:
         - 2i1a) Ayudas médicas/físicas que el competidor traiga puestas (p.ej. lentes, muñequeras) Como una excepción a la [Regla 2i](regulations:regulation:2i), las ayudas médicas pueden ser electrónicas si el competidor no tiene ninguna alternativa cómoda que no sea electrónica (p.ej. si el competidor tiene un aparato que lo ayuda a escuchar o un marcapasos).
@@ -105,10 +105,10 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
 - 2l) Un competidor puede ser descalificado inmediatamente, o después de un aviso, dependiendo de la naturaleza y la gravedad de la infracción.
     - 2l1) Un competidor que ha sido descalificado no puede pedir el reembolso de los gastos en los que haya incurrido por participar en la competición.
 - 2n) Los competidores pueden discutir verbalmente la aplicación de una regla con el delegado de la WCA.
-    - 2n1) Las discusiones sólo se permiten durante la competición (ver [Regla 9u](regulations:regulation:9u)), antes de transcurridos los 30 minutos desde que ocurrió el incidente en cuestión; o antes de que comience la siguiente ronda del evento.
+    - 2n1) Las discusiones solo se permiten durante la competición (ver [Regla 9u](regulations:regulation:9u)), antes de transcurridos los 30 minutos desde que ocurrió el incidente en cuestión; o antes de que comience la siguiente ronda del evento.
     - 2n2) El delegado de la WCA debe resolver la discusión antes de que comience la siguiente ronda del evento.
     - 2n3) El competidor debe aceptar la decisión final tomada por el delegado de la WCA. Penalización: descalificación de la competición.
-- 2s) Los competidores con condiciones (p.ej. condiciones funcionales) que les impidan cumplir con una o más las reglas de la WCA, pueden solicitar adaptaciones especiales al delegado de la WCA. Los competidores que requieran estas adaptaciones deberían ponerse en contacto con el equipo organizador y el delegado de la WCA al menos dos semanas antes de la competición.
+- 2s) Los competidores con condiciones (p.ej. condiciones funcionales o religiosas) que les impidan cumplir con una o más reglas de la WCA, pueden solicitar adaptaciones especiales al delegado de la WCA. Los competidores que requieran estas adaptaciones deberían ponerse en contacto con el equipo organizador y el delegado de la WCA al menos dos semanas antes de la competición.
 - 2t) Todos los competidores deben entender y estar familiarizados con el reglamento de la WCA antes de la competición.
 - 2u) Los competidores deben estar presentes y listos para competir cuando se les llama para competir en un intento. Penalización: descalificación del evento.
     - 2u1) Excepción: un competidor que no esté presente a tiempo para un intento programado (p.ej. un intento de Resolución en menos movimientos o un intento de Resolución de Múltiples cubos a ciegas) puede considerarse como que desistió del intento (DNS), a discreción del delegado de la WCA.
@@ -127,15 +127,15 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
         - 3d1a) Los competidores ciegos pueden usar puzzles con texturas diferentes en cada cara. Cada cara debería tener un color distinto, para facilitar la mezcla y el trabajo del juez.
         - 3d1b) Los competidores daltónicos que no puedan distinguir entre el número necesario de colores pueden usar partes de colores con patrones, si ha sido aprobado explícitamente de acuerdo con la [Regla 2s](regulations:regulation:2s). Los patrones pueden ser de los "stickers" o pueden estar dibujados.
     - 3d2) Los colores del puzzle deben ser sólidos, con un color uniforme por cara. Cada color en el puzzle debe ser claramente distinto a los demás.
-- 3h) Las modificaciones que mejoran el concepto básico de un puzzle no están permitidas. Las versiones modificadas de un puzzle sólo están permitidas si la modificación no aporta ninguna información adicional al competidor (p.ej. orientación o identidad de las piezas), con respecto a la versión sin modificar del mismo puzzle.
+- 3h) Las modificaciones que mejoran el concepto básico de un puzzle no están permitidas. Las versiones modificadas de un puzzle solo están permitidas si la modificación no aporta ninguna información adicional al competidor (p.ej. orientación o identidad de las piezas), con respecto a la versión sin modificar del mismo puzzle.
     - 3h1) Los puzzles redondeados (“Pillowed”) están permitidos.
     - 3h2) Los puzzles cuyos colores sean visibles en el interior del cubo (p.ej. puzzles “stickerless”) sí están permitidos. Esto no incluye a los siguientes:
         - 3h2a) Puzzles con partes transparentes que puedan revelar más información acerca del estado del puzzle. Excepción: Un "sticker" superpuesto o un logotipo (ver [Regla 3l](regulations:regulation:3l)).
     - 3h3) Cualquier modificación a un puzzle que resulte en un mal rendimiento para el competidor no es un motivo válido para obtener un intento extra.
-    - 3h4) En Clock, están permitidas las siguientes modificaciones:
-        - 3h4a) "Inserts" personalizados (del mismo tamaño y forma que los "inserts" de papel tradicionales), a discreción del delegado de la WCA. Estos deben tener una indicación clara de las 12 en punto, igual a los "inserts" originales.
-        - 3h4b) Personalizaciones en el diseño del puzzle que no den ninguna ventaja injusta, a discresión del delegado de la WCA (p.ej. patrones de colores en los relojes, caras con diseños personalizados, cinta adhesiva en el lateral del Clock).
-        - 3h4c) Personalizaciones que permitan distinguir botones (o "pines"), a discresión del delegado de la WCA.
+    - 3h4) En Clock están permitidas las siguientes modificaciones:
+        - 3h4a) "Inserts" personalizados (del mismo tamaño y forma que los "inserts" de papel tradicionales), a discreción del delegado de la WCA. Estos deben tener una indicación clara de las 12 en punto que coincida con los "inserts" originales.
+        - 3h4b) Personalizaciones en el diseño del puzzle que no den ninguna ventaja injusta, a discreción del delegado de la WCA (p.ej. patrones de colores en los relojes, caras con diseños personalizados, cinta adhesiva en el lateral del Clock).
+        - 3h4c) Personalizaciones que permitan distinguir botones (o "pines"), a discreción del delegado de la WCA.
         - 3h4d) Logos en cualquier parte del puzzle, siempre y cuando los relojes internos permanezcan visibles.
     - 3h5) En Clock, los botones (o "pines") flojos (p.ej. los botones que cambian de posición por efecto de la gravedad, sin necesidad de ser presionados) no están permitidos.
 - 3j) Los puzzles deben estar limpios, y no deben tener ninguna marca, piezas elevadas, daños u otras diferencias que puedan distinguir una pieza de otra similar. Excepción: un logotipo (ver [Regla 3l](regulations:regulation:3l)).
@@ -160,7 +160,7 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
 - 4a) Un mezclador aplica mezclas a los puzzles.
 - 4b) Los puzzles deben ser mezclados usando mezclas aleatorias generadas mediante una computadora.
     - 4b1) Las mezclas generadas no se deben inspeccionar antes de la competición, y no deben ser filtradas o seleccionadas de ninguna manera por el delegado de la WCA.
-    - 4b2)  Las mezclas de una ronda sólo deben estar disponibles para el delegado de la WCA y para los mezcladores de ese evento hasta el final de dicha ronda. Excepción: Para FMS (Resolución en menos movimientos), los competidores reciben mezclas durante la ronda (ver [Artículo E](regulations:article:E)).
+    - 4b2)  Las mezclas de una ronda solo deben estar disponibles para el delegado de la WCA y para los mezcladores de ese evento hasta el final de dicha ronda. Excepción: Para FMS (Resolución en menos movimientos), los competidores reciben mezclas durante la ronda (ver [Artículo E](regulations:article:E)).
         - 4b2a) El delegado de la WCA designado para la competición, solo debe dar acceso a las mezclas para futuros grupos a otros miembros del equipo organizador si estos estarán temporalmente no disponibles (p.ej. compitiendo ellos mismos), y en este caso debería darle acceso a la mínima cantidad posible de mezclas a otros.
     - 4b3) Especificación para el programa de mezcla: Una mezcla oficial debe producir un estado al azar de aquellos que requieren por lo menos 2 movimientos para resolver (la misma probabilidad para cada estado). Se aplican las siguientes adiciones/excepciones:
         - 4b3a) Para los eventos de armar el cubo a ciegas, la mezcla debe orientar el puzzle de manera aleatoria (la misma probabilidad para cada orientación).
@@ -179,14 +179,14 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
 - 4f) Las mezclas deben ser generadas usando la versión oficial vigente del programa de la WCA para las mezclas (disponible [en la página de la WCA](https://www.worldcubeassociation.org/regulations/scrambles/)).
 - 4g) Después de mezclar un puzzle, el mezclador debe comprobar que esté correctamente mezclado. Si el estado del puzzle no es correcto, el mezclador debe corregirlo (p.ej. resolviendo el puzzle y aplicando la mezcla de nuevo).
     - 4g1) Excepción: Para los cubos de 6x6x6, 7x7x7, y el Megaminx, no es necesario corregir la mezcla, a discreción del delegado de la WCA.
-    - 4g2) Excepción: en Clock, si el estado de los botones se ve afectado al transportar o descubrir el puzzle, no es necesario corregir el estado de los mismos.
+    - 4g2) Excepción: en Clock, si el estado de los botones se ve afectado al transportar o destapar el puzzle, no es necesario corregir el estado de los mismos.
 
 
 ## <article-5><puzzle-defects><puzzledefects> Artículo 5: Desperfectos de puzzles
 
 - 5a) Ejemplos de desperfectos de puzzles incluyen: piezas que se salen del puzzle (Pop), piezas giradas en su sitio, y tapas/tornillos/pegatinas sueltas o desprendidas.
 - 5b) Si un desperfecto de un puzzle ocurre durante un intento, el competidor puede elegir entre reparar el desperfecto y continuar, o parar el intento.
-    - 5b1)Si el competidor elige reparar el puzzle, sólo debe reparar las piezas afectadas. Herramientas y/o piezas de otros puzzles no deben ser usadas para reparar el puzzle en cuestión. Penalización: descalificación del intento (DNF).
+    - 5b1) Si el competidor elige reparar el puzzle, solo debe reparar las piezas afectadas. Herramientas y/o piezas de otros puzzles no deben ser usadas para reparar el puzzle en cuestión. Penalización: descalificación del intento (DNF).
     - 5b2) Ninguna reparación debe dar al competidor ninguna ventaja en el proceso de resolución del puzzle Penalización: descalificación del intento (DNF).
     - 5b3) Reparaciones permitidas:
         - 5b3a) Si algunas piezas se han caído del puzzle o han cambiado de lugar, el competidor puede volver a colocarlas.
@@ -209,7 +209,7 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
 - 7e) El área de la competición debe ser un lugar libre de humo.
 - 7f) Estación de resolución:
     - 7f1) Definiciones:
-        - 7f1a) Stackmat: El cronómetro de Speedstacks y un tapete compatible con el cronómetro. Se debe usar un cronómetro de Speedstacks Generación 3 Pro, 4 Pro y/o Generación 5 Pro para tomar los tiempos de resolución.
+        - 7f1a) Stackmat: El cronómetro de Speed Stacks y un tapete compatible con el cronómetro. Se debe usar un cronómetro de Speed Stacks Generación 3 Pro, 4 Pro y/o Generación 5 Pro para tomar los tiempos de resolución.
         - 7f1b) Mat: Tapete del Stackmat.
         - 7f1c) Cronómetro: Cronómetro del Stackmat, o un cronómetro de mano (para intentos más largos).
         - 7f1d) Superficie: La superficie plana en la que el Stackmat ha sido colocado. El tapete se considera parte de la superficie. El cronómetro, no.
@@ -255,14 +255,14 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
     - 9f12) Para rondas con formato "Mejor de X", la posición se asigna basándose en el mejor resultado de cada competidor. Las siguientes reglas se usan para comparar resultados:
         - 9f12a) Para resultados cronometrados "mejor" se define como el tiempo más corto.
         - 9f12b) Para la categoría de menos movimientos, "mejor" se define como la solución más corta.
-        - 9f12c) Para la categoría de múltiples cubos 3x3x3 a ciegas, la posición se asigna según el número de cubos resueltos menos el de cubos sin resolver, donde un mayor resultado es mejor. Si ese resultado es menor que 0, o si sólo se resuelve 1 puzzle, el intento se considerará como un DNF. Si varios competidores obtienen el mismo resultado, la posición se asigna según el tiempo total, donde el menor tiempo cronometrado es el mejor. Si los competidores tienen el mismo resultado con el mismo tiempo, la posición se basa en el número de puzzles que los competidores fallaron, donde un menor número de cubos sin resolver es mejor.
+        - 9f12c) Para la categoría de múltiples cubos 3x3x3 a ciegas, la posición se asigna según el número de cubos resueltos menos el de cubos sin resolver, donde un mayor resultado es mejor. Si ese resultado es menor que 0, o si solo se resuelve 1 puzzle, el intento se considerará como un DNF. Si varios competidores obtienen el mismo resultado, la posición se asigna según el tiempo total, donde el menor tiempo cronometrado es el mejor. Si los competidores tienen el mismo resultado con el mismo tiempo, la posición se basa en el número de puzzles que los competidores fallaron, donde un menor número de cubos sin resolver es mejor.
     - 9f13) Para rondas con formato "Media de 3" y "Promedio de 5", la posición se asigna según el promedio o media, donde "mejor" es el tiempo más corto.
     - 9f14) Para rondas con formato "Media de 3" y "Promedio de 5", si dos o más competidores obtienen un promedio/media idéntico, se asignará la posición dependiendo del mejor intento de cada competidor, donde "mejor" es el tiempo más corto.
     - 9f15) Los competidores que obtengan el mismo resultado en una ronda tienen la misma posición en la ronda.
 - 9g) Una Ronda de Corte (Cutoff Round) es aquella que tiene una fase de corte "Mejor de X" y un tiempo de corte requerido (p.ej. "Mejor de 2" con un tiempo de corte requerido estrictamente menor a 2 minutos). Si el competidor alcanza el tiempo de corte requerido en por lo menos uno de los intentos de la fase de corte, puede continuar con los intentos restantes. Los intentos de la fase de corte se cuentan como parte de toda la ronda.
 - 9i) Los resultados de una competición oficial de la WCA deben aparecer en los rankings mundiales de la WCA.
     - 9i1) La WCA reconoce los siguientes tipos de récords regionales: récords nacionales (NR), récords continentales (CR) y récords mundiales (WR).
-    - 9i2)  Se considera que todos los resultados de una ronda tuvieron lugar el último día de calendario de la ronda. Si un récord regional se bate múltiples veces en el mismo día, sólo el mejor de esos resultados se cuenta como récord regional.
+    - 9i2)  Se considera que todos los resultados de una ronda tuvieron lugar el último día de calendario de la ronda. Si un récord regional se bate múltiples veces en el mismo día, solo el mejor de esos resultados se cuenta como récord regional.
     - 9i3) Si el reglamento de la WCA cambia para un evento, los récords regionales existentes se mantendrán hasta que se batan bajo el nuevo reglamento de la WCA.
 - 9j) Cada evento debe realizarse como mucho una vez por competición.
 - 9k) Todos los competidores pueden participar en todos los eventos de una competición, excepto en casos específicamente aprobados por el Equipo de Anuncios de Competiciones de la WCA (WCA Competition Announcement Team).
@@ -290,7 +290,7 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
 
 ## <article-10><solved-state><solvedstate> Artículo 10: Estado resuelto de un puzzle
 
-- 10b) Sólo se considera el estado del puzzle tras haber parado el cronómetro.
+- 10b) Solo se considera el estado del puzzle tras haber parado el cronómetro.
 - 10c) El puzzle puede estar en cualquier orientación al final de la resolución.
 - 10d) Todas las piezas de un puzzle deben estar completamente unidas a él y en su sitio. Excepción: ver [Regla 5b5](regulations:regulation:5b5)).
 - 10e) Un puzzle está resuelto cuando todos los colores de las caras están re-ensamblados y todas las partes están alineadas dentro de los límites que se especifican abajo:
@@ -315,10 +315,10 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
     - 11a3) Problemas de funcionamiento del material o equipamiento.
 - 11b) Si ocurre un incidente, el delegado de la WCA determina de forma imparcial y apropiada las medidas que hay que tomar.
 - 11d) Si el reglamento del WCA no es suficientemente claro sobre un incidente, o si el incidente no está cubierto por el reglamento de la WCA, el delegado de la WCA debe tomar una decisión basada en una justa actitud deportiva (ver también [Regla 11e3](regulations:regulation:11e3)).
-- 11e) El delegado de la WCA puede otorgarle un intento extra a un competidor para reemplazar un intento afectado por un incidente. El competidor debería apelar verbalmente o por escrito al juez y al delegado de la WCA cuando suceda el incidente, antes de finalizar el intento original, para tener la posibilidad de recibír un intento extra. Una petición de este tipo no garantiza al competidor un intento extra.
+- 11e) El delegado de la WCA puede otorgarle un intento extra a un competidor para reemplazar un intento afectado por un incidente. El competidor debería apelar verbalmente o por escrito al juez y al delegado de la WCA cuando suceda el incidente, antes de finalizar el intento original, para tener la posibilidad de recibir un intento extra. Una petición de este tipo no garantiza al competidor un intento extra.
     - 11e1) Si al competidor se le otorga un intento extra, el intento debe ser mezclado usando una mezcla diferente. Esta mezcla debe ser generada usando la versión oficial actualizada del programa oficial de mezclas de la WCA (ver [Regla 4f](regulations:regulation:4f)).
     - 11e2) Si un competidor recibe un intento extra, el intento debería realizarse justo después del intento que lo causó, y debe reemplazar al intento original numerado regularmente.
-    - 11e3) Si no es claro si un incidente debería resultar en un intento extra, se le puede dar al competidor un intento extra provisorio que será usado sólo si más tarde resulta que el intento extra sí era apropiado (p.ej. por decisión del WRC).
+    - 11e3) Si no es claro si un incidente debería resultar en un intento extra, se le puede dar al competidor un intento extra provisorio que será usado solo si más tarde resulta que el intento extra sí era apropiado (p.ej. por decisión del WRC).
 - 11f) Las decisiones sobre un incidente pueden apoyarse en el análisis de vídeos o fotografías, a discreción del delegado de la WCA.
 - 11g) El delegado de la WCA debe asegurarse que haya disponibles copias del Reglamento y las Directrices para oficiales y competidores (p.ej. impresas, digitales, o accesibles vía internet) para consultar por cualquier incidente.
 - 11h) El delegado de la WCA puede pedir a los competidores que estén violando seriamente la [Regla 2k3](regulations:regulation:2k3) que abandonen el local de la competición, teniendo en cuenta la seriedad de la situación y el mejor curso de acción posible. Si el competidor se niega a hacerlo, puede enfrentar acciones disciplinarias en la WCA.
@@ -348,7 +348,7 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
     - 12c2) (X, Y) quiere decir: gira la capa superior X veces 30 grados en sentido horario, gira la capa inferior Y veces 30 grados en sentido horario. X e Y deben ser números enteros desde -5 hasta 6, y no pueden ser ambos iguales a 0.
     - 12c3)  "/" quiere decir: gira la mitad derecha del puzzle 180 grados.
     - 12c4) Métrica para Square-1: (X, Y) cuenta como un movimiento; "/" también cuenta como un movimiento.
-- 12d) Notación para Megaminx (sólo para mezclar):
+- 12d) Notación para Megaminx (solo para mezclar):
     - 12d1) Movimientos de las caras:
         - 12d1a) Sentido horario, 72 grados: U (cara superior).
         - 12d1b) Sentido antihorario, 72 grados: U' (cara superior).
@@ -399,7 +399,7 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
         - A3a1) El competidor tiene un máximo de 15 segundos para inspeccionar el puzzle y comenzar la solución.
     - A3b) El juez prepara el cronómetro, lo prende o lo resetea según sea necesario. Si se está utilizando un cronómetro Generación 5 Pro, el juez debe asegurarse de que está configurado en el modo de 2 sensores. A su vez, el juez prepara el cronómetro de mano para contar el tiempo de inspección.
         - A3b1) Cuando el juez cree que el competidor ya está preparado, pregunta “¿PREPARADO?” o “¿LISTO?”. El competidor debe estar listo para empezar el intento antes de que pase un minuto después de que se le pregunte si está listo, de lo contrario el competidor pierde el intento (DNS), a discreción del juez.
-        - A3b2) El competidor comienza su intento al confirmar que está preparado, el juez descubre el puzzle y empieza a contar el tiempo de inspección en el cronómetro de mano.
+        - A3b2) El competidor comienza su intento al confirmar que está preparado, el juez destapa el puzzle y empieza a contar el tiempo de inspección en el cronómetro de mano.
     - A3c) El competidor puede tomar el puzzle durante el tiempo de inspección.
         - A3c1) El competidor no debe hacer movimientos ni cambios intencionales en la alineación del puzzle durante la inspección. Penalización: descalificación del intento (DNF). Excepción: ver [Regla A3c2](regulations:regulation:A3c2) y [Regla A3c5](regulations:regulation:A3c5).
         - A3c2) Si las piezas del puzzle no están completamente alineadas cuando se destapa el puzzle, el competidor puede alinear las caras, siempre y cuando las desalineaciones se mantengan dentro de los límites de la [Regla 10f](regulations:regulation:10f).
@@ -501,7 +501,7 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
     - E2a) El juez proporciona la mezcla y papel a todos los competidores. Entonces, el juez inicia el cronómetro y dice "VAMOS".
         - E2a1) Antes de que empiece el intento, el competidor no debe escribir en ningún papel destinado al intento. Excepción: el competidor puede escribir la información para identificar el intento (ver [Regla E2c1](regulations:regulation:E2c1)). Si escribe esta información en el papel que contiene la mezcla, solo debe escribir en el lado que no está la mezcla antes del intento. Penalización por escribir cualquier otra información: descalificación del intento (DNF).
     - E2b) Todos los competidores tienen un tiempo límite total de 60 minutos para encontrar y escribir una solución.
-        - E2b1)  El juez debería decir "QUEDAN 5 MINUTOS" a los 55 minutos del comienzo, y debe decir "PARAR" a los 60 minutos.
+        - E2b1)  El juez debería decir "QUEDAN 5 MINUTOS" a los 55 minutos del comienzo, y debe decir "TIEMPO" a los 60 minutos.
     - E2c) A los 60 minutos, cada competidor debe dar al juez una única hoja de papel con una solución escrita y la información para identificar el intento.
         - E2c1) La información para identificar el intento es: el nombre del competidor, su WCA ID, o ID de registro del participante (por lo menos una, opcionalmente múltiples), y opcionalmente el nombre de la competición, ronda o número de intento. Penalización por entregar una solución sin el nombre, WCA ID, o ID de registro del participante: descalificación del intento (DNF).
         - E2c2) La solución debe ser una sola e inequívoca secuencia de movimientos con cada movimiento individual escrito en orden secuencial. Penalización por una solución ambigua: descalificación del intento (DNF).
@@ -509,7 +509,7 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
         - E2c4) La solución del competidor solo debe usar movimientos que estén exactamente definidos como notación del Cubo 3x3x3 en la [Regla 12a](regulations:regulation:12a), y no debe usar ningún símbolo, o combinación de estos, que no esté específicamente definida en dicha regla. Penalización: descalificación del intento (DNF).
         - E2c5) La solución del competidor se considera correcta si, empezando por el puzzle resuelto y aplicando la mezcla seguida de la solución, resulta en el puzzle resuelto. Penalización por una solución incorrecta: descalificación del intento (DNF).
     - E2d) El resultado del competidor es la cantidad de movimientos en su solución, y se calcula usando la Métrica de Giros de Bloques Exteriores (ver [Regla 12a5](regulations:regulation:12a5)).
-        - E2d1) Se permite una longitud máxima de la solución de 80 movimientos (contando las rotaciones) cuando es calculada usando la Metrica de Ejecución de Giros (ver [Regla 12a6](regulations:regulation:12a6)). Penalización: descalificación del intento (DNF).
+        - E2d1) Se permite una longitud máxima de la solución de 80 movimientos (contando las rotaciones) cuando es calculada usando la Métrica de Ejecución de Giros (ver [Regla 12a6](regulations:regulation:12a6)). Penalización: descalificación del intento (DNF).
     - E2e) La solución propuesta no debe estar directamente derivada de ninguna de las partes de la secuencia de mezcla. Penalización: descalificación del intento (DNF), a discreción del delegado de la WCA.
         - E2e1) El delegado de la WCA puede pedir a un competidor que explique el propósito de cada movimiento en su solución, independientemente de los algoritmos de la mezcla. Si el competidor no es capaz de dar una explicación válida, el intento queda descalificado (DNF).
 - E3) El competidor puede usar los siguientes objetos durante el intento. Penalización por utilizar objetos no autorizados: descalificación del intento (DNF).
@@ -520,15 +520,15 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
     - E3e) Otras ayudas no electrónicas que no den una ventaja injusta, a discreción del delegado de la WCA (ver [Regla 2i1](regulations:regulation:2i1)).
     - E3f) Útiles para remover marcas (suministrados por el competidor), como puede ser líquido corrector o goma de borrar.
 - E4) El delegado de la WCA puede optar por hacer públicas las soluciones (p.ej. con una foto de la hoja de resultados o una transcripción de las soluciones).
-- E5) El juez no se debe comunicar con nadie más que el juez o el delegado de la WCA. La comunicación debería ser solo sobre el Reglamento de la WCA. Además, el competidor no puede recibir ayuda con su solución. Penalización: descalificación del intento (DNF).
+- E5) El competidor no se debe comunicar con nadie más que el juez o el delegado de la WCA. La comunicación debería ser solo sobre el Reglamento de la WCA. Además, el competidor no puede recibir ayuda con su solución. Penalización: descalificación del intento (DNF).
 
 
 ## <article-F><clock><clocksolving> Artículo F: Resolución de Clock
 
 - F1) Se siguen los procedimientos estándar de Speed Solving, descritos en el [Artículo A](regulations:article:A) (Speed Solving). Las reglas adicionales que reemplazan a los correspondientes procedimientos del [Artículo A](regulations:article:A) se describen a continuación.
 - F2) El juez sitúa el puzzle mezclado sobre el mat en posición vertical.
-    - F2a) El equipo organizador puede requerir el uso de un atríl para prevenir que el puzzle se caiga antes de comenzar el intento. Si dicho atríl es usado, el equipo organizador debería anunciarlo antes de que comience la ronda.
-        - F2a1) El juez debe quitar el atríl del mat inmediatamente después de que el competidor saca el puzzle del mismo.
+    - F2a) El equipo organizador puede requerir el uso de un atril para prevenir que el puzzle se caiga antes de comenzar el intento. Si dicho atril es usado, el equipo organizador debería anunciarlo antes de que comience la ronda.
+        - F2a1) El juez debe quitar el atril del mat inmediatamente después de que el competidor saca el puzzle del mismo.
 - F3) Al final del período de inspección, el competidor sitúa el puzzle sobre el mat en posición vertical. Penalización: descalificación del intento (DNF).
     - F3a) El competidor no debe cambiar las posiciones de la mezcla de ninguno de los botones antes del comienzo de la resolución. Penalización: descalificación del intento (DNF).
 
