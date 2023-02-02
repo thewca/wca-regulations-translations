@@ -13,7 +13,7 @@
 
 Перевод осуществляли: [Антон Ростовиков](https://www.worldcubeassociation.org/persons/2009ROST01), [Олег Гриценко](https://worldcubeassociation.org/results/p.php?i=2011GRIT01).
 
-Перевод корректировали: [Оксана Рузаева](https://www.worldcubeassociation.org/persons/2010RUZA01), [Антон Горячих](https://www.worldcubeassociation.org/persons/2009GORY01), [Дмитрий Анискин](https://www.worldcubeassociation.org/persons/2011ANIS01), [Николай Массон](https://www.worldcubeassociation.org/persons/2011MASS01), [Тимофей Вихрянов](https://www.worldcubeassociation.org/persons/2019VIKH01), [Екатерина Канева](https://www.worldcubeassociation.org/persons/2018KANE03), [Александр Катюков](https://www.worldcubeassociation.org/persons/2015KATY01).
+Перевод корректировали: [Оксана Рузаева](https://www.worldcubeassociation.org/persons/2010RUZA01), [Антон Горячих](https://www.worldcubeassociation.org/persons/2009GORY01), [Дмитрий Анискин](https://www.worldcubeassociation.org/persons/2011ANIS01), [Николай Массон](https://www.worldcubeassociation.org/persons/2011MASS01), [Тимофей Вихрянов](https://www.worldcubeassociation.org/persons/2019VIKH01), [Екатерина Канева](https://www.worldcubeassociation.org/persons/2018KANE03), [Александр Катюков](https://www.worldcubeassociation.org/persons/2015KATY01), [Владимир Лебедев](https://www.worldcubeassociation.org/persons/2014LEBE01).
 
 ### Положения WCA и Дополнения к Положениям WCA
 
