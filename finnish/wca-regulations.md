@@ -482,7 +482,7 @@ Huomautus: Koska artikloille ja säännöille ei määrätä uusia numeroita kun
     - B5a) Kun käytetään Stackmat-ajastinta, kilpailija päättää ratkaisun päästämällä irti pulmapelistä ja pysäyttämällä ajastimen.
 		- B5a1) Jos sekuntikelloa käytetään Stackmat-ajastimen lisäksi, tuomari pysäyttää sekuntikellon heti, kun kilpailija päättää ratkaisun.
     - B5b) Kun sekuntikelloa käytetään ainoana ajastimena, kilpailija päättää ratkaisun päästämällä irti pulmapelistä ja ilmoittamalla tuomarille päättävänsä ratkaisun. Tuomari pysäyttää sekuntikellon heti, kun kilpailija tekee näin.
-	    - B5b) Kilpailijan oletusilmoitus on päästää irti pulmapelistä/-peleistä ja asettaa kädet alustalle kämmenet alaspäin. Kilpailija ja tuomari voivat sopia muusta ilmoitustavasta ennen ratkaisuyrityksen alkua.
+	    - B5b1) Kilpailijan oletusilmoitus on päästää irti pulmapelistä/-peleistä ja asettaa kädet alustalle kämmenet alaspäin. Kilpailija ja tuomari voivat sopia muusta ilmoitustavasta ennen ratkaisuyrityksen alkua.
     - B5c) Kilpailija voi poistaa siteen silmiltään ennen kuin hän pysäyttää ajastimen, jos hän ei koske pulmapeliin tässä välissä (ts. ennen ratkaisun päättämistä). Rangaistus pulmapeliin koskemisesta: ratkaisuyrityksen hylkäys (DNF).
 
 
