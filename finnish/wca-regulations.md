@@ -244,7 +244,7 @@ Huomautus: Koska artikloille ja säännöille ei määrätä uusia numeroita kun
     - 9f1) Kaikki alle 10 minuutin ajat, poislukien 3x3x3 multisokko, mitataan ja katkaistaan sekunnin sadasosan tarkkuudelle. Kaikki alle 10 minuutin (typistetyt) keskiarvot mitataan ja pyöristetään lähimpään sekunnin sadasosaan.
     - 9f2) Kaikki yli 10 minuutin ajat ja (typistetyt) keskiarvot sekä kaikki ajat 3x3x3 multisokko -tuloksissa mitataan ja pyöristetään lähimpään sekuntiin (esim. X.49 on X, X.50 on X+1).
     - 9f4) Ratkaisuyrityksen tulos on DNF (Did Not Finish), jos ratkaisu on hylätty tai ratkaisematon/keskeneräinen.
-	    9f4a) Jos kilpailija rikkoo jotakin sääntöä niin selkeästi, että ratkaisuyritys hylätään varmasti, tuomarin pitäisi keskeyttää ratkaisuyritys heti. Jos tuomari on epävarma tai jos keskeyttäminen voisi olla häiritsevää (esim. koska ylimääräinen ratkaisuyritys voisi viivästyttää kilpailua), tuomarin pitäisi kysyä WCA-delegaatin näkemystä.
+	    - 9f4a) Jos kilpailija rikkoo jotakin sääntöä niin selkeästi, että ratkaisuyritys hylätään varmasti, tuomarin pitäisi keskeyttää ratkaisuyritys heti. Jos tuomari on epävarma tai jos keskeyttäminen voisi olla häiritsevää (esim. koska ylimääräinen ratkaisuyritys voisi viivästyttää kilpailua), tuomarin pitäisi kysyä WCA-delegaatin näkemystä.
     - 9f5) Ratkaisuyrityksen tulos on DNS (Did Not Start), jos kilpailija on oikeutettu ratkaisuyritykseen, mutta kieltäytyy siitä.
     - 9f6) "Paras X:stä" -kierroksilla jokaiselle kilpailijalle myönnetään X ratkaisuyritystä. Näistä paras tulos määrää kilpailijan sijoituksen kierroksella.
     - 9f7) "Paras X:stä" -kierroksilla DNF tai DNS on huonoin mahdollinen tulos.
