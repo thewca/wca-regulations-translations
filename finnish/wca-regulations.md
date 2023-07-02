@@ -230,9 +230,9 @@ Huomautus: Koska artikloille ja säännöille ei määrätä uusia numeroita kun
 		- 9b1b) Cutoff-kierroksen kierrosformaatti näille lajeille on "Paras 2:sta"/"Typistetty 5:n keskiarvo".
     - 9b2) 6x6x6-kuutio ja 7x7x7-kuutio.
         - 9b2a) Yhtenäisen kierroksen kierrosformaatti näille lajeille on "3:n keskiarvo".
-		- 9b2b) Cutoff-kierroksen kierrosformaatti näille lajeille on "Paras 1:sta"/"3:n keskiarvo".
+		- 9b2b) Cutoff-kierroksen kierrosformaatti näille lajeille on "Paras 1:stä"/"3:n keskiarvo".
     - 9b3) 3x3x3 sokkona, 4x4x4 sokkona ja 5x5x5 sokkona
-        - 9b3a) Yhtenäisen kierroksen kierrosformaatti näille lajeille on "Paras 3:stä"
+        - 9b3a) Yhtenäisen kierroksen kierrosformaatti näille lajeille on "Paras 3:sta"
         - 9b3b) Näille lajeille WCA tunnustaa myös "3:n keskiarvo" -rankingin ja -ennätykset, mutta näitä ei käytetä kilpailusijoitusten määrittämiseen.
 	- 9b4) 3x3x3 vähiten siirtoja.
 	    - 9b4a) Yhtenäisen kierroksen kierrosformaatit tälle lajille ovat "Paras 1:stä", "Paras 2:sta" tai "3:n keskiarvo".
