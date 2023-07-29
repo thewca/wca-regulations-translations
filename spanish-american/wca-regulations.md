@@ -1,6 +1,6 @@
 # <wca-title>Reglamento WCA (Español Americano)
 
-<version> Versión: 1 de febrero de 2023
+<version> Versión: 1 de agosto de 2023
 
 
 ## Notas
@@ -42,6 +42,7 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
 - 1a) Una competencia debe incluir un delegado de la WCA y un equipo organizador (que conste de una o más personas) con los siguientes miembros: jueces, mezcladores (los que hacen las mezclas o “scrambles”) y encargados de recoger y compilar los resultados.
 - 1b) El equipo organizador es el responsable de la logística y el buen funcionamiento de la competencia antes, durante y después de la misma.
 - 1c) El delegado de la WCA es responsable de asegurar que la competencia se adhiere al Reglamento y a cualquier política o requerimiento de la WCA aplicables. El delegado de la WCA puede delegar responsabilidades a otros miembros del equipo de organizadores, pero es el responsable en última instancia de cómo se llevan a cabo esas responsabilidades.
+    - 1c1) El delegado de la WCA debe asegurarse que la competición cumple con la [Política de ???? de la WCA](https://www.worldcubeassociation.org/documents/policies/external/Scramble%20Accountability.pdf).
 - 1e) Cada categoría debe tener uno o más jueces.
     - 1e1) Un juez es responsable de ejecutar los procedimientos de la categoría.
         - 1e1a)  Un juez puede juzgar a varios competidores simultáneamente, a discreción del delegado de la WCA, siempre y cuando el juez pueda asegurarse de que se cumpla el reglamento de la WCA en todo momento.
@@ -76,7 +77,7 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
     - 2e3) Los competidores que no tienen ciudadanía pueden competir como "Stateless" (apátrida, sin nacionalidad).
 - 2f) Los competidores deben seguir las reglas del local y comportarse decentemente.
 - 2g) Los competidores deben permanecer tranquilos cuando estén dentro del área de competencia. Hablar está permitido, pero debe mantenerse a un volumen razonable, y lejos de los competidores que estén compitiendo activamente.
-    - 2g3) Los competidores no deben hablar en el zona de espera para competidores acerca del estado inicial del puzzle de la ronda actual. Penalización: descalificación del/los competidor/es de la categoría, a discreción del delegado de la WCA.
+    - 2g3) Los competidores de un grupo en progreso no deben comunicarse sobre las mezclas del grupo, a no ser que los involucrados hayan terminado con todos sus intentos del grupo. Penalización: descalificación del/los competidor/es de la categoría, a discreción del delegado de la WCA. Excepción: En 3x3x3 En Menos Movimientos, los competidores que terminaron con su intento pueden compartir la secuencia de mezcla con cualquiera que no esté compitiendo activamente en el mismo intento.
 - 2h) Los competidores deberán estar completamente vestidos mientras estén en el local de la competencia. A discreción del delegado de la WCA, un competidor puede ser descalificado de la competencia por usar una vestimenta inapropiada.
 - 2i) Mientras se encuentre en la fase de inspección o en la fase de resolución, un competidor no debe usar auriculares ni otros aparatos electrónicos (p.ej. teléfonos móviles, reproductores MP3, iluminación adicional), aparte del timer Stackmat o el cronómetro. Penalización: descalificación del intento (DNF).
     - 2i1) Los competidores pueden utilizar determinados dispositivos no-electrónicos mientras éstos no le den una ventaja injusta, a discreción del delegado de la WCA. Esto incluye:
@@ -86,7 +87,7 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
         - 2i1d) Comida y bebida.
     - 2i2) Los competidores pueden usar cámaras en la estación de resolución a discreción del delegado de la WCA, pero se aplican las siguientes restricciones desde el inicio del intento hasta que el competidor para su resolución. Penalización por romper una restricción: descalificación del intento (DNF).
         - 2i2a) Las pantallas de las cámaras deben estar en blanco o fuera de la vista del competidor (ver [Regla A5b](regulations:regulation:A5b)).
-        - 2i2b) El competidor no debe interactuar con (p.ej. operar, sostener, traer puesta) ninguna cámara que se encuentre activa. Excepción: el competidor puede traer puesta una cámara si está montada en su cabeza, siempre y cuando esté fuera de su vista y sea claro que no existe ningún tipo de interacción con ésta (además de tenerla puesta).
+        - 2i2b) El competidor no debe usar (p.ej. operar, traer puesta) ninguna cámara que se encuentre activa. Excepción: el competidor puede traer puesta una cámara si está montada en su cabeza, siempre y cuando esté fuera de su vista y sea claro que no existe ningún tipo de interacción con ésta (además de tenerla puesta).
     - 2i3) El competidor puede tener un teléfono celular en su bolsillo, siempre y cuando quede claro que no está interactuando con él.
     - 2i4) Mientras compiten, los competidores deberían desactivar todas las notificaciones del teléfono móvil, para evitar molestar al resto de los competidores.
 - 2j) El delegado de la WCA puede descalificar a un competidor de ciertos intentos y/o categorías.
@@ -193,12 +194,13 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
         - 5b3b) Si después de reparar el puzzle, pero antes del final del intento, el competidor se encuentra con un  puzzle irresoluble, puede desmontar y volver a montar un máximo de 4 piezas para hacer que el puzzle sea de nuevo resoluble.
         - 5b3c) Si el puzzle es irresoluble, y se puede hacer resoluble girando una sola esquina, el competidor puede poner la esquina bien girándola sin desmontar el puzzle.
     - 5b4) En el transcurso de las categorías a ciegas (Ver [Regla B4](regulations:regulation:B4)), los desperfectos de los puzzles también deben ser reparados a ciegas. Penalización: descalificación del intento (DNF).
-    - 5b5) Si al final del intento algunas piezas del puzzle están separadas o no están completamente en su lugar, se aplican las siguientes reglas:
+    - 5b5) Si al final del intento algunas piezas del puzzle están desconectadas o no están completamente en su lugar, se aplican las siguientes reglas:
         - 5b5a) Si una o más piezas sin colores están afectadas, el puzzle se considera resuelto.
         - 5b5b) Si una pieza con un solo color está afectada, el puzzle se considera resuelto.
         - 5b5c) Si más de una pieza con un solo color está afectada, el puzzle se considera no resuelto (DNF).
         - 5b5d) Si una o más piezas con más de un color están afectadas, el puzzle se considera no resuelto (DNF).
         - 5b5e) La regla [5b5c](regulations:regulation:5b5c) y [5b5d](regulations:regulation:5b5d) prevalecen sobre la [5b5a](regulations:regulation:5b5a) y la [5b5b](regulations:regulation:5b5b).
+        - 5b5f) Si una pieza está parcialmente desconectada o no está completamente en su lugar, se considera que su posición final es la posición más cercana del mecanismo en la cual la pieza encajaría normalmente, considerando el estado actual del puzzle. Si la posición final de la pieza es la correcta, se considera que la pieza no está afectada.
     - 5b6) Definición: una parte es uno o más componentes totalmente conectados de un grupo de componentes del puzzle que permanecen conectados entre sí y que no se mueven con respecto a los demás durante el uso habitual del puzzle (p.ej. una tapa del centro de un 3x3x3, la punta de un Pyraminx, una esquina de un 3x3x3 a la que le falta una de las caras, una cara de una esquina de un 3x3x3).
 
 
@@ -241,7 +243,7 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
         - 9b5a) Formato de ronda completo para esta categoría: "Mejor de X" (donde X es 1, 2 o 3).
         - 9b5b) Formato de corte (o tope) para esta categoría: fase de corte "Mejor de X" (donde X es 1 o 2) para "Mejor de Y" (donde Y es 2 o 3, e Y > X).
 - 9f) Los resultados de una ronda se miden como sigue:
-    - 9f1) Todos los resultados cronometrados por debajo de 10 minutos se miden y se toman hasta la centésima de segundo más cercana (a excepción de la categoría Múltiples Cubos 3x3x3 a Ciegas). Todas las medias y promedios por debajo de 10 minutos se miden y se redondean a la centésima de segundo más cercana.
+    - 9f1) Todos los resultados cronometrados por debajo de 10 minutos se miden y se truncan hasta las centésimas de segundo (a excepción de la categoría Múltiples Cubos 3x3x3 a Ciegas). Todas las medias y promedios por debajo de 10 minutos se miden y se redondean a la centésima de segundo más cercana.
     - 9f2) Todos los resultados, promedios y medias por encima de 10 minutos, como también todos los tiempos para la categoría Múltiples cubos 3x3x3 a Ciegas, se miden y se redondean al segundo más cercano (p.ej. X.49 se convierte en X, X.5 se convierte en X+1).
     - 9f4) El resultado de un intento se anota como DNF (no terminó) si el intento se descalifica o está sin acabar/resolver.
         - 9f4a) Si el competidor rompe una regla y es suficientemente claro que el intento debe ser descalificado, el juez debería detener el intento inmediatamente. Si el juez no está seguro o si una disputa podría llegar a ser disruptiva (p.ej. porque un intento extra podría retrasar la competencia), el juez debería consultar al delegado de la WCA.
@@ -282,7 +284,7 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
     - 9t1) Si esto provoca un incumplimiento con la [Regla 9p1](regulations:regulation:9p1), los resultados de los demás competidores no deben ser eliminados.
     - 9t2) Si esto provoca un incumplimiento con las reglas [9m1](regulations:regulation:9m1), [9m2](regulations:regulation:9m2) o [9m3](regulations:regulation:9m3), cualquier ronda posterior no debe ser eliminada.
     - 9t3) Si se efectúan cambios en los resultados de un competidor tales que hubieran impedido a otro competidor avanzar de ronda, los resultados del segundo competidor no deben ser eliminados.
-- 9u) Se considera que una competencia ha finalizado cuando se cumplen todas las condiciones siguientes:
+- 9u) Se considera que una competencia ha finalizado cuando se cumplen simultáneamente todas las condiciones siguientes:
     - 9u1) Todas las rondas programadas en el sitio web de la WCA ya finalizaron.
     - 9u2) El delegado de la WCA anuncia el fin de la competencia. Si el delegado de la WCA no anuncia el fin de la competencia, al menos una de las siguientes condiciones se debe cumplir:
         - 9u2a) Todos los delegados de la WCA listados oficialmente en la competencia, abandonan permanentemente el local.
@@ -400,6 +402,8 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
     - A3b) El juez prepara el cronómetro, lo prende o lo reinicia según sea necesario. Si se está utilizando un cronómetro Generación 5 Pro, el juez debe asegurarse de que está configurado en el modo de 2 sensores. A su vez, el juez prepara el cronómetro de mano para contar el tiempo de inspección.
         - A3b1) Cuando el juez cree que el competidor ya está preparado, pregunta “¿PREPARADO?” o “¿LISTO?”. El competidor debe estar listo para empezar el intento antes de que pase un minuto después de que se le pregunte si está listo, de lo contrario el competidor pierde el intento (DNS), a discreción del juez.
         - A3b2) El competidor comienza su intento al confirmar que está preparado, el juez destapa el puzzle y empieza a contar el tiempo de inspección en el cronómetro de mano.
+        - A3b3) Cuando ya han pasado 8 segundos de inspección, el juez dice “8 SEGUNDOS”.
+        - A3b4) Cuando ya han pasado 12 segundos de inspección, el juez dice “12 SEGUNDOS”.
     - A3c) El competidor puede tomar el puzzle durante el tiempo de inspección.
         - A3c1) El competidor no debe hacer movimientos ni cambios intencionales en la alineación del puzzle durante la inspección. Penalización: descalificación del intento (DNF). Excepción: ver [Regla A3c2](regulations:regulation:A3c2) y [Regla A3c5](regulations:regulation:A3c5).
         - A3c2) Si las piezas del puzzle no están completamente alineadas cuando se destapa el puzzle, el competidor puede alinear las caras, siempre y cuando las desalineaciones se mantengan dentro de los límites de la [Regla 10f](regulations:regulation:10f).
@@ -407,8 +411,6 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
         - A3c4) Para Square-1, si el equipo organizador ha requerido el uso de un objeto delgado dentro del puzzle (ver [Regla A2b1](regulations:regulation:A2b1)), el competidor puede remover dicho objeto durante el tiempo de inspección.
         - A3c5) En Square-1, el competidor no debería ser penalizado por ningún movimiento accidental dentro de los límites de la [Regla 10f](regulations:regulation:10f).
     - A3d) Al final de la inspección, el competidor pone el puzzle en el mat, en cualquier orientación. Penalización por ponerlo fuera del mat: penalización de tiempo (+2 segundos).
-        - A3d2) Cuando ya han pasado 8 segundos de inspección, el juez dice “8 SEGUNDOS”.
-        - A3d3) Cuando ya han pasado 12 segundos de inspección, el juez dice “12 SEGUNDOS”.
 - A4) Empezar la resolución:
     - A4b) El competidor usa sus dedos para tocar la superficie elevada de los sensores del cronómetro Stackmat. Las palmas del competidor deben estar viendo hacia abajo, y ubicadas del lado del cronómetro que esté más cerca de él. Penalización: Penalización de tiempo (+2 segundos).
         - A4b1) El competidor no debe tener contacto físico con el puzzle mientras comienza la resolución. Penalización: Penalización de tiempo (+2 segundos).
@@ -418,7 +420,7 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
         - A4d3) Si se está usando un cronómetro de mano, el juez empieza el cronómetro tan pronto como el competidor empieza la resolución.
     - A4e) Las penalizaciones de tiempo al empezar la resolución son acumulativas.
 - A5) Durante la resolución:
-    - A5a) Mientras el competidor inspecciona o resuelve el puzzle, no debe comunicarse con ninguna otra persona que no sea el juez o el delegado de la WCA. Penalización: Descalificación del intento (DNF).
+    - A5a) Mientras el competidor inspecciona o resuelve el puzzle, no debe comunicarse con ninguna otra persona que no sea el juez o el delegado de la WCA. Penalización: Descalificación del intento (DNF). Excepción: si el competidor no gana ninguna ventaja por comunicarse con cualquiera que no sea el juez o el delegado de la WCA, el resultado puede permanecer, a discreción del delegado de la WCA.
     - A5b) Mientras el competidor inspecciona o resuelve el puzzle, no debe recibir asistencia alguna de parte de nadie o de ningún objeto que no sea la superficie (también ver [Regla 2i](regulations:regulation:2i)). Penalización: Descalificación del intento (DNF).
     - A5c) El competidor puede apoyar el puzzle sobre la superficie para manipularlo (ver [Regla 7f1d](regulations:regulation:7f1d)).
 - A6) Parando la resolución:
