@@ -1,4 +1,4 @@
-    # <wca-title>Reglamento WCA (Español Americano)
+# <wca-title>Reglamento WCA (Español Americano)
 
 <version> Versión: 1 de agosto de 2023
 
