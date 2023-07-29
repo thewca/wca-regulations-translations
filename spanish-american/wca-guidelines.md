@@ -1,13 +1,13 @@
 # <wca-title>Directrices WCA
 
-<version>Versión: 1 de febrero de 2023
+<version>Versión: 1 de agosto de 2023
 
 
 ## Notas
 
 ### Reglamento de la WCA
 
-Las Directrices de la WCA son un complemento al [Reglamento de la WCA](regulations:top). Por favor, lea el Reglamento para obtener más información acerca de la WCA.
+Las Directrices de la WCA son un complemento del [Reglamento de la WCA](regulations:top). Por favor, lea el Reglamento para obtener más información acerca de la WCA.
 
 ### Numeración
 
@@ -103,8 +103,9 @@ En pro de la claridad, cada Directriz se clasifica usando una de las siguientes 
 - 5b+) [ADICIÓN] El competidor no tiene permitido causar un desperfecto intencionalmente, a no ser que lo haga para corregir un desperfecto anterior (ver [Regla 5b3b](regulations:regulation:5b3b) y [Regla 5b3c](regulations:regulation:5b3c)). Ejemplos de causar intencionalmente un desperfecto son: remover una tapa central, rotar una esquina o despegar un sticker.
 - 5b5+) [EJEMPLO] Ejemplos de una pieza físicamente separada, que producen un estado resuelto: la tapa del centro de un cubo 3x3x3, el centro de la pieza de un cubo grande, una pieza interna de un cubo grande.
 - 5b5++) [EJEMPLO] Ejemplos de piezas físicamente separadas que producen un DNF: dos tapas de centro de un 3x3x3, dos centros de un cubo grande, una arista de 3x3x3, una arista de 4x4x4, o cualquier combinación de dos piezas con dos caras de color cada una.
-- 5b5+++) [EJEMPLO] Ejemplo de piezas que están en su lugar pero no están colocadas del todo, que producen un estado resuelto del puzzle: un centro de 5x5x5 en su lugar aunque girado.
-- 5b5++++) [EJEMPLO] Ejemplo de piezas no colocadas del todo, que producen un DNF: la arista de un 3x3x3 ligeramente salida (ligeramente "popeada").
+- 5b5f+) [EJEMPLO] Hay una [Guía Visual](https://drive.google.com/file/d/15XszaCGNvy3Dk6X6qERzZWZaDH1RH04z/view) disponible para entender mejor la [Regla 5b5f](regulations:regulation:5b5f).
+- 5b5f++) [EJEMPLO] Una arista de un Cubo 4x4x4 girada en su lugar, no se considera afectada.
+- 5b5f+++) [EJEMPLO] Una esquina girada en su lugar (también conocido como "corner twist"), se considera que está en una posición válida pero no resulta (DNF).
 - 5c+) [RECORDATORIO] Que un competidor tenga un defecto en su puzzle, no es razón para que se le conceda el derecho a un intento extra.
 
 
@@ -169,6 +170,7 @@ En pro de la claridad, cada Directriz se clasifica usando una de las siguientes 
 - A1a2+++) [ADICIÓN] Si el resultado para un intento no está disponible (p.ej. si el cronómetro fue reiniciado), el juez debería consultar al delegado de la WCA y hacer una estimación del tiempo transcurrido en el intento. Esta estimación cuenta para el límite de tiempo, pero no debe ser usada como base de un resultado oficial para el intento individual.
 - A1a2++++) [EJEMPLO] Si una ronda tiene un tiempo límite acumulativo de 20 minutos y un tiempo límite por intento de 8 minutos, y los resultados del competidor en los primeros dos intentos son 7:00 y 7:30, entonces el tiempo límite para el tercer intento es el menor de los siguientes: 5:30 (20:00 - 7:00 - 7:30) y 8:00. En este caso sería 5:30.
 - A1a2+++++) [ACLARACIÓN] Si el competidor alcanza el tiempo límite acumulativo, el resultado de cada uno de los intentos restantes se registra como DNS (no empezó).
+- A1a2++++++) [ACLARACIÓN] Si hay un límite de tiempo acumulativo para una combinación de rondas de diferentes categorías, el orden en el cual se realizan los intentos es el que se utiliza para calcular el límite de tiempo acumulativo.
 - A1a3+) [RECORDATORIO] El equipo organizador y el delegado de la WCA deben ser conscientes de que los límites de tiempo influyen en las estrategias de los competidores (por ejemplo, ir más rápido en los dos primeros intentos con la esperanza de superar el corte en una ronda combinada), y que cambiar los límites después del comienzo de la ronda puede perjudicar a algunos competidores injustamente.
 - A1a4+) [RECORDATORIO] Si a un competidor se le ha permitido accidentalmente superar el límite de tiempo, el límite de tiempo debe ser aplicado de forma retroactiva y el juez, competidor y delegado de la WCA deben ser informados (ver [Regla 1g2](regulations:regulation:1g2)). Los jueces siempre deben conocer el tiempo límite del intento en curso (que podría depender de intentos previos, en caso de un tiempo límite acumulativo).
 - A2c1+) [RECORDATORIO] En el pasado, las tarjetas de resultados se usaban para tapar los puzzles, lo que dejaba algunas caras al descubierto. Esto ya no está permitido.

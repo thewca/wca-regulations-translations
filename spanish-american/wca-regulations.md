@@ -1,4 +1,4 @@
-# <wca-title>Reglamento WCA (Español Americano)
+    # <wca-title>Reglamento WCA (Español Americano)
 
 <version> Versión: 1 de agosto de 2023
 
@@ -42,7 +42,7 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
 - 1a) Una competencia debe incluir un delegado de la WCA y un equipo organizador (que conste de una o más personas) con los siguientes miembros: jueces, mezcladores (los que hacen las mezclas o “scrambles”) y encargados de recoger y compilar los resultados.
 - 1b) El equipo organizador es el responsable de la logística y el buen funcionamiento de la competencia antes, durante y después de la misma.
 - 1c) El delegado de la WCA es responsable de asegurar que la competencia se adhiere al Reglamento y a cualquier política o requerimiento de la WCA aplicables. El delegado de la WCA puede delegar responsabilidades a otros miembros del equipo de organizadores, pero es el responsable en última instancia de cómo se llevan a cabo esas responsabilidades.
-    - 1c1) El delegado de la WCA debe asegurarse que la competición cumple con la [Política de ???? de la WCA](https://www.worldcubeassociation.org/documents/policies/external/Scramble%20Accountability.pdf).
+    - 1c1) El delegado de la WCA debe asegurarse que la competición cumple con la [Política de Confidencialidad de Mezclas de la WCA](https://www.worldcubeassociation.org/documents/policies/external/Scramble%20Accountability.pdf).
 - 1e) Cada categoría debe tener uno o más jueces.
     - 1e1) Un juez es responsable de ejecutar los procedimientos de la categoría.
         - 1e1a)  Un juez puede juzgar a varios competidores simultáneamente, a discreción del delegado de la WCA, siempre y cuando el juez pueda asegurarse de que se cumpla el reglamento de la WCA en todo momento.
@@ -420,7 +420,7 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
         - A4d3) Si se está usando un cronómetro de mano, el juez empieza el cronómetro tan pronto como el competidor empieza la resolución.
     - A4e) Las penalizaciones de tiempo al empezar la resolución son acumulativas.
 - A5) Durante la resolución:
-    - A5a) Mientras el competidor inspecciona o resuelve el puzzle, no debe comunicarse con ninguna otra persona que no sea el juez o el delegado de la WCA. Penalización: Descalificación del intento (DNF). Excepción: si el competidor no gana ninguna ventaja por comunicarse con cualquiera que no sea el juez o el delegado de la WCA, el resultado puede permanecer, a discreción del delegado de la WCA.
+    - A5a) Mientras el competidor inspecciona o resuelve el puzzle, no debe comunicarse con ninguna otra persona que no sea el juez o el delegado de la WCA. Penalización: Descalificación del intento (DNF). Excepción: si el competidor no gana ninguna ventaja por comunicarse con cualquiera que no sea el juez o el delegado de la WCA, el resultado del intento puede permanecer, a discreción del delegado de la WCA.
     - A5b) Mientras el competidor inspecciona o resuelve el puzzle, no debe recibir asistencia alguna de parte de nadie o de ningún objeto que no sea la superficie (también ver [Regla 2i](regulations:regulation:2i)). Penalización: Descalificación del intento (DNF).
     - A5c) El competidor puede apoyar el puzzle sobre la superficie para manipularlo (ver [Regla 7f1d](regulations:regulation:7f1d)).
 - A6) Parando la resolución:
@@ -435,7 +435,7 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
         - A6e2) Penalización por tocar el puzzle, sin aplicar movimientos, luego de haber detenido el cronómetro: penalización de tiempo (+2 segundos). Excepción: si inmediatamente después de detener el cronómetro, el competidor apenas toca el puzzle sin afectar su estado, la penalización de tiempo puede omitirse, a discreción del juez (ver [Regla 11f](regulations:regulation:11f)).
     - A6f) El competidor no debe reiniciar el cronómetro hasta que él y el juez hayan firmado la hoja de resultados. Penalización: descalificación del intento (DNF), a discreción del juez.
         - A6f1) Si el competidor reinicia el cronómetro antes de que el tiempo haya sido completamente registrado, el juez no debe escribir el resultado de memoria o de fotos o videos, en cambio debe descalificar el intento (DNF).
-    - A6g) El juez determina si el puzzle está o no resuelto. No debe moverlo ni tocarlo hasta que haya determinado si corresponde una penalización por estar desalineado. Excepción: Para Clock, el juez generalmente necesita agarrarlo para verificar ambas caras.
+    - A6g) El juez determina si el puzzle está o no resuelto. Si el puzzle está desalineado, no debe ser tocado hasta que el juez haya determinado su estado final.
     - A6h) En caso de disputa, no debe moverse o alinearse el puzzle hasta que la disputa haya sido resuelta.
     - A6i) Las penalizaciones de tiempo al terminar la resolución son acumulativas.
 - A7) Anotación de los resultados:
@@ -445,7 +445,7 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
         - A7b1) Si se han asignado penalizaciones, el juez anota el resultado mostrado en el cronómetro junto con las penalizaciones. El formato debe ser "X + T + Y = F", donde X representa las suma de las penalizaciones previas a la resolución o iniciándola, T representa el tiempo mostrado en el cronómetro, Y representa la suma de las penalizaciones durante/después de la resolución, y F representa el resultado final. Si X y/o Y son 0, los 0 son omitidos (p.ej. 2 + 17.65 + 2 = 21.65, o 17.65 + 2 = 19.65).
     - A7c) El competidor debe revisar el resultado registrado y firmar (o escribir sus iniciales) en la hoja de resultados para reconocer que el resultado está correcto, completo, con el formato adecuado y que se puede leer claramente. Esta acción finaliza el intento.
         - A7c1) Si el competidor o el juez se niegan a reconocer y firmar la hoja de tiempos, el delegado de la WCA debe resolver la disputa.
-        - A7c2) Si el competidor firma (o de otra manera marca) un intento antes de empezarlo, renuncia al intento y el resultado será considerado DNS.
+        - A7c2) Si el competidor firma (o marca de cualquier forma) intencionalmente un intento antes de empezarlo, renuncia al intento y el resultado será considerado DNS.
         - A7c3) Si el competidor firma (o de otra manera marca) un intento después de empezarlo, pero antes de que el juez haya terminado de registrar el resultado, el intento se considerará no terminado (DNF).
         - A7c4) El competidor no debería firmar un intento antes de que el juez lo haya registrado y firmado. El competidor es responsable en última instancia de asegurarse de que él y el juez hayan firmado el intento. Si se encuentra que en un intento faltan una o ambas firmas, después de que el juez haya entregado la hoja de tiempos al encargado de recoger los resultados (ver [Regla A7f](regulations:regulation:A7f)), este será considerado como no terminado (DNF).
         - A7c5) Las firmas faltantes que se encuentren antes de finalizada la competencia (ver [Regla 9u](regulations:regulation:9u)), pueden ser agregadas por el juez y/o el competidor, a discreción del delegado de la WCA.
@@ -515,7 +515,7 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
     - E2e) La solución propuesta no debe estar directamente derivada de ninguna de las partes de la secuencia de mezcla. Penalización: descalificación del intento (DNF), a discreción del delegado de la WCA.
         - E2e1) El delegado de la WCA puede pedir a un competidor que explique el propósito de cada movimiento en su solución, independientemente de los algoritmos de la mezcla. Si el competidor no es capaz de dar una explicación válida, el intento queda descalificado (DNF).
 - E3) El competidor puede usar los siguientes objetos durante el intento. Penalización por utilizar objetos no autorizados: descalificación del intento (DNF).
-    - E3a) Papel (suministrado por el juez) y lápiz, bolígrafo/pluma o similar (suministrado por el juez u opcionalmente auto-suministrado).
+    - E3a) Papel (suministrado por el juez), la hoja de solución (suministrada por el juez), una imagen de la mezcla del intento (que puede estar incluída en la hoja de solución) y lápiz, bolígrafo/pluma o similar (suministrado por el juez u opcionalmente auto-suministrado).
     - E3b) De 1 a 3 cubos 3x3x3 (propios), como se describen en el [Artículo 3](regulations:article:3).
     - E3c) Stickers de colores (propias).
     - E3d) Un cronómetro o reloj para llevar la cuenta del tiempo transcurrido, si es aprobado por el delegado de la WCA.
