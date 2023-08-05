@@ -1,10 +1,10 @@
 # <wca-title>Hướng dẫn WCA
 
-<version>Bản cập nhật: 01 Tháng 2, 2023
+<version>Bản cập nhật: 1 Tháng 8, 2023
 
 
 ## Ghi chú
-Lần chỉnh sửa cuối: 28 Tháng 4, 2023
+Lần chỉnh sửa cuối: 4 Tháng 8, 2023
 
 ### Quy định WCA
 
@@ -104,8 +104,9 @@ Các hướng dẫn được đánh số tương ứng với các quy định li
 - 5b+) Thí sinh không được cố ý gây hỏng hóc khối hình, trừ khi thí sinh đang sửa chữa hỏng hóc trước đó (xem [Quy định 5b3b](regulations:regulation:5b3b) và [Quy định 5b3c](regulations:regulation:5b3c)). Ví dụ của việc cố ý gây hỏng hóc: tháo miếng tâm, xoay viên góc, bóc miếng dán.
 - 5b5+) [VÍ DỤ] Ví dụ của phần bị rời, dẫn đến kết quả hoàn thành: một miếng tâm của 3x3x3, một viên tâm của khối hình lớn, một viên giữa của khối hình lớn.
 - 5b5++) [VÍ DỤ] Ví dụ của phần bị rời, dẫn đến kết quả "DNF": hai miếng tâm của 3x3x3, hai viên tâm của khối hình lớn, một viên cạnh của 3x3x3, một viên cạnh (cánh) của 4x4x4, hai viên bất kỳ mang màu.
-- 5b5+++) [VÍ DỤ] Ví dụ của phần không hoàn toàn bị rời nhưng không được đặt đúng chỗ, dẫn đến kết quả hoàn thành: một viên tâm 5x5x5 bị xoáy tại chỗ.
-- 5b5++++) [VÍ DỤ] Ví dụ của phần không hoàn toàn bị rời nhưng không được đặt đúng chỗ, dẫn đến kết quả "DNF": một viên cạnh 3x3x3 hơi bị bung ra.
+- 5b5f+) [VÍ DỤ]  Xem [Hướng Dẫn Trực Quan (Visual Guide)](https://drive.google.com/file/d/15XszaCGNvy3Dk6X6qERzZWZaDH1RH04z/view) khả dụng cho [Quy định 5b5f](regulations:regulation:5b5f).
+- 5b5f++) [VÍ DỤ] Viên "cạnh" của khối 4x4x4 bị vặn lại trên vị trí của nó vẫn được coi là đã giải.
+- 5b5f+++) [VÍ DỤ] Một viên góc bị ảnh hưởng bởi một viên góc bị vặn lại được coi là đã được đặt trên vị trí hợp lệ của nó, nhưng vị trí đó không khiến viên góc được giải.
 - 5c+) [GHI NHỚ] Nếu một thí sinh có khối hình bị hư hỏng, điều này không giúp thí sinh có thêm lượt giải bổ sung.
 
 
@@ -168,6 +169,7 @@ Các hướng dẫn được đánh số tương ứng với các quy định li
 - A1a2+++) [BỔ SUNG] Nếu kết quả của một lượt giải không khả dụng (VD: đồng hồ bị khởi tạo lại), trọng tài nên hỏi ý kiến WCA Delegate và ước tính thời gian của lượt giải. Thời gian ước tính này được tính vào giới hạn thời gian, nhưng không được dùng làm căn cứ cho kết quả chính thức.
 - A1a2++++) [VÍ DỤ] Nếu một vòng đấu có giới hạn thời gian cộng dồn là 20 phút và thời gian giới hạn của mỗi lượt là 8 phút, và kết quả của thí sinh ở 2 lần giải đầu tiên là 7:00 và 7:30, thì giới hạn thời gian của lượt giải thứ 3 là thời gian đã bị trừ đi của 20 phút - 7:00 - 7:30 = 5:30.
 - A1a2+++++) [LÀM RÕ] Nếu một thí sinh đạt đến giới hạn thời gian cộng dồn, kết quả của mỗi lượt thi còn lại trong vòng đấu đó đều được ghi lại là DNS (Did Not Start).
+- A1a2++++++) [LÀM RÕ] Nếu một thời gian cộng dồn được áp dụng cho một cụm các vòng ở các nội dung thi khác nhau, thứ tự thực hiện các lượt giải là thứ tự để cộng vào giới hạn thời gian cộng dồn.
 - A1a3+) [GHI NHỚ] Ban tổ chức và WCA Delegate phải chú ý giới hạn thời gian sẽ ảnh hưởng đến chiến thuật của thí sinh (VD: cố gắng ở hai lượt giải đầu tiên với mong muốn vượt qua cutoff của một vòng thi gộp), và việc thay đổi giới hạn thời gian sau khi vòng thi bắt đầu có thể đem lại bất lợi cho một số thí sinh..
 - A1a4+) [GHI NHỚ] Nếu một thí sinh được vượt quá thời gian do sơ suất, giới hạn vẫn phải được áp dụng sau đó, và trọng tài, thí sinh, và WCA Delegate phải được thông báo (xem [Quy định 1g2](regulations:regulation:1g2)). Trọng tài phải luôn để ý giới hạn thời gian của một lượt giải (có thể dựa vào lượt giải trước, trong trường hợp áp dụng giới hạn thời gian cộng dồn).
 - A2c1+) [GHI NHỚ] Trong quá khứ, phiếu ghi kết quả từng được sử dụng để che khối hình trong khi để lộ một vài mặt khác. Hiện tại điều này không hợp lệ.
@@ -193,7 +195,7 @@ Các hướng dẫn được đánh số tương ứng với các quy định li
 ## <article-B><blindfolded><blindfoldedsolving> Mục B: Giải Bịt mắt (BLD)
 
 - B1+) [GHI NHỚ] Thí sinh phải sử dụng khối hình không có logo (xem [Quy định 3l](regulations:regulation:3l)), bề mặt đặc biệt, đánh dấu, hoặc các đặc điểm khác giúp dễ phân biệt các viên giống nhau (xem [Quy định 3k](regulations:regulation:3k)). Điều này phải được đặc biệt chú ý đối với Giải Bịt mắt.
-- B1b+) [KHUYẾN CÁO] Tấm bịt mắt nên được kiểm tra bởi WCA Delegate trước khi được sử dụng trong giải đấu.
+- B1b+) [KHUYẾN CÁO] Miếng bịt mắt nên được kiểm tra bởi WCA Delegate trước khi được sử dụng trong giải đấu.
 - B2d+) [BỔ SUNG] Như quy định, thí sinh bắt đầu lượt thi khi bắt đầu timer sau khi trọng tài chỉ ra họ đã sẵn sàng thi (xem [Quy định B2a](regulations:regulation:B2a)). Nếu thí sinh muốn xác nhận timer hoạt động bình thường, họ phải (hỏi và) được sự xác nhận của trọng tài mỗi lần trước khi bắt đầu/khởi tạo lại timer trong lúc này. Hình phạt của việc bắt đầu và khởi tạo lại timer mà không có sự xác nhận của trọng tài: hủy kết quả lượt giải (DNF).
 - B2f+) [KHUYẾN CÁO] Sau khi thí sinh bắt đầu thi bằng cách mở nắp đậy, hình phạt khi bắt đầu timer và khi chạm vào nắp đậy lúc bắt đầu timer sẽ không bị áp dụng (xem [Quy định B2b](regulations:regulation:B2b) và [Quy định B2c](regulations:regulation:B2c)).
 - B4c+) [BỔ SUNG] Nếu giám khảo quên không đặt miếng che, hoặc đặt nó ở vị trí thí sinh vẫn có thể nhìn thấy khối hình khi đang bịt mắt, WCA Delegate nên áp dụng một lượt giải thay thế.
