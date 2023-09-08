@@ -8,7 +8,7 @@ the official [World Cube Association Competition Regulations](https://worldcubea
 The following people helped with the translation:
 
 * [Daniel Buck Silva](https://www.worldcubeassociation.org/persons/2012SILV10) (contributed in 2013)
-* [João Vinícius de Andrade Santos](https://www.worldcubeassociation.org/persons/2016SANT66) (contributed in 2022 and 2020)
+* [João Vinícius de Andrade Santos](https://www.worldcubeassociation.org/persons/2016SANT66) (contributed in 2020, 2022 and 2023)
 * [Matheus Oliveira Silva](https://www.worldcubeassociation.org/persons/2012SILV10) (contributed in 2014 and 2013)
 * [Pedro Miranda Moreira](https://www.worldcubeassociation.org/persons/2014MORE05) (contributed in 2022 and 2020)
 * [Pedro Santos Guimarães](https://www.worldcubeassociation.org/persons/2007GUIM01) (contributed in 2018, 2016, 2014, and 2013)
