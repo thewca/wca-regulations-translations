@@ -1,14 +1,13 @@
 # <wca-title>Regulamento da WCA 2022
 
-<version>Versão: 1 de junho de 2022
+<version>Versão: 1 de agosto de 2023
 
 
 ## Notas
 
-Última revisão textual: 24 de Outubro de 2022
+Última revisão textual: 27 de setembro de 2023
 
 ### Tradução
-Portuguese - 2022
 
 Por favor atente-se para o fato de que essa tradução não é uma versão oficial (embora seja disponibilizada no site da WCA): ela pode ser útil, mas não vem com nenhuma garantia. Se houver diferenças entre uma tradução e a versão em inglês (atualmente oficial), esta última deve ser usada.
 
@@ -45,7 +44,7 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
 - 1a) Uma competição precisa ter um Delegado da WCA e uma equipe de organização (composta por um ou mais membros) com os seguintes oficiais: juízes, embaralhadores e anotadores de resultados.
 - 1b) A equipe de organização de uma competição é responsável pela logística antes, durante e depois da competição.
 - 1c) O Delegado da WCA é responsável por assegurar que a competição segue o Regulamento da WCA a qualquer política ou requisito da WCA aplicáveis. O Delegado da WCA pode delegar responsabilidades para outros membros da equipe de organização, mas é responsável em última instância pela forma como elas são conduzidas.
-- 1c1) O Delegado da WCA deve garantir que a competição siga a [Política de Confidencialidade de Embaralhamentos da WCA](https://www.worldcubeassociation.org/documents/policies/external/Scramble%20Accountability.pdf).
+    - 1c1) O Delegado da WCA deve garantir que a competição siga a [Política de Confidencialidade de Embaralhamentos da WCA](https://www.worldcubeassociation.org/documents/policies/external/Scramble%20Accountability.pdf).
 - 1e) Cada evento precisa ter um ou mais juízes.
     - 1e1) Um juiz é responsável por executar os procedimentos do evento.
         - 1e1a) Um juiz pode fiscalizar vários competidores simultaneamente a critério do Delegado da WCA, contanto que o juiz seja capaz de assegurar que todo o Regulamento da WCA seja seguido em todos os momentos.
@@ -125,7 +124,7 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
     - 3a1) Os competidores precisam estar prontos para entregar seus quebra-cabeças quando forem chamados para competir (ver [Regra 2u](regulations:regulation:2u)).
     - 3a2) Os quebra-cabeças precisam funcionar normalmente, de forma que o embaralhamento normal seja possível.
     - 3a3) Quebra-cabeças poliédricos têm que usar um esquema de cores com uma única cor por face no estado resolvido. Cada variação de quebra-cabeças precisa ter movimentos, estados e soluções funcionalmente idênticas ao quebra-cabeça original.
-    - 3a4) Quebra-cabeças não podem ter componentes eletrônicos (p. ex. capacidades Bluetooth ou Wi-Fi, motores, sensores, luzes). Ver [Regra 2i](regulations:regulation:2i)
+    - 3a4) Quebra-cabeças não podem ter componentes eletrônicos (p. ex. capacidades Bluetooth ou Wi-Fi, motores, sensores, luzes). Ver [Regra 2i](regulations:regulation:2i).
 - 3d) Quebra-cabeças precisam ter partes coloridas, que definem o esquema de cores do quebra-cabeça e podem ser um e apenas um dos seguintes: adesivos coloridos, placas coloridas, plástico colorido ou cores pintadas/impressas. Todas as partes coloridas de um quebra-cabeça têm que ser feitas de material semelhante.
     - 3d1) Para competidores com deficiência visual documentada medicamente, aplicam-se as seguintes exceções:
         - 3d1a) Competidores cegos podem usar quebra-cabeças com diferentes texturas em diferentes faces. Cada face deve ter uma cor distinta, para facilitar o embaralhamento e julgamento.
