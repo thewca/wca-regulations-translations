@@ -1,11 +1,9 @@
-# <wca-title>Regulamento da WCA 2022
+# <wca-title>Regulamento da WCA (Português Brasileiro)
 
 <version>Versão: 1 de agosto de 2023
 
 
 ## Notas
-
-Última revisão textual: 27 de setembro de 2023
 
 ### Tradução
 
