@@ -3,6 +3,8 @@
 <version>Versão: 1 de agosto de 2023
 
 
+## Notas
+
 ### Tradução
 
 Por favor atente-se para o fato de que essa tradução não é uma versão oficial (embora seja disponibilizada no site da WCA): ela pode ser útil, mas não vem com nenhuma garantia. Se houver diferenças entre uma tradução e a versão em inglês (atualmente oficial), esta última deve ser usada.

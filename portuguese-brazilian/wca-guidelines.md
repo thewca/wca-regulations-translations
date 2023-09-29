@@ -5,8 +5,6 @@
 
 ## Notas
 
-Última revisão textual: 27 de setembro de 2023
-
 ### Regulamento da WCA
 
 As Orientações Adicionais da WCA suplementam o [Regulamento da WCA](regulations:top). Por favor veja o Regulamento para mais informações a respeito da WCA.
