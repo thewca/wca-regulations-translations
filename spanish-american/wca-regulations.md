@@ -72,7 +72,7 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
     - 2c2) Los competidores recurrentes deben proporcionar información personal coherente con su perfil de la WCA. Si un competidor desea cambiar o actualizar su información personal entre competencias (p.ej. cambio de región de representación, nombre o género), debe [contactar al WCA Results Team](https://www.worldcubeassociation.org/contact/website) directamente o a través de un delegado de la WCA.
 - 2d) El nombre, región, género y resultados de un competidor son considerados información pública. Cualquier otra información personal es considerada confidencial y no debe ser revelada a otras organizaciones/personas sin el consentimiento del competidor.
 - 2e) Los competidores deben representar a una región de la cual tengan ciudadanía. El delegado de la WCA debería verificar la ciudadanía mediante documentos (p.ej. pasaporte) en la primera competencia a la que asista el competidor. Si un competidor no puede representar a la región bajo la cual se ha registrado, el competidor puede ser descalificado y/o suspendido, a discreción de la Junta Directiva de la WCA (WCA Board).
-    - 2e1) Las regiones de representación elegibles están definidos en la [Lista de Regiones Reconocidas por la WCA](https://www.worldcubeassociation.org/regulations/countries/).
+    - 2e1) Las regiones de representación elegibles están definidas en la [Lista de Regiones Reconocidas por la WCA](https://www.worldcubeassociation.org/regulations/countries/).
     - 2e2) Los competidores solo pueden cambiar su región de representación antes o durante su primera competencia del año civil.
         - 2e2a) Excepción: si el competidor pierde la ciudadanía de la región a la cual estaba representando, debe cambiar su región de representación antes o durante su próxima competencia (ver [Regla 2c2](regulations:regulation:2c2)).
         - 2e2b) Excepción: si el competidor ha adquirido una nueva ciudadanía durante el año civil, puede cambiar su región de representación en cualquier momento entre competencias para que coincida con su nueva ciudadanía.
@@ -183,7 +183,7 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
 - 4g) Después de mezclar un puzzle, el mezclador debe comprobar que esté correctamente mezclado. Si el estado del puzzle no es correcto, el mezclador debe corregirlo (p.ej. resolviendo el puzzle y aplicando la mezcla de nuevo).
     - 4g1) Aplican las siguientes excepciones:
         - 4g1a) Para los cubos de 6x6x6, 7x7x7 y el Megaminx, no es necesario corregir la mezcla, a discreción del delegado de la WCA.
-        - 4g1b) Para el cubo de 5x5x5, el mezclador debería corregir el estado del puzzle. Si el hecho de corregir el estado del puzzle pudiera generar un impacto severo en el cronograma de la competencia, entonces puede no corregirse a discreción del delegado de la WCA.
+        - 4g1b) Para el cubo de 5x5x5, el mezclador debería corregir el estado del puzzle. Si el hecho de corregir el estado del puzzle pudiera generar un impacto severo en el cronograma de la competencia, entonces puede no corregirse, a discreción del delegado de la WCA.
 
 
 ## <article-5><puzzle-defects><puzzledefects> Artículo 5: Desperfectos de puzzles
@@ -288,10 +288,10 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
     - 9t2) Si esto provoca un incumplimiento con las reglas [9m1](regulations:regulation:9m1), [9m2](regulations:regulation:9m2) o [9m3](regulations:regulation:9m3), cualquier ronda posterior no debe ser eliminada.
     - 9t3) Si se efectúan cambios en los resultados de un competidor tales que hubieran impedido a otro competidor avanzar de ronda, los resultados del segundo competidor no deben ser eliminados.
 - 9u) Se considera que una competencia ha finalizado cuando se cumplen simultáneamente todas las condiciones siguientes:
-    - 9u1) Todas las rondas programadas en el sitio web de la WCA ya finalizaron.
+    - 9u1) Han finalizado todas las rondas programadas en el sitio web de la WCA.
     - 9u2) El delegado de la WCA ha anunciado el fin de la competencia. Si el delegado de la WCA no anuncia el fin de la competencia, se debe cumplir al menos una de las siguientes condiciones:
-        - 9u2a) Todos los delegados de la WCA listados oficialmente en la competencia, abandonan permanentemente el local.
-        - 9u2b) Se alcanza el fin del último día de la competencia.
+        - 9u2a) Todos los delegados de la WCA listados oficialmente en la competencia abandonan permanentemente el local.
+        - 9u2b) Se alcanza el fin del último día civil de la competencia.
 
 ## <article-10><solved-state><solvedstate> Artículo 10: Estado resuelto de un puzzle
 
@@ -418,7 +418,7 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
 - A4) Empezar la resolución:
     - A4b) El competidor usa sus dedos para tocar la superficie elevada de los sensores del cronómetro Stackmat. Las palmas del competidor deben estar viendo hacia abajo, y ubicadas del lado del cronómetro que esté más cerca de él. Penalización: Penalización de tiempo (+2 segundos).
         - A4b1) El competidor no debe tener contacto físico con el puzzle mientras comienza la resolución. Penalización: Penalización de tiempo (+2 segundos).
-    - A4d) Si se está usando un cronómetro Stackmat, el competidor debería mantener las manos en el cronómetro hasta que vea la luz verde del mismo. El cronómetro inicia cuando el competidor remueve sus manos de los sensores del cronómetro. El competidor inicia la resolución al iniciar el cronómetro.
+    - A4d) Si se está usando un cronómetro Stackmat, el competidor debería mantener las manos en el cronómetro hasta que vea la luz verde del mismo. El cronómetro inicia cuando el competidor levanta sus manos de los sensores del cronómetro. El competidor inicia la resolución al iniciar el cronómetro.
         - A4d1) El competidor debe empezar la resolución antes de que terminen los 15 segundos de inspección. Penalización: Penalización de tiempo (+2 segundos).
         - A4d2) El competidor debe empezar la resolución antes de que pasen 17 segundos desde que comenzó la inspección. Penalización: Descalificación del intento (DNF).
         - A4d3) Si se está usando un cronómetro de mano, el juez empieza el cronómetro tan pronto como el competidor empieza la resolución.
@@ -466,7 +466,7 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
     - B2a) El juez reinicia el/los cronómetro/s como en la [Regla A3b](regulations:regulation:A3b) y le indica al competidor que está listo para empezar el intento (p.ej. poniendo el cubo tapado enfrente del competidor, diciendo "LISTO", dando una señal con el pulgar arriba). El competidor debe estar listo para empezar el intento hasta un minuto después de que fue llamado, de lo contrario pierde derecho a ese intento (DNS), a discreción del juez.
     - B2b) Cuando se esté utilizando un cronómetro Stackmat, el competidor coloca sus manos en los sensores del cronómetro, con sus dedos tocando los sensores y las palmas hacia abajo. Penalización: Penalización de tiempo (+2 segundos).
     - B2c) Cuando se esté utilizando un cronómetro Stackmat, el competidor no debe tener contacto físico con el puzzle ni su cobertura mientras comienza el intento. Penalización: Penalización de tiempo (+2 segundos).
-    - B2d) Si se está usando un cronómetro Stackmat, el competidor debería mantener las manos en el cronómetro hasta que vea la luz verde del mismo. El cronómetro inicia cuando el competidor remueve sus manos de los sensores del cronómetro. El competidor inicia el intento y la resolución al iniciar el cronómetro.
+    - B2d) Si se está usando un cronómetro Stackmat, el competidor debería mantener las manos en el cronómetro hasta que vea la luz verde del mismo. El cronómetro inicia cuando el competidor levanta sus manos de los sensores del cronómetro. El competidor inicia el intento y la resolución al iniciar el cronómetro.
         - B2d1) El competidor quita la cubierta del puzzle después de iniciar el cronómetro.
         - B2d2) Si se está usando un cronómetro de mano aparte del cronómetro Stackmat, el juez inicia el cronómetro tan pronto como el competidor comience su intento.
     - B2f) Al utilizar únicamente un cronómetro de mano, el competidor confirma que está listo y empieza la resolución quitando la cubierta del puzzle. El juez activa el cronómetro tan pronto como el competidor comienza su intento.
@@ -520,8 +520,8 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
         - E2e1) El delegado de la WCA puede pedir a un competidor que explique el propósito de cada movimiento en su solución, independientemente de los algoritmos de la mezcla. Si el competidor no es capaz de dar una explicación válida, el intento queda descalificado (DNF).
 - E3) El competidor puede utilizar los siguientes objetos durante el intento. Penalización por utilizar objetos no autorizados: descalificación del intento (DNF).
     - E3a) Papel (suministrado por el juez), la hoja de solución (suministrada por el juez), una imagen de la mezcla del intento (que puede estar incluida en la hoja de solución) y lápiz, bolígrafo/pluma o similar (suministrado por el juez u opcionalmente auto-suministrado).
-    - E3b) De 1 a 3 cubos 3x3x3 (propios), los cuales deben ser como se describen en el [Artículo 3](regulations:article:3) antes de iniciar el intento.
-    - E3c) Stickers de colores (propias).
+    - E3b) De 1 a 3 cubos 3x3x3, los cuales deben estar tal y como se describe en el [Artículo 3](regulations:article:3) antes de iniciar el intento.
+    - E3c) Stickers de colores.
     - E3d) Un cronómetro o reloj para llevar la cuenta del tiempo transcurrido, si es aprobado por el delegado de la WCA.
     - E3e) Otras ayudas no electrónicas que no den una ventaja injusta, a discreción del delegado de la WCA (ver [Regla 2i1](regulations:regulation:2i1)).
     - E3f) Útiles para remover marcas (suministrados por el competidor), como puede ser líquido corrector o goma de borrar.

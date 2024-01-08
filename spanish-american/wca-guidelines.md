@@ -42,7 +42,7 @@ En pro de la claridad, cada Directriz se clasifica usando una de las siguientes 
 
 ## <article-2><competitors><competitors> Artículo 2: Competidores
 
-- 2c+) [ADICIÓN] Los competidores primerizos deben registrarse con su nombre legal o con el nombre que prefieren ser nombrados en la vida real. Los apellidos deben ser los apellidos legales.
+- 2c+) [ADICIÓN] Los competidores primerizos deben registrarse con su nombre legal o con el que prefieran ser nombrados en la vida real. Los apellidos deben ser los apellidos legales.
 - 2c2+) [ACLARACIÓN] Un perfil de la WCA es la colección de información relacionada a un competidor, e incluye su información personal (nombre, región de representación, género y fecha de nacimiento) así como todos sus resultados en competencias oficiales de la WCA.
 - 2d+) [ADICIÓN] La fecha de nacimiento e información de contacto deben ser especialmente confidenciales.
 - 2d++) [RECOMENDACIÓN] Si algún tercero (p.ej. un periodista) pide al equipo organizador para ponerse en contacto con cualquier competidor o competidores, estos deberían ser consultados antes.
@@ -53,7 +53,7 @@ En pro de la claridad, cada Directriz se clasifica usando una de las siguientes 
 - 2i++) [ADICIÓN] El equipo organizador puede proveer al competidor con un cronómetro de mano no oficial para ver el tiempo transcurrido (que empieza al mismo tiempo que el cronómetro de mano oficial), en cuyo caso el competidor no tiene permitido tocar el cronómetro de mano oficial.
 - 2i+++) [RECORDATORIO] Los puzzles con Bluetooth son considerados dispositivos electrónicos.
 - 2i++++) [ACLARACIÓN] "Utilizar" es distinto de "interactuar". Se considera que un competidor está utilizando un dispositivo electrónico solo si lo está empleando para un propósito en particular.
-- 2i+++++) [EJEMPLO] Ejemplos que no se consideran como utilizar un dispositivo electrónico: mover una cámara, dar vuelta un teléfono, utilizar un "smartwatch".
+- 2i+++++) [EJEMPLO] Ejemplos que no se consideran como utilizar un dispositivo electrónico: mover una cámara, dar vuelta un teléfono, llevar puesto un "smartwatch".
 - 2i++++++) [EJEMPLO] Ejemplos que sí se consideran como utilizar un dispositivo electrónico: presionar el botón de una cámara, revisar un mensaje en un teléfono o en un "smartwatch".
 - 2i1b+) [ACLARACIÓN] Esto incluye dispositivos relevantes que estén apagados o desconectados.
 - 2i1c+) [ACLARACIÓN] Los calentadores de manos electrónicos son considerados dispositivos electrónicos y por lo tanto no están permitidos durante la inspección o la resolución. Por otro lado, los calentadores no-electrónicos pueden ser usados en cualquier momento durante un intento.
@@ -62,7 +62,7 @@ En pro de la claridad, cada Directriz se clasifica usando una de las siguientes 
 - 2j2++) [EJEMPLO] Si el delegado de la WCA descalifica a un competidor durante su tercer intento en una ronda, solo son descalificados el tercer intento y todos los siguientes de la categoría, incluso si las circunstancias que originaron la descalificación ocurrieron antes del tercer intento.
 - 2k6+) [ACLARACIÓN] Los delegados de la WCA solo deberían utilizar su discreción para prevenir que los competidores perjudiquen severamente a la competencia (p.ej. gastando tiempo y/o recursos de la competencia). Los competidores no deberían ser descalificados por resultados "malos" cuando están compitiendo con lo mejor de sí.
 - 2s+) [RECORDATORIO] Las adaptaciones especiales deben ser anotadas en el reporte del delegado.
-- 2s++) [EJEMPLO] Aquellos competidores cuyas circunstancias (p.ej religión) no les permitan competir en alguna fecha u hora en particular, pueden ser acomodados para competir en otro momento, a discreción del delegado de la WCA. El delegado de la WCA debería considerar la disponibilidad de recursos de la competencia en estos casos. Esto incluye la posibilidad de de competir provisionalmente en rondas subsiguientes antes de que las rondas anteriores hayan sido completadas.
+- 2s++) [EJEMPLO] Aquellos competidores cuyas circunstancias (p.ej religión) no les permitan competir en alguna fecha u hora en particular, pueden ser acomodados para competir en otro momento, a discreción del delegado de la WCA. El delegado de la WCA debería considerar la disponibilidad de recursos de la competencia en estos casos. Esto incluye la posibilidad de competir provisionalmente en rondas subsiguientes antes de que las rondas anteriores hayan sido completadas.
 - 2s+++) [EJEMPLO] Un competidor que no puede utilizar una de sus manos para iniciar el cronómetro, puede recibir asistencia del juez para iniciar y detener el cronómetro. Un competidor que no puede oír, puede recibir las advertencias de inspección de manera diferente.
 - 2s1+) [EJEMPLO] Ejemplos de tales acomodaciones incluyen: un competidor ciego utilizando su otra mano para sentir las piezas en la categoría 3x3x3 a una Mano o utilizando un segundo puzzle con piezas especiales para la etapa de memorización en la categoría 3x3x3 a Ciegas.
 - 2u1+) [ADICIÓN] El competidor puede competir a discreción del delegado de la WCA. El delegado de la WCA debe considerar cuidadosamente si permitírselo es justo o no.
@@ -98,7 +98,7 @@ En pro de la claridad, cada Directriz se clasifica usando una de las siguientes 
 - 4d++) [ADICIÓN] Se permite que el puzzle cambie de orientación cuando se mueve del mezclador a la estación de resolución, siempre y cuando nadie intente influenciar la aleatoriedad de su orientación (ver [Regla A2e1](regulations:regulation:A2e1)).
 - 4f+) [RECOMENDACIÓN] El delegado de la WCA debería generar mezclas suficientes para la totalidad de la competencia antes de tiempo, incluyendo mezclas de sobra para intentos extra.
 - 4f++) [RECORDATORIO] Si el delegado de la WCA genera mezclas oficiales durante la competencia, las mezclas deben guardarse.
-- 4g+) [RECOMENDACIÓN] Para Múltiples Cubos a Ciegas, luego de mezclar todos los cubos, el mezclador debe verificar que no haya aplicado mezclas duplicadas.
+- 4g+) [RECOMENDACIÓN] Para Múltiples Cubos a Ciegas, luego de mezclar todos los cubos, el mezclador debe verificar que no haya cubos con mezclas duplicadas.
 - 4g1b+) [ACLARACIÓN] Para 5x5x5 a Ciegas, las mezclas incorrectas siempre deben ser corregidas.
 - 4g1b++) [RECOMENDACIÓN] El delegado de la WCA debería utilizar su discreción cuidadosamente a la hora de determinar si las mezclas incorrectas para 5x5x5 deben ser corregidas o no.
 
