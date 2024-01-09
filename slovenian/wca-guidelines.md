@@ -1,6 +1,6 @@
 # <wca-title>WCA Smernice
 
-<version>Različica: 1. avgust 2023
+<version>Različica: 1. januar 2024
 
 
 ## Opombe
@@ -43,23 +43,29 @@ Zaradi boljše preglednosti je vsaka smernica označena z eno od spodnjih oznak.
 
 ## <article-2><competitors><competitors> 2. člen: Tekmovalci
 
-- 2c+) [DODATEK] Tekmovalci, ki se registrirajo prvič, naj bi pri registraciji uporabili svoje pravo ime. Lahko se registrirajo z primernim vzdevkom, po presoji WCA delegata.
-- 2c2+) [POJASNILO] WCA profil je zbirka podatkov, povezanih s tekmovalcem. Vključuje njegove osebne podatke (ime, državljanstvo, spol in datum rojstva), ter vse njegove rezultate na uradnih WCA tekmovanjih.
+- 2c+) [DODATEK] Tekmovalci, ki se registrirajo prvič, morajo pri registraciji uporabiti svoje pravo ime ali ime, s katerim želijo biti nazivani v resničnem življenju. Priimek mora biti njihov pravi priimek.
+- 2c2+) [POJASNILO] WCA profil je zbirka podatkov, povezanih s tekmovalcem. Vključuje njegove osebne podatke (ime, regijo zastopanja, spol in datum rojstva), ter vse njegove rezultate na uradnih WCA tekmovanjih.
 - 2d+) [DODATEK] Datum rojstva in kontaktni podatki naj bi bili še posebej zavarovani.
 - 2d++) [PRIPOROČILO] Če tretja oseba (npr. novinar) prosi organizacijsko ekipo, da vzpostavi stik z določenim tekmovalcem, naj bi organizacijska ekipa najprej vprašala tekmovalca za soglasje.
-- 2e+) [POJASNILO] Če ima tekmovalec več državljanstev, lahko na svojem prvem tekmovanju izbere državo, ki jo bo zastopal.
+- 2e+) [POJASNILO] Če ima tekmovalec več državljanstev, lahko na svojem prvem tekmovanju izbere regijo, ki jo bo zastopal.
 - 2e++) [DODATEK] WCA delegat naj bi z dokumenti (npr. potnim listom) prav tako preveril ime in datum rojstva vsakega novega tekmovalca na njihovem prvem tekmovanju.
 - 2e3+) [POJASNILO] Tekmovalci brez državljanstva nimajo državnih rekordov in državnih uvrstitev, niti celinskih rekordov in celinskih uvrstitev.
 - 2i+) [DODATEK] Čeprav tekmovalec lahko vzame štoparico za ogled trenutnega časa (če nima pokritih oči), ne sme zagnati, ustaviti, začasno ustaviti ali kako drugače posegati v merjenje časa štoparice.
 - 2i++) [DODATEK] Organizacijska ekipa lahko tekmovalcu priskrbi neuradno štoparico za spremljanje pretečenega časa (zagnano skupaj z glavno štoparico), v tem primeru pa tekmovalcu ni dovoljeno dotikanje uradne štoparice.
 - 2i+++) [OPOMNIK] Bluetooth uganke veljajo za elektronske naprave.
+- 2i++++) [POJASNILO] Upošteva se, da tekmovalec uporablja elektronsko napravo le, če ji namenja posebno pozornost.
+- 2i+++++) [PRIMER] Primeri, ki se ne upoštevajo za uporabo elektronske naprave: premikanje kamere, obračanje telefona, nošenje pametne ure.
+- 2i++++++) [PRIMER] Primeri uporabe elektronske naprave: pritisk na gumb kamere, preverjanje sporočila na telefonu ali pametni uri.
 - 2i1b+) [POJASNILO] To vključuje ustrezne naprave, ki so izklopljene ali nepovezane na vir.
 - 2i1c+) [POJASNILO] Elektronski grelniki rok se upoštevajo kot elektronske naprave, zato niso dovoljeni med predogledom in reševanjem, medtem ko se neelektronski grelniki rok lahko uporabljajo kadarkoli med poskusom.
-- 2i2a+) [DODATEK] Zaslon kamere je lahko viden tekmovalcu, če ne prikazuje prenosa kamere v živo.
+- 2i2+) [POJASNILO] Tekmovalec lahko drži ali nosi kamero kjerkoli, dokler ne vidi prenosa kamere v živo.
 - 2j2+) [PRIMER] Na primer da je tekmovalec diskvalificiran iz discipline, ker se v finalnem krogu ni pravočasno pojavil, potem ostanejo njegovi rezultati v prejšnjih krogih veljavni.
 - 2j2++) [PRIMER] Če WCA delegat diskvalificira tekmovalca med njegovim tretjim poskusom v krogu, so diskvalificirani samo tretji poskus in vsi nadaljnji poskusi v tem disciplini, tudi če so se okoliščine, ki so povzročile diskvalifikacijo, zgodile pred tem poskusom.
 - 2k6+) [POJASNILO] WCA delegati naj bi po svoji presoji sprejeli odločitev le, da bi preprečili tekmovalcem resno škoditi tekmovanju (npr. izguba časa ali virov tekmovanja). Tekmovalci naj ne bi bili diskvalificirani zaradi "slabega" rezultata, kadar tekmujejo po svojih najboljših močeh.
 - 2s+) [OPOMNIK] Posebne prilagoditve morajo biti zabeležene v delegatskem poročilu.
+- 2s++) [PRIMER] Tekmovalcem, ki jim okoliščine (npr. vera) ne dopuščajo tekmovanja na določen datum ali uro, se lahko dovoli tekmovanje ob drugem času po presoji WCA delegata. WCA delegat naj bi upošteval razpoložljivost virov tekmovanja, ko dovoli takšne zahteve. To vključuje možnost začasnega tekmovanja v naslednjih krogih, preden so prejšnji krogi končani.
+- 2s+++) [PRIMER] Tekmovalec, ki ne more uporabiti katere izmed svojih rok za zagon merilnika časa, lahko prejme sodnikovo pomoč pri zagonu in zaustavitvi merilnika. Ali pa tekmovalec, ki ne sliši, lahko prejme opozorila o času predogleda na drugačen način.
+- 2s1+) [PRIMER] Primeri takšnih prilagoditev vključujejo: slep tekmovalec uporablja drugo roko za otip koščkov pri 3x3x3 enoročno, ali pa uporablja drugo uganko s posebnimi koščki med fazo pomnjenja pri 3x3x3 slepo.
 - 2u1+) [DODATEK] Tekmovalec lahko tekmuje samo po presoji WCA delegata. WCA delegat mora skrbno razmisliti o pravičnosti dovolitve.
 
 
@@ -74,9 +80,9 @@ Zaradi boljše preglednosti je vsaka smernica označena z eno od spodnjih oznak.
 - 3h++) [PRIMER] Primeri nedovoljenih modifikacij vključujejo: možne so nove poteze, običajne poteze so onemogočene, vidnih je več koščkov ali plasti, vidne so barve na hrbtni strani uganke, poteze se izvajajo samodejno, uganke imajo več/različna rešena stanja.
 - 3h2++) [POJASNILO] Uganke brez nalepk, ki se bistveno razlikujejo od večine takšnih masovno proizvedenih ugank, so dovoljene samo po presoji WCA delegata.
 - 3h2a+) [DODATEK] Primeri prozornih delov, ki ne razkrivajo več informacij o stanju na uganki: notranji deli mehanizma uganke, prozorna ohišja Clocka.
-- 3j+) [OPOMNIK] V preteklosti so bili gravirani in reliefni deli dovoljeni. To ni več dovoljeno.
+- 3j++) [PRIMER] Za [pravilo 3j](regulations:regulation:3j) je na voljo [slikovni vodič](https://drive.google.com/file/d/1m6THsA8fXRN7QFM4ApJbm6eVODKGbMLx/view).
 - 3k2+) [DODATEK] WCA delegat naj ne uporabi navedenih izjem v kolikor presodi, da je tekmovalec namenoma poskušal uporabiti neustrezno uganko.
-- 3k2b+) [POJASNILO] Če se med potekom poskusa 3x3x3 slepo več kock ugotovi neustrezna uganka, se uganka ne sme zamenjati ali odstraniti iz poskusa, ampak se mora šteti kot nerešena, v kolikor ni diskvalificiran celoten poskus.
+- 3k2b+) [POJASNILO] Če se med potekom poskusa Več 3x3x3 kock slepo ugotovi neustrezna uganka, se uganka ne sme zamenjati ali odstraniti iz poskusa, ampak se mora šteti kot nerešena, v kolikor ni diskvalificiran celoten poskus.
 - 3k2b++) [PRIMER] Predpostavimo, da tekmovalec poskuša rešiti 10 ugank in jih uspešno reši 8. Če se ugotovi, da dve rešeni uganki in ena nerešena uganka niso ustrezni, se po presoji WCA delegata upošteva, da ima tekmovalec rezultat s 6 rešenimi ugankami od 10 (namesto DNF).
 - 3l+) [DODATEK] Logotipi lahko imajo kakršenkoli primeren dizajn, ki ne daje prednosti pri opazovanju (npr. šifrirane informacije, ki bi se lahko uporabile za goljufanje), barvni del pa pusti jasno prepoznaven. Nekonvencionalni logotipi so dovoljeni samo po presoji WCA delegata.
 - 3l++) [POJASNILO] V preteklosti so bile uganke z logotipi dovoljene za discipline slepega reševanja. Za te discipline takšne uganke niso več dovoljene.
@@ -93,18 +99,18 @@ Zaradi boljše preglednosti je vsaka smernica označena z eno od spodnjih oznak.
 - 4d++) [DODATEK] Dovoljeno je, da uganka spremeni svojo orientacijo, ko se prenese od mešalcev na tekmovalno postajo, če pri tem nihče ne poskuša vplivati na naključnost orientacije (glej [pravilo A2e1](regulations:regulation:A2e1)).
 - 4f+) [PRIPOROČILO] WCA delegat naj bi vnaprej ustvaril dovolj mešanih algoritmov za celotno tekmovanje, vključno z rezervnimi mešanimi algoritmi za dodatne poskuse.
 - 4f++) [OPOMNIK] V kolikor WCA delegat med tekmovanjem ustvari kakršnekoli dodatne mešalne algoritme, jih mora shraniti.
-- 4g2+) [POJASNILO] Mešalec mora še vedno preveriti, da je Clock pravilno premešan.
-- 4g2++) [POJASNILO] Če se Clock prevrne med odkrivanjem uganke, mora biti dodeljen dodatni poskus.
-- 4g2+++) [PRIPOROČILO] Mešalec naj bi tekmovalne listke puščal zunaj pokrivala uganke, namesto da bi jih dajal v pokrivala.
+- 4g+) [PRIPOROČILO] Pri reševanju Več kock slepo mora mešalec po mešanju vseh kock preveriti, da ni podvojenih premešanih ugank.
+- 4g1b+) [POJASNILO] Pri 5x5x5 slepo morajo biti napačna stanja uganke vedno popravljena.
+- 4g1b++) [PRIPOROČILO] WCA delegat naj bi uporabil strožje kriterije, kadar odloča o tem, ali je potrebno popraviti napačna stanja uganke pri 5x5x5 kocki.
 
 
 ## <article-5><puzzle-defects><puzzledefects> 5. člen: Okvare ugank
 
 - 5b+) [DODATEK] Tekmovalcu ni dovoljeno namerno povzročiti okvare uganke, razen če popravlja prejšnjo okvaro (glej [pravilo 5b3b](regulations:regulation:5b3b) in [pravilo 5b3c](regulations:regulation:5b3c)). Primeri namernega povzročanja okvar ugank: odstranjevanje pritrjenega kapice centra, vrtenje kotnega dela, odstranjevanje nalepke.
 - 5b5+) [PRIMER] Primeri fizično ločenih delov, ki rezultirajo v rešeno stanje uganke: ena kapica centra pri 3x3x3, en košček centra pri veliki kocki, notranji košček velike kocke.
-- 5b5++) [PRIMER] Primeri fizično ločenih delov, ki rezultirajo v DNF: dve kapici centrov pri 3x3x3, dva koščka centra pri veliki kocki, robni košček (rob) pri 3x3x3, robni košček ("wing") pri 4x4x4, kakršnakoli kombinacija dveh koščkov, ki imata oba obarvan del.
+- 5b5++) [PRIMER] Primeri fizično ločenih delov, ki rezultirajo v DNF: dve kapici centrov pri 3x3x3, dva koščka centra pri veliki kocki, robni košček (rob) pri 3x3x3, robni košček ("krilo") pri 4x4x4, kakršnakoli kombinacija dveh koščkov, ki imata oba obarvan del.
 - 5b5f+) [PRIMER] Za [pravilo 5b5f](regulations:regulation:5b5f) je na voljo [slikovni vodič](https://drive.google.com/file/d/15XszaCGNvy3Dk6X6qERzZWZaDH1RH04z/view).
-- 5b5f++) [PRIMER] Zavrten rob pri 4x4x4 ("wing") se upošteva kot rešen.
+- 5b5f++) [PRIMER] Zavrten rob pri 4x4x4 ("krilo") se upošteva kot rešen.
 - 5b5f+++) [PRIMER] Prizadet kot na način, da je zavrten na svojem mestu, se upošteva za pritrjenega v veljavnem položaju, vendar takšen položaj ne še pomeni, da je košček rešen.
 - 5c+) [OPOMNIK] Če se tekmovalcu zgodi okvara uganke, mu to ne zagotavlja pravice do dodatnega poskusa.
 
@@ -121,7 +127,7 @@ Zaradi boljše preglednosti je vsaka smernica označena z eno od spodnjih oznak.
 - 9b++) [DODATEK] Discipline, ki niso navedene v [pravilu 9b](regulations:regulation:9b), se lahko izvajajo med tekmovanjem, vendar bodo veljale za neuradne in zato ne bodo vključene v uradne rezultate tekmovanja.
 - 9b3b+) [POJASNILO] Statistika "Povprečje 3" ne vpliva na uvrstitev tekmovalca v krogu formata "Najboljši od 3" (ki temelji na najboljšem rezultatu). WCA ga vodi izven tekmovalnega formata.
 - 9f1+) [PRIMER] Če merilnik pri reševanju prikaže 12,678, je zabeležen čas 12,67 (izpustijo se vse decimalke po stotinki sekunde). Sodnik lahko zapiše celoten prikazan čas na tekmovalni listek (in ohrani natančnost pri izračunu kazni), dokler ga zapisnikar pravilno skrajša pri vnašanju rezultatov.
-- 9f2+) [DODATEK] Pri 3x3x3 slepo več kock naj bi sodnik zabeležil število rešenih ugank, število vseh ugank v poskusu in končni čas. Na primer, če tekmovalec uspešno reši 3 kocke od 5 poskušanih v 40 minutah in 30 sekundah, naj bi sodnik zapisal 3/5 40:30.
+- 9f2+) [DODATEK] Pri Več 3x3x3 kock slepo naj bi sodnik zabeležil število rešenih ugank, število vseh ugank v poskusu in končni čas. Na primer, če tekmovalec uspešno reši 3 kocke od 5 poskušanih v 40 minutah in 30 sekundah, naj bi sodnik zapisal 3/5 40:30.
 - 9f4+) [POJASNILO] Rezultat poskusa naj bi bil DNF, če je tekmovalec začel poskus s potrditvijo pripravljenosti (glej [pravilo A3b2](regulations:regulation:A3b2)), vendar je bil poskus diskvalificiran.
 - 9f5+) [POJASNILO] Rezultat poskusa je DNS, če je bil tekmovalec upravičen do poskusa, a ga ni začel (glej [pravilo A3b2](regulations:regulation:A3b2)). Če se tekmovalec ni kvalificiral za poskus (npr. ni dosegel meje odreza), za tisti poskus nima rezultata.
 - 9p2+) [POJASNILO] Rezultat se nanaša na najboljši poskus ali povprečje, ki določa razvrstitev v ustreznem krogu.
@@ -159,6 +165,7 @@ Zaradi boljše preglednosti je vsaka smernica označena z eno od spodnjih oznak.
 ## <article-12><notation><notation> 12. člen: Notacija
 
 - 12a2+) [POJASNILO] Na primer, tako Rw kot 2Rw sta veljavna zapisa za isto fizično potezo na 3x3x3 kocki. 1Rw ni veljaven zapis za nobeno NxNxN kocko in 3Rw ni veljaven zapis za 2x2x2 kocko ali 3x3x3 kocko (toda 3Rw je veljaven zapis za 4x4x4 kocko in večje NxNxN kocke).
+- 12g2+) [OPOMNIK] Za spremembo stanja gumbov v predogledu je bila v preteklosti kazen DNF. To zdaj ne velja več.
 - 12i+) [POJASNILO] Rotacije ne spremenijo stanja uganke.
 
 
@@ -168,7 +175,7 @@ Zaradi boljše preglednosti je vsaka smernica označena z eno od spodnjih oznak.
 - A1a2+) [DODATEK] V primeru skupne časovne omejitve, pri rezultatih DNF sodnik na tekmovalni listek v oklepajih zapiše izmerjen čas, npr. "DNF (1:02,27)".
 - A1a2++) [PRIMER] Če ima krog samo skupno časovno omejitev 30 minut in sta tekmovalčeva rezultata prvih dveh poskusov 6:00 in DNF (10:00), potem je časovna omejitev za tretji poskus 30:00 - 6:00 - 10:00 = 14:00. V posebnem primeru upoštevajte, da se upošteva samo končni rezultat poskusa. Zato v tem primeru tretji poskus z izmerjenim časom 13:59 brez kazni izpolnjuje časovno omejitev, saj je končni rezultat 13:59 (glej [pravilo 9f2](regulations:regulation:9f2)), medtem ko tretji poskus z rezultatom 13:59 + 2 = 14:01 ne izpolnjuje časovne omejitve.
 - A1a2+++) [DODATEK] Če rezultat poskusa ni na voljo (npr. ponastavljen merilnik časa), naj bi se sodnik posvetoval z WCA delegatom in ocenil čas, ki je bil porabljen za poskus. Ta ocena se upošteva za časovno omejitev, vendar se ne sme uporabiti kot osnova za uradni rezultat posameznega poskusa.
-- A1a2++++) [PRIMER] Če ima krog skupno časovno omejitev 20 minut in časovno omejitev na poskus 8 minut, ter sta tekmovalčeva rezultata prvih dveh poskusov 7:00 in 7:30, potem je časovna omejitev za tretji poskus najnižji čas izmed 20:00 - 7:00 - 7:30 = 5:30 in 8:00, tj. 5:30.
+- A1a2++++) [PRIMER] Če ima krog skupno časovno omejitev 20 minut in časovno omejitev na poskus 8 minut, ter sta tekmovalčeva rezultata prvih dveh poskusov 7:00 in 7:30, potem je časovna omejitev za tretji poskus nižji čas izmed 5:30 (izračunano kot 20:00 - 7:00 - 7:30 = 5:30) in 8:00, tj. 5:30.
 - A1a2+++++) [POJASNILO] Če tekmovalec doseže skupno časovno omejitev, se rezultat za vsak njegov preostali poskus v krogu zabeleži kot DNS (Did Not Start).
 - A1a2++++++) [POJASNILO] Če se skupna časovna omejitev uporablja za kombinacijo krogov različnih disciplin, pomeni vrstni red izvajanja poskusov tudi vrstni red, v katerem se ti poskusi štejejo v skupno časovno omejitev.
 - A1a3+) [OPOMNIK] Organizacijska ekipa in WCA delegat se morata zavedati, da časovne omejitve vplivajo na strategije tekmovalcev (npr. hitenje v prvih dveh poskusih v upanju, da bodo dosegli mejo odreza v formatu kroga z odrezom) in da lahko spreminjanje časovnih omejitev po začetku kroga neupravičeno postavi nekatere tekmovalce v slabši položaj.
@@ -181,8 +188,11 @@ Zaradi boljše preglednosti je vsaka smernica označena z eno od spodnjih oznak.
 - A3c3++) [POJASNILO] Tekmovalec ne more "testirati" ali "ponovno zagnati" merilnika časa med predogledom, saj se predogled konča, ko tekmovalec začne z reševanjem (glej [pravilo A4d](regulations:regulation:A4d)). Če tekmovalec ustavi merilnik po tem ko ga je prvič zagnal, se to šteje za konec reševanja (glej [pravilo A6](regulations:regulation:A6)), tudi če to stori v 15 sekundah po začetku predogleda.
 - A3c4+) [POJASNILO] Če je bila določena uporaba tankega predmeta v uganki, sodnik ne sme odstraniti predmeta v imenu tekmovalca.
 - A3c4++) [POJASNILO] Tekmovalec lahko odstrani predmet med reševanjem, če tega ni storil med predogledom (npr. je pozabil).
+- A4d1+) [POJASNILO] Če je predogled trajal natanko 15 sekund (tj. 15.00), mora biti uporabljena časovna kazen (+2 sekundi).
+- A4d2+) [POJASNILO] Če je predogled trajal natanko 17 sekund (tj. 17.00), mora biti poskus diskvalificiran (DNF).
 - A5b+) [POJASNILO] Med predogledom ali reševanjem uganke se lahko tekmovalec uganke dotakne s katerimkoli delom telesa. Izjema: 3x3x3 enoročno (glej [pravilo C1b](regulations:regulation:C1b)).
 - A5b++) [POJASNILO] Če del tekmovalčeve uganke odpade (glej [pravilo 5a](regulations:regulation:5a)), tekmovalec ne sme prositi drugih za pomoč ali informacije pri iskanju odpadlega dela, sodnik pa bi naj poskusil drugim to preprečiti. Če nekdo tekmovalcu pobere odpadli del, ga lahko sodnik ali tekmovalec prosi, naj ga položi na tekmovalno postajo in naj mu ne pomaga več.
+- A5b+++) [POJASNILO] WCA delegat naj ne bi odobril tekmovalcu dodatnega poskusa zgolj zaradi tega, ker je nekdo pobral odpadli del tekmovalčeve uganke.
 - A6b+) [OBRAZLOŽITEV] Mejna vrednost 0,06 sekunde je bila izbrana zaradi prilagoditve na možnost okvar merilnika časa Stackmat.
 - A6e+) [POJASNILO] Če uganka pade tekmovalcu v naročje po ustavitvi merilnika časa, se to šteje za dotikanje uganke.
 - A7c+) [DODATEK] Če se izkaže, da je podpisan rezultat s strani tekmovalca nepopoln ali neberljiv, ga je potrebno razlagati na najslabši razumen način (npr. "1:05" se prizna kot 1:05,99, "25.X3" se prizna kot 25,73, če je X nejasnost med 1 ali 7). Glede na to, da merilnik Stackmat prikazuje čas X:0Y.ss kot X:Y.ss, je manjkajoča desetica bolj verjetna kot manjkajoča enica (npr. "1:2,27" se prizna kot 1:02,27). Po presoji zapisnikarja, se lahko od sodnika, ki je podpisal dvoumen rezultat, zahteva pojasnilo zapisanega.
@@ -228,11 +238,16 @@ Zaradi boljše preglednosti je vsaka smernica označena z eno od spodnjih oznak.
 - E3d++) [POJASNILO] Tekmovalci naj ne bi upoštevali osebne štoparice ali ure za uradni čas, svojo rešitev morajo oddati, ko sodnik sporoči "KONEC" ("STOP").
 
 
-## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Člen H: Slepo reševanje več kock
+## <article-F><clock><clocksolving> Člen F: Reševanje Clocka
+
+- F1+) [OPOMNIK] V preteklosti je moral tekmovalec postaviti uganko na podlago v stoječem položaju. To ni več potrebno.
+
+
+## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Člen H: Reševanje več kock slepo
 
 - H1+) [DODATEK] Če se med poskusom najde uganka s podvojenim mešalnim algoritmom (enako premešana kot druga), se po presoji WCA delegata uganka lahko ponovno premeša z uporabo drugačnega mešalnega algoritma.
-- H1b+) [DODATEK] Tekmovalec se po presoji WCA delegata lahko pridruži poskusu Slepo več kock, ko ta že poteka. V tem primeru je njegova časovna omejitev še preostali čas (tj. končati mora, ko drugi tekmovalci dosežejo časovno omejitev). Izjema: tekmovalcu se ne sme dovoliti, da se pridruži poskusu Slepo več kock, če je katerikoli tekmovalec že končal svoj poskus ali če obstaja kakršnokoli drugo tveganje, da bi informacije o mešalnem algoritmu postale znane tekmovalcu, ki želi pridružiti.
-- H1b1+) [OPOMNIK] Poskus ni diskvalificiran zaradi doseganja časovne omejitve, po izjemah pravil pri 3x3x3 slepo več kock (glej [pravilo A1a4](regulations:regulation:A1a4) in [pravilo A1a5](regulations:regulation:A1a5)).
+- H1b+) [DODATEK] Tekmovalec se po presoji WCA delegata lahko pridruži poskusu Več kock slepo, ko ta že poteka. V tem primeru je njegova časovna omejitev še preostali čas (tj. končati mora, ko drugi tekmovalci dosežejo časovno omejitev). Izjema: tekmovalcu se ne sme dovoliti, da se pridruži poskusu Več kock slepo, če je katerikoli tekmovalec že končal svoj poskus ali če obstaja kakršnokoli drugo tveganje, da bi informacije o mešalnem algoritmu postale znane tekmovalcu, ki želi pridružiti.
+- H1b1+) [OPOMNIK] Poskus ni diskvalificiran zaradi doseganja časovne omejitve, po izjemah pravil pri Več 3x3x3 kock slepo (glej [pravilo A1a4](regulations:regulation:A1a4) in [pravilo A1a5](regulations:regulation:A1a5)).
 - H1b1++) [DODATEK] Sodnik lahko tekmovalcu dovoli neuradno nadaljevanje poskusa, vendar mora biti poskus najprej ustavljen in dosojen, popolnoma v skladu s WCA Pravilnikom.
 - H1d+) [PRIMER] Primer: Predpostavimo, da tekmovalec poskusi z 10 kockami, ustavi reševanje s časom 59:57 in ima dve časovni kazni. Čas končnega rezultata je 59:57 + 2*2 = 60:01 (glej tudi [pravilo A1a5](regulations:regulation:A1a5)).
 - H1d++) [PRIMER] Primer: Predpostavimo, da tekmovalec poskusi z 10 kockami, sodnik ga ustavi pri 60 minutah in ima dve časovni kazni. Čas končnega rezultata je 60:00 + 2*2 = 60:04.
