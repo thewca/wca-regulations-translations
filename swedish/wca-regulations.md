@@ -134,11 +134,11 @@ OBS: Eftersom Artikel- och Regelnummer inte omfördelas när Regler raderas kan 
     - 3h2) Pussel vars färgade plast syns inuti pusslet (t.ex. "stickerless" pussel) är tillåtna. Detta inkluderar inte följande pussel:
         - 3h2a) Pussel med transparenta delar som kan avslöja mer information om pusslens tillstånd. Undantag: Ett klistermärke eller en logotyp (se [Regel 3l](regulations:regulation:3l)).
     - 3h3) Eventuella modifieringar av ett pussel som resulterar i dålig prestanda av en tävlande är inte skäl för ytterligare försök.
-        - 3h4) För Clock är följande ändringar tillåtna:
-            - 3h4a) Anpassade "inserts" (samma form och storlek som de traditionella pappersinsatserna) är tillåtna, enligt WCA-delegatens bedömning.
-            - 3h4b) Modifikationar av pusslets utformning som inte ger en orättvis fördel kan tillåtas, efter bedömning av WCA-delegaten (t.ex. urtavlor arrangerade i ett rutmönster, urtavlor med en anpassad design, tejp på sidan av pusslet).
-            - 3h4c) Anpassningar som särskiljer pins från andra pins på samma sida är tillåtna, efter bedömning av WCA-delegaten.
-            - 3h4d) Logotyper var som helst på pusslet, så länge de inre urtavlorna inte täcks.
+    - 3h4) För Clock är följande ändringar tillåtna:
+        - 3h4a) Anpassade "inserts" (samma form och storlek som de traditionella pappersinsatserna) är tillåtna, enligt WCA-delegatens bedömning.
+        - 3h4b) Modifikationar av pusslets utformning som inte ger en orättvis fördel kan tillåtas, efter bedömning av WCA-delegaten (t.ex. urtavlor arrangerade i ett rutmönster, urtavlor med en anpassad design, tejp på sidan av pusslet).
+        - 3h4c) Anpassningar som särskiljer pins från andra pins på samma sida är tillåtna, efter bedömning av WCA-delegaten.
+        - 3h4d) Logotyper var som helst på pusslet, så länge de inre urtavlorna inte täcks.
     - 3h5) För Clock anses inte lösa pins (dvs. pins som kan ändras av tyngdkraften istället för att tryckas direkt) vara rimligt slitage, och pussel med sådana pins får inte tillåtas.
 - 3j) Pussel måste vara rena och får inte ha några märken, förhöjda delar, skador eller andra skillnader som väsentligt skiljer någon bit från en liknande bit. Undantag: en logotyp (se [Regel 3l](regulations:regulation:3l)).
     - 3j1) Pussel får ha rimligt slitage, enligt WCA-delegatens bedömning.
