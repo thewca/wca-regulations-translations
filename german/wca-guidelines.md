@@ -1,6 +1,6 @@
 # <wca-title>WCA-Guidelines
 
-<version>Version: 06. Februar 2022
+<version>Version: 01. Januar 2024
 
 ## Hinweise
 
@@ -79,7 +79,7 @@ Jede Richtlinie ist einer der folgenden Disziplinen zugeordnet. Diese Beschriftu
 - 3k2b++) [Beispiel] Angenommen, ein Teilnehmer versucht 10 Puzzles und löst 8 davon erfolgreich. Wenn herausgefunden wird, dass zwei der gelösten und eines der ungelösten Puzzles nicht erlaubt waren, erhält der Teilnehmer ein Ergebnis mit 6 von 10 gelösten Würfeln anstelle eines DNFs (nach Ermessen des WCA-Delegierten).
 - 3l+) [Zusatz] Logos dürfen auf jede Art und Weise gestaltet sein, so dass das Design keinen offensichtlichen Vorteil mit sich bringt (z.B. das Kodieren von Informationen, die zum Schummeln verwendet werden können) und farbige Teil weiterhin klar erkennbar ist. Unkonventionelle Logos sind nur nach Ermessen des WCA-Delegierten zugelassen.
 - 3l++) [Erklärung] In der Vergangenheit waren Puzzles mit Logos auch in BlindDisziplinen erlaubt. Diese Puzzles sind nun nicht mehr erlaubt.
-- 3l1+) [Erklärung] Bei NxNxN Puzzles ist ein Centerstein jedes Teil mit nur einer einzigen Farbe. Ein 5x5x5 Cube zum Beispiel hat 9 Centersteine auf jeder Seite. 
+- 3l1+) [Erklärung] Bei NxNxN Puzzles ist ein Centerstein jedes Teil mit nur einer einzigen Farbe. Ein 5x5x5 Cube zum Beispiel hat 9 Centersteine auf jeder Seite.
 
 
 ## <article-4><scrambling><scrambling> Abschnitt 4: Scrambling

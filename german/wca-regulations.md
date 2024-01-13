@@ -1,6 +1,6 @@
 # <wca-title>WCA-Regeln
 
-<version>Version: 06. Februar 2022
+<version>Version: 01. Januar 2024
 
 ## Anmerkungen
 
@@ -21,7 +21,7 @@ Dazu zählen unter anderem:
 - Scoresheets: Zettel, auf dem Ergebnisse notiert werden
 - Scoretaker: eine Person, die Ergebnisse überträgt bzw. auswertet
 
-Folgende Personen haben bei der Übersetzung und Korrektur geholfen: [Laura Holzhauer](http://www.worldcubeassociation.org/results/p.php?i=2016HOLZ01), [Laura Ohrndorf](http://www.worldcubeassociation.org/results/p.php?i=2009OHRN01), [Sébastien Auroux](http://www.worldcubeassociation.org/results/p.php?i=2008AURO01).
+Folgende Personen haben bei der Übersetzung und Korrektur geholfen: [Annika Stein](http://www.worldcubeassociation.org/results/p.php?i=2014STEI03), [Laura Holzhauer](http://www.worldcubeassociation.org/results/p.php?i=2016HOLZ01), [Laura Ohrndorf](http://www.worldcubeassociation.org/results/p.php?i=2009OHRN01), [Sébastien Auroux](http://www.worldcubeassociation.org/results/p.php?i=2008AURO01).
 
 Folgende weitere Personen haben bei der Übersetzung und Korrektur bei vorherigen Versionen geholfen: [Florian Weingarten](http://www.worldcubeassociation.org/results/p.php?i=2007WEIN01), [Stefan Huber](http://www.worldcubeassociation.org/results/p.php?i=2007HUBE01), [Leon Schmidtchen](http://www.worldcubeassociation.org/results/p.php?i=2010SCHM01), [Robin Blöhm](http://www.worldcubeassociation.org/results/p.php?i=2008BLOH02), [Tim Habermaas](http://www.worldcubeassociation.org/results/p.php?i=2007HABE01), [Markus Pirzer](http://www.worldcubeassociation.org/results/p.php?i=2006PIRZ01), [Marcel Henfling](http://www.worldcubeassociation.org/results/p.php?i=2010HENF01), [Jochen Spies](http://www.worldcubeassociation.org/results/p.php?i=2010SPIE01), [Stefan Pochmann](http://www.worldcubeassociation.org/results/p.php?i=2003POCH01), [Leandro Baltazar](http://www.worldcubeassociation.org/results/p.php?i=2009BALT02), [Emanuel Rheinert](http://www.worldcubeassociation.org/results/p.php?i=2011RHEI01), [Patrick Hetco](http://www.worldcubeassociation.org/results/p.php?i=2011HETC01), [Gregor Billing](http://www.worldcubeassociation.org/results/p.php?i=2012BILL01).
 
@@ -49,13 +49,14 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 - 1a) Jedes Turnier muss einen WCA-Delegierten und ein Organisationsteam (bestehend aus einer Person oder mehreren Personen) haben. Ein Turnier benötigt ebenso die folgenden offiziellen Organe: Judges, Scrambler und Scoretaker.
 - 1b) Das Organisationsteam eines Turniers ist verantwortlich für sämtliche Vorkehrungen vor, während und nach dem Turnier.
 - 1c) Der WCA-Delegierte ist verantwortlich dafür, dass die WCA-Regeln sowie entsprechende WCA-Richtlinien und Anforderungen während des Wettbewerbs eingehalten werden. Der WCA-Delegierte darf verschiedene Pflichten anderen Mitgliedern des Organisationsteams übertragen, ist aber schlussendlich verantwortlich für die Ausführung dieser Pflichten.
+    - 1c1) Der WCA-Delegate muss sicherstellen, dass der Wettbewerb die [WCA Scramble Accountability Policy](https://www.worldcubeassociation.org/documents/policies/external/Scramble%20Accountability.pdf) einhält.
 - 1e) Jede Disziplin benötigt einen oder mehrere Judges.
 	- 1e1) Ein Judge ist verantwortlich für die Durchführung der Abläufe der Disziplin.
 		- 1e1a) Ein Judge darf nach Ermessen des WCA-Delegierten mehrere Teilnehmer gleichzeitig judgen, sofern er sicherstellen kann, dass alle WCA-Regeln zu jedem Zeitpunkt eingehalten werden.
-	- 1e2) Jeder Teilnehmer muss als Judge zur Verfügung stehen. Wird ein Teilnehmer zum Judgen benötigt, so kann er lediglich durch Angabe eines legitimen Grunds (z.B. Unkenntnis eines Puzzles), nach Ermessen des WCA-Delegierten, davon freigestellt werden. Strafe: Disqualifikation des Teilnehmers vom Turnier (siehe [Regel 2k](regulations:regulation:2k)).
+	- 1e2) Jeder Teilnehmer muss als Judge zur Verfügung stehen. Wird ein Teilnehmer zum Judgen benötigt, so kann er lediglich durch Angabe eines legitimen Grunds (z.B. Unkenntnis eines Puzzles), nach Ermessen des WCA-Delegierten, davon freigestellt werden. Strafe: Disqualifikation des Teilnehmers vom Event, mehreren Events, oder allen Events bei diesem Turnier (siehe [Regel 2k](regulations:regulation:2k)).
 - 1f) Jede Disziplin muss einen oder mehrere Scrambler haben. Ausnahme: 3x3x3 Fewest Moves.
 	- 1f1) Ein Scrambler einer Disziplin ist verantwortlich für die Anwendung der Scrambles auf die Puzzles.
-	- 1f2) Alle Teilnehmer müssen als Scrambler zur Verfügung stehen. Wird ein Teilnehmer zum Scramblen benötigt, so kann er lediglich durch Angabe eines legitimen Grunds (z.B. Unkenntnis der Scramble-Notation eines Puzzles), nach Ermessen des WCA-Delegierten, davon freigestellt werden. Strafe: Disqualifikation des Teilnehmers von dem Turnier (siehe [Regel 2k](regulations:regulation:2k)).
+	- 1f2) Alle Teilnehmer müssen als Scrambler zur Verfügung stehen. Wird ein Teilnehmer zum Scramblen benötigt, so kann er lediglich durch Angabe eines legitimen Grunds (z.B. Unkenntnis der Scramble-Notation eines Puzzles), nach Ermessen des WCA-Delegierten, davon freigestellt werden. Strafe: Disqualifikation des Teilnehmers vom Event, mehreren Events, oder allen Events bei diesem Turnier (siehe [Regel 2k](regulations:regulation:2k)).
 - 1g) Jede Disziplin benötigt einen oder mehrere Scoretaker.
 	- 1g1) Ein Scoretaker ist verantwortlich für das Zusammenstellen der Ergebnisse.
 	- 1g2) Änderungen der auf den Scoresheets notierten Ergebnisse dürfen nur nach Absprache mit dem WCA-Delegierten durchgeführt werden.
@@ -66,24 +67,27 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 
 ## <article-2><competitors><competitors> Abschnitt 2: Teilnehmer
 
-- 2a) Jeder darf an einem WCA-Turnier teilnehmen, wenn er (ergänzt von [Regel Y3](regulations:regulation:Y3):
+- 2a) Jeder darf an einem WCA-Turnier teilnehmen, wenn er:
 	- 2a1) die WCA-Regeln akzeptiert.
 	- 2a2) die Teilnahmevoraussetzungen erfüllt, die eindeutig vor dem Turnier angekündigt werden müssen.
-	- 2a3) nicht vom WCA-Board gesperrt wurde.
+	- 2a3) nicht von der WCA von der Teilnahme ausgeschlossen wurde.
+	- 2a4) alle angemessen Sicherheitsvorkehrungen einhält, die vom WCA-Delegierten als notwendig festgelegt werden. Jene Vorkehrungen müssen vor dem Turnier klar angekündigt worden sein.
 - 2b) Teilnehmer unter 18 Jahren brauchen die Erlaubnis ihrer Erziehungsberechtigten, um sich zu registrieren und teilzunehmen.
-- 2c) Zu einer vollständigen Anmeldung eines Teilnehmers müssen alle verlangten Angaben gemacht werden (darunter: Name, Nationalität, Geburtsdatum, Geschlecht, Kontaktinformationen und teilnehmende Disziplinen).
-	- 2c1) Ein Teilnehmer ist ohne eine vollständige Anmeldung, die vom Organisationsteam festgestellt wurde, nicht teilnahmefähig.
-	- 2c2) Bei wiederkehrenden Teilnehmern müssen die angegebenen persönlichen Informationen mit ihrem WCA-Profil übereinstimmen. Wenn ein Teilnehmer seine persönlichen Informationen zwischen Wettbewerben ändern oder aktualisieren möchte (z.B. Änderung der Nationalität, Name, Geschlecht), muss er das [WCA Results Team](www.worldcubeassociation.org/contact/website) kontaktieren.
-- 2d) Name, Nationalität, Geschlecht und Resultate des Turniers zählen als öffentliche Informationen. Alle anderen persönlichen Informationen werden vertraulich behandelt und dürfen ohne Zustimmung des Teilnehmers nicht an Dritte weitergegeben werden.
-- 2e) Teilnehmer müssen einen Staat vertreten, dessen Staatsbürgerschaft sie besitzen. Der WCA-Delegierte sollte diese Staatsbürgerschaft durch Begutachtung von Dokumenten (z.B. Personalausweis, Reisepass) überprüfen. Wenn ein Teilnehmer für nicht repräsentationsfähig für das Land, unter welchem er sich angemeldet hat, befunden wird, kann er rückwirkend disqualifiziert und/oder suspendiert werden, nach Ermessen des WCA-Boards.
-	- 2e1) Die Staaten, die vertreten werden können, sind in der englischsprachigen [WCA List of Recognized Countries](https://www.worldcubeassociation.org/regulations/countries/) definiert .
-	- 2e2) Teilnehmer, bei denen sich Änderungen in der Staatsbürgerschaft ergeben, können ihr vertretenes Land vor oder bei ihrem ersten Turnier eines Kalenderjahres ändern. Ausnahme: Falls Teilnehmer ihre Staatsbürgerschaft des Landers, für das er bislang teilgenommen hat, verlieren, müssen sie ihre Staatsbührerschaft vor oder bei ihrem nächsten Turnier ändern.
-	- 2e3) Teilnehmer, die keine Staatsangehörigkeit haben, dürfen als "Staatenlos" teilnehmen.
+- 2c) Zu einer vollständigen Anmeldung eines Teilnehmers müssen alle verlangten Angaben gemacht werden (darunter: Name, repräsentierte Region, Geburtsdatum, Geschlecht, Kontaktinformationen und teilnehmende Disziplinen).
+    - 2c1) Ein Teilnehmer ist ohne eine vollständige Anmeldung, die vom Organisationsteam oder WCA-Delegierten festgestellt wurde, nicht teilnahmefähig.
+    - 2c2) Bei wiederkehrenden Teilnehmern müssen die angegebenen persönlichen Informationen mit ihrem WCA-Profil übereinstimmen. Wenn ein Teilnehmer seine persönlichen Informationen zwischen Wettbewerben ändern oder aktualisieren möchte (z.B. Änderung der repräsentierten Region, Name, Geschlecht), muss er das [WCA Results Team](www.worldcubeassociation.org/contact/website) kontaktieren, entweder direkt oder über einen WCA-Delegierten.
+- 2d) Name, repräsentierte Region, Geschlecht und Resultate des Turniers zählen als öffentliche Informationen. Alle anderen persönlichen Informationen werden vertraulich behandelt und dürfen ohne Zustimmung des Teilnehmers nicht an Dritte weitergegeben werden.
+- 2e) Teilnehmer müssen eine Region vertreten, deren Staatsbürgerschaft sie besitzen. Der WCA-Delegierte sollte diese Staatsbürgerschaft durch Begutachtung von Dokumenten (z.B. Personalausweis, Reisepass) überprüfen. Wenn ein Teilnehmer für nicht repräsentationsfähig für die Region, unter welcher er sich angemeldet hat, befunden wird, kann er rückwirkend disqualifiziert und/oder suspendiert werden, nach Ermessen des WCA-Boards.
+    - 2e1) Die Regionen, die vertreten werden können, sind in der englischsprachigen [WCA List of Recognized Countries](https://www.worldcubeassociation.org/regulations/countries/) definiert.
+    - 2e2) Teilnehmer dürfen ihre repräsentierte Region nur vor oder bei ihrem ersten Turnier des Kalenderjahres ändern.
+      	- 2e2a) Ausnahme: Falls ein Teilnehmer seine Staatsbürgerschaft der Region, für die er bislang teilgenommen hat, verliert, muss er seine repräsentierte Region vor oder bei seinem nächsten Turnier ändern (siehe [Regel 2c2](regulations:regulation:2c2)).
+	      - 2e2b) Ausnahme: Falls ein Teilnahmer während eines Kalenderjahres eine neue Staatsbürgerschaft erhält, darf er seine repräsentierte Region zwischen Turnieren jederzeit zu seiner neuen Staatsbürgerschaft ändern.
+		- 2e3) Teilnehmer, die keine Staatsangehörigkeit haben, dürfen als "Staatenlos" teilnehmen.
 - 2f) Teilnehmer müssen sich an die Hausordnung des Veranstaltungsortes halten und sich rücksichtsvoll verhalten.
 - 2g) Teilnehmer müssen sich im Wettbewerbsbereich ruhig verhalten. Unterhaltungen bei angemessener Lautstärke sind erlaubt, solange sie weit genug von den aktiven Teilnehmern entfernt stattfinden.
-	- 2g3) Teilnehmer im Teilnehmerbereich dürfen nicht miteinander über die Scrambles der laufenden Runde kommunizieren. Strafe: Disqualifikation des Teilnehmers von der Disziplin, nach Ermessen des WCA-Delegierten.
-- 2h) Teilnehmer müssen vollständig bekleidet sein. Nach Ermessen des WCA-Delegierten dürfen Teilnehmer für unangebrachte Bekleidung vom Turnier ausgeschlossen werden.
-- 2i) Während der aktiven Teilnahme am Wettkampf (Inspektion+Lösevorgang) dürfen Teilnehmer keine Elektronik oder Audioelektronik nutzen (z.B. Mobiltelefone, MP3 Player, Diktiergeräte, zusätzliche Beleuchtung), davon ausgenommen ist nur der Stackmat Timer oder die Stoppuhr.
+	- 2g3) Teilnehmer einer laufenden Gruppe dürfen nicht mit anderen Teilnehmern jener Gruppe über die Scrambles der laufenden Gruppe kommunizieren, es sei denn, keinem der betreffenden Teilnehmer stehen weitere Versuche in dieser Gruppe zu. Strafe: Disqualifikation des Teilnehmers / der Teilnehmer von der Disziplin, nach Ermessen des WCA-Delegierten. Ausnahme: Bei 3x3x3 Fewest Moves dürfen Teilnehmer, die ihren Versuch bereits beendet haben, die Scramble-Sequenz mit jedem teilen, der nicht aktiv an diesem Versuch teilnimmt.
+- 2h) Teilnehmer müssen in der Venue angemessen bekleidet sein. Nach Ermessen des WCA-Delegierten dürfen Teilnehmer für unangebrachte Bekleidung vom Turnier ausgeschlossen werden.
+- 2i) Während der aktiven Teilnahme am Wettkampf (Inspektion+Lösevorgang) dürfen Teilnehmer keine Elektronik oder Audioelektronik nutzen (z.B. Mobiltelefone, MP3 Player, Diktiergeräte, zusätzliche Beleuchtung), davon ausgenommen ist nur der Stackmat Timer oder die Stoppuhr. Strafe: Disqualifikation des Versuchs (DNF).
 	- 2i1) Teilnehmer dürfen nicht-elektronische Hilfsmittel nutzen, die ihnen keinen unfairen Vorteil geben, nach Ermessen des WCA-Delegierten. Dies schließt ein:
 		- 2i1a) Medizinische/physische Hilfen, die vom Teilnehmer getragen werden (z.B. eine Brille, Handbandagen). Als Ausnahmeregelung zu [Regel 2i](regulations:regulation:2i), dürfen medizinische Hilfsmittel elektronisch sein, wenn der Teilnehmer keine nicht-elektronische Alternative hat (z.B. Teilnehmer, die eine Hörhilfe oder einen Herzschrittmacher haben).
 		- 2i1b) Ohrstöpsel und Gehörschutz (aber keine elektronischen Kopfhörer oder Ohrstöpsel).
@@ -91,10 +95,8 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 		- 2i1d) Essen und Getränke.
 	- 2i2) Teilnehmer dürfen am Löse-Platz Kameras nach Ermessen des WCA-Delegierten nutzen, aber die folgenden Bedingungen müssen vom Beginn des Versuchs bis zum Stoppen des Solves eingehalten werden. Strafe für das Brechen der Bedingungen: Disqualifikation des Versuchs (DNF).
 		- 2i2a) Jeder Monitor der Kamera muss ausgeschaltet oder außerhalb des Sichtbereichs des Teilnehmers sein (siehe [Regel A5b](regulations:regulation:A5b)).
-		- 2i2b) Der Teilnehmer darf nicht mit der aktiven Kamera interagieren (z.B. bedienen, halten, tragen). Ausnahme: der Teilnehmer darf eine Kamera tragen, die auf seinem Kopf befestigt ist, solange diese außerhalb seines Sichtbereiches ist und klar ist, dass er nicht mit dieser interagiert (abgesehen vom Tragen).
-	- 2i3) Teilnehmer dürfen ein Smartphone in ihrer Tasche haben, solange klar ist, dass sie nicht anderweitig damit interagieren.
 	- 2i4) Teilnehmer sollten alle Benachrichtigungen auf ihrem Smartphone während der Teilnahme abschalten, um den Wettbewerb nicht zu stören.
-- 2j) Der WCA-Delegierte darf einen Teilnehmer von einer bestimmten Disziplin ausschließen.
+- 2j) Der WCA-Delegierte darf einen Teilnehmer von einem bestimmten Versuch / einer bestimmten Disziplin ausschließen.<ToDo ab hier>
 	- 2j1) Wenn ein Teilnehmer von einer Disziplin ausgeschlossen wird, aus welchem Grund auch immer, hat er keinen Anspruch auf weitere Versuche in dieser Disziplin.
 		- 2j1a) Wenn der Teilnehmer bereits mindestens einen Versuch in der Runde gestartet hat, bevor er disqualifiziert wurde, werden die Ergebnisse aller übrigen Versuche in dieser Disziplin als DNF gewertet. Wenn der Teilnehmer noch keinen Versuch gestartet hat (also keine Ergebnisse hat oder nur DNS-Ergebnisse), werden keine Ergebnisse aufgezeichnet.
 	- 2j2) Wenn ein Teilnehmer während der Durchführung einer Disziplin ausgeschlossen wird, bleiben seine Resultate von Versuchen, die bereits abgeschlossen sind, wenn der Teilnehmer disqualifiziert wird, gültig. Ausnahme: Täuschung oder Betrug (siehe [Regel 2k2a](regulations:regulation:2k2a)).
@@ -523,30 +525,3 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 	- H1d) Zeitstrafen für die Puzzles werden aufaddiert.
 	- H1e) Der Teilnehmer darf keine Züge an einem oder mehreren Puzzles während der Memorisierungsphase durchführen. Strafe: Disqualifikation des Versuchs (DNF). Ausnahme: diese einzelnen Puzzles dürfen als ungelöste Puzzles am Ende des Versuchs eingerechnet werden, anstatt den gesamten Versuch zu disqualifizieren; dies geschieht nach Ermessen des WCA-Delegierten.
 - H2) Der Teilnehmer darf selbst eine flache Unterlage für die Oberfläche (z.B. eine Matte oder ein Tuch) mitbringen, nach Ermessen des WCA-Delegierten. Wenn der Teilnehmer dies tun möchte, muss der Wunsch an dem Zeitpunkt geäußert werden, wenn die Anzahl der Puzzles dem Organisationsteam mitgeteilt wird (siehe [Regel H1a](regulations:regulation:H1a)).
-
-## <article-Y><temporary-regulations><temporaryregulations> Abschnitt Y: Temporäre Regeln
-
-- Y1) Zusätzliche Regeln, die alle zuvor aufgeführten Regeln ersetzen. Diese Regeln dienen der Ergänzung der Competition Safety Policy.
-- Y2) Definitionen:
-	- Y2a) Mitwirkende: Alle Personen, die beim WCA-Wettbewerb dabei sind, darunter sind die eigentlichen Teilnehmer, Offizielle und Gäste.
-	- Y2b) Fixed Seating: Eine Teilnahmemethode, bei der ein Teilnehmer alle Versuche einer Runde an der gleichen Lösestation durchführt.
-- Y3) Zusätzlich zu den Anforderungen in [Regel 2a](regulations:regulation:2a) kann ein Teilnehmer dazu aufgefordert werden, eine oder mehrere der folgenden Anforderungen einzuhalten, sofern die Anforderungen vom WCA-Delegierten als nötig angesehen werden und deutlich vor dem Wettbewerb angekündigt werden:
-	- Y3a) Tragen eines Mund-Nasenschutzes in der Veranstaltungshalle.
-	- Y3b) Kein Kontakt mit einer an COVID-19 erkrankten Person in den letzten 14 Tagen vor dem Wettbewerb.
-	- Y3c) Keine COVID-19-Erkrankung oder COVID-19-Symptome (nach [Definition der Weltgesundheitsorganisation](https://www.who.int/) in den letzten 14 Tagen vor dem Wettbewerb.
-	- Y3d) Einhalten anderer verhältnismäßiger Sicherheitsmaßnahmen, die von der Weltgesundheitsorganisation oder lokalen Regierungen verhängt werden.
-- Y4) Alle Teilnehmer und Offizielle sollten ihre eigenen Stifte zum Wettbewerb mitbringen.
-- Y5) Judges dürfen ihre eigenen Stoppuhren oder Mobiltelefone zum Timen der Inspektion benutzen, wobei diese Geräte vom WCA-Delegierten zuvor überprüft werden sollten.
-- Y6) Umgebung:
-	- Y6a) Wenn der WCA-Delegierte dies als nötig erachtet, muss der Teilnehmerbereich keinen Wartebereich für die Teilnehmer aufweisen.
-	- Y6b) Teilnehmer sollten nicht die Oberfläche der Lösestation berühren, wenn sie gerade keinen offiziellen Versuch durchführen.
-- Y7) Teilnahmeabläufe, die die Artikel [A](regulations:article:A), [B](regulations:article:B) und [H](regulations:article:H) ersetzen, sind im Folgenden beschrieben. Diese Abläufe gelten nicht für Artikel [E](regulations:article:E), Lösen mit möglichst wenigen Zügen.
-	- Y7a) Wettbewerbe sollten das Fixed-Seating-Konzept benutzen (siehe [Regel Y2b](regulations:regulation:Y2b)).
-	- Y7b) Der Judge sollte versuchen, das Puzzle des Teilnehmers möglichst nicht zu berühren. Ausnahme: Für Clock sollte der Judge das Puzzle aufheben, um zu überprüfen, dass beide Seiten gelöst sind.
-	- Y7c) Scrambling:
-		- Y7c1) Wenn der Teilnehmer zu einer Runde aufgerufen wird, gibt er sein Puzzle in desinfiziertem und gelöstem Zustand beim Scrambler ab. Der Teilnehmer wartet dann an der ihm zugewiesenen Lösestation.
-	- Y7d) Inspektion:
-		- Y7d1) Der Judge bittet den Teilnehmer, den Timer vorzubereiten, indem dieser ihn anschaltet und wenn nötig zurücksetzt. Der Teilnehmer führt dies dann durch; der Judge sollte zu jedem Zeitpunkt vermeiden, den Timer zu berühren.
-	- Y7e) Aufzeichnung der Ergebnisse:
-		- Y7e2) Der Teilnehmer sollte das Scoresheet nicht berühren.
-	- Y7f) Nach Ende des Versuchs muss der Teilnehmer den Cube in die Abdeckung zurücklegen, sofern noch weitere Versuche ausstehen.
