@@ -1,4 +1,4 @@
-# <wca-title>WCA-Regler
+# <wca-title>WCA-regler
 
 <version>Version: 1:a januari 2024
 
@@ -10,21 +10,21 @@
 Observera att översättningar av reglerna inte är officiella versioner, även om de tillhandahålls på WCA:s webbplats för att underlätta för tävlande.
 Om det finns skillnader mellan en översättning och den (nuvarande officiella) engelska versionen, så måste den engelska versionen användas.
 
-### WCA-Regler and Riktlinjer
+### WCA-regler and riktlinjer
 
-WCA-Reglerna innehåller hela uppsättningen regler som gäller för alla officiella tävlingar som godkänts av World Cube Association.
-WCA-Reglerna kompletteras också med [WCA-Riktlinjerna](guidelines:top). Reglerna ska ses som ett fullständigt dokument, men riktlinjerna innehåller ytterligare förtydliganden och förklaringar.
+WCA-reglerna innehåller hela uppsättningen regler som gäller för alla officiella tävlingar som godkänts av World Cube Association.
+WCA-reglerna kompletteras också med [WCA-riktlinjerna](guidelines:top). Reglerna ska ses som ett fullständigt dokument, men riktlinjerna innehåller ytterligare förtydliganden och förklaringar.
 
 ### Ordval
 Användningen av orden "måste", "får inte", "bör", "bör inte", och "får" används på samma sätt som engelska orden "must", "must not", "should", "should not", och "may", enligt definitionen [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt).
 
 ### Information på nätet
 World Cube Associations hemsida: [www.worldcubeassociation.org](https://www.worldcubeassociation.org/)
-Originalversion av WCA-Reglerna: [www.worldcubeassociation.org/regulations](https://www.worldcubeassociation.org/regulations/)
-WCA-Reglerna i [PDF-format](link:pdf)
+Originalversion av WCA-reglerna: [www.worldcubeassociation.org/regulations](https://www.worldcubeassociation.org/regulations/)
+WCA-reglerna i [PDF-format](link:pdf)
 
 ### Källa
-Utvecklingen av WCA-Regler och Riktlinjer sker offentligt [på GitHub](https://github.com/thewca/wca-regulations) och diskussionen är offentlig [på WCA:s Forum](https://forum.worldcubeassociation.org/c/regulations).
+Utvecklingen av WCA-regler och riktlinjer sker offentligt [på GitHub](https://github.com/thewca/wca-regulations) och diskussionen är offentlig [på WCA:s Forum](https://forum.worldcubeassociation.org/c/regulations).
 
 ### Kontakt
 För frågor och feedback, vänligen kontakta [WCA Regulations Committee (WRC)](mailto:wrc@worldcubeassociation.org).
@@ -32,7 +32,7 @@ För frågor och feedback, vänligen kontakta [WCA Regulations Committee (WRC)](
 
 ## <contents> [Innehåll](regulations:contents)
 
-OBS: Eftersom Artikel- och Regelnummer inte omfördelas när Regler raderas kan det finnas luckor i numreringen. 
+OBS: Eftersom artikel- och regelnummer inte omfördelas när regler raderas kan det finnas luckor i numreringen. 
 
 <table-of-contents>
 
@@ -41,20 +41,20 @@ OBS: Eftersom Artikel- och Regelnummer inte omfördelas när Regler raderas kan 
 
 - 1a) En tävling måste ha en WCA-delegat och ett arrangörsteam (bestående av en eller flera individer) med följande funktionärer: domare, blandare och resultatregistrerare.
 - 1b) Tävlingens arrangörsteam ansvarar för logistiken före, under och efter tävlingen.
-- 1c) WCA-delegaten ansvarar för att tävlingen följer WCA-Reglerna och eventuella tillämpliga WCA-policyer eller krav. WCA-delegaten får utse andra medlemmar i arrangörsteamet för att utföra specifika uppgifter för deras räkning, men är i slutändan ansvarig för hur dessa ansvarsområden utförs.
+- 1c) WCA-delegaten ansvarar för att tävlingen följer WCA-reglerna och eventuella tillämpliga WCA-policyer eller krav. WCA-delegaten får utse andra medlemmar i arrangörsteamet för att utföra specifika uppgifter för deras räkning, men är i slutändan ansvarig för hur dessa ansvarsområden utförs.
     - 1c1) WCA-delegaten måste säkerställa att tävlingen följer [WCA Scramble Accountability Policy](https://www.worldcubeassociation.org/documents/policies/external/Scramble%20Accountability.pdf).
 - 1e) Varje gren måste ha en eller flera domare.
     - 1e1) En domare är ansvarig för att genomföra grenens tävlingsprocedur.
-        - 1e1a) En domare får döma flera tävlande samtidigt enligt WCA-delegatens bedömning, så länge domaren kan se till att alla WCA-Regler följs hela tiden.
-    - 1e2) Varje tävlande måste finnas tillgänglig för att döma. En tävlande som ombeds att döma måste göra det, om hen inte har en legitim anledning att inte döma (t.ex. att hen inte känner till pusslet), enligt WCA-delegatens bedömning. Straff: diskvalificering från en gren, flera grenar, eller alla grenar på tävlingen (se [Regel 2k](regulations:regulation:2k)).
+        - 1e1a) En domare får döma flera tävlande samtidigt enligt WCA-delegatens bedömning, så länge domaren kan se till att alla WCA-regler följs hela tiden.
+    - 1e2) Varje tävlande måste finnas tillgänglig för att döma. En tävlande som ombeds att döma måste göra det, om hen inte har en legitim anledning att inte döma (t.ex. att hen inte känner till pusslet), enligt WCA-delegatens bedömning. Straff: diskvalificering från en gren, flera grenar, eller alla grenar på tävlingen (se [regel 2k](regulations:regulation:2k)).
 - 1f) Varje gren måste ha en eller flera blandare. Undantag: 3x3x3 Minst Antal Drag.
-    - 1f1) En blandare tillämpar blandningssekvenser för att förbereda pusslen för försök (se [Regel A2](regulations:regulation:A2)).
-    - 1f2) Varje tävlande måste finnas tillgänglig för att blanda. En tävlande som ombeds att blanda måste göra det, om hen inte har en legitim anledning (t.ex. att hen inte känner till blandnings-notationen), enligt WCA-delegatens bedömning. Straff: diskvalificering från en gren, flera grenar, eller alla grenar på tävlingen (se [Regel 2k](regulations:regulation:2k)).
+    - 1f1) En blandare tillämpar blandningssekvenser för att förbereda pusslen för försök (se [regel A2](regulations:regulation:A2)).
+    - 1f2) Varje tävlande måste finnas tillgänglig för att blanda. En tävlande som ombeds att blanda måste göra det, om hen inte har en legitim anledning (t.ex. att hen inte känner till blandnings-notationen), enligt WCA-delegatens bedömning. Straff: diskvalificering från en gren, flera grenar, eller alla grenar på tävlingen (se [regel 2k](regulations:regulation:2k)).
 - 1g) Varje gren måste ha en eller flera resultatregistrerare.
     - 1g1) En resultatregistrerare är ansvarig för att sammanställa resultat.
     - 1g2) Ändringar av resultatet på ett resultatkort är endast tillåtna enligt WCA-delegatens bedömning.
 - 1h) De tävlande i samma omgång får tävla som en grupp eller delas in i flera grupper.
-    - 1h1) Blandare och domare för en omgång bör inte blanda för/döma tävlande i sin egen grupp innan de har avslutat alla sina försök för omgången. De får blanda för/döma tävlande i sin egen grupp enligt WCA-delegatens bedömning, men arrangörsteamet måste se till att blandare och domare inte kan se några blandningssekvenser för de försök som de inte ännu har utfört (se [Regel 4b2](regulations:regulation:4b2)).
+    - 1h1) Blandare och domare för en omgång bör inte blanda för/döma tävlande i sin egen grupp innan de har avslutat alla sina försök för omgången. De får blanda för/döma tävlande i sin egen grupp enligt WCA-delegatens bedömning, men arrangörsteamet måste se till att blandare och domare inte kan se några blandningssekvenser för de försök som de inte ännu har utfört (se [regel 4b2](regulations:regulation:4b2)).
 - 1j) Alla funktionärer får delta i tävlingen.
 - 1k) Funktionärer får ha flera roller (t.ex. arrangörsteam, WCA-delegat, domare, resultatregistrerare, blandare).
 
@@ -62,10 +62,10 @@ OBS: Eftersom Artikel- och Regelnummer inte omfördelas när Regler raderas kan 
 ## <article-2><competitors><competitors> Artikel 2: Tävlande
 
 - 2a) Vem som helst får tävla i en WCA-tävling om de:
-    - 2a1) Följer WCA-Reglerna.
+    - 2a1) Följer WCA-reglerna.
     - 2a2) Uppfyller tävlingskraven, som måste meddelas tydligt före tävlingen.
     - 2a3) Inte är avstängda från deltagande av WCA.
-    - 2a4) Följa alla rimliga säkerhetsåtgärder som anses nödvändiga av WCA-delegaten, vilka måste meddelas tydligt före tävlingen.
+    - 2a4) Följer alla rimliga säkerhetsåtgärder som anses nödvändiga av WCA-delegaten, vilka måste meddelas tydligt före tävlingen.
 - 2b) Tävlande under 18 år måste ha tillåtelse från föräldrar/vårdnadshavare för att registrera sig och tävla.
 - 2c) Tävlande registrerar sig genom att tillhandahålla all information som krävs av arrangörsteamet (inklusive: namn, representerad region, födelsedatum, kön, kontaktinformation, valda grenar).
     - 2c1) En tävlande är inte berättigad att tävla utan en fullbordad registrering, enligt arrangörsteamets och WCA-delegatens instruktioner.
@@ -74,7 +74,7 @@ OBS: Eftersom Artikel- och Regelnummer inte omfördelas när Regler raderas kan 
 - 2e) Tävlande måste representera en region där de har medborgarskap. WCA-delegaten bör verifiera medborgarskapet med hjälp av dokument (t.ex. ett pass) vid den tävlandes första tävling. Om en tävlande inte är kvalificerad att representera den region under vilken hen har registrerat sig, kan den tävlande diskvalificeras retroaktivt och/eller stängas av, enligt WCA-Styrelsens bedömning.
     - 2e1) De tillgängliga regionerna definieras av [WCA:s lista över erkända regioner](https://www.worldcubeassociation.org/regulations/countries/).
     - 2e2) Tävlande får ändra sin representerade region endast före eller vid sin första tävling under ett kalenderår.
-        - 2e2a) Undantag: Om den tävlande förlorar medborgarskapet i den region som hen tidigare representerade, måste hen byta sin representerade region före eller vid sin nästa tävling (se [Regel 2c2](regulations:regulation:2c2)).
+        - 2e2a) Undantag: Om den tävlande förlorar medborgarskapet i den region som hen tidigare representerade, måste hen byta sin representerade region före eller vid sin nästa tävling (se [regel 2c2](regulations:regulation:2c2)).
         - 2e2b) Undantag: Om den tävlande har förvärvat ett nytt medborgarskap under kalenderåret, får hen ändra sin representerade region till sitt nya medborgarskap när som helst mellan tävlingar.
     - 2e3) Tävlande som inte har något medborgarskap får tävla som "Statslösa".
 - 2f) Tävlande måste följa tävlingslokalens regler och bete sig på ett hänsynsfullt sätt.
@@ -83,17 +83,17 @@ OBS: Eftersom Artikel- och Regelnummer inte omfördelas när Regler raderas kan 
 - 2h) Tävlande måste vara lämpligt klädda när de är i tävlingslokalen. Enligt WCA-delegatens bedömning får tävlande diskvalificeras från tävlingen för olämplig klädsel.
 - 2i) Under inspektion eller lösning får tävlande inte använda elektronik eller ljudutrustning (t.ex. mobiltelefoner, MP3-spelare, diktafoner, ytterligare belysning) förutom Stackmat-timern eller stoppuret. Straff: diskvalificering av försöket (DNF).
     - 2i1) Tävlande får använda icke-elektroniska hjälpmedel som inte ger en orättvis fördel, enligt WCA-delegatens bedömning. Detta inkluderar:
-        - 2i1a) Medicinska/fysiska hjälpmedel som bärs av den tävlande (t.ex. glasögon, handledsstöd). Som undantag från [Regel 2i](regulations:regulation:2i), får medicinska hjälpmedel vara elektroniska om den tävlande inte har bekväma icke-elektroniska alternativ (t.ex. om den tävlande har en personlig hörapparat eller pacemaker).
+        - 2i1a) Medicinska/fysiska hjälpmedel som bärs av den tävlande (t.ex. glasögon, handledsstöd). Som undantag från [regel 2i](regulations:regulation:2i), får medicinska hjälpmedel vara elektroniska om den tävlande inte har bekväma icke-elektroniska alternativ (t.ex. om den tävlande har en personlig hörapparat eller pacemaker).
         - 2i1b) Öronproppar och öronskydd (men inte elektroniska hörlurar och öronsnäckor).
         - 2i1c) Handvärmare.
         - 2i1d) Mat och dryck.
     - 2i2) Tävlande får använda kameror vid lösningsstationen enligt WCA-delegatens bedömning, men följande begränsningar gäller från början av försöket tills den tävlande avslutar lösningen. Straff för att bryta mot en restriktion: diskvalificering av försöket (DNF).
-        - 2i2a) Varje kameraskärm måste vara avstängd eller utom synhåll för den tävlande (se [Regel A5b](regulations:regulation:A5b)).
+        - 2i2a) Varje kameraskärm måste vara avstängd eller utom synhåll för den tävlande (se [regel A5b](regulations:regulation:A5b)).
     - 2i4) Tävlande bör stänga av alla mobil-notifikationer under tävlan för att undvika att störa tävlingen.
 - 2j) WCA-delegaten får diskvalificera en tävlande från specifika försök och/eller grenar.
     - 2j1) Om en tävlande av någon anledning diskvalificeras från en gren, är hen inte berättigade till fler försök i grenen.
         - 2j1a) Om den tävlande redan har startat minst ett försök i en omgång innan hen diskvalificeras från det, registreras resultaten av alla återstående försök i grenen som DNF. Om den tävlande inte har startat några försök (dvs. inte har några resultat eller bara har DNS-resultat) registreras inga resultat.
-    - 2j2) Resultat från försök som avslutats när diskvalifikationen appliceras får inte diskvalificeras. Undantag: fusk eller bedrägeri (se [Regel 2k2a](regulations:regulation:2k2a)).
+    - 2j2) Resultat från försök som avslutats när diskvalifikationen appliceras får inte diskvalificeras. Undantag: fusk eller bedrägeri (se [regel 2k2a](regulations:regulation:2k2a)).
     - 2j3) Specifika genomförda försök får endast diskvalificeras under de omständigheter som beskrivs i [regel 2k](regulations:regulation:2k) om den relevanta händelsen inträffade under försöket.
 - 2k) Enligt WCA-delegatens bedömning får en tävlande diskvalificeras från specifika försök och/eller grenar (en gren, flera grenar, eller alla grenar) om den tävlande:
     - 2k1) Inte checkar in eller registrerar sig i tid för tävlingen.
@@ -101,17 +101,17 @@ OBS: Eftersom Artikel- och Regelnummer inte omfördelas när Regler raderas kan 
         - 2k2a) WCA-delegaten får diskvalificera misstänkta resultat.
     - 2k3) Uppför sig på ett sätt som är olagligt/våldsamt/oanständigt/osäkert eller medvetet skadar lokalens eller personlig egendom inom tävlingslokalen.
     - 2k4) Distraherar eller stör andra under tävlingen.
-    - 2k5) Inte följer WCA-Reglerna under tävlingen.
+    - 2k5) Inte följer WCA-reglerna under tävlingen.
     - 2k6) Inte uppfyller grenens krav (t.ex. att inte veta hur man löser pusslet). En tävlande bör inte tävla med förväntningen av ett DNF-resultat eller ett avsiktligt dåligt resultat.
 - 2l) En tävlande får diskvalificeras omedelbart, eller efter en varning, beroende på överträdelsens typ och allvarlighetsgrad.
     - 2l1) En diskvalificerad tävlande är inte berättigad till återbetalning av några utgifter till följd av deltagande i tävlingen.
 - 2n) Tävlande får muntligt bestrida ett beslut till WCA-delegaten.
-    - 2n1) Bestridanden är endast tillåtna under tävlingen (se [Regel 9u](regulations:regulation:9u)), inom 30 minuter efter det att händelsen inträffade, eller innan början av följande omgångar av den aktuella grenen.
+    - 2n1) Bestridanden är endast tillåtna under tävlingen (se [regel 9u](regulations:regulation:9u)), inom 30 minuter efter det att händelsen inträffade, eller innan början av följande omgångar av den aktuella grenen.
     - 2n2) WCA-delegaten måste lösa dispyten innan nästa omgång av grenen börjar.
     - 2n3) Den tävlande måste acceptera alla slutgiltiga beslut från WCA-delegaten. Straff: diskvalificering från tävlingen.
-- 2s) Tävlande med omständigheter (t.ex. funktionsvariationer) som kan hindra dem från att följa en eller flera WCA-Regler får begära särskilda anpassningar från WCA-delegaten. Tävlande som begär sådana anpassningar bör kontakta arrangörsteamet och WCA-delegaten minst två veckor före tävlingen.
+- 2s) Tävlande med omständigheter (t.ex. funktionsvariationer) som kan hindra dem från att följa en eller flera WCA-regler får begära särskilda anpassningar från WCA-delegaten. Tävlande som begär sådana anpassningar bör kontakta arrangörsteamet och WCA-delegaten minst två veckor före tävlingen.
     - 2s1) Tävlande vars omständigheter resulterar i att det är omöjligt att följa ordinarie tävlingsprocedurer kan få särskilda anpassningar. Dessa fall ska tas upp med WCA Regulation Committee innan de tillämpas.
-- 2t) Varje tävlande måste vara bekant med och förstå WCA-Reglerna före tävlingen.
+- 2t) Varje tävlande måste vara bekant med och förstå WCA-reglerna före tävlingen.
 - 2u) Tävlande måste vara närvarande och redo att tävla när de kallas att tävla. Straff: diskvalificering från grenen.
     - 2u1) Undantag: En tävlande som inte är närvarande i tid för ett individuellt schemalagt försök (t.ex. ett försök av 3x3x3 Minst Antal Drag, eller 3x3x3 Multi-Blind) kan anses ha avböjt att genomföra försöket (DNS), enligt WCA-delegatens bedömning.
     - 2u2) Undantag: För omgångar med en kumulativ tidsgräns får en tävlande som anländer sent tävla med en reducerad kumulativ tidsgräns, enligt WCA-delegatens bedömning.
@@ -120,19 +120,19 @@ OBS: Eftersom Artikel- och Regelnummer inte omfördelas när Regler raderas kan 
 ## <article-3><puzzles><puzzles> Artikel 3: Pussel
 
 - 3a) Tävlande måste tillhandahålla sina egna pussel för tävlingen.
-    - 3a1) Tävlande måste vara redo att lämna in sina pussel när de kallas (se [Regel 2u](regulations:regulation:2u)).
+    - 3a1) Tävlande måste vara redo att lämna in sina pussel när de kallas (se [regel 2u](regulations:regulation:2u)).
     - 3a2) Pussel måste vara fullt funktionsdugliga, så att normal blandning är möjlig.
     - 3a3) Polyedriska pussel måste använda ett färgschema med en unik färg per sida i löst tillstånd. Varje variation av pusslet måste ha drag, tillstånd och lösningar som är funktionellt identiska med originalpusslet.
-    - 3a4) Pussel får inte ha elektroniska komponenter (t.ex. Bluetooth- eller Wi-Fi-funktioner, motorer, sensorer, lampor). Se [Regel 2i](regulations:regulation:2i).
+    - 3a4) Pussel får inte ha elektroniska komponenter (t.ex. Bluetooth- eller Wi-Fi-funktioner, motorer, sensorer, lampor). Se [regel 2i](regulations:regulation:2i).
 - 3d) Pussel måste ha färgade delar som definierar pusslets färgschema och måste vara en av följande: färgade klistermärken, färgade brickor, färgad plast eller målade/tryckta färger. Alla färgade delar i ett pussel måste vara av liknande material.
     - 3d1) För tävlande med en medicinskt dokumenterad synnedsättning gäller följande undantag:
         - 3d1a) Blinda tävlande får använda pussel med olika texturer på olika sidor. Varje sida ska ha en distinkt färg för att underlätta att blanda och döma.
-        - 3d1b) Färgblinda tävlande som inte kan skilja mellan nödvändigt antal färger får använda färgade delar med mönster, om det uttryckligen har godkänts enligt [Regel 2s](regulations:regulation:2s). Mönster får komma från klistermärken eller ritas.
+        - 3d1b) Färgblinda tävlande som inte kan skilja mellan nödvändigt antal färger får använda färgade delar med mönster, om det uttryckligen har godkänts enligt [regel 2s](regulations:regulation:2s). Mönster får komma från klistermärken eller ritas.
     - 3d2) Färgerna på de färgade delarna måste vara solida med en enhetlig färg per sida. Varje färg måste tydligt skilja sig från de andra färgerna.
 - 3h) Ändringar som ändrar det grundläggande konceptet för ett pussel är inte tillåtna. Modifierade versioner av pussel är endast tillåtna om modifieringen inte gör någon ytterligare information tillgänglig för den tävlande (t.ex. orientering eller identitet av bitar), jämfört med en omodifierad version av samma pussel.
     - 3h1) Konvexa ("pillowed") pussel är tillåtna.
     - 3h2) Pussel vars färgade plast syns inuti pusslet (t.ex. "stickerless" pussel) är tillåtna. Detta inkluderar inte följande pussel:
-        - 3h2a) Pussel med transparenta delar som kan avslöja mer information om pusslens tillstånd. Undantag: Ett klistermärke eller en logotyp (se [Regel 3l](regulations:regulation:3l)).
+        - 3h2a) Pussel med transparenta delar som kan avslöja mer information om pusslens tillstånd. Undantag: Ett klistermärke eller en logotyp (se [regel 3l](regulations:regulation:3l)).
     - 3h3) Eventuella modifieringar av ett pussel som resulterar i dålig prestanda av en tävlande är inte skäl för ytterligare försök.
     - 3h4) För Clock är följande ändringar tillåtna:
         - 3h4a) Anpassade "inserts" (samma form och storlek som de traditionella pappersinsatserna) är tillåtna, enligt WCA-delegatens bedömning.
@@ -140,7 +140,7 @@ OBS: Eftersom Artikel- och Regelnummer inte omfördelas när Regler raderas kan 
         - 3h4c) Anpassningar som särskiljer pins från andra pins på samma sida är tillåtna, efter bedömning av WCA-delegaten.
         - 3h4d) Logotyper var som helst på pusslet, så länge de inre urtavlorna inte täcks.
     - 3h5) För Clock anses inte lösa pins (dvs. pins som kan ändras av tyngdkraften istället för att tryckas direkt) vara rimligt slitage, och pussel med sådana pins får inte tillåtas.
-- 3j) Pussel måste vara rena och får inte ha några märken, förhöjda delar, skador eller andra skillnader som väsentligt skiljer någon bit från en liknande bit. Undantag: en logotyp (se [Regel 3l](regulations:regulation:3l)).
+- 3j) Pussel måste vara rena och får inte ha några märken, förhöjda delar, skador eller andra skillnader som väsentligt skiljer någon bit från en liknande bit. Undantag: en logotyp (se [regel 3l](regulations:regulation:3l)).
     - 3j1) Pussel får ha rimligt slitage, enligt WCA-delegatens bedömning.
         - 3j1a) Slitage bör anses vara rimligt om det är ett resultat av normal användning av pusslet och om det inte ger betydande ytterligare information om pusslets tillstånd (t.ex. om placeringen av specifika bitar).
     - 3j2) Definition: Två delar är liknande om de är identiska i form och storlek, eller speglade i form och identiska i storlek.
@@ -155,7 +155,7 @@ OBS: Eftersom Artikel- och Regelnummer inte omfördelas när Regler raderas kan 
         - 3l1a) För Pyraminx och 2x2x2 får logotypen finnas på vilken bit som helst.
         - 3l1b) För Square-1 måste logotypen vara på en bit i det ekvatoriella mittlagret.
     - 3l2) Logotypen får vara präglad, graverad eller bestå av ett klistermärke.
-- 3m) Alla fabrikat av pussel och pusseldelar är tillåtna, så länge pusslen uppfyller alla WCA-Regler.
+- 3m) Alla fabrikat av pussel och pusseldelar är tillåtna, så länge pusslen uppfyller alla WCA-regler.
 
 
 ## <article-4><scrambling><scrambling> Artikel 4: Blandning
@@ -196,7 +196,7 @@ OBS: Eftersom Artikel- och Regelnummer inte omfördelas när Regler raderas kan 
         - 5b3a) Om delar har fallit ut eller flyttats ur sin plats, får den tävlande placera tillbaka dem.
         - 5b3b) Om den tävlande reparerar pusslet men senare upptäcker att pusslet är olösligt, får hen ta isär och montera om högst 4 bitar för att göra pusslet lösbart.
         - 5b3c) Om pusslet är olösligt och kan göras lösbart genom att rotera en enda hörnbit, får den tävlande korrigera hörnbiten genom att vrida det på plats utan att demontera pusslet.
-    - 5b4) Under en blindfas av ett försök (se [Regel B4](regulations:regulation:B4)), måste alla reparationer göras med ögonbindel. Straff: diskvalificering av försöket (DNF).
+    - 5b4) Under en blindfas av ett försök (se [regel B4](regulations:regulation:B4)), måste alla reparationer göras med ögonbindel. Straff: diskvalificering av försöket (DNF).
     - 5b5) Om delar av pusslet är fysiskt lossade eller inte helt placerade i slutet av lösningen gäller följande regler:
         - 5b5a) Om en eller flera delar utan färgade sidor är påverkade anses pusslet vara löst.
         - 5b5b) Om en del med en färgad sida är påverkad anses pusslet vara löst.
@@ -268,7 +268,7 @@ OBS: Eftersom Artikel- och Regelnummer inte omfördelas när Regler raderas kan 
 - 9i) Resultat från officiella WCA-tävlingar måste listas på WCA:s världsranking.
     - 9i1) WCA erkänner följande typer av regionala rekord: nationsrekord, kontinentrekord, och världsrekord.
     - 9i2) Alla resultat från en omgång anses vara uppnådda på den sista kalenderdagen för omgången. Om ett regionalt rekord slås flera gånger på samma kalenderdatum erkänns endast det bästa resultatet som att ha slagit det regionala rekordet.
-    - 9i3) Om WCA-Reglerna för en gren ändras, gäller befintliga regionala rekord tills de slås under de nya WCA-Reglerna.
+    - 9i3) Om WCA-reglerna för en gren ändras, gäller befintliga regionala rekord tills de slås under de nya WCA-reglerna.
 - 9j) Varje gren måste hållas högst en gång per tävling.
 - 9k) Alla tävlande får delta i alla grenar, utom i fall som särskilt godkänts av WCA Competition Announcement Team.
 - 9l) Varje omgång måste slutföras innan någon efterföljande omgång av samma gren får starta. Undantag: Extra försök får ges när som helst under en tävling för att ersätta ett försök som ursprungligen var ogiltigt.
@@ -282,10 +282,10 @@ OBS: Eftersom Artikel- och Regelnummer inte omfördelas när Regler raderas kan 
     - 9p2) Vilka tävlande som går vidare till nästa omgång måste bestämmas av ranking (bästa X tävlande) eller av resultat (alla tävlande med bättre resultat än X) i föregående omgång.
         - 9p2a) För varje omgång måste villkoren för avancemang meddelas innan omgången startar och bör inte ändras efter att den har börjat. Ändringar får endast göras efter WCA-delegatens bedömning, som noggrant måste överväga rättvisan i förändringen.
     - 9p3) Om en kvalificerad tävlande drar sig ur en omgång får hen ersättas av den bäst rankade icke-kvalificerade tävlande från föregående omgång.
-- 9s) Varje omgång i varje gren måste ha en tidsgräns (se [Regel A1a](regulations:regulation:A1a)).
-- 9t) Om en ändring av en tävlandes resultat görs efter att tävlingen har avslutats (t.ex. på grund av misstag i resultatregistreringen, eller retroaktivt straff), så att den tävlande inte borde ha gått vidare till nästa omgång (eller inte fick delta i omgången) måste alla resultat från denna tävlande för alla efterföljande omgångar tas bort (se [Regel 9u](regulations:regulation:9u)).
-    - 9t1) Om detta gör att en omgång inte längre överensstämmer med [Regel 9p1](regulations:regulation:9p1), får resultat från andra tävlande inte tas bort.
-    - 9t2) Om detta gör att en omgång inte längre överensstämmer med [Regel 9m1](regulations:regulation:9m1), [9m2](regulations:regulation:9m2), eller [9m3](regulations:regulation:9m3), får efterföljande rundor inte tas bort.
+- 9s) Varje omgång i varje gren måste ha en tidsgräns (se [regel A1a](regulations:regulation:A1a)).
+- 9t) Om en ändring av en tävlandes resultat görs efter att tävlingen har avslutats (t.ex. på grund av misstag i resultatregistreringen, eller retroaktivt straff), så att den tävlande inte borde ha gått vidare till nästa omgång (eller inte fick delta i omgången) måste alla resultat från denna tävlande för alla efterföljande omgångar tas bort (se [regel 9u](regulations:regulation:9u)).
+    - 9t1) Om detta gör att en omgång inte längre överensstämmer med [regel 9p1](regulations:regulation:9p1), får resultat från andra tävlande inte tas bort.
+    - 9t2) Om detta gör att en omgång inte längre överensstämmer med [regel 9m1](regulations:regulation:9m1), [9m2](regulations:regulation:9m2), eller [9m3](regulations:regulation:9m3), får efterföljande rundor inte tas bort.
     - 9t3) Om någon ändring görs i en tävlandes resultat, så att en annan tävlande inte borde ha gått vidare till nästa omgång, får inte resultatet av den andra tävlanden tas bort.
 - 9u) En tävling anses vara avslutad om samtliga följande krav uppfylls samtidigt:
     - 9u1) Alla schemalagda omgångar på WCA:s hemsida är avslutade.
@@ -298,9 +298,9 @@ OBS: Eftersom Artikel- och Regelnummer inte omfördelas när Regler raderas kan 
 
 - 10b) Endast pusslets vilotillstånd, efter att timern har stoppats, beaktas.
 - 10c) Pusslet får vara i vilken orientering som helst i slutet av lösningen.
-- 10d) Alla delar av ett pussel måste vara fysiskt fästa vid pusslet och helt placerade i deras positioner. Undantag: se [Regel 5b5](regulations:regulation:5b5).
+- 10d) Alla delar av ett pussel måste vara fysiskt fästa vid pusslet och helt placerade i deras positioner. Undantag: se [regel 5b5](regulations:regulation:5b5).
 - 10e) Ett pussel är löst när alla färgade delar är på sin plats och är justerade inom gränserna som anges nedan:
-    - 10e1) För varje två intilliggande delar i pusslet (t.ex. två parallella, intilliggande lager av en kub) som är feljusterade med mer än den gräns som beskrivs i [Regel 10f](regulations:regulation:10f) anses pusslet kräva ytterligare ett drag att lösa (se "Outer Block Turn Metric" i [Artikel 12](regulations:article:12)).
+    - 10e1) För varje två intilliggande delar i pusslet (t.ex. två parallella, intilliggande lager av en kub) som är feljusterade med mer än den gräns som beskrivs i [regel 10f](regulations:regulation:10f) anses pusslet kräva ytterligare ett drag att lösa (se "Outer Block Turn Metric" i [Artikel 12](regulations:article:12)).
     - 10e2) Om inga ytterligare drag krävs för att få pusslet till dess lösta tillstånd, anses pusslet vara löst utan straff.
     - 10e3) Om ett drag krävs, anses pusslet vara löst med ett tidsstraff (+2 sekunder).
     - 10e4) Om mer än ett drag krävs, anses pusslet vara olöst (DNF).
@@ -320,14 +320,14 @@ OBS: Eftersom Artikel- och Regelnummer inte omfördelas när Regler raderas kan 
     - 11a2) Störningar eller anläggningsavbrott (t.ex. strömavbrott, aktivering av nödlarm).
     - 11a3) Fel på utrustningen.
 - 11b) Om en incident inträffar avgör WCA-delegaten en opartisk och lämplig åtgärd.
-- 11d) Om WCA-Reglerna inte är helt tydliga eller om händelsen inte täcks av WCA-Reglerna, måste WCA-delegaten fatta ett beslut baserat på rättvisa och sportslighet (se även [Regel 11e3](regulations:regulation:11e3)).
+- 11d) Om WCA-reglerna inte är helt tydliga eller om händelsen inte täcks av WCA-reglerna, måste WCA-delegaten fatta ett beslut baserat på rättvisa och sportslighet (se även [regel 11e3](regulations:regulation:11e3)).
 - 11e) WCA-delegaten får bevilja en tävlande ett extra försök som ersätter ett försök som påverkats av en indicent. Den tävlande bör begära ett extra försök muntligen eller skriftligen till domaren och WCA-delegaten vid tidpunkten för incidenten, innan hen avslutar det ursprungliga försöket, för att vara berättigad till ett extra försök. Ett begärande garanterar inte den tävlande ett extra försök.
-    - 11e1) Om en tävlande får ett extra försök måste det extra försöket blandas med en annan blandningssekvens. Denna blandningssekvens måste genereras med en aktuell officiell version av ett officiellt blandnings-program från WCA (se [Regel 4f](regulations:regulation:4f)).
+    - 11e1) Om en tävlande får ett extra försök måste det extra försöket blandas med en annan blandningssekvens. Denna blandningssekvens måste genereras med en aktuell officiell version av ett officiellt blandnings-program från WCA (se [regel 4f](regulations:regulation:4f)).
     - 11e2) Om en tävlande får ett extra försök bör det extra försöket göras direkt efter försöket som orsakade det, och måste ersätta det ursprungliga numrerade försöket.
     - 11e3) Om det är oklart huruvida en incident ska resultera i ett extra försök, får den tävlande beviljas ett provisoriskt extra försök som endast kommer att användas om det senare visar sig att ett extra försök var lämpligt (t.ex. genom ett beslut från WRC).
 - 11f) Beslut om en incident får stödjas med video- eller fotoanalys, enligt WCA-delegatens bedömning.
-- 11g) WCA-delegaten måste se till att kopior av Reglerna och Riktlinjerna finns tillgängliga (t.ex. upptryckta, digitala, eller tillgängliga via internet) för funktionärer och tävlande för vägledning i händelse av incidenter.
-- 11h) En WCA-delegat kan kräva att tävlande som allvarligt bryter mot [Regel 2k3](regulations:regulation:2k3) lämnar tävlingslokalen, med hänsyn till situationens allvar och bästa möjliga handlingssätt. Om den tävlande vägrar att göra det kan hen komma att drabbas av disciplinära åtgärder av WCA.
+- 11g) WCA-delegaten måste se till att kopior av reglerna och riktlinjerna finns tillgängliga (t.ex. upptryckta, digitala, eller tillgängliga via internet) för funktionärer och tävlande för vägledning i händelse av incidenter.
+- 11h) En WCA-delegat kan kräva att tävlande som allvarligt bryter mot [regel 2k3](regulations:regulation:2k3) lämnar tävlingslokalen, med hänsyn till situationens allvar och bästa möjliga handlingssätt. Om den tävlande vägrar att göra det kan hen komma att drabbas av disciplinära åtgärder av WCA.
 
 
 ## <article-12><notation><notation> Artikel 12: Notation
@@ -374,7 +374,7 @@ OBS: Eftersom Artikel- och Regelnummer inte omfördelas när Regler raderas kan 
     - 12h1) Pusslet är orienterat med tre sidor fullt synliga, med övre sidan uppåt.
     - 12h2) Medurs, 120 grader: R (lagret runt det bortersta synliga hörnet längst ner till höger), U (lagret runt det bortersta synliga övre hörnet), L (lagret runt det bortersta synliga hörnet längst ner till vänster), B (lagret runt det bortersta icke synliga hörnet).
     - 12h3) Moturs, 120 grader: R' (lagret runt det bortersta synliga hörnet längst ner till höger), U' (lagret runt det bortersta synliga övre hörnet), L' (lagret runt det bortersta synliga hörnet längst ner till vänster), B' (lagret runt det bortersta icke synliga hörnet).
-- 12i) Definition: Ett drag anses vara varje förändring av pusslets tillstånd enligt notationen som definieras ovan, inklusive feljusteringar som överskrider de gränser som beskrivs i [Regel 10f](regulations:regulation:10f).
+- 12i) Definition: Ett drag anses vara varje förändring av pusslets tillstånd enligt notationen som definieras ovan, inklusive feljusteringar som överskrider de gränser som beskrivs i [regel 10f](regulations:regulation:10f).
 
 
 ## <article-A><speedsolving><speedsolving> Artikel A: Snabblösning
@@ -382,14 +382,14 @@ OBS: Eftersom Artikel- och Regelnummer inte omfördelas när Regler raderas kan 
 - A1) Snabblösningsförsök måste följa följande procedurer.
     - A1a) Arrangörsteamet måste tillämpa minst en typ av tidsgräns (tidsgräns per försök och/eller kumulativ tidsgräns) för varje omgång.
         - A1a1) Standardtidsgränsen är 10 minuter för varje försök i en omgång, men arrangörsteamet får meddela en högre eller lägre tidsgräns per försök. I så fall måste gränsen vara densamma för alla försök i en omgång.
-        - A1a2) För grenar förutom 3x3x3 Minst Antal Drag och 3x3x3 Multi-Blind får arrangörsteamet definiera en kumulativ tidsgräns. Den kumulativa tidsgränsen måste antingen gälla för alla försök i en omgång (t.ex. 3 försök med en kumulativ tidsgräns på 20 minuter) eller för alla försök i en kombination av omgångar för olika grenar. I så fall är tidsgränsen för ett visst försök det lägsta värdet av tidsgränsen, eller den kumulativa tidsgränsen minus den totala tiden i andra försök som hittills räknas mot tidsgränsen (se [Regel A1a5](regulations:regulation:A1a5)). Om en omgång har en kumulativ tidsgräns måste den ha högst en.
+        - A1a2) För grenar förutom 3x3x3 Minst Antal Drag och 3x3x3 Multi-Blind får arrangörsteamet definiera en kumulativ tidsgräns. Den kumulativa tidsgränsen måste antingen gälla för alla försök i en omgång (t.ex. 3 försök med en kumulativ tidsgräns på 20 minuter) eller för alla försök i en kombination av omgångar för olika grenar. I så fall är tidsgränsen för ett visst försök det lägsta värdet av tidsgränsen, eller den kumulativa tidsgränsen minus den totala tiden i andra försök som hittills räknas mot tidsgränsen (se [regel A1a5](regulations:regulation:A1a5)). Om en omgång har en kumulativ tidsgräns måste den ha högst en.
         - A1a3) Tidsgränserna för alla omgångar måste meddelas före tävlingen och bör inte ändras efter att några berörda omgångar har börjat. Ändringar måste göras enligt WCA-delegatens bedömning, som noggrant måste överväga rättvisan i förändringen.
-        - A1a4) Den tävlande måste avsluta varje lösning innan tidsgränsen för försöket nås. Om en tävlandes timer når tidsgränsen för ett försök, stoppar domaren lösningen omedelbart och tilldelar resultatet DNF. Undantag: 3x3x3 Multi-Blind (se [Regel H1b1](regulations:regulation:H1b1)).
+        - A1a4) Den tävlande måste avsluta varje lösning innan tidsgränsen för försöket nås. Om en tävlandes timer når tidsgränsen för ett försök, stoppar domaren lösningen omedelbart och tilldelar resultatet DNF. Undantag: 3x3x3 Multi-Blind (se [regel H1b1](regulations:regulation:H1b1)).
         - A1a5) Tiden som räknas mot tidsgränsen för ett försök är antingen resultatet efter att eventuella straff tillämpats (om resultatet inte var DNF) eller den tid som förflutit i lösningen (om resultatet var DNF).
     - A1b) Om tidsgränsen för ett försök är högre än 10 minuter måste ett stoppur användas för tidtagning.
         - A1b1) Utöver stoppuret måste en Stackmat användas. Undantag: för grenar utan inspektion där den tävlande förväntas överstiga 10 minuter är användning av Stackmat valfritt.
         - A1b2) Om en tid från Stackmat-timern är tillgänglig är det den tid som används. I annat fall (t.ex. om Stackmat-timern inte fungerar, varit igång i mer än 10 minuter, eller inte användes alls) är stoppurets tid den tid som används.
-    - A1c) En tävlande som deltar i en gren måste kunna uppfylla grenens krav (se [Regel 2k6](regulations:regulation:2k6)).
+    - A1c) En tävlande som deltar i en gren måste kunna uppfylla grenens krav (se [regel 2k6](regulations:regulation:2k6)).
 - A2) Blandning:
     - A2a) När en tävlande kallas till en omgång, lämnar den tävlande in pusslet i sitt lösta tillstånd till blandaren. Den tävlande väntar sedan i sitt tilldelade väntområde tills hen kallas att tävla.
     - A2b) En blandare blandar pusslet enligt reglerna i [Artikel 4](regulations:article:4).
@@ -397,24 +397,24 @@ OBS: Eftersom Artikel- och Regelnummer inte omfördelas när Regler raderas kan 
     - A2c) När blandaren har börjat blanda pusslet får den tävlande inte se pusslet förrän inspektionsfasen startar.
         - A2c1) Blandaren placerar ett cube cover över det blandade pusslet som gör det omöjligt för tävlande eller åskådare att se någon del av pusslet. Detta förblir över pusslet till början av försöket.
     - A2d) När domaren tar ett pussel från blandaren inspekterar domaren pusslet kort för att säkerställa en grundlig blandning av pusslet. Domaren tar upp eventuella frågor med blandaren, som sedan utför en detaljerad kontroll.
-        - A2d1) Blandaren eller en auktoriserad domare måste kontrollera det blandade pusslet och signerar resultatkortet för att bekräfta att hen använt den korrekt numrerade blandningssekvensen och kontrollerat att den matchar bilden (se [Regel 4g](regulations:regulation:4g)). Undantag: för 6x6x6, 7x7x7, och Megaminx får blandaren signera för att bekräfta att pusslet bedöms som tillräckligt blandat (se [Regel 4g1](regulations:regulation:4g1)).
+        - A2d1) Blandaren eller en auktoriserad domare måste kontrollera det blandade pusslet och signerar resultatkortet för att bekräfta att hen använt den korrekt numrerade blandningssekvensen och kontrollerat att den matchar bilden (se [regel 4g](regulations:regulation:4g)). Undantag: för 6x6x6, 7x7x7, och Megaminx får blandaren signera för att bekräfta att pusslet bedöms som tillräckligt blandat (se [regel 4g1](regulations:regulation:4g1)).
     - A2e) Domaren placerar pusslet på mattan i en godtycklig orientering samtidigt som hen ser till att det förblir helt täckt.
         - A2e1) Den tävlande får inte begära en specifik orientering, och domaren får inte påverka orienteringen baserat på vad hen vet eller förväntar sig att pusslets tillstånd är.
 - A3) Inspektion:
     - A3a) Den tävlande får inspektera pusslet vid början av varje försök.
         - A3a1) Den tävlande har strikt mindre än 15 sekunder på sig att inspektera pusslet och starta lösningen.
-    - A3b) Domaren förbereder timern genom att sätta på den och nollställa den vid behov. Om en Generation 5 Pro Timer används måste domaren säkerställa att den är i 2-pad-läge. Separat förbereder domaren också ett stoppur för att ta tiden på inspektion (se [Regel A4d](regulations:regulation:A4d)).
-        - A3b1) När domaren tror att den tävlande är redo frågar domaren "READY?". Den tävlande måste vara redo att starta försöket inom en minut från det att hen blir ombedd, annars anses försöket förbrukat (DNS), enligt domarens bedömning.
+    - A3b) Domaren förbereder timern genom att sätta på den och nollställa den vid behov. Om en Generation 5 Pro Timer används måste domaren säkerställa att den är i 2-pad-läge. Separat förbereder domaren också ett stoppur för att ta tiden på inspektion (se [regel A4d](regulations:regulation:A4d)).
+        - A3b1) När domaren tror att den tävlande är redo frågar domaren "REDO?". Den tävlande måste vara redo att starta försöket inom en minut från det att hen blir ombedd, annars anses försöket förbrukat (DNS), enligt domarens bedömning.
         - A3b2) Den tävlande startar försöket med att bekräfta att hen är redo, och domaren avtäcker pusslet och börjar tidtagningen av inspektionen.
-        - A3b3) När 8 sekunder av inspektion har gått, säger domaren "8 SECONDS".
-        - A3b4) När 12 sekunder av inspektion har gått, säger domaren "12 SECONDS".
-        - A3b5) Domaren avlutar tidtagningen av inspektionen så snart den tävlande lyfter händerna och startar timern (se [Regel A4d](regulations:regulation:A4d))
+        - A3b3) När 8 sekunder av inspektion har gått, säger domaren "8 SEKUNDER".
+        - A3b4) När 12 sekunder av inspektion har gått, säger domaren "12 SEKUNDER".
+        - A3b5) Domaren avlutar tidtagningen av inspektionen så snart den tävlande lyfter händerna och startar timern (se [regel A4d](regulations:regulation:A4d))
     - A3c) Den tävlande får plocka upp pusslet under inspektionen.
-        - A3c1) Den tävlande får inte utföra några drag eller medvedna justeringar under inspektion. Straff: diskvalificering av försöket (DNF). Undantag: se [Regel A3c2](regulations:regulation:A3c2) och [Regel A3c5](regulations:regulation:A3c5).
-        - A3c2) Om pusslets delar inte är helt justerade när pusslets cube cover lyfts, får den tävlande justera sidorna, så länge feljusteringar ligger inom gränserna för [Regel 10f](regulations:regulation:10f).
+        - A3c1) Den tävlande får inte utföra några drag eller medvedna justeringar under inspektion. Straff: diskvalificering av försöket (DNF). Undantag: se [regel A3c2](regulations:regulation:A3c2) och [regel A3c5](regulations:regulation:A3c5).
+        - A3c2) Om pusslets delar inte är helt justerade när pusslets cube cover lyfts, får den tävlande justera sidorna, så länge feljusteringar ligger inom gränserna för [regel 10f](regulations:regulation:10f).
         - A3c3) Den tävlande får återställa timern innan lösningen påbörjas.
-        - A3c4) I Square-1, om arrangörsteamet krävt att ett tunt föremål placeras inuti pusslet (se [Regel A2b1](regulations:regulation:A2b1)), får den tävlande ta bort föremålet från pusslet under inspektion.
-        - A3c5) För Square-1, bör den tävlande inte straffas för något oavsiktligt drag som görs inom gränserna för [Regel 10f](regulation:regulation:10f).
+        - A3c4) I Square-1, om arrangörsteamet krävt att ett tunt föremål placeras inuti pusslet (se [regel A2b1](regulations:regulation:A2b1)), får den tävlande ta bort föremålet från pusslet under inspektion.
+        - A3c5) För Square-1, bör den tävlande inte straffas för något oavsiktligt drag som görs inom gränserna för [regel 10f](regulation:regulation:10f).
     - A3d) I slutet av inspektionen placerar den tävlande pusslet på mattan, i vilken orientering som helst. Straff för att placera det utanför mattan: tidsstraff (+2 sekunder).
 - A4) Starta lösningen:
     - A4b) Den tävlande använder fingrarna för att röra vid de upphöjda sensorytorna på Stackmat-timern. Den tävlandes handflator måste vara vända nedåt och placeras på den sida av timern som är närmast sig. Straff: tidsstraff (+2 sekunder).
@@ -426,8 +426,8 @@ OBS: Eftersom Artikel- och Regelnummer inte omfördelas när Regler raderas kan 
     - A4e) Tidsstraff för starten av lösningen är kumulativa.
 - A5) Under lösningen:
     - A5a) Under inspektion eller lösning av pusslet får den tävlande inte kommunicera med någon annan än domaren eller WCA-delegaten. Straff: diskvalificering av försöket (DNF). Undantag: Om den tävlande inte får någon fördel genom att kommunicera med någon annan än domaren eller WCA-delegaten, kan resultatet kvarstå, enligt WCA-delegatens bedömning.
-    - A5b) Under inspektion eller lösning av pusslet får den tävlande inte få hjälp från någon eller något annat än ytan (se även [Regel 2i](regulations:regulation:2i)). Straff: diskvalificering av försöket (DNF).
-    - A5c) Den tävlande får hålla pusslet mot ytan för att underlätta hanteringen av pusslet (se [Regel 7f1d](regulations:regulation:7f1d)).
+    - A5b) Under inspektion eller lösning av pusslet får den tävlande inte få hjälp från någon eller något annat än ytan (se även [regel 2i](regulations:regulation:2i)). Straff: diskvalificering av försöket (DNF).
+    - A5c) Den tävlande får hålla pusslet mot ytan för att underlätta hanteringen av pusslet (se [regel 7f1d](regulations:regulation:7f1d)).
 - A6) Avsluta lösningen:
     - A6a) Den tävlande släpper pusslet innan hen avslutar lösningen, och avslutar lösningen genom att stoppa timern. Om ett stoppur används stoppar domaren stoppuret så snart den tävlande gör detta.
     - A6b) Den tävlande är ansvarig för att stoppa Stackmat-timern på ett korrekt sätt.
@@ -437,7 +437,7 @@ OBS: Eftersom Artikel- och Regelnummer inte omfördelas när Regler raderas kan 
     - A6d) Den tävlande måste stoppa Stackmat-timern med båda händerna, platt placerade på sensorerna med handflatorna nedåt. Straff: tidsstraff (+2 sekunder).
     - A6e) Efter att ha stoppat timern får den tävlande inte röra pusslet, göra drag, eller göra några justeringar, förrän domaren har inspekterat pusslet.
         - A6e1) Straff för att göra ett drag på pusslet efter att ha stoppat timern: diskvalificering av försöket (DNF).
-        - A6e2) Straff för att röra pusslet efter att ha stoppat timern utan att göra några drag: tidsstraff (+2 sekunder). Undantag: om den tävlande omedelbart efter att ha stoppat timern nuddar pusslet utan att påverka dess tillstånd får tidsstraffet upphävas, enligt domarens bedömning (se [Regel 11f](regulations:regulation:11f)).
+        - A6e2) Straff för att röra pusslet efter att ha stoppat timern utan att göra några drag: tidsstraff (+2 sekunder). Undantag: om den tävlande omedelbart efter att ha stoppat timern nuddar pusslet utan att påverka dess tillstånd får tidsstraffet upphävas, enligt domarens bedömning (se [regel 11f](regulations:regulation:11f)).
     - A6f) Den tävlande får inte nollställa timern förrän både den tävlande och domaren har signerat resultatkortet. Straff: diskvalificering av försöket (DNF), enligt domarens bedömning.
         - A6f1) Om den tävlande nollställer timern innan resultatet har antecknats i sin helhet, får domaren inte anteckna resultatet från minnet eller från video- eller fotobevis, utan måste diskvalificera försöket (DNF).
     - A6g) Domaren avgör om pusslet är löst. Om pusslet är feljusterat får det inte röras förrän domaren har fastställt dess slutliga tillstånd.
@@ -452,30 +452,30 @@ OBS: Eftersom Artikel- och Regelnummer inte omfördelas när Regler raderas kan 
         - A7c1) Om den tävlande eller domaren vägrar att acceptera och signera resultatkortet måste WCA-delegaten lösa dispyten.
         - A7c2) Om den tävlande avsiktligen signerar (eller på annat sätt markerar) ett försök innan det har påbörjats, förbrukar hen försöket och resultatet bedöms som DNS.
         - A7c3) Om den tävlande signerar (eller på annat sätt markerar) ett försök efter att ha startat försöket men innan domaren har avslutat antecknandet av resultatet, bedöms försöket som oavslutat (DNF).
-        - A7c4) Den tävlande bör inte signera ett försök innan domaren har antecknat resultatet och signerat försöket. Den tävlande är ytterst ansvarig för att hen och domaren har signerat ett försök. Om det visar sig att ett försök saknar en eller båda signaturerna efter att domaren lämnat resultatkortet till resultatregistreraren (se [Regel A7f](regulations:regulation:A7f)), bedöms försöket som oavslutat (DNF).
-        - A7c5) Saknade signaturer som upptäcks före tävlingens slut (se [Regel 9u](regulations:regulation:9u)) får läggas till av domaren och/eller den tävlande, enligt WCA-delegatens bedömning.
+        - A7c4) Den tävlande bör inte signera ett försök innan domaren har antecknat resultatet och signerat försöket. Den tävlande är ytterst ansvarig för att hen och domaren har signerat ett försök. Om det visar sig att ett försök saknar en eller båda signaturerna efter att domaren lämnat resultatkortet till resultatregistreraren (se [regel A7f](regulations:regulation:A7f)), bedöms försöket som oavslutat (DNF).
+        - A7c5) Saknade signaturer som upptäcks före tävlingens slut (se [regel 9u](regulations:regulation:9u)) får läggas till av domaren och/eller den tävlande, enligt WCA-delegatens bedömning.
     - A7f) När en tävlandes resultatkort för en omgång är komplett levererar domaren resultatkortet till resultatregistreraren.
     - A7g) Enligt WCA-delegatens bedömning får en incident eller ett straff som orsakats av en tävlandes oerfarenhet ersättas med ett extra försök.
 
 
 ## <article-B><blindfolded><blindfoldedsolving> Artikel B: Blindlösning
 
-- B1) Standardprocedurerna för snabblösning följs som beskrivet i [Artikel A](regulations:article:A) (Snabblösning). Ytterligare regler som ersätter motsvarande procedurer i [Artikel A](regulations:article:A) finns beskrivna nedan. ([Regel Y7](regulations:regulation:Y7) har prioritet över delar av procedurerna).
+- B1) Standardprocedurerna för snabblösning följs som beskrivet i [Artikel A](regulations:article:A) (Snabblösning). Ytterligare regler som ersätter motsvarande procedurer i [Artikel A](regulations:article:A) finns beskrivna nedan. ([regel Y7](regulations:regulation:Y7) har prioritet över delar av procedurerna).
     - B1a) Det finns ingen inspektionsfas (dvs. lösningen startar samtidigt som försöket).
     - B1b) Den tävlande tillhandahåller sin egen ögonbindel.
 - B2) Starta försöket:
-    - B2a) Domaren återställer timern/timrarna enligt [Regel A3b](regulations:regulation:A3b) och indikerar att hen är redo för den tävlande att starta försöket (t.ex. genom att placera pusslet i sitt cube cover framför den tävlande, säga "READY", eller ge tummen upp). Tävlande måste starta försöket inom en minut, annars förbrukas försöket (DNS), enligt domarens bedömning ([Regel Y7d1](regulations:regulation:Y7d1) har högre prioritet).
-    - B2b) Vid användning av Stackmat-timern använder den tävlande fingrarna för att röra vid de upphöjda sensorytorna på timern. Den tävlandes handflator måste vara vända nedåt och placeras på den sida av timern som är närmast sig. Straff: tidsstraff (+2 sekunder).
-    - B2c) Vid användning av Stackmat-timern får den tävlande inte ha någon fysisk kontakt med pusslet eller dess cube cover när hen startar försöket. Straff: tidsstraff (+2 sekunder).
-    - B2d) Vid användning av Stackmat-timern bör den tävlande hålla händerna på timern tills hen ser en grön lampa på timern. Timern startas när hen tar bort sina händer från timern. Den tävlande startar försöket och lösningen genom att starta timern.
+    - B2a) Domaren återställer timern/timrarna enligt [regel A3b](regulations:regulation:A3b) och indikerar att hen är redo för den tävlande att starta försöket (t.ex. genom att placera pusslet i sitt cube cover framför den tävlande, säga "REDO", eller ge tummen upp). Tävlande måste starta försöket inom en minut, annars förbrukas försöket (DNS), enligt domarens bedömning ([regel Y7d1](regulations:regulation:Y7d1) har högre prioritet).
+    - B2b) Vid användning av Stackmat-timer använder den tävlande fingrarna för att röra vid de upphöjda sensorytorna på timern. Den tävlandes handflator måste vara vända nedåt och placeras på den sida av timern som är närmast sig. Straff: tidsstraff (+2 sekunder).
+    - B2c) Vid användning av Stackmat-timer får den tävlande inte ha någon fysisk kontakt med pusslet eller dess cube cover när hen startar försöket. Straff: tidsstraff (+2 sekunder).
+    - B2d) Vid användning av Stackmat-timer bör den tävlande hålla händerna på timern tills hen ser en grön lampa på timern. Timern startas när hen tar bort sina händer från timern. Den tävlande startar försöket och lösningen genom att starta timern.
         - B2d1) Den tävlande tar bort pusslets cube cover efter att ha startat timern.
         - B2d2) Om ett stoppur används utöver Stackmat-timern, startar domaren stoppuret så snart den tävlande startar lösningen.
     - B2f) Vid användning av ett stoppur som enda tidtagning bekräftar den tävlande att hen är redo och startar lösningen genom att lyfta pusslets cube cover. Domaren startar stoppuret så snart den tävlande startar lösningen.
 - B3) Memoreringsfas:
     - B3a) Den tävlande får plocka upp pusslet under memoreringsfasen.
     - B3b) Den tävlande får inte göra fysiska anteckningar. Straff: diskvalificering av försöket (DNF).
-    - B3c) Den tävlande får inte göra några drag eller medvetna justeringar (se [Regel A3c2](regulations:regulation:A3c2)) på pusslet under memoreringsfasen. Straff: diskvalificering av försöket (DNF).
-    - B3d) Om delarna av pusslet inte är helt justerade får den tävlande justera sidorna, så länge feljusteringarna ligger inom gränserna för [Regel 10f](regulations:regulation:10f) (se [Regel A3c2](regulations:regulation:A3c2)).
+    - B3c) Den tävlande får inte göra några drag eller medvetna justeringar (se [regel A3c2](regulations:regulation:A3c2)) på pusslet under memoreringsfasen. Straff: diskvalificering av försöket (DNF).
+    - B3d) Om delarna av pusslet inte är helt justerade får den tävlande justera sidorna, så länge feljusteringarna ligger inom gränserna för [regel 10f](regulations:regulation:10f) (se [regel A3c2](regulations:regulation:A3c2)).
 - B4) Blindfas:
     - B4a) Den tävlande tar på sig ögonbindeln för att starta blindfasen.
         - B4a1) Till dess att den tävlande gör det första draget på pusslet får hen ta av ögonbindeln för att återgå till memoreringsfasen.
@@ -498,7 +498,7 @@ OBS: Eftersom Artikel- och Regelnummer inte omfördelas när Regler raderas kan 
     - C1b) Under lösningen får tävlande endast använda en hand för att hantera pusslet. Straff: diskvalificering av försöket (DNF).
         - C1b2) Om en pusseldefekt inträffar och den tävlande väljer att reparera pusslet, måste hen reparera det med enbart lösningshanden. Straff: diskvalificering av försöket (DNF).
         - C1b3) Om andra kroppsdelar kommer i kontakt med pusslet (eller delar av pusslet) utan den tävlandes avsikt och utan att göra drag, räknas detta inte som att hantera pusslet, enligt domarens bedömning.
-        - C1b4) Under lösningen får den tävlande hålla pusslet mot ytan för att hjälpa till att hantera pusslet (se [Regel 7f1d](regulations:regulation:7f1d)).
+        - C1b4) Under lösningen får den tävlande hålla pusslet mot ytan för att hjälpa till att hantera pusslet (se [regel 7f1d](regulations:regulation:7f1d)).
     - C1c) När en tävlande under lösningen en gång hanterat pusslet med ena handen får hen inte hantera pusslet med den andra handen. Straff: diskvalificering av försöket (DNF).
 
 
@@ -506,17 +506,17 @@ OBS: Eftersom Artikel- och Regelnummer inte omfördelas när Regler raderas kan 
 
 - E2) Procedur för 3x3x3 Minst Antal Drag:
     - E2a) Domaren distribuerar en blandningssekvens och papper till alla tävlande. Domaren startar sedan stoppuret och säger "GO".
-        - E2a1) Innan försöket har börjat får tävlande inte skriva på något papper som är avsett för försöket. Undantag: tävlande får skriva information för att identifiera försöket (se [Regel E2c1](regulations:regulation:E2c1)). Om denna information skrivs på papperet som innehåller blandningssekvensen, får de tävlande endast skriva på sidan utan blandningssekvensen innan försöket. Straff för att skriva något annat än information för att identifiera försöket: diskvalificering av försöket (DNF).
+        - E2a1) Innan försöket har börjat får tävlande inte skriva på något papper som är avsett för försöket. Undantag: tävlande får skriva information för att identifiera försöket (se [regel E2c1](regulations:regulation:E2c1)). Om denna information skrivs på papperet som innehåller blandningssekvensen, får de tävlande endast skriva på sidan utan blandningssekvensen innan försöket. Straff för att skriva något annat än information för att identifiera försöket: diskvalificering av försöket (DNF).
     - E2b) Alla tävlande har en total tidsgräns på 60 minuter för att hitta och skriva en lösning.
         - E2b1) Domaren bör säga "5 MINUTES REMAINING" efter 55 minuter, och måste säga "STOP" efter 60 minuter.
     - E2c) Efter 60 minuter måste varje tävlande lämna in ett enda papper med en skriftlig lösning och information för att identifiera försöket till domaren.
         - E2c1) Information för att identifiera försöket är: den tävlandes namn, WCA-ID eller ID för tävlingsregistreringen (minst ett), och eventuellt tävlingsnamn, omgång, eller försöknummer. Straff för en inlämnad lösning utan namn, WCA-ID eller ID för tävlingsregistreringen: diskvalificering av försöket (DNF).
         - E2c2) Lösningen måste vara en enda entydig dragsekvens med varje enskilt drag skrivet i sekventiell ordning. Straff för en tvetydig lösning: diskvalificering av försöket (DNF).
         - E2c3) Den tävlande bör tydligt stryka över alla drag på pappret som inte ingår i deras avsedda lösning.
-        - E2c4) Den tävlandes lösning får endast använda drag som är exakt definierade som notation för 3x3x3 i [Regel 12a](regulations:regulation:12a), och får inte använda några symboler eller kombinationer av symboler som inte specifikt definieras där. Straff: diskvalificering av försöket (DNF).
+        - E2c4) Den tävlandes lösning får endast använda drag som är exakt definierade som notation för 3x3x3 i [regel 12a](regulations:regulation:12a), och får inte använda några symboler eller kombinationer av symboler som inte specifikt definieras där. Straff: diskvalificering av försöket (DNF).
         - E2c5) Om man startar med ett löst pussel och applicerar blandningssekvensen och därefter lösningen, ska detta resultera i ett löst pussel för att den tävlandes lösning ska anses vara korrekt. Straff för felaktig lösning: diskvalificering av försöket (DNF).
-    - E2d) Den tävlandes resultat är antalet drag i lösningen, beräknat med Outer Block Turn Metric (se [Regel 12a5](regulations:regulation:12a5)).
-        - E2d1) Den tävlandes lösning får inte överstiga 80 drag (inklusive rotationer) när den beräknas med Execution Turn Metric (se [Regel 12a6](regulations:regulation:12a6)). Straff: diskvalificering av försöket (DNF).
+    - E2d) Den tävlandes resultat är antalet drag i lösningen, beräknat med Outer Block Turn Metric (se [regel 12a5](regulations:regulation:12a5)).
+        - E2d1) Den tävlandes lösning får inte överstiga 80 drag (inklusive rotationer) när den beräknas med Execution Turn Metric (se [regel 12a6](regulations:regulation:12a6)). Straff: diskvalificering av försöket (DNF).
     - E2e) Den tävlandes lösning får inte härledas direkt från någon del av blandningssekvensen. Straff: diskvalificering av försöket (DNF), enligt WCA-delegatens bedömning.
         - E2e1) WCA-delegaten får be den tävlande att förklara syftet med varje drag i sin lösning. Om den tävlande inte kan ge en giltig förklaring diskvalificeras försöket (DNF).
 - E3) Den tävlande får använda följande objekt under försöket. Straff för att använda otillåtna objekt: diskvalificering av försöket (DNF).
@@ -524,7 +524,7 @@ OBS: Eftersom Artikel- och Regelnummer inte omfördelas när Regler raderas kan 
     - E3b) 3x3x3-kuber (högst 3, tillhandahålls av den tävlande), som måste vara enligt beskrivningen i [Artikel 3](regulations:article:3) innan försöket påbörjas.
     - E3c) Klisterlappar (tillhandahålls av den tävlande)
     - E3d) Stoppur eller klocka (tillhandahålls av den tävlande) för att hålla reda på förfluten tid, om det godkänns av WCA-delegaten.
-    - E3e) Andra icke-elektroniska hjälpmedel som inte ger en orättvis fördel, enligt WCA-delegatens bedömning (se [Regel 2i1](regulations:regulation:2i1)).
+    - E3e) Andra icke-elektroniska hjälpmedel som inte ger en orättvis fördel, enligt WCA-delegatens bedömning (se [regel 2i1](regulations:regulation:2i1)).
     - E3f) Material för att ta bort anteckningar (tillhandahålls av den tävlande), såsom korrigeringsvätska, korrigeringstejp eller suddgummin.
 - E4) WCA-delegaten får välja att publicera lösningarna (t.ex. foto av resultatblad eller transkriptioner av lösningar).
 - E5) Den tävlande får inte kommunicera med någon annan än WCA-delegaten eller domaren. Denna kommunikation ska handla om WCA-reglerna och den tävlande får inte ta emot hjälp med att härleda sin lösning. Straff: diskvalificering av försöket (DNF).
@@ -549,4 +549,4 @@ OBS: Eftersom Artikel- och Regelnummer inte omfördelas när Regler raderas kan 
         - H1b1) Den tävlande får när som helst signalera slutet på lösningen. Om och när tidsgränsen har uppnåtts, stoppar domaren försöket och resultatet beräknas; tidsgränsen för försöket räknas då som den uppmätta tiden.
     - H1d) Tidsstraff för försökets pussel är kumulativa.
     - H1e) Den tävlande får inte göra några drag på ett eller flera pussel under memoreringsfasen. Straff: diskvalificering av försöket (DNF). Undantag: dessa enskilda pussel får anses vara olösta i slutet av försöket i stället för att diskvalificera hela försöket, enligt WCA-delegatens bedömning.
-- H2) Den tävlande får själv tillhandahålla ett platt underlag (t.ex. en matta eller en tygbit) för ytan, enligt WCA-delegatens bedömning. Om den tävlande vill göra det måste begäran göras samtidigt som antalet pussel meddelas (se [Regel H1a](regulations:regulation:H1a)).
+- H2) Den tävlande får själv tillhandahålla ett platt underlag (t.ex. en matta eller en tygbit) för ytan, enligt WCA-delegatens bedömning. Om den tävlande vill göra det måste begäran göras samtidigt som antalet pussel meddelas (se [regel H1a](regulations:regulation:H1a)).
