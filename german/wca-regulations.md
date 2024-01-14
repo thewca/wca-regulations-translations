@@ -453,25 +453,25 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 		- A7c4) Der Teilnehmer sollte einen Versuch nicht unterschreiben, bevor der Judge das Ergebnis aufgeschrieben und unterschrieben hat. Der Teilnehmer trägt letztendlich die Verantwortung dafür sicherzustellen, dass er und der Judge den Versuch unterschrieben haben. Wenn festgestellt wird, dass ein Versuch eine oder zwei fehlende Unterschrift hat, nachdem der Judge das Scoresheet dem Scoretaker übergeben hat (siehe [Regulation A7f](regulations:regulation:A7f)), wird dieser als unbeendet gewertet (DNF).
 		- A7c5) Fehlende Unterschriften, die vor dem Ende des Wettbewerbs entdeckt werden (siehe [Regel 9u](regulations:regulation:9u)), können nachträglich noch vom Judge und/oder Teilnehmer unterschrieben werden (nach Ermessen des WCA-Delegierten).
 	- A7f) Ist das Scoresheet eines Teilnehmers für eine Runde vollständig, so übergibt der Judge das Scoresheet an den Scoretaker.
-	- A7g) Nach Ermessen des WCA-Delegierten dürfen Zwischenfälle oder Zeitstrafen, die durch fehlende Erfahrung des Teilnehmers verursacht werden, durch einen Extraversuch ersetzt werden.<ToDo ab hier>
+	- A7g) Nach Ermessen des WCA-Delegierten dürfen Zwischenfälle oder Zeitstrafen, die durch fehlende Erfahrung des Teilnehmers verursacht werden, durch einen Extraversuch ersetzt werden.
 
 ## <article-B><blindfolded><blindfoldedsolving> Abschnitt B: Blindlösen
 
-- B1) Die Standardprozedur wird wie in [Abschnitt A](regulations:article:A) beschrieben befolgt. Zusätzliche Regeln für das Blindlösen, die vorherige Regeln ersetzen, sind im Folgenden beschrieben (teilweise durch [Regel Y7](regulations:regulation:Y7) ersetzt).
-	- B1a) Es gibt keine Inspektionsphase.
+- B1) Die Standardprozedur wird wie in [Abschnitt A](regulations:article:A) beschrieben befolgt. Zusätzliche Regeln für das Blindlösen, die vorherige Regeln ersetzen, sind im Folgenden beschrieben.
+	- B1a) Es gibt keine Inspektionsphase (d.h. der Solve startet zeitgleich mit dem Beginn des Versuchs).
 	- B1b) Die Teilnehmer müssen ihre eigene Augenbinde mitbringen.
 - B2) Beginn des Versuchs:
-	- B2a) Der Judge setzt den/die Timer zurück und gibt dem Teilnehmer zu erkennen, dass dieser seinen Versuch beginnen kann (z.B. er sagt "READY“, er stellt das abgedeckte Puzzle vor den Teilnehmer, er gibt einen Daumen hoch). Der Teilnehmer muss innerhalb von einer Minute, nachdem er aufgerufen wurde, bereit sein, seinen Versuch zu starten. Andernfalls verfällt sein Versuch (DNS) nach Ermessen des Judges (teilweise durch [Regel Y7d1](regulations:regulation:Y7d1) ersetzt).
-	- B2b) Der Teilnehmer benutzt seine Finger, um die Sensorflächen des Timers zu berühren. Die Handflächen des Teilnehmers müssen dabei nach unten gerichtet und auf der Seite des Timers sein, die näher zu ihm ist. Strafe: Zeitstrafe (+2 Sekunden).
-	- B2c) Der Teilnehmer darf keinen physischen Kontakt mit dem Puzzle haben bevor die Lösungsphase beginnt. Strafe: 2 Sekunden.
-	- B2d) Der Teilnehmer beginnt den Versuch, indem er die Hände vom Timer nimmt (dies startet auch den Solve).
-		- B2d1) Der Teilnehmer nimmt die Abdeckung vom Puzzle, nachdem er den Timer gestartet hat.
-	- B2e) Falls zusätzlich zum Stackmat Timer eine Stoppuhr benutzt wird, startet der Judge diese, wenn der Teilnehmer den Solve beginnt.
-	- B2f) Falls eine Stoppuhr als einziger Timer verwendet wird, platziert der Teilnehmer seine Hände auf dem Tisch (anstatt auf dem Stackmat Timer). Nachdem der Teilnehmer seine Bereitschaft bestätigt hat, startet der Teilnehmer den Solve, indem er die Abdeckung abhebt. Der Judge startet die Stoppuhr sobald der Teilnehmer den Solve startet.
-- B3) Memorisierungsphase (Einprägephase)
+	- B2a) Der Judge setzt den/die Timer zurück und gibt dem Teilnehmer zu erkennen, dass dieser seinen Versuch beginnen kann (z.B. er sagt "READY“, er stellt das abgedeckte Puzzle vor den Teilnehmer, er gibt einen Daumen hoch). Der Teilnehmer muss innerhalb von einer Minute, nachdem er aufgerufen wurde, bereit sein, seinen Versuch zu starten. Andernfalls verfällt sein Versuch (DNS) nach Ermessen des Judges.
+	- B2b) Wenn ein Stackmat Timer verwendet wird, benutzt der Teilnehmer seine Finger, um die Sensorflächen des Timers zu berühren. Die Handflächen des Teilnehmers müssen dabei nach unten gerichtet und auf der Seite des Timers sein, die näher zu ihm ist. Strafe: Zeitstrafe (+2 Sekunden).
+	- B2c) Wenn ein Stackmat Timer verwendet wird, darf der Teilnehmer keinen physischen Kontakt mit dem Puzzle oder der Abdeckung haben, bevor der Versuch beginnt. Strafe: Zeitstrafe (+2 Sekunden).
+	- B2d) Wenn ein Stackmat Timer verwendet wird, sollte der Teilnehmer seine Hände auf dem Timer lassen, bis ein grünes Licht zu sehen ist. Der Timer wird gestartet, wenn die Hand / Hände vom Timer genommen werden. Der Teilnehmer startet den Versuch und den Solve mit dem Starten des Timers.
+    	- B2d1) Der Teilnehmer nimmt die Abdeckung vom Puzzle, nachdem er den Timer gestartet hat.
+        - B2d2) Falls zusätzlich zum Stackmat Timer eine Stoppuhr benutzt wird, startet der Judge diese, wenn der Teilnehmer den Solve beginnt.
+	- B2f) Falls eine Stoppuhr als einziger Timer verwendet wird, signalisiert der Teilnehmer, dass er bereit ist und startet den Solve mit dem Abheben der Abdeckung. Der Judge startet die Stoppuhr sobald der Teilnehmer den Solve startet.
+- B3) Memorisierungsphase (Einprägephase):
 	- B3a) Während der Memorisierungsphase und Lösens darf der Teilnehmer das Puzzle in die Hand nehmen.
 	- B3b) Der Teilnehmer darf keine Notizen machen. Strafe: Disqualifikation des Versuchs (DNF).
-	- B3c) Der Teilnehmer darf während der Memorisierungsphase keine Züge machen. Strafe: Disqualifikation des Versuchs (DNF).
+	- B3c) Der Teilnehmer darf während der Memorisierungsphase keine Züge machen oder absichtlich Änderungen in der Ausrichtung des Puzzles vornehmen (siehe [Regel A3c2](regulations:regulation:A3c2)). Strafe: Disqualifikation des Versuchs (DNF).
 	- B3d) Sofern Teile des Puzzle nicht korrekt ausgerichtet sind, darf der Teilnehmer die betroffenen Ebenen ausrichten, solange die Fehlausrichtung innerhalb der Grenzen von [Regel 10f](regulations:regulation:10f) bleibt (siehe [Regel A3c2](regulations:regulation:A3c2)).
 - B4) Blindlösephase des Versuchs
 	- B4a) Der Teilnehmer legt die Augenbinde an, um die Blindlösephase zu starten.
@@ -483,7 +483,9 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 	- B4d) Der Teilnehmer darf das Puzzle während der gesamten Blindlösephase nicht ansehen. Strafe: Disqualifikation des Versuchs (DNF).
 - B5) Ende des Versuchs
 	- B5a) Falls ein Stackmat Timer benutzt wird, beendet der Teilnehmer die Lösungsphase indem er das Puzzle loslässt und den Timer stoppt.
-	- B5b) Falls eine Stoppuhr benutzt wird, beendet der Teilnehmer die Lösungsphase indem er das Puzzle loslässt und den Judge informiert, dass der Versuch beendet ist. In diesem Moment stoppt der Judge die Stoppuhr.
+        - B5a1) Wenn zusätzlich zum Stackmat Timer eine Stoppuhr verwendet wird, stoppt der Judge die Stoppuhr sobald der Teilnehmer den Solve beendet.
+    - B5b) Wenn eine Stopuhr als einziger Timer verwendet wird, beendet der Teilnehmer den Solve indem er das Puzzle loslässt und dem Judge signalisiert, dass der Solve beendet wird. Sobald der Teilnehmer dies getan hat, stoppt der Judge die Stoppuhr.
+        - B5b1) Das Standard-Benachrichtungssignal des Teilnehmers besteht darauf, das / die Puzzle(s) loszulassen und die Hände mit den Handflächen nach unten auf die Oberfläche zu legen. Der Teilnehmer und der Judge dürfen sich vor dem Beginn des Versuchs auf ein anderes angemessenes Signal verständigen.
 	- B5c) Falls der Teilnehmer das Puzzle nicht berührt, darf er die Augenbinde abnehmen, bevor der Timer gestoppt ist. Er darf das Puzzle bis zum Ende des Versuchs nicht mehr berühren. Strafe für das Berühren des Puzzles: Disqualifikation des Versuchs (DNF).
 
 ## <article-C><one-handed><onehandedsolving> Abschnitt C: Einhändiglösen
@@ -513,22 +515,21 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 	- E2e) Die Lösung des Teilnehmers darf nicht direkt von Teilen des Scrambles abgeleitet worden sein. Strafe: Disqualifikation des Versuchs (DNF), nach Ermessen des WCA-Delegieren.
 		- E2e1) Der WCA-Delegierte darf einen Teilnehmer bitten den Zweck jedes Zugs seiner Lösung zu erklären, unabhängig vom Scrambling Algorithmus. Kann ein Teilnehmer keine zufriedenstellende Erklärung liefern, so wird der Versuch disqualifiziert (DNF).
 - E3) Der Teilnehmer darf die folgenden Objekte benutzen. Strafe für das Benutzen weiterer Objekte: Disqualifikation des Versuchs (DNF).
-	- E3a) Papier (vom Judge bereitgestellt) und Stift (vom Judge bereitgestellt oder optional selbst mitgebracht).
-	- E3b) 3x3x3 Cubes (maximal 3, selbst bereitgestellt), wie in [Artikel 3](regulations:article:3) erklärt.
+	- E3a) Papier (vom Judge bereitgestellt), der Papierbogen zum Eintragen der Lösung (vom Judge bereitgestellt), ein Bild des Scrambles für diesen Versuch (welches auf dem Papier oder Lösungsbogen vorhanden sein kann), und Stift(e) (vom Judge bereitgestellt oder optional selbst mitgebracht).
+	- E3b) 3x3x3 Cubes (maximal 3, selbst bereitgestellt), welche vor Beginn des Versuchs wie in [Artikel 3](regulations:article:3) erklärt beschaffen sein müssen.
 	- E3c) Aufkleber (selbst mitgebracht).
 	- E3d) Stoppuhr oder Uhr (selbst mitgebracht), um die abgelaufene Zeit zu verfolgen, wenn dies durch den WCA-Delegierten genehmigt ist.
 	- E3e) Andere nicht-elektronische Hilfsmittel, die keinen unfairen Vorteil erzeugen, nach Ermessen des WCA-Delegierten (siehe [Regel 2i1](regulations:regulation:2i1)).
 	- E3f) Werkzeuge, um Markierungen zu entfernen (selbst mitgebracht, z.B. Korrekturlösungen, Korrekturtapes, Radiergummis).
 - E4) Der WCA-Delegierte darf sich dazu entscheiden, die Lösungen zu veröffentlichen (z.B. durch ein Foto des Scoresheets oder Transkripte der Lösungen).
+- E5) Der Teilnehmer darf mit niemandem außer dem WCA-Delegierten oder dem Judge kommunizieren. Diese Kommunikation sollte sich auf das WCA-Regelwerk beziehen und der Teilnehmer darf keine Hilfe bei der Herleitung seiner Lösung erhalten. Strafe: Disqualifikation des Versuchs (DNF).
 
 ## <article-F><clock><clocksolving> Abschnitt F: Clock
 
-- F1) Die Standardprozedur wird wie in [Abschnitt A](regulations:article:A) beschrieben befolgt. Zusätzliche Regeln für das Lösen der Clock, die entsprechende Regeln in Artikel A ersetzen, werden im Folgenden beschrieben.
-- F2) Der Judge positioniert das Puzzle auf der Stackmat in einer aufrechten Position.
-	- F2a) Das Organisationsteam darf einen Ständer für das Puzzle benutzen, um es daran zu hindern, vor dem Beginn des Versuchs umzufallen. Wenn solche Ständer benutzt werden sollen, sollte das Organisationsteam die Teilnehmer vor Beginn der Runde darüber informieren.
-		- F2a1) Der Judge muss den Ständer unverzüglich von der Matte entfernen, sobald der Teilnehmer das Puzzle davon aufhebt.
-- F3) Nach der Inspektion legt der Teilnehmer das Puzzle auf die Stackmat in einer aufrechten Position. Strafe: Disqualifikation des Versuchs (DNF).
-	- F3a) Der Teilnehmer darf die Position irgendeines Pins vor Beginn des Versuchs nicht verändern. Strafe: Disqualifikation des Versuchs (DNF).
+- F1) Die Standardprozedur wird wie in [Abschnitt A](regulations:article:A) beschrieben befolgt. Zusätzliche Regeln für das Lösen der Clock, die entsprechende Regeln in [Abschnitt A](regulations:article:A) ersetzen, werden im Folgenden beschrieben.
+- F2) Das Organisationsteam darf einen Ständer für das Puzzle benutzen, um es daran zu hindern, vor dem Beginn des Versuchs umzufallen. Wenn solche Ständer benutzt werden sollen, sollte das Organisationsteam die Teilnehmer vor Beginn der Runde darüber informieren.
+- F3) Während der Inspektion darf der Teilnehmer die Positionen von Pins verändern. Diese Änderungen gelten nicht als Züge.
+- F4) Während der Inspektion darf der Teilnehmer den Zustand der inneren Clock-Ziffernblätter im Puzzle nicht verändern. Strafe: Disqualifikation des Versuchs (DNF).
 
 ## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Abschnitt H: Multiple Blindfolded
 
