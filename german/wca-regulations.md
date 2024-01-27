@@ -53,10 +53,10 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 - 1e) Jede Disziplin benötigt einen oder mehrere Judges.
 	- 1e1) Ein Judge ist verantwortlich für die Durchführung der Abläufe der Disziplin.
 		- 1e1a) Ein Judge darf nach Ermessen des WCA-Delegierten mehrere Teilnehmer gleichzeitig judgen, sofern er sicherstellen kann, dass alle WCA-Regeln zu jedem Zeitpunkt eingehalten werden.
-	- 1e2) Jeder Teilnehmer muss als Judge zur Verfügung stehen. Wird ein Teilnehmer zum Judgen benötigt, so kann er lediglich durch Angabe eines legitimen Grunds (z.B. Unkenntnis eines Puzzles), nach Ermessen des WCA-Delegierten, davon freigestellt werden. Strafe: Disqualifikation des Teilnehmers vom Event, mehreren Events, oder allen Events bei diesem Turnier (siehe [Regel 2k](regulations:regulation:2k)).
+	- 1e2) Jeder Teilnehmer muss als Judge zur Verfügung stehen. Wird ein Teilnehmer zum Judgen benötigt, so kann er lediglich durch Angabe eines legitimen Grunds (z.B. Unkenntnis eines Puzzles), nach Ermessen des WCA-Delegierten, davon freigestellt werden. Strafe: Disqualifikation des Teilnehmers von der Disziplin, mehreren Disziplinen, oder allen Disziplinen bei diesem Turnier (siehe [Regel 2k](regulations:regulation:2k)).
 - 1f) Jede Disziplin muss einen oder mehrere Scrambler haben. Ausnahme: 3x3x3 Fewest Moves.
 	- 1f1) Ein Scrambler einer Disziplin ist verantwortlich für die Anwendung der Scrambles auf die Puzzles.
-	- 1f2) Alle Teilnehmer müssen als Scrambler zur Verfügung stehen. Wird ein Teilnehmer zum Scramblen benötigt, so kann er lediglich durch Angabe eines legitimen Grunds (z.B. Unkenntnis der Scramble-Notation eines Puzzles), nach Ermessen des WCA-Delegierten, davon freigestellt werden. Strafe: Disqualifikation des Teilnehmers vom Event, mehreren Events, oder allen Events bei diesem Turnier (siehe [Regel 2k](regulations:regulation:2k)).
+	- 1f2) Alle Teilnehmer müssen als Scrambler zur Verfügung stehen. Wird ein Teilnehmer zum Scramblen benötigt, so kann er lediglich durch Angabe eines legitimen Grunds (z.B. Unkenntnis der Scramble-Notation eines Puzzles), nach Ermessen des WCA-Delegierten, davon freigestellt werden. Strafe: Disqualifikation des Teilnehmers von der Disziplin, mehreren Disziplinen, oder allen Disziplinen bei diesem Turnier (siehe [Regel 2k](regulations:regulation:2k)).
 - 1g) Jede Disziplin benötigt einen oder mehrere Scoretaker.
 	- 1g1) Ein Scoretaker ist verantwortlich für das Zusammenstellen der Ergebnisse.
 	- 1g2) Änderungen der auf den Scoresheets notierten Ergebnisse dürfen nur nach Absprache mit dem WCA-Delegierten durchgeführt werden.
@@ -141,7 +141,7 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 	- 3h3) Puzzle-Modifikationen, die zu einer schlechteren Leistung führen, geben dem Teilnehmer kein Recht auf weitere Versuche.
     - 3h4) Bei Clock sind die folgenden Modifikationen erlaubt:
         - 3h4a) Selbsterstellte "Einleger" (in der gleichen Form und Größe wie die ursprünglichen Papiereinleger) dürfen verwendet werden, nach Ermessen des WCA-Delegierten. Die Einlagen müssen eine klare Kennzeichnung der 12-Uhr-Position haben, die der Kennzeichnung der ursprünglichen Einleger entspricht.
-        - 3h4b) Designveränderungen des Puzzles, welche keinen unfairen Vorteil geben, können nach Ermessen des WCA-Delegierten erlaubt werden (z.B. Clocks mit Schachbrettmuster, Seiten mit selbsterstelltem Design, Klebeband am Rand der Clock).
+        - 3h4b) Designveränderungen des Puzzles, welche keinen unfairen Vorteil geben, können nach Ermessen des WCA-Delegierten erlaubt werden (z.B. Clocks mit Schachbrettmuster, Seiten mit selbst erstelltem Design, Klebeband am Rand der Clock).
         - 3h4c) Modifikationen welche zu unterscheidbaren Pins auf derselben Seite führen können nach Ermessen des WCA-Delegierten erlaubt werden.
         - 3h4d) Logos an einer beliebigen Stelle auf dem Puzzle, solange die inneren Clock-Ziffernblätter nicht bedeckt werden.
     - 3h5) Bei Clock führen lose Pins (d.h. Pins, welche nur durch Gravitation ihre Position ändern oder zurückspringen, ohne direkt betätigt zu werden) zu einem mangelhaften Zustand, und Puzzles mit solchen Pins sind nicht erlaubt.
@@ -279,7 +279,7 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 	- 9m2) Runden mit 15 oder weniger Teilnehmern dürfen höchstens eine nachfolgende Runde haben.
 	- 9m3) Runden mit 7 oder weniger Teilnehmern dürfen keine nachfolgende Runde haben.
 - 9o) Eine zusammengefasste Runde zählt als eine Runde, wenn die Anzahl der Runden pro Disziplin gezählt wird.
-- 9p) Wenn ein Event mehrere Runden hat, gilt:
+- 9p) Wenn eine Disziplin mehrere Runden hat, gilt:
 	- 9p1) Für jede Runde einer Disziplin gilt, dass mindestens 25% aller Teilnehmer nicht in die nächste Runde kommen dürfen.
 	- 9p2) Die Teilnehmer, die in die nächste Runde kommen, müssen entweder anhand der Platzierung (beste X Teilnehmer) oder anhand des Ergebnisses (alle Teilnehmer mit einem Ergebnis besser als X) in der ersten Runde, ermittelt werden.
 		- 9p2a) Für jede Runde müssen die Bedingungen zum Weiterkommen in die nächste Runde vor dem Start der Runde angekündigt werden und sollten nicht mehr geändert werden, nachdem die Runde begonnen hat. Änderungen können nach Ermessen des WCA-Delegierten getätigt werden, der die Fairness einer solchen Änderung vorsichtig abwägen sollte.
@@ -380,7 +380,7 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 - A1) Speed Solving Versuche müssen den folgenden Ablauf einhalten.
 	- A1a) Das Organisationsteam muss mindestens eine Art von Zeitlimit (pro Versuch und/oder kumulatives Zeitlimit) für jede Runde festlegen.
 		- A1a1) Das Standard-Zeitlimit pro Versuch beträgt 10 Minuten, jedoch darf das Organisationsteam ein höheres oder niedrigeres Zeitlimit festlegen. In diesem Fall muss das Limit für alle Versuche dieser Runde das gleiche sein.
-		- A1a2) Kumulative Zeitlimits dürfen für alle Events außer 3x3x3 Fewest Moves oder 3x3x3 Multi-Blind festgelegt werden. Das kumulative Zeitlimit muss entweder auf alle Versuche einer Runde (z.B. 3 Versuche mit einem kumulativem (aufsummiertem) Zeitlimit von 20 Minuten) oder alle Versuche in einer Kombination von Runden verschiedener Events angewandt werden. In diesem Fall ist das Zeitlimit für einen einzigen Versuch das individuelle Zeitlimit oder das kumulative Zeitlimit minus die bisher benötigte Gesamtzeit in anderen Versuchen, die zum Zeitlimit beitragen (siehe [Regel A1a5](regulations:regulation:A1a5)), je nachdem, welches der beiden geringer ist. Für eine Runde darf maximal ein einziges anwendbares kumulatives Zeitlimit bestehen.
+		- A1a2) Kumulative Zeitlimits dürfen für alle Disziplinen außer 3x3x3 Fewest Moves oder 3x3x3 Multi-Blind festgelegt werden. Das kumulative Zeitlimit muss entweder auf alle Versuche einer Runde (z.B. 3 Versuche mit einem kumulativem (aufsummiertem) Zeitlimit von 20 Minuten) oder alle Versuche in einer Kombination von Runden verschiedener Disziplinen angewandt werden. In diesem Fall ist das Zeitlimit für einen einzigen Versuch das individuelle Zeitlimit oder das kumulative Zeitlimit minus die bisher benötigte Gesamtzeit in anderen Versuchen, die zum Zeitlimit beitragen (siehe [Regel A1a5](regulations:regulation:A1a5)), je nachdem, welches der beiden geringer ist. Für eine Runde darf maximal ein einziges anwendbares kumulatives Zeitlimit bestehen.
 		- A1a3) Vor Beginn des Wettbewerbs müssen die Zeitlimits bekannt gegeben worden sein und sollten sich während der Runde nicht verändern. Änderungen dürfen nur nach Ermessen des WCA-Delegierten vorgenommen werden, welcher sorgfältig beachten sollte, ob eine mögliche Änderung fair ist.
 		- A1a4) Der Teilnehmer muss jeden Solve innerhalb des Zeitlimits beenden. Falls ein Teilnehmer das Zeitlimit für einen Solve/eine Runde erreicht, stoppt der Judge den Versuch sofort und trägt als Resultat "DNF" ein. Ausnahme: Multiple Blindfolded (siehe Regel H1b1).
 		- A1a5)	Die Zeit, die zum Zeitlimit für den Versuch gewertet wird, ist entweder das Ergebnis, nachdem alle Zeitstrafen angewandt wurden (sofern das Ergebnis kein DNF war) oder die Zeit, die der Solve gedauert hat (sofern das Ergebnis ein DNF ist).
@@ -423,7 +423,7 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 		- A4d3) Wenn eine Stoppuhr benutzt wird, startet der Judge die Stoppuhr sobald der Teilnehmer den Solve beginnt.
 	- A4e) Strafen beim Beginn des Lösens werden aufaddiert.
 - A5) Während des Lösens (Lösungsphase):
-	- A5a) Während des Inspizierens oder Lösens des Puzzle darf der Teilnehmer keinerlei Kommunikation mit irgendjemandem außer dem Judge oder dem WCA-Delegierten führen. Strafe: Disqualifikation des Versuchs (DNF). Ausnahme: Wenn der Teilnehmer durch die Kommunikation mit irgendjemandem außer dem Judge oder WCA-Delegierten erhält, kann das Resultat nach Ermessen des WCA-Delegierten bestehen bleiben.
+	- A5a) Während des Inspizierens oder Lösens des Puzzle darf der Teilnehmer keinerlei Kommunikation mit irgendjemandem außer dem Judge oder dem WCA-Delegierten führen. Strafe: Disqualifikation des Versuchs (DNF). Ausnahme: Wenn der Teilnehmer keine Vorteile durch die Kommunikation mit irgendjemandem außer dem Judge oder WCA-Delegierten erhält, kann das Resultat nach Ermessen des WCA-Delegierten bestehen bleiben.
 	- A5b) Während des Inspizierens oder Lösens des Puzzle darf der Teilnehmer keinerlei Hilfe von irgendjemandem oder irgendetwas (außer der Oberfläche) bekommen (siehe auch Regel 2i). Strafe: Disqualifikation des Versuchs (DNF).
 	- A5c) Der Teilnehmer darf das Puzzle gegen die Oberfläche halten, um die Handhabung des Puzzles zu erleichtern (siehe [Regel 7f1d](regulations:regulation:7f1d)).
 - A6) Beenden des Solves:
@@ -483,9 +483,9 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 	- B4d) Der Teilnehmer darf das Puzzle während der gesamten Blindlösephase nicht ansehen. Strafe: Disqualifikation des Versuchs (DNF).
 - B5) Ende des Versuchs
 	- B5a) Falls ein Stackmat Timer benutzt wird, beendet der Teilnehmer die Lösungsphase indem er das Puzzle loslässt und den Timer stoppt.
-        - B5a1) Wenn zusätzlich zum Stackmat Timer eine Stoppuhr verwendet wird, stoppt der Judge die Stoppuhr sobald der Teilnehmer den Solve beendet.
+        - B5a1) Wenn zusätzlich zum Stackmat Timer eine Stoppuhr verwendet wird, stoppt der Judge die Stoppuhr, sobald der Teilnehmer den Solve beendet.
     - B5b) Wenn eine Stopuhr als einziger Timer verwendet wird, beendet der Teilnehmer den Solve indem er das Puzzle loslässt und dem Judge signalisiert, dass der Solve beendet wird. Sobald der Teilnehmer dies getan hat, stoppt der Judge die Stoppuhr.
-        - B5b1) Das Standard-Benachrichtungssignal des Teilnehmers besteht darauf, das / die Puzzle(s) loszulassen und die Hände mit den Handflächen nach unten auf die Oberfläche zu legen. Der Teilnehmer und der Judge dürfen sich vor dem Beginn des Versuchs auf ein anderes angemessenes Signal verständigen.
+        - B5b1) Standardmäßig besteht das Signal daraus, das / die Puzzle(s) loszulassen und die Hände mit den Handflächen nach unten auf die Oberfläche zu legen. Der Teilnehmer und der Judge dürfen sich vor dem Beginn des Versuchs auf ein anderes angemessenes Signal verständigen.
 	- B5c) Falls der Teilnehmer das Puzzle nicht berührt, darf er die Augenbinde abnehmen, bevor der Timer gestoppt ist. Er darf das Puzzle bis zum Ende des Versuchs nicht mehr berühren. Strafe für das Berühren des Puzzles: Disqualifikation des Versuchs (DNF).
 
 ## <article-C><one-handed><onehandedsolving> Abschnitt C: Einhändiglösen
@@ -516,7 +516,7 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 		- E2e1) Der WCA-Delegierte darf einen Teilnehmer bitten den Zweck jedes Zugs seiner Lösung zu erklären, unabhängig vom Scrambling Algorithmus. Kann ein Teilnehmer keine zufriedenstellende Erklärung liefern, so wird der Versuch disqualifiziert (DNF).
 - E3) Der Teilnehmer darf die folgenden Objekte benutzen. Strafe für das Benutzen weiterer Objekte: Disqualifikation des Versuchs (DNF).
 	- E3a) Papier (vom Judge bereitgestellt), der Papierbogen zum Eintragen der Lösung (vom Judge bereitgestellt), ein Bild des Scrambles für diesen Versuch (welches auf dem Papier oder Lösungsbogen vorhanden sein kann), und Stift(e) (vom Judge bereitgestellt oder optional selbst mitgebracht).
-	- E3b) 3x3x3 Cubes (maximal 3, selbst bereitgestellt), welche vor Beginn des Versuchs wie in [Artikel 3](regulations:article:3) erklärt beschaffen sein müssen.
+	- E3b) 3x3x3 Cubes (maximal 3, selbst bereitgestellt), welche vor Beginn des Versuchs den Bedingungen in [Artikel 3](regulations:article:3) entsprechen müssen.
 	- E3c) Aufkleber (selbst mitgebracht).
 	- E3d) Stoppuhr oder Uhr (selbst mitgebracht), um die abgelaufene Zeit zu verfolgen, wenn dies durch den WCA-Delegierten genehmigt ist.
 	- E3e) Andere nicht-elektronische Hilfsmittel, die keinen unfairen Vorteil erzeugen, nach Ermessen des WCA-Delegierten (siehe [Regel 2i1](regulations:regulation:2i1)).
