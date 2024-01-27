@@ -108,7 +108,7 @@ Jede Richtlinie ist einer der folgenden Disziplinen zugeordnet. Diese Beschriftu
 - 5b+) [Zusatz] Der Teilnehmende darf nicht absichtlich Puzzle-Defekte herbeiführen, sofern er nicht versucht, einen vorhergehenden Puzzle-Defekt damit zu korrigieren (siehe Regeln [5b3b](regulations:regulation:5b3b) und [5b3c](regulations:regulation:5b3c)). Beispiele für absichtliches Hervorrufen von Puzzle-Defekten: Entfernen einer befestigten Centercap, Rotation eines Ecksteins, Entfernen eines Stickers.
 - 5b5+) [Beispiel] Beispiele für abgelöste Teile, die zu einem gelösten Zustand führen: eine 3x3x3-Centercap, ein Big Cube Centerstein, ein inneres Teil eines Big Cubes.
 - 5b5++) [Beispiel] Beispiele für abgelöste Teile, die zu einem DNF führen: zwei 3x3x3-Centercaps, zwei Big Cube Centersteine, ein 3x3x3 Kantenstein, ein 4x4x4-Kantenstein ("wing"), jede Kombination zweier Steine mit jeweils farbigen Teilen.
-- 5b5f+) [Beispiel] Es gibt einen [Visual Guide](https://drive.google.com/file/d/15XszaCGNvy3Dk6X6qERzZWZaDH1RH04z/view) für [Regel 5b5f](regulations:regulation:5b5f).
+- 5b5f+) [Beispiel] Es gibt einen [visuellen Leitfaden](https://drive.google.com/file/d/15XszaCGNvy3Dk6X6qERzZWZaDH1RH04z/view) für [Regel 5b5f](regulations:regulation:5b5f).
 - 5b5f++) [Beispiel] Ein 4x4x4-Kantenstein ("wing"), welcher in sich gedreht ist, gilt als gelöst.
 - 5b5f+++) [Beispiel] Ein Eckstein, welcher durch einen sog. corner twist in sich gedreht ist, gilt zwar als in einer validen Position platziert, doch durch diese Position wird jenes Teil nicht zu einem gelösten Teil.
 - 5c+) [Erinnerung] Wenn der Teilnehmende einen Puzzle-Defekt hat, gibt ihm das keinen Anspruch auf einen Extraversuch.
