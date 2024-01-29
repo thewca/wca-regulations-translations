@@ -7,7 +7,8 @@ the official [World Cube Association Competition Regulations](http://worldcubeas
 Credits
 -------
 
-* [Laura Holzhauer](http://www.worldcubeassociation.org/results/p.php?i=2016HOLZ01) 
+* [Annika Stein](http://www.worldcubeassociation.org/results/p.php?i=2014STEI03) 
+* [Laura Holzhauer](http://www.worldcubeassociation.org/results/p.php?i=2016HOLZ01)
 * [Laura Ohrndorf](http://www.worldcubeassociation.org/results/p.php?i=2009OHRN01)
 * [S&eacute;bastien Auroux](http://www.worldcubeassociation.org/results/p.php?i=2008AURO01)
 
