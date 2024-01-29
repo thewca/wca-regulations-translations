@@ -1,0 +1,50 @@
+name: Deploy To S3
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up Python 3
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.9
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          aws-access-key-id: ${{ secrets.CI_CD_AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.CI_CD_AWS_SECRET_ACCESS_KEY }}
+          aws-region: ${{ secrets.AWS_DEFAULT_REGION }}
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install wrc
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+          # install wkhtmltopdf
+          wget https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.4/wkhtmltox-0.12.4_linux-generic-amd64.tar.xz -O wkhtml.tar.xz && tar -xf wkhtml.tar.xz --strip-components=1 -C /usr/local
+      - name: Build and deploy to S3
+        run: |
+          outputdir=/tmp/translations
+          languages=$(wrc-languages)
+          # Build all translations
+          for kind in html pdf; do
+            for l in $languages; do
+              lang_inputdir=./${l}
+              lang_outputdir=$outputdir/${l}
+              mkdir -p $lang_outputdir
+              echo "Generating ${kind} for language ${l}"
+              wrc --target=$kind -l $l -o $lang_outputdir $lang_inputdir
+              # Update timestamp for semi-automatic computation of translations index
+              cp $lang_inputdir/metadata.json $lang_outputdir/
+            done
+          done
+          # Update version built
+          git_hash=$(git rev-parse --short "$GITHUB_SHA")
+          echo "$git_hash" > $outputdir/version
+          # Update timestamps for automatically determining which regulations are up to date
+          cp ./version-date $outputdir/
+          aws s3 sync $outputdir s3://wca-regulations/translations
