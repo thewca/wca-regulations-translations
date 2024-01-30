@@ -56,4 +56,4 @@ jobs:
           echo "$git_hash" > $outputdir/version
           # Update timestamps for automatically determining which regulations are up to date
           cp ./version-date $outputdir/
-          aws s3 sync $outputdir s3://wca-regulations/translations
+          aws s3 sync $outputdir s3://wca-regulations/translations --acl public-read
