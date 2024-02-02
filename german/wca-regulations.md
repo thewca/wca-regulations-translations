@@ -188,6 +188,7 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
     - 4g1) Es gelten die folgeden Ausnahmen:
         - 4g1a) Für 6x6x6, 7x7x7 und Megaminx ist es nicht notwendig, einen nicht korrekt ausgeführten Scramble zu korrigieren, nach Ermessen des WCA-Delegierten.
         - 4g1b) Für 5x5x5 sollte der Scrambler den Scramble korrigieren. Sollte das Korrigieren zu einer signifikanten Verzögerung des Turniers führen, kann nach Ermessen des WCA-Delegierten auf die Korrektur verzichtet werden.
+    - 4g2) Für Multi-Blind muss der Scrambler nach dem Scramblen aller Cubes verifizieren, dass es keine mehrfach verwendeten Scrambles gibt.
 
 ## <article-5><puzzle-defects><puzzledefects> Abschnitt 5: Puzzledefekte
 
