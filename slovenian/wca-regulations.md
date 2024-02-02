@@ -184,6 +184,7 @@ Opomba: Ker se členi in pravila ob morebitnem brisanju ne številčijo ponovno,
     - 4g1) Veljajo naslednje izjeme:
         - 4g1a) pri 6x6x6 kocki, 7x7x7 kocki in Megaminxu po presoji WCA delegata ni potrebno popravljati premešanega stanja uganke.
         - 4g1b) pri 5x5x5 kocki naj bi mešalec popravil stanje uganke. Če bi popravljanje stanja uganke povzročilo resno posledico na urniku, ga po presoji WCA delegata ni potrebno popravljati.
+    - 4g2) Pri reševanju Več kock slepo mora mešalec po mešanju vseh kock preveriti, da ni podvojenih premešanih ugank.
 
 
 ## <article-5><puzzle-defects><puzzledefects> 5. člen: Okvare ugank
