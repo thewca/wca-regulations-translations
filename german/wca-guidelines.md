@@ -98,7 +98,6 @@ Jede Richtlinie ist einer der folgenden Disziplinen zugeordnet. Diese Beschriftu
 - 4d++) [Zusatz] Die Orientierung des Puzzles darf sich auf dem Weg vom Scrambler zum Löse-Platz ändern, solange niemand versucht, die Zufälligkeit der Orientierung zu beeinflussen (siehe [Regel A2e1](regulations:regulation:A2e1))
 - 4f+) [Empfehlung] Der WCA-Delegierte sollte genügend Scrambles für das ganze Turnier bereits im Voraus generieren. Dazu zählen auch Ersatz-Scrambles für Extraversuche.
 - 4f++) [Erinnerung] Wenn der WCA-Delegierte zusätzliche Scrambles während des Turniers generiert, muss er die Scrambles speichern (siehe [Regel 1c3a](regulations:regulation:1c3a)).
-- 4g+) [Empfehlung] Für Multi-Blind muss der Scrambler nach dem Scramblen aller Cubes verifizieren, dass es eine mehrfach verwendeten Scrambles gibt.
 - 4g1b+) [Erklärung] Für 5x5x5 Blindfolded müssen fehlerhafte Zustände des Puzzles immer korrigiert werden.
 - 4g1b++) [Empfehlung] Der WCA-Delegierte sollte bei 5x5x5 Cube strenger abwägen, ob fehlerhafte Zustände bei 5x5x5 Cube korrigiert werden müssen oder nicht.
 
