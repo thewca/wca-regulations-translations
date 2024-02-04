@@ -99,7 +99,6 @@ Zaradi boljše preglednosti je vsaka smernica označena z eno od spodnjih oznak.
 - 4d++) [DODATEK] Dovoljeno je, da uganka spremeni svojo orientacijo, ko se prenese od mešalcev na tekmovalno postajo, če pri tem nihče ne poskuša vplivati na naključnost orientacije (glej [pravilo A2e1](regulations:regulation:A2e1)).
 - 4f+) [PRIPOROČILO] WCA delegat naj bi vnaprej ustvaril dovolj mešanih algoritmov za celotno tekmovanje, vključno z rezervnimi mešanimi algoritmi za dodatne poskuse.
 - 4f++) [OPOMNIK] V kolikor WCA delegat med tekmovanjem ustvari kakršnekoli dodatne mešalne algoritme, jih mora shraniti.
-- 4g+) [PRIPOROČILO] Pri reševanju Več kock slepo mora mešalec po mešanju vseh kock preveriti, da ni podvojenih premešanih ugank.
 - 4g1b+) [POJASNILO] Pri 5x5x5 slepo morajo biti napačna stanja uganke vedno popravljena.
 - 4g1b++) [PRIPOROČILO] WCA delegat naj bi uporabil strožje kriterije, kadar odloča o tem, ali je potrebno popraviti napačna stanja uganke pri 5x5x5 kocki.
 

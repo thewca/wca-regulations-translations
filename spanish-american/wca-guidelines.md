@@ -98,7 +98,6 @@ En pro de la claridad, cada Directriz se clasifica usando una de las siguientes 
 - 4d++) [ADICIÓN] Se permite que el puzzle cambie de orientación cuando se mueve del mezclador a la estación de resolución, siempre y cuando nadie intente influenciar la aleatoriedad de su orientación (ver [Regla A2e1](regulations:regulation:A2e1)).
 - 4f+) [RECOMENDACIÓN] El delegado de la WCA debería generar mezclas suficientes para la totalidad de la competencia antes de tiempo, incluyendo mezclas de sobra para intentos extra.
 - 4f++) [RECORDATORIO] Si el delegado de la WCA genera mezclas oficiales durante la competencia, las mezclas deben guardarse.
-- 4g+) [RECOMENDACIÓN] Para Múltiples Cubos a Ciegas, luego de mezclar todos los cubos, el mezclador debe verificar que no haya cubos con mezclas duplicadas.
 - 4g1b+) [ACLARACIÓN] Para 5x5x5 a Ciegas, las mezclas incorrectas siempre deben ser corregidas.
 - 4g1b++) [RECOMENDACIÓN] El delegado de la WCA debería utilizar su discreción cuidadosamente a la hora de determinar si las mezclas incorrectas para 5x5x5 deben ser corregidas o no.
 

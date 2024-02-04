@@ -184,6 +184,7 @@ OBS: Eftersom artikel- och regelnummer inte omfördelas när regler raderas kan 
     - 4g1) Följande undantag gäller:
         - 4g1a) För 6x6x6, 7x7x7, och Megaminx är det inte nödvändigt att korrigera pusslets tillstånd, enligt WCA-delegatens bedömning.
         - 4g1b) För 5x5x5 bör blandaren korrigera pusslets tillstånd. Om korrigering av pusslets tilstånd skulle orsaka problem med schemat, är det inte nödvändigt att korrigera det, enligt WCA-delegatens bedömning.
+    - 4g2) För 3x3x3 Multi-Blind måste blandaren, efter att ha blandat alla kuber, kontrollera att det inte finns några dubbletter bland blandningarna.
 
 
 ## <article-5><puzzle-defects><puzzledefects> Artikel 5: Pusseldefekter

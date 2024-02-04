@@ -98,7 +98,6 @@ För att vara mer informativa klassificeras varje riktlinje med en av följande 
 - 4d++) [TILLÄGG] Det är tillåtet för pusslet att ändra orientering när det flyttas från blandare till lösningsstationen, så länge ingen försöker påverka slumpmässigheten i orienteringen (se [regel A2e1](regulations:regulation:A2e1)).
 - 4f+) [REKOMMENDATION] WCA-delegaten bör generera tillräckligt många blandningssekvenser för hela tävlingen i förväg, inklusive extra blandningssekvenser för extra försök.
 - 4f++) [PÅMINNELSE] Om WCA-delegaten genererar ytterligare blandningssekvenser under tävlingen, måste blandningssekvenserna sparas.
-- 4g+) [REKOMMENDATION] För 3x3x3 Multi-Blind måste blandaren, efter att ha blandat alla kuber, kontrollera att det inte finns några dubbletter bland blandningarna.
 - 4g1b+) [FÖRTYDLIGANDE] För 5x5x5 Med Ögonbindel, måste felaktiga blandningar alltid korrigeras.
 - 4g1b++) [REKOMMENDATION] WCA-delegaten bör använda större diskretion när det gäller att avgöra om felaktigt blandade 5x5x5-kuber behöver korrigeras eller inte.
 

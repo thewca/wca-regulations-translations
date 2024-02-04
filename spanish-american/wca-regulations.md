@@ -184,6 +184,7 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
     - 4g1) Aplican las siguientes excepciones:
         - 4g1a) Para los cubos de 6x6x6, 7x7x7 y el Megaminx, no es necesario corregir la mezcla, a discreción del delegado de la WCA.
         - 4g1b) Para el cubo de 5x5x5, el mezclador debería corregir el estado del puzzle. Si el hecho de corregir el estado del puzzle pudiera generar un impacto severo en el cronograma de la competencia, entonces puede no corregirse, a discreción del delegado de la WCA.
+    - 4g2) Para Múltiples Cubos a Ciegas, luego de mezclar todos los cubos, el mezclador debe verificar que no haya cubos con mezclas duplicadas.
 
 
 ## <article-5><puzzle-defects><puzzledefects> Artículo 5: Desperfectos de puzzles
