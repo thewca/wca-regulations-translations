@@ -529,7 +529,7 @@ Huomautus: Koska artikloille ja säännöille ei määrätä uusia numeroita kun
 
 ## <article-Y><temporary-regulations><temporaryregulations> Artikla Y: Tilapäiset säännöt
 
-- Y1) Tämän artiklan lisäsäännöt syrjäyttävät kaikki muut säännöt. Nämä säännöt on tarkoitettu täydentämään [Competition Safety Policyä](https://www.worldcubeassociation.org/documents/policies/external/Competition%20Safety.pdf).
+- Y1) Tämän artiklan lisäsäännöt syrjäyttävät kaikki muut säännöt. Nämä säännöt on tarkoitettu täydentämään [Competition Safety Policyä](https://documents.worldcubeassociation.org/documents/policies/external/Competition%20Safety.pdf).
 - Y2) Määritelmät:
     - Y2a) Osallistuja: Kuka tahansa, joka on WCA-kilpailussa läsnä (sisältää kilpailijat, toimihenkilöt ja vieraat).
 	- Y2b) Kiinteä istumajärjestys: Kilpailun suoritustapa, jossa kilpailija tekee kaikki kierroksen ratkaisuyrityksensä samalla ratkaisupaikalla.

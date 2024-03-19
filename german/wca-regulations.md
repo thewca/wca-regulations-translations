@@ -49,7 +49,7 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 - 1a) Jedes Turnier muss einen WCA-Delegierten und ein Organisationsteam (bestehend aus einer Person oder mehreren Personen) haben. Ein Turnier benötigt ebenso die folgenden offiziellen Organe: Judges, Scrambler und Scoretaker.
 - 1b) Das Organisationsteam eines Turniers ist verantwortlich für sämtliche Vorkehrungen vor, während und nach dem Turnier.
 - 1c) Der WCA-Delegierte ist verantwortlich dafür, dass die WCA-Regeln sowie entsprechende WCA-Richtlinien und Anforderungen während des Wettbewerbs eingehalten werden. Der WCA-Delegierte darf verschiedene Pflichten anderen Mitgliedern des Organisationsteams übertragen, ist aber schlussendlich verantwortlich für die Ausführung dieser Pflichten.
-    - 1c1) Der WCA-Delegate muss sicherstellen, dass der Wettbewerb die [WCA Scramble Accountability Policy](https://www.worldcubeassociation.org/documents/policies/external/Scramble%20Accountability.pdf) einhält.
+    - 1c1) Der WCA-Delegate muss sicherstellen, dass der Wettbewerb die [WCA Scramble Accountability Policy](https://documents.worldcubeassociation.org/documents/policies/external/Scramble%20Accountability.pdf) einhält.
 - 1e) Jede Disziplin benötigt einen oder mehrere Judges.
 	- 1e1) Ein Judge ist verantwortlich für die Durchführung der Abläufe der Disziplin.
 		- 1e1a) Ein Judge darf nach Ermessen des WCA-Delegierten mehrere Teilnehmende gleichzeitig judgen, sofern er sicherstellen kann, dass alle WCA-Regeln zu jedem Zeitpunkt eingehalten werden.

@@ -42,7 +42,7 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
 - 1a) Uma competição precisa ter um Delegado da WCA e uma equipe de organização (composta por um ou mais membros) com os seguintes oficiais: juízes, embaralhadores e anotadores de resultados.
 - 1b) A equipe de organização de uma competição é responsável pela logística antes, durante e depois da competição.
 - 1c) O Delegado da WCA é responsável por assegurar que a competição segue o Regulamento da WCA a qualquer política ou requisito da WCA aplicáveis. O Delegado da WCA pode delegar responsabilidades para outros membros da equipe de organização, mas é responsável em última instância pela forma como elas são conduzidas.
-    - 1c1) O Delegado da WCA deve garantir que a competição siga a [Política de Confidencialidade de Embaralhamentos da WCA](https://www.worldcubeassociation.org/documents/policies/external/Scramble%20Accountability.pdf).
+    - 1c1) O Delegado da WCA deve garantir que a competição siga a [Política de Confidencialidade de Embaralhamentos da WCA](https://documents.worldcubeassociation.org/documents/policies/external/Scramble%20Accountability.pdf).
 - 1e) Cada evento precisa ter um ou mais juízes.
     - 1e1) Um juiz é responsável por executar os procedimentos do evento.
         - 1e1a) Um juiz pode fiscalizar vários competidores simultaneamente a critério do Delegado da WCA, contanto que o juiz seja capaz de assegurar que todo o Regulamento da WCA seja seguido em todos os momentos.
