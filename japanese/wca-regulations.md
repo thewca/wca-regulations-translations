@@ -531,7 +531,7 @@ WCA 大会規則とガイドラインの改訂作業は [GitHub](https://github.
 
 ## <article-Y><temporary-regulations><temporaryregulations> 第Y条：一時的な規則
 
-- Y1) 他の規則にとってかわる追加規則を以下に記述する。これらの規則は [WCA 大会安全基準](https://www.worldcubeassociation.org/documents/policies/external/Competition%20Safety.pdf)を補完する目的がある。
+- Y1) 他の規則にとってかわる追加規則を以下に記述する。これらの規則は [WCA 大会安全基準](https://documents.worldcubeassociation.org/documents/policies/external/Competition%20Safety.pdf)を補完する目的がある。
 - Y2) 用語定義：
     - Y2a) 参加者：WCA 大会に参加するすべての人。競技者、大会役員、観客を含む。
     - Y2b) 固定席：競技者がラウンド中の全試技を同じ競技台で実施する方式。

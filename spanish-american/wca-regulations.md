@@ -42,7 +42,7 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
 - 1a) Una competencia debe incluir un delegado de la WCA y un equipo organizador (que conste de una o más personas) con los siguientes miembros: jueces, mezcladores (los que hacen las mezclas o “scrambles”) y encargados de recoger y compilar los resultados.
 - 1b) El equipo organizador es el responsable de la logística y el buen funcionamiento de la competencia antes, durante y después de la misma.
 - 1c) El delegado de la WCA es responsable de asegurar que la competencia se adhiere al Reglamento y a cualquier política o requerimiento de la WCA aplicables. El delegado de la WCA puede delegar responsabilidades a otros miembros del equipo de organizadores, pero es el responsable en última instancia de cómo se llevan a cabo esas responsabilidades.
-    - 1c1) El delegado de la WCA debe asegurarse que la competición cumple con la [Política de Confidencialidad de Mezclas de la WCA](https://www.worldcubeassociation.org/documents/policies/external/Scramble%20Accountability.pdf).
+    - 1c1) El delegado de la WCA debe asegurarse que la competición cumple con la [Política de Confidencialidad de Mezclas de la WCA](https://documents.worldcubeassociation.org/documents/policies/external/Scramble%20Accountability.pdf).
 - 1e) Cada categoría debe tener uno o más jueces.
     - 1e1) Un juez es responsable de ejecutar los procedimientos de la categoría.
         - 1e1a)  Un juez puede juzgar a varios competidores simultáneamente, a discreción del delegado de la WCA, siempre y cuando el juez pueda asegurarse de que se cumpla el reglamento de la WCA en todo momento.

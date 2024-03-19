@@ -42,7 +42,7 @@ Chú ý: Vì số thứ tự của các Mục và Quy định không được s�
 - 1a) Một giải đấu phải có một WCA Delegate và ban tổ chức (có một hoặc nhiều người) với các thành viên dưới đây: trọng tài (judge), người tráo (scrambler) và người ghi kết quả.
 - 1b) Ban tổ chức giải đấu chịu trách nhiệm hậu cần trước, trong và sau giải đấu.
 - 1c) WCA Delegate chịu trách nhiệm đảm bảo giải đấu tuân thủ Quy định WCA và các chính sách / yêu cầu khác của WCA. WCA Delegate có thể ủy quyền cho các thành viên khác trong ban tổ chức để hỗ trợ công việc của mình, nhưng phải luôn là người chịu trách nhiệm cuối cùng.
-    - 1c1) WCA Delegate phải bảo đảm rằng giải đấu tuân thủ [Chính Sách Trách Nhiệm Giải Trình Công Thức Tráo(WCA Scramble Accountability Policy)](https://www.worldcubeassociation.org/documents/policies/external/Scramble%20Accountability.pdf).
+    - 1c1) WCA Delegate phải bảo đảm rằng giải đấu tuân thủ [Chính Sách Trách Nhiệm Giải Trình Công Thức Tráo(WCA Scramble Accountability Policy)](https://documents.worldcubeassociation.org/documents/policies/external/Scramble%20Accountability.pdf).
 - 1e) Mỗi nội dung thi đấu phải có một hoặc nhiều trọng tài.
     - 1e1) Trọng tài chịu trách nhiệm thực thi các thủ tục của nội dung thi đấu.
         - 1e1a) Một trọng tài có thể đồng thời giám sát nhiều thí sinh tùy theo quyết định của WCA Delegate, với điều kiện trọng tài có thể đảm bảo tất cả các Quy định WCA luôn được tuân thủ.

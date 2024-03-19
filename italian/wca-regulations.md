@@ -534,7 +534,7 @@ Nota: potrebbero esserci discrepanze nella numerazione dei vari articoli, visto 
 
 ## <article-Y><temporary-regulations><temporaryregulations> Articolo Y: Regole Temporanee
 
-- Y1) Di seguito sono riportate delle regole aggiuntive che sostituiscono tutte le altre regole finora illustrate. Queste regole sono un'integrazione alla [Competition Safety Policy](https://www.worldcubeassociation.org/documents/policies/external/Competition%20Safety.pdf).
+- Y1) Di seguito sono riportate delle regole aggiuntive che sostituiscono tutte le altre regole finora illustrate. Queste regole sono un'integrazione alla [Competition Safety Policy](https://documents.worldcubeassociation.org/documents/policies/external/Competition%20Safety.pdf).
 - Y2) Definizioni:
     - Y2a) Presente: qualsiasi persona si trovi ad una Competizione WCA: partecipanti, ufficiali (team organizzativo e Delegati), ospiti e spettatori.
     - Y2b) Postazioni fisse: Un metodo di competizione nel quale ciascun partecipante svolge tutti i propri tentativi in un round seduto alla stessa postazione di gara.

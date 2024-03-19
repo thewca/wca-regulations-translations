@@ -42,7 +42,7 @@ OBS: Eftersom artikel- och regelnummer inte omfördelas när regler raderas kan 
 - 1a) En tävling måste ha en WCA-delegat och ett arrangörsteam (bestående av en eller flera individer) med följande funktionärer: domare, blandare och resultatregistrerare.
 - 1b) Tävlingens arrangörsteam ansvarar för logistiken före, under och efter tävlingen.
 - 1c) WCA-delegaten ansvarar för att tävlingen följer WCA-reglerna och eventuella tillämpliga WCA-policyer eller krav. WCA-delegaten får utse andra medlemmar i arrangörsteamet för att utföra specifika uppgifter för deras räkning, men är i slutändan ansvarig för hur dessa ansvarsområden utförs.
-    - 1c1) WCA-delegaten måste säkerställa att tävlingen följer [WCA Scramble Accountability Policy](https://www.worldcubeassociation.org/documents/policies/external/Scramble%20Accountability.pdf).
+    - 1c1) WCA-delegaten måste säkerställa att tävlingen följer [WCA Scramble Accountability Policy](https://documents.worldcubeassociation.org/documents/policies/external/Scramble%20Accountability.pdf).
 - 1e) Varje gren måste ha en eller flera domare.
     - 1e1) En domare är ansvarig för att genomföra grenens tävlingsprocedur.
         - 1e1a) En domare får döma flera tävlande samtidigt enligt WCA-delegatens bedömning, så länge domaren kan se till att alla WCA-regler följs hela tiden.

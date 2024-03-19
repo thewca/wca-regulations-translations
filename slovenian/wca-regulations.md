@@ -42,7 +42,7 @@ Opomba: Ker se členi in pravila ob morebitnem brisanju ne številčijo ponovno,
 - 1a) Tekmovanje mora imeti WCA delegata in organizacijsko ekipo (sestavljeno iz enega ali več posameznikov) z naslednjimi uradnimi osebami: sodniki, mešalci in zapisnikarji.
 - 1b) Organizacijska ekipa tekmovanja je odgovorna za logistiko pred, med in po tekmovanju.
 - 1c) WCA delegat je odgovoren za zagotavljanje, da tekmovanje poteka v skladu z WCA Pravilnikom ter vsemi veljavnimi WCA politikami in zahtevami. WCA delegat lahko imenuje druge člane organizacijske ekipe za izvajanje določenih odgovornosti v njegovem imenu, vendar je polno odgovoren za izvajanje teh odgovornosti.
-    - 1c1) WCA delegat mora zagotoviti, da tekmovanje sledi [WCA Politiki odgovornega mešanja](https://www.worldcubeassociation.org/documents/policies/external/Scramble%20Accountability.pdf).
+    - 1c1) WCA delegat mora zagotoviti, da tekmovanje sledi [WCA Politiki odgovornega mešanja](https://documents.worldcubeassociation.org/documents/policies/external/Scramble%20Accountability.pdf).
 - 1e) Vsaka disciplina mora imeti enega ali več sodnikov.
     - 1e1) Sodnik je odgovoren za izvajanje postopka discipline.
         - 1e1a) Sodnik lahko sodi več tekmovalcem hkrati, po presoji WCA delegata, dokler je kot sodnik sposoben zagotoviti, da so ves čas upoštevana vsa pravila WCA Pravilnika.

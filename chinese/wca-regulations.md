@@ -43,7 +43,7 @@ WCA规则及指南的修订公开[于GitHub](https://github.com/thewca/wca-regul
 - 1a) 一场比赛必须包含一位WCA代表及一个由以下成员组成的主办团队（包含至少一个人）：裁判，打乱员，录入员。
 - 1b) 一场比赛的主办团队负责比赛前后的后勤工作。
 - 1c) WCA代表负责保证比赛遵守WCA规则以及任何适用的WCA政策或者要求。WCA代表可以指定主办团队中的其他人来承担一些职责，但最终将对这些职责的履行负责。
-    - 1c1) WCA代表必须保证比赛符合[WCA打乱责任政策](https://www.worldcubeassociation.org/documents/policies/external/Scramble%20Accountability.pdf)。
+    - 1c1) WCA代表必须保证比赛符合[WCA打乱责任政策](https://documents.worldcubeassociation.org/documents/policies/external/Scramble%20Accountability.pdf)。
 - 1e) 每个项目必须包含至少一名裁判。
     - 1e1) 裁判需要为某个项目的执行过程负责。
         - 1e1a) 在WCA代表的允许下，裁判可以同时裁多名选手，只要该裁判可以确保整个过程完全遵守WCA规则。
