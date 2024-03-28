@@ -419,7 +419,7 @@ Lưu ý: Vì số thứ tự của các Mục và Quy định không được s�
 - A4) Bắt đầu quá trình giải:
     - A4b) Thí sinh đặt ngón tay lên cảm biến của đồng hồ Stackmat. Lòng bàn tay phải hướng xuống dưới, đặt ở phía gần thí sinh hơn. Hình phạt: phạt cộng thời gian (+2 giây).
         - A4b1) Thí sinh không được chạm vào khối hình khi bắt đầu quá trình giải. Hình phạt: phạt cộng thời gian (+2 giây).
-    - A4d) Nếu đồng hồ Stackmat được sử dụng, thí sinh nên đặt tay lên đồng hồ cho đến khi thấy đèn màu xanh lục sáng lên. Đồng hồ bắt đầu chạy khi thí sinh bỏ tay khỏi đồng hồ. Thí sinh bắt đầu quá trình giải bằng cách bắt đầu chạy đồng hồ.
+    - A4d) Nếu đồng hồ Stackmat được sử dụng, thí sinh nên giữ tay trên đồng hồ cho đến khi thấy đèn màu xanh bật sáng. Đồng hồ bắt đầu chạy khi thí sinh bỏ tay khỏi đồng hồ. Thí sinh bắt đầu quá trình giải bằng cách bắt đầu chạy đồng hồ.
         - A4d1) Thí sinh phải bắt đầu quá trình giải trong vòng 15 giây quan sát. Hình phạt: phạt cộng thời gian (+2 giây).
         - A4d2) Thí sinh phải bắt đầu quá trình giải trong vòng 17 giây quan sát. Hình phạt: hủy kết quả lượt thi (DNF).
         - A4d3) Nếu có sử dụng đồng hồ bấm giờ, trọng tài bắt đầu bấm giờ ngay khi thí sinh bắt đầu quá trình giải.
@@ -429,124 +429,122 @@ Lưu ý: Vì số thứ tự của các Mục và Quy định không được s�
     - A5b) Trong quá trình quan sát hay giải khối hình, thí sinh không được phép được bất cứ ai hay bất cứ vật gì hỗ trợ ngoại trừ mặt bàn (xem thêm [Quy định 2i](regulations:regulation:2i)). Hình phạt: hủy kết quả lượt thi (DNF).
     - A5c) Thí sinh có thể tì khối hình vào mặt bàn để dễ xoay hơn (xem [Quy định 7f1d](regulations:regulation:7f1d)).
 - A6) Kết thúc quá trình giải:
-    - A6a) Thí sinh thả khối hình xuống trước khi kết thúc quá trình giải, và kết thúc quá trình giải bằng cách dừng đồng hồ. Nếu sử dụng đồng hồ bấm giờ, trọng tài dừng đồng hồ ngay khi thí sinh làm những hành động trên.
+    - A6a) Thí sinh thả tay khỏi khối hình trước khi kết thúc quá trình giải, và kết thúc quá trình giải bằng cách dừng đồng hồ. Nếu sử dụng đồng hồ bấm giờ, trọng tài dừng đồng hồ ngay khi thí sinh làm những hành động trên.
     - A6b) Thí sinh chịu trách nhiệm dừng đồng hồ Stackmat đúng cách.
         - A6b1) Nếu đồng hồ dừng trước khi thí sinh giải xong khối hình và đồng hồ hiện số dưới 0.06 giây, lượt thi được thay thế bằng một lượt thi bổ sung. Nếu WCA Delegate nhận thấy thí sinh cố tình dừng đồng hồ thì thí sinh bị mất quyền thi lượt bổ sung này.
         - A6b2) Nếu đồng hồ dừng trước khi thí sinh giải xong khối hình và đồng hồ hiện số từ 0.06 giây trở lên thì kết quả của lượt thi này bị hủy (DNF). Ngoại lệ: Nếu thí sinh cho thấy rằng đồng hồ bị lỗi, thí sinh có thể được thi lượt bổ sung, tùy theo quyết định của WCA Delegate.
-    - A6c) Thí sinh phải thả khối hình ra hoàn toàn trước khi dừng đồng hồ. Hình phạt: hủy kết quả lượt thi (DNF). Ngoại lệ: nếu thí sinh không xoay thêm bước nào hoặc làm xê dịch tầng nào sau khi dừng đồng hồ và trước khi thả khối hình ra, trọng tài có thể áp dụng hình phạt cộng thời gian (+2 giây) thay vì hủy kết quả, tùy theo quyết định của trọng tài.
+    - A6c) Thí sinh phải thả tay khỏi khối hình hoàn toàn trước khi dừng đồng hồ. Hình phạt: hủy kết quả lượt thi (DNF). Ngoại lệ: nếu thí sinh không xoay thêm bước nào hoặc làm xê dịch tầng nào sau khi dừng đồng hồ và trước khi thả tay khỏi khối hình, trọng tài có thể áp dụng hình phạt cộng thời gian (+2 giây) thay vì hủy kết quả, tùy theo quyết định của trọng tài.
     - A6d) Thí sinh phải dừng đồng hồ Stackmat bằng cả hai tay, đặt nằm phẳng trên cảm biến và lòng bàn tay hướng xuống dưới. Hình phạt: phạt cộng thời gian (+2 giây).
-    - A6e) Sau khi dừng đồng hồ, thí sinh không được chạm, xoay bước nào, hơặc làm xê dịch tầng nào cho đến khi trong tài đã quan sát xong.
+    - A6e) Sau khi dừng đồng hồ, thí sinh không được chạm, xoay bước nào, hoặc làm xê dịch tầng nào cho đến khi trong tài đã quan sát xong.
         - A6e1) Hình phạt cho hành động xoay thêm một bước sau khi đã dừng đồng hồ: hủy kết quả lượt thi (DNF).
         - A6e2) Hình phạt cho hành động chạm vào khối hình sau khi đã dừng đồng hồ, nhưng không xoay bước nào: phạt cộng thời gian (+2 phút). Ngoại lệ: nếu thí sinh chạm vào khối hình ngaysau khi dừng đồng hồ mà không gây ảnh hưởng trạng thái, hình phạt cộng thời gian là không cần thiết, tùy theo quyết đinh của trọng tài (xem [Quy định 11f](regulations:regulation:11f)).
     - A6f) Thí không được reset đồng hồ trước khi cả thí sinh và trọng tài đã ký xác nhận kêts quả. Hình phạt: hủy kết quả lượt thi (DNF), tùy theo quyết định của trọng tài.
-        - A6f1) Nếu thí sinh reset đồng hồ trước khi trọng tài ghi xong kết quả, trọng tài không được video hoặc hình ảnh lấy làm bằng chứng để ghi kết quả, mà thay vào đó phải hủy kết quả lượt giải (DNF).
-    - A6g) The judge determines whether the puzzle is solved. If the puzzle is misaligned, it must not be touched before the judge has determined its final state.
-    - A6h) In case of a dispute, moves or alignments must not be applied to the puzzle before the dispute is resolved.
-    - A6i) Time penalties for stopping the solve are cumulative.
-- A7) Recording results:
-    - A7a) The judge tells the competitor the result.
-        - A7a1) The judge should indicate to the competitor that the puzzle is solved, or that a penalty will be applied.
-    - A7b) The judge records the result on a score sheet and signs next to the result to acknowledge that the result is correct, complete, properly formatted, and clearly readable.
-        - A7b1) If penalties are assigned, the judge records the original recorded time displayed on the timer, along with any penalties. The format should be "T + X = F", where T represents the time displayed on the timer (the "original recorded time"), X represents a sum of time penalties during the attempt, and F represents the final result (e.g. 17.65 + 4 = 21.65).
-    - A7c) The competitor must check the recorded result, and sign (or initial) the score sheet to acknowledge that the result is correct, complete, properly formatted, and clearly readable. This finishes the attempt.
-        - A7c1) If the competitor or the judge refuses to accept and sign the score sheet, the WCA Delegate must resolve the dispute.
-        - A7c2) If the competitor intentionally signs (or otherwise marks) an attempt before they have begun it, they forfeit the attempt and the result will be considered DNS.
-        - A7c3) If the competitor signs (or otherwise marks) an attempt after starting the attempt but before the judge has finished recording the result, the attempt will be considered unfinished (DNF).
-        - A7c4) The competitor should not sign an attempt before the judge has recorded and signed the attempt. The competitor is ultimately responsible for ensuring that they and the judge have signed an attempt. If an attempt is found to be missing one or both signatures after the judge delivered the score sheet to the score taker (see [Regulation A7f](regulations:regulation:A7f)), it will be considered unfinished (DNF).
-        - A7c5) Missing signatures found before the end of the competition (see [Regulation 9u](regulations:regulation:9u)) may be added by the judge and/or the competitor, at the discretion of the WCA Delegate.
-    - A7f) When a competitor's score sheet for a round is complete, the judge delivers the score sheet to the score taker.
-    - A7g) At the discretion of the WCA Delegate, an incident or penalty caused by a competitor's inexperience may be replaced with an extra attempt.
+        - A6f1) Nếu thí sinh reset đồng hồ trước khi trọng tài ghi xong kết quả, trọng tài không được video hoặc hình ảnh lấy làm bằng chứng để ghi kết quả, mà thay vào đó phải hủy kết quả lượt thi đó (DNF).
+    - A6g) Trọng tài quyết định xem khối hình đã được giải xong hay chưa. Nếu có các tầng bị lệch, không được chạm vào khối hình cho đến khi trọng tài đã quyết định được trạng thái cuối cùng của khối hình là gì.
+    - A6h) Trong trường hợp có khiếu nại, không được chạm vào khối hình cho đến khi khiếu nại được giải quyết.
+    - A6i) Các hình phạt cộng thời gian trong thời gian kết thúc quá trình giải được cộng dồn với nhau.
+- A7) Ghi kết quả:
+    - A7a) Trọng tài thông báo kết quả cho thí sinh.
+        - A7a1) Trọng tài nên thông báo cho thí sinh rằng khối hình đã được giải xong hay chưa, hay có áp dụng thêm hình phạt gì không.
+    - A7b) Trọng tài ghi kết quả vào phiếu điểm và ký tên bên cạnh để xác nhận kết quả được ghi đúng, đầy đủ, đúng định dạng và rõ ràng.
+        - A7b1) Nếu có hình phạt cộng thời gian, trọng tài ghi thời gian gốc trên đồng hồ, sau đó cộng thêm thời gian phạt. Định dạng kết quả là "T + X = F", trong đó T là thời gian gốc trên đồng hồ, X là tổng thời gian phạt, và F là kết quả cuối cùng (VD: 17.65 + 4 = 21.65).
+    - A7c) Thí sinh phải kiểm tra kỹ kết quả được ghi lại, và ký tên để xác nhận kết quả được ghi đúng, đầy đủ, đúng định dạng và rõ ràng.
+        - A7c1) Nếu trọng tài hoặc thí sinh từ chối ký xác nhận vào phiếu điểm, WCA Delegate phải giải quyết khiếu nại.
+        - A7c2) Nếu thí sinh cố ý ký tên (hoặc đánh dấu) xác nhận lượt thi khi chưa bắt đầu, lượt thi đó coi như bỏ và kết quả là DNS.
+        - A7c3) Nếu thí sinh ký tên (hoặc đánh dấu) xác nhận lượt thi sau khi đã bắt đầu nhưng trước khi trọng tài ghi xong kết quả, kết quả lượt thi bị hủy (DNF).
+        - A7c4) Thí sinh không nên ký xác nhận lượt thi trước khi trọng tài đã ghi xong kết quả và ký xác nhận. Thí sinh chịu trách nhiệm cuối cùng về việc đảm bảo cả thí sinh và trọng tài đã ký xác nhận lượt thi. Nếu lượt thi thiếu một hoặc cả hai chữ ký khi phiếu điểm đã đến tay người nhập liệu (xem [Quy định A7f](regulations:regulation:A7f)), kết quả của lượt thi đó bị hủy (DNF).
+        - A7c5) Nếu phát hiện các lượt thi thiếu chữ ký trước khi giải đấu kết thúc (xem [Quy định 9u](regulations:regulation:9u)), trọng tài và/hoặc thí sinh có thể ký bổ sung, tùy theo quyết định của WCA Delegate.
+    - A7f) Khi phiếu điểm của thí sinh đã ghi đầy đủ, trọng tài giao lại phiếu điểm cho người nhập liệu.
+    - A7g) Những sự cố hoặc lượt thi có hình phạt có thể được thay thế bằng một lượt thi bổ sung nếu những sự cố này xảy ra vì thí sinh thiếu kinh nghiệm thi đấu, tùy theo quyết định của WCA Delegate.
+
+## <article-B><blindfolded><blindfoldedsolving> Mục B: Giải Bịt mắt
+
+- B1) Các lượt thi Giải Bịt mắt tuân theo quy trình thi đấu đã được nêu tại [Mục A](regulations:article:A) (Giải Tốc độ). Các Quy định sau đây có hiệu lực cao hơn các Quy định tương ứng tại [Mục A](regulations:article:A).
+    - B1a) Không có thời gian quan sát (lượt thi bắt đầu ngay khi quá trình giải bắt đầu).
+    - B1b) Thí sinh tự mang bịt mắt.
+- B2) Bắt đầu lượt thi:
+    - B2a) Trong tài reset đồng hồ theo [Quy định A3b](regulations:regulation:A3b) và thông báo với thí sinh rằng trọng tài đã sẵn sàng để thí sinh bắt đầu lượt thi (VD: đặt hộp đậy khối hình trước mặt thí sinh, nói "SẴN SÀNG", hoặc ra hiệu bằng cách giơ ngón cái). Thí sinh phải bắt đầu lượt thi trong vòng một phút, nếu không thì sẽ coi như đã bỏ lượt (DNS), tùy theo quyết định của trọng tài.
+    - B2b) Nếu sử dụng đồng hồ Stackmat, thí sinh đặt ngón tay lên cảm biến của đồng hồ Stackmat. Lòng bàn tay phải hướng xuống dưới, đặt ở phía gần thí sinh hơn. Hình phạt: phạt cộng thời gian (+2 giây).
+    - B2c) Nếu sử dụng đồng hồ Stackmat, thí sinh không được chạm tay vào khối hình hay hộp đậy khối hình khi đang bắt đầu lượt thi. Hình phạt: phạt cộng thời gian (+2 giây).
+    - B2d) Nếu sử dụng đồng hồ Stackmat, thí sinh nên giữ tay trên đồng hồ cho đến khi thấy đèn màu xanh bật sáng. Đồng hồ bắt đầu chạy khi thí sinh bỏ tay khỏi đồng hồ. Thí sinh bắt đầu quá trình giải (và lượt thi) bằng cách bắt đầu chạy đồng hồ.
+        - B2d1) Sau khi bắt đầu chạy đồng hồ, thí sinh bỏ hộp đậy ra khỏi khối hình.
+        - B2d2) Nếu sử dụng đồng hồ bấm giờ cùng với đồng hồ Stackmat, trọng tài bắt đầu bấm giờ ngay khi thí sinh bắt đầu quá trình giải.
+    - B2f) Nếu chỉ sử dụng đồng hồ bấm giờ, thí sinh xác nhận đã sẵn sàng và bắt đầu quá trình giải bằng cách bỏ hộp đậy ra khỏi khối hình. Trọng tài bắt đấu bấm giờ gnay khi thí sinh bắt đầu quá trình giải.
+- B3) Giai đoạn ghi nhớ.
+    - B3a) Thí sinh được cầm khối hình lên trong giai đoạn ghi nhớ.
+    - B3b) Thí sinh không được ghi chép. Hình phạt: Hủy kết quả lượt thi (DNF).
+    - B3c) Thí sinh không được xoay bước nào hoặc cố tình làm xê dịch các tầng (xem [Quy định A3c2](regulations:regulation:A3c2)) của khối hình trong thời gian ghi nhớ. Hình phạt: hủy kết quả lượt thi (DNF).
+    - B3d) Nếu các viên của khối hình không hoàn toàn thẳng hàng, thí sinh được phép nắn cho các mặt thẳng hằng trở lại, miễn sao cho độ lệch không vượt quá các giới hạn tại [Quy định 10f](regulations:regulation:10f) (xem [Quy định A3c2](regulations:regulation:A3c2)).
+- B4) Giai đoạn bịt mắt:
+    - B4a) Thí sinh đeo bịt mắt để bắt đầu giai đoạn bịt mắt.
+        - B4a1) Nếu thí sinh chưa xoay bước nào, thí sinh có thể bỏ bịt mắt ra để trở về giải đoạn ghi nhớ.
+    - B4b) Thí sinh không được xoay bước nào hoặc cố tình làm xê dịch các tầng của khối hình nếu bịt mắt chưa che kín mặt. Hình phạt: hủy kết quả lượt thi (DNF).
+    - B4c) Ngay khi thí sinh xoay bước đầu tiên, trọng tài phải đặt tấm chắn tầm nhìn (VD: tờ giấy, bìa) ở giữa mặt thí sinh và khối hình.
+        - B4c1) Thí sinh phải đeo bịt mắt sao cho tầm nhìn bị chặn kể cả nếu không có tấm chắn.
+        - B4c3) Nếu thí sinh và trọng tài đồng thuận, thí sinh có thể tự đặt khối hình sau vật chắn phù hợp (VD: kẹp harmonica có gắn tấm chắ, mặt bàn) trong giai đoạn bịt mắt.
+    - B4d) Thí sinh không được nhìn khối hình trong toàn bộ giai đoạn bịt mắt. Hình phạt: hủy kết quả lượt thi (DNF).
+- B5) Kết thúc quá trình giải:
+    - B5a) Nếu sử dụng đồng hồ Stackmat, thí sinh kết thúc quá trình giải bằng cách thả khối hình ra và dừng đồng hồ.
+        - B5a1) Nếu sử dụng đồng hồ bấm giờ kèm với đồng hồ Stackmat, trọng tài dừng đồng hồ ngay khi thí sinh kết thúc quá trình giải.
+    - B5b) Nếu chỉ sử dụng đồng hồ bấm giờ, thí sinh kết thúc quá trình giải bằng cách thả tay khỏi khối hình và thông báo với trọng tài rằng quá trình giải đã kết thúc. Trọng tài dừng đồng hồ ngay khi nhận thấy thông báo của thí sinh.
+        - B5b1) Cách thông báo mặc định là thả tay khỏi khống hình và đặt tay lên mặt bàn, lòng bàn tay hướng xuống dưới. Thí sinh và trọng tài có thể chọn cách thông báo khác trước khi lượt thi bắt đầu.
+    - B5c) Nếu thí sinh hiện đang không chạm vào khối hình, thí sinh được phép bỏ bịt mắt trước khi dừng đồng hồ. Thí sinh không được chạm vào khối hình cho đến khi quá trình giải đã kết thúc. Hình phạt nếu chạm vào khối hình: hủy kết quả lượt thi (DNF).
 
 
-## <article-B><blindfolded><blindfoldedsolving> Article B: Blindfolded Solving
+## <article-C><one-handed><onehandedsolving> Mục C: Giải Một tay
 
-- B1) Standard speed solving procedures are followed, as described in [Article A](regulations:article:A) (Speed Solving). Additional regulations that supersede the corresponding procedures in [Article A](regulations:article:A) are described below.
-    - B1a) There is no inspection period (i.e. the solve starts at the same time as the attempt).
-    - B1b) The competitor supplies their own blindfold.
-- B2) Starting the attempt:
-    - B2a) The judge resets the timer(s) as in [Regulation A3b](regulations:regulation:A3b) and indicates that they are ready for the competitor to start the attempt (e.g. placing the puzzle cover in front of the competitor, saying "READY", giving a thumbs-up signal). The competitor must start the attempt within one minute, else the competitor forfeits the attempt (DNS), at the discretion of the judge.
-    - B2b) When using the Stackmat timer, the competitor uses their fingers to touch the elevated sensor surfaces of the timer. The competitor's palms must be facing down, and located on the side of the timer that is closer to them. Penalty: time penalty (+2 seconds).
-    - B2c) When using the Stackmat timer, the competitor must have no physical contact with the puzzle or the puzzle cover while starting the attempt. Penalty: time penalty (+2 seconds).
-    - B2d) When using the Stackmat timer, the competitor should keep their hands on the timer until they see a green timer light. The timer is started when they remove their hand(s) from the timer. The competitor starts the attempt and the solve by starting the timer.
-        - B2d1) The competitor removes the cover from the puzzle after starting the timer.
-        - B2d2) If a stopwatch is in use in addition to the Stackmat timer, the judge starts the stopwatch as soon as the competitor starts the solve.
-    - B2f) When using a stopwatch as the only timer, the competitor confirms they are ready and starts the solve by lifting the cover. The judge starts the stopwatch as soon as the competitor starts the solve.
-- B3) Memorization phase:
-    - B3a) The competitor may pick up the puzzle during the memorization phase.
-    - B3b) The competitor must not make physical notes. Penalty: disqualification of the attempt (DNF).
-    - B3c) The competitor must not apply moves or intentional changes in alignment (see [Regulation A3c2](regulations:regulation:A3c2)) to the puzzle during the memorization phase. Penalty: disqualification of the attempt (DNF).
-    - B3d) If the parts of the puzzle are not fully aligned, then the competitor may align the faces, as long as misalignments stay within the limits of [Regulation 10f](regulations:regulation:10f) (see [Regulation A3c2](regulations:regulation:A3c2)).
-- B4) Blindfolded phase:
-    - B4a) The competitor dons the blindfold to start the blindfolded phase.
-        - B4a1) Until the competitor applies the first move to the puzzle, they may remove the blindfold to return to the memorization phase.
-    - B4b) The competitor must not apply moves or intentional changes in alignment to the puzzle before they have fully donned the blindfold. Penalty: disqualification of the attempt (DNF).
-    - B4c) As soon as the competitor applies the first move to the puzzle, the judge must ensure that there is a sight blocker (e.g. a sheet of paper or cardboard) between the competitor's face and the puzzle.
-        - B4c1) In all cases, the competitor must wear the blindfold such that their view of the puzzle would still clearly be blocked if the sight blocker were not in the way.
-        - B4c3) If the judge and competitor agree beforehand, the competitor may choose to place the puzzle behind a suitable object (e.g. a music stand, the surface of the table) by themselves during the blindfolded phase.
-    - B4d) The competitor must not look at the puzzle at any point during the blindfolded phase. Penalty: disqualification of the attempt (DNF).
-- B5) Stopping the solve:
-    - B5a) When using the Stackmat timer, the competitor stops the solve by releasing the puzzle and then stopping the timer.
-        - B5a1) If a stopwatch is in use in addition to the Stackmat timer, the judge stops the stopwatch as soon as the competitor stops the solve.
-    - B5b) When using a stopwatch as the only timer, the competitor stops the solve by releasing the puzzle and notifying the judge that they have stopped the solve. The judge stops the stopwatch as soon as the competitor does this.
-        - B5b1) The competitor's default notification signal consists of releasing the puzzle(s) from their hands and placing their hands on the surface, with palms down. The competitor and the judge may agree on another appropriate notification before the start of the attempt.
-    - B5c) If the competitor is not touching the puzzle, they may remove the blindfold before they stop the timer. They must not touch the puzzle until the end of the solve. Penalty for touching the puzzle: disqualification of the attempt (DNF).
+- C1) Các lượt thi Giải Một tay tuân theo quy trình thi đấu đã được nêu tại [Mục A](regulations:article:A) (Giải Tốc độ). Các Quy định sau đây có hiệu lực cao hơn các Quy định tương ứng tại [Mục A](regulations:article:A).
+    - C1b) Trong quá trình giải, thí sinh chỉ được xoay khối hình bằng một tay. Hình phạt: hủy kết quả lượt thi (DNF).
+        - C1b2) Nếu khối hình bị hư hỏng và thí sinh quyết định sửa chữa, thí sinh phải sửa khối hình chỉ bằng tay đang dùng để giải. Hình phạt: hủy kết quả lượt thi (DNF).
+        - C1b3) Nếu các bộ phận khác của cơ thể thí sinh vô ý chạm vào khối hình hoặc các bộ phận của khối hình và không xoay phải bước nào, tùy theo quyết định của trọng tài thì việc này không được coi là xoay khối hình.
+        - C1b4) Trong quá trình giải, thí sinh có thể kì khối hình vào mặt bàn để xoay dễ hơn (xem [Quy định 7f1d](regulations:regulation:7f1d)).
+    - C1c) Trong quá trình giải, một khi thí sinh đã xoay khối hình bằng một tay rồi thì thí sinh không được xoay bằng tay còn lại nữa. Hình phạt: hủy kết quả lượt thi (DNF).
 
 
-## <article-C><one-handed><onehandedsolving> Article C: One-Handed Solving
+## <article-E><fewest-moves><fewestmovessolving> Mục E: Giải Tối ưu
 
-- C1) Standard speed solving procedures are followed, as described in [Article A](regulations:article:A) (Speed Solving). Additional regulations that supersede the corresponding procedures in [Article A](regulations:article:A) are described below.
-    - C1b) During the solve, the competitor must use only one hand to operate the puzzle. Penalty: disqualification of the attempt (DNF).
-        - C1b2) If a puzzle defect occurs, and the competitor chooses to repair it, they must repair it using only the solving hand. Penalty: disqualification of the attempt (DNF).
-        - C1b3) If other body parts of the competitor come in contact with the puzzle or parts of the puzzle without the competitor's intention and without applying moves, this is not considered operating the puzzle, at the discretion of the judge.
-        - C1b4) During the solve, the competitor may hold the puzzle against the surface to help operate the puzzle (see [Regulation 7f1d](regulations:regulation:7f1d)).
-    - C1c) During the solve, once a competitor operates the puzzle with one hand, they must not operate the puzzle with the other hand. Penalty: disqualification of the attempt (DNF).
-
-
-## <article-E><fewest-moves><fewestmovessolving> Article E: Fewest Moves Solving
-
-- E2) Procedure for 3x3x3 Fewest Moves:
-    - E2a) The judge distributes a scramble sequence and paper to all competitors. The judge then starts the stopwatch and calls "GO".
-        - E2a1) Before the attempt has begun, the competitor must not write on any paper intended for the attempt. Exception: the competitor may write information to identify the attempt (see [Regulation E2c1](regulations:regulation:E2c1)). If they write this information on the paper that contains the scramble sequence, they must write only on the side without the scramble sequence before the attempt. Penalty for writing anything other than information to identify the attempt: disqualification of the attempt (DNF).
-    - E2b) All competitors have a total time limit of 60 minutes to find and write a solution.
-        - E2b1) The judge should call "5 MINUTES REMAINING" at 55 minutes, and must call "STOP" at 60 minutes.
-    - E2c) At 60 minutes, each competitor must submit to the judge a single piece of paper with a written solution and information to identify the attempt.
-        - E2c1) Information to identify the attempt is: the competitor's name, WCA ID, or competition registrant ID (at least one, optionally multiple), and optionally the competition name, round, or attempt number. Penalty for a submitted solution without name, WCA ID, or competition registrant ID: disqualification of the attempt (DNF).
-        - E2c2) The solution must be a single unambiguous move sequence with each individual move written out in sequential order. Penalty for an ambiguous solution: disqualification of the attempt (DNF).
-        - E2c3) The competitor should clearly black out/scribble out all moves on the paper that are not part of their intended solution.
-        - E2c4) The competitor's solution must only use moves that are exactly defined as notation for the 3x3x3 Cube in [Regulation 12a](regulations:regulation:12a), and must not use any symbols or combinations of symbols that are not specifically defined there. Penalty: disqualification of the attempt (DNF).
-        - E2c5) The competitor's solution is considered correct if starting with a solved puzzle and applying the scramble sequence followed by the solution results in a solved puzzle. Penalty for an incorrect solution: disqualification of the attempt (DNF).
-    - E2d) The competitor's result is the number of moves in their solution, calculated using Outer Block Turn Metric (see [Regulation 12a5](regulations:regulation:12a5)).
-        - E2d1) The competitor's solution must not exceed 80 moves (including rotations) when calculated using Execution Turn Metric (see [Regulation 12a6](regulations:regulation:12a6)). Penalty: disqualification of the attempt (DNF).
-    - E2e) The competitor's solution must not be directly derived from any part of the scramble sequence. Penalty: disqualification of the attempt (DNF), at the discretion of the WCA Delegate.
-        - E2e1) The WCA Delegate may ask the competitor to explain the purpose of each move in their solution, irrespective of the scramble sequence. If the competitor cannot give a valid explanation, the attempt is disqualified (DNF).
-- E3) The competitor may use the following objects during the attempt. Penalty for using unauthorized objects: disqualification of the attempt (DNF).
-    - E3a) Paper (supplied by the judge), the solution sheet (supplied by the judge), a picture of the scramble for that attempt (which may be included on the paper or solution sheet), and pens/pencils or similar (supplied by the judge, or optionally self-supplied).
-    - E3b) 3x3x3 Cubes (at most 3, self-supplied), which must be as described in [Article 3](regulations:article:3) before starting the attempt.
-    - E3c) Stickers (self-supplied).
-    - E3d) Stopwatch or watch (self-supplied) for keeping track of the elapsed time, if it is approved by the WCA Delegate.
-    - E3e) Other non-electronic aids that do not give an unfair advantage, at the discretion of the WCA Delegate (see [Regulation 2i1](regulations:regulation:2i1)).
-    - E3f) Tools to remove markings (self-supplied), such as correction fluid, correction tape, or erasers.
-- E4) The WCA Delegate may choose to publish the solutions (e.g. photo of the score sheets or transcriptions of solutions).
-- E5) The competitor must not communicate with anyone other than the WCA Delegate or the judge. This communication should be about the WCA Regulations and the competitor must not receive assistance deriving their solution. Penalty: disqualification of the attempt (DNF).
+- E2) Quy trình thi đấu của nội dung Giải Tối ưu 3x3x3.
+    - E2a) Trọng tài phát công thức tráo và giấy thi cho các thí sinh. Sau đó, trọng tài bắt đầu bấm giờ và thông báo "BẮT ĐẦU".
+        - E2a1) Trước khi lượt thi bắt đầu, thí sinh không được viết lên giấy dùng cho lượt thi. Ngoại lệ: thí sinh được viết thông tin nhận diện lượt thi (xem [Quy định E2c1](regulations:regulation:E2c1)). Nếu thí sinh viết thông tin vào giấy in công thức tráo, thí sinh chỉ được viết vào mặt không có công thức tráo trước khi lượt thi bắt đầu. Hình phạt nếu viết thông tin khác ngoài thông tin nhận diện: hủy kết quả lượt thi (DNF).
+    - E2b) Các thí sinh có tổng cộng 60 phút để tìm và ghi lại công thức giải.
+        - E2b1) Trọng tài nên thông báo "CÒN 5 PHÚT" khi 55 phút đã trôi qua, và phải thông báo "HẾT GIỜ" khi 60 phút đã trôi qua.
+    - E2c) Khi đã hết 60 phút, thí sinh phải nộp duy nhất một tờ giấy thi cho trọng tài, trong giấy thi có ghi công thức giải và thông tin nhận diện lượt thi.
+        - E2c1) Thông tin nhận diện lượt thi bao gồm: họ và tên thí sinh, WCA ID hoặc số ID thí sinh (ít nhất một trong hai), và có thể thêm tên giải đấu, số vòng hoặc số lượt giải, nhưng không bắt buộc. Hình phạt nếu giấy thi không ghi tên, WCA ID hoặc số ID thí sinh: hủy kết quả lượt thi (DNF).
+        - E2c2) Công thức giải phải là một chuỗi các bước rõ ràng, các bước được viết liền nhau theo thứ tự. Hình phạt nếu công thức giải không rõ ràng: hủy kết quả lượt thi (DNF).
+        - E2c3) Thí sinh nên tô đen kín toàn bộ các bước giải không phải là bước trong công thức giải.
+        - E2c4) Công thức giải chỉ được bao gồm ký hiệu bước được quy định rõ cho Khối 3x3x3 trong [Quy định 12a](regulations:regulation:12a), và không được sử dụng các ký hiệu (hoặc tổ hợp ký hiệu) khác. Hình phạt: hủy kết quả lượt thi (DNF).
+        - E2c5) Công thức giải được coi là đúng nếu từ một khối hình đã giải, sau khi xoay theo công thức tráo và công thức giải thì khối hình trở về trạng thái giải. Hình phạt nếu công thức giải sai: hủy kết quả lượt thi (DNF).
+    - E2d) Kết quả của thí sinh là số bước trong công thức giải, tính theo Hệ đo Bước Tầng ngoài (xem [Quy định 12a5](regulations:regulation:12a5)).
+        - E2d1) Công thức giải không được vượt quá 80 bước (tính cả các bước xoay cả khối), tính theo Hệ đo Bước Hành động (xem [Quy định 12a6](regulations:regulation:12a6)). Hình phạt: hủy kết quả lượt thi (DNF).
+    - E2e) TCông thức giải của thí sinh không được trích thẳng bất kì phần nào của công thức tráo. Hình phạt: hủy kết quả lượt thi (DNF), tùy theo quyết định của WCA Delegate.
+        - E2e1) WCA Delegate có thể yêu cầu thí sinh giải thích mục đích của từng bước trong công thức giải, bất kể công thức tráo là gì. Nếu thí sinh không giải thích được, lượt thi đó bị hủy kết quả (DNF).
+- E3) Thí sinh được phép sử dụng các vật dụng sau trong lượt thi. Hình phạt nếu sử dụng các vật dụng khác: hủy kết quả lượt thi (DNF).
+    - E3a) Giấy nháp (trọng tài cung cấp), giấy thi (trọng tài cung cấp), hình minh họa công thức tráo (có thể in trên giấy rời hoặc ngay trên tờ giấy thi), bút bi, bút chì hoặc các loại bút khác (có thể tự mang hoặc do trọng tài cung cấp).
+    - E3b) Khối hình 3x3x3 (nhiều nhất 3 khối, tự mang), phải tuân thủ [Mục 3](regulations:article:3) trước khi lượt thi bắt đầu.
+    - E3c) Giấy dán (tự mang).
+    - E3d) Đồng hồ bấm giờ hoặc đồng hồ đeo tay (tự mang) để tính giờ, nếu được WCA Delegate chấp thuận.
+    - E3e) Các thiết bị hỗ trợ không có linh kiện điện tử, tùy theo quyết định của WCA Delegate (xem [Quy định 2i1](regulations:regulation:2i1)).
+    - E3f) Dụng cụ tẩy xóa (tự mang), ví dụ như bút xóa nước, bút xóa kéo hoặc gôm, tẩy.
+- E4) WCA Delegate có quyền công khai các bài thi của thí sinh (VD: ảnh chụp tờ giấy thi hoặc công thức giải).
+- E5) Thí sinh không được giao tiếp với bất kỳ ai ngoài trọng tài hoặc WCA Delegate, và việc giao tiếp nên về việc làm rõ Quy định WCA. Thí sinh không được nhận hỗ trợ về việc tìm công thức giải. Hình phạt: hủy kết quả lượt thi (DNF).
 
 
-## <article-F><clock><clocksolving> Article F: Clock Solving
+## <article-F><clock><clocksolving> Mục F: Giải Clock
 
-- F1) Standard speed solving procedures are followed, as described in [Article A](regulations:article:A) (Speed Solving). Additional regulations that supersede the corresponding procedures in [Article A](regulations:article:A) are described below.
-- F2) The organization team may enforce using a stand for the puzzle to prevent it from falling before the start of the attempt. If such stands are used, the organization team should make an announcement before the round starts.
-- F3) The competitor may change the state of the pins during the inspection. These changes are not counted as moves.
-- F4) The competitor must not change the state of any inner clock faces in the puzzle during the inspection. Penalty: disqualification of the attempt (DNF).
+- F1) Các lượt thi Giải Clock tuân theo quy trình thi đấu đã được nêu tại [Mục A](regulations:article:A) (Giải Tốc độ). Các Quy định sau đây có hiệu lực cao hơn các Quy định tương ứng tại [Mục A](regulations:article:A).
+- F2) Ban tổ chức có thể sử dụng giá đỡ để khối kình không bị đổ trước khi lượt thi bắt đầu. Ban tổ chức nên thông báo trước vòng thi nếu có sử dụng giá đỡ.
+- F3) Thí sinh được phép nhấn các nút ghim trong thời gian quan sát. Việc nhấn nút ghim này không được tính thành bước giải.
+- F4) Thí sinh không được xoay các mặt đồng hồ con trong thời gian quan sát. Hình phạt: hủy kết quả lượt thi (DNF).
 
 
-## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Article H: Multi-Blind Solving
-
-- H1) Standard blindfolded solving procedures are followed, as described in [Article B](regulations:article:B) (Blindfolded Solving). Additional regulations that supersede the corresponding procedures in [Article B](regulations:article:B) are described below.
-    - H1a) Before an attempt, the competitor must submit to the organization team the number of puzzles (at least 2) they wish to attempt.
-        - H1a1) A competitor is not permitted to change the number of puzzles after submitting their number to the organization team.
-        - H1a2) A competitor may request to keep their submission private until all competitors have submitted their numbers. Once all competitors have reported their numbers, the information becomes public (e.g. a competitor may ask for the numbers of any other competitors before starting their attempt).
-        - H1a3) Before the attempt, the scrambled puzzles must be placed on the table in an arbitrary orientation while ensuring they remain completely covered. The puzzles should be arranged in a shape as square as possible (e.g. 8 puzzles should be arranged in 2 rows with 3 puzzles and 1 row with 2 puzzles).
-    - H1b) If a competitor is attempting fewer than 6 puzzles, they are allotted a time limit of 10 minutes times the number of puzzles in the attempt, else the time limit is 60 minutes.
-        - H1b1) The competitor may signal the end of the solve at any time. If and when the time limit is reached, the judge stops the attempt and the attempt is then scored; the time limit for the attempt counts as the original recorded time.
-    - H1d) Time penalties for the puzzles of the attempt are cumulative.
-    - H1e) The competitor must not apply any moves to one or more puzzles during the memorization phase. Penalty: disqualification of the attempt (DNF). Exception: these individual puzzles may be considered unsolved at the end of the attempt instead of disqualifying the entire attempt, at the discretion of the WCA Delegate.
-- H2) The competitor may self supply a flat covering (e.g. a mat or a cloth) for the surface, at the discretion of the WCA Delegate. If the competitor wishes to do so, the request must be made at the same time as submitting the number of puzzles (see [Regulation H1a](regulations:regulation:H1a)).
+## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Mục H: Giải Bịt mắt nhiều khối
+- H1) Các lượt thi Giải Bịt mắt nhiều khối tuân theo quy trình thi đấu đã được nêu tại [Mục B](regulations:article:B) (Giải Bịt mắt). Các Quy định sau đây có hiệu lực cao hơn các Quy định tương ứng tại [Mục B](regulations:article:B).
+    - H1a) Trước lượt thi, thí sinh nộp cho ban tổ chức số khối hình (ít nhất 2) mà thí sinh muốn sử dụng cho lượt thi đó.
+        - H1a1) Một khi đã nộp số khối hình, thí sinh không được phép thay đổi.
+        - H1a2) Thí sinh có thể yêu cầu ban tổ chức không tiết lộ số khối hình của mình cho đến khi toàn bộ thí sinh đã nộp số khối hình. Mộtt khi tất cả thí sinh đã nộp số khối hình, thông tin này lập tức trở thành công khai (VD: thí sinh có thể hỏi xem thí sinh khác nộp bao nhiêu khối hình trước khi lượt thi của họ bắt đầu).
+        - H1a3) Trước khi lượt thi bắt đầu, các khối hình đã được tráo phải được đặt trên bàn, với hướng chỉ bất kì và phải đảm bảo tất cả khối hình được che kín. Các khối hình nên được xếp sao cho gần với hình vuông nhất có thể (VD: 8 khối hình nên được xếp thành 2 hàng 3 khối và 1 hàng 2 khối).
+    - H1b) Nếu thí sinh dùng ít hơn 6 khối, giới hạn thời gian của thi sính là 10 phút nhân với số khối hình, còn nếu không thì giới hạn thời gian là 60 phút.
+        - H1b1) Thí sinh có thể thông báo kết thúc quá trình giải vào bất kỳ lúc nào. Nếu thí sinh đạt đến giới hạn thời gian, trọng tài dừng lượt thi và tính kết quả lượt thi; giới hạn thời gian của lượt thi trở thành thời gian được ghi lại.
+    - H1d) Hình phạt cộng thời gian của các khối hình được cộng dồn với nhau.
+    - H1e) Thí sinh không được xoay bước nào ở bất kỳ khối hình nào trong giai đoạn ghi nhớ. Hình phạt: hủy kết quả lượt thi (DNF). Ngoại lệ: các khối hình này có thể được tính riêng là chưa giải xong khi lượt thi kết thúc thay vì hủy kết quả cả lượt, tùy theo quyết định của WCA Delegate.
+- H2) Thí sinh có thể tự mang vật trải bàn (VD: thảm hoặc khăn trải bàn), tùy theo quy định của WCA Delegate, và yêu cầu này phải được thông báo cho ban tổ chức vào cùng lúc nộp số khối hình (xem [Quy định H1a](regulations:regulation:H1a)).
