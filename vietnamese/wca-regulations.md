@@ -364,7 +364,7 @@ Lưu ý: Vì số thứ tự của các Mục và Quy định không được s�
 - 12e) Ký hiệu bước cho Pyraminx:
     - 12e1) Khối hình đặt sau cho mặt dưới nằm ngang hoàn toàn, và mặt phía trước hướng về phía người cầm khối hình.
     - 12e2) Theo chiều kim đồng hồ, 120 độ: U (2 tầng trên), L (2 tầng trái), R (2 tầng phải), B (2 tầng sau), u (đỉnh trên), l (đỉnh trái), r (đỉnh phải), b (đỉnh sau).
-    - 12e2) Ngược chiều kim đồng hồ, 120 độ: U' (2 tầng trên), L' (2 tầng trái), R' (2 tầng phải), B' (2 tầng sau), u' (đỉnh trên), l' (đỉnh trái), r' (đỉnh phải), b' (đỉnh sau).
+    - 12e3) Ngược chiều kim đồng hồ, 120 độ: U' (2 tầng trên), L' (2 tầng trái), R' (2 tầng phải), B' (2 tầng sau), u' (đỉnh trên), l' (đỉnh trái), r' (đỉnh phải), b' (đỉnh sau).
 - 12g) Ký hiệu bước cho Clock:
     - 12g1) Khối hình được cầm sao cho dấu chỉ 12h hướng lên trên và bất kì mặt nào hướng về phía trước.
     - 12g2) Đẩy nút ghim lên: UR (phía trên bên phải), DR (phía dưới bên phải), DL (phía dưới bên trái), UL (phía trên bên trái), U (hai nút trên), R (hai nút phải), D (hai nút dưới), L (hai nút trái), ALL (toàn bộ).
