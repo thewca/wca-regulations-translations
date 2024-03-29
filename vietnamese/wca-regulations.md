@@ -144,7 +144,7 @@ Lưu ý: Vì số thứ tự của các Mục và Quy định không được s�
 - 3j) Khối hình phải sạch, không có các vết bẩn, các viên bị nhô lên, hư hỏng hoặc bất kì đặc điểm gì khiến một viên khác biệt rõ rệt so với các viên cùng loại. Ngoại lệ: logo (xem [Quy định 3l](regulations:regulation:3l)).
     - 3j1) Khối hình có thể bị hao mòn trong mức chấp nhận được, tùy theo quyết định của WCA Delegate.
         - 3j1a) Sự hao mòn của khối hình được coi là “chấp nhận được” nếu là hậu quả của việc sử dụng bình thường, và nếu sự hao mòn này không cung cấp thêm thông tin đáng kể về trạng thái khối hình (VD: vị trí của một hoặc nhiều viên nhất định).
-    - 3j2) Định nghĩa: Hai viên giống nhau nếu tương đồng về hình dạng và kích cỡ, hoặc kích cỡ tương đồng và hình dạng đối nhau.
+    - 3j2) Định nghĩa: Hai viên được coi là cùng loại nếu tương đồng về hình dạng và kích cỡ, hoặc kích cỡ tương đồng và hình dạng đối nhau.
     - 3j3) Các khối hình có kết cấu bề mặt khiến cho hướng xoay của các viên có thể phân biệt được thông qua việc sờ vào đều không được phép sử dụng cho các nội dung bịt mắt.
 - 3k) Khối hình nên được WCA Delegate chấp thuận trước khi sử dụng để thi đấu.
     - 3k1) Nếu khối hình phạm quy bị phát hiện khi vòng thi đang diễn ra, thí sinh không được tiếp tục dùng khối hình này, và phải nội khối hình thay thế.
