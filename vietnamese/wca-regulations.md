@@ -1,26 +1,26 @@
 # <wca-title>Quy định WCA
 
-<version>Bản cập nhật: 1 Tháng 8, 2023
+<version>Bản cập nhật: 1 Tháng 1, 2024
 
 
 ## Ghi chú
-Lần chỉnh sửa cuối: 4 Tháng 8, 2023
 
 ### Bản dịch
-Đây là bản dịch tiếng Việt của Quy định WCA, được dịch bởi [Nguyễn Đào Quốc Anh](mailto:quocanhnguyendao@yahoo.com), đồng thời có tham khảo bản dịch của [Nguyễn Hải Dương](mailto:haiduongnguyen32@gmail.com).
 
-Lưu ý rằng bản dịch không phải là chính thức và chỉ mang tính tham khảo, mặc dù được cung cấp trên website WCA. Nếu có điểm khác biệt giữa bản dịch và bản tiếng Anh hiện hành, bản tiếng Anh phải được sử dụng.
+Đây là bản dịch tiếng Việt của Quy định WCA, được dịch bởi [Nguyễn Hải Dương](mailto:nduong@worldcubeassociation.org).
+
+Lưu ý rằng, mặc dù được cung cấp trên website WCA, bản dịch không phải văn bản chính thức. Nếu có khác biệt giữa bản dịch và bản tiếng Anh hiện hành, bản tiếng Anh phải được sử dụng.
 
 ### Quy định và Hướng dẫn WCA
 
-Quy định WCA bao gồm tất cả các Quy định có hiệu lực với tất cả các giải đấu chính thức được cấp phép bởi Hiệp hội Rubik Thế giới (WCA).
-Quy định WCA được bổ sung bởi [Hướng dẫn WCA](guidelines:top). Bản Quy định là văn bản hoàn thiện, còn bản "Hướng dẫn WCA" bao gồm những thông tin bổ sung và giải thích.
+Bản Quy định WCA bao gồm tất cả các Quy định mà các giải đấu được Hiệp hội Rubik Thế giới (WCA) công nhận phải tuân thủ.
+Bản Quy định được bản [Hướng dẫn WCA](guidelines:top) bổ sung. Bản Quy định là văn bản hoàn chỉnh, còn bản Hướng dẫn bao gồm thông tin bổ sung, làm rõ.
 
 ### Ngôn ngữ
-Những từ "bắt buộc phải" (must), "không được, cấm" (must not), "nên" (should), "không nên" (should not) và "có thể" (may) được định nghĩa theo [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt).
+Những từ "bắt buộc, phải" (must), "không được, cấm" (must not), "nên" (should), "không nên" (should not) và "có thể" (may) được định nghĩa theo [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt).
 
 ### Thông tin trực tuyến
-Website Liên đoàn Rubik Thế giới: [www.worldcubeassociation.org](https://www.worldcubeassociation.org/)
+Website Hiệp hội Rubik Thế giới: [www.worldcubeassociation.org](https://www.worldcubeassociation.org/)
 Bản gốc của bản Quy định WCA: [www.worldcubeassociation.org/regulations](https://www.worldcubeassociation.org/regulations/)
 Bản Quy định WCA dưới [dạng file PDF](link:pdf)
 
@@ -28,519 +28,523 @@ Bản Quy định WCA dưới [dạng file PDF](link:pdf)
 Quá trình phát triển Quy định và Hướng dẫn WCA được công khai [trên GitHub](https://github.com/thewca/wca-regulations) và được thảo luận công khai [trên diễn đàn WCA](https://forum.worldcubeassociation.org/c/regulations).
 
 ### Liên hệ
-Nếu có câu hỏi và phản hồi, hãy liên hệ [WCA Regulations Committee (WRC)](mailto:wrc@worldcubeassociation.org).
+Mọi thắc mắc và phản hồi xin gửi đến [Ủy ban Quy định WCA (WRC)](mailto:wrc@worldcubeassociation.org).
 
 
-## <contents> [Nội dung](regulations:contents)
+## <contents> [Mục lục](regulations:contents)
 
-Chú ý: Vì số thứ tự của các Mục và Quy định không được sắp xếp lại khi các Quy định bị loại bỏ, các số thứ tự có thể bị ngắt quãng.
+Lưu ý: Vì số thứ tự của các Mục và Quy định không được sắp xếp lại khi các Quy định bị lược bỏ, các số thứ tự có thể bị ngắt quãng.
 
 <table-of-contents>
 
 
-## <article-1><officials><officials> Mục 1: Thành viên chính thức
-- 1a) Một giải đấu phải có một WCA Delegate và ban tổ chức (có một hoặc nhiều người) với các thành viên dưới đây: trọng tài (judge), người tráo (scrambler) và người ghi kết quả.
-- 1b) Ban tổ chức giải đấu chịu trách nhiệm hậu cần trước, trong và sau giải đấu.
-- 1c) WCA Delegate chịu trách nhiệm đảm bảo giải đấu tuân thủ Quy định WCA và các chính sách / yêu cầu khác của WCA. WCA Delegate có thể ủy quyền cho các thành viên khác trong ban tổ chức để hỗ trợ công việc của mình, nhưng phải luôn là người chịu trách nhiệm cuối cùng.
-    - 1c1) WCA Delegate phải bảo đảm rằng giải đấu tuân thủ [Chính Sách Trách Nhiệm Giải Trình Công Thức Tráo(WCA Scramble Accountability Policy)](https://documents.worldcubeassociation.org/documents/policies/external/Scramble%20Accountability.pdf).
-- 1e) Mỗi nội dung thi đấu phải có một hoặc nhiều trọng tài.
-    - 1e1) Trọng tài chịu trách nhiệm thực thi các thủ tục của nội dung thi đấu.
-        - 1e1a) Một trọng tài có thể đồng thời giám sát nhiều thí sinh tùy theo quyết định của WCA Delegate, với điều kiện trọng tài có thể đảm bảo tất cả các Quy định WCA luôn được tuân thủ.
-    - 1e2) Tất cả thí sinh đều phải có khả năng làm trọng tài. Nếu được yêu cầu làm trọng tài, thí sinh chỉ có thể được miễn nếu có lí do chính đáng (VD: không hiểu rõ về nội dung thi đấu), tùy theo quyết đinh của WCA Delegate. Hình phạt: truất quyền thi đấu khỏi một nội dung, nhiều nội dung, hoặc tất cả nội dung thi đấu (xem [Quy định 2k](regulations:regulation:2k)).
-- 1f) Mỗi nội dung thi đấu phải có một hoặc nhiều người tráo. Ngoại lệ: Giải Tối ưu 3x3x3 (FMC).
-    - 1f1) Người tráo sử dụng công thức tráo để chuẩn bị khối hình cho mỗi lượt giải (xem [Quy định A2](regulations:regulation:A2)).
-    - 1f2) Tất cả thí sinh đều phải có khả năng làm người tráo. Nếu được yêu cầu làm người tráo, thí sinh chỉ có thể được miễn nếu có lí do chính đáng (VD: không quen với các kí hiệu tráo), tùy theo quyết đinh của WCA Delegate. Hình phạt: truất quyền thi đấu khỏi một nội dung, nhiều nội dung, hoặc tất cả nội dung thi đấu (xem [Quy định 2k](regulations:regulation:2k)).
-- 1g) Mỗi nội dung thi đấu phải có một hoặc nhiều người ghi kết quả.
-	- 1g1) Người ghi kết quả chịu trách nhiệm tổng hợp các kết quả trong giải.
-    - 1g2) Việc chỉnh sửa các kết quả trên phiếu ghi kết quả phải được WCA Delegate chấp thuận.
-- 1h) Các thí sinh trong cùng một vòng thi của một nội dung thi đấu có thể được gộp thành một nhóm thi duy nhất hoặc được chia thành nhiều nhóm thi.
-    - 1h1) Người tráo và trọng tài cho một vòng thi không được tráo hay làm trọng tài cho các thí sinh khác trong cùng nhóm thi, cho đến khi hoàn thành toàn bộ lượt giải của mình trong vòng thi đó. Họ có thể tráo hay làm trọng tài cho các thí sinh khác trong cùng nhóm thi theo quyết định của WCA Delegate, nhưng ban tổ chức phải đảm bảo những người tráo và trọng tài không thể nhìn thấy các công thức tráo của các lượt giải mà họ chưa thực hiện (xem [Quy định 4b2](regulations:regulation:4b2)).
-- 1j) Tất cả các thành viên chính thức đều có thể tham gia thi trong giải đấu.
-- 1k) Các thành viên chính thức có thể đóng nhiều vai trò khác nhau (VD: ban tổ chức, WCA Delegate, trọng tài, người ghi kết quả, người tráo).
+## <article-1><officials><officials> Mục 1: Ủy viên chính thức
+
+- 1a) Giải đấu phải có một WCA Delegate và ban tổ chức (ít nhất một người) với các thành viên như sau: trọng tài, người tráo đề và người nhập liệu.
+- 1b) Ban tổ chức chịu trách nhiệm về hậu cần trước, trong và sau giải đấu.
+- 1c) WCA Delegate chịu trách nhiệm đảm bảo giải đấu tuân thủ Quy định WCA và các chính sách hoặc yêu cầu khác của WCA. WCA Delegate được quyền ủy nhiệm một số nhiệm vụ cho các thành viên khác của ban tổ chức, nhưng vẫn chịu trách nhiệm cuối cùng về việc thực thi các nhiệm vụ đó.
+    - 1c1) WCA Delegate phải đảm bảo giải đấu tuân thủ [Chính sách Trách nhiệm Giải trình Công thức tráo WCA](https://documents.worldcubeassociation.org/documents/policies/external/Scramble%20Accountability.pdf).
+- 1e) Mỗi nội dung thi đấu phải có ít nhất một trọng tài.
+    - 1e1) Trọng tài chịu trách nhiệm thực hiện quy trình thi đấu của nội dung.
+        - 1e1a) Trọng tài có thể giám sát nhiều thí sinh cùng lúc, tùy theo quyết định của WCA Delegate, với điều kiện trọng tài đảm bảo các Quy định WCA luôn được tuân thủ.
+    - 1e2) Toàn bộ thí sinh đều phải sẵn sàng làm trọng tài. Nếu được yêu cầu làm trọng tài, thí sinh chỉ được miễn nễu có lý do chính đáng (VD: không hiểu rõ về nội dung thi đấu), tùy theo quyết định của WCA Delegate. Hình phạt: truất quyền thi đấu khỏi một, nhiều hoặc tất cả nội dung (xem [Quy định 2k](regulations:regulation:2k)).
+- 1f) Mỗi nội dung thi đấu phải có ít nhất một người tráo đề. Ngoại lệ: Giải Tối ưu 3x3x3.
+    - 1f1) Người tráo đề tráo các khối hình dùng để thi đấu bằng công thức tráo cho sẵn (xem [Quy đinh A2](regulations:regulation:A2)).
+    - 1f2) Toàn bộ thí sinh đều phải sẵn sàng làm người tráo đề. Nếu được yêu cầu làm người tráo đề, thí sinh chỉ được miễn nếu có lý do chính đáng (VD: không hiểu rõ về ký hiệu công thức tráo), tùy theo quyết định của WCA Delegate. Hình phạt: truất quyền thi đấu khỏi một, nhiều hoặc tất cả nội dung (xem [Quy định 2k](regulations:regulation:2k)).(regulations:regulation:2k)).
+- 1g) Mỗi nội dung thi đấu phải có ít nhất một người nhập liệu.
+    - 1g1) Người nhập liệu có nhiệm vụ tổng hợp kết quả thi đấu.
+    - 1g2) Việc thay đổi kết quả đã ghi lên phiếu điểm phải được WCA Delegate cho phép.
+- 1h) Các thí sinh trong cùng một vòng thi có thể thi cùng một lúc hoặc chia thành nhiều nhóm thi.
+    - 1h1) Người tráo đề và trọng tài không nên làm nhiệm vụ tráo hoặc giám sát thí sinh trong cùng nhóm thi của mình cho đến khi đã hoàn thành toàn bộ lượt thi của vòng thi đó. Người tráo đề/trọng tài được phép làm nhiệm vụ trong cùng nhóm thi của mình nếu được WCA Delegate cho phép, nhưng ban tổ chức phải đảm bảo họ không nhìn thấy công thức tráo của những lượt mà họ chưa thi (xem [Quy định 4b2](regulations:regulation:4b2)).
+- 1j) Các ủy viên chính thức trong mục này đều có thể tham gia thi.
+- 1k) Ủy viên có thể đóng nhiều vai trò cùng lúc (VD: thành viên ban tổ chức, WCA Delegate, trọng tài, người nhập liệu, người tráo đề).
+
 
 ## <article-2><competitors><competitors> Mục 2: Thí sinh
 
-- 2a) Bất kì ai cũng có thể tham gia thi đấu trong một giải đấu WCA nếu họ:
+- 2a) Bất kì ai cũng có thể tham gia thi tại giải đấu WCA nếu:
     - 2a1) Tuân thủ Quy định WCA.
-    - 2a2) Đạt được những điều kiện về thành tích trước khi tham gia giải đấu (nếu được yêu cầu). Điều kiện phải được thông báo rõ ràng trước giải đấu.
-    - 2a3) Không bị đình chỉ bởi Ban Quản trị WCA.
-- 2b) Các thí sinh dưới 18 tuổi phải được sự cho phép của cha mẹ hoặc người giám hộ để được đăng ký và tham gia thi.
-- 2c) Thí sinh đăng ký bằng cách cung cấp tất cả các thông tin được yêu cầu bởi ban tổ chức (bao gồm: họ tên, quốc gia, ngày sinh, giới tính, thông tin liên lạc, các nội dung đăng ký thi đấu).
-    - 2c1) Một thi sinh không đủ điều kiên tham gia thi nếu không có bản đăng ký đầy đủ, theo quyết định của ban tổ chức.
-    - 2c2) Các thi sinh cũ phải cung cấp thông tin nhất quán với hồ sơ WCA của họ. Nếu một thí sinh muốn đổi hoặc cập nhật thông tin cá nhân giữa các giải đấu (VD: thay đổi quốc tịch, họ tên hoặc giới tính), họ phải [liên lạc WCA Results Team](https://www.worldcubeassociation.org/contact/website).
-- 2d) Họ tên, quốc gia, giới tính và kết quả thi đấu của một thí sinh được coi là thông tin công khai. Tất cả những thông tin cá nhân khác đều được coi là thông tin mật, và không được phép tiết lộ cho các tổ chức/cá nhân bên ngoài mà không có sự cho phép của thí sinh.
-- 2e) Các thí sinh phải đại diện cho quốc gia mà họ sở hữu quyền công dân. WCA Delegate nên xác minh quốc tịch thông qua giấy tờ cá nhân (VD: hộ chiếu) tại giải đấu đầu tiên của thí sinh. Nếu một thí sinh bị phát hiện không đủ điều kiện đại diện cho quốc gia mà họ đã đăng kí, thí sinh có thể bị truất quyền thi đấu, ngay cả khi giải đấu đã kết thúc, và/hoặc bị đình chỉ, theo quyết định của Ban Quản trị WCA.
-    - 2e1) Các quốc gia được công nhận theo [Danh sách các quốc gia được công nhận bởi WCA](https://www.worldcubeassociation.org/regulations/countries/).
-    - 2e2) Các thi sinh nếu có thay đổi tình trạng công dân có thể thay đổi quốc tịch trước hay tại giải đấu đầu tiên trong năm dương lịch của họ. Ngoại lệ: nếu thí sinh mất quyền công dân của quốc gia họ đại diện trước đó, thí sinh phải đổi quốc tịch trước hoặc tại giải đấu tiếp theo (xem [Quy định 2c2](regulations:regulation:2c2)).
-    - 2e3) Thí sinh không có quốc tịch vẫn có thể tham gia thi với tư cách “Stateless” (không quốc tịch)
-- 2f) Thí sinh phải tuân theo quy định tại hội trường và có thái độ hành xử một cách hợp lí.
-- 2g) Thí sinh phải giữ im lặng khi đang ở trong khu vực thi đấu chỉ định. Việc nói chuyện được cho phép, nhưng âm lượng phải ở mức vừa phải và phải tránh xa các thi sinh đang trong quá trình thi đấu.
-    - 2g3) Thí sinh ở trong “Nhóm Đang Thi Đấu” không được trao đổi về trạng thái tráo của các khôi hình của nhóm thi, trừ khi tất cả thí sinh đó đều không còn lượt thi nào nữa trong nhóm. Hình phạt: Truất quyền thi đấu của (các) thí sinh khỏi nội dung, tùy theo quyết định của WCA Delegate. Ngoại lệ: Với nội dung FMC, thí sinh đã hoàn thành lượt giải có thể trao đổi về trạng thái tráo của khối hình với người đang không thi lượt giải đó.
-- 2h) Thí sinh phải ăn mặc chỉnh tề khi ở trong hội trường thi đấu. Tùy theo quyết định của WCA Delegate, thí sinh có thể bị truất quyền thi đấu khỏi giải nếu ăn mặc không phù hợp.
-- 2i) Khi đang thi đấu, thí sinh không được sử dụng các thiết bị điện tử hay thiết bị âm thanh (VD: điện thoại di động, máy nghe nhạc, máy ghi âm, thiết bị hỗ trợ chiếu sáng) trừ đồng hồ Stackmat hay đồng hồ bấm giờ.
-    - 2i1) Thí sinh có thể sử dụng các thiết bị hỗ trợ không phải điện tử và không đem lại lợi thế bất công, tùy theo quyết định của WCA Delegate, bao gồm:
-        - 2i1a) Thiết bị hỗ trợ cơ thể/y tế được đeo trên người bởi thí sinh (VD: kính mắt, vòng cổ tay). Như một ngoại lệ của [Quy định 2i](regulations:regulation:2i), thí sinh có thể sử dụng các thiết bị hỗ trợ y tế điện tử nếu không có thiết bị khác thay thế (VD: máy trợ thính, máy trợ tim).
-        - 2i1b) Nút tai hoặc bịt tai (không phải tai nghe điện tử).
-        - 2i1c) Đồ làm ấm tay (miếng giữ nhiệt).
-        - 2i1d) Thức ăn và đồ uống.
-    - 2i2) Thí sinh có thể sử dụng máy quay ở bàn thi đấu tùy theo quyết định của WCA Delegate, nhưng phải tuân thủ những điều kiện sau đây kể từ khi lượt giải bắt đầu đến khi kết thúc lượt giải. Hình phạt khi không tuân theo: hủy bỏ kết quả lượt giải (DNF).
-        - 2i2a) Màn hình máy quay phải để đen xì hoặc ngoài tầm nhìn của thí sinh (xem [Quy định A5b](regulations:regulation:A5b)).
-        - 2i2b) Thí sinh không được dùng (VD: điều khiển, đeo trên người) bất kì máy quay đang hoạt động nào. Ngoại lệ: thí sinh có thể đeo máy quay trên đầu, với điều kiện máy quay ngoài tầm nhìn của thí sinh và thí sinh không được tương tác với máy quay (ngoài việc đeo máy).
-- 2j) WCA Delegate có thể truất quyền thi đấu của thí sinh khỏi một nội dung.
-    - 2j1) Nếu một thí sinh bị truất quyền thi đấu khỏi một nội dung vì bất kì lí do nào, họ không được thực hiện những lượt giải tiếp theo của nội dung đó.
-        - 2j1a) Nếu thí sinh đã bắt đầu ít nhất một lượt giải trong vòng đấu đó trước khi bị truất quyền, kết quả các lượt giải còn lại trong nội dung đều bị đánh dấu là DNF. Nếu thí sinh chưa bắt đầu lượt giải nào (không có kết quả hoặc chỉ có kết quả duới dạng “DNS”) thì sẽ không có kết quả nào được ghi lại trên hệ thống.
-    - 2j2) Nếu một thí sinh bị truất quyền thi đấu khi một nội dung đang diễn ra, những kết quả trước đó vẫn được tính là hợp lệ. Ngoại lệ: về gian lận (xem [Quy định 2k2a](regulations:regulation:2k2a)).
-    - 2j3) Một số trường hợp đặc biệt về việc có thể bị truất quyền thi đấu được mô tả trong [Quy định 2k](regulations:regulation:2k), chỉ khi có những sự cố liên quan trong lượt giải.
-- 2k) Theo quyết định của WCA Delegate, thí sinh có thể bị truất quyền thi đấu một số nội dung (một/nhiều/tất cả nội dung) nếu thí sinh:
-    - 2k1) Không điểm danh hay đăng ký đúng thời hạn quy định.
-    - 2k2) Bị nghi gian lận hay lừa đảo thành viên chính thức trong khi giải đấu đang diễn ra.
-        - 2k2a) WCA Delegate có thể hủy bỏ tất cả những kết quả bị nghi gian lận.
-    - 2k3) Hành xử không đúng luật, bạo lực, không phù hợp hay không an toàn, hoặc cố ý làm hư hại cơ sở vật chất ở hội trường hoặc tài sản cá nhân trong hội trường.
-    - 2k4) Gây trở ngại hoặc làm phân tâm người khác khi giải đấu đang diễn ra.
-    - 2k5) Không tuân thủ Quy định WCA khi giải đấu đang diễn ra.
-    - 2k6) Không đạt các yêu cầu của nội dung (VD: không biết giải khối hình). Thí sinh không nên tham gia thi với mục đích đạt kết quả DNF hay kết quả tệ một cách cố ý.
-- 2l) Thí sinh có thể bị truất quyền thi đấu ngay lập tức hoặc sau cảnh cáo, tùy theo tính chất và mức độ nghiêm trọng của sự vi phạm.
-    - 2l1) Thí sinh bị truất quyền thi đấu không được hoàn lại chi phí liên quan đến việc tham gia giải đấu.
+    - 2a2) Đạt yêu cầu của giải đấu (phải được thông báo trước giải đấu).
+    - 2a3) Không bị WCA đình chỉ thi đấu.
+    - 2a4) Tuân thủ các biện pháp an toàn mà WCA Delegate cho là cần thiết (phải được thông báo trước giải đấu).
+- 2b) Thí sinh dưới 18 tuổi phải được phụ huynh/người giám hộ cho phép đăng ký và tham gia thi.
+- 2c) Thí sinh đăng ký tham gia thi bằng cách cung cấp toàn bộ thông tin mà ban tổ chức yêu cầu (bao gồm: tên đầy đủ, khu vực đại diện, ngày sinh, giới tính, thông tin liên lạc, nội dung thi đấu).
+    - 2c1) Thí sinh không được tham gia thi nếu đơn đăng ký chưa hoàn chỉnh, tùy theo quyết định của ban tổ chức và WCA Delegate.
+    - 2c2) Các thí sinh đã tham gia thi trước đó phải cung cấp thông tin giống với thông tin trên hồ sơ WCA. Nếu thí sinh muốn cập nhật thông tin (VD: đổi khu vực đại diện, tên, giới tính), thi sinh phải liên hệ trực tiếp [Đội ngũ Kết quả WCA (WRT)](https://www.worldcubeassociation.org/contact/website) hoặc liên hệ thông qua Delegate.
+- 2d) Tên, khu vực đại diện, giới tính và kết quả thi đấu của thí sinh được coi là thông tin công khai. Các thông tin cá nhân khác được coi là thông tin mật, và không được cung cấp cho bên thứ ba mà không có sự cho phép của thí sinh.
+- 2e) Thí sinh phải đại diện cho khu vực nơi thí sinh có quốc tịch. WCA Delegate nên xác minh quốc tịch thông qua giấy tờ (VD: hộ chiếu) tại giải đấu đầu tiên của thí sinh. Nếu thí sinh không đủ điều kiện đại diện cho khu vực mà thí sinh đã đăng ký, thí sinh có thể bị hủy kết quả và/hoặc bị đình chỉ, tùy theo quyết định của Ban Quản trị WCA.
+    - 2e1) Danh sách các khu vực được công nhận ở tại [Danh sách khu vực được WCA công nhận](https://www.worldcubeassociation.org/regulations/countries/).
+    - 2e2) Thí sinh được phép đổi khu vực đại diện trước hoặc tại giải đấu đầu tiên trong năm dương lịch.
+        - 2e2a) Ngoại lệ: Nếu thí sinh mất quốc tịch tại khu vực đại diện trước đó, thí sinh phải đổi khu vực đại diện trước hoặc tại giải đấu tiếp theo (xem [Quy định 2c2](regulations:regulation:2c2)).
+        - 2e2b) Ngoại lệ: Nếu thí sinh có quốc tịch mới trong năm dương lịch hiện tại, thí sinh được phép đổi khu vực đại diện sang quốc tịch mới vào bất kì lúc nào.
+    - 2e3) Thí sinh không có quốc tịch được tham gia thi dưới danh nghĩa "Không quốc tịch".
+- 2f) Thí sinh phải tuân thủ quy định tại hội trường và cư xử hợp chuẩn mực.
+- 2g) Thí sinh phải giữ trật tự tại khu vực thi đấu. Thí sinh được phép trò chuyện, nhưng âm lượng phải vừa phải, cách xa các thí sinh đang thi đấu.
+    - 2g3) Thí sinh không được thảo luận về công thức tráo với các thí sinh cùng nhóm thi, trừ khi toàn bộ các thí sinh trong nhóm thi không còn lượt thi nào nữa. Hình phạt: truất quyền thi đấu khỏi nội dung, tùy theo quyết định của WCA Delegate. Ngoại lệ: Đối với nội dung Giải Tối ưu 3x3x3, thí sinh đã hoàn thành lượt thi được phép tiết lộ công thức tráo với những người đang không tham gia thi cùng lượt thi đó.
+- 2h) Thí sinh phải có trang phục phù hợp tại hội trường. Tùy theo quyết định của WCA Delegate, thí sinh có thể bị truất quyền thi đấu nếu trang phục không phù hợp.
+- 2i) Khi đang trong thời gian quan sát hoặc giải, thí sinh không được sử dụng thiết bị điện tử/âm thanh (VD: điện thoại di động, máy phát MP3, máy ghi âm, đèn đề bản) ngoài đồng hồ Stackmat và đồng hồ bấm giờ. Hình phạt: hủy kết quả lượt thi (DNF).
+    - 2i1) Thí sinh được sử dụng các vật hỗ trợ không có linh kiện điện tử nếu các thiết bị này không tạo lợi thế bất công, tùy theo quyết định của WCA Delegate, bao gồm:
+        - 2i1a) Thiết bị hỗ trợ thể lực/y tế (VD: kính mắt, nẹp tay). Ngoại lệ của [Quy định 2i](regulations:regulation:2i): thí sinh được phép sử dụng thiết bị y tế điện tử nếu không có thiết bị khác thay thế (VD: máy trợ thính, máy trợ tim).
+        - 2i1b) Bịt tai chụp tai và nhét tai (không phải tai nghe điện tử).
+        - 2i1c) Túi chườm làm ấm tay.
+        - 2i1d) Thức ăn và thức uống.
+    - 2i2) Thí sinh được sử dụng máy quay tại bàn thi đấu nếu được WCA Delegate cho phép, nhưng phải tuân theo các yêu cầu này từ khi lượt thi bắt đầu cho đến khi thí sinh dừng quá trình giải. Hình phạt nếu không tuân thủ: hủy kết quả lượt thi (DNF).
+        - 2i2a) Màn hình phải trống hoặc ngoài tầm nhìn của thí sinh (xem [Quy định A5b](regulations:regulation:A5b)).
+    - 2i4) Thí sinh nên tắt thông báo điện thoại khi đang thi đấu để tránh làm phân tâm chính mình và các thí sinh khác.
+- 2j) WCA Delegate có quyền truất quyền thi đấu của thí sinh khỏi các nội dung hoặc hủy kết quả các lượt thi nhất định.
+    - 2j1) Nếu thí sinh bị truất quyền thi đấu khỏi một nội dung, thí sinh không có quyền thực hiện thêm lượt thi nào trong nội dung đó.
+        - 2j1a) Nếu thí sinh đã hoàn thành ít nhất một lượt thi trước khi bị truất quyền, các lượt thi còn lại bị đánh dấu DNF. Nếu thí sinh chưa hoàn thành lượt thi nào (không có kết quả hoặc chỉ có kết quả DNS), thí sinh không có kết quả nào được ghi lại.
+    - 2j2) Các lượt thi được hoàn thành trước khi thí sinh bị truất quyền không được phép bị hủy. Ngoại lệ: gian lận, gian dối (xem [Quy định 2k2a](regulations:regulation:2k2a)).
+    - 2j3) Một số lượt thi đã hoàn thành có thể bị hủy kết quả do các sự cố ở [Quy định 2k](regulations:regulation:2k), nếu sự cố liên quan xảy ra khi lượt thi đang diễn ra.
+- 2k) Theo quyết định của WCA Delegate, thí sinh có thể bị hủy kết quả một số lượt thi hoặc truất quyền thi đấu khỏi một/nhiều/tất cả nội dung nếu thí sinh:
+    - 2k1) Không check-in hoặc đăng ký trong thời gian quy định.
+    - 2k2) Bị nghi gian lận hoặc gian dối với ủy viên ban tổ chức trong khi giải đấu đang diễn ra.
+        - 2k2a) WCA Delegate có quyền hủy kết quả các lượt thi bị nghi gian lận.
+    - 2k3) Hành xử trái với pháp luật, bạo lực, nguy hiểm hoặc không đúng chuẩn mực, hoặc cố ý làm hư hại cơ sở vật chất hoặc tài sản cá nhân trong hội trường.
+    - 2k4) Gây phiền nhiễu hoặc cản trở cho các thí sinh khác.
+    - 2k5) Không tuân thủ Quy định WCA trong giải đấu.
+    - 2k6) Không đạt yêu cầu của nội dung thi đấu (VD: không biết giải khối hình). Thí sinh không nên thi đấu với kỳ vọng sẽ đạt kết quả DNF hoặc cố ý đạt kết quả kém.
+- 2l) Thí sinh có thể bị truất quyền thi đấu ngay lập tức, hoặc sau khi đã bị cảnh cáo, tùy theo bản chất và độ nghiêm trọng của lỗi vi phạm.
+    - 2l1) Thí sinh bị truất quyền thi đấu không được hoàn trả chi phí liên quan đến việc tham gia thi.
 - 2n) Thí sinh có thể khiếu nại quyết định của WCA Delegate.
-    - 2n1) Việc khiếu nại chỉ được cho phép khi giải đấu đang diễn ra (xem [Quy định 9u](regulations:regulation:9u)), trong vòng 30 phút kể từ khi sự cố diễn ra và trước khi những vòng kế tiếp của nội dung liên quan bắt đầu.
-    - 2n2) WCA Delegate phải giải quyết khiếu nại trước khi vòng tiếp theo của nội dung bắt đầu.
-    - 2n3) Thí sinh phải chấp nhận quyết định cuối cùng của WCA Delegate. Hình phạt: Truất quyền thi đấu khỏi giải.
-- 2s) Thí sinh khuyết tật nếu gặp trở ngại trong việc tuân theo một hay nhiều Quy định WCA có thể yêu cầu sự hỗ trợ đặc biệt từ WCA Delegate. Thí sinh có yêu cầu hỗ trợ nên liên lạc với ban tổ chức và WCA Delegate ít nhất 2 tuần trước giải đấu.
-- 2t) Mỗi thí sinh phải làm quen và nắm bắt được các Quy định WCA trước khi giải đấu bắt đầu.
-- 2u) Thí sinh phải có mặt và sẵn sàng thi đấu khi được gọi tên tham gia thi một nội dung. Hình phạt: truất quyền thi đấu khỏi nội dung.
-    - 2u1) Ngoại lệ: Thí sinh không có mặt đúng giờ cho một nội dung có lịch thi cá nhân (VD: Giải Tối ưu 3x3x3, Giải Bịt mắt nhiều 3x3x3) có thể được coi là đã từ chối lượt giải đó (DNS), tùy theo quyết định của WCA Delegate.
-    - 2u2) Ngoại lệ: Với các vòng đấu có luật “giới hạn thời gian cộng dồn” (cummulative time limit), những thí sinh chậm trễ có thể phải thi đấu với giới hạn thời gian cộng dồn ngắn hơn, tuỳ theo quyết định của WCA Delegate.
+    - 2n1) Thí sinh phải khiếu nại khi giải đấu đang diễn ra (xem [Quy định 9u](regulations:regulation:9u)), trong vòng 30 phút kể từ khi sự cố diễn ra, hoặc trước khi bắt đầu các vòng thi tiếp theo của nội dung có liên quan.
+    - 2n2) WCA Delegate phải giải quyết khiếu nại trước khi vòng thi kế tiếp của nội dung có liên quan bắt đầu.
+    - 2n3) Thí sinh phải chấp nhận quyết định cuối cùng của WCA Delegate. Hình phạt: truất quyền thi đấu khỏi giải đấu.
+- 2s) Thí sinh gặp phải hoàn cảnh (VD: khuyết tật) dẫn đến việc không thể tuân thủ một hay nhiều Quy định WCA có thể yêu cầu hỗ trợ đặc biệt từ WCA Delegate. Thí sinh nên liên hệ WCA Delegate và ban tổ chức ít nhất hai tuần trước giải đấu nếu muốn yêu cầu hỗ trợ.
+    - 2s1) Thí sinh gặp phải hoàn cảnh dẫn đến việc không thể tuân theo quy trình thi đấu thông thường có thể được hỗ trợ đặc biệt. Những trường hợp này nên được thông báo trước với Ủy ban Quy định WCA.
+- 2t) Thí sinh phải hiểu và nắm rõ các Quy định WCA trước khi tham gia thi.
+- 2u) Thí sinh phải có mặt và sẵn sàng thi đấu khi được gọi tên. Hình phạt: truất quyền thi đấu khỏi nội dung.
+    - 2u1) Ngoại lệ: Những thí sinh không có mặt đúng thời gian quy định cho những nội dung có lịch riêng cho từng lượt thi (VD: Giải Tối ưu 3x3x3, Giải Bịt mắt nhiều 3x3x3) có thể được coi là đã bỏ lượt thi đó (DNS), tùy theo quyết định của WCA Delegate.
+    - 2u2) Ngoại lệ: Với những vòng thi áp dụng tổng giới hạn thời gian, thí sinh đến muộn có thể thi đấu với tổng giới hạn thời gian thấp hơn, tùy theo quyết định của WCA Delegate.
 
 
-## <article-3><puzzles><puzzles> Mục 3: Khối hình (Cube)
+## <article-3><puzzles><puzzles> Mục 3: Khối hình
 
-- 3a) Thí sinh phải tự cung cấp khối hình cho giải đấu.
+- 3a) Thí sinh phải tự mang theo khối hình của mình để thi đấu.
     - 3a1) Thí sinh phải sẵn sàng nộp khối hình khi được gọi tên (xem [Quy định 2u](regulations:regulation:2u)).
-    - 3a2) Khối hình phải hoạt động bình thường, sao cho có thể tráo một cách bình thường.
-    - 3a3) Các khối hình đa diện phải sử dụng hệ màu với một màu khác nhau cho mỗi mặt trong trạng thái đã giải. Các biến thể (về hệ màu) của khối hình phải có các bước, trạng thái và cách giải tương tự như khối hình gốc.
-    - 3a4) Các khối hình không được có các bộ phận điện tử bên trong (VD: khả năng kết nối Bluetooth và Wi-Fi, động cơ, cảm biến, đèn).  Xem [Quy định 2i](regulations:regulation:2i).
-- 3d) Khối hình phải có các bộ phận có màu biểu thị hệ màu của khối hình và phải là một và chỉ một trong những loại bộ phận sau: miếng dán màu (sticker), tấm nhựa màu (tile), nhựa màu (stickerless), hoặc màu sơn/màu in. Tất cả các bộ phận có màu của khối hình phải được làm bằng vật liệu tương đồng.
-    - 3d1) Các thí sinh khiếm thị (có giấy tờ chứng minh) được hưởng các ngoại lệ sau:
-        - 3d1a) Các thí sinh khiếm thị có thể dùng các khối hình có kết cấu bề mặt khác nhau ở mỗi mặt. Mỗi mặt nên có một màu riêng để hỗ trợ quá trình tráo và trọng tài.
-        - 3d1b) Các thí sinh khiếm thị về màu sắc không thể phân biệt số màu cần thiết có thể sử dụng các bộ phận có màu có các họa tiết, nếu như được cho phép ở [Quy định 2s](regulations:regulation:2s). Họa tiết có thể ở trên sticker hoặc được vẽ lên.
-    - 3d2) Các màu của các bộ phận có màu phải mang tính đồng nhất, với một màu riêng cho mỗi mặt. Mỗi màu phải khác rõ so với các màu còn lại.
-- 3h) Các thay đổi cải tiến khả năng hoạt động cơ bản của khối hình đều không được chấp nhận. Các thay đổi chỉ được chấp nhận khi các thay đổi không cung cấp thêm thông tin cho thí sinh (VD: thông tin định hướng hoặc nhận dạng các mặt) so với cùng một khối hình khi chưa được thay đổi.
-    - 3h1) Các khối hình có dạng "gối" (pillowed) được chấp nhận.
-    - 3h2) Những khối hình có bộ phận có màu có thể nhìn được ở bên trong (VD: khối hình "stickerless") được chấp nhận. Quy định này không bao gồm:
-        - 3h2a) Sticker có những bộ phận trong suốt có thể tiết lộ thêm thông tin về trạng thái khối hình. Ngoại lệ: Miếng dán phủ (overlay sticker) hoặc logo (xem [Quy định 3l](regulations:regulation:3l)).
-    - 3h3) Các thay đổi (mod) cho khối hình dẫn đến kết quả không tốt cho thí sinh đều không phải là lí do chính đáng cho việc bổ sung lượt giải.
-    - 3h4) Đối với Clock, các mod sau đây được chấp nhận:
-        - 3h4a) Các kim đồng hồ làm riêng (cùng kích cỡ và hình dạng với kim đồng hồ gốc bằng giấy) được cho phép, tùy theo quyết định của WCA Delegate. Kim đồng hồ phải chỉ rõ được hướng 12h như kim đồng hồ gốc.
-        - 3h4b) Các kiểu trang trí Clock (customize) có thể không được chấp thuận nếu đem lại lợi thế không công bằng cho thí sinh, tuỳ theo quyết định của WCA Delegate. (VD. Màu của các đồng hồ nhỏ đen trắng so le với nhau, bề mặt Clock in hình tự thiết kế, băng dính ở mặt viền).
-        - 3h4c) Các kiểu trang trí nếu phân biệt các nút ấn (pin) với nhau trong có một mặt có thể được chấp thuận, tuỳ theo quyết định của WCA Delegate.
-        - 3h4d) Toàn bộ bề mặt Clock tràn ngập logo, miễn là không đụng tới các đồng hồ nhỏ bên trong.
-    - 3h5) Trên bề mặt Clock, các nút ấn (pin) quá lỏng (VD. Các pin có thể bị thay đổi do trọng lực thay vì dùng lực tay để ấn) không được chấp thuận.
-- 3j) Các khối hình phải sạch, không có vết đánh dấu, các phần bị lệch, hư hỏng, hoặc các khác biệt rõ khác giữa các viên. Ngoại lệ: logo (xem [Quy định 3l](regulations:regulation:3l)).
-    - 3j1) Các khối hình bị xước được cho phép, tùy theo quyết định của WCA Delegate.
-    - 3j2) Định nghĩa: Hai viên được coi là giống nhau nếu cùng kích cỡ và hình dạng, hoặc hình dạng đối nhau và cùng kích cỡ.
-    - 3j3) Các kết cấu bề mặt có thể phân biệt được khi sờ vào đều không được chấp nhận cho các nội dung bịt mắt.
-- 3k) Các khối hình nên được chấp nhận bởi WCA Delegate trước khi được sử dụng trong giải.
-    - 3k1) Nếu một khối hình không được chấp nhận bị phát hiện trong khi một vòng thi đang diễn ra, thí sinh không được tiếp tục sử dụng khối hình này và phải nộp một khối hình thay thế.
-    - 3k2) Hình phạt khi dùng khối hình không được chấp nhận: hủy bỏ kết quả lượt giải (DNF). Các ngoại lệ sau đây được áp dụng:
-        - 3k2a) Nếu một khối hình không được chấp nhận bị phát hiện trước khi vòng thi kết thúc, các kết quả bị ảnh hưởng có thể được thay thế bằng các lượt giải bổ sung, tùy theo quyết định của WCA Delegate.
-        - 3k2b) Giải bịt mắt nhiều khối (MBLD): nếu bất kì khối hình nào bị phát hiện là không được chấp nhận, các khối hình đó sẽ được tính riêng là chưa giải (mà không hủy bỏ cả lượt giải), tùy theo quyết định của WCA Delegate.
-
-- 3l) Khối hình có thể có logo ở một mặt. Nếu có, chỉ được phép dán logo vào duy nhất một viên của khối hình. Ngoại lệ: đối với các nội dung bịt mắt, khối hình không được có logo.
-    - 3l1) Logo phải được đặt ở một viên tâm. Ngoại lệ cho các khối hình không có viên tâm.:
+    - 3a2) Khối hình phải hoạt động bình thường để có thể tráo đề.
+    - 3a3) Các khối hình đa diện phải sử dụng hệ màu sao cho mỗi mặt có một màu duy nhất, khác với các mặt còn lại khi ở trạng thái giải hoàn thành. Các biến thể (về kích cỡ, cơ chế hay hệ màu) phải có các bước, trạng thái và trạng thái giải giống với khối hình gốc.
+    - 3a4) Khối hình không được có linh kiện điện tử (VD: khả năng kết nối Bluetooth hay Wi-Fi, motor, cảm biến, đèn). Xem [Quy định 2i](regulations:regulation:2i).
+- 3d) Khối hình phải có các bộ phận (viên) có màu cấu tạo nên hệ màu của khối hình, và phải là một và chỉ một trong những loại bộ phận sau: sticker có màu, tấm nhựa màu (tile), nhựa màu, hoặc các loại màu được in lên hoặc sơn lên. Các bộ phận có màu phải có cùng chất liệu.
+    - 3d1) Các thí sinh có khiếm khuyết về thị lực (có giấy tờ chứng minh) được hưởng các ngoại lệ sau:
+        - 3d1a) Các thí sinh khiếm thị được phép sử dụng khổi hình có kết cấu mỗi mặt khác nhau. Mỗi mặt nên có một màu khác nhau, để hỗ trợ việc trọng tài giám sát và tráo đề.
+        - 3d1b) Các thí sinh khiếm thị về màu sắc không thể phân biệt số màu cần thiết có thể sử dụng các bộ phận có màu có các họa tiết, nếu như được cho phép tại [Quy định 2s](regulations:regulation:2s). Họa tiết có thể được dán lên hoặc được vẽ lên.
+    - 3d2) Các màu của các bộ phận trên phải đồng nhất, và mỗi mặt một màu khác nhau. Mỗi màu phải khác biệt rõ rệt với các màu còn lại.
+- 3h) Các bước cải tiến (mod) khối hình làm ảnh hưởng đến khả năng hoạt động cơ bản của khối hình đều không được phép sử dụng. Các khối hình đã qua cải tiến chỉ được phép sử dụng nếu cải tiến trên không cung cấp thêm thông tin cho thí sinh (VD: các màu hoặc hướng xoay của một viên) so với cùng một khối hình khi chưa cải tiến.
+    - 3h1) Các khối hình có dạng lồi (pillowed) được phép sử dụng.
+    - 3h2) Các khối hình có nhựa màu bên trong (VD: khối hình "stickerless") được phép sử dụng. Quy định không bao gồm những khối hình sau:
+        - 3h2a) Khối hình có các bộ phận trong suốt có thể tiết lộ thông tin về trạng thái khối hình. Ngoại lệ: sticker dán phủ hoặc logo (xem [Quy định 3l](regulations:regulation:3l)).
+    - 3h3) Các cải tiến gây ra kết quả kém cho thí sinh không được coi là lý do chính đáng để thêm lượt thi bổ sung.
+    - 3h4) Đối với Clock, các cải tiến sau đây được phép sử dụng:
+        - 3h4a) Tấm nền bề mặt Clock tự thiết kế (cùng hình dạng và kích cỡ với tấm nền gốc bằng giấy) được phép sử dụng, tùy theo quyết định của WCA Delegate. Tấm nền phải có dấu chỉ 12h giống như tấm nền gốc.
+        - 3h4b) Các kiểu trang trí Clock không tạo lợi thế bất công cho thí sinh có thể được cho phép, tùy theo quyết định của WCA Delegate. (VD: màu của các đồng hồ con đen trắng so le với nhau, mặt đồng hồ con tự thiết kế, băng dính ở mặt viền).
+        - 3h4c) Các kiểu trang trí làm cho nút ghim có bề ngoài khác với các nút ghim cùng mặt được cho phép, tùy theo quyết định của WCA Delegate.
+        - 3h4d) Logo dán ở bất kì đâu trên khối hình, miễn sao các mặt đồng hồ con không bị che khuất.
+    - 3h5) Đối với Clock, các nút ghim bị lỏng (có thể tự dịch chuyển lên hoặc xuống mà không cần nhấn) không được coi là hao mòn trong mức chấp nhận được, và vì vậy không được phép sử dụng.
+- 3j) Khối hình phải sạch, không có các vết bẩn, các viên bị nhô lên, hư hỏng hoặc bất kì đặc điểm gì khiến một viên khác biệt rõ rệt so với các viên cùng loại. Ngoại lệ: logo (xem [Quy định 3l](regulations:regulation:3l)).
+    - 3j1) Khối hình có thể bị hao mòn trong mức chấp nhận được, tùy theo quyết định của WCA Delegate.
+        - 3j1a) Sự hao mòn của khối hình được coi là “chấp nhận được” nếu là hậu quả của việc sử dụng bình thường, và nếu sự hao mòn này không cung cấp thêm thông tin đáng kể về trạng thái khối hình (VD: vị trí của một hoặc nhiều viên nhất định).
+    - 3j2) Định nghĩa: Hai viên được coi là cùng loại nếu tương đồng về hình dạng và kích cỡ, hoặc kích cỡ tương đồng và hình dạng đối nhau.
+    - 3j3) Các khối hình có kết cấu bề mặt khiến cho hướng xoay của các viên có thể phân biệt được thông qua việc sờ vào đều không được phép sử dụng cho các nội dung bịt mắt.
+- 3k) Khối hình nên được WCA Delegate chấp thuận trước khi sử dụng để thi đấu.
+    - 3k1) Nếu khối hình phạm quy bị phát hiện khi vòng thi đang diễn ra, thí sinh không được tiếp tục dùng khối hình này, và phải nội khối hình thay thế.
+    - 3k2) Hình phạt cho các lượt thi sử dụng khối hình phạm quy: hủy kết quả lượt thi (DNF). Ngoại lệ:
+        - 3k2a) Nếu khối hình phạm quy bị phát hiện trước khi kết thúc vòng thi, các lượt thi sử dụng khối hình này có thể được thay bằng các lượt bổ sung, tùy theo quyết định của WCA Delegate.
+        - 3k2b) Giải Bịt mắt nhiều 3x3x3: nếu có các khối hình phạm quy, các khối hình này có thể được tính riêng là chưa giải (thay vì hủy kết quả cả lượt thi), tùy theo quyết định của WCA Delegate
+- 3l) Một khối hình có thể có một hoặc nhiều logo trên một viên. Nếu có logo, thì chỉ duy nhất một viên được có logo. Ngoại lệ: các khối hình có logo không được phép sử dụng trong các nội dung bịt mắt.
+    - 3l1) Logo phải ở viên tâm. Ngoại lệ cho các khối hình không có viên tâm:
         - 3l1a) Đối với Pyraminx và 2x2x2, logo có thể ở bất kì viên nào.
         - 3l1b) Đối với Square-1, logo phải ở một viên ở tầng giữa.
-    - 3l2) Logo có thể được khắc, khắc nổi hoặc được dán bằng một miếng dán phủ.
-- 3m) Tất cả các nhãn hiệu khối hình và bộ phận khối hình đều được chấp nhận, với điều kiện khối hình tuân thủ Quy định WCA.
+    - 3l2) Logo có thể được khắc nổi, khắc chìm, hoặc in trên sticker dán phủ.
+- 3m) Các nhãn hiệu khối hình và bộ phận khối hình đều được phép sử dụng nếu tuân thủ các Quy định WCA.
 
 
-## <article-4><scrambling><scrambling> Mục 4: Tráo (Scamble)
+## <article-4><scrambling><scrambling> Mục 4: Tráo đề
 
-- 4a) Người tráo áp dụng các công thức tráo lên khối hình.
-- 4b) Khối hình phải được tráo bằng các công thức tráo ngẫu nhiên được tạo trên máy tính.
-    - 4b1) Các công thức tráo không được quan sát trước giải đấu, và không được phép bị lọc hoặc lựa chọn dưới bất kì hình thức nào bởi WCA Delegate.
-    - 4b2) Các công thức tráo cho một nhóm thi chỉ được phép được truy cập bởi WCA Delegate trước khi nhóm đó bắt đầu thi, và chỉ được phép truy cập bởi WCA Delegate và người tráo cho nhóm thi đó cho đến khi nhóm thi kết thúc. Ngoại lệ: Với Giải Tối Ưu (FMC), các thí sinh nhận công thức tráo trong vòng thi (xem [Mục E](regulations:article:E)).
-        - 4b2a) WCA Delegate được chỉ định: chỉ được phép cho các thành viên khác trong ban tổ chức quyền truy cập các công thức tráo của các nhóm thi nếu họ đang tạm thời không thể thực hiện nhiệm vụ (VD: đang thi đấu lượt giải của chính mình), và nên trao quyền truy cập số lượng công thức tráo tối thiểu của vòng thi.
-    - 4b3) Yêu cầu về web/ứng dụng tạo công thức tráo: Công thức tráo chính thức phải tạo ra một trạng thái tráo ngẫu nhiên, cần ít nhất 2 bước để giải trong số tất cả các trạng thái (xác suất của mỗi trạng thái là như nhau). Các ngoại lệ và bổ sung sau đây được áp dụng:
-        - 4b3a) Đối với các nội dung bịt mắt, công thức tráo phải cho khối hình hướng về một hướng ngẫu nhiên (xác suất của mỗi hướng là như nhau).
-        - 4b3b) Đối với khối 2x2x2: Trạng thái (ngẫu nhiên) phải cần ít nhất 4 bước để giải.
-        - 4b3c) Đối với Skewb: Trạng thái (ngẫu nhiên) phải cần ít nhất 7 bước để giải.
-        - 4b3d) Đối với Square-1: Trạng thái (ngẫu nhiên) phải cần ít nhất 11 bước để giải.
-        - 4b3e) Đối với Khối 5x5x5, Khối 6x6x6, Khối 7x7x7, và Megaminx: cần đủ số bước ngẫu nhiên (thay vì trạng thái ngẫu nhiên), cần ít nhất 2 bước để giải.
-        - 4b3f) Đối với Pyraminx: Trạng thái (ngẫu nhiên) phải cần ít nhất 6 bước để giải.
-    - 4b4) Mỗi công thức giải nên được áp dung trong khung thời gian dài nhất là 2 giờ. Khung thời gian này bắt đầu khi công thức tráo được áp dụng lần đầu tiên.
-- 4d) Hướng chỉ của khối hình khi tráo:
-    - 4d1) Các khối NxNxN và Megaminx được tráo với mặt trắng (nếu không thể, sử dụng mặt sáng màu nhất) ở phía trên và mặt xanh lá (nếu không thể, sử dụng mặt liền kề tối màu nhất) ở phía trước.
-    - 4d2) Pyraminx được tráo với mặt vàng (nếu không thể, sử dụng mặt sáng màu nhất) ở phía dưới và mặt xanh lá (nếu không thể, sử dụng mặt liền kề tối màu nhất) ở phía trên.
-    - 4d3) Square-1 được tráo với mặt tối màu hơn ở phía trước (trong số 2 hướng tráo khả thi).
-    - 4d4) Clock được tráo với bất kì một trong hai mặt ở phía trước và hướng 12h chỉ lên trên.
-    - 4d5) Skewb được tráo với mặt trắng (nếu không thể, sử dụng mặt sáng màu nhất) ở phía trên và mặt xanh lá (nếu không thể, sử dụng mặt liền kề tối màu nhất) ở phía trước-trái.
-- 4f) Các công thức tráo cho các giải đấu phải được tạo bằng phiên bản chính thức hiện hành của một chương trình tạo công thức tráo chính thức cho WCA (có ở [website WCA](https://www.worldcubeassociation.org/regulations/scrambles/)).
-- 4g) Sau khi tráo khối hình, người tráo phải xác nhận khối hình đã được tráo chính xác. Nếu trạng thái khối hình không chính xác, người tráo phải sửa lại khối hình (VD: bằng cách giải khối hình và áp dụng công thức tráo một lần nũa).
-    - 4g1) Ngoại lệ: Đối với Khối 6x6x6, Khối 7x7x7 và Megaminx, việc sửa lại khối hình là không cần thiết, tùy theo quyết định của WCA Delegate.
-    - 4g2) Ngoại lệ: Đối với Clock, nếu trạng thái của nút ấn (pin) bị ảnh hưởng trong khi đưa tới thí sinh hoặc trong lúc mở hộp che cube để inspect, các nút ấn có thể giữ nguyên mà không cần sửa.
+- 4a) Người tráo đề tráo khối hình bằng công thức tráo.
+- 4b) Khối hình phải được tráo bằng các chuỗi công thức tráo ngẫu nhiên được tạo bằng máy tính.
+    - 4b1) Các công thức tráo không được để lộ trước giải đấu, và WCA Delegate không được phép chọn lọc công thức tráo dưới bất kì hình thức nào.
+    - 4b2) Các công thức tráo của một nhóm thi chỉ được tiếp xúc bởi WCA Delegate trước khi nhóm thi bắt đầu, và bởi WCA Delegate và đội tráo đề của nhóm thi đó cho đến khi nhóm thi kết thúc. Ngoại lệ: Thí sinh thi Giải Tối ưu 3x3x3 được nhận công thức tráo khi vòng thi đang diễn ra (xem [Mục E](regulations:article:E)).
+        - 4b2a) WCA Delegate được chỉ định chỉ được phép giao công thức tráo của các nhóm thi tiếp theo cho thành viên ban tổ chức nếu WCA Delegate tạm thời không thể thực hiện nhiệm vụ (VD: tham gia thi đấu). Trong trường hợp này, số công thức được giao nên giữ ở mức tối thiểu.
+    - 4b3) Tiêu chuẩn cho chương trình tạo công thức tráo: Công thức tráo chính thức phải tạo một trạng thái ngẫu nhiên trong số tất cả những trạng thái cần ít nhất 2 bước để giải (xác suất mỗi trạng thái là như nhau). Các điều ngoại lệ/bổ sung sau đây được áp dụng:
+        - 4b3a) Đối với các nội dung bịt mắt, công thức tráo phải để khối hình hướng theo một hướng ngẫu nhiên (xác suất mỗi hướng là như nhau).
+        - 4b3b) Khối 2x2x2: Trạng thái (ngẫu nhiên) phải cần ít nhất 4 bước để giải.
+        - 4b3c) Skewb: Trạng thái (ngẫu nhiên) phải cần ít nhất 7 bước để giải.
+        - 4b3d) Square-1: Trạng thái (ngẫu nhiên) phải cần ít nhất 11 bước để giải.
+        - 4b3e) Khối 5x5x5, Khối 6x6x6, Khối 7x7x7, và Megaminx: đủ số bước (thay vì trạng thái) ngẫu nhiên, cần ít nhất 2 bước để giải.
+        - 4b3f) Pyraminx: Trạng thái (ngẫu nhiên) phải cần ít nhất 6 bước để giải.
+    - 4b4) Mỗi công thức tráo nên được sử dụng trong khoảng thời gian nhiều nhất là 2 tiếng, tính từ khi công thức tráo được sử dụng lần đầu tiền.
+- 4d) Hướng của khối hình khi tráo:
+    - 4d1) Các Khối NxNxN và Megaminx được tráo với mặt trắng (hoặc mặt sáng màu nhất nếu không có) hướng lên trên và mặt màu xanh lục liền kề tối màu nhất (hoặc mặt liền kề tối màu nhất nếu không có) ở phía trước.
+    - 4d2) Pyraminx được tráo với mặt màu vàng (hoặc mặt sáng màu nhất nếu không có) ở phía dưới và mặt xanh lục (hoặc mặt liền kề tối màu nhất nếu không có) ở phía trước.
+    - 4d3) Square-1 được tráo với mặt tối màu hơn ở phía trước (trong số 2 hướng tráo khả dụng).
+    - 4d4) Clock được tráo với bất kì một trong hai mặt ở phía trước và dấu chỉ 12h hướng lên trên.
+    - 4d5) Skewb được tráo với mặt trắng (hoặc mặt sáng màu nhất nếu không có) hướng lên trên và mặt màu xanh lá (hoặc mặt liền kề tối màu nhất nếu không có) ở phía trước, hướng sang bên trái.
+- 4f) Công thức tráo sử dụng trong giải đấu phải được tạo bằng phiên bản hiện hành của chương trình tạo công thức tráo chính thức của WCA (có tại [website WCA](https://www.worldcubeassociation.org/regulations/scrambles/)).
+- 4g) Sau khi tráo khối hình xong, người tráo đề phải xác nhận rằng khối hình được tráo đúng theo công thức. Nếu sai, người tráo đề phải sửa lại khối hình (bằng cách giải khối hình và tráo lại từ đầu).
+    - 4g1) Các ngoại lệ sau được áp dụng:
+        - 4g1a) Đối với Khối 6x6x6, Khối 7x7x7 và Megaminx, không nhất thiết phải sửa lại khối hình, tùy theo quyết định của WCA Delegate.
+        - 4g1b) Đối với Khối 5x5x5, người tráo đề nên sửa lại khối hình. Nếu việc sửa lại khối hình có thể dẫn đến việc gián đoạn nghiêm trọng lịch trình giải đấu, việc sửa lại khối hình là không cần thiết, tùy theo quyết định của WCA Delegate.
+    - 4g2) Đối với Giải Bịt mắt nhiều 3x3x3, sau khi tráo hết toàn bộ khối hình, người tráo đề phải đảm bảo không bị lặp không thức tráo.
+## <article-5><puzzle-defects><puzzledefects> Mục 5: Hư hỏng khối hình
 
-
-## <article-5><puzzle-defects><puzzledefects> Mục 5: Hư hỏng khối hình khi giải
-
-- 5a) Ví dụ về khối hình bị hư hỏng bao gồm: các phần bị bung hoặc vỡ, các viên bị xoay, lật tại chỗ, và ốc/miếng dán/viên nhựa rơi ra ngoài.
-- 5b) Nếu khối hình bị hư hỏng khi một lượt giải đang diễn ra, thí sinh có thể chọn giữa việc sửa chữa khối hình và tiếp tục lượt giải, hoặc dừng lượt giải.
-    - 5b1) Nếu thi sinh chọn việc sửa chữa khối hình, họ chỉ được phép sửa những phần bị hư hỏng. Không được phép sử dụng công cụ hoặc các bộ phận của các khối hình khác để sửa chữa khối hình gốc. Hình phạt: hủy bỏ kết quả lượt giải (DNF).
-    - 5b2) Việc sửa chữa khối hình không được phép tạo lợi thế cho thí sinh trong việc giải khối hình. Hình phạt: hủy bỏ kết quả lượt giải (DNF).
-    - 5b3) Các hình thức sửa chữa được cho phép:
-        - 5b3a) Nếu bộ phận bị bung ra khỏi vị trí cố định, thí sinh có thể đặt lại bộ phận về vị trí đúng.
-        - 5b3b) Nếu thí sinh sửa chữa khối hình nhưng sau đó nhận ra khối hình không thể giải được, thí sinh có thể tháo ra và lắp lại nhiều nhất 4 viên để cho khối hình có thể giải được.
-        - 5b3c) Nếu khối hình không thể giải được và có thể đưa vào trạng thái có thể giải được bằng cách xoay một viên góc, thí sinh có thể sửa chữa bằng cách xoay viên góc mà không tháo khối hình.
-    - 5b4) Trong lúc giải bịt mắt (xem [Quy định B4](regulations:regulation:b4)), tất cả việc sửa chữa đều phải thực hiện khi đang bịt mắt. Hình phạt: hủy bỏ kết quả lượt giải (DNF).
-    - 5b5) Nếu một số bộ phận của khối hình bị tách rời hay không hoàn toàn cố định sau lượt giải, những quy định sau đây được áp dụng:
-        - 5b5a) Nếu một hay nhiều bộ phận không có mặt có màu bị ảnh hưởng, khối hình được coi là đã được giải.
-        - 5b5b) Nếu một bộ phận có một mặt có màu bị ảnh hưởng, khối hình được coi là đã được giải.
-        - 5b5c) Nếu nhiều hơn một bộ phận có một mặt có màu bị ảnh hưởng, khối hình được coi là chưa được giải (DNF).
-        - 5b5d) Nếu một hay nhiều bộ phận có nhiều hơn một mặt có màu bị ảnh hưởng, khối hình được coi là chưa được giải (DNF).
-        - 5b5e) Quy định [5b5c](regulations:regulation:5b5c) và [5b5d](regulations:regulation:5b5d) có hiệu lực hơn [5b5a](regulations:regulation:5b5a) và [5b5b](regulations:regulation:5b5b).
-        - 5b5f) Nếu một viên trên khối hình bị bung ra lẻ tẻ hoặc chưa được đặt vào vị trí hoàn chỉnh, vị trí cuối cùng của nó sẽ là vị trí gần nhất mà nó có thể đã khớp vừa vặn với cấu trúc khối hình, dựa trên trạng thái hiện tại của khối hình. Nếu trạng thái cuối cùng cho thấy viên đó đã được giải, thì viên đó không được coi là bị ảnh hưởng bởi lỗi ghép khối hình.
-    - 5b6) Định nghĩa: Một bộ phận là một hoặc nhiều bộ phận nhỏ hơn kết nối với nhau và không di chuyển các bộ phận nhỏ khác trong quá trình xoay. (VD. Nắp viên tâm (center cap) của khối 3x3x3, viên góc (tip) của Pyraminx, viên góc 3x3x3 bị thiếu 1 mặt).
+- 5a) Một số ví dụ về khối hình bị hư hỏng: các viên bị bung, lật tại chỗ, ốc vít/nắp hoặc sticker bị rời ra ngoài.
+- 5b) Nếu khối hình bị hư hỏng giữa lượt thi, thí sinh có thể sửa chữa khối hình tại chỗ và tiếp tục, hoặc dừng quá trình giải ngay lập tức.
+    - 5b1) Nếu thí sinh quyết định sửa chữa khối hình, thí sinh chỉ được sửa chữa duy nhất những phần bị hư hỏng. Không được phép sử dụng các dụng cụ và/hoặc bộ phận của các khối hình khác để sửa khối hình gốc. Hình phạt: Hủy kết quả lượt thi (DNF).
+    - 5b2) Mọi việc sửa chữa không được giúp thí sinh giải khối hình dễ hơn. Hình phạt: Hủy kết quả lượt thi (DNF).
+    - 5b3) Các biện pháp sửa chữa được cho phép:
+        - 5b3a) Nếu các bộ phận bị bung hoặc lệch, thí sinh được đặt các bộ phận này về chỗ cũ.
+        - 5b3b) Nếu thí sinh đã sửa chữa khối hình nhưng về sau lại nhận ra khối hình không thể giải được, thí sinh được phép tháo lắp nhiều nhất 4 viên sao cho khối hình có thể giải được.
+        - 5b3c) Nếu khối hình không thể giải được, và cách sửa chữa là vặn một viên góc, thí sinh có thể vặn viên góc này mà không tháo khối hình.
+    - 5b4) Trong giai đoạn bịt mắt (xem [Quy định B4](regulations:regulation:B4)), mọi việc sửa chữa phải thực hiện khi đang bịt mắt. Hình phạt: Hủy kết quả lượt thi (DNF).
+    - 5b5) Nếu một số bộ phận của khối hình bị tách rời hay không hoàn toàn cố định sau quá trình giải, những quy định sau đây được áp dụng:
+        - 5b5a) Nếu một hoặc nhiều bộ phận không có màu bị ảnh hưởng, khối hình được coi là đã được giải.
+        - 5b5b) Nếu một viên có một mặt có màu bị ảnh hưởng, khối hình được coi là đã được giải.
+        - 5b5c) Nếu nhiều hơn một viên có một mặt có màu bị ảnh hưởng, khối hình được coi là chưa được giải (DNF).
+        - 5b5d) Nếu một hoặc nhiều viên có nhiều hơn một mặt có màu bị ảnh hưởng, khối hình được coi là chưa được giải (DNF).
+        - 5b5e) Quy định [5b5c](regulations:regulation:5b5c) và [5b5d](regulations:regulation:5b5d) có hiệu lực cao hơn [5b5a](regulations:regulation:5b5a) và [5b5b](regulations:regulation:5b5b).
+        - 5b5f) Nếu một viên bị tách rời một phần hoặc chưa được hoàn toàn cố định, vị trí cuối cùng của nó là vị trí hợp lệ gần nhất (vị trí mà viên đó thường sẽ được đặt trong cơ chế hoạt động của khối hình), xét theo trạng thái hiện tại của khối hình. Nếu viên đó được giải khi xét theo vị trí này, thì viên này không bị ảnh hưởng bởi việc hư hỏng khối hình.
+    - 5b6) Định nghĩa: Một bộ phận là một hoặc nhiều phần bộ phận nhỏ hơn kết nối với nhau, và không di chuyển (xét vị trí tương đối của các bộ phận với nhau) trong khi khối hình đang xoay (VD: nắp tâm 3x3x3, viên đỉnh Pyraminx, viên góc 3x3x3 thiếu 1 mặt, 1 mặt của viên góc 3x3x3).
 
 
 ## <article-7><environment><environment> Mục 7: Môi trường thi đấu
 
-- 7b) Khán giả phải giữ khoảng cách ít nhất là 1.5m với khu vực thi đấu.
-- 7c) Ánh sáng ở địa điểm thi đấu phải được đặc biệt chú trọng. Ánh sáng nên vừa mắt, sao cho thí sinh có thể dễ dàng phân biệt các màu trên khối hình.
-- 7e) Không được hút thuốc tại địa điểm thi đấu.
-- 7f) Địa điểm thi đấu:
+- 7b) Khán giả phải cách khu vực thi đấu đang có thí sinh thi đấu ít nhất 1.5 mét.
+- 7c) Phải chú ý đặc biệt về ánh sáng tại khu vực thi đấu. Màu của ánh sáng nên là màu trung tính, sao cho thí sinh có thể phân biệt các màu khác nhau trên khối hình.
+- 7e) Không được phép hút thuốc tại khu vực thi đấu.
+- 7f) Bàn thi đấu:
     - 7f1) Định nghĩa:
-        - 7f1a) Stackmat: Đồng hồ Stackmat và thảm kê thích hợp kích cỡ đầy đủ. Đồng hồ Generation 3 Pro Timer, Generation 4 Pro Timer và/hoặc Generation 5 Pro Timer phải được sử dụng để tính giờ.
-        - 7f1b) Mat: Thảm kê của Stackmat.
-        - 7f1c) Timer: Đồng hồ Stackmat, hoặc đồng hồ bấm giờ (cho các lượt giải cần nhiều thời gian).
-        - 7f1d) Bề mặt: Mặt phẳng nơi Stackmat được đặt. Thảm kê được coi là một phần của bề mặt. Timer không được coi là một phần của bề mặt.
-    - 7f2) Timer phải được gắn vào thảm kê và đặt trên bề mặt, với timer được đặt ở phía thảm kê gần thí sinh nhất.
-    - 7f3) Ban tổ chức nên thay đổi (mod) timer Stackmat để chống các sự cố thường gặp bằng cách làm cho việc vô ý bấm nút khó hơn (VD: gắn vòng tròn O-ring xung quanh các nút) và gắn pin chặt hơn (VD: thêm vật đệm vào ngăn chứa pin).
-    - 7f4) Generation 5 Pro Timer phải được sử dụng ở chế độ 2-pad.
-- 7h) Khu vực thi đấu phải có một hoặc nhiều Khu Vực Chờ của thí sinh.
-    - 7h1) Ban tổ chức có thể yêu cầu: thí sinh sắp được gọi tên lên thi đấu phải ở trong Khu Vực Chờ được chỉ định, cho đến khi thí sinh đã hoàn thành tất cả lượt giải trong vòng thi đó.
-    - 7h2) Định nghĩa: Khu Vực Chờ là khu vực các thí sinh trong một nhóm thi ngồi chờ tới lượt cho đến khi được gọi lên Khu vực Thi Đấu.
-
+        - 7f1a) Stackmat: Đồng hồ tính giờ Speed Stacks Stackmat và thảm kê tương thích, cỡ đầy đủ. Loại đồng hồ sử dụng để tính giờ phải là đồng hồ Generation 3 Pro Timer, Generation 4 Pro Timer, và/hoặc Generation 5 Pro Timer.
+        - 7f1b) Thảm kê: Thảm kê của Stackmat.
+        - 7f1c) Đồng hồ: Đồng hồ Stackmat, hoặc đồng hồ bấm giờ (cho các lượt thi có thời lượng dài hơn).
+        - 7f1d) Mặt bàn: Mặt phẳng đặt Stackmat. Thảm kê được coi là một phần của mặt bàn, nhưng đồng hồ thì không.
+    - 7f2) Đồng hồ Stackmat phải được gắn vào thảm kê và đặt lên mặt bàn, và đồng hồ ở phía gần thí sinh nhất.
+    - 7f3) Ban tổ chức nên cải tiến đồng hồ Stackmat để tránh các sự cố thường gặp, bằng cách làm cho các nút khó bấm nhầm hơn (VD: gắn vòng O-ring xung quanh nút) và gắn pin chặt hơn (VD: thêm vật đệm vào ngăn chứa pin).
+    - 7f4) Đồng hồ Generation 5 Pro Timer phải được đặt về chế độ 2-pad.
+- 7h) Khu vực thi đấu nến có ít nhất một khu vực chờ.
+    - 7h1) Ban tổ chức có thể yêu cầu thí sinh được gọi lên thi đấu phải ở trong khu vực chờ được chỉ định cho đến khi thí sinh đã hoàn thành toàn bộ lượt thi.
+    - 7h2) Định nghĩa: Khu vực chờ là nơi thí sinh trong một nhóm thi đợi trước khi được gọi lên bàn thi đấu.
 
 
 ## <article-9><events><events> Mục 9: Nội dung thi đấu
 
-- 9a) WCA quản lí các giải đấu về các khối hình cơ học hoạt động bằng cách xoay cụm các viên, còn được gọi là "twisty puzzles" (khối hình xoay).
-- 9b) Các nội dung thi đấu chính thức của WCA là:
+- 9a) WCA quản lý các giải đấu về những khối hình cơ học vận hành bằng cách xoay cụm các viên nhỏ, được gọi chung là "khối hình xoay" (twisty puzzles).
+- 9b) Các nội dung thi đấu chính thức của WCA bao gồm:
     - 9b1) Khối 3x3x3, Khối 2x2x2, Khối 4x4x4, Khối 5x5x5, Giải Một tay 3x3x3, Clock, Megaminx, Pyraminx, Skewb, và Square-1.
-        - 9b1a) Thể thức thi đấu vòng đầy đủ: "Trung bình 5 lượt".
-        - 9b1b) Thể thức cutoff (vòng thi gộp): "Tốt nhất trong 2 lượt" cutoff cho "Trung bình 5 lượt".
+        - 9b1a) Thể thức vòng đầy đủ: "Trung bình 5 lượt".
+        - 9b1b) Thể thức vòng có cutoff (vòng thi gộp): "Tốt nhất trong 2 lượt" cutoff cho "Trung bình 5 lượt".
     - 9b2) Khối 6x6x6 và Khối 7x7x7.
-        - 9b2a) Thể thức thi đấu vòng đầy đủ: "Trung bình 3 lượt".
-        - 9b2b) Thể thức cutoff (vòng thi gộp): "Tốt nhất trong 1 lượt" cutoff cho "Trung bình 3 lượt".
+        - 9b2a) Thể thức vòng đầy đủ: "Trung bình 3 lượt".
+        - 9b2b) Thể thức vòng có cutoff (vòng thi gộp): "Tốt nhất trong 1 lượt" cutoff cho "Trung bình 3 lượt".
     - 9b3) Giải Bịt mắt 3x3x3, Giải Bịt mắt 4x4x4, Giải Bịt mắt 5x5x5.
-        - 9b3a) Thể thức thi đấu vòng đầy đủ: "Tốt nhất trong 3 lượt".
-        - 9b3b) Với các nội dung này, WCA cũng công nhận các kết quả và kỉ lục "Tốt nhất trong 3 lượt" dựa trên kết quả của các vòng "Tốt nhất trên 3 lượt".
+        - 9b3a) Thể thức vòng đầy đủ: "Tốt nhất trong 3 lượt".
+        - 9b3b) WCA cũng công nhận xếp hạng và kết quả, kỷ lục theo thể thức "Trung bình 3 lượt" dựa trên kết quả của các vòng thi có thể thức "Tốt nhất trong 3 lượt".
     - 9b4) Giải Tối ưu 3x3x3.
-        - 9b4a) Thể thức thi đấu vòng đầy đủ: "Tốt nhất trong X lượt" (X là 1 hoặc 2) hoặc "Trung bình 3 lượt".
-        - 9b4b) Thể thức cutoff (vòng thi gộp): "Tốt nhất trong 1 lượt" cutoff cho "Tốt nhất trong 2 lượt" hoặc "Tốt nhất trong X lượt" (X là 1 hoặc 2) cutoff cho "Trung bình 3 lượt".
-    - 9b5) Giải bịt mắt nhiều 3x3x3.
-        - 9b5a) Thể thức thi đấu vòng đầy đủ: "Tốt nhất trong X lượt" (X là 1, 2 hoặc 3).
-        - 9b5b) Thể thức cutoff (vòng thi gộp): "Tốt nhất trong X lượt" (X là 1 hoặc 2) cutoff cho "Tốt nhất trong Y lượt" (Y là 2 hoặc 3 và Y > X).
-- 9f) Kết quả của một vòng thi được tính như sau:
-    - 9f1) Tất cả các kết quả tính giờ (single) dưới 10 phút, trừ Giải Bịt mắt nhiều 3x3x3, được ghi lại và cắt ngắn đến số thập phân thứ 2 của giây (VD: 1.499 được ghi lại là 1.49). Tất cả các kết quả trung bình (average) dưới 10 phút được ghi lại và làm tròn đến số thập phân thứ 2 của giây (VD: 1.499 được ghi lại là 1.50).
-    - 9f2) Tất cả các kết quả tính giờ (single), trung bình (average) trên 10 phút và Giải Bịt mắt nhiều 3x3x3, được ghi lại và làm tròn đến giây gần nhất (VD: 1.49 được ghi lại là 1, 1.50 được ghi lại là 2).
-    - 9f4) Kết quả của lượt giải được ghi lại là DNF (Did Not Finish) nếu thí sinh bị hủy bỏ kết quả hoặc không hoàn tất lượt giải.
-        - 9f4a) Nếu thí sinh vi phạm điều luật rõ ràng tới mức chắc chắn phải huỷ kết quả của lượt giải đó, trọng tài nên ra hiệu tạm dừng gỉai ngay lập tức. Nếu trọng tài không chắc chắn về hành vi vi phạm hoặc nếu sự tạm dừng gây ảnh hưởng có mức độ (VD. Bởi một lượt giải thay thế có thể trì hoãn cả giải đấu), trọng tài nên tham khảo ý kiến của WCA Delegate.
-    - 9f5) Kết quả của lượt giải được ghi lại là DNS (Did Not Solve) nếu thí sinh được phép thực hiện một lượt giải nhưng từ chối bắt đầu.
-    - 9f6) Đối với các vòng "Tốt nhất trên X lượt", mỗi thi sinh được thực hiện X lượt giải. Kết quả tốt nhất trong những lượt giải này quyết định thứ hạng của thí sinh trong vòng thi đó.
-    - 9f7) Đối với những vòng "Tốt nhất trong X lượt", kết quả DNF hoặc DNS là kết quả kém nhất có thể đạt được.
-    - 9f8) Đối với các vòng "Trung bình 5 lượt", thí sinh được thực hiện 5 lượt giải, lượt giải tốt nhất và kém nhất được loại bỏ, và trung bình cộng của 3 lượt giải còn lại quyết định thứ hạng của thí sinh trong vòng thi đó.
-    - 9f9) Đối với các vòng "Trung bình 5 lượt", 1 kết quả DNF hoặc DNS được phép được tính là kết quả kém nhất của thí sinh trong vòng đó. Nếu thí sinh có nhiều hơn 1 kết quả DNF và/hoặc DNS trong một vòng thi, kết quả trung bình của thí sinh được tính là DNF.
-    - 9f10) Đối với các vòng "Trung bình 3 lượt", thí sinh được thực hiện 3 lượt giải, trung bình cộng của 3 lượt giải quyết định thứ hạng của thí sinh trong vòng thi đó.
-    - 9f11) Đối với các vòng "Trung bình 3 lượt", nếu thí sinh có ít nhất một kết quả DNF hoặc DNS, kết quả trung bình của thí sinh được tính là DNF.
-    - 9f12) Đối với các vòng "Tốt nhất trong X lượt", thứ hạng dựa trên kết quả tốt nhất của mỗi thí sinh. Các tiêu chí sau được sử dụng để so sánh kết quả:
-        - 9f12a) Đối với kết quả tính giờ, "tốt hơn" được định nghĩa là thời gian ngắn hơn.
+        - 9b4a) Thể thức vòng đầy đủ: "Tốt nhất trong X lượt" (X bằng 1 hoặc 2) hoặc "Trung bình 3 lượt".
+        - 9b4b) Thể thức vòng có cutoff (vòng thi gộp): "Tốt nhất trong 1 lượt" cutoff cho "Tốt nhất trong 2 lượt" hoặc "Tốt nhất trong X lượt" (X bằng 1 hoặc 2) cutoff cho "Trung bình 3 lượt".
+    - 9b5) Giải Bịt mắt nhiều 3x3x3.
+        - 9b5a) Thể thức vòng đầy đủ: "Tốt nhất trong X lượt" (X bằng 1, 2 hoặc 3).
+        - 9b5b) Thể thức vòng có cutoff (vòng thi gộp): "Tốt nhất trong X lượt" (X bằng 1 hoặc 2) cutoff cho "Tốt nhất trong Y lượt" (Y bằng 2 hoặc 3, Y > X).
+- 9f) Kết quả của các vòng thi được tính như sau:
+    - 9f1) Các kết quả tính giờ đơn dưới 10 phút, ngoại trừ Giải Bịt mắt nhiều 3x3x3, được ghi lại và cắt ngắn đến số thập phân thứ 2 của giây (VD: 14.897 được ghi lại là 14.89). Các kết quả tính giờ trung bình dưới 10 phút được ghi lại và làm tròn đến số thập phân thứ 2 của giây (VD: 14.897 được ghi lại là 14.90).
+    - 9f2) Các kết quả tính giờ đơn và trung bình trên 10 phút và phần tính giờ của kết quả Giải Bịt mắt nhiều 3x3x3 được ghi lại và làm tròn đến giây gần nhất (VD: X.49 tháng X, X.50 thành X+1).
+    - 9f4) Kết quả lượt thi là DNF (Did Not Finish) nếu lượt thi chưa hoàn thành hoặc kết quả bị hủy.
+        - 9f4a) Nếu thí sinh vi phạm Quy định một cách rõ ràng đến mức lượt thi chắc chắn sẽ bị hủy kết quả, trọng tài nên ngay lập tức cho dừng lượt thi. Nếu trọng tài chưa chắc chắn hoặc nếu việc khiếu nại có thể gây ảnh hưởng tới giải đấu (VD: thêm lượt bổ sung có thể gây trì hoãn cả giải đấu), trọng tài nên tham khảo ý kiến của WCA Delegate.
+    - 9f5) Kết quả lượt thi là DNS (Did Not Start) nếu thí sinh có quyền được thực hiện một lượt thi nhưng lại bỏ lượt thi đó.
+    - 9f6) Đối với các vòng thể thức "Tốt nhất trong X lượt", mỗi thí sinh được thực hiện X lượt thi. Kết quả tốt nhất trong số các lượt thi này quyết định thứ hạng của thí sinh cho vòng thi.
+    - 9f7) Đối với các vòng có thể thức "Tốt nhất trong X lượt", DNF và DNS là kết quả kém nhất có thể đạt được.
+    - 9f8) Đối với các vòng có thể thức "Trung bình 5 lượt", mỗi thí sinh có quyền thực hiện 5 lượt thi. Trong số 5 lượt thi này, 2 lượt thi có kết quả kém nhất và tốt nhất được lược bỏ, và trung bình cộng của 3 lượt còn lại quyết định thứ hạng của thí sinh cho vòng thi.
+    - 9f9) Đối với các vòng có thể thức "Trung bình 5 lượt", một lượt DNF hoặc DNS được coi là kết quả kém nhất của thí sinh cho vòng thi đó. Nếu thí sinh có nhiều hơn một lượt DNF và/hoặc DNS, kết quả trung bình của thí sinh cho vòng thi đó là DNF.
+    - 9f10) Đối với các vòng có thể thức "Trung bình 3 lượt", mỗi thí sinh có quyền thực hiện 3 lượt thi. Trung bình cộng của 3 lượt thi này quyết định thứ hạng của thí sinh cho vòng thi.
+    - 9f11) Đối với các vòng có thể thức "Trung bình 3 lượt", nếu thí sinh có ít nhất một lượt DNF hoặc DNS, kết quả trung bình của thí sinh cho vòng thi đó là DNF.
+    - 9f12) Đối với các vòng có thể thức "Tốt nhất trong X lượt", thứ hạng dựa trên kết quả tốt nhất của mỗi thí sinh. Các quy tắc sau đây được sử dụng để so sánh kết quả:
+        - 9f12a) Đối với các kết quả tính giờ, "tốt hơn" được định nghĩa là thời gian ngắn hơn.
         - 9f12b) Đối với Giải Tối ưu 3x3x3, "tốt hơn" được định nghĩa là công thức giải ngắn hơn.
-        - 9f12c) Đối với Giải Bịt mắt nhiều 3x3x3 (MBLD), thứ hạng dựa trên số khối hình đã được giải trừ đi số khối hình chưa được giải (hiệu số lớn hơn là tốt hơn). Ví dụ: Đăng kí 10 khối, giải được 7 và chưa hoàn thành 3 => Kết quả là 7-3= 4 điểm, và trên máy sẽ ghi thành tích là 7/10 kèm thời gian hoàn thành. Nếu hiệu số thấp hơn 0, hoặc khi chỉ có 1 khối hình được giải, lượt giải được tính là chưa hoàn thành (DNF). Nếu nhiều thí sinh đạt được cùng một kết quả, thứ hạng dựa trên tổng thời gian (thời gian ngắn hơn là tốt hơn). Nếu nhiều thí sinh đạt được cùng một kết quả trong cùng thời gian, thứ hạng được tính theo số khối hình thí sinh không giải thành công (số khối hình giải không thành công thấp hơn là tốt hơn).
-    - 9f13) Đối với các vòng "Trung bình 3 lượt" và "Trung bình 5 lượt", thứ hạng dựa trên kết quả trung bình được sắp xếp của các thí sinh, trong đó kết quả "tốt hơn" được tính là kết quả được ghi lại thấp hơn.
-    - 9f14) Đối với các vòng "Trung bình 3 lượt" và "Trung bình 5 lượt", nếu có hai hay nhiều thí sinh đạt cùng một kết quả trung bình, thứ hạng dựa trên lượt giải tốt nhất của từng thí sinh, trong đó kết quả "tốt hơn" được tính là kết quả được ghi lại thấp hơn.
-    - 9f15) Những thí sinh đạt cùng kết quả trong một vòng thi xếp cùng một thứ hạng trong vòng thi đó.
-- 9g) Một vòng thi gộp là một vòng thi có phần cutoff với thế thức "Tốt nhất trong X lượt" và kết quả cutoff (VD: "Tốt nhất trong 2 lượt" với kết quả cutoff là 2 phút). Nếu thí sinh đạt được kết quả cutoff trong ít nhất một trong những lượt giải trong phần cutoff, thí sinh được quyền thực hiện những lượt giải còn lại. Những lượt giải trong phần cutoff đều được tính trong thể thức vòng thi đầy đủ.
-- 9i) Kết quả của các giải đấu WCA chính thức phải được đăng tải trên bảng xếp hạng thế giới của WCA.
-    - 9i1) WCA công nhận những loại kỉ lục khu vực sau: kỉ lục quốc gia, kỉ lục châu lục và kỉ lục thế giới.
-    - 9i2) Tất cả kết quả của một vòng đều được coi là đã đạt được vào ngày dương lịch cuối cùng của vòng đó. Nếu một kỉ lục khu vực được phá vỡ nhiều lần vào cùng một ngày dương lịch, chỉ kết quả tốt nhất mới được coi là đã phá vỡ kỉ lục đó.
-    - 9i3) Nếu Quy định WCA cho một nội dung được thay đổi, những kỉ lục khu vực hiện tại vẫn được giữ nguyên cho đến khi được phá vỡ dưới những Quy định WCA mới.
-- 9j) Mỗi nội dung chỉ được phép tổ chức nhiều nhất một lần trong một giải đấu.
-- 9k) Tất cả thí sinh đều có thể tham gia tất cả các nội dung của một giải đấu, trừ những trường hợp không được sự chấp thuận của Ban Quản trị WCA.
-- 9l) Mỗi vòng thi phải được hoàn thành trước khi bất kỳ vòng kế tiếp nào khác của cùng nội dung được phép bắt đầu. Ngoại lệ: Các lượt giải thay thế được tiến hành lại xuyên suốt giải đấu khi có bất kì kết quả không hợp lệ nào.
-- 9m) Mỗi nội dung chỉ được phép có nhiều nhất 4 vòng.
-    - 9m1) Những vòng thi có 99 thí sinh trở xuống chỉ được phép có nhiều nhất 2 vòng thế tiếp.
-    - 9m2) Những vòng thi có 15 thí sinh trở xuống chỉ được phép có nhiều nhất 1 vòng thế tiếp.
-    - 9m3) Những vòng thi có 7 thí sinh trở xuống không được có vòng kế tiếp.
-- 9o) Các vòng thi gộp được tính là một vòng khi tính số vòng của một nội dung.
-- 9p) Nếu một event có nhiều vòng thì:
-    - 9p1) Ít nhất 25% số thí sinh phải bị loại giữa các vòng liên tiếp của cùng một nội dung.
-    - 9p2) Các thí sinh tiến vào vòng sau phải được quyết định qua thứ hạng (Top X thí sinh tốt nhất) hoặc qua kết quả (Tất cả thí sinh có kết quả tốt hơn X) ở vòng trước đó.
-        - 9p2a) Đối với mỗi vòng, các điều kiện để tiến vào vòng sau phải được công bố trước khi vòng thi bắt đầu, và không nên được thay đổi sau khi vòng thi đã bắt đầu. Những thay đổi phải theo quyết định của WCA Delegate sau khi cân nhắc về sự công bằng của sự thay đổi đó.
-    - 9p3) Nếu một thí sinh đủ điều kiện vào vòng sau rút khỏi vòng thi đó, thí sinh đó có thể được thay thế bởi thí sinh không đủ điều kiện có kết quả tốt nhất của vòng thi trước.
+        - 9f12c) Đối với Giải Bịt mắt nhiều 3x3x3, thứ hạng dựa trên hiệu số của số khối hình đã giải trừ đi số khối hình chưa giải; hiệu số lớn hơn tương đương với kết quả tốt hơn. Nếu hiệu số thấp hơn 0, hoặc chỉ có 1 khối hình được giải, toàn bộ lượt thi đó được coi là chưa hoàn thành (DNF). Nếu nhiều thí sinh đạt điểm số bằng nhau, thứ hạng dựa trên tổng thời gian, trong đó thời gian ngắn hơn tương đương với kết quả tốt hơn. Nếu thí sinh bằng nhau về cả điểm số và thời gian, thứ hạng dựa trên số khối hình thí sinh chưa giải được; số khối hình chưa giải thấp hơn tương đương với kết quả tốt hơn.
+    - 9f13) Đối với các vòng có thể thức "Trung bình 3 lượt" và "Trung bình 5 lượt", thứ hạng dựa trên xếp hạng các kết quả trung bình của các thí sinh. Kết quả "tốt hơn" được tính là kết quả được ghi lại thấp hơn.
+    - 9f14) Đối với các vòng có thể thức "Trung bình 3 lượt" và "Trung bình 5 lượt", nếu hai thí sinh trở lên đạt cùng một kết quả trung bình, thứ hạng dựa trên kết quả đơn tốt nhất của mỗi thí sinh. Kết quả "tốt hơn" được tính là kết quả được ghi lại tốt hơn.
+    - 9f15) Các thí sinh đạt kết quả bằng nhau có cùng một thứ hạng cho vòng thi đó.
+- 9g) Vòng thi có cutoff (vòng thi gộp) là vòng thi có giai đoạn cutoff với thể thức "Tốt nhất trong X lượt" và điều kiện cutoff (VD: "Tốt nhất trong 2 lượt", điều kiện cutoff là thời gian thấp hơn 2 phút). Nếu thí sinh đạt điều kiện cutoff trong ít nhất một lượt thi trong giai đoạn cutoff, thí sinh có quyền thực hiện các lượt thi còn lại. Các lượt thi của giai đoạn cutoff cũng được tính vào thể thức đầy đủ của vòng thi.
+- 9i) Kết quả của các giải đấu WCA chính thức phải được lưu lại trên bảng xếp hạng thế giới của WCA.
+    - 9i1) WCA công nhận các loại kỷ lục khu vực sau: kỷ lục quốc gia, kỷ lục châu lục và kỷ lục thế giới.
+    - 9i2) Tất cả kết quả của một vòng thi được coi là đạt được vào ngày dương lịch cuối cùng của vòng thi đó. Nếu kỷ lục khu vực được phá vỡ nhiều lần trong cùng một ngày, chỉ có kết quả tốt nhất mới được coi là kết quả đã phá vỡ kỷ lục cũ.
+    - 9i3) Nếu Quy định WCA về một nội dung thi đấu có thay đổi, các kỷ lục khu vực hiện tại được giữ nguyên cho đến khi được phá vỡ dưới những Quy định WCA mới.
+- 9j) Mỗi nội dung chỉ được phép tổ chức nhiều nhất một lần tại mỗi giải đấu.
+- 9k) Tất cả thí sinh đều được tham gia thi tất cả các nội dung tại giải đấu, trừ các trường hợp được Đội ngũ Công bố Giải đấu WCA (WCAT) chấp thuận.
+- 9l) Mỗi vòng thi phải được hoàn thành trước khi vòng thi tiếp theo của nội dung đó bắt đầu. Ngoại lệ: Vào bất cứ thời điểm nào khi giải đấu đang diễn ra, các thí sinh có thể thi các lượt bổ sung để thay thế cho các kết quả không hợp lệ trước đó.
+- 9m) Mỗi nội dung chỉ được phép có tối đa 4 vòng thi.
+    - 9m1) Các vòng thi có 99 thí sinh trở xuống được có tối đa 2 vòng kế tiếp.
+    - 9m2) Các vòng thi có 15 thí sinh trở xuống được có tối đa 1 vòng kế tiếp.
+    - 9m3) Các vòng thi có 7 thí sinh trở xuống không được có vòng kế tiếp.
+- 9o) Khi đếm số vòng thi của nội dung, các vòng thi có cutoff (vòng thi gộp) được tính là một vòng thi.
+- 9p) Nếu nội dung có nhiều vòng thi, các quy định sau đây được áp dụng:
+    - 9p1) Ít nhất 25% thí sinh phải bị loại giữa các vòng thi của cùng một nội dung.
+    - 9p2) Việc thí sinh vào vòng kế tiếp hay không phải dựa trên thứ hạng (X thí sinh có kết quả tốt nhất) hoặc kết quả (các thí sinh có kết quả tốt hơn X) ở vòng trước đó.
+        - 9p2a) Với mỗi vòng thi, điều kiện để vào vòng sau phải được công bố trước khi vòng đó bắt đầu, và không nên thay đổi khi đã bắt đầu. Mọi sự thay đổi phải có WCA Delegate chấp thuận, sau khi đã cân nhắc xem thay đổi đó có công bằng hay không.
+    - 9p3) Nếu có thí sinh đủ điều kiện vào vòng sau rút khỏi vòng thi đó, thí sinh có kết quả tốt nhất tại vòng thi trước nhưng không đủ điều kiện vào vòng thi đó có thể được gọi lên thay thế.
 - 9s) Mỗi vòng thi của mỗi nội dung phải có giới hạn thời gian (xem [Quy định A1a](regulations:regulation:A1a)).
-- 9t) Nếu có bất kì thay đổi nào làm ảnh hưởng tới kết quả thi đấu của thí sinh sau khi giải đấu kết thúc (VD. Ghi nhầm kết quả, hình phạt có hiệu lực trước đó), thi sinh đó lẽ ra không được vào vòng sau (hoặc không được chấp thuận để tham gia vòng sau), tất cả kết quả của thí sinh này cho tất cả các vòng tiếp theo phải bị loại bỏ (xem [Quy định 9u](regulations:regulation:9u)).
-    - 9t1) Nếu việc huỷ bỏ khiến vòng đấu không còn tuân thủ với [Quy định 9p1](regulations:regulation:9p1), kết quả của các thí sinh khác sẽ không bị huỷ bỏ.
-    - 9t2) Nếu việc huỷ bỏ khiến vòng đấu không còn tuân thủ với [Quy định 9m1](regulations:regulation:9m1), [9m2](regulations:regulation:9m2), [9m3](regulations:regulation:9m3), tất cả các vòng kế tiếp sẽ không bị huỷ bỏ.
-    - 9t3) Nếu bất kì sự thay đổi nào ảnh hưởng tới kết quả của một thí sinh, và thí sinh kia đáng lẽ không nên được lọt vào vòng kế tiếp, thì kết quả của thí sinh kia sẽ không bị huỷ bỏ.
-- 9u) Một giải đấu được cho là đã kết thúc khi đồng thời đáp ứng tất cả các điều kiện dưới đây :
-    - 9u1) Tất cả các vòng đấu được lên lịch trên trang chủ WCA đã hoàn tất.
-    - 9u2) WCA Delegate tuyên bố kết thúc vào cuối giải đấu. Nếu delegate không tuyên bố bế mạc giải đấu, ít nhất một điều kiện phải được đáp ứng:
-        - 9u2a) Tất cả các WCA Delegate được liệt kê trên trang WCA của giải đấu đã vĩnh viễn rời địa điểm.
-        - 9u2b) Ngày cuối cùng diễn ra giải đấu đã trôi qua.
+- 9t) Nếu có bất kì thay đổi nào về kết quả của một thí sinh sau khi giải đấu đã kết thúc (VD: lỗi nhập liệu, áp hình phạt), khiến cho thí sinh đó lẽ ra đã không thể vào vòng sau (hoặc không được phép tham gia thi vòng sau), toàn bộ kết quả các vòng kế tiếp của thí sinh đó phải bị loại bỏ (xem [Quy định 9u](regulations:regulation:9u)).
+    - 9t1) Nếu việc lược bỏ này làm cho vòng thi không còn tuân thủ [Quy định 9p1](regulations:regulation:9p1), kết quả của các thí sinh khác không bị loại bỏ.
+    - 9t2) Nếu việc lược bỏ này làm cho vòng thi không còn tuân thủ [Quy định 9m1](regulations:regulation:9m1), [9m2](regulations:regulation:9m2) hoặc [9m3](regulations:regulation:9m3), các vòng thi kế tiếp không bị loại bỏ.
+    - 9t3) Nếu việc kết quả của một thí sinh bị thay đổi khiến cho một thí sinh khác lẽ ra không thể vào vòng kế tiếp, thì kết quả của thí sinh khác đó không bị loại bỏ.
+- 9u) Giải đấu được coi là đã kết thúc khi đồng thời đáp ứng các điều kiện dưới đây:
+    - 9u1) Toàn bộ các vòng thi có trên lịch trình trên website WCA của giải đấu đã hoàn thành.
+    - 9u2) WCA Delegate tuyên bố giải đấu đã kết thúc. Nếu WCA Delegate không tuyên bố giải đấu kết thúc, một trong hai sự kiện này tương đương với lời tuyên bố trên (tùy theo sự kiện nào xảy ra trước):
+        - 9u2a) Tất cả các WCA Delegate được liệt kê trên website WCA của giải đấu vĩnh viễn rời hội trường.
+        - 9u2b) Ngày cuối cùng diễn ra giải đấu trôi qua.
 
-## <article-10><solved-state><solvedstate> Mục 10: Trạng thái giải hoàn thành
 
-- 10b) Chỉ trạng thái tĩnh của khối hình sau khi đồng hồ đã được dừng mới được xem xét.
-- 10c) Khối hình có thể ở hướng về bất kì hướng nào ở cuối lượt giải.
-- 10d) Tất cả các bộ phận của khối hình phải không bị tách rời ra và ở đúng vị trí. Ngoại lệ: xem [Quyết định 5b5](regulations:regulation:5b5).
-- 10e) Khối hình được coi là đã được giải hoàn thành khi tất cả các bộ phận mang màu đều ở đúng vị trí và các bộ phận đều thẳng hàng trong giới hạn sau đây:
-    - 10e1) Đối với mỗi hai bộ phận liền kề nhau (VD: hai tầng song song, liền nhau của khối lập phương) của khối hình bị lệch nhiều hơn giới hạn được quy định trong [Quy định 10f](regulations:regulation:10f), khối hình được xác định là cần thêm một bước nữa để giải hoàn thành (xem "Hệ đo bước các tầng ngoài" ở [Mục 12](regulations:article:12)).
-    - 10e2) Nếu không cần thêm bước nào để đưa khối hình về trạng thái giải hoàn hành, khối hình được coi là đã được giải hoàn thành mà không có hình phạt nào.
-    - 10e3) Nếu cần thêm một bước nữa để đưa khối hình về trạng thái giải hoàn thành, khối hình được coi là đã được giải hoàn thành với phạt cộng thời gian (+2 giây).
-    - 10e4) Nếu cần thêm nhiều hơn một bước nữa để đưa khối hình về trạng thái giải hoàn thành, khối hình được coi là chưa được giải hoàn thành (DNF).
-- 10f) Giới hạn lệch được chấp nhận của các khối hình:
+## <article-10><solved-state><solvedstate> Mục 10: Trạng thái giải
+
+- 10b) Chỉ xét trạng thái tĩnh của khối hình sau khi đã dừng đồng hồ.
+- 10c) Khối hình có thể hướng về bất kì hướng nào khi đã giải xong.
+- 10d) Mọi bộ phận của khối hình phải hoàn toàn cố định và ở đúng vị trí. Ngoại lệ: xem [Quy định 5b5](regulations:regulation:5b5).
+- 10e) Khối hình được coi là đã giải xong nếu toàn bộ các bộ phận có màu ở đúng vị trí và thẳng hàng trong các giới hạn dưới đây:
+    - 10e1) Với mỗi hai bộ phận liền kề (VD: hai tầng song song, liền nhaeu của khối lập phương) bị lệch nhiều hơn mức quy định tại giới hạn được quy định tại [Quy định 10f](regulations:regulation:10f), khối hình được coi là cần thêm một bước nữa để giải (xem "Hệ đo Bước Tầng ngoài" tại [Mục 12](regulations:article:12)).
+    - 10e2) Nếu khối hình đã ở trạng thái giải mà không cần thêm bước nào, khối hình được coi là đã giải xong mà không bị áp hình phạt nào.
+    - 10e3) Nếu cần thêm một bước, khối hình được coi là đã giải xong kèm với phạt cộng thời gian (+2 giây).
+    - 10e4) Nếu cần thêm hai bước trở lên, khối hình được coi là chưa giải xong (DNF).
+- 10f) Giới hạn độ lệch khối hình cho mỗi nội dung:
     - 10f1) Khối NxNxN: nhiều nhất 45 độ.
     - 10f2) Megaminx: nhiều nhất 36 độ.
     - 10f3) Pyraminx và Skewb: nhiều nhất 60 độ.
-    - 10f4) Square-1: nhiều nhất 45 độ (U/D) hoặc 90 độ (/).
-- 10h) Những khối hình không được liệt kê trong mục này được đánh giá trạng thái giải hoàn thành theo quy ước của khối hình.
-    - 10h1) Trạng thái giải hoàn thành của Clock là khi tất cả 18 mặt đồng hồ con đều chỉ hướng 12h.
+    - 10f4) Square-1: nhiều nhất 45 độ (U/D) hoặc 90 độ (/)
+- 10h) Các khối hình không được liệt kê trong mục này được xét trạng thái giải theo quy ước của khối hình.
+    - 10h1) Trạng thái giải của Clock là khi tất cả 18 mặt đồng hồ con đều chỉ hướng 12h.
 
 
-## <article-11><incidents><incidents> Mục 11: Sự cố khi giải
+## <article-11><incidents><incidents> Mục 11: Sự cố
 
 - 11a) Các sự cố bao gồm:
-    - 11a1) Điều hành, xử lý sai trong giải đấu, bởi thành viên chính thức hoặc thí sinh.
-    - 11a2) Gián đoạn cơ sở vật chất (VD: mất điện, kích hoạt báo động khẩn cấp).
-    - 11a3) Hư hỏng thiết bị.
-- 11b) Nếu sự cố xảy ra, WCA Delegate sẽ đưa ra quyết định công bằng và phù hợp.
-- 11d) Nếu Quy định WCA không hoàn toàn rõ ràng hoặc sự cố không được nhắc đến trong Quy định WCA, WCA Delegate phải đưa ra quyết định dựa trên tinh thần thượng võ (xem [Quy định 11e3](regulations:regulation:11e3)).
-- 11e) Nếu sự cố xảy ra trong một lượt giải, WCA Delegate có thể cho thí sinh thực hiện một lượt giải bổ sung thay thế cho lượt giải có xảy ra sự cố. Thí sinh phải khiếu nại (nói hoặc viết) với trọng tài và WCA Delegate vào lúc xảy ra sự cố và trước khi hoàn thành lượt giải gốc để có thể có khả năng được bổ sung một lượt giải. Việc khiếu nại không đảm bảo cho thí sinh một lượt giải bổ sung.
-    - 11e1) Nếu thí sinh được thực hiện một lượt giải bổ sung, lượt giải bổ sung phải được tráo bằng một công thức tráo khác. Công thức tráo này phải được tạo bằng phiên bản hiện hành chính thức của chương trình tạo công thức tráo WCA chính thức (xem [Quy định 4f](regulations:regulation:4f)).
-    - 11e2) Nếu thí sinh được thực hiện một lượt giải bổ sung, lượt giải bổ sung nên được thực hiện ngay sau lượt giải dẫn đến lượt giải bổ sung, và kết quả của lượt giải này thay thế cho lượt giải gốc được đánh số thứ tự như bình thường.
-    - 11e3) Nếu việc sự cố có nên dẫn đến lượt giải bổ sung không rõ ràng, thí sinh có thể được thực hiện một lượt bổ sung dự phòng. lượt giải này chỉ được sử dụng khi về sau, việc bổ sung thêm một lượt giải là phù hợp (VD: quyết định của WRC).
-- 11f) Những quyết định về sự cố có thể được hỗ trợ bởi việc phân tích video hoặc hình ảnh, tùy theo quyết định của WCA Delegate.
-- 11g) WCA Delegate phải đảm bảo luôn có bản sao (in, kĩ thuật số hoặc trực tuyến) của Quy định và Hướng dẫn WCA để tham khảo trong trường hợp có sự cố.
-- 11h)  WCA có thể yêu cầu các thí sinh vi phạm nghiêm trọng [Quy định 2k3](regulations:regulation:2k3) rời khỏi hội trường thi đấu sau khi cân nhắc sự nghiêm trọng của lỗi vi phạm và quyết định tốt nhất có thể. Thí sinh có thể bị xử lý kỷ luật WCA nếu không chấp hành yêu cầu trên.
+    - 11a1) Thí sinh hoặc ủy viên ban tổ chức thực hiện sai quy trình thi đấu.
+    - 11a2) Gián đoạn do cơ sở vật chất gây nên (VD: mất điện, chuông báo cháy).
+    - 11a3) Lỗi thiết bị.
+- 11b) Nếu có sự cố, WCA Delegate cần xác định hướng giải quyết phù hợp và công tâm nhất.
+- 11d) Nếu Quy định WCA chưa rõ ràng hoặc sự cố không được Quy định WCA nhắc đến, WCA Delegate phải quyết định dựa trên tinh thần thượng võ (xem thêm [Quy định 11e3](regulations:regulation:11e3)).
+- 11e) WCA Delegate có thể cho thí sinh thi lượt bổ sung để thay thế lượt thi bị sự cố làm ảnh hưởng. Thí sinh nên khiếu nại (qua lời nói hoặc văn bản) với trọng tài hoặc WCA Delegate khi sự cố diễn ra và trước khi lượt thi kết thúc để có thể có khả năng được thi lượt bổ sung. Việc khiếu nại không đảm bảo thí sinh sẽ được thi lượt bổ sung.
+    - 11e1) Nếu thí sinh được thi lượt bổ sung, lượt thi bổ sung này phải dùng công thức tráo khác. Công thức tráo này phải được tạo bằng phiên bản hiện hành của chương trình tạo công thức    tráo chính thức của WCA (xem [Quy định 4f](regulations:regulation:4f)).
+    - 11e2) Nếu thí sinh được thi lượt bổ sung, lượt thi bổ sung này nên được thực hiện ngay sau lượt thi dẫn đến nó, và kết quả phải sử dụng để thay thế kết quả của lượt thi gốc.
+    - 11e3) Nếu WCA Delegate chưa biết rõ rằng một sự cố có nên dẫn đến lượt thi bổ sung hay không, thí sinh có thể được thi một lượt bổ sung dự phòng; lượt thi này chỉ được sử dụng nếu về sau xét thấy việc thêm lượt bổ sung là phù hợp (VD: theo quyết định của WRC).
+- 11f) Các quyết định về sự cố có thể được hỗ trợ bởi việc phân tích video hoặc hình ảnh, tùy theo quyết định của WCA Delegate.
+- 11g) WCA Delegate phải đảm bảo luôn có bản sao của bản Quy định và Hướng dẫn (dưới dạng in, kĩ thuật số hoặc trực tuyến) để ủy viên ban tổ chức và thí sinh có thể tham khảo trong trường hợp có sự cố.
+- 11h) WCA Delegate có thể yêu cầu các thí sinh vi phạm nghiêm trọng [Quy định 2k3](regulations:regulation:2k3) rời hội trường, sau khi đã cân nhắc sự nghiệm trọng của lỗi vi phạm và hướng giải quyết tốt nhất. Thí sinh có thể bị xử lý kỷ luật WCA nếu không tuân thủ.
 
 
-## <article-12><notation><notation> Mục 12: Ký hiệu tráo
+## <article-12><notation><notation> Mục 12: Ký hiệu bước
 
-- 12a) Ký hiệu cho khối NxNxN:
-    - 12a1) Xoay các mặt:
+- 12a) Ký hiệu bước cho các Khối NxNxN:
+    - 12a1) Bước xoay các mặt (tầng ngoài cùng):
         - 12a1a) Theo chiều kim đồng hồ, 90 độ: F (mặt trước), B (mặt sau), R (mặt phải), L (mặt trái), U (mặt trên), D (mặt dưới).
         - 12a1b) Ngược chiều kim đồng hồ, 90 độ: F', B', R', L', U', D'.
         - 12a1c) 180 độ: F2, B2, R2, L2, U2, D2.
-    - 12a2) Xoay nhiều tầng (mặt ngoài cùng tầng giữa liền kề; n được định nghĩa bằng tổng số tầng cần xoay; có thể bỏ qua đối với 2 tầng):
+    - 12a2) Bước xoay nhiều tầng ngoài (tầng ngoài cùng và các tầng bên trong liền kề). Đối với các bước được định nghĩa dưới đây, n là số tầng cần xoay, trong khoảng 1 < n < N (N là tổng số tầng của khối hình). Số n cũng có thể lược bỏ để biểu thị số tầng là n = 2. Các Bước xoay nhiều tầng ngoài bao gồm:
         - 12a2a) Theo chiều kim đồng hồ, 90 độ: nFw, nBw, nRw, nLw, nUw, nDw.
         - 12a2b) Ngược chiều kim đồng hồ, 90 độ: nFw', nBw', nRw', nLw', nUw', nDw'.
         - 12a2c) 180 độ: nFw2, nBw2, nRw2, nLw2, nUw2, nDw2.
-    - 12a4) Xoay cả khối:
+    - 12a4) Bước xoay toàn bộ khối hình:
         - 12a4a) Theo chiều kim đồng hồ, 90 độ: x (cùng chiều R hoặc L'), y (cùng chiều U hoặc D'), z (cùng chiều F hoặc B').
         - 12a4b) Ngược chiều kim đồng hồ, 90 độ: x' (cùng chiều R' hoặc L), y' (cùng chiều U' hoặc D), z' (cùng chiều F' hoặc B).
         - 12a4c) 180 độ: x2, y2, z2.
-    - 12a5) Hệ đo bước các tầng ngoài (Outer Block Turn Metric) được định nghĩa là:
-        - 12a5a) Mỗi bước xoay các mặt và nhiều tầng được tính là 1 bước.
-        - 12a5b) Mỗi bước xoay cả khối được tính là 0 bước.
-    - 12a6) Hệ đo bước hành động (Execution Turn Metric) được định nghĩa là: Mỗi bước xoay các mặt, nhiều tầng hoặc xoay cả khối đều được tính là 1 bước.
-- 12c) Ký hiệu cho Square-1:
-    - 12c1) Ở trạng thái ban đầu, khối hình được xoay với mặt nhỏ hơn của tầng xích đạo nằm về phía bên trái của mặt trước.
-    - 12c2) (x, y) có nghĩa: xoay tầng trên 30 độ x lần theo chiều kim đồng hồ, xoay tầng dưới 30 độ y lần theo chiều kim đồng hồ. x và y phải là số nguyên từ -5 đến 6, và không được đồng thời bằng 0.
+    - 12a5) Hệ đo Bước Tầng ngoài (OBTM) quy ước như sau:
+        - 12a5a) Các Bước xoay các mặt và Bước xoay nhiều tầng ngoài được tính là 1 bước.
+        - 12a5b) Các Bước xoay toàn bộ khối hình được tính là 0 bước.
+    - 12a6) Hệ đo Bước Hành động (ETM) quy ước như sau: Các Bước xoay các mặt, Bước xoay nhiều tầng ngoài và các Bước xoay toàn bộ khối hình được tính là 1 bước.
+- 12c) Ký hiệu bước cho Square-1:
+    - 12c1) Ở trạng thái ban đầu, khối hình được cầm sao cho một trong hai viên có mặt nhỏ hơn ở tầng giữa nằm ở bên trái mặt phía trước.
+    - 12c2) (X, Y) có nghĩa là: xoay mặt bên trên X lần 30 độ theo chiều kim đồng hồ, xoay mặt bên dưới Y lần 30 độ theo chiều kim đồng hồ. X và Y phải là số nguyên trong khoảng từ -5 đến 6, và không được đồng thời bằng 0.
     - 12c3) "/" có nghĩa là: xoay nửa bên phải của khối hình 180 độ.
-    - 12c4) Hệ đo cho Square-1: (x, y) tính là một bước, "/" tính là một bước.
-- 12d) Ký hiệu cho Megaminx (chỉ để tráo):
-    - 12d1) Xoay các mặt:
+    - 12c4) Hệ đo bước Square-1: (X, Y) tính là 1 bước, "/" tính là 1 bước.
+- 12d) Ký hiệu bước cho Megaminx (chỉ để tráo):
+    - 12d1) Bước xoay các mặt:
         - 12d1a) Theo chiều kim đồng hồ, 72 độ: U (mặt trên).
         - 12d1b) Ngược chiều kim đồng hồ, 72 độ: U' (mặt trên).
-    - 12d2) Các bước còn lại được thực hiện bằng cách giữ nguyên 3 viên ở mặt trên bên trái cố định và xoay phần còn lại của khối hình:
-        - 12d2c) 144 độ theo chiều kim đồng hồ ngoại trừ mặt chứa 3 viên ở phía trên bên trái: R++ (tầng nằm dọc), D++ (tầng nằm ngang).
-        - 12d2d) 144 độ ngược chiều kim đồng hồ ngoại trừ mặt chứa 3 viên ở phía trên bên trái: R-- (tầng nằm dọc), D-- (tầng nằm ngang).
-- 12e) Ký hiệu cho Pyraminx:
-    - 12e1) Khối hình được cầm với mặt dưới năm ngang hoàn toàn và mặt trước hướng về phía người đang cầm khối Pyraminx.
-    - 12e2) Theo chiều kim đồng hồ, 120 độ: U (2 tầng trên), L (2 tầng trái), R (2 tầng phải), B (2 tầng sau), u (đỉnh trên), l (đỉnh dưới), r (đỉnh phải), b (đỉnh trái).
-    - 12e3) Ngược chiều kim đồng hồ, 120 độ: U' (2 tầng trên), L' (2 tầng trái), R' (2 tầng phải), B' (2 tầng sau), u' (đỉnh trên), l' (đỉnh dưới), r' (đỉnh phải), b' (đỉnh trái).
-- 12g) Ký hiệu cho Clock:
-    - 12g1) Khối hình được cầm sao cho hướng 12h hướng lên trên và bất kỳ mặt nào hướng về phía trước.
-    - 12g2) Nhả nút ghim: UR (trên-phải), DR (dưới-phải), DL (dưới-trái), UL (trên-trái), U (trên), R (phải), D (dưới), L (trái), ALL (tất cả).
-    - 12g3) Xoay bánh răng cạnh nút ghim được nhả và sau đó bấm tất cả các nút xuống: x+ (theo chiều kim đồng hồ x lần), x- (ngược chiều kim đồng hồ x lần).
-    - 12g4) Đổi mặt khối hình sao cho 12 giờ vẫn hướng lên trên, sau đó ghim tất cả các nút: y2.
-- 12h) Ký hiệu cho Skewb:
-    - 12h1) Khối hình được cầm sao cho nhìn thấy được ba mặt, với mặt trên ở trên cùng.
-    - 12h2) Theo chiều kim đồng hồ, 120 độ: R (tầng xung quanh đỉnh dưới-phải xa nhất trong tầm nhìn), U (tầng xung quanh đỉnh trên xa nhất trong tầm nhìn), L (tầng xung quanh đính dưới-trái xa nhất trong tầm nhìn), B (tầng xung quanh đỉnh xa nhất ở phía sau không trong tầm nhìn).
-    - 12h3) Ngược chiều kim đồng hồ, 120 độ: R' (tầng xung quanh đỉnh dưới-phải xa nhất trong tầm nhìn), U' (tầng xung quanh đỉnh trên xa nhất trong tầm nhìn), L' (tầng xung quanh đính dưới-trái xa nhất trong tầm nhìn), B' (tầng xung quanh đỉnh xa nhất ở phía sau không trong tầm nhìn).
-- 12i) Định nghĩa: Một bước được coi là bất kì thay đổi nào đối với trạng thái của khối hình theo ký hiệu được xác định ở trên, bao gồm cả những sai lệch vượt quá giới hạn được mô tả trong [Quy định 10f](regulations:regulation:10f).
+    - 12d2) Các bước còn lại được thực hiện khi đang giữ cố định 3 viên ở phía bên trái của mặt trên:
+        - 12d2c) Xoay cả khối hình (trừ tầng chứa 3 viên cố định) 144 độ theo chiều kim đồng hồ: R++ (tầng nằm dọc), D++ (tầng nằm ngang).
+        - 12d2d) Xoay cả khối hình (trừ tầng chứa 3 viên cố định) 144 độ ngược chiều kim đồng hồ: R-- (tầng nằm dọc), D-- (tầng nằm ngang).
+- 12e) Ký hiệu bước cho Pyraminx:
+    - 12e1) Khối hình đặt sau cho mặt dưới nằm ngang hoàn toàn, và mặt phía trước hướng về phía người cầm khối hình.
+    - 12e2) Theo chiều kim đồng hồ, 120 độ: U (2 tầng trên), L (2 tầng trái), R (2 tầng phải), B (2 tầng sau), u (đỉnh trên), l (đỉnh trái), r (đỉnh phải), b (đỉnh sau).
+    - 12e3) Ngược chiều kim đồng hồ, 120 độ: U' (2 tầng trên), L' (2 tầng trái), R' (2 tầng phải), B' (2 tầng sau), u' (đỉnh trên), l' (đỉnh trái), r' (đỉnh phải), b' (đỉnh sau).
+- 12g) Ký hiệu bước cho Clock:
+    - 12g1) Khối hình được cầm sao cho dấu chỉ 12h hướng lên trên và bất kì mặt nào hướng về phía trước.
+    - 12g2) Đẩy nút ghim lên: UR (phía trên bên phải), DR (phía dưới bên phải), DL (phía dưới bên trái), UL (phía trên bên trái), U (hai nút trên), R (hai nút phải), D (hai nút dưới), L (hai nút trái), ALL (toàn bộ).
+    - 12g3) Xoay bánh răng cạnh nút ghim đã đẩy lên trên và sau đó nhấn toàn bộ nút xuống: X+ (xoay X lần theo chiều kim đồng hồ), X- (xoay X lần ngược chiều kim đồng hồ).
+    - 12g4) Lật khối hình sao cho dấu chỉ 12h vẫn hướng lên trên, sau đó nhấn toàn bộ nút xuống: y2.
+- 12h) Ký hiệu bước cho Skewb:
+    - 12h1) Khối hình được cầm sao cho nhìn thấy được ba mặt, trong đó mặt trên ở trên cùng.
+    - 12h2) Theo chiều kim đồng hồ, 120 độ: R (tầng xoay quanh đỉnh phía dưới bên phải xa nhất trong tầm nhìn), U (tầng xoay quanh đỉnh phía trên xa nhất trong tầm nhìn), L (tầng xoay quanh đỉnh phía dưới bên trái xa nhất trong tầm nhìn), B (tầng xoay quanh đỉnh phía sau xa nhất không trong tầm nhìn).
+    - 12h3) Ngược chiều kim đồng hồ, 120 độ: R' (tầng xoay quanh đỉnh phía dưới bên phải xa nhất trong tầm nhìn), U' (tầng xoay quanh đỉnh phía trên xa nhất trong tầm nhìn), L' (tầng xoay quanh đỉnh phía dưới bên trái xa nhất trong tầm nhìn), B' (tầng xoay quanh đỉnh phía sau xa nhất không trong tầm nhìn).
+- 12i) Định nghĩa: Một bước là bất cứ hành động thay đổi trạng thái khối hình nào dựa theo ký hiệu trên, bao gồm cả các độ lệch vượt quá giới hạn quy định trong [Quy định 10f](regulations:regulation:10f).
 
 
-## <article-A><speedsolving><speedsolving> Mục A: Giải Tốc độ (Speed)
+## <article-A><speedsolving><speedsolving> Mục A: Giải Tốc độ
 
-- A1) Các lượt Giải Tốc độ phải tuân theo những quy trình sau:
-    - A1a) Ban tổ chức phải áp dụng duy nhất một loại giới hạn thời gian (giới hạn thời gian mỗi lượt giải hoặc cộng dồn) cho mỗi vòng.
-        - A1a1) Giới hạn thời gian mặc định là 10 phút cho mỗi lượt giải của mỗi vòng thi, tuy nhiên ban tổ chức có thể đặt giới hạn thời gian cao hơn hoặc thấp hơn. Trong trường hợp này, giới hạn thời gian của tất cả các lượt giải trong một vòng thi phải là như nhau.
-        - A1a2) Đối với các nội dung trừ Giải Tối ưu 3x3x3 và Giải Bịt mắt nhiều 3x3x3, ban tổ chức có thể đặt một giới hạn thời gian cộng dồn. Giới hạn thời gian cộng dồn hoặc là phải áp dụng trên tất cả các lượt giải của một vòng thi (VD: 3 lượt giải với giới hạn thời gian cộng dồn là 20 phút), hoặc là phải áp dụng trên tất cả các lượt giải của nhiều vòng của các nội dung khác nhay. Trong trường hợp này, giới hạn thời gian của một lượt giải là hiệu số của giới hạn thời gian cộng dồn và tổng thời gian của các lượt giải tính vào giới hạn tính đến thời điểm đó (xem [Quy định A1a5](regulations:regulation:A1a5)). Nếu một vòng thi được áp dụng giới hạn thời gian cộng dồn thì chỉ được có nhiều nhất một mức giới hạn.
-        - A1a3) Giới hạn thời gian của tất cả các vòng phải được thông báo trước khi giải đấu bắt đầu, và không nên được thay đổi sau khi các vòng bị ảnh hưởng đã bắt đầu. Các thay đổi cần phải được chấp thuận bởi WCA Delegate sau khi cân nhắc tính công bằng của những thay đổi đó.
-        - A1a4) Thí sinh phải kết thúc lượt giải trước khi đạt đến giới hạn thời gian. Nếu đồng hồ của thí sinh đạt đến giới hạn thời gian của nội dung, trọng tài dừng lượt giải lại ngay lập thức và khi kết quả là DNF. Ngoại lệ; Giải Bịt mắt nhiều 3x3x3 (xem [Quy định H1b1](regulations:regulation:H1b1)).
-        - A1a5) Thời gian tính vào giới hạn thời gian của một lượt giải hoặc là kết quả sau khi cộng thời gian phạt (nếu kết quả không phải là DNF) hoặc thời gian đã trôi qua trong lượt giải đó (nếu kết quả là DNF).
-    - A1b) Nếu giới hạn thời gian của một lượt giải lớn hơn 10 phút, đồng hồ bấm giờ phải được sử dụng để tính giờ.
-        - A1b1) Stackmat phải được sử dụng cùng với đồng hồ bấm giờ. Ngoại lệ: với những nội dung không có thời gian quan sát trước mà thí sinh được dự đoán sẽ mất hơn 10 phút, việc sử dụng Stackmat là không bắt buộc.
-        - A1b2) Nếu có thế lấy thời gian ở Stackmat, đó sẽ là kết quả được ghi lại. Nếu không, thời gian trên đồng hồ bấm giờ sẽ là kết quả được ghi lại.
-    - A1c) Một thí sinh tham gia thi một nội dung phải đạt yêu cầu của nội dung đó (xem [Quy định 2k6](regulations:regulation:2k6)).
-- A2) Tráo khối hình:
-    - A2a) Khi được gọi tên tham gia thi đấu trong một vòng thi, thí sinh nộp khối hình trong trạng thái giải hoàn thành cho người tráo. Thi sinh đợi ở “khu vực đợi thi đấu” cho đến khi được gọi tên.
-    - A2b) Người tráo tráo khối hình theo quy định ở [Mục 4](regulations:article:4).
-        - A2b1) Đối với Square-1, ban tổ chức có thể yêu cầu đặt một vật mỏng vào giữa khối hình để các tầng không bị dịch chuyển trước khi lượt giải bắt đầu. Việc này khải được thông báo trước khi vòng thi bắt đầu.
-    - A2c) Sau khi người tráo bắt đầu tráo khối hình, thí sinh không được nhìn khối hình trước khi thời gian quan sát bắt đầu.
-        - A2c1) Người tráo đậy khối hình lại sao cho thí sinh và khán giả không thể nhìn thấy bất kì bộ phận nào của khối hình. Khối hình được đậy kín cho đến khi lượt giải bắt đầu.
-    - A2d) Khi nhận khối hình từ người tráo, trọng tài xem qua khối hình để đảm bảo khối hình đã được tráo chính xác. Trọng tài thông báo lại với người tráo nếu có vấn đề, để người tráo có thể xem xét lại kĩ hơn.
-        - A2d1) Người tráo hoặc một trọng tài được cho phép phải kiểm tra khối hình được tráo và kí phiếu ghi kết quả để xác nhận đã áp dụng công thức tráo đúng theo số thứ tự và khối hình giống với hình vẽ (xem [Quy định 4g](regulations:regulation:4g)). Ngoại lệ: đối với Khối 6x6x6, Khối 7x7x7 và Megaminx, người tráo có thể kí xác nhận là khối hình được tráo đủ (xem [Quy định 4g1](regulations:regulation:4g1)).
-    - A2e) Trọng tại đặt khối hình ở một vị trí bất kì trên thảm kê trong khi đảm bảo khối hình vẫn được đậy kín hoàn toàn.
-        - A2e1) Thí sinh không được phép yêu cầu khối hình được đặt một hướng nhất định, và trọng tài không được cố ý định hướng khối hình trên thảm (dựa trên quan sát hoặc phỏng đoán về trạng thái của khối hình).
-- A3) Thời gian quan sát:
-    - A3a) Thi sinh có thể quan sát khối hình khi bắt đầu lượt giải.
-        - A3a1) Thí sinh được phép quan sát khối hình trong nhiều nhất là 15 giây trước khi bắt đầu giải khối hình.
-    - A3b) Trọng tài chuẩn bị timer bằng cách bật timer lên và khởi tạo lại nếu cần thiết. Nếu Gen 5 Pro Timer được sử dụng, trọng tài phải đảm bảo timer đang ở chế độ 2-pad. Đồng thời, trọng tài phải chuẩn bị đồng hồ bấm giờ để đếm thời gian quan sát.
-        - A3b1) Khi trọng tài nghĩ thí sinh đã sẵn sàng, trọng tài hỏi xem thí sinh đã sẵn sàng chưa. Thí sinh phải sẵn sàng bắt đầu lượt giải trong một phút tính từ thời điểm được hỏi, nếu không thí sinh đã được tính là đã bỏ lượt giải đó (DNS), tùy theo quyết định của trọng tài.
-        - A3b2) Thi sinh bắt đầu lượt giải bằng cách xác nhận đã sẵn sàng, và trọng tài bỏ nắp đậy khối hình và bắt đầu tính thời gian quan sát.
-        - A3b3) Khi 8 giây quan sát đã trôi qua, trọng tài thông báo "8 GIÂY" .
-        - A3b4) Khi 12 giây quan sát đã trôi qua, trọng tài thông báo "12 GIÂY" .
-    - A3c) Thí sinh có thể cầm khối hình trong thời gian quan sát.
-        - A3c1) Thí sinh không được thực hiện bước nào trong thời gian quan sát. Hình phạt: hủy bỏ kết quả lượt giải đó (DNF).
-        - A3c2) Nếu các bộ phận của khối hình không hoàn toàn thẳng hàng, thí sinh có thể làm thẳng hàng các mặt, với điều kiện là độ lệch ở trong các giới hạn của [Quy định 10f](regulations:regulation:10f).
-        - A3c3) Thí sinh có thể khởi tạo lại đồng hồ trước khi bắt đầu lượt giải.
-        - A3c4) Đối với Square-1, nếu ban tổ chức quyết định sử dụng vật mỏng ở trong khối hình (xem [Quy định A2b1](regulations:regulation:A2b1)), thí sinh có thể bỏ vật mỏng này ra trong thời gian quan sát.
-        - A3c5) Đối với Square-1, thí sinh sẽ không nên bị phạt vì bất kỳ di chuyển ngẫu nhiên nào được thực hiện trong giới hạn của [Quy định 10f](regulations:regulation:10f).
-    - A3d) Ở cuối thời gian quan sát, thí sinh đặt khối hình lên trên thảm với bất kì định hướng nào. Hình phạt nếu đặt khối hình ra ngoài thảm: phạt cộng thời gian (+2 giây).
-- A4) Bắt đầu lượt giải:
-    - A4b) Thí sinh sử dụng ngón tay để chạm vào cảm biến trên đồng hồ. Lòng bàn tay của thí sinh phải hướng xuống dưới, và đặt ở phía đồng hồ gần thí sinh hơn.
-        - A4b1) Thí sinh không được chạm vào khối hình khi đang bắt đầu lượt giải. Hình phạt: phạt cộng thời gian (+2 giây). Hình phạt: phạt cộng thời gian (+2 giây).
-    - A4d) Nếu đồng hồ Stackmat được sử dụng, thí sinh nên đặt tay trên đồng hồ cho đến khi thấy đèn xanh trên đồng hồ sáng. Thí sinh bắt đầu lượt giải bằng cách bỏ tay khỏi đồng hồ (bắt đầu đồng hồ).
-        - A4d1) Thí sinh phải bắt đầu lượt giải muộn nhất là 15 giây kể từ khi bắt đầu quan sát. Hình phạt: phạt cộng thời gian (+2 giây).
-        - A4d2) Thí sinh phải bắt đầu lượt giải muộn nhất là 17 giây kể từ khi bắt đầu quan sát. Hình phạt: hủy bỏ kết quả lượt giải (DNF).
-        - A4d3) Nếu đồng hồ bấm giờ được sử dụng, trọng tài bắt đầu đồng hồ bấm giờ ngay khi thí sinh bắt đầu lượt giải.
-    - A4e) Các hình phạt cộng thời gian trong quá trình bắt đầu lượt giải được cộng dồn.
-- A5) Trong lượt giải:
-    - A5a) Trong khi đang quan sát hoặc giải khối hình, thí sinh không được giao tiếp với bất kì ai ngoài trọng tài hay WCA Delegate. Hình phạt: hủy bỏ kết quả lượt giải (DNF). Ngoại lệ: Nếu thí sinh không đạt được lợi thế sau khi giao tiếp với bất kỳ ai ngoài giám khảo hoặc WCA Delegate, kết quả có thể được giữ nguyên, tuỳ theo quyết định của WCA Delegate.
-    - A5b) Trong khi đang quan sát hoặc giải khối hình, thí sinh không được phép nhận hỗ trợ từ bất kì ai hay vật giờ ngoại trừ bề mặt (xem thêm [Quy định 2i](regulations:regulation:2i)). Hình phạt: hủy bỏ kết quả lượt giải (DNF).
-    - A5c) Thí sinh có thể giữ khối hình trên bề mặt để hỗ trợ việc vận hành khối hình (xem [Quy định 7f1d](regulations:regulation:7f1d)).
-- A6) Kết thúc lượt giải:
-    - A6a) Thí sinh thả khối hình ra khỏi tay trước khi kết thúc lượt giải, và kết thúc lượt giải bằng cách dừng đồng hồ. Nếu đồng hồ bấm giờ được sử dụng, trọng tài dừng đồng hồ bấm giờ ngay khi thí sinh thực hiện những hành động trên.
+- A1) Các lượt thi Giải Tốc độ phải tuân theo quy trình sau.
+    - A1a) Ban tổ chức phải áp dụng ít nhất một loại giới hạn thời gian (giới hạn thời gian từng lượt thi và/hoặc tổng giới hạn thời gian) với mỗi vòng thi.
+        - A1a1) Giới hạn thời gian mặc định là 10 phút mỗi lượt, nhưng ban tổ chức có thể thay đổi giới hạn của mỗi lượt thi. Trong trường hợp này, giới hạn của tất cả các lượt thi trong cùng một vòng thi phải giống nhau.
+        - A1a2) Ngoại trừ Giải Tối ưu 3x3x3 và Giải Bịt mắt nhiều 3x3x3, ban tổ chức có thể áp dụng tổng giới hạn thời gian. Tổng giới hạn thời gian phải hoặc là áp dụng lên tất cả các lượt thi của một vòng (VD: 3 lượt thi có tổng giới hạn 20 phút), hoặc nhiều lượt thi của nhiều vòng thi của nhiều nội dung khác nhau. Trong trường hợp này, giới hạn thời gian của một lượt thi hoặc là giới hạn thời gian của lượt thi, hoặc là tổng giới hạn thời gian trừ đi tổng thời gian của các lượt thi có áp dụng tổng giới hạn (xem [Quy định A1a5](regulations:regulation:A1a5)), tùy theo mức giới hạn nào ngắn hơn. Một vòng thi chỉ được phép áp dụng một tổng giới hạn thời gian nếu có.
+        - A1a3) Giới hạn thời gian của tất cả các vòng thi phải được thông báo trước khi giải đấu bắt đầu, và không nên thay đổi khi các vòng thi áp dụng giới hạn đã bắt đầu. Mọi sự thay đổi phải có WCA Delegate chấp thuận, sau khi đã cân nhắc xem thay đổi đó có công bằng hay không.
+        - A1a4) Thí sinh phải kết thúc quá trình giải trước khi đạt đến giới hạn thời gian. Nếu đồng hồ của thí sinh đạt đến giới hạn thời gian của lượt thi, trọng tài ngay lập tức dừng quá trình giải và ghi kết quả là DNF. Ngoại lệ: Giải Bịt mắt nhiều 3x3x3 (xem [Quy định H1b1](regulations:regulation:H1b1)).
+        - A1a5) Thời gian tính vào giới hạn thời gian là kết quả sau khi đã áp dụng hình phạt cộng thời gian (nếu không phải DNF) hoặc thời gian đã trôi qua trong quá trình giải (nếu kết quả là DNF).
+    - A1b) Nếu giới hạn thời gian của lượt thi cao hơn 10 phút, đồng hồ bấm giờ phải được sử dụng để tính giờ.
+        - A1b1) Stackmat phải được dùng cùng với đồng hồ bấm giờ. Ngoại lệ: với những nội dung không có thời gian quan sát mà thí sinh nhiều khả năng sẽ mất nhiều hơn 10 phút, không nhất thiết phải sử dụng Stackmat.
+        - A1b2) Nếu có thời gian từ đồng hồ Stackmat thì thời gian đó là kết quả được ghi lại. Nếu không (VD: đồng hồ Stackmat bị lỗi, chạy quá 10 phút hoặc không được sử dụng), thời gian trên đồng hồ bấm giờ là kết quả được ghi lại.
+    - A1c) Thí sinh tham gia thi phải đạt yêu cầu của nội dung (xem [Quy định 2k6](regulations:regulation:2k6)).
+- A2) Tráo đề:
+    - A2a) Khi được gọi tên, thí sinh nộp khối hình đã giải xong cho người tráo đề. Thí sinh đợi ở khu vực chờ cho đến khi được gọi lên thi đấu.
+    - A2b) Người tráo đề tráo khối hình theo các quy định ở [Mục 4](regulations:article:4).
+        - A2b1) Đối với Square-1, ban tổ chức có thể đặt tấm chèn mỏng ở giữa khối hình để khối hình không xê dịch trước khi lượt thi bắt đầu. Ban tổ chức nên thông báo trước vòng thi nếu có sử dụng tấm chèn.
+    - A2c) Sau khi người tráo đề bắt đầu tráo khối hình, thí sinh không được nhìn thấy khối hình trước khi bắt đầu thời gian quan sát.
+        - A2c1) Người tráo đậy khối hình đã tráo bằng hộp đậy để thí sinh hoặc khán giả không thể nhìn thấy bất cứ phần nào của khối hình. Hộp đậy này che kín khối hình cho đến lúc lượt thi bắt đầu.
+    - A2d) Khi nhận khối hình từ người tráo đề, trọng tài kiểm tra khối hình để đảm bảo khối hình đã được tráo. Trọng tài có thể thảo luận với người tráo nếu có ý kiến, và sau đó người tráo sẽ kiểm tra lại kĩ hơn.
+        - A2d1) Người tráo hoặc trọng tài (nếu được phép) phải kiểm tra khối hình đã tráo, và ký tên vào phiếu điểm để xác nhận rằng khối hình đã được tráo bằng công thức có số thứ tự tương ứng, và trạng thái khối hình giống với trong hình minh họa (xem [Quy định 4g](regulations:regulation:4g)). Ngoại lệ: với Khối 6x6x6, Khối 7x7x7 và Megaminx, người tráo ký tên để xác nhận rằng khối hình đã được tráo đủ kĩ (xem [Quy định 4g1](regulations:regulation:4g1)).
+    - A2e) Trọng tài đặt khối hình lên thảm kê, sao cho khối hình hướng theo hướng bất kì và luôn được che kín hoàn toàn.
+        - A2e1) Thí sinh không được phép yêu cầu trọng tài đặt khối hình hướng theo một hướng nhất định. Trọng tài không được cố ý thay đổi hướng của khối hình dựa trên thông tin được biết từ trước hoặc theo phỏng đoán.
+- A3) Quan sát:
+    - A3a) Thí sinh có thời gian quan sát khối hình ở đầu mỗi lượt thi.
+        - A3a1) Thí sinh được quan sát khối hình trong khoảng thời gian ít hơn 15 giây trước khi bắt đầu quá trình giải.
+    - A3b) Trọng tài bật đồng hồ và reset nếu cần. Nếu sử dụng đồng hồ Generation 5 Pro Timer, trọng tài phải đảm bảo đồng hồ đang ở chế độ 2-pad. Trọng tài cũng chuẩn bị đồng hồ bấm giờ để tính thời gian quan sát (xem [Quy định A4d](regulations:regulation:A4d)).
+        - A3b1) Nếu trọng tài thấy rằng thí sinh đã sẵn sàng, trọng tài hỏi "SẴN SÀNG CHƯA?". Tính từ thời gian trọng tài hỏi câu này, thí sinh phải sẵn sàng bắt đầu lượt thi trong vòng một phút, nếu không thí sinh được coi là đã bỏ lượt thi (DNS), tùy theo quyết định của trọng tài.
+        - A3b2) Thí sinh bắt đầu lượt thi bằng cách xác nhận đã sẵn sàng, và trọng tài mở hộp đậy khối hình và bắt đầu tính thời gian quan sát.
+        - A3b3) Khi 8 giây quan sát đã trôi qua, trọng tài thông báo "8 GIÂY".
+        - A3b4) Khi 12 giây quan sát đã trôi qua, trọng tài thông báo "12 GIÂY".
+        - A3b5) Trọng tài dừng tính thời gian quan sát ngay khi thí sinh bỏ tay khỏi đồng hồ và bắt đầu chạy đồng hồ (xem [Quy định A4d](regulations:regulation:A4d)).
+    - A3c) Thí sinh được cầm khối hình lên trong thời gian quan sát.
+        - A3c1) Thí sinh không được xoay bước nào hoặc cố tình làm lệch các tầng của khối hình trong thời gian quan sát. Hình phạt: hủy kết quả lượt thi (DNF). Ngoại lệ: xem [Quy định A3c2](regulations:regulation:A3c2) và [Quy định A3c5](regulations:regulation:A3c5).
+        - A3c2) Nếu các viên của khối hình không hoàn toàn thẳng hàng sau khi hộp đậy được bỏ ra, thí sinh được phép nắn cho các mặt thẳng hằng trở lại, miễn sao cho độ lệch không vượt quá các giới hạn tại [Quy định 10f](regulations:regulation:10f).
+        - A3c3) Thí sinh có thể reset đồng hồ trước khi bắt đầu quá trình giải.
+        - A3c4) Đối với Square-1, nếu ban tổ chức sử dụng tấm chèn giữa khối hình (xem [Quy định A2b1](regulations:regulation:A2b1)), thí sinh có thể bỏ tấm chèn này ra trong thời gian quan sát.
+        - A3c5) Đối với Square-1, thí sinh không nên bị phạt vì vô tình thực hiện các bước, miễn sao các bước này không vượt quá các giới hạn tại [Quy định 10f](regulations:regulation:10f).
+    - A3d) Khi đã quan sát xong, thí sinh đặt khối hình lên thảm kê, hướng theo bất kì hướng nào. Hình phạt nếu đặt ngoài thảm kê: phạt cộng thời gian (+2 giây).
+- A4) Bắt đầu quá trình giải:
+    - A4b) Thí sinh đặt ngón tay lên cảm biến của đồng hồ Stackmat. Lòng bàn tay phải hướng xuống dưới, đặt ở phía gần thí sinh hơn. Hình phạt: phạt cộng thời gian (+2 giây).
+        - A4b1) Thí sinh không được chạm vào khối hình khi bắt đầu quá trình giải. Hình phạt: phạt cộng thời gian (+2 giây).
+    - A4d) Nếu đồng hồ Stackmat được sử dụng, thí sinh nên giữ tay trên đồng hồ cho đến khi thấy đèn màu xanh bật sáng. Đồng hồ bắt đầu chạy khi thí sinh bỏ tay khỏi đồng hồ. Thí sinh bắt đầu quá trình giải bằng cách bắt đầu chạy đồng hồ.
+        - A4d1) Thí sinh phải bắt đầu quá trình giải trong vòng 15 giây quan sát. Hình phạt: phạt cộng thời gian (+2 giây).
+        - A4d2) Thí sinh phải bắt đầu quá trình giải trong vòng 17 giây quan sát. Hình phạt: hủy kết quả lượt thi (DNF).
+        - A4d3) Nếu có sử dụng đồng hồ bấm giờ, trọng tài bắt đầu bấm giờ ngay khi thí sinh bắt đầu quá trình giải.
+    - A4e) Các hình phạt cộng thời gian trong thời gian bắt đầu quá trình giải được cộng dồn với nhau.
+- A5) Trong quá trình giải:
+    - A5a) Trong quá trình quan sát hay giải khối hình, thí sinh không được giao tiếp với ai ngoài trọng tài hay WCA Delegate. Hình phạt: hủy kết quả lượt thi (DNF). Ngoại lệ: Nếu thí sinh không hưởng lợi thế gì từ việc giao tiếp với người không phải trọng tài hay WCA Delegate, thì kết quả vẫn hợp lệ, tùy theo quyết định của WCA Delegate.
+    - A5b) Trong quá trình quan sát hay giải khối hình, thí sinh không được phép được bất cứ ai hay bất cứ vật gì hỗ trợ ngoại trừ mặt bàn (xem thêm [Quy định 2i](regulations:regulation:2i)). Hình phạt: hủy kết quả lượt thi (DNF).
+    - A5c) Thí sinh có thể tì khối hình vào mặt bàn để dễ xoay hơn (xem [Quy định 7f1d](regulations:regulation:7f1d)).
+- A6) Kết thúc quá trình giải:
+    - A6a) Thí sinh thả tay khỏi khối hình trước khi kết thúc quá trình giải, và kết thúc quá trình giải bằng cách dừng đồng hồ. Nếu sử dụng đồng hồ bấm giờ, trọng tài dừng đồng hồ ngay khi thí sinh làm những hành động trên.
     - A6b) Thí sinh chịu trách nhiệm dừng đồng hồ Stackmat đúng cách.
-        - A6b1) Nếu đồng hồ được dừng trước khi thí sinh giải hoàn thành khối hình và chỉ thời gian dưới 0.06 giây, lượt giải được thay thế bằng một lượt giải bổ sung. Thí sinh bị mất quyền thực hiện lượt bổ sung nếu WCA Delegate nhận thấy rằng đồng hồ bị dừng một cách cố ý.
-        - A6b2) Nếu đồng hồ được dừng trước khi thí sinh giải hoàn thành khối hình và chỉ thời gian từ 0.06 giây trở lên, kết quả lượt giải bị hủy bỏ (DNF). Ngoại lệ: nếu thí sinh có thể chứng mỉnh rằng đồng hồ bị lỗi, thí sinh được hưởng một lượt giải bổ sung, tùy theo quyết định của WCA Delegate.
-    - A6c) Thí sinh phải hoàn toàn thả khối hình khỏi tay trước khi dừng đồng hồ. Hình phạt: hủy bỏ kết quả lượt giải (DNF). Ngoại lệ: nếu không có bước nào khác được thực hiện sau khi dừng đồng hồ và trước khi thí sinh thả khối hình, hình phạt có thể được thay thế bằng hình phạt cộng thời gian (+2 giây), theo quyết định của trọng tài.
-    - A6d) Thí sinh phải dừng đồng hồ bằng cả hai tay đặt phẳng trên cảm biến với lòng bàn tay hướng xuống dưới. Hình phạt: phạt cộng thời gian (+2 giây).
-    - A6e) Sau khi thả khối hình ra khỏi tay, thí sinh không được phép chạm vào hoặc di chuyển khối hình cho đến khi trọng tài đã xem xét khối hình.
-        - A6e1) Hình phạt khi xoay một bước sau khi dừng timer: huỷ kết quả lượt thi (DNF).
-        - A6e2) Hình phạt khi chạm vào cube sau khi dừng timer: Phạt cộng thời gian (+2 giây). Ngoại lệ: Nếu thí sinh chạm nhanh vào cube mà không ảnh hưởng đến trạng thái của nó, hình phạt có thể được dỡ bỏ, theo quyết định của trọng tài (xem [Quy định 11f](regulations:regulation:11f)).
-    - A6f) Thí sinh không được khởi tạo lại đồng hồ cho đến khi trọng tài đã ghi xong kết quả lên phiếu ghi kết quả. Hình phạt: hủy bỏ kết quả lượt giải (DNF), tùy theo quyết định của trọng tài.
-        - A6f1) Nếu thí sinh khởi tạo lại đồng hồ trước khi kết quả được ghi lại đầy đủ, trọng tài không được ghi kết quả dựa theo trí nhớ hoặc bằng chứng video hoặc hình ảnh, và bắt buộc phải hủy bỏ kết quả lượt giải đó (DNF).
-    - A6g) Trọng tài quyết định khối hình đã được giải hoàn thành hay chưa. Nếu khối hình bị lệch, họ không được chạm vào khối hình trước khi trọng tài xác nhận trạng thái cuối cùng của nó.
-    - A6h) Trong trường hợp khiếu nại, không được phép thực hiện các bước hay làm thẳng hàng khối hình cho đến khi khiếu nại được giải quyết.
-    - A6i) Các hình phạt cộng thời gian trong quá trình kết thúc lượt giải được cộng dồn.
+        - A6b1) Nếu đồng hồ dừng trước khi thí sinh giải xong khối hình và đồng hồ hiện số dưới 0.06 giây, lượt thi được thay thế bằng một lượt thi bổ sung. Nếu WCA Delegate nhận thấy thí sinh cố tình dừng đồng hồ thì thí sinh bị mất quyền thi lượt bổ sung này.
+        - A6b2) Nếu đồng hồ dừng trước khi thí sinh giải xong khối hình và đồng hồ hiện số từ 0.06 giây trở lên thì kết quả của lượt thi này bị hủy (DNF). Ngoại lệ: Nếu thí sinh cho thấy rằng đồng hồ bị lỗi, thí sinh có thể được thi lượt bổ sung, tùy theo quyết định của WCA Delegate.
+    - A6c) Thí sinh phải hoàn toàn thả tay khỏi khối hình trước khi dừng đồng hồ. Hình phạt: hủy kết quả lượt thi (DNF). Ngoại lệ: nếu thí sinh không xoay thêm bước nào hoặc làm xê dịch tầng nào sau khi dừng đồng hồ và trước khi thả tay khỏi khối hình, trọng tài có thể áp dụng hình phạt cộng thời gian (+2 giây) thay vì hủy kết quả, tùy theo quyết định của trọng tài.
+    - A6d) Thí sinh phải dừng đồng hồ Stackmat bằng cả hai tay, đặt nằm phẳng trên cảm biến và lòng bàn tay hướng xuống dưới. Hình phạt: phạt cộng thời gian (+2 giây).
+    - A6e) Sau khi dừng đồng hồ, thí sinh không được chạm, xoay bước nào, hoặc làm xê dịch tầng nào cho đến khi trọng tài đã quan sát xong.
+        - A6e1) Hình phạt cho hành động xoay thêm một bước sau khi đã dừng đồng hồ: hủy kết quả lượt thi (DNF).
+        - A6e2) Hình phạt cho hành động chạm vào khối hình sau khi đã dừng đồng hồ, nhưng không xoay bước nào: phạt cộng thời gian (+2 phút). Ngoại lệ: nếu thí sinh chạm vào khối hình ngay sau khi dừng đồng hồ mà không gây ảnh hưởng trạng thái, hình phạt cộng thời gian là không cần thiết, tùy theo quyết định của trọng tài (xem [Quy định 11f](regulations:regulation:11f)).
+    - A6f) Thí sinh không được reset đồng hồ trước khi cả thí sinh và trọng tài đã ký xác nhận kết quả. Hình phạt: hủy kết quả lượt thi (DNF), tùy theo quyết định của trọng tài.
+        - A6f1) Nếu thí sinh reset đồng hồ trước khi trọng tài ghi xong kết quả, trọng tài không được lấy video hoặc hình ảnh lấy làm bằng chứng để ghi kết quả, mà thay vào đó phải hủy kết quả lượt thi đó (DNF).
+    - A6g) Trọng tài quyết định xem khối hình đã được giải xong hay chưa. Nếu có các tầng bị lệch, không được chạm vào khối hình cho đến khi trọng tài đã quyết định được trạng thái cuối cùng của khối hình là gì.
+    - A6h) Trong trường hợp có khiếu nại, không được chạm vào khối hình cho đến khi khiếu nại được giải quyết.
+    - A6i) Các hình phạt cộng thời gian trong thời gian kết thúc quá trình giải được cộng dồn với nhau.
 - A7) Ghi kết quả:
-    - A7a) Trong tài công bố kết quả cho thí sinh.
-        - A7a1) Trọng tài nên thông báo cho thí sinh rằng cube đã được giải hoàn chỉnh, hoặc một án phạt nào đó nếu xảy ra tình huống theo luật.
-    - A7b) Trọng tài ghi lại kết quả trên phiếu ghi kết quả và ký tên cạnh kết quả để xác nhận rằng kết quả chính xác, hoàn thiện, theo đúng mẫu và rõ ràng.
-        - A7b1) Nếu có hình phạt thời gian, trọng tài ghi kết quả gốc trên đồng hồ, cùng với tất cả các hình phạt thời gian. Mẫu ghi kết quả nên là "X + T + Y = F", với X là tổng thời gian phạt khi bắt đầu lượt giải, T là thời gian trên đồng hồ ("thời gian gốc"), Y là tổng thời gian phạt trong/khi kết thúc lượt giải, và F là kết quả cuối cùng (VD: 2 + 17.65 + 2 = 21.65). Nếu X và/hoặc Y bằng 0, những số hạng bằng 0 được lược bỏ (VD: 17.65 + 2 = 19.65).
-    - A7c) Thí sinh phải kiểm tra kết quả được ghi lại và kí phiếu ghi kết quả để công nhận là kết quả chính xác, hoàn thiện, theo đúng mẫu và rõ ràng. Hành động này kết thúc lượt giải.
-        - A7c1) Nếu thí sinh hoặc trọng tài từ chối chấp nhận kết quả và từ chối kí, WCA Delegate phải giải quyết khiếu nại.
-        - A7c2) Nếu thí sinh cố tình kí (hoặc đánh dấu) một lượt giải trước khi bắt đầu, họ được coi là đã từ chối bắt đầu lượt giải đó và kết quả lượt giải đó được ghi là DNS.
-        - A7c3) Nếu thí sinh kí (hoặc đánh dấu) một lượt giải trước khi bắt đầu nhưng trước khi trọng tài ghi xong kết quả, lượt giải được coi là chưa hoàn tất (DNF).
-        - A7c4) Thí sinh không nên kí lượt giải trước khi trọng tài đã ghi xong kết quả và kí lượt giải. Thí sinh chịu trách nhiệm cuối cùng trong việc đảm bảo cả thí sinh và trọng tài đều đã kí lượt giải. Nếu lượt giải bị phát hiện là thiếu một hoặc cả hai chữ kí sau khi trọng tài giao phiếu ghi kết quả cho người ghi kết quả (xem [Quy định A7f](regulations:regulation:A7f)), lượt giải sẽ bị coi là chưa hoàn tất (DNF).
-        - A7c5) Việc thiếu chữ ký được phát hiện sau khi giải đấu kết thúc (xem [Quy định 9u](regulations:regulation:9u)) có thể được thêm vào bởi trọng tài và/hoặc thí sinh đó, tuỳ theo quyết định của WCA Delegate.
-    - A7f) Khi phiếu ghi kết của thí sinh hoàn tất, trọng tài giao phiếu kết quả cho người ghi kết quả.
-    - A7g) Tùy theo quyết định của WCA Delegate, sự cố hoặc hình phạt do sự thiếu kinh nghiệm của một thí sinh mới gây ra có thể được thay thế bằng một lượt giải bổ sung.
+    - A7a) Trọng tài thông báo kết quả cho thí sinh.
+        - A7a1) Trọng tài nên thông báo cho thí sinh rằng khối hình đã được giải xong hay chưa, hay có áp dụng thêm hình phạt gì không.
+    - A7b) Trọng tài ghi kết quả vào phiếu điểm và ký tên bên cạnh để xác nhận kết quả được ghi đúng, đầy đủ, đúng định dạng và rõ ràng.
+        - A7b1) Nếu có hình phạt cộng thời gian, trọng tài ghi thời gian gốc trên đồng hồ, sau đó cộng thêm thời gian phạt. Định dạng kết quả là "T + X = F", trong đó T là thời gian gốc trên đồng hồ, X là tổng thời gian phạt, và F là kết quả cuối cùng (VD: 17.65 + 4 = 21.65).
+    - A7c) Thí sinh phải kiểm tra kĩ kết quả được ghi lại, và ký tên để xác nhận kết quả được ghi đúng, đầy đủ, đúng định dạng và rõ ràng.
+        - A7c1) Nếu trọng tài hoặc thí sinh từ chối ký xác nhận vào phiếu điểm, WCA Delegate phải giải quyết khiếu nại.
+        - A7c2) Nếu thí sinh cố ý ký tên (hoặc đánh dấu) xác nhận lượt thi khi chưa bắt đầu, lượt thi đó coi như bỏ và kết quả là DNS.
+        - A7c3) Nếu thí sinh ký tên (hoặc đánh dấu) xác nhận lượt thi sau khi đã bắt đầu nhưng trước khi trọng tài ghi xong kết quả, kết quả lượt thi bị hủy (DNF).
+        - A7c4) Thí sinh không nên ký xác nhận lượt thi trước khi trọng tài đã ghi xong kết quả và ký xác nhận. Thí sinh chịu trách nhiệm cuối cùng về việc đảm bảo cả thí sinh và trọng tài đã ký xác nhận lượt thi. Nếu lượt thi thiếu một hoặc cả hai chữ ký khi phiếu điểm đã đến tay người nhập liệu (xem [Quy định A7f](regulations:regulation:A7f)), kết quả của lượt thi đó bị hủy (DNF).
+        - A7c5) Nếu phát hiện các lượt thi thiếu chữ ký trước khi giải đấu kết thúc (xem [Quy định 9u](regulations:regulation:9u)), trọng tài và/hoặc thí sinh có thể ký bổ sung, tùy theo quyết định của WCA Delegate.
+    - A7f) Khi phiếu điểm của thí sinh đã ghi đầy đủ, trọng tài giao lại phiếu điểm cho người nhập liệu.
+    - A7g) Những sự cố hoặc lượt thi có hình phạt có thể được thay thế bằng một lượt thi bổ sung nếu những sự cố này xảy ra vì thí sinh thiếu kinh nghiệm thi đấu, tùy theo quyết định của WCA Delegate.
+
+## <article-B><blindfolded><blindfoldedsolving> Mục B: Giải Bịt mắt
+
+- B1) Các lượt thi Giải Bịt mắt tuân theo quy trình thi đấu đã được nêu tại [Mục A](regulations:article:A) (Giải Tốc độ). Các Quy định sau đây có hiệu lực cao hơn các Quy định tương ứng tại [Mục A](regulations:article:A).
+    - B1a) Không có thời gian quan sát (lượt thi bắt đầu ngay khi quá trình giải bắt đầu).
+    - B1b) Thí sinh tự mang bịt mắt.
+- B2) Bắt đầu lượt thi:
+    - B2a) Trọng tài reset đồng hồ theo [Quy định A3b](regulations:regulation:A3b) và thông báo với thí sinh rằng trọng tài đã sẵn sàng để thí sinh bắt đầu lượt thi (VD: đặt hộp đậy khối hình trước mặt thí sinh, nói "SẴN SÀNG", hoặc ra hiệu bằng cách giơ ngón cái). Thí sinh phải bắt đầu lượt thi trong vòng một phút, nếu không thì sẽ coi như đã bỏ lượt (DNS), tùy theo quyết định của trọng tài.
+    - B2b) Nếu sử dụng đồng hồ Stackmat, thí sinh đặt ngón tay lên cảm biến của đồng hồ Stackmat. Lòng bàn tay phải hướng xuống dưới, đặt ở phía gần thí sinh hơn. Hình phạt: phạt cộng thời gian (+2 giây).
+    - B2c) Nếu sử dụng đồng hồ Stackmat, thí sinh không được chạm tay vào khối hình hay hộp đậy khối hình khi đang bắt đầu lượt thi. Hình phạt: phạt cộng thời gian (+2 giây).
+    - B2d) Nếu sử dụng đồng hồ Stackmat, thí sinh nên giữ tay trên đồng hồ cho đến khi thấy đèn màu xanh bật sáng. Đồng hồ bắt đầu chạy khi thí sinh bỏ tay khỏi đồng hồ. Thí sinh bắt đầu quá trình giải (và lượt thi) bằng cách bắt đầu chạy đồng hồ.
+        - B2d1) Sau khi bắt đầu chạy đồng hồ, thí sinh bỏ hộp đậy ra khỏi khối hình.
+        - B2d2) Nếu sử dụng đồng hồ bấm giờ cùng với đồng hồ Stackmat, trọng tài bắt đầu bấm giờ ngay khi thí sinh bắt đầu quá trình giải.
+    - B2f) Nếu chỉ sử dụng đồng hồ bấm giờ, thí sinh xác nhận đã sẵn sàng và bắt đầu quá trình giải bằng cách bỏ hộp đậy ra khỏi khối hình. Trọng tài bắt đấu bấm giờ ngay khi thí sinh bắt đầu quá trình giải.
+- B3) Giai đoạn ghi nhớ:
+    - B3a) Thí sinh được cầm khối hình lên trong giai đoạn ghi nhớ.
+    - B3b) Thí sinh không được ghi chép. Hình phạt: Hủy kết quả lượt thi (DNF).
+    - B3c) Thí sinh không được xoay bước nào hoặc cố tình làm xê dịch các tầng (xem [Quy định A3c2](regulations:regulation:A3c2)) của khối hình trong thời gian ghi nhớ. Hình phạt: hủy kết quả lượt thi (DNF).
+    - B3d) Nếu các viên của khối hình không hoàn toàn thẳng hàng, thí sinh được phép nắn cho các mặt thẳng hằng trở lại, miễn sao cho độ lệch không vượt quá các giới hạn tại [Quy định 10f](regulations:regulation:10f) (xem [Quy định A3c2](regulations:regulation:A3c2)).
+- B4) Giai đoạn bịt mắt:
+    - B4a) Thí sinh đeo bịt mắt để bắt đầu giai đoạn bịt mắt.
+        - B4a1) Nếu thí sinh chưa xoay bước nào, thí sinh có thể bỏ bịt mắt ra để trở về giai đoạn ghi nhớ.
+    - B4b) Thí sinh không được xoay bước nào hoặc cố tình làm xê dịch các tầng của khối hình nếu bịt mắt chưa che kín mặt. Hình phạt: hủy kết quả lượt thi (DNF).
+    - B4c) Ngay khi thí sinh xoay bước đầu tiên, trọng tài phải đặt tấm chắn tầm nhìn (VD: tờ giấy, bìa) ở giữa mặt thí sinh và khối hình.
+        - B4c1) Thí sinh phải đeo bịt mắt sao cho tầm nhìn bị chặn kể cả nếu không có tấm chắn.
+        - B4c3) Nếu thí sinh và trọng tài đồng thuận, thí sinh có thể tự đặt khối hình sau vật chắn phù hợp (VD: kẹp harmonica có gắn tấm chắn, mặt bàn) trong giai đoạn bịt mắt.
+    - B4d) Thí sinh không được nhìn khối hình trong toàn bộ giai đoạn bịt mắt. Hình phạt: hủy kết quả lượt thi (DNF).
+- B5) Kết thúc quá trình giải:
+    - B5a) Nếu sử dụng đồng hồ Stackmat, thí sinh kết thúc quá trình giải bằng cách thả tay khỏi khối hình và dừng đồng hồ.
+        - B5a1) Nếu sử dụng đồng hồ bấm giờ kèm với đồng hồ Stackmat, trọng tài dừng đồng hồ ngay khi thí sinh kết thúc quá trình giải.
+    - B5b) Nếu chỉ sử dụng đồng hồ bấm giờ, thí sinh kết thúc quá trình giải bằng cách thả tay khỏi khối hình và thông báo với trọng tài rằng quá trình giải đã kết thúc. Trọng tài dừng đồng hồ ngay khi nhận thấy thông báo của thí sinh.
+        - B5b1) Cách thông báo mặc định là thả tay khỏi khối hình và đặt tay lên mặt bàn, lòng bàn tay hướng xuống dưới. Thí sinh và trọng tài có thể chọn cách thông báo khác trước khi lượt thi bắt đầu.
+    - B5c) Nếu thí sinh hiện đang không chạm vào khối hình, thí sinh được phép bỏ bịt mắt trước khi dừng đồng hồ. Thí sinh không được chạm vào khối hình cho đến khi quá trình giải đã kết thúc. Hình phạt nếu chạm vào khối hình: hủy kết quả lượt thi (DNF).
 
 
-## <article-B><blindfolded><blindfoldedsolving> Mục B: Giải Bit mắt (BLD)
+## <article-C><one-handed><onehandedsolving> Mục C: Giải Một tay
 
-- B1) Các quy trình giải tốc độ được tuân thủ, như đã được mô tả ở [Mục A](regulations:article:A) (Giải Tốc độ). Các quy định có hiệu lực hơn các quy định tương ứng ở [Mục A](regulations:article:A) được mô tả dưới đây.
-    - B1a) Không có thời gian quan sát (Bắt đầu tính giờ ngay khi mở cover).
-    - B1b) Thí sinh tự cung cấp bịt mắt cho lượt giải.
-- B2) Bắt đầu lượt giải:
-    - B2a) Trọng tài khởi tạo lại đồng hồ theo [Quy định A3b](regulations:regulation:A3b) và báo hiệu thí sinh có thể bắt đầu lượt giải (VD: đặt khối hình phía trước thí sinh, thông báo "sẵn sàng", giơ ngón cái). Thí sinh phải bắt đầu lượt giải trong vòng 1 phút, nếu không thí sinh được tính là đã bỏ lượt (DNS), tùy theo quyết định của trọng tài.
-    - B2b) Khi dùng Stackmat Timer, thí sinh dùng ngón tay để chạm vào cảm biến của đồng hồ. Lòng bàn tay của thí sinh phải hướng xuống dưới, và đặt ở bên đồng hồ gần thí sinh hơn. Hình phạt: phạt cộng thời gian (+2 giây).
-    - B2c) Khi dùng Stackmat Timer, thí sinh không được chạm vào khối hình khi đang bắt đầu lượt giải. Hình phạt: phạt cộng thời gian (+2 giây).
-    - B2d)Thí sinh bắt đầu lượt giải bằng cách bỏ tay khỏi đồng hồ để bắt đầu đồng hồ, và đồng thời cũng bắt đầu giải ngay lập tức.
-        - B2d1) Thí sinh nhấc nắp đậy khỏi khối hình sau khi bắt đầu đồng hồ.
-        - B2d2) Nếu đồng hồ bấm giờ đang được sử dụng đồng thời với timer, trọng tài bắt đầu bấm giờ cùng lúc khi thí sinh bắt đầu giải.
-    - B2f) Nếu đồng hồ bấm giờ là đồng hồ duy nhất được sử dụng, thí sinh đặt tay lên bàn thay vì timer Stackmat. Sau khi xác nhận đã sẵn sàng, thí sinh bắt đầu lượt giải bằng cách nhấc nắp đậy khối hình. Trọng tài bắt đầu đồng hồ bấm giờ ngay khi thí sinh bắt đầu lượt giải.
-- B3) Phần ghi nhớ:
-    - B3a) Thí sinh có thể cầm khối hình trong khi phần ghi nhớ đang diễn ra.
-    - B3b) Thí sinh không được ghi chép. Hình phạt: hủy bỏ kết quả lượt giải (DNF).
-    - B3c) Thí sinh không được thực hiện các bước trong khi phần ghi nhớ đang diễn ra. Hình phạt: hủy bỏ kết quả lượt giải (DNF).
-    - B3d) Nếu các viên trên bề mặt cube chưa thẳng hàng, thí sinh có thể chỉnh lại, miễn là sự chưa thẳng hàng không vượt giới hạn Quy định 10f (xem [Quy định A3c2](regulations:regulation:A3c2)).
-- B4) Phần bịt mắt:
-    - B4a) Thí sinh đeo bịt mắt để bắt đầu phần bịt mắt.
-        - B4a1) Cho đến khi thí sinh bắt đầu xoay bước giải đầu tiên, họ có thể cởi băng bịt mắt để tiếp tục ghi nhớ.
-    - B4b) Thí sinh không được thực hiện các bước giải nếu chưa đeo bịt mắt hoàn toàn. Hình phạt: hủy bỏ kết quả lượt giải (DNF).
-    - B4c) Ngay sau khi thí sinh bắt đầu xoay những bước giải đầu tiên, trọng tài phải chặn tầm nhìn giữa thí sinh và khối hình khi thí sinh đang giải bằng một vật (một tờ giấy A4 có màu hoặc tấm bìa có kích thước tương tự).
-        - B4c1) Trong mọi trường hợp, thí sinh phải đeo bịt mắt để tầm nhìn với khối hình của thí sinh bị chặn kể cả khi không có vật chặn.
-        - B4c3) Nếu thí sinh và trọng tài đồng thuận, thí sinh có thể tự tay đặt khối hình đằng sau một vật thích hợp (VD: dụng cụ đeo trên cổ để chặn tầm nhìn, mặt bàn) sau khi đã bịt mắt.
-    - B4d) Thí sinh không được phép nhìn khối hình vào bất kì thời điểm nào trong phần bịt mắt. Hình phạt: hủy bỏ kết quả lượt giải (DNF).
-- B5) Kết thúc lượt giải:
-    - B5a) Khi sử dụng đồng hồ Stackmat, thí sinh kết thúc lượt giải bằng cách thả khối hình khỏi tay và dừng đồng hồ.
-        - B5a1) Nếu đồng hồ bấm giờ đang được sử dụng đồng thời với timer, trọng tài dừng đồng hồ bấm giờ ngay khi thí sinh dừng timer.
-    - B5b) Khi dùng đồng hồ bấm giờ, thí sinh kết thúc lượt giải bằng cách đặt khối hình lên bề mặt và thông báo với trọng tài. Cùng lúc đó, trọng tài dừng đồng hồ.
-        - B5b1) Tín hiệu thông báo đã giải xong của thí sinh bao gồm việc thả khối hình xuống và đặt tay lên bề mặt (ở đây là thảm), úp lòng bàn tay xuống. Thí sinh và giám khảo có thể thống nhất bằng cách khác thích hợp trước khi bắt đầu thi.
-    - B5c) Nếu thí sinh đang không chạm vào khối hình, thí sinh có thể bỏ bịt mắt trước khi dừng đồng hồ. Thí sinh không được chạm vào khối hình trước khi lượt giải kết thúc. Hình phạt nếu chạm vào khối hình: hủy bỏ kết quả lượt giải (DNF).
+- C1) Các lượt thi Giải Một tay tuân theo quy trình thi đấu đã được nêu tại [Mục A](regulations:article:A) (Giải Tốc độ). Các Quy định sau đây có hiệu lực cao hơn các Quy định tương ứng tại [Mục A](regulations:article:A).
+    - C1b) Trong quá trình giải, thí sinh chỉ được xoay khối hình bằng một tay. Hình phạt: hủy kết quả lượt thi (DNF).
+        - C1b2) Nếu khối hình bị hư hỏng và thí sinh quyết định sửa chữa, thí sinh phải sửa khối hình chỉ bằng tay đang dùng để giải. Hình phạt: hủy kết quả lượt thi (DNF).
+        - C1b3) Nếu các bộ phận khác của cơ thể thí sinh vô ý chạm vào khối hình hoặc các bộ phận của khối hình mà không xoay bước nào, tùy theo quyết định của trọng tài thì việc này không được coi là xoay khối hình.
+        - C1b4) Trong quá trình giải, thí sinh có thể tì khối hình vào mặt bàn để dễ xoay hơn (xem [Quy định 7f1d](regulations:regulation:7f1d)).
+    - C1c) Trong quá trình giải, một khi thí sinh đã xoay khối hình bằng một tay rồi thì thí sinh không được xoay bằng tay còn lại nữa. Hình phạt: hủy kết quả lượt thi (DNF).
 
 
-## <article-C><one-handed><onehandedsolving> Mục C: Giải Một tay (OH)
+## <article-E><fewest-moves><fewestmovessolving> Mục E: Giải Tối ưu
 
-- C1) Tuân thủ các quy trình giải tốc độ như đã được mô tả ở  [Mục A](regulations:article:A) (Giải Tốc độ). Các quy định có hiệu lực hơn các quy định tương ứng ở [Mục A](regulations:article:A) được mô tả dưới đây.
-    - C1b) Trong lượt giải, thí sinh chỉ được dùng một tay để vận hành khối hình. Hình phạt: hủy bỏ kết quả lượt giải (DNF).
-        - C1b2) Nếu khối hình bị hư hỏng và thí sinh muốn sửa chữa, thí sinh phải sửa chửa chỉ bằng một tay dùng để giải. Hình phạt: hủy bỏ kết quả lượt giải (DNF).
-        - C1b3) Nếu những phần cơ thể khác của thí sinh chạm vào khối hình hoặc các bộ phận của khối hình một cách vô ý và không làm cho bước nào bị áp dụng, thì hành động này không bị coi là vận hành khối hình, tùy theo quyết định của trọng tài.
-        - C1b4) Trong lượt giải, thí sinh có thể giữ khối hình trên bề mặt để hỗ trợ việc vận hành khối hình (xem [Quy định 7f1d](regulations:regulation:7f1d)).
-    - C1c) Trong lượt giải, một khi thí sinh đã sử dụng một tay để vận hành khối hình, thí sinh không được vận hành khối hình bằng tay còn lại. Hình phạt: hủy bỏ kết quả lượt giải (DNF).
-
-
-## <article-E><fewest-moves><fewestmovessolving> Mục E: Giải Tối ưu (FMC)
-- E2) Quy trình cho Giải Tối ưu:
-    - E2a) Trọng tài phát công thức tráo và giấy cho tất cả các thí sinh. Sau đó, trọng tài bắt đầu đồng hồ bấm giờ và thông báo "BẮT ĐẦU".
-        - E2a1) Trước khi lượt giải bắt đầu, thí sinh không được viết lên giấy dành cho lượt giải. Ngoại lệ: thí sinh có thể viết thông tin nhận dạng lượt giải (xem [Quy định E2c1](regulations:regulation:E2c1)). Nếu thí sinh viết thông tin này lên tờ giấy có công thức tráo, thí sinh chỉ được viết lên mặt không có công thức tráo trước khi lượt giải bắt đầu. Hình phạt nếu viết lên giấy ngoài thông tin nhận dạng lượt giải: hủy bỏ kết quả lượt giải (DNF).
-    - E2b) Các thí sinh có tổng cộng 60 phút để tìm và viết công thức giải.
-        - E2b1) Trọng tài nên thông báo "CÒN 5 PHÚT" khi 55 phút đã trôi qua, và phải thông báo "HẾT GIỜ" khi đã hết 60 phút.
-    - E2c) Sau 60 phút, mỗi thí sinh phải nộp cho trọng tài một tờ giấy duy nhất với công thức giải được viết ra và thông tin nhận dạng lượt giải.
-        - E2c1) Thông tin nhận dạng lượt giải là: họ tên thí sinh, WCA ID, hoặc số định danh thí sinh, và có thể thêm tên giải đấu, số thứ tự vòng, hoặc số thứ tự lượt giải. Hình phạt nếu nộp công thức giải mà không có họ tên thí sinh, WCA ID, hoặc số định danh thí sinh: hủy bỏ kết quả lượt giải (DNF).
-        - E2c2) Công thức giải phải là một dãy bước giải rõ ràng với từng bước được viết theo thứ tự. Hình phạt nếu công thức giải không rõ ràng: hủy bỏ kết quả lượt giải (DNF).
-        - E2c3) Thí sinh nên gạch xóa cẩn thận những bước giải được khi trên giấy không phải là một phần của công thức giải cuối cùng.
-        - E2c4) Công thức giải của thí sinh chỉ được phép sử dụng các bước được kí hiệu rõ cho Khối 3x3x3 ở trong [Quy định 12a](regulations:regulation:12a), và không được sử dụng các kí hiệu không được định nghĩa trong quy định trên. Hình phạt: hủy bỏ kết quả lượt giải (DNF).
-        - E2c5) Công thức giải của thí sinh được coi là chính xác nếu khối hình được giải hoàn thành sau khi áp dụng công thức giải sau công thức tráo. Hình phạt cho công thức giải không chính xác: hủy bỏ kết quả lượt giải (DNF).
-    - E2d) Kết quả của thí sinh là số bước trong công thức giải, được tính bằng Hệ đo bước tầng ngoài (xem [Quy định 12a5](regulations:regulation:12a5)).
-        - E2d1) Công thức giải của thí sinh không được vượt quá 80 bước (tính cả các bước xoay cả khối) khi được tính bằng Hệ đo bước hành động (xem [Quy định 12a6](regulations:regulation:12a6)). Hình phạt: hủy bỏ kết quả lượt giải (DNF).
-    - E2e) Công thức giải của thí sinh không được trích dẫn trực tiếp bất kì phần nào của công thức tráo. Hình phạt: hủy bỏ kết quả lượt giải (DNF), tùy theo quyết định của WCA Delegate.
-        - E2e1) WCA Delegate có thể yêu cầu thí sinh giải thích mục đích của từng bước đi trong công thức giải, bất kể công thức tráo. Nếu thí sinh không thể giải thích hợp lí, kết quả của lượt thi bị hủy bỏ (DNF).
-- E3) Thí sinh có thể sử dụng các vật dụng sau trong lượt giải. Hình phạt nếu sử dụng các vật dụng không được cho phép: hủy bỏ kết quả lượt giải (DNF).
-    - E3a) Giấy (được cung cấp bởi trọng tài), giấy ghi lời giải (được cung cấp bởi trọng tài), hình minh hoạ trạng thái tráo của lượt giải đó (có thể được in lên mảnh giấy phụ hoặc giấy ghi lời giải) và bút bi/bút chì hoặc các loại bút khác (được cung cấp bởi trọng tài hoặc tự cung cấp).
-    - E3b) Khối hình 3x3x3 (nhiều nhất 3 khối hình, tự cung cấp), như được mô tả ở [Mục 3](regulations:article:3).
-    - E3c) Miếng dán (tự cung cấp).
-    - E3d) Đồng hồ đeo tay hoặc đồng hồ bấm giờ (tự cung cấp) để tính thời gian đã trôi qua, nếu được chấp nhận bởi WCA Delegate.
-    - E3e) Vật dụng hỗ trợ không điện tử không đem lại lợi thế không công bằng, tùy theo quyết định của WCA Delegate (xem [Quy định 2i1](regulations:regulation:2i1)).
-    - E3f) Dụng cụ để tẩy xoá ghi chép (tự cung cấp), có thể là bút xoá, tẩy.
-- E4) WCA Delegate có thể công bố các công thức giải của thí sinh (VD: ảnh chụp phiếu ghi kết quả hoặc công thức giải được đánh máy lại).
-- E5) Thí sinh không được phép giao tiếp với bất kì ai ngoài WCA Delegate hoặc trọng tài. Sự giao tiếp này nên là về luật WCA và thí sinh không được phép nhận sự trợ giúp về cách giải khối hình. Hình phạt: huỷ kết quả lượt thi (DNF).
+- E2) Quy trình thi đấu của nội dung Giải Tối ưu 3x3x3:
+    - E2a) Trọng tài phát công thức tráo và giấy thi cho các thí sinh. Sau đó, trọng tài bắt đầu bấm giờ và thông báo "BẮT ĐẦU".
+        - E2a1) Trước khi lượt thi bắt đầu, thí sinh không được viết lên giấy dùng cho lượt thi. Ngoại lệ: thí sinh được viết thông tin nhận diện lượt thi (xem [Quy định E2c1](regulations:regulation:E2c1)). Nếu thí sinh viết thông tin vào giấy in công thức tráo, thí sinh chỉ được viết vào mặt không có công thức tráo trước khi lượt thi bắt đầu. Hình phạt nếu viết bất cứ gì khác ngoài thông tin nhận diện: hủy kết quả lượt thi (DNF).
+    - E2b) Các thí sinh có tổng cộng 60 phút để tìm và ghi lại công thức giải.
+        - E2b1) Trọng tài nên thông báo "CÒN 5 PHÚT" khi 55 phút đã trôi qua, và phải thông báo "HẾT GIỜ" khi 60 phút đã trôi qua.
+    - E2c) Khi đã hết 60 phút, thí sinh phải nộp duy nhất một tờ giấy thi cho trọng tài, trong giấy thi có ghi công thức giải và thông tin nhận diện lượt thi.
+        - E2c1) Thông tin nhận diện lượt thi bao gồm: họ và tên thí sinh, WCA ID hoặc số ID thí sinh (ít nhất một trong hai), và có thể thêm tên giải đấu, số thứ tự vòng hoặc số thứ tự lượt thi, nhưng không bắt buộc. Hình phạt nếu giấy thi không ghi tên, WCA ID hoặc số ID thí sinh: hủy kết quả lượt thi (DNF).
+        - E2c2) Công thức giải phải là duy nhất một chuỗi các bước rõ ràng, các bước được viết liền nhau theo thứ tự. Hình phạt nếu công thức giải không rõ ràng: hủy kết quả lượt thi (DNF).
+        - E2c3) Thí sinh nên tô đen kín toàn bộ các bước không phải là bước trong công thức giải.
+        - E2c4) Công thức giải chỉ được bao gồm ký hiệu bước được quy định rõ cho Khối 3x3x3 trong [Quy định 12a](regulations:regulation:12a), và không được sử dụng các ký hiệu (hoặc tổ hợp ký hiệu) khác. Hình phạt: hủy kết quả lượt thi (DNF).
+        - E2c5) Công thức giải được coi là đúng nếu từ một khối hình đã giải, sau khi xoay theo công thức tráo và công thức giải thì khối hình trở về trạng thái giải. Hình phạt nếu công thức giải sai: hủy kết quả lượt thi (DNF).
+    - E2d) Kết quả của thí sinh là số bước trong công thức giải, tính theo Hệ đo Bước Tầng ngoài (xem [Quy định 12a5](regulations:regulation:12a5)).
+        - E2d1) Công thức giải không được vượt quá 80 bước (tính cả các bước xoay toàn bộ khối), tính theo Hệ đo Bước Hành động (xem [Quy định 12a6](regulations:regulation:12a6)). Hình phạt: hủy kết quả lượt thi (DNF).
+    - E2e) Công thức giải của thí sinh không được trích thẳng bất kì phần nào của công thức tráo. Hình phạt: hủy kết quả lượt thi (DNF), tùy theo quyết định của WCA Delegate.
+        - E2e1) WCA Delegate có thể yêu cầu thí sinh giải thích mục đích của từng bước trong công thức giải, bất kể công thức tráo là gì. Nếu thí sinh không giải thích được, lượt thi đó bị hủy kết quả (DNF).
+- E3) Thí sinh được phép sử dụng các vật dụng sau trong lượt thi. Hình phạt nếu sử dụng các vật dụng khác: hủy kết quả lượt thi (DNF).
+    - E3a) Giấy nháp (trọng tài cung cấp), giấy thi (trọng tài cung cấp), hình minh họa công thức tráo (có thể in trên giấy rời hoặc ngay trên tờ giấy thi), bút bi, bút chì hoặc các loại bút khác (có thể tự mang hoặc do trọng tài cung cấp).
+    - E3b) Khối hình 3x3x3 (nhiều nhất 3 khối, tự mang), phải tuân thủ [Mục 3](regulations:article:3) trước khi lượt thi bắt đầu.
+    - E3c) Giấy dán (tự mang).
+    - E3d) Đồng hồ bấm giờ hoặc đồng hồ đeo tay (tự mang) để tính giờ, nếu được WCA Delegate chấp thuận.
+    - E3e) Các thiết bị hỗ trợ không có linh kiện điện tử, tùy theo quyết định của WCA Delegate (xem [Quy định 2i1](regulations:regulation:2i1)).
+    - E3f) Dụng cụ tẩy xóa (tự mang), ví dụ như bút xóa nước, bút xóa kéo hoặc gôm, tẩy.
+- E4) WCA Delegate có quyền công khai các bài thi của thí sinh (VD: ảnh chụp tờ giấy thi hoặc công thức giải).
+- E5) Thí sinh không được giao tiếp với bất kì ai ngoài trọng tài hoặc WCA Delegate, và việc giao tiếp nên về việc làm rõ Quy định WCA. Thí sinh không được nhận hỗ trợ về việc tìm công thức giải. Hình phạt: hủy kết quả lượt thi (DNF).
 
 
 ## <article-F><clock><clocksolving> Mục F: Giải Clock
 
-- F1) Các quy trình giải tốc độ được tuân thủ, như đã được mô tả ở [Mục A](regulations:article:A) (Giải Tốc độ). Các quy định có hiệu lực hơn các quy định tương ứng ở [Mục A](regulations:article:A) được mô tả dưới đây.
-- F2) Trọng tài đặt Clock đã được tráo lên thảm kê ở vị trí đứng.
-    - F2a) Ban tổ chức có thể dùng giá đứng cho khối hình để ngăn cho khối hình không bị đổ trước khi lượt giải bắt đầu. Việc này phải được thông báo trước khi vòng thi bắt đầu.
-        - F2a1) Trọng tài phải bỏ giá đứng khỏi thảm ngay khi thí sinh lấy khối hình khỏi giá đứng
-- F3) Cuối thời gian quan sát, thí sinh đặt khối hình ở vị trí đứng. Hình phạt: hủy bỏ kết quả lượt giải (DNF).
-    - F3a) Thí sinh không được thay đổi vị trí các ghim của khối hình đã được tráo trước khi lượt giải bắt đầu. Hình phạt: hủy bỏ kết quả lượt giải (DNF).
+- F1) Các lượt thi Giải Clock tuân theo quy trình thi đấu đã được nêu tại [Mục A](regulations:article:A) (Giải Tốc độ). Các Quy định sau đây có hiệu lực cao hơn các Quy định tương ứng tại [Mục A](regulations:article:A).
+- F2) Ban tổ chức có thể sử dụng giá đỡ để khối hình không bị đổ trước khi lượt thi bắt đầu. Ban tổ chức nên thông báo trước vòng thi nếu có sử dụng giá đỡ.
+- F3) Thí sinh được phép nhấn các nút ghim trong thời gian quan sát. Việc nhấn nút ghim này không được tính thành bước giải.
+- F4) Thí sinh không được xoay các mặt đồng hồ con trong thời gian quan sát. Hình phạt: hủy kết quả lượt thi (DNF).
 
 
-## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Mục H: Giải Bịt mắt nhiều khối (MBLD)
-
-- H1) Các quy trình giải bịt mắt được tuân thủ, như đã được mô tả ở [Mục B](regulations:article:B) (Giải Bịt mắt). Các quy định có hiệu lực hơn các quy định tương ứng ở [Mục B](regulations:article:B) được mô tả dưới đây.
-    - H1a) Trước một lượt giải, thí sinh phải nộp cho ban tổ chức số khối hình (ít nhất 2 khối) mà thí sinh muốn giải.
-        - H1a1) Thí sinh không đươc thay đổi số khối hình sau khi đã nộp số khối hình cho ban tổ chức.
-        - H1a2) Thí sinh cố thể yêu cầu được giữ riêng tư số khối hình mà họ nộp cho đến khi tất cả thí sinh đã nộp số khối hình. Sau khi tất cả các thí sinh đã báo số khối hình, thông tin này trở thành công khai (VD: Thí sinh có thể hỏi về số khối hình của các thí sinh khác trước khi bắt đầu lượt giải của họ).
-        - H1a3) Trước lượt giải, các khối hình đã được tráo phải được đặt trên bàn tại vị trí bất kì trong khi đảm bảo tất cả các khối hình đều được che kín. Các khối hình nên được xếp sao cho vuông vắn nhất có thể (VD: 8 khối hình nên được xếp thành 2 hàng 3 khối và 1 hàng 2 khối).
-    - H1b) Nếu thí sinh muốn giải ít hơn 6 khối, giới hạn thời gian của lượt giải là 10 phút nhân với số khối hình (VD. Đăng kí 3 khối thì giới hạn thời gian là 10*3= 30 phút, 5 khối là 50 phút), nếu không giới hạn thời gian sẽ mặc định là 60 phút.
-        - H1b1) Thí sinh có thể báo hiệu dừng lượt giải bất kì lúc nào. Nếu và khi giới hạn thời gian được đạt đến, trọng tài kết thúc lượt giải và tính điểm lượt giải; giới hạn thời gian của lượt giải được tính là kết quả.
-    - H1d) Thời gian phạt của tất cả các khối hình trong lượt giải đều được cộng dồn.
-    - H1e) Thí sinh không được phép xoay bất kì một hoặc nhiều khối trong giai đoạn Ghi nhớ. Hình phạt: huỷ kết quả lượt thi (DNF). Ngoại lệ: các khối đã bị xoay này được coi là chưa giải hoàn thành sau khi kết thúc lượt thi, thay vì huỷ toàn bộ kết quả lượt thi, tuỳ theo quyết định của WCA Delegate.
-- H2) Thí sinh có thể tự trang bị một miếng che phẳng (tấm thảm hoặc tấm khăn) cho bề mặt, tuỳ theo quyết định của WCA Delegate. Nếu thí sinh có nguyện vọng như trên, yêu cầu phải được gửi cùng lúc nộp các khối hình (xem [Quy định H1a](regulations:regulation:H1a)).
+## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Mục H: Giải Bịt mắt nhiều khối
+- H1) Các lượt thi Giải Bịt mắt nhiều khối tuân theo quy trình thi đấu đã được nêu tại [Mục B](regulations:article:B) (Giải Bịt mắt). Các Quy định sau đây có hiệu lực cao hơn các Quy định tương ứng tại [Mục B](regulations:article:B).
+    - H1a) Trước lượt thi, thí sinh nộp cho ban tổ chức số khối hình (ít nhất 2) mà thí sinh muốn sử dụng cho lượt thi đó.
+        - H1a1) Một khi đã nộp số khối hình, thí sinh không được phép thay đổi.
+        - H1a2) Thí sinh có thể yêu cầu ban tổ chức không tiết lộ số khối hình của mình cho đến khi toàn bộ thí sinh đã nộp số khối hình. Một khi tất cả thí sinh đã nộp số khối hình, thông tin này lập tức trở thành công khai (VD: thí sinh có thể hỏi xem thí sinh khác nộp bao nhiêu khối hình trước khi lượt thi của họ bắt đầu).
+        - H1a3) Trước khi lượt thi bắt đầu, các khối hình đã được tráo phải được đặt trên bàn, với hướng chỉ bất kì và phải đảm bảo tất cả khối hình được che kín. Các khối hình nên được xếp sao cho gần với hình vuông nhất có thể (VD: 8 khối hình nên được xếp thành 2 hàng 3 khối và 1 hàng 2 khối).
+    - H1b) Nếu thí sinh dùng ít hơn 6 khối, giới hạn thời gian của thí sinh là 10 phút nhân với số khối hình, còn nếu không thì giới hạn thời gian là 60 phút.
+        - H1b1) Thí sinh có thể thông báo kết thúc quá trình giải vào bất kì lúc nào. Nếu thí sinh đạt đến giới hạn thời gian, trọng tài dừng lượt thi và tính kết quả lượt thi; giới hạn thời gian của lượt thi trở thành thời gian được ghi lại.
+    - H1d) Hình phạt cộng thời gian của các khối hình được cộng dồn với nhau.
+    - H1e) Thí sinh không được xoay bước nào ở bất kì khối hình nào trong giai đoạn ghi nhớ. Hình phạt: hủy kết quả lượt thi (DNF). Ngoại lệ: các khối hình này có thể được tính riêng là chưa giải xong khi lượt thi kết thúc thay vì hủy kết quả cả lượt, tùy theo quyết định của WCA Delegate.
+- H2) Thí sinh có thể tự mang thảm kê hoặc khăn trải bàn nếu  được WCA Delegate cho phép, với điều kiện phải thông báo cho ban tổ chức vào cùng lúc nộp số khối hình (xem [Quy định H1a](regulations:regulation:H1a)).
