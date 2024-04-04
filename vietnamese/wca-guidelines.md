@@ -80,7 +80,7 @@ Mỗi quy định được phân loại bằng một trong các nhãn sau để 
 - 3h++) [VÍ DỤ] Ví dụ của việc khả năng hoạt động cơ bản bị ảnh hưởng: có thể xoay bước mới, không thể xoay bước bình thường, có nhiều viên hoặc mặt ở trong tầm nhìn hơn so với khối hình gốc, các màu ở mặt sau khối hình ở trong tầm nhìn, khối hình có thể tự động xoay các bước, hoặc khối hình có nhiều trạng thái giải hoặc có trạng thái giải khác với khối hình gốc.
 - 3h2++) [LÀM RÕ] Các khối hình "stickerless" khác biệt rõ rệt so với các khối hình "stickerless" được sản xuất thông thường chỉ được phép sử dụng khi có sự cho phép của WCA Delegate.
 - 3h2a+) [BỔ SUNG] Ví dụ các bộ phận trong suốt không cung cấp thêm thông tin về trạng thái khối hình: bộ phận phía bên trong khối hình bằng nhựa trong suốt, vỏ ngoài Clock bằng nhựa trong suốt.
-- 3j++) [VÍ DỤ] Hướng dẫn Trực quan (bằng tiếng Anh) của [Quy định 3j](regulations:regulation:3j) ở tại [link này](https://drive.google.com/file/d/1m6THsA8fXRN7QFM4ApJbm6eVODKGbMLx/view).
+- 3j++) [VÍ DỤ] Hướng dẫn Trực quan (bằng tiếng Anh) của [Quy định 3j](regulations:regulation:3j) ở tại [link này](https://drive.google.com/file/d/11kSxoCgJ2i0V1Jx9wtpNNFDirdTHL5s5/view).
 - 3k2+) [BỔ SUNG] WCA Delegate không nên áp dụng ngoại lệ trong Quy định này nếu họ cho rằng thí sinh có thể đã cố ý sử dụng khối hình phạm quy.
 - 3k2b+) [LÀM RÕ] Nếu khối hình phạm quy bị phát hiện giữa lượt thi Giải Bịt mắt nhiều 3x3x3, không được phép thay thế hay bỏ khối hình ra ngoài, và khối hình phải được tính là chưa giải xong nếu cả lượt thi không bị hủy kết quả.
 - 3k2b++) [VÍ DỤ] Giả sử thí sinh sử dụng 10 khối hình và giải xong 8 khối. Nếu thí sinh có 2 khối đã giải xong và 1 khối chưa giải xong bị phạm quy, kết quả của thí sinh là 6 khối hình giải xong trên 10 khối (thay vì DNF), tùy theo quyết định của WCA Delegate.
@@ -108,7 +108,7 @@ Mỗi quy định được phân loại bằng một trong các nhãn sau để 
 - 5b+) [BỔ SUNG] Thí sinh không được phép cố ý gây hư hỏng khối hình, trừ khi đang sửa lỗi hư hỏng khối hình trước đó (xem [Quy định 5b3b](regulations:regulation:5b3b) và [Quy định 5b3c](regulations:regulation:5b3c)). Ví dụ của việc cố ý gây hư hỏng khối hình: tháo nắp viên tâm, vặn viên góc, bóc sticker.
 - 5b5+) [VÍ DỤ] Ví dụ của các bộ phận bị bung ra, dẫn đến trạng thái giải: một nắp viên tâm 3x3x3, một viên tâm của khối NxNxN lớn, viên nhỏ bên trong khối NxNxN lớn.
 - 5b5++) [VÍ DỤ] Ví dụ của các bộ phận bị bung ra: dẫn đến kết quả DNF: hai nắp viên tâm 3x3x3, hai viên tâm của khối NxNxN lớn, một viên cạnh 3x3x3, một viên cạnh 4x4x4, bất kì hai viên nào cùng có mặt có màu.
-- 5b5f+) [VÍ DỤ] Hướng dẫn Trực quan (bằng tiếng Anh) của [Quy định 5b5f](regulations:regulation:5b5f) ở tại [link này](https://drive.google.com/file/d/15XszaCGNvy3Dk6X6qERzZWZaDH1RH04z/view).
+- 5b5f+) [VÍ DỤ] Hướng dẫn Trực quan (bằng tiếng Anh) của [Quy định 5b5f](regulations:regulation:5b5f) ở tại [link này](https://drive.google.com/file/d/1pIdek0ciDwcurygCtgAcgLs96h96YGLZ/view).
 - 5b5f++) [VÍ DỤ] Viên cạnh 4x4x4 bị vặn tại chỗ được tính là đã giải xong.
 - 5b5f+++) [VÍ DỤ] Viên góc bị vặn tại chỗ được tính là đang ở vị trí hợp lệ, nhưng vị trí hợp lệ này khiến cho viên này bị tính là chưa giải xong.
 - 5c+) [NHẮC NHỞ] Việc thí sinh bị hư hỏng khối hình không cho thí sinh quyền được thi lượt bổ sung.
