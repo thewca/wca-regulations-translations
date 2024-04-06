@@ -107,7 +107,7 @@ WCA指南用于补充[WCA规则](regulations:top)。关于WCA的更多信息见�
 - 5b+) [附加] 选手不能故意制造魔方故障，除非是在修正之前的故障（见[规则5b3b](regulations:regulation:5b3b)及[规则5b3c](regulations:regulation:5b3c)）。故意制造故障的例子：去掉一个连接在魔方上的中心块，旋转一个角块，剥下一张贴纸。
 - 5b5+) [举例] 某些块飞出，判定为还原的例子：三阶魔方的一个中心盖，高阶魔方的一个中心块，一个高阶魔方的内部块。
 - 5b5++) [举例] 某些块飞出，判定为DNF的例子：三阶魔方的两个中心盖，两个高阶魔方的中心块，三阶魔方的一个棱块，四阶魔方的一个棱块，含有颜色的两个块的任意组合。
-- 5b5f+) [举例] 对于[规则5b5f](regulations:regulation:5b5f)，这里有一个[可视化指南](https://drive.google.com/file/d/1sXQXqXFzzHp7f74mMQ8cYBquVn2GWpqJ/view)。
+- 5b5f+) [举例] 对于[规则5b5f](regulations:regulation:5b5f)，这里有一个[可视化指南](https://drive.google.com/file/d/15XszaCGNvy3Dk6X6qERzZWZaDH1RH04z/view)。
 - 5b5f++) [举例] 一个四阶的翼棱在它自己的位置翻转的状态被认为是还原的。
 - 5b5f+++) [举例] 一个旋转了的角块被认为是在它自己的位置，但这样的状态不能得出这块是复原的。
 - 5c+) [提醒] 魔方发生故障不能作为选手获得额外还原机会的理由。
