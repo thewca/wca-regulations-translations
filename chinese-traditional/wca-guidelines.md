@@ -103,7 +103,7 @@
 - 5b+) [附加] 參賽者禁止蓄意製造方塊故障，除非是要修正之前發生的方塊故障。(參見[規則 5b3b](regulations:regulation:5b3b)和[規則 5b3c](regulations:regulation:5b3c))蓄意的例子：移除中心蓋，旋轉角塊，撕掉貼紙。
 - 5b5+) [舉例] 方塊零件飛出，卻判為還原的例子：3x3x3一片中心蓋飛出、高階方塊一片中心蓋或中心塊（泛指非角塊、非邊塊）飛出。
 - 5b5++) [舉例] 方塊零件飛出，判為DNF的例子：3x3x3兩片以上中心蓋飛出、高階方塊兩片中心蓋或中心塊飛出、3x3x3一個邊塊飛出、4x4x4一個邊塊飛出，任意兩個有顏色的零件飛出。
-- 5b5f+) [舉例] 可參考[規則 5b5f](regulations:regulation:5b5f)的[視覺指南](https://drive.google.com/file/d/15XszaCGNvy3Dk6X6qERzZWZaDH1RH04z/view) (暫無翻譯)。
+- 5b5f+) [舉例] 可參考[規則 5b5f](regulations:regulation:5b5f)的[視覺指南](https://drive.google.com/file/d/1sXQXqXFzzHp7f74mMQ8cYBquVn2GWpqJ/view) (暫無翻譯)。
 - 5b5f++) [舉例] 4x4x4一個邊塊在原位旋轉視為還原完成。
 - 5b5f+++) [舉例] 一個被原位旋轉影響的角塊可視為處於正確的位置，但處於正確位置並不代表還原完成。
 - 5c+) [提醒] 方塊發生故障不能作為參賽者獲得額外還原機會的理由。
