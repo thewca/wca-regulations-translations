@@ -70,7 +70,7 @@ WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-re
 - 2b) 未滿18歲的參賽者要經過家長或監護人的同意才能報名並比賽。
 - 2c) 參賽者報名時要提供所有主辦團隊要求的資料（包括：姓名、國籍、出生日、性別、聯絡資訊、欲參加的項目）。
     - 2c1) 如果參賽者未完成有效的報名，將無法取得參賽的資格，取決於主辦團隊。
-    - 2c2) 非首次參賽的參賽者，必須要提供和WCA個人檔案相符的個人資訊。如果參賽者希望在兩場比賽之間更改或更新個人資訊（例如：更改國籍、姓名或性別），參賽者必須要[聯絡WCA成績組](https://www.worldcubeassociation.org/contact/website)。
+    - 2c2) 非首次參賽的參賽者，必須要提供和WCA個人檔案相符的個人資訊。如果參賽者希望在兩場比賽之間更改或更新個人資訊（例如：更改國籍、姓名或性別），參賽者必須要[聯絡WCA成績組](https://www.worldcubeassociation.org/contact?contactRecipient=wrt)。
 - 2d) 參賽者的姓名、國籍、性別、和比賽成績視為公開資料。其餘所有個人資料皆被視為保密資料，且必須在取得參賽者同意後才能將資料提供給第三方組織或個人。
 - 2e) 參賽者必須代表一個他擁有國籍的國家。WCA代表應該要在該參賽者的第一場比賽以文件（例如：護照）方式確認其國籍。如果參賽者被發現無法合法代表他報名資訊中的國籍，參賽者可以被事後判決失去資格和/或禁賽，由WCA董事會決定。
     - 2e1) 有效的國家定義如下[WCA List of Recognized Countries(WCA認可國家清單)](https://www.worldcubeassociation.org/regulations/countries/)。
