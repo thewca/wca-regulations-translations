@@ -16,8 +16,6 @@ Englanninkielinen asiakirja [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt) sel
 ### Käännös
 Tämä käännös ei ole virallinen versio, vaikka se löytyy WCA:n verkkosivulta: käännöksestä voi olla hyötyä, mutta sen täsmällisyys ei ole taattu. Jos käännöksen ja nykyisen englanninkielisen version välillä on eroavaisuuksia, täytyy englanninkielistä versiota käyttää.
 
-
-
 ### Tietoa internetissä
 World Cube Associationin verkkosivu: [www.worldcubeassociation.org](https://www.worldcubeassociation.org/)
 WCA-sääntöjen alkuperäinen lähde: [www.worldcubeassociation.org/regulations](https://www.worldcubeassociation.org/regulations/)
@@ -109,7 +107,7 @@ Huomautus: Koska artikloille ja säännöille ei määrätä uusia numeroita, ku
     - 2n2) WCA-delegaatin täytyy ratkaista riita ennen kyseessä olevan lajin seuraavan kierroksen alkua.
     - 2n3) Kilpailijan on hyväksyttävä kaikki WCA-delegaatin lopulliset päätökset. Rangaistus: hylkäys kilpailusta.
 - 2s) Kilpailijat, joiden tilanne (esim. vamma) voi estää heitä noudattamasta yhtä tai useampaa WCA-sääntöä, voivat pyytää erityisjärjestelyjä WCA-delegaatilta. Erityisjärjestelyjä pyytävien kilpailijoiden pitäisi ottaa yhteyttä järjestäjäryhmään ja WCA-delegaattiin vähintään kaksi viikkoa ennen kilpailua.
-    - 2s1) Kilpailijat, jotka eivät tilanteestaan johtuen kykene noudattamaan tavallisia kilpailun menettelytapoja, voivat saada erityisjärjestelyjä. Tällaiset tapaukset pitäisi tuoda WCA Regulations Committee:n käsiteltäväksi etukäteen. 
+    - 2s1) Kilpailijat, jotka eivät tilanteestaan johtuen kykene noudattamaan tavallisia kilpailun menettelytapoja, voivat saada erityisjärjestelyjä. Tällaiset tapaukset pitäisi tuoda WCA Regulations Committee:n käsiteltäväksi etukäteen.
 - 2t) Jokaisen kilpailijan on tunnettava ja ymmärrettävä WCA-säännöt ennen kilpailua.
 - 2u) Kilpailijoiden täytyy olla paikalla ja valmiina kilpailemaan, kun heitä kutsutaan ratkaisuyritystä varten. Rangaistus: hylkäys lajista.
     - 2u1) Poikkeus: Kilpailijan, joka ei ole ajoissa läsnä itsenäisesti aikataulutettua ratkaisuyritystä varten (esim. 3x3x3 vähiten siirtoja, 3x3x3 multisokko), voidaan olettaa kieltäytyneen kyseisestä ratkaisuyrityksestä (DNS), WCA-delegaatin harkinnan mukaan.
