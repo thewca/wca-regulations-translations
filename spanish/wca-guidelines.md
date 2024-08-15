@@ -17,12 +17,12 @@ Las Directrices se numeran correspondientemente a sus reglas asociadas. Tenga en
 
 Para mayor información, cada Directriz se clasifica usando una de las siguientes etiquetas. Tenga en cuenta que esto debe considerarse como información adicional, no como una descripción de su importancia.
 
-- <label>\[ADICIÓN] Información adicional que complementa al Reglamento.
-- <label>\[ACLARACIÓN] Información para dar respuesta a posibles dudas sobre la interpretación del Reglamento.
-- <label>\[EXPLICACIÓN] Información que aclara el propósito del Reglamento.
-- <label>\[RECOMENDACIÓN] Algo que no es estrictamente obligatorio, pero que debe hacerse si es posible.
-- <label>\[RECORDATORIO] Información que puede estar contemplada en otros Reglamentos/Directrices, pero cuya pertinencia vale la pena reiterar.
-- <label>\[EJEMPLO] Un ejemplo de cómo aplicar una Regla.
+- <label>[ADICIÓN] Información adicional que complementa al Reglamento.
+- <label>[ACLARACIÓN] Información para dar respuesta a posibles dudas sobre la interpretación del Reglamento.
+- <label>[EXPLICACIÓN] Información que aclara el propósito del Reglamento.
+- <label>[RECOMENDACIÓN] Algo que no es estrictamente obligatorio, pero que debe hacerse si es posible.
+- <label>[RECORDATORIO] Información que puede estar contemplada en otros Reglamentos/Directrices, pero cuya pertinencia vale la pena reiterar.
+- <label>[EJEMPLO] Un ejemplo de cómo aplicar una Regla.
 
 
 ## <contents> [Contenido](guidelines:contents)
@@ -32,13 +32,13 @@ Para mayor información, cada Directriz se clasifica usando una de las siguiente
 
 ## <article-1><officials><officials> Artículo 1: Miembros oficiales
 
-- 1c+) \[ACLARACIÓN] Si hay varios Delegados de la WCA designados para la competición, «el Delegado de la WCA» se refiere a cualquiera de ellos. También incluye a cualquier persona que haya sido designada por un Delegado de la WCA listado para llevar a cabo una responsabilidad específica del delegado de la competición.
-- 1c++) \[ACLARACIÓN] Los Delegados de la WCA pueden asistir a una competición sin ser designados para desempeñar el papel de Delegado de la WCA para la competición. «El Delegado de la WCA» no se refiere a ellos a no ser que se les asigne una responsabilidad relevante por un Delegado de la WCA designado para la competición (ver [Directriz 1c+](guidelines:guideline:1c+)).
-- 1h+) \[RECOMENDACIÓN] Los competidores del mismo grupo deberían utilizar las mismas secuencias de mezclas. Diferentes grupos deberían utilizar diferentes secuencias de mezclas.
-- 1h++) \[RECOMENDACIÓN] Todos los intentos en la ronda final de una categoría, así como todos los intentos de 3x3x3 en Menos Movimientos, deberían tener las mismas secuencias de mezclas para todos los competidores (p.ej. solo 1 grupo).
-- 1h+++) \[ADICIÓN] Los competidores pueden solicitar competir en un momento distinto al programado para determinada ronda. El Delegado de la WCA debería considerar cuidadosamente si la petición es justa y práctica antes de aprobarla, además de asegurarse de que tales intentos se adhieran a la [Regla 9l](regulations:regulation:9l) (p.ej. deben empezar después de que todos los competidores terminen sus intentos de una ronda anterior de la misma categoría y deben terminar antes de que cualquier competidor comience con sus intentos de una ronda posterior de la misma categoría). Los competidores que realicen esta solicitud deberían contactar al equipo organizador y al Delegado de la WCA antes de la competición. Excepción: esto no está permitido en 3x3x3 en Menos Movimientos, debido a las condiciones propias de esta categoría, descritas en la [Directriz E2b++](guidelines:guideline:E2b++).
-- 1h1+) \[ACLARACIÓN] Los mezcladores/jueces deberían mezclar/juzgar solo a otros competidores de su mismo grupo si es importante para la logística de la competición.
-- 1h1++) \[ACLARACIÓN] Para 3x3x3 en Menos Movimientos, los jueces pueden juzgar a los competidores de su mismo grupo antes de terminar su intento (p.ej. mientras están compitiendo).
+- 1c+) [ACLARACIÓN] Si hay varios Delegados de la WCA designados para la competición, «el Delegado de la WCA» se refiere a cualquiera de ellos. También incluye a cualquier persona que haya sido designada por un Delegado de la WCA listado para llevar a cabo una responsabilidad específica del delegado de la competición.
+- 1c++) [ACLARACIÓN] Los Delegados de la WCA pueden asistir a una competición sin ser designados para desempeñar el papel de Delegado de la WCA para la competición. «El Delegado de la WCA» no se refiere a ellos a no ser que se les asigne una responsabilidad relevante por un Delegado de la WCA designado para la competición (ver [Directriz 1c+](guidelines:guideline:1c+)).
+- 1h+) [RECOMENDACIÓN] Los competidores del mismo grupo deberían utilizar las mismas secuencias de mezclas. Diferentes grupos deberían utilizar diferentes secuencias de mezclas.
+- 1h++) [RECOMENDACIÓN] Todos los intentos en la ronda final de una categoría, así como todos los intentos de 3x3x3 en Menos Movimientos, deberían tener las mismas secuencias de mezclas para todos los competidores (p.ej. solo 1 grupo).
+- 1h+++) [ADICIÓN] Los competidores pueden solicitar competir en un momento distinto al programado para determinada ronda. El Delegado de la WCA debería considerar cuidadosamente si la petición es justa y práctica antes de aprobarla, además de asegurarse de que tales intentos se adhieran a la [Regla 9l](regulations:regulation:9l) (p.ej. deben empezar después de que todos los competidores terminen sus intentos de una ronda anterior de la misma categoría y deben terminar antes de que cualquier competidor comience con sus intentos de una ronda posterior de la misma categoría). Los competidores que realicen esta solicitud deberían contactar al equipo organizador y al Delegado de la WCA antes de la competición. Excepción: esto no está permitido en 3x3x3 en Menos Movimientos, debido a las condiciones propias de esta categoría, descritas en la [Directriz E2b++](guidelines:guideline:E2b++).
+- 1h1+) [ACLARACIÓN] Los mezcladores/jueces deberían mezclar/juzgar solo a otros competidores de su mismo grupo si es importante para la logística de la competición.
+- 1h1++) [ACLARACIÓN] Para 3x3x3 en Menos Movimientos, los jueces pueden juzgar a los competidores de su mismo grupo antes de terminar su intento (p.ej. mientras están compitiendo).
 
 ## <article-2><competitors><competitors> Artículo 2: Competidores
 
