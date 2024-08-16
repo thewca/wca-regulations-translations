@@ -7,6 +7,7 @@ the official [World Cube Association Competition Regulations](https://worldcubea
 
 The following people helped with the translation or by giving valuable feedback:
 
+* [Yuji Yoshida](https://www.worldcubeassociation.org/persons/2015YOSH01) (contributed in 2024)
 * [Akatsuki Kitamura (北村曉)](https://www.worldcubeassociation.org/persons/2017KITA01) (contributed in 2021)
 * [Akihiro Ishida (石田朗大)](https://www.worldcubeassociation.org/persons/2009ISHI01) (contributed in 2016 and 2015)
 * [Ayano Maria Yoshida](https://www.worldcubeassociation.org/persons/2009YOSH01) (contributed in 2013 and 2010)
