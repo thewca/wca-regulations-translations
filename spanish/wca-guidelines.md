@@ -42,30 +42,30 @@ Para mayor información, cada Directriz se clasifica usando una de las siguiente
 
 ## <article-2><competitors><competitors> Artículo 2: Competidores
 
-- 2c+) [ADICIÓN] Los competidores primerizos deben registrarse con su nombre legal o con el que prefieran ser nombrados en la vida real. Los apellidos deben ser los apellidos legales.
-- 2c2+) [ACLARACIÓN] Un perfil de la WCA es la colección de información relacionada a un competidor, e incluye su información personal (nombre, región de representación, género y fecha de nacimiento) así como todos sus resultados en competencias oficiales de la WCA.
+- 2c+) [ADICIÓN] Los nuevos competidores deben registrarse con su nombre legal o con el que prefieran ser nombrados en la vida real. Los apellidos deben ser los apellidos legales.
+- 2c2+) [ACLARACIÓN] Un perfil de la WCA es la colección de información relacionada con un competidor, e incluye su información personal (nombre, región de representación, género y fecha de nacimiento), así como todos sus resultados en competiciones oficiales de la WCA.
 - 2d+) [ADICIÓN] La fecha de nacimiento e información de contacto deben ser especialmente confidenciales.
-- 2d++) [RECOMENDACIÓN] Si algún tercero (p.ej. un periodista) pide al equipo organizador para ponerse en contacto con cualquier competidor o competidores, estos deberían ser consultados antes.
-- 2e+) [ACLARACIÓN] Si un competidor tiene múltiples ciudadanías, puede elegir qué región quiere representar en su primera competencia.
-- 2e++) [ADICIÓN] El delegado de la WCA también debería verificar el nombre y la fecha de nacimiento por medio de documentos (p.ej. un pasaporte), para cada competidor nuevo en su primera competencia.
-- 2e3+) [ACLARACIÓN] Los competidores que compiten como "Stateless", no tienen récords nacionales ni continentales, y no forman parte de los rankings nacionales ni continentales.
-- 2i+) [ADICIÓN] Por más que un competidor pueda tomar un cronómetro de mano para ver el tiempo (cuando no están con los ojos tapados), no debe empezar, parar, pausar o interactuar de cualquier otra forma con el cronómetro de mano.
-- 2i++) [ADICIÓN] El equipo organizador puede proveer al competidor con un cronómetro de mano no oficial para ver el tiempo transcurrido (que empieza al mismo tiempo que el cronómetro de mano oficial), en cuyo caso el competidor no tiene permitido tocar el cronómetro de mano oficial.
+- 2d++) [RECOMENDACIÓN] Si algún tercero (p.ej. un periodista) pide al equipo organizador ponerse en contacto con cualquier competidor o competidores, estos deberían ser consultados antes.
+- 2e+) [ACLARACIÓN] Si un competidor tiene varias nacionalidades, puede elegir cuál de ellas quiere representar en su primera competición.
+- 2e++) [ADICIÓN] El Delegado de la WCA también debería verificar el nombre y la fecha de nacimiento mediante documentos (p.ej. un pasaporte) de cada nuevo competidor en su primera competición.
+- 2e3+) [ACLARACIÓN] Los competidores que compiten sin nacionalidad (o “Stateless”) no tienen récords nacionales ni continentales, ni forman parte de los ránkings nacionales ni continentales.
+- 2i+) [ADICIÓN] Aunque un competidor puede levantar un cronómetro de mano para ver el tiempo (cuando no está con los ojos tapados), no debe empezar, parar, pausar o interactuar de cualquier otra forma con el cronómetro de mano.
+- 2i++) [ADICIÓN] El equipo organizador puede proporcionar al competidor un cronómetro no oficial para ver el tiempo transcurrido (puesto en marcha junto con el cronómetro de mano principal), en cuyo caso no se permite al competidor tocar el cronómetro oficial.
 - 2i+++) [RECORDATORIO] Los puzzles con Bluetooth son considerados dispositivos electrónicos.
-- 2i++++) [ACLARACIÓN] "Utilizar" es distinto de "interactuar". Se considera que un competidor está utilizando un dispositivo electrónico solo si lo está empleando para un propósito en particular.
-- 2i+++++) [EJEMPLO] Ejemplos que no se consideran como utilizar un dispositivo electrónico: mover una cámara, dar vuelta un teléfono, llevar puesto un "smartwatch".
-- 2i++++++) [EJEMPLO] Ejemplos que sí se consideran como utilizar un dispositivo electrónico: presionar el botón de una cámara, revisar un mensaje en un teléfono o en un "smartwatch".
+- 2i++++) [ACLARACIÓN] Se considera que un competidor está utilizando un dispositivo electrónico solo si lo está empleando para un propósito en particular.
+- 2i+++++) [EJEMPLO] Ejemplos que no se consideran uso de un dispositivo electrónico: mover una cámara, voltear un teléfono, llevar puesto un smartwatch.
+- 2i++++++) [EJEMPLO] Ejemplos que sí se consideran uso de un dispositivo electrónico: pulsar un botón de la cámara, consultar un mensaje en un teléfono o smartwatch.
 - 2i1b+) [ACLARACIÓN] Esto incluye dispositivos relevantes que estén apagados o desconectados.
-- 2i1c+) [ACLARACIÓN] Los calentadores de manos electrónicos son considerados dispositivos electrónicos y por lo tanto no están permitidos durante la inspección o la resolución. Por otro lado, los calentadores no-electrónicos pueden ser usados en cualquier momento durante un intento.
+- 2i1c+) [ACLARACIÓN] Los calentadores de manos electrónicos son considerados dispositivos electrónicos y, por lo tanto, no están permitidos durante la inspección o la resolución. Por otro lado, los calentadores no electrónicos pueden usarse en cualquier momento durante un intento.
 - 2i2+) [ACLARACIÓN] El competidor puede sostener o llevar puesta una cámara en cualquier parte, siempre y cuando no pueda ver lo que graba la cámara en la pantalla de la misma.
-- 2j2+) [EJEMPLO] Por ejemplo, si un competidor es descalificado de una categoría por no presentarse a la ronda final, sus resultados de rondas anteriores siguen siendo válidos.
-- 2j2++) [EJEMPLO] Si el delegado de la WCA descalifica a un competidor durante su tercer intento en una ronda, solo son descalificados el tercer intento y todos los siguientes de la categoría, incluso si las circunstancias que originaron la descalificación ocurrieron antes del tercer intento.
-- 2k6+) [ACLARACIÓN] Los delegados de la WCA solo deberían utilizar su discreción para prevenir que los competidores perjudiquen severamente a la competencia (p.ej. gastando tiempo y/o recursos de la competencia). Los competidores no deberían ser descalificados por resultados "malos" cuando están compitiendo con lo mejor de sí.
-- 2s+) [RECORDATORIO] Las adaptaciones especiales deben ser anotadas en el reporte del delegado.
-- 2s++) [EJEMPLO] Aquellos competidores cuyas circunstancias (p.ej religión) no les permitan competir en alguna fecha u hora en particular, pueden ser acomodados para competir en otro momento, a discreción del delegado de la WCA. El delegado de la WCA debería considerar la disponibilidad de recursos de la competencia en estos casos. Esto incluye la posibilidad de competir provisionalmente en rondas subsiguientes antes de que las rondas anteriores hayan sido completadas.
-- 2s+++) [EJEMPLO] Un competidor que no puede utilizar una de sus manos para iniciar el cronómetro, puede recibir asistencia del juez para iniciar y detener el cronómetro. Un competidor que no puede oír, puede recibir las advertencias de inspección de manera diferente.
-- 2s1+) [EJEMPLO] Ejemplos de tales acomodaciones incluyen: un competidor ciego utilizando su otra mano para sentir las piezas en la categoría 3x3x3 a una Mano o utilizando un segundo puzzle con piezas especiales para la etapa de memorización en la categoría 3x3x3 a Ciegas.
-- 2u1+) [ADICIÓN] El competidor puede competir a discreción del delegado de la WCA. El delegado de la WCA debe considerar cuidadosamente si permitírselo es justo o no.
+- 2j2+) [EJEMPLO] Por ejemplo, si se descalifica a un competidor de una categoría por no presentarse a la ronda final, sus resultados de rondas anteriores siguen siendo válidos.
+- 2j2++) [EJEMPLO] Si el Delegado de la WCA descalifica a un competidor durante su tercer intento en una ronda, solo se descalifica el tercer intento y todos los intentos siguientes de esa categoría, incluso si las circunstancias que originaron la descalificación ocurrieron antes de este intento.
+- 2k6+) [ACLARACIÓN] Los Delegados de la WCA solo deberían utilizar su discreción para prevenir que los competidores perjudiquen severamente a la competición (p.ej. perdiendo tiempo y/o recursos de la competición). Los competidores no deberían ser descalificados por resultados "malos" cuando están compitiendo al máximo de sus capacidades.
+- 2s+) [RECORDATORIO] Las adaptaciones especiales deberán indicarse en el Informe del Delegado.
+- 2s++) [EJEMPLO] Aquellos competidores cuyas circunstancias (p.ej. religión) no les permitan competir en una fecha u hora específicas podrán ser autorizados a competir en otro momento a discreción del Delegado de la WCA. El Delegado de la WCA deberá tener en cuenta la disponibilidad de recursos para la competición cuando atienda dichas solicitudes. Esto incluye la posibilidad de competir provisionalmente en rondas siguientes antes de que las rondas anteriores hayan finalizado.
+- 2s+++) [EJEMPLO] Un competidor que no pueda utilizar una de sus manos para iniciar el cronómetro, puede recibir asistencia del juez para iniciar y detener el cronómetro. Un competidor que no pueda oír, puede recibir los avisos de inspección de manera diferente.
+- 2s1+) [EJEMPLO] Ejemplos de estas adaptaciones incluyen: un competidor ciego utilizando su otra mano para sentir las piezas en la categoría 3x3x3 a Una Mano o utilizando un segundo puzzle con piezas especiales para la etapa de memorización en la categoría 3x3x3 a Ciegas.
+- 2u1+) [ADICIÓN] El competidor puede competir a discreción del Delegado de la WCA. El Delegado de la WCA debe considerar cuidadosamente si es justo permitírselo o no.
 
 
 ## <article-3><puzzles><puzzles> Artículo 3: Puzzles
