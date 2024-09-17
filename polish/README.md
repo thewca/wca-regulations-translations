@@ -2,7 +2,7 @@ WCA Regulations (Polish version)
 ================================
 
 This git repository contains the "translations-polish" branch of
-the official [World Cube Association Competition Regulations](http://worldcubeassociation.org/regulations/) repository.
+the official [World Cube Association Competition Regulations](https://www.worldcubeassociation.org/regulations/) repository.
 
 Credits
 -------
