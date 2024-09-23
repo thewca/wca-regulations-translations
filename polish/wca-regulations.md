@@ -465,8 +465,8 @@ Uwaga: Ponieważ numery artykułów i regulaminów nie są zmieniane, gdy regula
     - B1b) Zawodnicy muszą mieć własne opaski.
 - B2) Start ułożenia:
     - B2a) Sędzia resetuje timer(y) jak w [Punkcie A3b](regulations:regulation:A3b) i wskazuje, że jest gotowy na rozpoczęcie próby przez zawodnika (np. umieszczając łamigłówkę przed zawodnikiem, mówiąc " GOTOWY", dając sygnał kciukiem w górę). Zawodnik musi rozpocząć próbę w ciągu jednej minuty, w przeciwnym razie zawodnik traci próbę (DNS), według uznania sędziego.
-    - B2b) Zawodnik aktywuje licznik poprzez położenie palców na czujnikach timera. Dłonie zawodnika muszą być skierowane w dół oraz położone na timerze od strony zawodnika. Kara: Kara czasowa (+2 sekundy)
-    - B2c) Zawodnik nie może mieć kontaktu z kostką lub pudałkiem na kostki przed rozpoczęciem ułożenia. Kara: Kara czasowa (+2 sekundy)
+    - B2b) Zawodnik aktywuje timer poprzez położenie palców na czujnikach timera. Dłonie zawodnika muszą być skierowane w dół oraz położone na timerze od strony zawodnika. Kara: Kara czasowa (+2 sekundy)
+    - B2c) Zawodnik nie może mieć kontaktu z kostką lub pudełkiem na kostki przed rozpoczęciem ułożenia. Kara: Kara czasowa (+2 sekundy)
     - B2d) Podczas korzystania z timera Stackmat, zawodnik powinien trzymać ręce na timerze, dopóki nie zobaczy zielonego światła timera. Timer jest uruchamiany, gdy zawodnik zdejmie rękę (ręce) z timera. Zawodnik rozpoczyna próbę i rozwiązanie poprzez uruchomienie timera
         - B2d1) Zawodnik zdejmuje przykrywkę z kostki po uruchomieniu timera Stackmat.
         - B2d2) Jeśli oprócz timera Stackmat używany jest stoper, sędzia uruchamia stoper, gdy tylko zawodnik rozpocznie rozwiązywanie.
@@ -497,7 +497,7 @@ Uwaga: Ponieważ numery artykułów i regulaminów nie są zmieniane, gdy regula
 - C1) Standardowe procedury szybkiego układania opisane w [Artykule A](regulations:article:A) (Układanie Na Czas) mają tutaj zastosowanie. Dodatkowe przepisy, które zastępują procedury [Artykuł A](regulations:article:A) są opisane poniżej:
     - C1b) Podczas ułożenia, zawodnik może dotykać kostkę tylko jedną ręką. Kara: Dyskwalifikacja ułożenia (DNF)
         - C1b2) Jeżeli w trakcie ułożenia wystąpią problemy z łamigłówką, a zawodnik zdecyduje się naprawić defekty, może to zrobić również używając jednej ręki. Kara: Dyskwalifikacja ułożenia (DNF).
-        - C1b3) Jeżeli w trakcie ułożenia wystąpią problemy z łamigłówką, a jej części dotkną innych części ciała zawodnika bez jego zamierzenia, za decyzją sędziego takiej sytuacji nie traktujemy jako dotknięcie łamigłówki.
+        - C1b3) Jeżeli inne części ciała zawodnika wejdą w kontakt z ukłądanką lub częściami układanki bez zamiaru zawodnika, oraz bez aplikowania ruchów, nie jest to uznawane za manipulowanie stanem kostki, za uznaniem sędziego.
         - C1b4) Podczas ułożenia, zawodnik może opierać kostkę o powierzchnie stołu (zob. [Punkt 7f1d](regulations:regulation:7f1d)).
     - C1c) Podczas ułożenia, zawodnik dotykający kostkę jedną ręką, nie może dotykać kostki drugą ręką. Kara Dyskwalifikacja ułożenia (DNF)
 
