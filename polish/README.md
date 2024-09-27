@@ -7,7 +7,8 @@ the official [World Cube Association Competition Regulations](https://www.worldc
 Credits
 -------
 
-* [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) 
+* [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01)
+* [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) 
 
 
 The following people helped with the translation or by giving valuable feedback in the past:
