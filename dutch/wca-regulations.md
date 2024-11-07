@@ -280,7 +280,7 @@ Let op:  Omdat Artikel- en Reglementnummers niet opnieuw worden toegewezen wanne
 - 9p) Als een wedstrijdonderdeel meerdere ronden heeft, dan:
     - 9p1) Ten minste 25% van de deelnemers moet worden geëlimineerd tussen opeenvolgende rondes van hetzelfde wedstrijdonderdeel.
     - 9p2) De deelnemers die doorgaan naar de volgende ronde moeten worden bepaald door de rangorde (beste x deelnemers) of het resultaat (alle deelnemers met een beter resultaat dan x) in de voorgaande ronde.
-    - 9p2a) Voor elke ronde moeten de voorwaarden voor voortgang worden aangekondigd voordat de ronde start en deze dienen niet te worden gewijzigd nadat de ronde is begonnen. Deze wijzigingen moeten worden aangebracht ter beoordeling van de WCA Delegate die de eerlijkheid van de wijziging zorgvuldig moet overwegen.
+        - 9p2a) Voor elke ronde moeten de voorwaarden voor voortgang worden aangekondigd voordat de ronde start en deze dienen niet te worden gewijzigd nadat de ronde is begonnen. Deze wijzigingen moeten worden aangebracht ter beoordeling van de WCA Delegate die de eerlijkheid van de wijziging zorgvuldig moet overwegen.
     - 9p3) Als een gekwalificeerde deelnemer zich terugtrekt uit een ronde, kan hij/zij worden vervangen door de best gerangschikte niet-gekwalificeerde deelnemer uit de voorgaande ronde.
 - 9s) Elke ronde van elk wedstrijdonderdeel moet een tijdslimiet hebben (zie [Reglement A1a](regulations:regulation:A1a)).
 - 9t) Als er een wijziging optreedt in de resultaten van een deelnemer nadat de competitie is geëindigd (bijv. fout bij het noteren, straf met terugwerkende kracht), zodanig dat de deelnemer niet had mogen doorgaan naar de volgende ronde (of niet mocht deelnemen aan de ronde), moeten alle resultaten van deze deelnemer voor alle volgende rondes worden verwijderd (zie [Reglement 9u](regulations:regulation:9u)).
@@ -448,7 +448,7 @@ Let op:  Omdat Artikel- en Reglementnummers niet opnieuw worden toegewezen wanne
         - A7a1) De judge dient aan de deelnemer mee te delen dat de puzzel is opgelost, of dat er een straf wordt toegekend.
     - A7b) De judge noteert het resultaat op een scorebriefje en ondertekent naast het resultaat om te bevestigen dat het resultaat correct, volledig, correct geformatteerd en duidelijk leesbaar is.
         - A7b1) Als er straffen worden toegekend, registreert de judge de originele geregistreerde tijd die wordt weergegeven op de timer, samen met eventuele straffen. Het formaat dient 'T + X + Y = F' te zijn, waarbij T staat voor de tijd zoals weergegeven op de timer (de 'originele geregistreerde tijd'), X voor een som van tijdstraffen tijdens de poging en F voor het eindresultaat (bijvoorbeeld 17,65 + 4 = 21,65).
-    - A7b) De deelnemer controleert het geregistreerde resultaat en ondertekent (of parafeert) het scorebriefje om te bevestigen dat het resultaat correct, volledig, correct geformatteerd en duidelijk leesbaar is. Hiermee is de poging voltooid.
+    - A7c) De deelnemer controleert het geregistreerde resultaat en ondertekent (of parafeert) het scorebriefje om te bevestigen dat het resultaat correct, volledig, correct geformatteerd en duidelijk leesbaar is. Hiermee is de poging voltooid.
         - A7c1) Als de deelnemer of de judge weigert het scorebriefje te aanvaarden en ondertekenen, moet het geschil opgelost worden door de WCA Delegate.
         - A7c2) Als de deelnemer bewust een poging ondertekent (of anderszins markeert) voordat hij/zij ermee is begonnen, verliest hij/zij de poging en wordt het resultaat als DNS beschouwd.
         - A7c3) Als de deelnemer een poging ondertekent (of anderszins markeert) na het starten van de poging, maar voordat de judge het resultaat heeft vastgelegd, wordt de poging als onvoltooid beschouwd (DNF).
@@ -467,9 +467,9 @@ Let op:  Omdat Artikel- en Reglementnummers niet opnieuw worden toegewezen wanne
     - B2a) De judge reset de timer(s) zoals in [Reglement A3b](regulations:regulation:A3b) en geeft aan klaar te zijn voor de deelnemer om te poging te starten (bijvoorbeeld door de puzzelcover voor de deelnemer te plaatsen en te zeggen "KLAAR", wat aangeeft klaar te zijn). De deelnemer moet klaar zijn om de poging te starten binnen één minuut nadat hij/zij is opgeroepen voor de poging. Anders verliest de deelnemer de poging (DNS), ter beoordeling van de judge.
     - B2b) Wanneer de Stackmat-timer wordt gebruikt, gebruikt de deelnemer zijn vingers om de verhoogde sensorvlakken van de timer aan te raken. De handpalmen van de deelnemer moeten naar beneden gericht zijn en zich aan de zijkant van de timer bevinden die zich dichter hem/haar bevindt. Straf: tijdstraf (+2 seconden).
     - B2c) Wanneer de Stackmat-timer wordt gebruikt, mag de deelnemer geen fysiek contact hebben met de puzzel vóór het begin van de poging. Straf: tijdstraf (+2 seconden).
-    - A4d) Wanneer de Stackmat-timer wordt gebruikt, dient de deelnemer de handen op de timer te houden tot er een groen lampje te zien is. De timer start zodra de handen van de timer worden gehaald. De deelnemer start de poging en de oplossing door de timer te starten.
+    - B4d) Wanneer de Stackmat-timer wordt gebruikt, dient de deelnemer de handen op de timer te houden tot er een groen lampje te zien is. De timer start zodra de handen van de timer worden gehaald. De deelnemer start de poging en de oplossing door de timer te starten.
         - B2d1) De deelnemer verwijdert de cover van de puzzel nadat de timer is gestart.
-        - A4d3) Als een stopwatch wordt gebruikt in aanvulling op de Stackmat-timer, start de judge de stopwatch zodra de deelnemer begint met oplossen.
+        - B2d2) Als een stopwatch wordt gebruikt in aanvulling op de Stackmat-timer, start de judge de stopwatch zodra de deelnemer begint met oplossen.
     - B2f) Als een stopwatch in gebruik is als de enige timer, bevestigt de deelnemer klaar te zijn en begint de deelnemer door de cover te verwijderen. De judge start de stopwatch zodra de deelnemer begint met oplossen.
 - B3) Memorisatiefase:
     - B3a) De deelnemer mag de puzzel oppakken tijdens de memorisatiefase.
@@ -484,7 +484,7 @@ Let op:  Omdat Artikel- en Reglementnummers niet opnieuw worden toegewezen wanne
         - B4c1) In alle gevallen moet de deelnemer de blinddoek zodanig dragen dat zijn zicht op de puzzel nog steeds duidelijk geblokkeerd zou zijn als het ondoorzichtige voorwerp niet in de weg zou staan.
         - B4c3) Als de judge en de deelnemer van tevoren akkoord gaan, mag de deelnemer ervoor kiezen de puzzel achter een geschikt object (bijvoorbeeld een muziekstandaard, het oppervlak van de tafel) te plaatsen tijdens de geblinddoekte fase.
     - B4d) De deelnemer mag de puzzel op geen enkel moment tijdens de geblinddoekte fase bekijken. Straf: diskwalificatie van de poging (DNF).
-- B6) Stoppen met oplossen:
+- B5) Stoppen met oplossen:
     - B5a) Wanneer de Stackmat-timer wordt gebruikt, stopt de deelnemer het oplossen door de puzzel los te laten en vervolgens de timer te stoppen.
         - B5a1) Als een stopwatch wordt gebruikt in aanvulling op de Stackmat-timer, stopt de judge de stopwatch zodra de deelnemer stopt met oplossen.
     - B5b) Als een stopwatch in gebruik is als de enige timer, stopt de deelnemer het oplossen door de puzzel los te laten en de judge te melden klaar te zijn met het oplossen. De judge stopt de stopwatch zodra de deelnemer dit doet.
