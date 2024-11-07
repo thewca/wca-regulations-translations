@@ -88,7 +88,7 @@ Let op:  Omdat Artikel- en Reglementnummers niet opnieuw worden toegewezen wanne
         - 2i1c) Handwarmers.
         - 2i1d) Voeding en drank.
     - 2i2) Deelnemers mogen camera's gebruiken bij de wedstrijdtafel, ter beoordeling van de WCA Delegate, maar de volgende beperkingen zijn van toepassing vanaf het begin van de poging tot de deelnemer de poging stopt. Straf voor het overtreden van een beperking: diskwalificatie van de poging (DNF).
- - 2i2a) Elk camerascherm moet leeg zijn of uit het zicht van de deelnemer (zie [Reglement A5b](regulations:regulation:A5b)).
+        - 2i2a) Elk camerascherm moet leeg zijn of uit het zicht van de deelnemer (zie [Reglement A5b](regulations:regulation:A5b)).
     - 2i4) Deelnemers dienen alle meldingen van mobiele telefoons uit te zetten tijdens de wedstrijd om te voorkomen dat ze de wedstrijd verstoren.
 - 2j)  De WCA Delegate kan een deelnemer diskwalificeren voor specifieke pogingen en/of wedstrijdonderdeel.
     - 2j1) Als een deelnemer om welke reden dan ook wordt gediskwalificeerd voor een wedstrijdonderdeel, komt hij/zij niet meer in aanmerking voor nog meer pogingen in het wedstrijdonderdeel.
@@ -273,13 +273,13 @@ Let op:  Omdat Artikel- en Reglementnummers niet opnieuw worden toegewezen wanne
 - 9k) Alle deelnemers mogen deelnemen aan alle wedstrijdonderdelen van een wedstrijd, behalve in gevallen die specifiek zijn goedgekeurd door het WCA Competition Announcement Team.
 - 9l) Elke ronde moet worden voltooid voordat een volgende ronde van hetzelfde wedstrijdonderdeel begint. Uitzondering: Extra pogingen mogen op elk moment tijdens een wedstrijd worden gegeven om een poging te vervangen die in eerste instantie ongeldig was.
 - 9m) Wedstrijdonderdelen mogen maximaal vier rondes hebben.
- - 9m1) Rondes met 99 of minder deelnemers mogen maximaal twee opeenvolgende rondes hebben.
- - 9m2) Rondes met 15 of minder deelnemers mogen maximaal één opeenvolgende ronde hebben.
- - 9m3) Rondes met 7 of minder deelnemers mogen geen opeenvolgende rondes hebben.
+    - 9m1) Rondes met 99 of minder deelnemers mogen maximaal twee opeenvolgende rondes hebben.
+    - 9m2) Rondes met 15 of minder deelnemers mogen maximaal één opeenvolgende ronde hebben.
+    - 9m3) Rondes met 7 of minder deelnemers mogen geen opeenvolgende rondes hebben.
 - 9o) Cutoff-rondes tellen als één ronde bij het tellen van het aantal rondes per wedstrijdonderdeel.
 - 9p) Als een wedstrijdonderdeel meerdere ronden heeft, dan:
- - 9p1) Ten minste 25% van de deelnemers moet worden geëlimineerd tussen opeenvolgende rondes van hetzelfde wedstrijdonderdeel.
- - 9p2) De deelnemers die doorgaan naar de volgende ronde moeten worden bepaald door de rangorde (beste x deelnemers) of het resultaat (alle deelnemers met een beter resultaat dan x) in de voorgaande ronde.
+    - 9p1) Ten minste 25% van de deelnemers moet worden geëlimineerd tussen opeenvolgende rondes van hetzelfde wedstrijdonderdeel.
+    - 9p2) De deelnemers die doorgaan naar de volgende ronde moeten worden bepaald door de rangorde (beste x deelnemers) of het resultaat (alle deelnemers met een beter resultaat dan x) in de voorgaande ronde.
  - 9p2a) Voor elke ronde moeten de voorwaarden voor voortgang worden aangekondigd voordat de ronde start en deze dienen niet te worden gewijzigd nadat de ronde is begonnen. Deze wijzigingen moeten worden aangebracht ter beoordeling van de WCA Delegate die de eerlijkheid van de wijziging zorgvuldig moet overwegen.
     - 9p3) Als een gekwalificeerde deelnemer zich terugtrekt uit een ronde, kan hij/zij worden vervangen door de best gerangschikte niet-gekwalificeerde deelnemer uit de voorgaande ronde.
 - 9s) Elke ronde van elk wedstrijdonderdeel moet een tijdslimiet hebben (zie [Reglement A1a](regulations:regulation:A1a)).
@@ -425,7 +425,7 @@ Let op:  Omdat Artikel- en Reglementnummers niet opnieuw worden toegewezen wanne
         - A4d3) Als een stopwatch wordt gebruikt, start de judge de stopwatch zodra de deelnemer begint met oplossen.
     - A4e) Tijdstraffen voor het starten van het oplossen zijn cumulatief.
 - A5) Tijdens het oplossen:
-    A5a) Tijdens het inspecteren of oplossen van de puzzel mag de deelnemer niet communiceren met iemand anders dan de judge of de WCA Delegate. Straf: diskwalificatie van de poging (DNF). Uitzondering: Als de deelnemer geen voordeel behaalt door te communiceren met iemand anders dan het jurylid of de WCA Delegate, mag het resultaat behouden blijven, ter beoordeling van de WCA Delegate.
+    - A5a) Tijdens het inspecteren of oplossen van de puzzel mag de deelnemer niet communiceren met iemand anders dan de judge of de WCA Delegate. Straf: diskwalificatie van de poging (DNF). Uitzondering: Als de deelnemer geen voordeel behaalt door te communiceren met iemand anders dan het jurylid of de WCA Delegate, mag het resultaat behouden blijven, ter beoordeling van de WCA Delegate.
     - A5b) Tijdens het inspecteren of oplossen van de puzzel mag de deelnemer geen assistentie krijgen van iemand of een ander object dan het oppervlak (zie ook [Reglement 2i](regulations:regulation:2i)). Straf: diskwalificatie van de poging (DNF).
     - A5c) De deelnemer mag de puzzel tegen het oppervlak houden om de puzzel te manipuleren (zie [Reglement 7f1d](regulations:regulation:7f1d)).
 - A6) Stoppen met oplossen:
