@@ -17,12 +17,12 @@ De Richtlijnen zijn genummerd in overeenstemming met gerelateerde Reglementen. L
 
 Om informatiever te zijn wordt elke Richtlijn geclassificeerd met één van de volgende labels. Let op: dit dient te worden behandeld als metadata, niet als een beschrijving van het belang.
 
-- [AANVULLING] Aanvullende informatie ter aanvulling op de Reglementen.
-- [VERDUIDELIJKING] Informatie om mogelijke vragen over de interpretatie van de Reglementen te beantwoorden.
-- [UITLEG] Informatie om de bedoeling van de Reglementen te verduidelijken.
-- [AANBEVELING] Iets wat niet strikt verplicht is, maar wat indien mogelijk dient te worden gedaan.
-- [HERINNERING] Informatie die door andere Reglementen/Richtlijnen kan worden beantwoord maar waarvan de relevantie de moeite van het herhalen waard is.
-- [VOORBEELD] Een voorbeeld van hoe een Reglement moet worden toegepast.
+- <label>[AANVULLING] Aanvullende informatie ter aanvulling op de Reglementen.
+- <label>[VERDUIDELIJKING] Informatie om mogelijke vragen over de interpretatie van de Reglementen te beantwoorden.
+- <label>[UITLEG] Informatie om de bedoeling van de Reglementen te verduidelijken.
+- <label>[AANBEVELING] Iets wat niet strikt verplicht is, maar wat indien mogelijk dient te worden gedaan.
+- <label>[HERINNERING] Informatie die door andere Reglementen/Richtlijnen kan worden beantwoord maar waarvan de relevantie de moeite van het herhalen waard is.
+- <label>[VOORBEELD] Een voorbeeld van hoe een Reglement moet worden toegepast.
 
 
 ## [Inhoudsopgave](guidelines:contents)
