@@ -42,7 +42,6 @@ Uwaga: Ponieważ numery artykułów i regulaminów nie są zmieniane, gdy regula
 - 1a) Zawody muszą posiadać następujące osoby funkcyjne: delegata WCA i zespół organizacyjny (z jednym bądź kilkoma członkami) wraz z sędziami, mieszaczami i osobami zapisującymi wyniki.
 - 1b) Zespół organizacyjny jest odpowiedzialny za wszelkie przygotowania przed, w trakcie i po zawodach.
 - 1c) Delegat WCA jest odpowiedzialny za zapewnienie przestrzegania regulacji WCA oraz stosownych wytycznych lub wymagań WCA. Delegat WCA może wyznaczyć innego członka zespołu organizacyjnego do pełnienia konkretnego obowiązku w jego imieniu, ale ostatecznie ponosi odpowiedzialność za sposób wykonywania tych obowiązków  
-    - 1c1) Delegat WCA musi zapewnić, że zawody są zgodne z [Polityka odpowiedzialności za scramble WCA](https://documents.worldcubeassociation.org/documents/policies/external/Scramble%20Accountability.pdf).
 - 1e) Każda konkurencja musi posiadać co najmniej jednego sędziego.
     - 1e1) Sędzia konkurencji jest odpowiedzialny za wypełnianie procedur danej konkurencji.
         - 1e1a) Sędzia może sędziować jednocześnie kilku zawodników za zgodą delegata WCA, tak długo jak sędzia jest w stanie zagwarantować przestrzeganie regulaminu WCA przez cały czas.
@@ -54,7 +53,9 @@ Uwaga: Ponieważ numery artykułów i regulaminów nie są zmieniane, gdy regula
     - 1g1) Osoba zapisująca wyniki jest odpowiedzialna za rejestrowanie wyników konkurencji.
     - 1g2) Zmiany w karcie wyników mogą być zrobione tylko w porozumieniu i za zgodą delegata WCA.
 - 1h) Zawodnicy tej samej konkurencji i tej samej rundy mogą wystartować w jednej grupie lub być podzieleni na wiele grupy.
-    - 1h1) SMieszacze i sędziowie uczestniczący w danej rundzie nie mogą sędziować ani mieszać w swojej rundzie, dopóki nie ukończą wszystkich swoich ułożeń w danej rundzie. Mogą mieszać i sędziować zawodnikom w swojej grupie za zgodą delegata WCA i przy zapewnieniu przez zespół organizacyjny, że nie zobaczą żadnych scrambli przed ułożeniami, których jeszcze nie wykonywali. (zob. [Punkt 4b2](regulations:regulation:4b2)).
+    - 1h1) Mieszacze i sędziowie danej rundy nie mogą mieszać lub sędziować zawodnika własnej grupy zanim nie zakończyli wszystkich prób w danej rundzie. Obowiązują następujące wyjątki:
+        - 1h1a) W przypadku 3x3x3 najmniejszą liczbą ruchów, sędzia może sędziować zawodników swojej grupy przed zakończeniem własnych prób (tj. w trakcie gdy sami uczestniczą w próbie)
+        - 1h1b) W przypadku 3x3x3 wiele kostek bez patrzenia, zawodnicy mogą sędziować innych zawodników w ich własnej grupie po zakończeniu ich próby.
 - 1j) Wszystkie osoby funkcyjne mogą uczestniczyć w zawodach.
 - 1k) Osoby funkcyjne mogą pełnić jednocześnie kilka ról (zespół organizacyjny, delegat WCA, sędzia, osoba zapisująca wyniki, mieszacz).
 
@@ -67,28 +68,30 @@ Uwaga: Ponieważ numery artykułów i regulaminów nie są zmieniane, gdy regula
     - 2a3) Nie jest zawieszony przez Zarząd WCA.
     - 2a4) Zgadza się z wszystkimi rozsądnymi środkami bezpieczeństwa uważanych z konieczne przez Delegata WCA, które muszą być jasno ogłoszone przed zawodami.
 - 2b) Zawodnicy poniżej 18 roku życia muszą uzyskać zgodę od rodziców/opiekunów na rejestrację oraz udział w zawodach.
-- 2c) Rejestrując się, zawodnik podaje wszystkie informacje wymagane przez zespół organizacyjny (w tym: imię i nazwisko, region który reprezentują, data urodzenia, płeć, informacje kontaktowe, wybrane konkurencje)
+- 2c) Rejestrując się, zawodnik podaje wszystkie informacje wymagane przez zespół organizacyjny (w tym: imię i nazwisko, kraj, data urodzenia, płeć, informacje kontaktowe, wybrane konkurencje)
     - 2c1) Zawodnik nie może wystartować w zawodach bez kompletnej rejestracji, zgodnie z ustaleniami zespołu organizacyjnego i Delegata WCA.
-    - 2c2) Zawodnicy którzy brali już udział w zawodach muszą podawać informacje zgodne z ich profilem WCA. Jeśli zawodnik chce zmienić lub uaktualnić swoje informacje personalne między zawodami (np. zmiana regionu który reprezentują, imienia, lub płci) musi [skontaktować się z WCA Results Team](https://www.worldcubeassociation.org/contact?contactRecipient=wrt) albo bezpośrednio lub za pośrednictwem Delegata WCA.
-- 2d) Imię i nazwisko zawodnika, region który reprezentują, płeć i wyniki z zawodów są informacjami publicznymi. Wszystkie inne informacje o zawodniku są poufne i nie mogą być przekazywane dalej bez zgody zawodnika.
-- 2e) Zawodnik musi reprezentować region, którego obywatelstwo posiada. Delegat WCA powinien zweryfikować obywatelstwo zawodnika na podstawie dokumentu (np. paszportu). Jeżeli zawodnik okaże się nie być obywatelem regionu, który reprezentuje, może być zdyskwalifikowany (również wstecz) i/lub zawieszony, według uznania Zarządu WCA.
-    - 2e1) Dostępne regiony, które zawodnik może reprezentować są zdefiniowane przez [Lista uznanych regionów WCA](https://www.worldcubeassociation.org/regulations/countries/).
-    - 2e2) Po zmianie obywatelstwa, zawodnik może zmienić region, który reprezentuje na swoich pierwszych zawodach w roku kalendarzowym.
-        - 2e2a) Wyjątek: Jeśli zawodnik straci obywatelstwo regionu, który wcześniej reprezentował, musi zmienić region reprezentowania przed lub na następnych zawodach (zob. [Punkt 2c2](regulations:regulation:2c2)).
-        - 2e2b) Wyjątek: Jeśli zawodnik uzyskał nowe obywatelstwo w ciągu roku kalendarzowego, może zmienić region reprezentacji na swoje nowe obywatelstwo w dowolnym momencie pomiędzy zawodami.
+    - 2c2) Zawodnicy którzy brali już udział w zawodach muszą podawać informacje zgodne z ich profilem WCA. Jeśli zawodnik chce zmienić lub uaktualnić swoje informacje personalne między zawodami (np. zmiana kraju, imienia, lub płci) musi [skontaktować się z WCA Results Team](https://www.worldcubeassociation.org/contact?contactRecipient=wrt) albo bezpośrednio lub za pośrednictwem Delegata WCA.
+- 2d) Imię i nazwisko zawodnika, kraj, płeć i wyniki z zawodów są informacjami publicznymi. Wszystkie inne informacje o zawodniku są poufne i nie mogą być przekazywane dalej bez zgody zawodnika.
+- 2e) Zawodnik musi reprezentować kraj, którego obywatelstwo posiada. Delegat WCA powinien zweryfikować obywatelstwo zawodnika na podstawie dokumentu lub zdjęć dokumentu (np. paszportu). Jeżeli zawodnik okaże się nie być obywatelem kraju, który reprezentuje, może być zdyskwalifikowany (również wstecz) i/lub zawieszony, według uznania Zarządu WCA.
+    - 2e1) Dostępne kraje, które zawodnik może reprezentować są zdefiniowane przez [Lista Uznanych Krajów WCA](https://www.worldcubeassociation.org/regulations/countries/).
+    - 2e2) Po zmianie obywatelstwa, zawodnik może zmienić kraj w dowolnym momencie pomiędzy zawodami (zob. [Punkt 2x2](regulations:regulation:2c2)), tylko wtedy gdy minał minimum jeden rok od poprzedniej zmiany.
+        - 2e2a) Wyjątek: Jeśli zawodnik straci obywatelstwo kraju, który wcześniej reprezentował, musi zmienić kraj reprezentowania przed lub na następnych zawodach (zob. [Punkt 2c2](regulations:regulation:2c2)).
+        - 2e2b) Wyjątek: Jeśli zawodnik uzyskał nowe obywatelstwo w ciągu roku kalendarzowego, może zmienić kraj, który reprezentuje na swoje nowe obywatelstwo przed lub w trakcie następnych zawodów.
     - 2e3) Zawodnicy nieposiadający obywatelstwa mogą rywalizować jako „bezpaństwowcy”.
 - 2f) Zawodnicy muszą przestrzegać zasad miejsca zawodów i odpowiednio się zachowywać.
 - 2g) Przebywając w miejscu zawodów, zawodnicy muszą zachować ciszę. Rozmowy są dozwolone, ale muszą być utrzymane na rozsądnym poziomie, z dala od układających.
-    - 2g3) Zawodnicy przebywający w strefie dla zawodników nie mogą rozmawiać o tzw. scramblach trwającej rundy. Kara: dyskwalifikacja zawodnika z konkurencji, według uznania Delegata WCA. Wyjątek: W przypadku 3x3x3 Najmniejszą liczbą ruchów, zawodnicy, którzy ukończyli swoją próbę, mogą udostępnić sekwencję mieszającą każdemu, kto nie bierze aktywnego udziału w danej próbie.
-- 2h) Zawodnicy przebywający w miejscu zawodów muszą być odpowiednio ubrani. Według uznania Delegata WCA, zawodnik może być zdyskwalifikowany z zawodów, jeżeli jest ubrany         nieodpowiednio.
-- 2i) Podczas układania, zawodnik nie może używać urządzeń dźwiękowych ani elektronicznych (np. telefon komórkowy, odtwarzacz MP3, dyktafon, dodatkowe oświetlenie) oprócz timera lub stopera. 
+    - 2g3) Zawodnicy w grupie w trakcie jej trwania nie mogą komunikować się z innymi zawodnikami w grupie na temat stanów pomieszań w danej grupie, chyba że wszyscy tacy zawodnicy nie kwalifikują się do dalszych prób w grupie. Kara: dyskwalifikacja zawodnika(ów) z zawodów, według uznania Delegata WCA. Wyjątek: W przypadku 3x3x3 Najmniejszą Liczbą Ruchów i 3x3x3 Wiele Kostek Bez Patrzenia, zawodnicy, którzy ukończyli swoją próbę, mogą dzielić się i omawiać sekwencję (sekwencje) mieszającą(e) z innymi zawodnikami w grupie, którzy albo ukończyli swoją próbę, albo zrezygnowali z próby.
+        - 2g3a) W przypadku rund, w których wyniki wprowadzane są na bieżąco w trakcie trwania rundy, zespół organizacyjny może narzucić zawodniką zakaz sprawdzania wprowadzanych wyników własnej grupy do czasu zakończenia wszystkich prób w danej grupie.
+- 2h) Zawodnicy przebywający w miejscu zawodów muszą być odpowiednio ubrani. Według uznania Delegata WCA, zawodnik może być zdyskwalifikowany z zawodów, jeżeli jest ubrany nieodpowiednio.
+- 2i) Podczas układania, zawodnik nie może używać elektronicznych (np. telefon komórkowy, słuchawki, dodatkowe oświetlenie) oprócz timera lub stopera. 
     - 2i1) Zawodnik może korzystać z niektórych nieelektronicznych form pomocy, które nie dają mu nieuczciwej przewagi, według uznania Delegata WCA. W tym:
         - 2i1a) Lekarskie/fizyczne pomoce noszone przez zawodnika (np. okulary, orteza nadgarstka, aparat słuchowy) Jako wyjątek dla [Punktu 2i](regulations:regulation:2i), medyczne pomoce mogą być elektroniczne jeśli zawodnik nie posiada nieelektronicznych alternatyw (np. aparat słuchowy).
         - 2i1b) Zatyczki do uszu i nauszniki (ale nie elektroniczne, wygłuszające słuchawki).
-        - 2i1c) Ogrzewacze do rąk.
+        - 2i1c) Nieelektryczne ogrzewacze do rąk.
         - 2i1d) Jedzenie oraz napoje.
-    - 2i2) Zawodnik może korzystać z kamery na stanowisku startowym za zgodą Delegata WCA, pod warunkiem zastosowania poniższych zasad podczas pełnej próby. Kara: Dyskwalifikacja ułożenia.
-        - 2i2a) Każdy monitor kamery musi być wygaszony lub poza zasięgiem wzroku zawodnika (zob. [Punkt A5b](regulations:regulation:A5b)).
+    - 2i2) Zawodnicy mogą korzystać z kamer i/lub mikrofonów na stanowisku układania według uznania Delegata WCA, ale poniższe ograniczenia obowiązują od momentu rozpoczęcia próby do momentu zakończenia układania przez zawodnika. Kara za łamanie ograniczeń: dyskwalifikacja próby (DNF).
+        - 2i2a) Każdy monitor kamery musi być wygaszony lub poza zasięgiem wzroku zawodnika. Wyjątek: jeśli widoczny monitor zostanie wykryty, zakończone próby nie muszą być zdyskwalifikowane, jeśli zawodnik nie uzyskał przewagi z tego powodu, za uznaniem Delegata WCA (zob. [Punkt A5b](regulations:regulation:A5b)), nie mniej jednak zawodnik nie może uzyskać pozwolenia na dalsze układanie z takim monitorem.
+        - 2i2c) Zawodnik nie może klikać przycisków na urządzeniu (np. zaczynanie lub zatrzymywanie nagrywania).
     - 2i4) Zawodnik powinien wyciszyć telefon żeby uniknąć rozpraszania innych zawodników. 
 - 2j) Delegat WCA może zdyskwalifikować zawodnika z określonej konkurencji
     - 2j1) Jeśli zawodnik został zdyskwalifikowany z danej konkurencji, nie mogą przystąpić do następnych prób tej konkurencji.
@@ -106,7 +109,7 @@ Uwaga: Ponieważ numery artykułów i regulaminów nie są zmieniane, gdy regula
 - 2l) Zawodnik może być zdyskwalifikowany natychmiast lub po ostrzeżeniu, w zależności od natury wykroczenia
     - 2l1) Zdyskwalifikowany zawodnik nie ma prawa do zwrotu kosztów związanych z udziałem w zawodach.
 - 2n) Zawodnik może słownie zakwestionować decyzję Delegata WCA.
-    - 2n1) Dyskusje są możliwe tylko w czasie zawodów (zob. [Punkt 9u](regulations:regulation:9u)), w ciągu 30 minut od zaistnienia incydentu lub przed rozpoczęciem kolejnych rund danej konkurencji.
+    - 2n1) Dyskusje są możliwe tylko w czasie zawodów (zob. [Punkt 9u](regulations:regulation:9u)), w ciągu 30 minut od zaistnienia incydentu i przed rozpoczęciem kolejnych rund danej konkurencji.
     - 2n2) Delegat WCA musi rozwiązać spór przed rozpoczęciem kolejnej rundy danej konkurencji.
     - 2n3) Zawodnik musi zaakceptować ostateczną decyzję Delegata WCA. Kara: dyskwalifikacja z zawodów.
 - 2s) Zawodnicy, u których występują okoliczności (np. niepełnosprawność), które uniemożliwiają przestrzeganie jednego bądź wielu punktów Regulaminu WCA, mogą poprosić Delegata WCA o specjalne udogodnienia. Tacy zawodnicy powinni skontaktować się z zespołem organizacyjnym oraz z Delegatem WCA przynajmniej 2 tygodnie przed zawodami.
@@ -119,7 +122,7 @@ Uwaga: Ponieważ numery artykułów i regulaminów nie są zmieniane, gdy regula
 
 ## <article-3><puzzles><puzzles> Artykuł 3: Kostki
 
-- 3a) Zawodnicy muszą dostarczyć swoje własne kostki
+- 3a) Zawodnicy są odpowiedzialni za dostarczenie swojej własne kostki
     - 3a1) Zawodnicy muszą być gotowi do przedstawienia swoich łamigłówek, gdy zostaną wezwani (zob. [Punkt 2u](regulations:regulation:2u)).
     - 3a2) Kostki muszą być w pełni sprawne, tak aby normalne mieszanie było możliwe.
     - 3a3) Wielościenne kostki w pozycji ułożonej muszą mieć taki schemat kolorów, aby dla jednej ściany był przypisany jeden, unikalny kolor. Każda odmiana kostki musi mieć ruchy, pozycje oraz rozwiązania funkcjonalnie identyczne jak oryginalna kostka.
@@ -150,7 +153,7 @@ Uwaga: Ponieważ numery artykułów i regulaminów nie są zmieniane, gdy regula
     - 3k2) Kara za próby z układankami, które nie są dozwolone: dyskwalifikacja próby (DNF). Obowiązują następujące wyjątki:
         - 3k2a) Jeśli niedozwolona łamigłówka zostanie znaleziona przed zakończeniem rundy, wyniki w rundzie mogą zostać zastąpione dodatkowymi próbami, według uznania Delegata WCA.
         - 3k2b) 3x3x3 Multi-Blind: jeśli jakiekolwiek układanki zostaną uznane za niedozwolone, takie układanki mogą zostać indywidualnie zaliczone jako nierozwiązane (bez dyskwalifikacji całej próby), według uznania Delegata WCA.
-- 3l) Układanka może mieć logo lub wiele log na kolorowej części. Jeśli tak, musi mieć co najwyżej jedną kolorową część z logo lub wieloma logami. Wyjątek: W przypadku konkurencji bez patrzenia łamigłówka nie może mieć logo.
+- 3l) Układanka może mieć logo lub wiele log na kolorowej części. Jeśli tak, musi mieć co najwyżej jedną kolorową część z logo lub wieloma logami. Wyjątek: W przypadku konkurencji 4x4x4 Bez Patrzenia, 5x5x5 Bez Patrzenia oraz 3x3x3 Wiele Kostek Bez Patrzenia kostki nie mogą posiadać loga.
     - 3l1) Logo musi być umieszczone na centrze. Wyjątki dla kostek, które nie mają centrów:
         - 3l1a) Pyraminx i 2x2x2: logo może być na którymkolwiek elemencie.
         - 3l1b) Square-1: logo musi być na środkowej warstwie.
@@ -161,7 +164,7 @@ Uwaga: Ponieważ numery artykułów i regulaminów nie są zmieniane, gdy regula
 ## <article-4><scrambling><scrambling> Artykuł 4: Mieszanie
 
 - 4a) Mieszacz stosuje algorytm mieszający.
-- 4b) Kostki muszą być wymieszane używając losowych, wygenerowanych komputerowo algorytmów mieszających
+- 4b) Sekwencje mieszające używane na zawodach muszą być generowane używając aktualnej wersji oficjalnego programu WCA do generowania sekwencji mieszających (dostępne [Za Pośrednictwem Strony WCA](https://www.worldcubeassociation.org/regulations/scrambles/))
     - 4b1) Wygenerowane algorytmy mieszające nie mogą być oglądane przed zawodami, ani wybierane lub filtrowane w żaden sposób przez Delegata WCA.
     - 4b2) Algorytmy mieszające do danej rundy mogą być dostępne tylko dla Delegata WCA i mieszaczy aż do końca tej rundy. Wyjątek: w konkurencji Fewest Moves, zawodnicy dostają algorytmy mieszające podczas rundy (zob. [Artykuł E](regulations:article:E)).
         - 4b2a) Wyznaczony delegat WCA na zawody musi udzielić dostępu do sekwencji mieszającej dla przyszłych grup innym członkom zespołu organizacyjnego tylko wtedy, gdy będą oni tymczasowo niedostępni (np. sami startują w danej rundzie) i powinien w takim przypadku udzielić innym dostępu do minimalnej możliwej liczby sekwencji mieszających.
@@ -179,7 +182,6 @@ Uwaga: Ponieważ numery artykułów i regulaminów nie są zmieniane, gdy regula
     - 4d3) Square-1 jest mieszany z najciemniejszym kolorem z przodu (z dwóch możliwych orientacji mieszania)
     - 4d4) Zegar jest mieszany, zaczynając od dowolnej strony z przodu, a godzina 12 jest skierowana do góry. 
     - 4d5) Skewb jest mieszany z białą ścianą (jeżeli niemożliwe - najjaśniejszą) u góry i zieloną ścianą (jeżeli niemożliwe – najciemniejszą) z przodu po lewej.
-- 4f) Oficjalne algorytmy mieszające muszą być wygenerowane używając aktualnej wersji oficjalnego programu mieszającego (dostępne [przez strone WCA](https://www.worldcubeassociation.org/regulations/scrambles/)).
 - 4g) Po pomieszaniu kostki, mieszacz musi się upewnić, że zrobił to poprawnie. Jeżeli nie, musi to poprawić (np. przez ułożenie kostki i pomieszanie jej ponownie).
     - 4g1) Następujace wyjątki dotyczą:
         - 4g1a) Wyjątek: w przypadku 6x6x6, 7x7x7 i Megaminksa nie jest wymagane poprawianie źle pomieszanej kostki, według uznania Delegata WCA.
@@ -189,13 +191,13 @@ Uwaga: Ponieważ numery artykułów i regulaminów nie są zmieniane, gdy regula
 ## <article-5><puzzle-defects><puzzledefects> Artykuł 5: Uszkodzenia Kostek
 
 - 5a) Przykłady uszkodzeń kostek: element wypadł, element obrócony na swoim miejscu, oderwana śróbka/zaślepka/naklejka.
-- 5b) Jeżeli uszkodzenie kostki zdarzy się podczas ułożenia, zawodnik może naprawić uszkodzenie i kontynuować ułożenie, bądź zakończyć ułożenie.
+- 5b) Jeżeli uszkodzenie kostki zdarzy się podczas ułożenia, zawodnik może naprawić uszkodzenie i kontynuować ułożenie, bądź zakończyć ułożenie. Zawodnik nie może intencjonalnie spowodować kolejnego uszkodzenia kostki, chyba, że ma na celu naprawienie poprzedniego uszkodzenia. 
     - 5b1) Jeżeli zawodnik wybierze naprawę uszkodzenia, musi naprawić tylko wadliwą część. Narzędzia lub/i części z innych kostek nie mogą być użyte no naprawy kostki. Kara: dyskwalifikacja ułożenia (DNF).
     - 5b2) Żadna naprawa kostki nie może dać zawodnikowi korzyści w układaniu kostki. Kara. Dyskwalifikacja ułożenia (DNF).
     - 5b3) Dozwolone naprawy:
         - 5b3a) Jeżeli jakikolwiek element wypadł, zawodnik może go włożyć z powrotem.
         - 5b3b) Jeżeli po naprawie kostki, przed zakończeniem ułożenia zawodnik zauważa, że kostki nie da się ułożyć, może wyciągnąć i włożyć z powrotem maksymalnie 4 elementy w celu umożliwienia dokończenia ułożenia.
-        - 5b3c) Jeżeli kostki nie da się ułożyć, ponieważ jeden róg jest obrócony, zawodnik może obrócić ten róg bez rozbierania kostki.
+        - 5b3c) Jeżeli kostki nie da się ułożyć, ponieważ jeden róg jest obrócony, zawodnik może obrócić ten róg bez rozbierania kostki. Jeśli wiele rogów zostało obróconych, zawodnik może naprawić te obroty, wtedy i tylko wtedy gdy liczba elementów poprawionych przez zawodnika nie jest wieksza niż liczba rogów które zostały obrócone poprzez uszkodzenie kostki.
     - 5b4) Podczas fazy układania bez patrzenia (zob. [Punkt B4](regulations:regulation:B4)), wszystkie naprawy muszą być wykonywane bez patrzenia. Kara: dyskwalifikacja ułożenia (DNF).
     - 5b5) Jeżeli po zakończeniu ułożenia niektóre elementy kostki nie są na miejscu, lub nie są do końca włożone, stosuje się następujące zasady:
         - 5b5a) Jeżeli jedna lub więcej części bez koloru jest naruszona, kostka jest uważana za ułożoną.
@@ -220,8 +222,7 @@ Uwaga: Ponieważ numery artykułów i regulaminów nie są zmieniane, gdy regula
     - 7f2) Stoper musi być przymocowany do maty i umieszczony na powierzchni, ze stoperem na krawędzi maty bliższej zawodnikowi.
     - 7f3) Zespół organizacyjny powinien zmodyfikować timery Stackmat, aby były bardziej odporne na typowe incydenty, utrudniając przypadkowe naciśnięcie przycisków (np. poprzez przymocowanie O-ringów wokół przycisków) i mocniej zabezpieczając baterię (np. poprzez wyściełanie komory baterii).
     - 7f4) Generation 5 Pro Timer musi być używany w trybie 2-pad.
-- 7h) Miejsce zawodów musi posiadać jedną lub więcej stref dla Zawodników.
-    - 7h1) Zespół organizacyjny może wymagać od zawodnika wywołanego do układania, aby został w strefie dla Zawodników aż ukończy wszystkie próby w rundzie.
+- 7h) Jeśli zawodnicy nie pozostają na tym samym stanowisku podczas wszystkich swoich prób w rundzie, miejsce zawodów musi posiadać jedno lub więcej poczekalni dla zawodników. Wyjątek: rundy z indywidualnie zaplanowanymi próbami.
     - 7h2) Definicja: Strefa dla Zawodników to obszar, w którym zawodnicy w grupie oczekują na wezwanie do stacji rozstrzygania.
 
 
@@ -246,10 +247,10 @@ Uwaga: Ponieważ numery artykułów i regulaminów nie są zmieniane, gdy regula
         - 9b5b) Formaty cutoff dla tej konkurencji: " Najlepszy z X" (gdzie X wynosi 1 lub 2) faza cutoff dla "Najlepszy z Y" (gdzie Y wynosi 2 lub 3, i Y > X).
 - 9f) Wyniki rund są mierzone następująco:
     - 9f1) Wszystkie zmierzone czasy poniżej 10 minut są mierzone i obcinane do setnej sekundy. Wszystkie zmierzone średnie poniżej 10 minut są mierzone i zaokrąglane do setnej sekundy.
-    - 9f2) Wszystkie wyniki , średnie i średnie powyżej 10 minut, a także wszystkie czasy dla wyników 3x3x3 Multi-Blind są mierzone i zaokrąglane do najbliższej sekundy (np. X.49 staje się X, X.50 staje się X+1).
+    - 9f2) Wszystkie wyniki , średnie i średnie powyżej 10 minut, a także wszystkie czasy dla wyników 3x3x3 Multi-Blind są mierzone i zaokrąglane do sekund.
     - 9f4) Wynik jest zapisywany jako DNF (Did Not Finish) jeżeli ułożenie zostało zdyskwalifikowane, zakończone przed ułożeniem kostki, lub nieukończone.
         - 9f4a) Jeśli zawodnik naruszy przepisy na tyle wyraźnie, że próba z pewnością zostanie zdyskwalifikowana, sędzia powinien natychmiast przerwać próbę. Jeśli sędzia nie ma pewności lub spór mógłby zakłócić przebieg zawodów (np. ponieważ dodatkowa próba mogłaby opóźnić zawody), powinien skonsultować się z Delegatem WCA.
-    - 9f5) Wynik jest zapisywany jako DNS (Did Not Start) jeżeli zawodnik może wystartować, ale z tego rezygnuje.
+    - 9f5) Wynik jest zapisywany jako DNS (Did Not Start) jeżeli zawodnik mógł wystartować, ale z tego zrezygnował (zob. [Punkt A3b2](regulations:regulation:A3b2)).
     - 9f6) Dla rund z formatem „Najlepszy z X”, zawodnikowi przydziela się X prób. Miejsce zawodnika w rankingu ustalane jest na podstawie najlepszego ułożenia.
     - 9f7) Dla rund z formatem „Najlepszy z X”, DNF lub DNS liczy się jako najgorszy wynik.
     - 9f8) Dla rund z formatem „Średnia z 5”, zawodnikowi przydziela się 5 prób, z których najgorszy i najlepszy są odrzucane, a wynik to średnia arytmetyczna z pozostałych trzech wyników.
@@ -271,6 +272,7 @@ Uwaga: Ponieważ numery artykułów i regulaminów nie są zmieniane, gdy regula
 - 9j) Każda konkurencja może być przeprowadzona maksymalnie raz podczas zawodów.
 - 9k) Wszyscy zawodnicy mogą brać udział we wszystkich konkurencjach na zawodach z wyjątkiem szczególnych przypadków zatwierdzonych przez WCA Competition Announcement Team.
 - 9l) Każda runda musi być zakończona zanim kolejna runda tej samej konkurencji się zacznie. Wyjątek: Dodatkowe próby mogą zostać przyznane w dowolnym momencie zawodów w celu zastąpienia próby, która początkowo była nieważna.
+    - 9l1) Próba jest uważana za nieważną, jeśli wymaga przyznania dodatkowego ułożenia.
 - 9m) Konkurencje mogą mieć maksymalnie 4 rundy.
     - 9m1) Konkurencje, w których udział bierze 99 lub mniej osób mogą mieć co najwyżej 2 następne rundy.
     - 9m2) Konkurencje, w których udział bierze 15 lub mniej osób mogą mieć jedną następnej rundy.
@@ -280,7 +282,9 @@ Uwaga: Ponieważ numery artykułów i regulaminów nie są zmieniane, gdy regula
     - 9p1) Co najmniej 25% zawodników musi być wyeliminowanych między rundami.
     - 9p2) Zawodnicy którzy przechodzą do następnych muszą być określeni na podstawie rankingu (X najlepszych zawodników) lub na podstawie wyniku (wszyscy zawodnicy z wynikiem lepszym niż X) do następnej rundy.
         - 9p2a) Jeżeli zakwalifikowany zawodnik wycofuje się z udziału w danej rundzie, może być zastąpiony przez innego zawodnika, który w rankingu poprzedniej rundy był najbliżej kwalifikacji.
+        - 9p2b) Wyjątek: W przypadku zawodów wskazanych jako Mistrzostwa Krajowe lub Mistrzostwa Kontynentalne, zespół organizacyjny może zmienić warunki awansu, aby zarezerwować miejsca dla zawodników reprezentujących dany region. W ten sposób można zarezerwować maksymalnie 8 miejsc lub 50% miejsc w następnej rundzie, w zależności od tego, która z tych wartości jest niższa. W przypadku rundy z zarezerwowanymi miejscami, zawodnicy awansujący z poprzedniej rundy to zarezerwowana liczba najlepszych zawodników reprezentujących dany region, a następnie pozostali najlepsi zawodnicy reprezentujący dowolny region.
     - 9p3) Jeżeli zakwalifikowany zawodnik wycofuje się z udziału w danej rundzie, może być zastąpiony przez innego zawodnika, który w rankingu poprzedniej rundy był najbliżej kwalifikacji.
+    - 9p4) zawodnik posiadający tylko DNF lub DNS jako wynik nie może awansować do następnej rundy.
 - 9s) Każda runda każdej konkurencji musi mieć limit czasowy (zob. [Punkt A1a](regulations:regulation:A1a)).
 - 9t) Jeśli po zakończeniu zawodów nastąpi jakakolwiek zmiana w wynikach zawodnika (np. błąd w punktacji, kara retroaktywna), w wyniku której zawodnik nie powinien awansować do następnej rundy (lub nie został dopuszczony do udziału w rundzie), wszystkie wyniki tego zawodnika we wszystkich kolejnych rundach muszą zostać usunięte (zob. [Punkt 9u](regulations:regulation:9u)).
     - 9t1) Jeśli spowoduje to, że runda przestanie być zgodna z [Punktem 9p1](regulations:regulation:9p1), wyniki innych zawodników nie mogą zostać usunięte.
@@ -310,6 +314,7 @@ Uwaga: Ponieważ numery artykułów i regulaminów nie są zmieniane, gdy regula
     - 10f4) Square-1: maksymalnie 45 stopni (U/D), lub 90 stopni (/)
 - 10h) Łamigłówki niewymienione w tym artykule, są sędziowane zgodnie ze statusem ułożenia, przyjętym w ogólnych założeniach danej łamigłówki.
     - 10h1) Clock jest ułożony wtedy, kiedy wszystkie 18 wewnętrznych zegarów wskazuje na godzinę 12.
+        - 10h1a) Wewnętrzne zegary, które nie jasno wskazują konkretny znacznik godziny, uznaje się za wskazujące najbliższy znacznik godzinowy.
 
 
 ## <article-11><incidents><incidents> Artykuł 11: Incydenty
