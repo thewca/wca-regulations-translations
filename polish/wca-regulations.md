@@ -563,13 +563,17 @@ Uwaga: Ponieważ numery artykułów i regulaminów nie są zmieniane, gdy regula
         - E2e1) Delegat WCA może poprosić zawodnika o wyjaśnienie celu każdego ruchu w rozwiązaniu, niezależnie od algorytmu mieszającego. Jeżeli zawodnik nie potrafi podać rzetelnego wyjaśnienia, próba zostaje zdyskwalifikowana (DNF). 
 - E3) Zawodnik może używać następujących przedmiotów podczas próby. Kara za używanie niedozwolonych przedmiotów: dyskwalifikacja próby (DNF). 
     - E3a) Papier (dostarczony przez sędziego), arkusz rozwiązania (dostarczony przez sędziego), ilustracja scramble'a dla danej próby (która może być umieszczona na papierze lub arkuszu rozwiązania) oraz długopisy/ołówki lub podobne (dostarczone przez sędziego lub opcjonalnie dostarczone samodzielnie).
-    - E3b) Kostki Rubika (maksymalnie 3, własne), które muszą być zgodne z  [Artykułem 3](regulations:article:3) przed rozpoczęciem próby.
+    - E3b) Kostki Rubika (maksymalnie 3, własne), które muszą być zgodne z [Artykułem 3](regulations:article:3) przed rozpoczęciem próby.
     - E3c) Naklejki (własne)
     - E3d) Stoper ręczny lub zegarek (własny) do mierzenie czasu, po akceptacji delegata WCA.
     - E3e) Inne pomoce nieelektroniczne, które nie dają nieuczciwej przewagi, według uznania Delegata WCA (zob. [Punkt 2i1](regulations:regulation:2i1)).
     - E3f) Narzędzia do usuwania oznaczeń (we własnym zakresie), takie jak korektor (w płynie lub taśmowy) lub gumki do ścierania.
 - E4) Delegat WCA może zdecydować się na publikację rozwiązań (np. zdjęcie kart wyników lub transkrypcje rozwiązań).
 - E5) Zawodnik nie może komunikować się z nikim innym niż Delegat WCA lub sędzia. Komunikacja ta powinna dotyczyć punktów regulaminu WCA, a zawodnik nie może otrzymywać pomocy w uzyskaniu rozwiązania. Kara: dyskwalifikacja próby (DNF).
+- E6) Zawodnik może dołączyć do próby 3x3x3 Najmniejszą Liczbą Ruchów, która już trwa, według uznania Delegata WCA. Wyjątek: Zawodnik nie może dołączyć do trwającej próby w następujących przypadkach:
+    - E6a) Zawodnik zakończył już swoją próbę (zob. [Punkt E2b+](guidelines:guideline:E2b+))
+    - E6b) Próba ma miejsce w zawodach z wieloma lokalizacjami (np. „Zawody 3x3x3 Fewest Moves symultaniczne”).
+    - E6c) Istnieje ryzyko, że informacje o sekwencji mieszającej mogą być znane zawodnikowi, który chce dołączyć do próby.
 
 
 ## <article-F><clock><clocksolving> Artykuł F: Układanie Rubik's Clock
@@ -587,7 +591,7 @@ Kara: Dyskwalifikacja ułożenia (DNF)
     - H1a) Przed rozpoczęciem próby, zawodnik musi zadeklarować zespołowi organizacyjnemu liczbę kostek (minimum 2) jakie zamierza ułożyć.
         - H1a1) Zawodnik nie możne zmieniać liczby zadeklarowanych kostek.
         - H1a2) Zawodnik może poprosić o zatajenie tej informacji do czasu kiedy wszyscy zawodnicy zadeklarują liczbę układanych kostek. Po zebraniu deklaracji wszystkich zawodników informacja staje się jawna. (np. przed startem własnego ułożenia, zawodnik może poprosić o ujawnienie liczby kostek zadeklarowanych przez innych zawodników)
-        - H1a3) Przed przystąpieniem do próby, pomieszane łamigłówki należy umieścić na stole w dowolnej orientacji, upewniając się jednocześnie, że pozostają one całkowicie zakryte. Łamigłówki powinny być ułożone w kształcie jak najbardziej zbliżonym do kwadratu (np. 8 łamigłówek powinno być ułożonych w 2 rzędach z 3 łamigłówkami i 1 rzędzie z 2 łamigłówkami).
+        - H1a3) Przed przystąpieniem do próby, pomieszane łamigłówki należy umieścić na stole w dowolnej orientacji, upewniając się jednocześnie, że pozostają one całkowicie zakryte. Łamigłówki powinny być ułożone w kształcie jak najbardziej zbliżonym do kwadratu oraz nie powinny być układane na sobie (np. 8 łamigłówek powinno być ułożonych w 2 rzędach z 3 łamigłówkami i 1 rzędzie z 2 łamigłówkami oraz ułożone jako jedna warstwa).
     - H1b) Jeżeli zawodnik zadeklarował mniej niż 6 kostek, obowiązuje limit 10 min na każdą kostkę. Limit konkurencji wynosi 60 minut.
         - H1b1) Zawodnik może zasygnalizować zakończenie ułożenia w dowolnym czasie. W sytuacji osiągnięcia limitu czasowego, zatrzymuje próbę i zapisuje wynik na karcie startowej. Limit czasowy zapisywany jest jako finalnie osiągnięty czas.
     - H1d) Kary czasowe dla każdej kostki są kumulowane.
