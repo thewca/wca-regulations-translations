@@ -108,8 +108,8 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
     - 2k6) No es capaz de cumplir con los requerimientos de la categoría (p.ej. no saber como resolver el puzzle). Un competidor no debería competir con la expectativa de obtener un DNF o un resultado intencionalmente malo.
 - 2l) Un competidor puede ser descalificado inmediatamente, o después de un aviso, dependiendo de la naturaleza y la gravedad de la infracción.
     - 2l1) Un competidor que ha sido descalificado no puede pedir el reembolso de los gastos en los que haya incurrido por participar en la competencia.
-- 2n) Los competidores pueden discutir verbalmente la aplicación de una regla con el delegado de la WCA.
-    - 2n1) Las discusiones solo se permiten durante la competencia (ver [Regla 9u](regulations:regulation:9u)), antes de transcurridos los 30 minutos desde que ocurrió el incidente en cuestión y antes de que comience la siguiente ronda de la categoría.
+- 2n) Los competidores pueden disputar verbalmente la ejecución de una regla al delegado de la WCA.
+    - 2n1) Las disputas solo se permiten durante la competencia (ver [Regla 9u](regulations:regulation:9u)), antes de transcurridos los 30 minutos desde que ocurrió el incidente en cuestión y antes de que comience la siguiente ronda de la categoría.
     - 2n2) El delegado de la WCA debe resolver la discusión antes de que comience la siguiente ronda de la categoría.
     - 2n3) El competidor debe aceptar la decisión final tomada por el delegado de la WCA. Penalización: descalificación de la competencia.
 - 2s) Los competidores con condiciones (p.ej. condiciones funcionales) que les impidan cumplir con una o más reglas de la WCA, pueden solicitar adaptaciones especiales al delegado de la WCA. Los competidores que requieran estas adaptaciones deberían ponerse en contacto con el equipo organizador y el delegado de la WCA al menos dos semanas antes de la competencia.
@@ -122,7 +122,7 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
 
 ## <article-3><puzzles><puzzles> Artículo 3: Puzzles
 
-- 3a) Los competidores deben proporcionar sus propios puzzles para la competencia.
+- 3a) Los competidores son responsables de proporcionar los puzzles que utilizarán para sus intentos oficiales.
     - 3a1) Los competidores deben estar preparados para entregar sus puzzles cuando son llamados (Ver [Regla 2u](regulations:regulation:2u)).
     - 3a2) Los puzzles deben ser plenamente operativos, de tal manera que una mezcla normal sea posible.
     - 3a3) Los puzzles con forma de poliedro deben utilizar un esquema de colores con un color único por cara en su estado resuelto. Cada variación de un puzzle debe tener movimientos, estados y soluciones funcionalmente idénticos a los del puzzle original.
@@ -152,8 +152,8 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
     - 3k1) Si se encuentra un puzzle no permitido durante una ronda, el competidor no debe continuar usando dicho puzzle, y debe proporcionar un reemplazo.
     - 3k2) Penalización para los intentos realizados con puzzles no permitidos: descalificación del intento (DNF). Aplican las siguientes excepciones:
         - 3k2a) Si el puzzle no permitido se encuentra antes de que la ronda termine, los resultados afectados en la misma ronda pueden ser reemplazados por intentos extra, a discreción del delegado de la WCA.
-        - 3k2b) Para la categoría "Múltiples cubos 3x3x3 a ciegas", si un puzzle resulta no permitido, dicho puzzle puede ser individualmente contado como no resuelto (sin descalificar el intento entero), a discreción del delegado de la WCA.
-- 3l) Un puzzle puede tener uno o más logotipos en una parte coloreada. En caso de tenerlo, debe tener como máximo una sola parte coloreada con uno o múltiples logotipos. Excepción: para las categorías a ciegas, el puzzle no debe tener ningún logotipo.
+        - 3k2b) Para la categoría Múltiples 3x3x3 a Ciegas, si un puzzle resulta no permitido, dicho puzzle puede ser individualmente contado como no resuelto (sin descalificar el intento entero), a discreción del delegado de la WCA.
+- 3l) Un puzzle puede tener uno o más logotipos en una parte coloreada. En caso de tenerlo, debe tener como máximo una sola parte coloreada con uno o múltiples logotipos. Excepción: para las categorías 4x4x4 a Ciegas, 5x5x5 a Ciegas y Múltiples 3x3x3 a Ciegas, el puzzle no debe tener ningún logotipo.
     - 3l1) El logo debe estar puesto en una pieza central. Excepciones para los puzzles que no tienen piezas centrales:
         - 3l1a) Para Pyraminx y 2x2x2, el logo puede estar en cualquier pieza.
         - 3l1b) Para Square-1, el logo debe estar en una pieza de la capa ecuatorial.
@@ -246,12 +246,12 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
     - 9b4) 3x3x3 en Menos Movimientos (Fewest Moves).
         - 9b4a) Formato de ronda completo para esta categoría: "Mejor de X" (donde X es 1 o 2) o "Media de 3".
         - 9b4b) Formato de corte (o tope) para esta categoría: fase de corte "Mejor de 1" para "Mejor de 2" o fase de corte "Mejor de X" (donde X es 1 o 2) para "Media de 3".
-    - 9b5) Múltiples cubos 3x3x3 a ciegas.
+    - 9b5) Múltiples 3x3x3 a Ciegas.
         - 9b5a) Formato de ronda completo para esta categoría: "Mejor de X" (donde X es 1, 2 o 3).
         - 9b5b) Formato de corte (o tope) para esta categoría: fase de corte "Mejor de X" (donde X es 1 o 2) para "Mejor de Y" (donde Y es 2 o 3, e Y > X).
 - 9f) Los resultados de una ronda se miden como sigue:
-    - 9f1) Todos los resultados cronometrados por debajo de 10 minutos se miden y se truncan hasta las centésimas de segundo (a excepción de la categoría Múltiples Cubos 3x3x3 a Ciegas). Todas las medias y promedios por debajo de 10 minutos se miden y se redondean a la centésima de segundo más cercana.
-    - 9f2) Todos los resultados, promedios y medias por encima de 10 minutos, como también todos los tiempos para la categoría Múltiples cubos 3x3x3 a Ciegas, se miden y se redondean al segundo más cercano (p.ej. X.49 se convierte en X, X.5 se convierte en X+1).
+    - 9f1) Todos los resultados cronometrados por debajo de 10 minutos se miden y se truncan hasta las centésimas de segundo (a excepción de la categoría Múltiples 3x3x3 a Ciegas). Todas las medias y promedios por debajo de 10 minutos se miden y se redondean a la centésima de segundo más cercana.
+    - 9f2) Todos los resultados, promedios y medias por encima de 10 minutos, como también todos los tiempos para la categoría Múltiples 3x3x3 a Ciegas, se miden y se redondean al segundo más cercano (p.ej. X.49 se convierte en X, X.5 se convierte en X+1).
     - 9f4) El resultado de un intento se anota como DNF (no terminó) si el intento se descalifica o está sin acabar/resolver.
         - 9f4a) Si el competidor rompe una regla y es suficientemente claro que el intento debe ser descalificado, el juez debería detener el intento inmediatamente. Si el juez no está seguro o si una disputa podría llegar a ser disruptiva (p.ej. porque un intento extra podría retrasar la competencia), el juez debería consultar al delegado de la WCA.
     - 9f5) El resultado de un intento se anota como DNS (no empezó) si el competidor puede hacer el intento pero lo rechaza.
@@ -264,7 +264,7 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
     - 9f12) Para rondas con formato "Mejor de X", la posición se asigna basándose en el mejor resultado de cada competidor. Las siguientes reglas se usan para comparar resultados:
         - 9f12a) Para resultados cronometrados "mejor" se define como el tiempo más corto.
         - 9f12b) Para la categoría de menos movimientos, "mejor" se define como la solución más corta.
-        - 9f12c) Para la categoría de múltiples cubos 3x3x3 a ciegas, la posición se asigna según el número de cubos resueltos menos el de cubos sin resolver, donde un mayor resultado es mejor. Si ese resultado es menor que 0, o si solo se resuelve 1 puzzle, el intento se considerará como un DNF. Si varios competidores obtienen el mismo resultado, la posición se asigna según el tiempo total, donde el menor tiempo cronometrado es el mejor. Si los competidores tienen el mismo resultado con el mismo tiempo, la posición se basa en el número de puzzles que los competidores fallaron, donde un menor número de cubos sin resolver es mejor.
+        - 9f12c) Para la categoría de Múltiples 3x3x3 a Ciegas, la posición se asigna según el número de cubos resueltos menos el de cubos sin resolver, donde un mayor resultado es mejor. Si ese resultado es menor que 0, o si solo se resuelve 1 puzzle, el intento se considerará como un DNF. Si varios competidores obtienen el mismo resultado, la posición se asigna según el tiempo total, donde el menor tiempo cronometrado es el mejor. Si los competidores tienen el mismo resultado con el mismo tiempo, la posición se basa en el número de puzzles que los competidores fallaron, donde un menor número de cubos sin resolver es mejor.
     - 9f13) Para rondas con formato "Media de 3" y "Promedio de 5", la posición se asigna según el promedio o media, donde "mejor" es el tiempo más corto.
     - 9f14) Para rondas con formato "Media de 3" y "Promedio de 5", si dos o más competidores obtienen un promedio/media idéntico, se asignará la posición dependiendo del mejor intento de cada competidor, donde "mejor" es el tiempo más corto.
     - 9f15) Los competidores que obtengan el mismo resultado en una ronda tienen la misma posición en la ronda.
@@ -385,9 +385,9 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
 - A1) Los intentos de Speed Solving deben cumplir con el siguiente procedimiento.
     - A1a) El equipo organizador debe aplicar al menos un tipo de límite de tiempo (tiempo límite por intento y/o acumulativo) para cada ronda.
         - A1a1) El tiempo límite por defecto de cada intento en una ronda es de 10 minutos, aunque el equipo de organizadores puede anunciar un límite más alto o más bajo por intento. En este caso, el tiempo límite debe ser el mismo para todos los intentos de la ronda.
-        - A1a2) Para todos las categorías que no sean 3x3x3 en Menos Movimientos (FMC) ni Múltiples Cubos 3x3x3 a Ciegas, el equipo organizador puede definir un tiempo límite acumulativo. Este debe: o aplicar a todos los intentos de una ronda (p.ej. 3 intentos con un tiempo límite acumulativo de 20 minutos), o a todos los intentos de una combinación de rondas de diferentes categorías. En este caso, el tiempo límite para un intento en particular es el tiempo límite o el tiempo límite acumulativo menos el tiempo total en otros intentos que cuentan para el límite de tiempo hasta el momento (ver [Regla A1a5](regulations:regulation:A1a5)), el que sea menor. Una ronda debe tener como máximo un solo tiempo límite acumulativo.
+        - A1a2) Para todos las categorías que no sean 3x3x3 en Menos Movimientos (FMC) ni Múltiples 3x3x3 a Ciegas, el equipo organizador puede definir un tiempo límite acumulativo. Este debe: o aplicar a todos los intentos de una ronda (p.ej. 3 intentos con un tiempo límite acumulativo de 20 minutos), o a todos los intentos de una combinación de rondas de diferentes categorías. En este caso, el tiempo límite para un intento en particular es el tiempo límite o el tiempo límite acumulativo menos el tiempo total en otros intentos que cuentan para el límite de tiempo hasta el momento (ver [Regla A1a5](regulations:regulation:A1a5)), el que sea menor. Una ronda debe tener como máximo un solo tiempo límite acumulativo.
         - A1a3) Los tiempos límite para todas las rondas se deben anunciar antes de la competencia, y no deberían cambiarse después de que ha comenzado alguna de las rondas afectadas. Los cambios deben hacerse a discreción del delegado de la WCA, quien debe considerar cuidadosamente si el cambio es justo.
-        - A1a4) El competidor debe acabar cada intento antes del tiempo límite. Si un competidor alcanza el tiempo límite de un intento, el juez para el tiempo de inmediato y lo anota como un DNF. Excepción: Múltiples Cubos 3x3x3 a Ciegas (ver [Regla H1b1](regulations:regulation:H1b1)).
+        - A1a4) El competidor debe acabar cada intento antes del tiempo límite. Si un competidor alcanza el tiempo límite de un intento, el juez para el tiempo de inmediato y lo anota como un DNF. Excepción: Múltiples 3x3x3 a Ciegas (ver [Regla H1b1](regulations:regulation:H1b1)).
         - A1a5) El tiempo que se considera para el tiempo límite es: o el resultado después de que las penalizaciones son aplicadas (si el resultado no es DNF), o el tiempo que duró la resolución (si el resultado es DNF).
     - A1b) Si el tiempo límite para un intento es mayor a 10 minutos, se debe utilizar un cronómetro de mano para medir el tiempo.
         - A1b1) Debe utilizarse un cronómetro Stackmat además del cronómetro de mano. Excepción: para categorías que no tienen inspección, donde se espera que el competidor haga más de 10 minutos, el uso del cronómetro Stackmat es opcional.
