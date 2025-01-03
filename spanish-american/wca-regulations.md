@@ -1,6 +1,6 @@
 # <wca-title>Reglamento WCA (Español Americano)
 
-<version> Versión: 1 de enero de 2024
+<version> Versión: 1 de enero de 2025
 
 
 ## Notas
@@ -42,7 +42,6 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
 - 1a) Una competencia debe incluir un delegado de la WCA y un equipo organizador (que conste de una o más personas) con los siguientes miembros: jueces, mezcladores (los que hacen las mezclas o “scrambles”) y encargados de recoger y compilar los resultados.
 - 1b) El equipo organizador es el responsable de la logística y el buen funcionamiento de la competencia antes, durante y después de la misma.
 - 1c) El delegado de la WCA es responsable de asegurar que la competencia se adhiere al Reglamento y a cualquier política o requerimiento de la WCA aplicables. El delegado de la WCA puede delegar responsabilidades a otros miembros del equipo de organizadores, pero es el responsable en última instancia de cómo se llevan a cabo esas responsabilidades.
-    - 1c1) El delegado de la WCA debe asegurarse que la competición cumple con la [Política de Confidencialidad de Mezclas de la WCA](https://documents.worldcubeassociation.org/documents/policies/external/Scramble%20Accountability.pdf).
 - 1e) Cada categoría debe tener uno o más jueces.
     - 1e1) Un juez es responsable de ejecutar los procedimientos de la categoría.
         - 1e1a)  Un juez puede juzgar a varios competidores simultáneamente, a discreción del delegado de la WCA, siempre y cuando el juez pueda asegurarse de que se cumpla el reglamento de la WCA en todo momento.
@@ -54,7 +53,9 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
     - 1g1) Un encargado de recoger resultados es responsable de compilar los resultados.
     - 1g2) Los cambios a los resultados en una hoja de tiempos solo están permitidos a discreción del delegado de la WCA.
 - 1h) Los competidores en la misma ronda de una categoría pueden competir como un solo grupo o ser divididos en múltiples grupos.
-    - 1h1) Los mezcladores de una ronda no deberán mezclar o ser juez para participantes de su propio grupo antes de haber acabado todos sus intentos en esa ronda. Pueden mezclar y ser juez a competidores de su propio grupo a discreción del delegado de la WCA, pero el equipo organizador debe asegurarse que los mezcladores y los jueces no puedan ver ninguna mezcla de sus intentos que no hayan realizado aún (ver [Regla 4b2](regulations:regulation:4b2)).
+    - 1h1) Los mezcladores y jueces de una ronda no deben mezclar ni ser jueces para su propio grupo antes de haber acabado todos sus intentos la ronda en cuestión. Aplican las siguientes excepciones:
+        - 1h1a) Para 3x3x3 en Menos Movimientos, los jueces pueden juzgar a otros competidores en su mismo grupo antes de haber terminado su intento.
+        - 1h1b) Para Múltiples Cubos a Ciegas, los jueces pueden juzgar a otros competidores en su mismo grupo después de haber terminado con su intento.
 - 1j) Todos los miembros oficiales pueden participar en la competencia.
 - 1k) Los miembros oficiales pueden cumplir varias funciones (p.ej. miembro de la organización, delegado, juez, mezclador, encargado de recoger resultados).
 
@@ -67,28 +68,30 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
     - 2a3) La WCA no le suspendió la participación.
     - 2a4) Cumple con todas las medidas sanitarias razonables que el delegado de la WCA considere necesarias. Estas medidas deben ser anunciadas de forma clara antes de la competencia.
 - 2b) Los competidores menores de 18 años deben tener el consentimiento de su(s) padre(s)/tutor(es) para inscribirse y competir.
-- 2c) Los competidores se inscribirán proporcionando toda la información requerida por el equipo organizador (incluyendo: nombre, región de representación, fecha de nacimiento, género, información de contacto, categorías seleccionadas).
+- 2c) Los competidores se inscribirán proporcionando toda la información requerida por el equipo organizador (incluyendo: nombre, nacionalidad, fecha de nacimiento, género, información de contacto, categorías seleccionadas).
     - 2c1) Un competidor no podrá competir sin una inscripción completa, como haya sido determinada por el equipo organizador.
-    - 2c2) Los competidores recurrentes deben proporcionar información personal coherente con su perfil de la WCA. Si un competidor desea cambiar o actualizar su información personal entre competencias (p.ej. cambio de región de representación, nombre o género), debe [contactar al WCA Results Team](https://www.worldcubeassociation.org/contact?contactRecipient=wrt) directamente o a través de un delegado de la WCA.
-- 2d) El nombre, región, género y resultados de un competidor son considerados información pública. Cualquier otra información personal es considerada confidencial y no debe ser revelada a otras organizaciones/personas sin el consentimiento del competidor.
-- 2e) Los competidores deben representar a una región de la cual tengan ciudadanía. El delegado de la WCA debería verificar la ciudadanía mediante documentos (p.ej. pasaporte) en la primera competencia a la que asista el competidor. Si un competidor no puede representar a la región bajo la cual se ha registrado, el competidor puede ser descalificado y/o suspendido, a discreción de la Junta Directiva de la WCA (WCA Board).
-    - 2e1) Las regiones de representación elegibles están definidas en la [Lista de Regiones Reconocidas por la WCA](https://www.worldcubeassociation.org/regulations/countries/).
-    - 2e2) Los competidores solo pueden cambiar su región de representación antes o durante su primera competencia del año civil.
-        - 2e2a) Excepción: si el competidor pierde la ciudadanía de la región a la cual estaba representando, debe cambiar su región de representación antes o durante su próxima competencia (ver [Regla 2c2](regulations:regulation:2c2)).
-        - 2e2b) Excepción: si el competidor ha adquirido una nueva ciudadanía durante el año civil, puede cambiar su región de representación en cualquier momento entre competencias para que coincida con su nueva ciudadanía.
+    - 2c2) Los competidores recurrentes deben proporcionar información personal coherente con su perfil de la WCA. Si un competidor desea cambiar o actualizar su información personal entre competencias (p.ej. cambio de nacionalidad, nombre o género), debe [contactar al WCA Results Team](https://www.worldcubeassociation.org/contact?contactRecipient=wrt) directamente o a través de un delegado de la WCA.
+- 2d) El nombre, nacionalidad, género y resultados de un competidor son considerados información pública. Cualquier otra información personal es considerada confidencial y no debe ser revelada a otras organizaciones/personas sin el consentimiento del competidor.
+- 2e) Los competidores deben representar a un país del cual tengan ciudadanía. El delegado de la WCA debería verificar la ciudadanía mediante documentos o fotos de los mismos (p.ej. pasaporte) en la primera competencia a la que asista el competidor. Si un competidor no puede representar al país bajo el cual se ha registrado, el competidor puede ser descalificado y/o suspendido, a discreción de la Junta Directiva de la WCA (WCA Board).
+    - 2e1) Los países elegibles están definidos en la [Lista de Países Reconocidos por la WCA](https://www.worldcubeassociation.org/regulations/countries/).
+    - 2e2) Los competidores pueden cambiar su nacionalidad antes o después de cualquier competencia (ver [Regla 2c2](regulations:regulation:2c2)), siempre y cuando haya transcurrido al menos un año desde su último cambio de nacionalidad.
+        - 2e2a) Excepción: si el competidor pierde la ciudadanía del país al cual estaba representando, debe cambiar su nacionalidad antes o durante su próxima competencia (ver [Regla 2c2](regulations:regulation:2c2)).
+        - 2e2b) Excepción: si el competidor ha adquirido una nueva ciudadanía durante el año civil, puede cambiar nacionalidad antes o durante su próxima competencia.
     - 2e3) Los competidores que no tienen ciudadanía pueden competir como "Stateless" (apátrida, sin nacionalidad).
 - 2f) Los competidores deben seguir las reglas del local y comportarse decentemente.
 - 2g) Los competidores deben permanecer tranquilos cuando estén dentro del área de competencia. Hablar está permitido, pero debe mantenerse a un volumen razonable, y lejos de los competidores que estén compitiendo activamente.
-    - 2g3) Los competidores de un grupo en progreso no deben comunicarse sobre las mezclas del grupo, a no ser que los involucrados hayan terminado con todos sus intentos del grupo. Penalización: descalificación del/los competidor/es de la categoría, a discreción del delegado de la WCA. Excepción: En 3x3x3 En Menos Movimientos, los competidores que terminaron con su intento pueden compartir la secuencia de mezcla con cualquiera que no esté compitiendo activamente en el mismo intento.
+    - 2g3) Los competidores de un grupo en progreso no deben comunicarse sobre las mezclas del grupo, a no ser que los involucrados hayan terminado con todos sus intentos del grupo. Penalización: descalificación del/los competidor/es de la categoría, a discreción del delegado de la WCA. Excepción: En 3x3x3 en Menos Movimientos, los competidores que terminaron con su intento pueden compartir y discutir sobre la secuencia de mezcla con otros competidores del grupo que hayan terminado o declinado su intento.
+        - 2g3a) Para aquellas rondas donde los resultados se estén publicando en vivo, el equipo organizador puede requerir que los competidores no tengan permitido ver los resultados de su grupo hasta que hayan terminado con todos sus intentos de la ronda.
 - 2h) Los competidores deben estar vestidos apropiadamente mientras estén en el local de la competencia. A discreción del delegado de la WCA, un competidor puede ser descalificado de la competencia por utilizar una vestimenta inapropiada.
-- 2i) Mientras se encuentre en la fase de inspección o en la fase de resolución, un competidor no debe utilizar auriculares ni otros aparatos electrónicos (p.ej. teléfonos móviles, reproductores MP3, iluminación adicional), aparte del timer Stackmat o el cronómetro. Penalización: descalificación del intento (DNF).
+- 2i) Mientras se encuentre en la fase de inspección o en la fase de resolución, un competidor no debe utilizar aparatos electrónicos (p.ej. teléfonos móviles, auriculares, iluminación adicional), aparte del timer Stackmat o el cronómetro. Penalización: descalificación del intento (DNF). Cualquier objeto que contenga algún componente electrónico se considera como aparato electrónico.
     - 2i1) Los competidores pueden utilizar determinados dispositivos no-electrónicos mientras éstos no le den una ventaja injusta, a discreción del delegado de la WCA. Esto incluye:
         - 2i1a) Ayudas médicas/físicas que el competidor traiga puestas (p.ej. lentes, muñequeras) Como una excepción a la [Regla 2i](regulations:regulation:2i), las ayudas médicas pueden ser electrónicas si el competidor no tiene ninguna alternativa cómoda que no sea electrónica (p.ej. si el competidor tiene un aparato que lo ayuda a escuchar o un marcapasos).
         - 2i1b) Tapones para los oídos y orejeras (a excepción de auriculares con cancelación electrónica de ruido).
-        - 2i1c) Calentadores de manos.
+        - 2i1c) Calentadores de manos no-electrónicos.
         - 2i1d) Comida y bebida.
-    - 2i2) Los competidores pueden utilizar cámaras en la estación de resolución a discreción del delegado de la WCA, pero se aplican las siguientes restricciones desde el inicio del intento hasta que el competidor para su resolución. Penalización por romper una restricción: descalificación del intento (DNF).
-        - 2i2a) Las pantallas de las cámaras deben estar en blanco o fuera de la vista del competidor (ver [Regla A5b](regulations:regulation:A5b)).
+    - 2i2) Los competidores pueden utilizar cámaras y/o micrófonos en la estación de resolución a discreción del delegado de la WCA, pero aplican las siguientes restricciones desde el inicio del intento hasta que el competidor finaliza la resolución. Penalización por romper una restricción: descalificación del intento (DNF).
+        - 2i2a) Las pantallas de las cámaras deben estar en blanco (o apagadas) o fuera de la vista del competidor. Excepción: si se descubre un monitor activo visible para el competidor, no es necesario descalificar los intentos completados si el competidor no recibió ninguna ventaja, a discreción del delegado de la WCA (ver [Regla A5b](regulations:regulation:A5b)). Sin embargo, al competidor no se le debe permitir que continúe utilizando el monitor de tal forma para el resto de sus intentos.
+        - 2i2c) El competidor no debe presionar ningún botón en estos dispositivos (p.ej. para iniciar o detener la grabación).
     - 2i4) Mientras compiten, los competidores deberían desactivar todas las notificaciones del teléfono móvil, para evitar molestar al resto de los competidores.
 - 2j) El delegado de la WCA puede descalificar a un competidor de ciertos intentos y/o categorías.
     - 2j1) Si un competidor es descalificado de una categoría por cualquier motivo, no tendrá la opción de realizar ningún intento más en dicha categoría.
@@ -106,7 +109,7 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
 - 2l) Un competidor puede ser descalificado inmediatamente, o después de un aviso, dependiendo de la naturaleza y la gravedad de la infracción.
     - 2l1) Un competidor que ha sido descalificado no puede pedir el reembolso de los gastos en los que haya incurrido por participar en la competencia.
 - 2n) Los competidores pueden discutir verbalmente la aplicación de una regla con el delegado de la WCA.
-    - 2n1) Las discusiones solo se permiten durante la competencia (ver [Regla 9u](regulations:regulation:9u)), antes de transcurridos los 30 minutos desde que ocurrió el incidente en cuestión; o antes de que comience la siguiente ronda de la categoría.
+    - 2n1) Las discusiones solo se permiten durante la competencia (ver [Regla 9u](regulations:regulation:9u)), antes de transcurridos los 30 minutos desde que ocurrió el incidente en cuestión y antes de que comience la siguiente ronda de la categoría.
     - 2n2) El delegado de la WCA debe resolver la discusión antes de que comience la siguiente ronda de la categoría.
     - 2n3) El competidor debe aceptar la decisión final tomada por el delegado de la WCA. Penalización: descalificación de la competencia.
 - 2s) Los competidores con condiciones (p.ej. condiciones funcionales) que les impidan cumplir con una o más reglas de la WCA, pueden solicitar adaptaciones especiales al delegado de la WCA. Los competidores que requieran estas adaptaciones deberían ponerse en contacto con el equipo organizador y el delegado de la WCA al menos dos semanas antes de la competencia.
@@ -240,7 +243,7 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
     - 9b3) Cubo de 3x3x3 a ciegas, 4x4x4 a ciegas y Cubo 5x5x5 a ciegas.
         - 9b3a) Formato de ronda completo para estas categorías: "Mejor de 3".
         - 9b3b) Para estas categorías, la WCA también reconoce “Media de 3” y records basados en los tiempos de las rondas de “Mejor de 3”.
-    - 9b4) 3x3x3 en menos movimientos (Fewest Moves).
+    - 9b4) 3x3x3 en Menos Movimientos (Fewest Moves).
         - 9b4a) Formato de ronda completo para esta categoría: "Mejor de X" (donde X es 1 o 2) o "Media de 3".
         - 9b4b) Formato de corte (o tope) para esta categoría: fase de corte "Mejor de 1" para "Mejor de 2" o fase de corte "Mejor de X" (donde X es 1 o 2) para "Media de 3".
     - 9b5) Múltiples cubos 3x3x3 a ciegas.
@@ -382,7 +385,7 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
 - A1) Los intentos de Speed Solving deben cumplir con el siguiente procedimiento.
     - A1a) El equipo organizador debe aplicar al menos un tipo de límite de tiempo (tiempo límite por intento y/o acumulativo) para cada ronda.
         - A1a1) El tiempo límite por defecto de cada intento en una ronda es de 10 minutos, aunque el equipo de organizadores puede anunciar un límite más alto o más bajo por intento. En este caso, el tiempo límite debe ser el mismo para todos los intentos de la ronda.
-        - A1a2) Para todos las categorías que no sean 3x3x3 En Menos Movimientos (FMC) ni Múltiples Cubos 3x3x3 a Ciegas, el equipo organizador puede definir un tiempo límite acumulativo. Este debe: o aplicar a todos los intentos de una ronda (p.ej. 3 intentos con un tiempo límite acumulativo de 20 minutos), o a todos los intentos de una combinación de rondas de diferentes categorías. En este caso, el tiempo límite para un intento en particular es el tiempo límite o el tiempo límite acumulativo menos el tiempo total en otros intentos que cuentan para el límite de tiempo hasta el momento (ver [Regla A1a5](regulations:regulation:A1a5)), el que sea menor. Una ronda debe tener como máximo un solo tiempo límite acumulativo.
+        - A1a2) Para todos las categorías que no sean 3x3x3 en Menos Movimientos (FMC) ni Múltiples Cubos 3x3x3 a Ciegas, el equipo organizador puede definir un tiempo límite acumulativo. Este debe: o aplicar a todos los intentos de una ronda (p.ej. 3 intentos con un tiempo límite acumulativo de 20 minutos), o a todos los intentos de una combinación de rondas de diferentes categorías. En este caso, el tiempo límite para un intento en particular es el tiempo límite o el tiempo límite acumulativo menos el tiempo total en otros intentos que cuentan para el límite de tiempo hasta el momento (ver [Regla A1a5](regulations:regulation:A1a5)), el que sea menor. Una ronda debe tener como máximo un solo tiempo límite acumulativo.
         - A1a3) Los tiempos límite para todas las rondas se deben anunciar antes de la competencia, y no deberían cambiarse después de que ha comenzado alguna de las rondas afectadas. Los cambios deben hacerse a discreción del delegado de la WCA, quien debe considerar cuidadosamente si el cambio es justo.
         - A1a4) El competidor debe acabar cada intento antes del tiempo límite. Si un competidor alcanza el tiempo límite de un intento, el juez para el tiempo de inmediato y lo anota como un DNF. Excepción: Múltiples Cubos 3x3x3 a Ciegas (ver [Regla H1b1](regulations:regulation:H1b1)).
         - A1a5) El tiempo que se considera para el tiempo límite es: o el resultado después de que las penalizaciones son aplicadas (si el resultado no es DNF), o el tiempo que duró la resolución (si el resultado es DNF).
