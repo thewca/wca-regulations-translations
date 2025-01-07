@@ -1,6 +1,6 @@
 # <wca-title>Wytyczne WCA
 
-<version>Wersja: January 1, 2024
+<version>Wersja: Styczeń 1, 2024
 
 
 ## Notatki
@@ -91,7 +91,7 @@ Wytyczne są numerowane odpowiednio do punktów regulaminu, które uzupełniają
 
 ## <article-4><scrambling><scrambling> Artykuł 4: Mieszanie
 
-- 4b1+) [PRZYPOMNIENIE] Delegat WCA nigdy nie może ponownie generować algorytmów mieszających w celu ich filtracji. Przykładowo, nie jest dozwolone oglądanie algorytmów mieszających dla zawodów i generowanie nowego zestawu w celu uzyskania „bardziej uczciwych” algorytmów mieszających. 
+- 4b1+) [PRZYPOMNIENIE] Delegat WCA nigdy nie może ponownie generować algorytmów mieszających w celu ich filtracji. Przykładowo, nie jest dozwolone oglądanie algorytmów mieszających dla zawodów i generowanie nowego zestawu w celu uzyskania „bardziej uczciwych” algorytmów mieszających.
 - 4b2+) [WYJAŚNIENIE] Generalnie, wszystkie algorytmy mieszające powinny być trzymane w sekrecie podczas zawodów i publikowane wszystkie razem po zawodach. W niektórych przypadkach (np. rekord świata), zespół organizacyjny może poprosić o opublikowanie danego algorytmu mieszającego po zakończeniu rundy.
 - 4b2++) [DODATEK] Organizatorzy zawodów powinni upewnić się, że mieszacze, sekwencje mieszające oraz częściowo/całkowicie zakodowane łamigłówki są wizualnie odizolowane od zawodników (zob. [Punkt A2c](regulations:regulation:A2c)). Na przykład, mieszacze mogą znajdować się za ścianą lub można użyć wystarczająco wysokiej przegrody (np. kartonowej przegrody umieszczonej wokół boków stołu, przy którym siedzą mieszacze), aby zawodnicy nie byli w stanie zobaczyć układanek, gdy mieszacze stosują sekwencje mieszające.
 - 4b4+) [WYJAŚNIENIE] Wszystkie próby, które zostały rozpoczęte w ramach czasowych, przebiegają zgodnie ze standardową procedurą rozwiązywania (tj. nie są zatrzymywane po wygaśnięciu ram czasowych odpowiedniej sekwencji mieszania).
@@ -122,7 +122,7 @@ Wytyczne są numerowane odpowiednio do punktów regulaminu, które uzupełniają
 
 ## <article-9><events><events> Artykuł 9: Konkurencje
 
-- 9b+) [DODATEK] W przypadku konkurencji z wieloma rundami, każda runda po pierwszej rundzie (zwłaszcza runda finałowa) powinna być "Średnią z 5" lub "Średnią z 3", jeśli jeden z tych formatów jest prawidłowy. 
+- 9b+) [DODATEK] W przypadku konkurencji z wieloma rundami, każda runda po pierwszej rundzie (zwłaszcza runda finałowa) powinna być "Średnią z 5" lub "Średnią z 3", jeśli jeden z tych formatów jest prawidłowy.
 - 9b++) [DODATEK] Inne konkurencje niż wymienione w [Punktem 9b](regulations:regulation:9b) mogą być prowadzone podczas zawodów, ale będą uważane jako nieoficjalne i co za tym idzie, nie będą uwzględnione w oficjalnych wynikach z zawodów.
 - 9b3b+) [WYJAŚNIENIE] „Średnia z 3” nie wpływa na pozycję zawodnika w rankingu rundy z formatem „Najlepszy z 3”. WCA bierze pod uwagę ten wynik całkowicie poza formatem zawodów.
 - 9f1+) [PRZYKŁAD] Jeżeli wyświetlacz pokazuje czas 12.678, wpisywany czas to 12.67 (odrzucamy trzecie miejsce po przecinku). Sędzia może wpisać czas z dokładnością do tysiącznych sekundy (oraz pamiętać o dokładności w liczeniu kar), dopóki rejestrator wyników sam wyrzuci trzecią cyfrę po przecinku.
@@ -173,15 +173,15 @@ Wytyczne są numerowane odpowiednio do punktów regulaminu, które uzupełniają
 - A1a+) [WYJAŚNIENIE] Jeśli stosowane są oba limity, limit czasu na próbę nie może być większy niż łączny limit czasu.
 - A1a2+) [DODATEK] W przypadku limitu kumulowanego, sędzia zapisując wynik DNF, na karcie startowej zapisuje w nawiasie również osiągnięty czas np. „DNF (1:02.27)”.
 - A1a2++) [PRZYKŁAD] Jeśli runda ma tylko łączny limit czasu wynoszący 30 minut, a wyniki zawodnika w pierwszych dwóch próbach to 6:00 i DNF (10:00), wówczas limit czasu dla trzeciej próby wynosi 30:00 - 6:00 - 10:00 = 14:00. W tym konkretnym przykładzie należy pamiętać, że liczy się tylko ostateczny wynik próby. Dlatego trzecia próba z pierwotnie zarejestrowanym czasem 13:59 bez kar spełnia limit czasu, ponieważ ostateczny wynik to 13:59 (zob. [Punkt 9f2](regulations:regulation:9f2)), podczas gdy trzecia próba z wynikiem 13:59 + 2 = 14:01 nie spełnia limitu czasu.
-- A1a2+++) [DODATEK] Jeśli wynik próby jest niedostępny (np. timer został zresetowany), sędzia powinien skonsultować się z Delegatem WCA i oszacować czas, jaki upłynął do zakończenia próby. Ten szacunkowy czas wlicza się do limitu czasu, ale nie może być wykorzystywany jako podstawa oficjalnego wyniku dla danej próby. 
+- A1a2+++) [DODATEK] Jeśli wynik próby jest niedostępny (np. timer został zresetowany), sędzia powinien skonsultować się z Delegatem WCA i oszacować czas, jaki upłynął do zakończenia próby. Ten szacunkowy czas wlicza się do limitu czasu, ale nie może być wykorzystywany jako podstawa oficjalnego wyniku dla danej próby.
 - A1a2++++) [PRZYKŁAD] Jeśli runda ma łączny limit czasu 20 minut i limit czasu 8 minut, a wyniki zawodnika z dwóch pierwszych prób to 7:00 i 7:30, wówczas limit czasu dla trzeciej próby to najniższy czas z 20:00 - 7:00 - 7:30 = 5:30 i 8:00, tj. 5:30.
-- A1a2+++++) [WYJAŚNIENIE] Jeśli zawodnik osiągnie łączny limit czasu, wynik każdej z jego pozostałych prób w rundzie zostanie zapisany jako DNS (Did Not Start).  
+- A1a2+++++) [WYJAŚNIENIE] Jeśli zawodnik osiągnie łączny limit czasu, wynik każdej z jego pozostałych prób w rundzie zostanie zapisany jako DNS (Did Not Start).
 - A1a2++++++) [WYJAŚNIENIE] Jeśli łączny limit czasu ma zastosowanie do kombinacji rund dla różnych konkurencji, kolejność wykonywania prób jest kolejnością, w której próby te liczą się do łącznego limitu czasu.
 - A1a3+) [PRZYPOMNIENIE] Zespół organizacyjny oraz delegat WCA, muszą pamiętać, że limity czasowe mają wpływ na strategie zawodników (np. szczególny nacisk na 2 pierwsze ułożenia w nadziei o osiągnięcie limitu w konkurencjach kombinowanych). Zmiana limitów czasowych po rozpoczęciu konkurencji może być demotywująca i niesprawiedliwa.
 - A1a4+) [PRZYPOMNIENIE] Jeżeli zawodnikowi przez przypadek pozwolono przekroczyć limit czasowy, wówczas należy ponownie zastosować limit z mocą wsteczną, a zawodnik, sędzia oraz delegat WCA, muszą być o tym poinformowani. (zob. [Punkt 1g2](regulations:regulation:1g2)). Sędzia zawsze musi wiedzieć, jaki jest limit czasowy w danej próbie (zwłaszcza w sytuacji, kiedy może on zależeć od poprzednich wyników w konkurencjach z limitem kumulowanym).
 - A2c1+) [PRZYPOMNIENIE] W przeszłości karty startowe służyły do zasłaniania kostki, pozostawiając kilka stron odsłoniętych. Dzisiaj jest to zabronione.
-- A2d1+) [DODATEK] Jeśli przed próbą okaże się, że brakuje podpisu pod pomieszaniem, łamigłówkę należy natychmiast zwrócić mieszaczowi w celu weryfikacji i dodania odpowiedniego podpisu. 
-- A2d1++) [DODATEK] Próba nie może zostać zdyskwalifikowana wyłącznie z powodu braku podpisu pod pomieszaniem. Jeśli po rozpoczęciu próby brakuje podpisu pod pomieszaniem, sędzia musi zezwolić na kontynuowanie próby (jeśli nadal trwa), a Delegat WCA powinien zezwolić na utrzymanie wyniku. Delegat WCA może jednak zastąpić próbę dodatkową próbą, jeśli ma powód (inny niż brak podpisu), aby podejrzewać, że pomieszanie było nieprawidłowe. 
+- A2d1+) [DODATEK] Jeśli przed próbą okaże się, że brakuje podpisu pod pomieszaniem, łamigłówkę należy natychmiast zwrócić mieszaczowi w celu weryfikacji i dodania odpowiedniego podpisu.
+- A2d1++) [DODATEK] Próba nie może zostać zdyskwalifikowana wyłącznie z powodu braku podpisu pod pomieszaniem. Jeśli po rozpoczęciu próby brakuje podpisu pod pomieszaniem, sędzia musi zezwolić na kontynuowanie próby (jeśli nadal trwa), a Delegat WCA powinien zezwolić na utrzymanie wyniku. Delegat WCA może jednak zastąpić próbę dodatkową próbą, jeśli ma powód (inny niż brak podpisu), aby podejrzewać, że pomieszanie było nieprawidłowe.
 - A2d1+++) [PRZYPOMNIENIE] Chociaż delegat WCA może zezwolić na zaliczenie kilku pojedynczych prób z brakującymi podpisami pod pomieszaniem, powinien upewnić się, że brakujące podpisy pod pomieszaniem nie staną się powszechne.
 - A3c3+) [WYJAŚNIENIE] Zawodnik może zresetować timer przed/w trakcie fazy inspekcji, jeśli sędzia przypadkowo tego nie zrobił. Obowiązkiem sędziego jest jednak upewnienie się, że timer został zresetowany (zob. [Punkt A3b](regulations:regulation:A3b)). Jeśli zawodnik przypadkowo spróbuje rozpocząć rozwiązywanie z timerem, którego sędzia nie zresetował (tj. zawodnik przeprowadza inspekcję, kładzie ręce na timerze Stackmat przez rozsądny czas, zakłada, że timer uruchomi się normalnie i zaczyna rozwiązywać łamigłówkę), próba powinna zostać zastąpiona dodatkową próbą, według uznania Delegata WCA.
 - A3c3++) [WYJAŚNIENIE] Zawodnik nie może "testować" ani "restartować" timera podczas inspekcji, ponieważ inspekcja kończy się w momencie rozpoczęcia rozwiązywania przez zawodnika (zob. [Punkt A4d](regulations:regulation:A4d)). Jeśli zawodnik zatrzyma timer po uruchomieniu go po raz pierwszy, uznaje się to za zatrzymanie rozwiązywania (zob. [Punkt A6](regulations:regulation:A6)), nawet jeśli zrobi to w ciągu 15 sekund od rozpoczęcia inspekcji.
@@ -194,13 +194,11 @@ Wytyczne są numerowane odpowiednio do punktów regulaminu, które uzupełniają
 - A5b+++) [WYJAŚNIENIE] Delegat WCA nie powinien przyznawać dodatkowej próby tylko z powodu tego, że ktoś pomógł zawodnikowi znaleźć element.
 - A6b+) [WYTŁUMACZENIE] Sędziowska wartość 0,06 sekundy została wybrana w celu usystematyzowania nieprawidłowości timera Stackmats.
 - A6e+) [WYJAŚNIENIE] Jeśli łamigłówka upadnie na kolana zawodnika po zatrzymaniu timera, uznaje się to za dotknięcie łamigłówki.
-- A7c+) [DODATEK] Jeżeli podpisany przez zawodnika wynik jest nieczytelny, wówczas należy go domyślnie interpretować w najgorszy sposób. (np. „1:05” powinno zostać poprawione na
-„1:05.99”, „25.X3 powinno zostać zamienione na 25.73 jeżeli zastanawiamy się między 1 a 7.) Biorąc pod uwagę, że Display firmy Speedstack pokazuje X:0Y.ss jako X:Y.ss, brakującą cyfrę
-traktujemy jako pierwszą od lewej (1:2.27 traktujemy jako 1:02.27). Sędzia który zapisał dwuznaczny wynik może zostać poproszony o wyjaśnienia za decyzją rejestratora wyników.
+- A7c+) [DODATEK] Jeżeli podpisany przez zawodnika wynik jest nieczytelny, wówczas należy go domyślnie interpretować w najgorszy sposób. (np. „1:05” powinno zostać poprawione na „1:05.99”, „25.X3 powinno zostać zamienione na 25.73 jeżeli zastanawiamy się między 1 a 7.) Biorąc pod uwagę, że Display firmy Speedstack pokazuje X:0Y.ss jako X:Y.ss, brakującą cyfrę traktujemy jako pierwszą od lewej (1:2.27 traktujemy jako 1:02.27). Sędzia który zapisał dwuznaczny wynik może zostać poproszony o wyjaśnienia za decyzją rejestratora wyników.
 - A7g+) [PRZYKŁAD] Przykłady przewinień za które początkujący zawodnicy mogą otrzymać dodatkowe ułożenie: wystartowanie bez zielonego światła, niewłaściwe startowanie oraz zatrzymywanie timera, przekroczenie czasu preinspekcji wynikające z nieznajomości procedur startowych, lub inne kary czasowe.
 - A7g++) [WYJAŚNIENIE] Nie mogą być uchylane indywidualne kary dla niedoświadczonych zawodników. Należy przyznać pełne dodatkowe ułożenie.
 - A7g+++) [REKOMENDACJA] Delegat WCA musi zachować szczególną uwagę przydzielając nowemu zawodnikowi więcej niż jedno dodatkowe ułożenie. Jeżeli przydzielone jest więcej niż jedno dodatkowe ułożenie musza one być przyznane za różne rodzaje incydentów.
-- A7g++++) [WYJAŚNIENIE] Zawodnik może zostać uznany za niedoświadczonego, jeśli jest nowym zawodnikiem, po raz pierwszy bierze udział w danej konkurencji lub nie brał udziału w danej konkurencji przez dłuższy czas. Brak doświadczenia musi być związany z incydentem.   
+- A7g++++) [WYJAŚNIENIE] Zawodnik może zostać uznany za niedoświadczonego, jeśli jest nowym zawodnikiem, po raz pierwszy bierze udział w danej konkurencji lub nie brał udziału w danej konkurencji przez dłuższy czas. Brak doświadczenia musi być związany z incydentem.
 
 
 ## <article-B><blindfolded><blindfoldedsolving> Artykuł B: Układanie Bez Patrzenia
