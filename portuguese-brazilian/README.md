@@ -18,10 +18,10 @@ The following people helped with the translation:
 
 | English | Português |
 |-|-|
-|must|tem que (ou precisa)|
-|must not|não pode|
-|should|deve|
-|should not|não deve|
+|must|deve|
+|must not|não deve|
+|should|É recomendável que|
+|should not|não é recomendável que|
 |may|pode|
 |i.e.|isso é|
 |e.g.|p. ex.|
@@ -60,7 +60,7 @@ The following people helped with the translation:
 |scramble|embaralhamento|
 |scramble sequence|sequência de embaralhamento|
 |scrambler|embaralhador|
-|see|veja|
+|see|ver|
 |solution|solução|
 |solve|resolução|
 |solved state|estado resolvido|
