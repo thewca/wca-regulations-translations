@@ -154,6 +154,7 @@ Para ser mais informativa, cada Orientação é classificada com um dos seguinte
 - 11e1+) [LEMBRETE] A tentativa adicional precisa ser embaralhada usando uma sequência de embaralhamento não-modificada, gerada por um programa oficial de embaralhamento (ver [Regra 4f](regulations:regulation:4f), [Orientação 4f+](guidelines:guideline:4f+)).
 - 11e2+) [ADIÇÃO] Se uma tentativa adicional levar a outra tentativa adicional, o competidor deve fazer tentativas adicionais até que haja uma tentativa válida para substituir a tentativa original.
 - 11e2++) [EXEMPLO] Suponha que um competidor tem 5 tentativas numeradas regularmente, e a tentativa número 2 leve a várias tentativas adicionais. Ele deve fazer tentativas adicionais até que haja uma tentativa válida para substituir a de número 2. Caso posteriormente outra tentativa leve a tentativa(s) adicional(is), deve ser procedido da mesma forma que para a tentativa número 2.
+- 11j3+) [LEMBRETE] A sequência de embaralhamento utilizada para a tentativa extra não deve ser obtida de um grupo anterior.
 
 
 ## <article-12><notation><notaion> Artigo 12: Notação
