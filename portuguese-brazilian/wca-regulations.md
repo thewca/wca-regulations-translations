@@ -1,6 +1,6 @@
 # <wca-title>Regulamento da WCA (Português Brasileiro)
 
-<version>Versão: 1 de agosto de 2023
+<version>Versão: 1 de janeiro de 2025
 
 
 ## Notas
@@ -9,7 +9,9 @@
 
 Por favor atente-se para o fato de que essa tradução não é uma versão oficial (embora seja disponibilizada no site da WCA): ela pode ser útil, mas não vem com nenhuma garantia. Se houver diferenças entre uma tradução e a versão em inglês (atualmente oficial), esta última deve ser usada.
 
-A WCA usa as palavras "must" e "should", sendo que a primeira indica obrigatoriedade e a segunda uma forte recomendação. O mesmo vale para "must not" (algo que não pode ocorrer) e "should not" (recomendado que não ocorra). A tradução para o português nos dois casos é "deve", mas dessa forma o entendimento fica prejudicado. Assim, "deve" foi usado no lugar de "should", nos casos de "must" foi usado "precisa" ou "tem que", e nos casos de "should not" foi usado "não pode", para adequar a tradução ao conteúdo original.
+A WCA usa as palavras "must", "should", "must not", "should not" e "may", sendo que cada uma possui um significado específico. "Must" indica obrigatoriedade, "should" uma forte recomendação, "must not" algo que não deve ocorrer, "should not" algo que é recomendado a não ocorrer, e "may" significa "pode".
+
+A tradução para o português nos casos de "must" e "should" é "deve", mas dessa forma o entendimento fica prejudicado. Assim, "deve" foi usado nos casos de "must", "não deve" nos casos de "must not", "é recomendável que" nos casos de "should", "não é recomendável que" nos casos de "should not", e "pode" nos casos de "may", para adequar a tradução ao conteúdo original.
 
 ### Regulamento e Orientações da WCA
 
@@ -461,7 +463,7 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
     - B2a) O juiz zera o(s) timer(s) como na [Regra A3b](regulations:regulation:A3b) e indica que está pronto para que o competidor inicie a tentativa (p. ex. colocando o pote na frente do competidor, dizendo "PRONTO" e dando um sinal de joinha"). O competidor precisa começar a tentativa dentro de um minuto, senão perde o direito à tentativa (DNS), a critério do juiz.
     - B2b) Quando estiver usando o timer Stackmat, o competidor usa seus dedos para tocar a parte elevada do timer. Suas palmas têm que estar para baixo, e posicionadas no lado do timer mais próximo dele. Pena: +2 segundos no tempo.
     - B2c) Quando estiver usando o timer Stackmat, o competidor não pode ter contato físico com o quebra-cabeça ou o pote enquanto estiver iniciando a tentativa. Pena: pena de tempo (+2 segundos).
-    - B2d) Quando estiver usando o timer Stackmat, o competidor inicia a tentativa removendo suas mãos do timer, iniciando-o. (Isso também inicia a resolução.)
+    - B2d) Quando estiver usando o timer Stackmat, é recomendável que o competidor mantenha as mãos sobre o timer até que veja a luz verde do timer. O timer é iniciado quando o competidor remove sua(s) mão(s) do timer. O competidor inicia a tentativa e a resolução ao iniciar o timer.
         - B2d1) O competidor remove o pote do quebra-cabeça depois de ter iniciado o timer.
         - B2d2) Se um cronômetro estiver sendo usado além do timer Stackmat, o juiz o inicia no momento em que o competidor inicia a resolução.
     - B2f) Quando um cronômetro estiver sendo usado como único marcador de tempo, o competidor confirma que está pronto e inicia a resolução levantando o pote. O juiz inicia o cronômetro assim que o competidor iniciar a resolução.
@@ -476,7 +478,8 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
     - B4b) O competidor não pode aplicar movimentos ou mudanças de alinhamento intencionais ao quebra-cabeça antes de ter colocado totalmente a venda. Pena: desqualificação da tentativa (DNF).
     - B4c) Assim que o competidor aplicar o primeiro movimento no quebra-cabeça, o juiz precisa garantir que há um bloqueador de visão (p. ex. uma folha de papel ou papelão) entre o quebra-cabeça e o rosto do competidor enquanto ele estiver resolvendo.
         - B4c1) Em todos os casos, o competidor precisa usar a venda de forma que sua visão do quebra-cabeça ainda estaria claramente bloqueada se o bloqueador de visão não estivesse no caminho.
-        - B4c3) Se o juiz e o competidor concordarem anteriormente, o competidor pode escolher posicionar ele mesmo o quebra-cabeça atrás de um objeto apropriado (p. ex. uma estante de partitura, a superfície da mesa) durante a fase vendada.
+        - B4c2) Um bloqueador de visão deve ser posicionado de forma que a visão do competidor do quebra-cabeça ainda estaria claramente bloqueada se ele não estivesse usando a venda.  
+        - B4c3) Se o juiz e o competidor concordarem anteriormente, ou se for exigido pela equipe de organização, um objeto apropriado (p. ex. uma estante de partitura, a superfície da mesa) posicionado pelo competidor pode ser usado como bloqueador de visão. O competidor deve fazer uma tentativa razoável de posicionar o bloqueador de visão ele mesmo. Penalidade: desclassificação da tentativa (DNF). Se o bloqueador de visão não for posicionado de forma que a visão do competidor do quebra-cabeça ainda estaria claramente bloqueada se ele não estivesse usando a venda, é recomendável que um bloqueador de visão adicional seja colocado pelo juiz.  
     - B4d) O competidor não pode ver o quebra-cabeça em nenhum momento durante a fase vendada. Pena: desqualificação da tentativa (DNF).
 - B5) Finalizando a resolução:
     - B5a) Quando estiver usando o timer Stackmat, o competidor finaliza a tentativa soltando o quebra-cabeça e parando o timer.
