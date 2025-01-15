@@ -328,6 +328,11 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
     - 11i2)
         - 11i2a) Se uma tentativa extra geraria um resultado significativamente mais justo, a tentativa original é considerada inválida (ver [Regra 9l](regulations:regulation:9l))
         - 11i2b) Se uma tentativa extra por um embaralhamento incorreto que gerou um resultado significativamente injusto não puder ser realizada (por exemplo, porque o embaralhamento incorreto foi descoberto após a competição), o resultado será considerado DNS.
+- 11j) Se um competidor receber incorretamente um embaralhamento que ele já recebeu (isso é, um embaralhamento repetido), as regras a seguir se aplicam:
+    - 11j1) Se um competidor percebe e acredita que recebeu um embaralhamento repetido durante a inspeção, é recomendável que ele pare a tentativa e chame um Delegado da WCA sem aplicar movimentos no quebra-cabeça. Não é recomendável que um competidor seja punido por reportar incorretamente um embaralhamento repetido de forma genuína, a critério do Delegado da WCA.
+    - 11j2) Se o erro for percebido durante o grupo, é recomendável que o Delegado da WCA tente fornecer o embaralhamento correto ao competidor. Uma tentativa extra pode ser dada se o Delegado da WCA não tiver certeza de qual embaralhamento é o correto.
+    - 11j3) Se o erro for percebido durante a competição mas após o grupo, a tentativa que falta deve ser substituída por uma tentativa extra.
+    - 11j4) Se o erro for percebido apenas após a competição, o resultado será considerado DNS.
 
 
 ## <article-12><notation><notation> Artigo 12: Notação
