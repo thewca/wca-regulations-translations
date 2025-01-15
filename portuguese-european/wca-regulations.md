@@ -432,7 +432,7 @@ Nota: Uma vez que os números dos artigos não são atualizados quando algum del
     - B2a) O juiz coloca o(s) cronómetro(s) e pergunta "PRONTO?" como na [Regra A3b1](regulations:regulation:A3b1). O competidor deve estar pronto a começar a tentativa dentro de um minuto após ser chamado, caso contrário este desiste da tentativa (DNS), segundo critério do juiz.
     - B2b) O competidor usa os dedos para tocar na superfície elevada de sensores do cronómetro Speed Stacks, com as palmas voltadas para baixo do lado do cronómetro mais próximo para o competidor. Penalidade: de tempo (+2 segundos).
     - B2c) O competidor não pode ter contacto físico com o quebra-cabeças entre o período de inspeção e o início da resolução. Penalidade: de tempo (+2 segundos).
-    - B2d) O competidor inicia a resolução retirando as suas mãos do cronómetro Speed Stacks, iniciando-o e começando a resolução.
+    - B2d) Quando estiver usando o timer Stackmat, é recomendável que o competidor mantenha as mãos sobre o timer até que veja a luz verde do timer. O timer é iniciado quando o competidor remove sua(s) mão(s) do timer. O competidor inicia a tentativa e a resolução ao iniciar o timer.
         - B2d1) O competidor destapa o quebra-cabeças depois de ter iniciado o cronómetro Speed Stacks.
     - B2e) Se um cronómetro manual for usado para além de um cronómetro Speed Stacks, o juiz inicia-o no momento em que o competidor inicia a resolução.
     - B2f) Se um cronómetro manual estiver a ser usado como única forma de medir o tempo, o competidor coloca as suas mãos na mesa (em vez de no cronómetro Speed Stacks). Após o competidor confirmar a sua prontidão, este começa a resolução ao levantar a cobertura do quebra-cabeças. O juiz inicia o cronómetro manual assim que o competidor iniciar a resolução.
@@ -443,10 +443,10 @@ Nota: Uma vez que os números dos artigos não são atualizados quando algum del
 - B4) Fase vendada:
     - B4a) O competidor coloca a venda para iniciar a fase vendada.
     - B4b) O competidor não pode aplicar movimentos ao quebra-cabeças antes de ter colocado totalmente a venda.
-    - B4c) O juiz deve assegurar-se de que há um objeto opaco entre o quebra-cabeças e o rosto do competidor enquanto ele estiver a resolver.
-        - B4c1) Em todos os casos, o competidor deve usar a venda por forma a que sua visão do quebra-cabeças ainda estaria claramente bloqueada se o objeto opaco não estivesse no caminho.
-        - B4c2) Por defeito, o juiz deve posicionar o objeto (por exemplo, uma folha de papel ou cartão) entre o quebra-cabeças e o competidor enquanto ele estiver usando a venda.
-        - B4c3) Se o juiz e o competidor combinarem anteriormente, o competidor pode escolher posicionar ele mesmo o quebra-cabeças atrás de um objeto apropriado (por exemplo, uma estante de partitura, a superfície da mesa) durante a fase vendada.
+    - B4c) Assim que o competidor realizar o primeiro movimento no quebra-cabeça, o juiz deve garantir que haja um bloqueador de visão (p. ex. uma folha de papel ou papelão) entre o rosto do competidor e o quebra-cabeça.
+        - B4c1) Em todos os casos, o competidor precisa usar a venda de forma que sua visão do quebra-cabeça ainda estaria claramente bloqueada se o bloqueador de visão não estivesse no caminho.  
+        - B4c2) Um bloqueador de visão deve ser posicionado de forma que a visão do competidor do quebra-cabeça ainda estaria claramente bloqueada se ele não estivesse usando a venda.  
+        - B4c3) Se o juiz e o competidor concordarem anteriormente, ou se for exigido pela equipe de organização, um objeto apropriado (p. ex. uma estante de partitura, a superfície da mesa) posicionado pelo competidor pode ser usado como bloqueador de visão. O competidor deve fazer uma tentativa razoável de posicionar o bloqueador de visão ele mesmo. Penalidade: desclassificação da tentativa (DNF). Se o bloqueador de visão não for posicionado de forma que a visão do competidor do quebra-cabeça ainda estaria claramente bloqueada se ele não estivesse usando a venda, é recomendável que um bloqueador de visão adicional seja colocado pelo juiz.
     - B4d) O competidor não pode olhar para o quebra-cabeças em nenhum momento durante a fase vendada. Penalidade: desqualificação da resolução (DNF).
     - B4e) Até aplicar o primeiro movimento no quebra-cabeças, o competidor pode remover a venda e retomar a fase de memorização.
 - B5) Terminando a resolução:
