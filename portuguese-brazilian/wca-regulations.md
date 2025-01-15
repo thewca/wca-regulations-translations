@@ -44,7 +44,6 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
 - 1a) Uma competição precisa ter um Delegado da WCA e uma equipe de organização (composta por um ou mais membros) com os seguintes oficiais: juízes, embaralhadores e anotadores de resultados.
 - 1b) A equipe de organização de uma competição é responsável pela logística antes, durante e depois da competição.
 - 1c) O Delegado da WCA é responsável por assegurar que a competição segue o Regulamento da WCA a qualquer política ou requisito da WCA aplicáveis. O Delegado da WCA pode delegar responsabilidades para outros membros da equipe de organização, mas é responsável em última instância pela forma como elas são conduzidas.
-    - 1c1) O Delegado da WCA deve garantir que a competição siga a [Política de Confidencialidade de Embaralhamentos da WCA](https://documents.worldcubeassociation.org/documents/policies/external/Scramble%20Accountability.pdf).
 - 1e) Cada evento precisa ter um ou mais juízes.
     - 1e1) Um juiz é responsável por executar os procedimentos do evento.
         - 1e1a) Um juiz pode fiscalizar vários competidores simultaneamente a critério do Delegado da WCA, contanto que o juiz seja capaz de assegurar que todo o Regulamento da WCA seja seguido em todos os momentos.
@@ -179,7 +178,6 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
     - 4d3) O Square-1 é embaralhado começando com a face mais escura na frente (dentre as 2 orientações possíveis para embaralhamento).
     - 4d4) O Clock é embaralhado começando com qualquer dos lados na frente e a posição de 12 horas para cima.
     - 4d5) O Skewb é embaralhado começando com a face branca (se não for possível, a face mais clara) no topo e a face verde (se não for possível, a face adjacente mais escura) na frente-esquerda.
-- 4f) As sequências de embaralhamento da competição têm que ser geradas usando uma versão oficial atual de um programa de embaralhamento oficial da WCA (disponível [no site da WCA](https://www.worldcubeassociation.org/regulations/scrambles/)).
 - 4g) Depois de embaralhar o quebra-cabeça, o embaralhador precisa verificar que ele foi embaralhado corretamente. Se o estado do quebra-cabeça estiver errado, o embaralhador precisa corrigi-lo (p. ex. resolvendo o quebra-cabeça e aplicando a sequência de embaralhamento novamente).
     - 4g1) Exceção: Para o Cubo 6x6x6, o Cubo 7x7x7 e oMegaminx, não é necessário corrigir o estado do quebra-cabeça, a critério do Delegado da WCA.
 
@@ -525,16 +523,6 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
     - E3f) Ferramentas para remover marcações (fornecidas pelo competidor), como líquido corretivo, fita corretiva ou borrachas.
 - E4) O Delegado da WCA pode optar por publicar as soluções (p. ex. foto da súmula ou transcrição das soluções).
 - E5) O competidor não pode se comunicar com ninguém além do Delegado da WCA ou do juiz. Esta comunicação deve ser sobre Regras da WCA e o competidor não pode receber assistência em sua solução. Penalidade: desqualificação da tentativa (DNF).
-
-
-## <article-F><clock><clocksolving> Artigo F: Resolução de Clock
-
-- F1) O procedimento padrão de resolução por velocidade é seguido, como descrito no [Artigo A](regulations:article:A) (Resolução por Velocidade). Regras adicionais que se sobrepõem aos procedimentos correspondentes do [Artigo A](regulations:article:A) estão descritas abaixo.
-- F2) O juiz posiciona o quebra-cabeça embaralhado sobre o tapete na posição "em pé".
-    - F2a) A equipe de organização pode impor o uso de uma base para o quebra-cabeça para prevenir que ele caia antes do início da tentativa. Se essas bases forem utilizadas, a equipe de organização deve fazer um anúncio antes da rodada começar.
-        - F2a1) O juiz deve remover a base do tapete imediatamente depois do competidor remover o quebra-cabeça dele.
-- F3) Ao final do período de inspeção, o competidor posiciona o quebra-cabeça sobre o tapete na posição "em pé". Pena: desqualificação da tentativa (DNF).
-    - F3a) O competidor não pode mudar a posição de nenhum dos pinos antes do início da resolução. Pena: desqualificação (DNF).
 
 
 ## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Artigo H: Resolução Multi-Vendada
