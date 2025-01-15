@@ -1,6 +1,6 @@
 # <wca-title>Regulamento da WCA (Português Brasileiro)
 
-<version>Versão: 1 de janeiro de 2025
+<version>Versão: 1 de Janeiro de 2025
 
 
 ## Notas
