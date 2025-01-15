@@ -1,6 +1,6 @@
 # <wca-title>Orientações Adicionais da WCA
 
-<version>Versão: 1 de agosto de 2023
+<version>Versão: 1 de Janeiro de 2025
 
 
 ## Notas
@@ -198,7 +198,8 @@ Para ser mais informativa, cada Orientação é classificada com um dos seguinte
 - B2d+) [ADIÇÃO] Por padrão, o competidor inicia a resolução na primeira vez em que iniciam o "timer" depois que o juiz indicou que ele está pronto (ver [Regra B2a](regulations:regulation:B2a)). Se ele quer conferir que o timer está em funcionamento normal, ele tem que (perguntar e) receber confirmação do juiz cada vez antes de iniciar/resetar o timer durante essa fase. Pena por começar e resetar um timer sem confirmação do juiz: desqualificação da tentativa (DNF).
 - B2f+) [ESCLARECIMENTO] Já que o competidor começa a resolução ao remover o pote, penalidades para começar a tentativa e tocar o pote enquanto a tentativa é iniciada não são aplicadas (ver [Regra B2b](regulations:regulation:B2b) e [Regra B2c](regulations:regulation:B2c)).
 - B4c+) [ADIÇÃO] Se o juíz se esquecer de colocar um bloqueador de visão ou o colocar de uma maneira que a visão do competidor não esitver completamente bloqueada, o Delegado da WCA deve dar uma tentativa adicional.
-- B4c++) [ADIÇÃO] Se o Delegado da WCA não suspeitar que o competidor intencionalmente violou qualquer Regra da WCA, a tentativa original pode permanecer.
+- B4c++) [ADIÇÃO] Se o juiz se esquecer de colocar um bloqueador de visão e o Delegado da WCA não suspeitar que o competidor intencionalmente violou qualquer Regra da WCA, a tentativa original pode permanecer.
+- B4d+) [ESCLARECIMENTO] Para 3x3x3 Vendado, os competidores têm permissão de determinar a localização de um logo permitido (veja Regra 3l) pelo tato durante a fase vendada.
 
 
 ## <article-C><one-handed><onehandedsolving> Artigo C: Resolução com uma mão
