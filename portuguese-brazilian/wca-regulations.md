@@ -324,6 +324,8 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
 - 11f) Decisões sobre um incidente podem ser baseadas em evidência de vídeo ou fotografia, a critério do Delegado da WCA.
 - 11g) O Delegado da WCA deve garantir que cópias do Regulamento e das Orientações estejam disponíveis (p. ex. impressas, digitais ou acessíveis via internet) para consultar para quaisquer incidentes.
 - 11h) Um Delegado da WCA pode exigir que competidores em violação severa da [Regra 2k3](regulations:regulation:2k3) deixem o local da competição, considerando a gravidade da situação e o melhor caminho de ação possível. Se o competidor se recusar a fazer isso, ele pode enfrentar ação disciplinar na WCA.
+        - 11i2a) Se uma tentativa extra geraria um resultado significativamente mais justo, a tentativa original é considerada inválida (ver [Regra 9l](regulations:regulation:9l))
+        - 11i2b) Se uma tentativa extra por um embaralhamento incorreto que gerou um resultado significativamente injusto não puder ser realizada (por exemplo, porque o embaralhamento incorreto foi descoberto após a competição), o resultado será considerado DNS.
 
 ## <article-12><notation><notation> Artigo 12: Notação
 
