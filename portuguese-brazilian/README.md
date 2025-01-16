@@ -58,7 +58,7 @@ The following people helped with the translation:
 |piece|peça|
 |penalty|pena|
 |puzzle|quebra-cabeça|
-|Regulation (espific section of the Regulations)|Regra|
+|Regulation (specific section of the Regulations)|Regra|
 |Regulations (name of the document)|Regulamento|
 |round|rodada|
 |score taker|anotador de resultado|
