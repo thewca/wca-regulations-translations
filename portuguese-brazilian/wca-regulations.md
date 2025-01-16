@@ -380,6 +380,7 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
     - 12h2) Sentido horário, 120 graus: R (a camada ao redor do vértice inferior-direito visível mais distante), U (a camada ao redor do vértice superior visível mais distante), L (a camada ao redor do vértice inferior-esquerdo visível mais distante), B (a camada ao redor do vértice posterior visível mais distante).
     - 12h3) Sentido anti-horário, 120 graus: R’ (a camada ao redor do vértice inferior-direito visível mais distante), U’ (a camada ao redor do vértice superior visível mais distante), L’ (a camada ao redor do vértice inferior-esquerdo visível mais distante), B’ (a camada ao redor do vértice posterior visível mais distante).
 - 12i) Um movimento é considerado como toda modificação ao estado do quebra-cabeça nos termos das notações definidas acima, incluindo desalinhamentos além dos limites descritos na [Regra 10f](regulations:regulation:10f)
+    - 12i1) Exceção: Para o Clock, apenas mudanças na posição das faces internas dos relógios são consideradas movimentos. Mudanças nos estados dos pinos não são consideradas movimentos.
 
 
 ## <article-A><speedsolving><speedsolving> Artigo A: Resolução por Velocidade
