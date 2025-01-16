@@ -160,6 +160,7 @@ Para ser mais informativa, cada Orientação é classificada com um dos seguinte
 ## <article-12><notation><notaion> Artigo 12: Notação
 
 - 12a2+) [ESCLARECIMENTO] Por exemplo, ambos Rw e 2Rw são notações válidas para o mesmo movimento físico no Cubo 3x3x3. 1Rw não é notação válida para qualquer Cubo NxNxN, e 3Rw não é notação válida para o Cubo 2x2x2 ou o Cubo 3x3x3 (mas 3Rw é notação válida para o Cubo 4x4x4 e Cubos NxNxN maiores).
+- 12g3+) [LEMBRETE] Como as sequências de embaralhamento do clock terminam com um movimento de x+ ou x-, todos os pinos são apertados para baixo depois que a sequência de embaralhamento for aplicada completamente. 
 - 12i+) [ESCLARECIMENTO] Rotações não alteram o estado do quebra-cabeça
 
 
