@@ -518,13 +518,17 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
         - E2e1) O Delegado da WCA pode pedir ao competidor que explique o propósito de cada movimento em sua solução, independentemente da sequência de embaralhamento. Se o competidor não puder dar uma explicação válida, a tentativa é desqualificada (DNF).
 - E3) O competidor pode usar os seguintes objetos durante a tentativa. Pena por usar objetos não-autorizados: desqualificação da tentativa (DNF).
     - E3a) Papel (fornecido pelo juiz), a folha de solução (fornecida pelo juiz), uma foto do embaralhamento para aquela tentativa (que pode ser inclusa no paper ou na folha de resolução) e canetas/lápis ou similar (fornecido pelo juiz, ou opcionalmente auto-fornecido).
-    - E3b) Cubos 3x3x3 (no máximo 3, fornecidos pelo competidor), conforme descrito no [Artigo 3](regulations:regulation:3).
+    - E3b) Cubos 3x3x3 (no máximo 3, fornecidos pelo competidor), que devem estar conforme descrito no [Artigo 3](regulations:regulation:3) antes de iniciar a tentativa.
     - E3c) Adesivos coloridos (fornecidos pelo competidor).
     - E3d) Cronômetro ou relógio (fornecido pelo competidor) para acompanhar o tempo decorrido, se aprovado pelo Delegado da WCA.
     - E3e) Outros aparelhos eletrônicos que não dêem uma vantagem injusta, a critério do Delegado da WCA (ver [Regra 2i1](regulations:regulation:2i1)).
     - E3f) Ferramentas para remover marcações (fornecidas pelo competidor), como líquido corretivo, fita corretiva ou borrachas.
 - E4) O Delegado da WCA pode optar por publicar as soluções (p. ex. foto da súmula ou transcrição das soluções).
 - E5) O competidor não pode se comunicar com ninguém além do Delegado da WCA ou do juiz. Esta comunicação deve ser sobre Regras da WCA e o competidor não pode receber assistência em sua solução. Penalidade: desqualificação da tentativa (DNF).
+- E6) Um competidor pode participar de uma tentativa de 3x3x3 Menos Movimentos que já esteja em progresso, a critério do Delegado da WCA. Exceção: não deve ser permitido que um competidor participe de uma tentativa em progresso nos seguintes casos:
+- E6a) O competidor já terminou sua tentativa (ver [Diretriz E2b+](guidelines:guideline:E2b+)).
+- E6b) A tentativa ocorre em uma competição com múltiplos locais físicos (isso é "competições simultâneas de 3x3x3 Menos Movimentos").
+- E6c) Existe qualquer risco de que informações sobre o embaralhamento possam ter sido conhecidas pelo competidor que deseja participar.
 
 
 ## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Artigo H: Resolução Multi-Vendada
@@ -533,7 +537,7 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
     - H1a) Antes da tentativa, o competidor tem que informar à equipe de organização o número de cubos (no mínimo 2) que ele deseja tentar.
         - H1a1) O competidor não pode mudar o número de cubos depois de ter informado o número à equipe de organização.
         - H1a2) O competidor pode solicitar que sua informação seja mantida em sigilo até que todos os competidores tenham informado seu número de cubos. Assim que todos os competidores tiverem informado seu número, a informação se torna pública (p. ex. um competidor pode perguntar pelos números de qualquer outro competidor antes de iniciar a tentativa).
-        - H1a3) Antes da tentativa, os cubos embaralhados têm que ser posicionados na mesa numa orientação arbitrária e totalmente cobertos. Estes devem ser arranjados num formato mais próximo possível de um quadrado (p. ex. 8 quebra-cabeças devem ser arranjados em 2 linhas com 3 quebra-cabeças e 1 linha com 2 quebra-cabeças).
+        - H1a3) Antes da tentativa, os cubos embaralhados devem ser posicionados na mesa numa orientação arbitrária, garantindo que permaneçam completamente cobertos. É recomendável que os cubos sejam dispostos no formato mais próximo possível de um quadrado e não sejam empilhados (p. ex. 8 cubos é recomendável que sejam dispostos em 2 linhas com 3 cubos e 1 linha com 2 cubos, em apenas uma camada).
     - H1b) Se o competidor estiver tentando menos de 6 cubos, ele tem um limite de tempo igual a 10 minutos vezes o número de cubos na tentativa; caso contrário o limite de tempo é de 60 minutos.
         - H1b1) O competidor pode sinalizar o fim da resolução a qualquer momento. Se e quando o limite de tempo for atingido, o juiz para a tentativa e ela é pontuada; o limite de tempo conta como o tempo original registrado
     - H1d) Penas de tempo para os quebra-cabeças da tentativa são cumulativas.
