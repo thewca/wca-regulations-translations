@@ -9,7 +9,21 @@
 
 Por favor atente-se para o fato de que essa tradução não é uma versão oficial (embora seja disponibilizada no site da WCA): ela pode ser útil, mas não vem com nenhuma garantia. Se houver diferenças entre uma tradução e a versão em inglês (atualmente oficial), esta última deve ser usada.
 
-A WCA usa as palavras "must" e "should", sendo que a primeira indica obrigatoriedade e a segunda uma forte recomendação. O mesmo vale para "must not" (algo que não pode ocorrer) e "should not" (recomendado que não ocorra). A tradução para o português nos dois casos é "deve", mas dessa forma o entendimento fica prejudicado. Assim, "deve" foi usado no lugar de "should", nos casos de "must" foi usado "precisa" ou "tem que", e nos casos de "should not" foi usado "não pode", para adequar a tradução ao conteúdo original.
+A WCA usa as palavras "must", "should", "must not", "should not" e "may", sendo que cada uma possui um significado específico:
+
+- "Must": deve, indicando obrigatoriedade.  
+- "Should": é recomendável que, indicando uma forte recomendação.  
+- "Must not": não deve, indicando algo que não deve ocorrer.  
+- "Should not": não é recomendável que, indicando algo que é recomendado a não ocorrer.  
+- "May": pode, significando permissão.  
+
+A tradução para o português foi ajustada para manter o significado original:
+
+- "Must": deve  
+- "Must not": não deve  
+- "Should": é recomendável que  
+- "Should not": não é recomendável que  
+- "May": pode  
 
 ### Regulamento e Orientações da WCA
 
