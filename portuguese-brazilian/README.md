@@ -10,7 +10,7 @@ The following people helped with the translation:
 * [Barbara Guerra](https://www.worldcubeassociation.org/persons/2019RIBE11) (contributed in 2025)
 * [Bruno Damacena](https://www.worldcubeassociation.org/persons/2017DAMA01) (contributed in 2025)
 * [Daniel Buck Silva](https://www.worldcubeassociation.org/persons/2012SILV10) (contributed in 2013)
-* [Davi]() (contributed in 2025)
+* [Davi Dias de Oliveira](https://www.worldcubeassociation.org/persons/2016OLIV10) (contributed in 2025)
 * [Felipe Cardim](https://www.worldcubeassociation.org/persons/2016CARD06) (contributed in 2025)
 * [Hevelyn Sato](https://www.worldcubeassociation.org/persons/2011SATO02) (contributed in 2025)
 * [João Vinícius de Andrade Santos](https://www.worldcubeassociation.org/persons/2016SANT66) (contributed in 2020, 2022. 2023, and 2025)
