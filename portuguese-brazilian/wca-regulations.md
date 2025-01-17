@@ -410,13 +410,13 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
         - A3c3) O competidor pode zerar o timer antes de começar a resolver.
         - A3c4) Para o Square-1, se o uso de um objeto fino foi determinado pela equipe de organização (ver [Regra A2b1](regulations:regulation:A2b1)), o competidor pode remover o objeto do quebra-cabeça durante a inspeção.
         - A3c5) Para o Square-1, o competidor não deve ser penalizado por qualquer movimento acidental dentro dos limites da [Regra 10f](regulations:regulations:10f).
-    - A3d) No final da inspeção, o competidor coloca o quebra-cabeça sobre o tapete, em qualquer orientação e posição. Pena por colocar o quebra-cabeça fora do tapete: pena de tempo (+2 segundos).
+    - A3d) No final da inspeção, o competidor coloca o quebra-cabeça sobre o tapete, em qualquer orientação. O quebra-cabeça deve estar inteiramente em cima do tapete e não deve estar inteiramente ou parcialmente sobre o Stackmat timer. Pena: pena de tempo (+2 segundos).
 - A4) Iniciando a resolução:
     - A4b) O competidor usa seus dedos para tocar a parte elevada do timer Stackmat. Suas palmas têm que estar para baixo, e posicionadas no lado do timer mais próximo dele. Pena: pena de tempo (+2 segundos).
         - A4b1) O competidor não pode ter contato físico com o quebra-cabeça enquanto estiver começando a resolução. Pena: pena de tempo (+2 segundos).
-    - A4d) Se o timer Stackmat estiver sendo usado, o competidor deve manter suas mãos no timer até que ele veja uma luz verde no timer. Ele inicia a resolução removendo suas mãos do timer (e então iniciando o timer).
-        - A4d1) O competidor tem que iniciar a resolução dentro de 15 segundos após o início da inspeção. Pena: pena de tempo (+2 segundos).
-        - A4d2) O competidor tem que iniciar a resolução dentro de 17 segundos após o início da inspeção. Pena: desqualificação da tentativa (DNF).
+    - A4d) Se o timer Stackmat estiver sendo usado, é recomendável que o competidor mantenha suas mãos no timer até que ele veja uma luz verde no timer. Ele inicia a resolução removendo sua(s) mão(s) do timer. O competidor começa a resolução quando o timer for iniciado.
+        - A4d1) O competidor deve iniciar a resolução dentro de 15 segundos após o início da inspeção. Pena: pena de tempo (+2 segundos).
+        - A4d2) O competidor deve iniciar a resolução dentro de 17 segundos após o início da inspeção. Pena: desqualificação da tentativa (DNF).
         - A4d3) Se um cronômetro estiver sendo usado, o juiz inicia o cronômetro no momento em que o competidor iniciar a resolução.
     - A4e) Pena de tempo para o início da resolução são cumulativas.
 - A5) Durante a resolução:
