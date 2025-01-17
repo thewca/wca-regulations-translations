@@ -403,8 +403,9 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
         - A3b2) O competidor inicia a tentativa confirmando que está pronto, e então o juiz descobre o quebra-cabeça e começa a marcar o tempo de inspeção.
         - A3b3) Quando 8 segundos de inspeção tiverem passado, o juíz diz "8 SEGUNDOS".
         - A3b4) Quando 12 segundos de inspeção tiverem passado, o juíz diz "12 SEGUNDOS".
+        - A3b5)O juiz para a cronometragem do tempo de inspeção assim que o competidor levanta as mãos do timer, iniciando-o. (Ver [Regra A4d](regulations:regulation:A4d)).
     - A3c) O competidor pode pegar o quebra-cabeça durante a inspeção.
-        - A3c1) O competidor não pode aplicar movimentos ou mudanças no alinhamento intencionais durante a inspeção. Pena: desqualificação da tentativa (DNF). Exceção: veja [Regra A3c2](regulations:regulation:A3c2) e [Regra A3c5](regulations:regulation:A3c5).
+        - A3c1) O competidor não deve aplicar movimentos ou mudanças no alinhamento intencionais durante a inspeção. Pena: desqualificação da tentativa (DNF). Exceção: ver [Regra: A3c2](regulations:regulation:A3c2) e [Regra A3c5](regulations:regulation:A3c5).
         - A3c2) Se as peças do quebra-cabeça não estiverem totalmente alinhadas quando o pote for removido, o competidor pode alinhar as faces, contanto que os desalinhamentos estejam dentro dos limites da [Regra 10f](regulations:regulation:10f).
         - A3c3) O competidor pode zerar o timer antes de começar a resolver.
         - A3c4) Para o Square-1, se o uso de um objeto fino foi determinado pela equipe de organização (ver [Regra A2b1](regulations:regulation:A2b1)), o competidor pode remover o objeto do quebra-cabeça durante a inspeção.
