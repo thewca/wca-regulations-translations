@@ -185,9 +185,9 @@ Para ser mais informativa, cada Orientação é classificada com um dos seguinte
 
 ## <article-B><blindfolded><blindfoldedsolving> Artigo B: Resolução Vendada
 
-- B1+) [LEMBRETE] O competidor tem que usar um quebra-cabeça sem logotipos (ver [Regra 3l](regulations:regulation:3l)), texturas, marcas ou outras características que diferenciem peças similares (ver [Regra 3k](regulations:regulation:3k)). Deve ser dada especial atenção a esta regra para Resolução Vendada.
-- B1b+) [RECOMENDAÇÃO] As vendas devem ser verificadas pelo Delegado da WCA antes de serem usadas na competição.
-- B2d+) [ADIÇÃO] Por padrão, o competidor inicia a resolução na primeira vez em que iniciam o "timer" depois que o juiz indicou que ele está pronto (ver [Regra B2a](regulations:regulation:B2a)). Se ele quer conferir que o timer está em funcionamento normal, ele tem que (perguntar e) receber confirmação do juiz cada vez antes de iniciar/resetar o timer durante essa fase. Pena por começar e resetar um timer sem confirmação do juiz: desqualificação da tentativa (DNF).
+- B1+) [LEMBRETE] O competidor deve usar um quebra-cabeça sem logotipos (ver [Regra 3l](regulations:regulation:3l)), texturas, marcas ou outras características que diferenciem peças similares (ver [Regra 3k](regulations:regulation:3k)). É recomendável que seja dada especial atenção a esta regra para Resolução Vendada.
+- B1b+) [RECOMENDAÇÃO] É recomendável que as vendas sejam verificadas pelo Delegado da WCA antes de serem usadas na competição.
+- B2d+) [ADIÇÃO] Por padrão, o competidor inicia a resolução na primeira vez em que iniciam o "timer" depois que o juiz indicou que ele está pronto (ver [Regra B2a](regulations:regulation:B2a)). Se ele quer conferir que o timer está em funcionamento normal, ele deve (perguntar e) receber confirmação do juiz cada vez antes de iniciar/resetar o timer durante essa fase. Pena por começar e resetar um timer sem confirmação do juiz: desqualificação da tentativa (DNF).
 - B2f+) [ESCLARECIMENTO] Já que o competidor começa a resolução ao remover o pote, penalidades para começar a tentativa e tocar o pote enquanto a tentativa é iniciada não são aplicadas (ver [Regra B2b](regulations:regulation:B2b) e [Regra B2c](regulations:regulation:B2c)).
 - B4c+) [ADIÇÃO] Se o juíz se esquecer de colocar um bloqueador de visão ou o colocar de uma maneira que a visão do competidor não esitver completamente bloqueada, o Delegado da WCA deve dar uma tentativa adicional.
 - B4c++) [ADIÇÃO] Se o juiz se esquecer de colocar um bloqueador de visão e o Delegado da WCA não suspeitar que o competidor intencionalmente violou qualquer Regra da WCA, a tentativa original pode permanecer.
@@ -202,21 +202,21 @@ Para ser mais informativa, cada Orientação é classificada com um dos seguinte
 
 ## <article-E><fewest-moves><fewestmovessolving> Artigo E: Resolução em Menos Movimentos
 
-- E2a1+) [RECOMENDAÇÃO] Se um juiz encontrar uma solução submetida que não aparenta ter informação para identificar a tentativa, ele deve checar ambos os lados do papal.
+- E2a1+) [RECOMENDAÇÃO] Se um juiz encontrar uma solução submetida que não aparenta ter informação para identificar a tentativa, é recomendável que ele cheque ambos os lados do papel.
 - E2b+) [ESCLARECIMENTO] O competidor pode escolher terminar a tentativa antecipadamente e entregar uma solução antes do limite de tempo.
 - E2c+) [ESCLARECIMENTO] Apesar de o juiz poder fornecer uma folha padronizada para os competidores entregarem a solução, o competidor pode entregar a solução em uma outra folha de papel (Observe que a folha de papel precisa ser fornecida pelo juiz, de acordo com a [Regra E3a](regulations:regulation:E3a)).
 - E2c1+++) [EXPLICAÇÃO] O competidor não é obrigado a escrever o nome da competição, a rodada, e/ou o número da tentativa na folha de solução que entregar, mas pode querer fazer isso para ajudar o time de organização a organizar as soluções entregues.
 - E2c2+) [EXEMPLO] Exemplos que não são considerados uma única e não-ambígua sequência de movimentos: muitas sequências de solução sem exatamente uma solução claramente indicada, uma solução com símbolos ambíguos (p. ex. uma letra que é parecida com "B" e "R" mas que não é claramente nem uma nem outra), uma solução com estrelas ou setas indicando movimentos a serem feitas fora da ordem escrita (p. ex. "inserções" que não estão escritas na linha com o resto da sequência de movimentos, "pré-movimentos" que não estão incorporados na sequência de movimentos usando notação válida), uma sequência de movimentos que não está escrita aproximadamente como uma série de linhas em ordem de leitura, qualquer configuração de símbolos que não pode ser interpretada como uma não-ambígua sequência de movimentos. Exceções dos exemplos acima: correções tipográficas pequenas (p. ex. ocultar movimentos e escrever movimentos acima deles claramente destinados a substituí-los, movimentos escritos em subscrito ou sobrescrito para caber entre outros movimentos).
 - E2c2++) [LEMBRETE] No passado, notação com colchetes (p. ex. [r] ou [u2]) eram permitidas para Menos Movimentos. Apenas rotação baseada em x, y ou z são permitidas agora (ver [Regra 12a4a](regulations:regulation:12a4a).
-- E2c3+) [ESCLARECIMENTO] Se um movimento não está claramente ocultado/riscado e não está claro se o movimento é parte da solução, o juiz deve considerá-la como uma sequência de movimentos ambígua (ver [Regra E2c2](regulations:regulation:E2c2) e [Orientação E2c2+](guidelines:guideline:E2c2+)).
+- E2c3+) [ESCLARECIMENTO] Se um movimento não está claramente ocultado/riscado e não está claro se o movimento é parte da solução, é recomendável que o juiz considerê-la como uma sequência de movimentos ambígua (ver [Regra E2c2](regulations:regulation:E2c2) e [Orientação E2c2+](guidelines:guideline:E2c2+)).
 - E2c4+) [ESCLARECIMENTO] Exemplos de interpretação de símbolos ou combinações de símbolos que não estão definidos na Regra 12a: É recomendável que [x] seja interpretado como x. É recomendável que (R * U', * = F2) seja interpretado como R U' F2. É recomendável que (R U)' seja interpretado como R U'. É recomendável que R++ seja interpretado como R.R3' não é permitido.
 - E2c4++) [ADIÇÃO] Movimentos com um apóstrofo e um 2 devem ser interpretados como se não houvesse apóstrofo (p. ex., R2' deve ser interpretado como R2).
 - E2c6+) [EXEMPLO] É recomendável que Y seja interpretado como y. É recomendável que UW, uw e uW sejam interpretados como Uw. É recomendável que r seja interpretado como R, não como Rw.
-- E2e+) [ESCLARECIMENTO] Os competidores não podem derivar soluções de nenhuma parte da sequência de embaralhamento, e as soluções não devem conter partes significativas da sequência inversa de embaralhamento.
-- E2e++) [EXEMPLO] Exemplo de solução que deve resultar em desqualificação (DNF): aquela que comece com 4 ou mais movimentos invertidos do embaralhamento.
+- E2e+) [ESCLARECIMENTO] Os competidores não devem derivar soluções de nenhuma parte da sequência de embaralhamento, e as soluções não devem conter partes significativas da sequência inversa de embaralhamento.
+- E2e++) [EXEMPLO] É recomendável que resulte em desqualificação (DNF) uma solução que comece com 4 ou mais movimentos invertidos do embaralhamento.
 - E3b+) [ESCLARECIMENTO] Não é necessário que os quebra-cabeças estejam resolvidos no início da tentativa.
-- E3d+) [ESCLARECIMENTO] Qualquer cronômetro ou relógio usado por um competidor não pode ter quaisquer funções que possam ajudar o competidor a encontrar uma solução.
-- E3d++) [ESCLARECIMENTO] Os competidores não devem considerar um cronômetro ou relógio pessoal como o tempo oficial, e têm que entregar sua solução quando o juiz disser “PAREM”.
+- E3d+) [ESCLARECIMENTO] Qualquer cronômetro ou relógio usado por um competidor não deve ter quaisquer funções que possam ajudar o competidor a encontrar uma solução.
+- E3d++) [ESCLARECIMENTO] É recomendável que os competidores não considerem um cronômetro ou relógio pessoal como o tempo oficial, e têm que entregar sua solução quando o juiz disser “PAREM”.
 
 
 ## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Artigo H: Resolvendo Múltiplos Vendados
