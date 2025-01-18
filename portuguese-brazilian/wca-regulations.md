@@ -514,7 +514,7 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
     - E2c8) Os competidores não devem intencionalmente dificultar a avaliação da solução utilizando movimentos ou símbolos não definidos como notação para o Cubo 3x3x3, capitalização incorreta, ou por qualquer outro meio. Pena: desqualificação da tentativa (DNF), a critério do Delegado da WCA.
     - E2d) O tamanho da solução é calculado usando-se a "Outer Block Turn Metric" (ver [Regra 12a](regulations:regulation:12a)).
         - E2d1) O tamanho máximo permitido para a solução é de 80 (movimentos e rotações).
-    - E2e) A solução do competidor não pode ser diretamente derivada de qualquer parte da sequência de embaralhamento. Pena: desqualificação da tentativa (DNF).
+    - E2e) A solução do competidor não deve ser diretamente derivada de qualquer parte da sequência de embaralhamento. Pena: desqualificação da tentativa (DNF).
         - E2e1) O Delegado da WCA pode pedir ao competidor que explique o propósito de cada movimento em sua solução, independentemente da sequência de embaralhamento. Se o competidor não puder dar uma explicação válida, a tentativa é desqualificada (DNF).
 - E3) O competidor pode usar os seguintes objetos durante a tentativa. Pena por usar objetos não-autorizados: desqualificação da tentativa (DNF).
     - E3a) Papel (fornecido pelo juiz), a folha de solução (fornecida pelo juiz), uma foto do embaralhamento para aquela tentativa (que pode ser inclusa no paper ou na folha de resolução) e canetas/lápis ou similar (fornecido pelo juiz, ou opcionalmente auto-fornecido).
@@ -524,7 +524,7 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
     - E3e) Outros aparelhos eletrônicos que não dêem uma vantagem injusta, a critério do Delegado da WCA (ver [Regra 2i1](regulations:regulation:2i1)).
     - E3f) Ferramentas para remover marcações (fornecidas pelo competidor), como líquido corretivo, fita corretiva ou borrachas.
 - E4) O Delegado da WCA pode optar por publicar as soluções (p. ex. foto da súmula ou transcrição das soluções).
-- E5) O competidor não pode se comunicar com ninguém além do Delegado da WCA ou do juiz. Esta comunicação deve ser sobre Regras da WCA e o competidor não pode receber assistência em sua solução. Penalidade: desqualificação da tentativa (DNF).
+- E5) O competidor não deve se comunicar com ninguém além do Delegado da WCA ou do juiz. Esta comunicação deve ser sobre Regras da WCA e o competidor não deve receber assistência em sua solução. Penalidade: desqualificação da tentativa (DNF).
 - E6) Um competidor pode participar de uma tentativa de 3x3x3 Menos Movimentos que já esteja em progresso, a critério do Delegado da WCA. Exceção: não deve ser permitido que um competidor participe de uma tentativa em progresso nos seguintes casos:
 - E6a) O competidor já terminou sua tentativa (ver [Diretriz E2b+](guidelines:guideline:E2b+)).
 - E6b) A tentativa ocorre em uma competição com múltiplos locais físicos (isso é "competições simultâneas de 3x3x3 Menos Movimentos").
@@ -534,7 +534,7 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
 ## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Artigo H: Resolução Multi-Vendada
 
 - H1) O procedimento padrão de resolução vendada é seguido, como descrito no [Artigo B](regulations:article:B) (Resolução Vendada). Regras adicionais que se sobrepõem aos procedimentos correspondentes do [Artigo B](regulations:article:B) estão descritas abaixo.
-    - H1a) Antes da tentativa, o competidor tem que informar à equipe de organização o número de cubos (no mínimo 2) que ele deseja tentar.
+    - H1a) Antes da tentativa, o competidor deve informar à equipe de organização o número de cubos (no mínimo 2) que ele deseja tentar.
         - H1a1) O competidor não pode mudar o número de cubos depois de ter informado o número à equipe de organização.
         - H1a2) O competidor pode solicitar que sua informação seja mantida em sigilo até que todos os competidores tenham informado seu número de cubos. Assim que todos os competidores tiverem informado seu número, a informação se torna pública (p. ex. um competidor pode perguntar pelos números de qualquer outro competidor antes de iniciar a tentativa).
         - H1a3) Antes da tentativa, os cubos embaralhados devem ser posicionados na mesa numa orientação arbitrária, garantindo que permaneçam completamente cobertos. É recomendável que os cubos sejam dispostos no formato mais próximo possível de um quadrado e não sejam empilhados (p. ex. 8 cubos é recomendável que sejam dispostos em 2 linhas com 3 cubos e 1 linha com 2 cubos, em apenas uma camada).
