@@ -1,6 +1,6 @@
 # <wca-title>Directrices WCA
 
-<version>Versión: 1 de enero de 2024
+<version>Versión: 1 de enero de 2025
 
 
 ## Notas
@@ -36,7 +36,7 @@ En pro de la claridad, cada Directriz se clasifica usando una de las siguientes 
 - 1c++) [ACLARACIÓN] Los Delegados de la WCA pueden asistir a una competencia sin ser designados para servir como delegado de la WCA. "El delegado de la WCA" no se refiere a ellos a no ser que se les asigne una responsabilidad relevante por un delegado designado para la competencia (ver [Directriz 1c+](guidelines:guideline:1c+)).
 - 1h+) [RECOMENDACIÓN] Los competidores del mismo grupo deberían utilizar las mismas secuencias de mezcla. Diferentes grupos deberían utilizar diferentes secuencias de mezcla.
 - 1h++) [RECOMENDACIÓN] Todos los intentos en la ronda final de una categoría, así como todos los intentos de Resolución en Menos Movimientos, deberían tener las mismas secuencias de mezclas para todos los competidores (p.ej. sólo 1 grupo).
-- 1h+++) [ADICIÓN] Los competidores pueden solicitar competir en un momento distinto al programado para determinada ronda. El delegado de la WCA debería considerar cuidadosamente si la petición es justa y práctica antes de aprobarla. Además, el delegado de la WCA debe asegurarse de que tales intentos se adhieran a la [Regla 9l](regulations:regulation:9l) (p.ej. deben iniciar después de que todos los competidores terminen sus intentos de una ronda anterior de la misma categoría y debe terminar antes de que cualquier competidor comience con sus intentos de una ronda posterior de la misma categoría). Los competidores que realicen esta solicitud, deberían contactar al equipo organizador y al delegado de la WCA antes de la competencia. Excepción: esto no está permitido en 3x3x3 en Menos Movimientos, debido a las condiciones propias de esta categoría, descritas en la [Directriz E2b++](guidelines:guideline:E2b++).
+- 1h+++) [ADICIÓN] Los competidores pueden solicitar competir en un momento distinto al establecido en el cronograma para determinada ronda. El delegado de la WCA debería considerar cuidadosamente si la petición es justa y práctica antes de aprobarla. Además, el delegado de la WCA debe asegurarse de que los intentos se adhieran a la [Regla 9l](regulations:regulation:9l) (p.ej. deben iniciar después de que todos los competidores terminen sus intentos de una ronda anterior de la misma categoría y debe terminar antes de que cualquier competidor comience con sus intentos de una ronda posterior de la misma categoría). Los competidores que realicen esta solicitud, deberían contactar al equipo organizador y al delegado de la WCA antes de la competencia. Excepción: esto no está permitido en 3x3x3 en Menos Movimientos, debido a las condiciones propias de esta categoría, descritas en la [Regla E6](regulations:regulation:E6).
 - 1h1+) [ACLARACIÓN] Los mezcladores/jueces deberían mezclar/juzgar a otros competidores de su mismo grupo si es de importancia para la logística de la competencia.
 - 1h1++) [ACLARACIÓN] Para la resolución del Cubo 3x3x3 en Menos Movimientos, los jueces pueden juzgar a los competidores de su mismo grupo antes de terminar su intento (p.ej. mientras están compitiendo).
 
@@ -104,7 +104,6 @@ En pro de la claridad, cada Directriz se clasifica usando una de las siguientes 
 
 ## <article-5><puzzle-defects><puzzledefects> Artículo 5: Desperfectos de puzzles
 
-- 5b+) [ADICIÓN] El competidor no tiene permitido causar un desperfecto intencionalmente, a no ser que lo haga para corregir un desperfecto anterior (ver [Regla 5b3b](regulations:regulation:5b3b) y [Regla 5b3c](regulations:regulation:5b3c)). Ejemplos de causar intencionalmente un desperfecto son: remover una tapa central, rotar una esquina o despegar un sticker.
 - 5b5+) [EJEMPLO] Ejemplos de una pieza físicamente separada, que producen un estado resuelto: la tapa del centro de un cubo 3x3x3, el centro de la pieza de un cubo grande, una pieza interna de un cubo grande.
 - 5b5++) [EJEMPLO] Ejemplos de piezas físicamente separadas que producen un DNF: dos tapas de centro de un 3x3x3, dos centros de un cubo grande, una arista de 3x3x3, una arista de 4x4x4, o cualquier combinación de dos piezas con dos caras de color cada una.
 - 5b5f+) [EJEMPLO] Hay una [Guía Visual](https://drive.google.com/file/d/15XszaCGNvy3Dk6X6qERzZWZaDH1RH04z/view) disponible para la [Regla 5b5f](regulations:regulation:5b5f).
@@ -155,7 +154,7 @@ En pro de la claridad, cada Directriz se clasifica usando una de las siguientes 
 - 11e+++++) [ADICIÓN] Si el delegado de la WCA no tiene tiempo para investigar la situación durante la competencia, debería otorgar un intento extra provisorio.
 - 11e++++++) [ADICIÓN] Se considera que un intento extra toma lugar en el momento en que se dio el intento original. Por ejemplo, si la ronda originalmente se llevó a cabo un 21 de enero y el intento extra es otorgado el 22 de enero, entonces se considera que el intento extra se realizó el 21 de enero.
 - 11e+++++++) [RECOMENDACIÓN] Si se otorga un intento extra para determinada ronda después de terminada una ronda posterior de la misma categoría y dicho intento extra hace que el competidor avance a la siguiente ronda, el competidor no debería competir en la ronda posterior ya finalizada, a discreción del delegado de la WCA.
-- 11e1+) [RECORDATORIO] El intento extra debe ser mezclado utilizando una secuencia de mezcla oficial no modificada, generada por un mezclador oficial (ver [Regla 4f](regulations:regulation:4f), [Directriz 4f+](guidelines:guideline:4f+)).
+- 11e1+) [RECORDATORIO] El intento extra debe ser mezclado utilizando una secuencia de mezcla oficial no modificada, generada por un programa oficial (ver [Regla 4b](regulations:regulation:4b), [Directriz 4b+](guidelines:guideline:4b+)).
 - 11e2+) [ADICIÓN] Si un intento extra por si mismo lleva a un tiempo extra adicional, el competidor debería seguir haciendo intentos extra hasta que haya uno válido que reemplace al intento original regularmente numerado.
 - 11e2++) [EJEMPLO] Suponiendo que un competidor tiene 5 intentos numerados, y el #2 lleva a intentos extra. El competidor debería hacer intentos extra hasta que uno sea válido para reemplazar al #2. Suponiendo que después otro intento lleva a intentos extra, el competidor debería proceder de manera similar a como lo hizo para el #2.
 
@@ -220,7 +219,7 @@ En pro de la claridad, cada Directriz se clasifica usando una de las siguientes 
 
 - E2a1+) [RECOMENDACIÓN] Si un juez encuentra una solución que aparenta no tener ninguna información para identificar al competidor, debería revisar ambos lados del papel.
 - E2b+) [ACLARACIÓN] Un competidor puede elegir parar su intento antes de tiempo, proporcionando una solución antes del límite de tiempo.
-- E2b++) [ADICIÓN] Un competidor puede unirse a un intento de Resolución en Menos Movimientos que esté en progreso, a discreción del delegado de la WCA. En este caso, su tiempo límite es el tiempo restante (p.ej. debe terminar cuando los demás competidores alcancen sus 60 minutos de tiempo límite). Excepción: no debe permitirse que un competidor se una a un intento de Resolución en Menos Movimientos si algún competidor ya terminó su intento (ver [Directriz E2b+](guidelines:guideline:E2b+)), o si existe alguna posibilidad de que información sobre la mezcla haya llegado a manos del competidor que quiere unirse.
+- E2b++) [ADICIÓN] Un competidor puede unirse a un intento de Resolución en Menos Movimientos que esté en progreso, a discreción del delegado de la WCA. En este caso, su tiempo límite es el tiempo restante (i.e. debe terminar cuando los demás competidores alcancen sus 60 minutos de tiempo límite). Excepción: no debe permitirse que un competidor se una a un intento de Resolución en Menos Movimientos si algún competidor ya terminó su intento (ver [Directriz E2b+](guidelines:guideline:E2b+)), o si existe alguna posibilidad de que información sobre la mezcla haya llegado a manos del competidor que quiere unirse.
 - E2c+) [ACLARACIÓN] Aunque el juez puede proveer una hoja estándar para que los competidores entreguen sus soluciones, un competidor puede entregar una solución en una hoja distinta. (Note que la hoja debe venir de parte del juez, de acuerdo a la [Regla E3a](regulations:regulation:E3a)).
 - E2c1+) [EXPLICACIÓN] La ID de registro de un competidor es un identificador (p.ej. un número) asignado a un competidor para la competencia. En algunas competencias se utiliza esto para mantener controladas las hojas de resultados e ingresar resultados.
 - E2c1++) [ADICIÓN] Si el competidor olvidó escribir la información para identificar el intento que planea entregar, tiene permitido agregarla frente al juez luego de terminado el límite de tiempo. En este caso, el competidor debe pedir permiso al juez mientras entrega la solución y luego escribir inmediatamente la información necesaria para identificar el intento (sin realizar otros cambios) bajo la supervisión directa del juez. Una vez que el competidor ha entregado la solución (p.ej. dejándola en las manos del juez y permitiéndole al juez continuar con el siguiente competidor o colocando la solución en la mesa del juez y luego irse caminando), no tiene permitido agregar ninguna información. Si el competidor escribe cualquier información después de terminado el límite de tiempo y antes de pedir permiso al juez, el resultado es descalificado (DNF).
@@ -234,11 +233,6 @@ En pro de la claridad, cada Directriz se clasifica usando una de las siguientes 
 - E2e++) [EJEMPLO] Ejemplos de soluciones que deberían resultar en la descalificación del intento (DNF): soluciones que empiezan con los primeros 4 o más movimientos de la secuencia de mezcla invertida.
 - E3d+) [ACLARACIÓN] Cualquier reloj o cronómetro usado por un competidor no debe tener ninguna función que lo ayude a encontrar una solución.
 - E3d++) [ACLARACIÓN] Los competidores no deben considerar el tiempo de sus cronómetros personales o relojes como su tiempo oficial, y deben entregar su solución después de que el juez anuncia “PARA” (o "TIEMPO").
-
-
-## <article-F><clock><clocksolving> Artículo F: Resolución de Clock
-
-- F1+) [RECORDATORIO] En el pasado, el competidor tenía que colocar el puzzle parado en el mat. Esto ya no es necesario.
 
 
 ## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Artículo H: Resolución de Múltiples Cubos a Ciegas
