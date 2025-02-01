@@ -249,7 +249,7 @@ Nota: Debido a que algunos números no se han reasignado al borrar algunas Regla
         - 9b5b) Formato de corte (o tope) para esta categoría: fase de corte "Mejor de X" (donde X es 1 o 2) para "Mejor de Y" (donde Y es 2 o 3, e Y > X).
 - 9f) Los resultados de una ronda se miden como sigue:
     - 9f1) Todos los resultados cronometrados por debajo de 10 minutos se miden y se truncan hasta las centésimas de segundo (a excepción de la categoría Múltiples 3x3x3 a Ciegas). Todas las medias y promedios por debajo de 10 minutos se miden y se redondean a la centésima de segundo más cercana.
-    - 9f2) Todos los resultados, promedios y medias por encima de 10 minutos, así como todos los tiempos para la categoría Múltiples 3x3x3 a Ciegas, se miden y se truncan hasta los segundos.
+    - 9f2) Todos los resultados por encima de 10 minutos, así como todos los tiempos para la categoría Múltiples 3x3x3 a Ciegas, se miden y se truncan hasta los segundos. Todos los promedios y medias por encima de 10 minutos se miden y redondean al segundo más cercano (p.ej. X.49 es X, X.50 es X+1).
     - 9f4) El resultado de un intento se anota como DNF (Did Not Finish) si el intento se descalifica o está sin acabar/resolver.
         - 9f4a) Si el competidor rompe una regla y es suficientemente claro que el intento debe ser descalificado, el juez debería detener el intento inmediatamente. Si el juez no está seguro o si una disputa podría llegar a ser disruptiva (p.ej. porque un intento extra podría retrasar la competencia), el juez debería consultar al delegado de la WCA.
     - 9f5) El resultado de un intento se anota como DNS (Did Not Start) si el competidor tenía permitido realizar el intento, pero no lo hizo (ver [Regla A3b2](regulations:regulation:A3b2)).
