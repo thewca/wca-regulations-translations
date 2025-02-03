@@ -91,11 +91,6 @@ Para ser mais informativa, cada Orientação é classificada com um dos seguinte
 - 4b4+) [ESCLARECIMENTO] Todas as tentativas que foram iniciadas dentro do intervalo de tempo seguem o procedimento padrão de resolução (isto é: não são interrompidas quando o intervalo de tempo da sequência de embaralhamento terminar).
 - 4d+) [ESCLARECIMENTO] Alguns quebra-cabeças usam um esquema de cores padrão, com exceção do branco substituído pelo preto. Neste caso, o preto é a cor mais escura e não pode ser tratado como branco.
 - 4d++) [ADIÇÃO] É permitido que a orientação do quebra-cabeça seja alterada quando ele é movido do embaralhador para a estação de resolução, contanto que ninguém tente influenciar a aleatoriedade da orientação (ver [Regra A2e1](regulations:regulation:A2e1)).
-- 4f+) [RECOMENDAÇÃO] O Delegado da WCA deve gerar sequências de embaralhamento suficientes para toda a competição previamente, incluindo sequências para tentativas adicionais.
-- 4f++) [LEMBRETE] Se o Delegado da WCA gerar qualquer sequência de embaralhamento adicional durante a competição, as sequências de embaralhamento precisam ser salvas.
-- 4g2+) [ESCLARECIMENTO] O embaralhador ainda tem que verificar se o Clock está embaralhado corretamente
-- 4g2++) [ESCLARECIMENTO] Se o Clock cair durante a retirada do pote, uma tentativa adicional tem que ser dada.
-- 4g2+++) [RECOMENDAÇÃO] O embaralhador deve deixar as súmulas de fora do pote ao invés de coloca-las dentro do pote.
 - 4g1b+) [ESCLARECIMENTO] Para o 5x5x5 Vendado, estados incorretos do quebra-cabeça devem sempre ser corrigidos.
 - 4g1b++) [RECOMENDAÇÃO] É recomendável que o Delegado da WCA use critérios mais rigorosos ao determinar se estados incorretos para o 5x5x5 Vendado precisam ser corrigidos.
 
