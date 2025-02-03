@@ -284,6 +284,7 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
 - 9j) Cada evento só pode acontecer uma vez por competição.
 - 9k) Todos os competidores podem participar em todos os eventos de uma competição, exceto em casos especificamente aprovados pelo Equipe de Anúncios de Competições da WCA.
 - 9l) Cada rodada precisa ser completada antes que qualquer rodada seguinte do mesmo evento possa começar. Exceção: Tentativas adicionais podem ser dadas a qualquer momento durante a competição para substituir uma tentativa que era inicialmente inválida.
+    - 9l1) Uma tentativa é considerada inválida se é necessário conceder uma tentativa extra.
 - 9m) Os eventos podem ter no máximo quatro rodadas.
     - 9m1) Rodadas com 99 competidores ou menos podem ter no máximo duas rodadas subsequentes.
     - 9m2) Rodadas com 15 competidores ou menos podem ter no máximo uma rodada subsequente.
