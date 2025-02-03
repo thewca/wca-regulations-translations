@@ -235,9 +235,7 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
     - 7f2) O timer Stackmat tem que estar preso ao tapete e posicionado na superfície, com o timer na parte do tapete mais próxima ao competidor.
     - 7f3) A equipe de organização deve modificar o timer Stackmat para que ele seja mais robusto em face de incidentes comuns, fazendo com que os botões sejam mais difíceis de apertar por acidente (p. ex. acoplando anéis de borracha ao redor dos botões) e prendendo a bateria mais firmemente (p. ex. preenchendo o compartimento da bateria).
     - 7f4) Timers Geração 5 Pro tem que ser usados no modo 2-pad.
-- 7h) O local de competição deve ter uma ou mais Áreas de Espera de Competidores.
-    - 7h1) A equipe de organização pode exigir que um competidor que foi chamado para competir permaneça dentro da Área de Espera de Competidores designada até que tenha terminado todas as suas tentativas da rodada.
-    - 7h2) Definição: Uma Área de Espera de Competidores é uma área na qual os competidores de um grupo esperam até serem chamados para uma estação de resolução.
+- 7h) Se os competidores não permanecerem na mesma estação para todas as suas tentativas em uma rodada, a área de competição deve ter uma ou mais Áreas de Espera de Competidores. Exceção: rodadas com tentativas programadas individualmente.
 
 
 ## <article-9><events><events> Artigo 9: Eventos
