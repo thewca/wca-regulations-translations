@@ -97,7 +97,6 @@ Para ser mais informativa, cada Orientação é classificada com um dos seguinte
 
 ## <article-5><puzzle-defects><puzzledefects> Artigo 5: Defeitos nos quebra-cabeças
 
-- 5b+) [ADIÇÃO] O competidor não tem permissão de causar um defeito no quebra-cabeça intencionalmente, a não ser corrigindo um defeito prévio do quebra-cabeça (ver [Regra 5b3b](regulations:regulation:5b3b) e [Regra 5b3c](regulations:regulation:5b3c)). Exemplos de causar defeitos intencionais no quebra-cabeça: remover uma tampa de centro acoplada, girar uma peça de quina, remover um adesivo.
 - 5b5+) [EXEMPLO] Exemplos de partes fisicamente soltas, resultando em um estado resolvido: uma tampa de centro do 3x3x3, uma peça de centro de um cubo com mais camadas, uma peça interna de um cubo com mais camadas.
 - 5b5++) [EXEMPLO] Exemplos de peças fisicamente soltas, resultando em DNF: duas tampas de centro do 3x3x3, duas peças de centro de um cubo com mais camadas, uma peça de meio do 3x3x3, uma peça de meio (“wing”) do 4x4x4, qualquer combinação de duas peças que tenham partes coloridas.
 - 5b5f+) [EXEMPLO] Há um [Guia Visual](https://drive.google.com/file/d/15XszaCGNvy3Dk6X6qERzZWZaDH1RH04z/view) disponível para a [Regra 5b5f](regulations:regulation:5b5f)

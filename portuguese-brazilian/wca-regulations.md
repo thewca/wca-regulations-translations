@@ -208,7 +208,7 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
     - 5b3) Reparos permitidos:
         - 5b3a) Se quaisquer peças se soltaram ou saíram do lugar, o competidor pode colocá-las de volta.
         - 5b3b) Se o competidor reparar o quebra-cabeça mas perceber que o quebra-cabeça está insolúvel mais tarde na resolução, ele pode desmontar e remontar um máximo de 4 peças para tornar o quebra-cabeça solúvel.
-        - 5b3c) Se o quebra-cabeça está insolúvel, e pode ser tornado solúvel rotacionando-se uma única peça de canto, o competidor pode corrigir essa peça girando-a no lugar, sem desmontar o quebra-cabeça.
+        - 5b3c) Se o quebra-cabeça está insolúvel, e pode ser tornado solúvel rotacionando-se uma única peça de canto, o competidor pode corrigir essa peça girando-a no lugar, sem desmontar o quebra-cabeça. Se várias peças de quina tiverem sido rotacionadas como resultado de defeitos no quebra-cabeça, o competidor pode corrigir essas rotações, desde que o número de peças corrigidas pelo competidor não exceda o número de peças rotacionadas por defeitos no quebra-cabeça.
     - 5b4) Durante um fase vendada (ver [Regra B4](regulations:regulation:B4)) todos os reparos tem que ser feitos vendados. Pena: desqualificação da tentativa (DNF).
     - 5b5) Se algumas partes do quebra-cabeça estiverem fisicamente desconectadas ou não posicionadas totalmente ao final da tentativa, as seguintes regras se aplicam:
         - 5b5a) Se uma ou mais partes sem faces coloridas forem afetadas, o quebra-cabeça é considerado resolvido.
