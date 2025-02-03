@@ -258,8 +258,8 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
         - 9b5a) Formato de rodada completa para esse evento: "Melhor de X" (onde X é 1, 2 ou 3).
         - 9b5b) Formato de corte para esses eventos: fase de corte de "Melhor de X" (onde X é 1 ou 2) para "Melhor de Y" (onde Y é 2 ou 3, e Y > X).
 - 9f) Os resultados de uma rodada são medidos da seguinte forma:
-    - 9f1) Todos os resultados cronometrados abaixo de 10 minutos, com exceção de 3x3x3 Multi-Vendado, são truncados para baixo em centésimos de segundo. Todas as médias cronometradas abaixo de 10 minutos são arredondadas para o centésimo de segundo mais próximo.
-    - 9f2) Todos os resultados e médias cronometrados acima de 10 minutos, incluindo todos os tempos para resultados de 3x3x3 Multi-Vendado, são arredondados para o segundo mais próximo (p. ex. X.49 se torna X e X.50 se torna X+1).
+    - 9f1) Todos os resultados cronometrados abaixo de 10 minutos, com exceção de 3x3x3 Multi-Vendado, são truncados em centésimos de segundo. Todas as médias cronometradas abaixo de 10 minutos são arredondadas para o centésimo de segundo mais próximo.
+    - 9f2) Todos os resultados e médias cronometrados acima de 10 minutos, incluindo todos os tempos para resultados de 3x3x3 Multi-Vendado, são truncados em segundos.
     - 9f4) O resultado de uma tentativa é registrado como DNF (Did Not Finish) se a tentativa foi desqualificada ou não foi completada.
         - 9f4a) Se um competidor violar uma regra claramente de modo que a tentativa será, com certeza, desqualificada, o juiz deve interromper imedaitamente a tentativa. Se o juiz estiver incerto ou se uma disputa puder ser disruptiva (p. ex. porque uma tentativa extra poderia atrasar a competição), o juiz deve consultar o Delegado da WCA.
     - 9f5) O resultado de uma tentativa é registrado como DNS (Did Not Start) se o competidor tem direito a uma tentativa mas desiste dela.
