@@ -103,6 +103,7 @@ Para ser mais informativa, cada Orientação é classificada com um dos seguinte
 - 5b5f+) [EXEMPLO] Há um [Guia Visual](https://drive.google.com/file/d/15XszaCGNvy3Dk6X6qERzZWZaDH1RH04z/view) disponível para a [Regra 5b5f](regulations:regulation:5b5f)
 - 5b5f++) [EXEMPLO] Um cubo 4x4x4 com uma peça de meio "wing" girada no lugar é considerado resolvido
 - 5b5f+++) [EXEMPLO] Uma peça de canto girada em seu lugar é considerada uma peça em uma posição válida, mas esta posição não faz esta peça estar resolvida.
+- 5b5f++++) [ESCLARECIMENTO] Se houver várias peças parcialmente destacadas ou não completamente colocadas, sua posição final é avaliada uma de cada vez. A peça que estiver mais próxima de uma posição aberta é avaliada primeiro, e então é considerada como ocupante dessa posição. Esse processo é repetido até que todas as peças parcialmente destacadas ou não completamente colocadas tenham sido avaliadas.
 - 5c+) [LEMBRETE] Se um competidor tem um defeito no quebra-cabeça, isso não dá a ele o direito de uma tentativa adicional.
 
 
