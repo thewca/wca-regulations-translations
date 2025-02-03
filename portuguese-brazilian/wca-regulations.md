@@ -202,7 +202,7 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
 ## <article-5><puzzle-defects><puzzledefects> Artigo 5: Defeitos nos quebra-cabeças
 
 - 5a) Exemplos de defeitos nos quebra-cabeças incluem: peças soltas, peças giradas no lugar e parafusos/tampas/adesivos destacados.
-- 5b) Se um defeito no quebra-cabeça ocorrer durante uma tentativa, o competidor pode escolher entre reparar o defeito e continuar a tentativa ou parar a tentativa.
+- 5b) Se um defeito no quebra-cabeça ocorrer durante uma tentativa, o competidor pode escolher entre reparar o defeito e continuar a tentativa ou parar a tentativa. O competidor não pode causar um defeito no quebra-cabeça intencionalmente, a não ser que esteja corrigindo um defeito anterior no quebra-cabeça (ver [Regra 5b3b](regulations:regulation:5b3b) e [Regra 5b3c](regulations:regulation:5b3c)). Exemplos de causar um defeito no quebra-cabeça intencionalmente: remover uma tampa de um centro de um 3x3x3, girar uma quina, remover um adesivo.
     - 5b1) Se o competidor escolher reparar o quebra-cabeça, ele tem que reparar somente as peças defeituosas. Ferramentas e/ou peças de outros quebra-cabeças não podem ser usadas para reparar o quebra-cabeça original. Pena: desqualificação da tentativa (DNF).
     - 5b2) Qualquer reparo ao quebra-cabeça não pode dar ao competidor uma vantagem na resolução do quebra-cabeça. Pena: desqualificação da tentativa (DNF).
     - 5b3) Reparos permitidos:
