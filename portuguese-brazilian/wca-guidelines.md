@@ -1,6 +1,6 @@
 # <wca-title>Orientações Adicionais da WCA
 
-<version>Versão: 1 de agosto de 2023
+<version>Versão: 1 de janeiro de 2025
 
 
 ## Notas
@@ -96,6 +96,8 @@ Para ser mais informativa, cada Orientação é classificada com um dos seguinte
 - 4g2+) [ESCLARECIMENTO] O embaralhador ainda tem que verificar se o Clock está embaralhado corretamente
 - 4g2++) [ESCLARECIMENTO] Se o Clock cair durante a retirada do pote, uma tentativa adicional tem que ser dada.
 - 4g2+++) [RECOMENDAÇÃO] O embaralhador deve deixar as súmulas de fora do pote ao invés de coloca-las dentro do pote.
+- 4g1b+) [ESCLARECIMENTO] Para o 5x5x5 Vendado, estados incorretos do quebra-cabeça devem sempre ser corrigidos.
+- 4g1b++) [RECOMENDAÇÃO] É recomendável que o Delegado da WCA use critérios mais rigorosos ao determinar se estados incorretos para o 5x5x5 Vendado precisam ser corrigidos.
 
 
 ## <article-5><puzzle-defects><puzzledefects> Artigo 5: Defeitos nos quebra-cabeças

@@ -193,7 +193,10 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
     - 4d5) O Skewb é embaralhado começando com a face branca (se não for possível, a face mais clara) no topo e a face verde (se não for possível, a face adjacente mais escura) na frente-esquerda.
 - 4f) As sequências de embaralhamento da competição têm que ser geradas usando uma versão oficial atual de um programa de embaralhamento oficial da WCA (disponível [no site da WCA](https://www.worldcubeassociation.org/regulations/scrambles/)).
 - 4g) Depois de embaralhar o quebra-cabeça, o embaralhador precisa verificar que ele foi embaralhado corretamente. Se o estado do quebra-cabeça estiver errado, o embaralhador precisa corrigi-lo (p. ex. resolvendo o quebra-cabeça e aplicando a sequência de embaralhamento novamente).
-    - 4g1) Exceção: Para o Cubo 6x6x6, o Cubo 7x7x7 e oMegaminx, não é necessário corrigir o estado do quebra-cabeça, a critério do Delegado da WCA.
+    - 4g1) As seguintes exceções se aplicam:
+        - 4g1a) Para o Cubo 6x6x6, Cubo 7x7x7 e Megaminx, não é necessário corrigir o estado do quebra-cabeça, a critério do Delegado da WCA.
+        - 4g1b) Para o Cubo 5x5x5, o embaralhador deve corrigir o estado do quebra-cabeça. Se a correção do estado do quebra-cabeça causar um prejuízo severo ao cronograma, não é necessário corrigí-lo, a critério do Delegado da WCA.
+    - 4g2) Para o 3x3x3 Multi-Vendado, após embaralhar todos os cubos, o embaralhador deve verificar se não há embaralhamentos duplicados.
 
 
 ## <article-5><puzzle-defects><puzzledefects> Artigo 5: Defeitos nos quebra-cabeças
