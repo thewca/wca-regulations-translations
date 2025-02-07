@@ -132,8 +132,8 @@ Para ser mais informativa, cada Orientação é classificada com um dos seguinte
 - 9t+) [EXPLICAÇÃO] Por conta do [9t1](regulations:regulation:9t1) e [9t2](regulations:regulation:9t2), as rodadas podem aparentemente não cumprir [9p1](regulations:regulation:9p1), [9m1](regulations:regulation:9m1), [9m2](regulations:regulation:9m2) ou [9m3](regulations:regulation:9m3). No entanto, fazer mudanças para cumprir estas regras afetaria competidores inocentes, o que justifica que os resultados sejam mantidos os mesmos.
 - 9t++) [ADIÇÃO] Se a mudança dos resultados acontecer durante a competição, esta regra também pode ser aplicada. Neste caso, [9t1](regulations:regulation:9t1), [9t2](regulations:regulation:9t2) e [9t3](regulations:regulation:9t3) devem também ser seguidos, a critério do Delegado da WCA.
 - 9t3+) [EXEMPLO] Supondo que o competidor A obtenha uma média de 10,00 e o competidor B obtenha uma média de 10,05 na primeira rodada de uma modalidade, de modo que o competidor A avance para a final mas o competidor B, não. Se um erro de anotação dos resultados for descoberto, e o competidor B tenha, na verdade, obtido uma média de 9.95 (e devesse ter avançado no lugar de A), o competidor A terá o seu resultado da final mantido.
-- 9u+) [ADIÇÃO] Para competições em múltiplos lugares (por exemplo: "Competições simultâneas de 3x3x3 em Menos Movimentos") todos os requisitos precisam ser satisfeitos em todos os lugares para que se considere a competição como terminada
-- 9u2+) [RECOMENDAÇÃO] O Delegado da WCA deve anunciar o fim da competição (por exemplo: antes do fim da cerimônia de premiação)
+- 9u+) [ADIÇÃO] Para competições em múltiplos lugares (em outras palavras, "Competições simultâneas de 3x3x3 em Menos Movimentos") todos os requisitos precisam ser satisfeitos em todos os lugares para que se considere a competição como terminada.
+- 9u2+) [RECOMENDAÇÃO] O Delegado da WCA deve anunciar o fim da competição (por exemplo: antes do fim da cerimônia de premiação).
 - 9u2b+) [ADIÇÃO] A data de calendário do fim da competição é determinada pela hora local do lugar em que a competição ocorreu.
 
 
