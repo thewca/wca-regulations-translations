@@ -38,21 +38,26 @@ Para ser mais informativa, cada Orientação é classificada com um dos seguinte
 - 1h++) [RECOMENDAÇÃO] Todas as tentativas na rodada final de um evento, assim como todas as tentativas de 3x3x3 em Menos Movimentos, devem ter as mesmas sequências de embaralhamento para todos os competidores (isto é: somente um grupo).
 - 1h+++) [ADIÇÃO] Competidores podem solicitar competir em um horário diferente do horário definido no cronograma para aquela rodada em um grupo diferente. O Delegado da WCA deve cuidadosamente considerar a justiça e praticidade da situação antes de aprovar qualquer solicitação dessa natureza, e tem que assegurar que estas tentativas sigam a [Regra 9l](regulations:regulation:9l) (isto é: têm que começar depois que todos os competidores tenham terminado as suas tentativas de qualquer rodada anterior do mesmo evento, e terminar antes que qualquer competidor tenha começado uma tentativa de qualquer rodada posterior do mesmo evento). Competidores solicitando estas acomodações devem contatar a equipe de organização e o Delegado da WCA antes da competição. Exceção: Estas acomodações não são permitidas para o 3x3x3 em Menos movimentos, que possui as suas próprias acomodações especificadas na [Orientação E2b++](guidelines:guideline:E2b++)
 - 1h1+) [ESCLARECIMENTO] Embaralhadores/juízes somente podem embaralhar/fiscalizar outros competidores do mesmo grupo se for importante para a logística da competição.
+- 1h1a+) [ESCLARECIMENTO] Juízes que estiverem competindo em uma tentativa de 3x3x3 em Menos Movimentos não devem avaliar tentativas até terem terminado a sua tentativa. Eles podem começar a avaliar antes do fim dos 60 minutos se eles já tiverem enviado as suas próprias tentativas (ver Orientação E2b+)[Guidelines:guideline:E2b+].
 - 1h1++) [ESCLARECIMENTO] No 3x3x3 em Menos Movimentos, juízes podem fiscalizar competidores em seu próprio grupo antes de terem terminado sua tentativa (isto é: enquanto estão competindo).
 
 
 ## <article-2><competitors><competitors> Artigo 2: Competidores
 
-- 2c+) [ADIÇÃO] Competidores novatos devem se inscrever usando seu nome legal. É permitido usar uma versão reduzida do nome ou um apelido razoável, a critério do Delegado da WCA.
+- 2c+) [ADIÇÃO] Competidores em sua primeira competição devem se registrar utilizando o seu nome legal ou o nome pelo qual preferem ser chamados na vida real. Últimos nomes deve sem últimos nomes legais.
 - 2c2+) [ESCLARECIMENTO] Um perfil da WCA é a reunião de dados relacionados a um competidor, e inclui suas informações pessoais (nome, nacionalidade, gênero e data de nascimento) assim como todos os seus resultados em competições oficiais da WCA.
 - 2d+) [ADIÇÃO] Data de nascimento e informações de contato devem ser especialmente protegidas.
-- 2d++) [RECOMENDAÇÃO] Se algum terceiro (p. ex. um jornalista) solicitar à equipe de organização o contato de algum competidor, deve ser previamente solicitado consentimento ao competidor.
-- 2e+) [ESCLARECIMENTO] Se um competidor tem múltipla nacionalidade, ele pode escolher qual país quer representar em sua primeira competição.
-- 2e++) [ADIÇÃO] O Delegado da WCA deve verificar também o nome e data de nascimento por meio de documentos (p. ex. um passaporte) de todos os competidores em sua primeira competição.
+- 2d++) [LEMBRETE] Se um terceiro (p. ex. jornalista) pedir à equipe de organização para ser colocado em contato com qual(is)quer competidor(es), o(s) competidor(es) devem ser perguntados antes para obter consentimento.
+- 2e+) [ESCLARECIMENTO] Se um competidor tiver múltiplas cidadanias, ele pode escolher qual região representar em sua primeira competição.
+- 2e++) [ADIÇÃO] É recomendável que o Delegado da WCA também verifique o nome e a data de nascimento por meio de documentos ou fotos de documentos (p. ex. um passaporte) de um novo competidor em sua primeira competição.
 - 2e3+) [ESCLARECIMENTO] Competidores apátridas não têm recordes ou rankings nacionais ou continentais.
-- 2i+) [ADIÇÃO] Embora o competidor possa pegar um cronômetro para ver o seu tempo atual (quando não está vendado), ele não deve começar, parar, pausar ou de qualquer forma interagir com a cronometragem do relógio.
-- 2i++) [ADIÇÃO] A equipe de organização pode fornecer ao competidor um cronômetro não oficial para ver o tempo decorrido (iniciado ao mesmo tempo que o cronômetro principal), situação em que o competidor não poderá tocar o cronômetro oficial.
-- 2i+++) [LEMBRETE] Quebra-cabeças que possuam conexão bluetooth são considerados aparelhos eletrônicos.
+- 2i+) [ADIÇÃO] Embora o competidor possa pegar o cronômetro para ver o tempo atual (quando não estiver vendado), ele não deve começar, parar, pausar ou, de qualquer outra foram, interagir com a manutenção de tempo do cronômetro. Exceção: O competidor pode parar o cronômetro ao fim da sua tentativa se o juíz não estiver imediatamente disponível (ver Regra A6a1)[regulations:regulation:A6a1).
+- 2i++) [ADIÇÃO] A equipe de organização pode entregar ao competidor um cronômetro não oficial para ver o tempo decorrido (iniciado juntamento ao cronômetro principal), neste caso, o competidor não é permitido a tocar o cronômetro oficial. Exceção: Ver a exceção na Orientação 2i+[guidelines:guideline:2i+].
+- 2i+++) [LEMBRETE] Quebra-cabeças bluetooth são considerados aparelhos eletrônicos.
+- 2i++++) [ESCLARECIMENTO] O competidor é considerado usando um aparelho eletrônico se o estiver empregando um propósito específico.
+- 2i+++++) [EXEMPLO] Exemplos que não são considerados usar um aparelho eletrônico: mover uma câmera, virar um telefone de cabeça para baixo, usar um smartwatch.
+- 2i++++++) [EXEMPLO] Exemplos de uso de aparelho eletrônico: apertar um botão de câmera, checar uma mensagem em um telefone ou smartwatch.
+- 2i+++++++) [ESCLARECIMENTO] Aparelhos que foram previamente considerados eletrônicos mas que tiveram as suas partes eletrônicas removidas podem ser permitidos, a critério do Delegado da WCA.
 - 2i1b+) [ESCLARECIMENTO] Isso inclui dispositivos que estejam desligados ou desconectados.
 - 2i1c+) [ESCLARECIMENTO] Aquecedores de mão eletrônicos são considerados aparelhos eletrônicos, e portanto não são permitidos durante a inspeção ou resolução. No entanto,  aquecedores de mão não eletrônicos podem ser usados a qualquer momento durante uma tentativa.
 - 2i2a+) [ADIÇÃO] Um monitor de uma câmera pode estar visível ao competidor contanto que este não mostre a imagem em tempo real da câmera.
