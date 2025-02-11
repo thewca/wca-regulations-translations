@@ -452,7 +452,7 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
         - A7c5) Assinaturas ausentes encontradas antes do fim da competição (ver [Regra 9u](regulations:regulation:9u)) podem ser adicionadas pelo juiz e/ou competidor, a critério do Delegado da WCA.
         - A7c6) É recomendado que assinaturas de competidores sejam consistentes durante toda a competição e, através dela, seja possível identificar o competidor. Competidores não devem assinar incorretamente de maneira intencional. Pena: desqualificação da tentativa (DNF), a critério do Delegado da WCA.
         - A7c7) Não é recomendável que o competidor escreva na súmula em nenhum outro lugar além da área destinada para sua assinatura.
-        - A7c8) Se uma assinatura for esquecida devido a inexperiência do competidor, ela pode ser adicionada a qualquer momento, a critério do Delegado da WCA.Se não for mais possível que a súmula seja assinada fisicamente pelo competidor ou pelo juiz, uma declaração de que o resultado foi registrado corretamente pode ser aceita como assinatura, a critério do Delegado da WCA.
+        - A7c8) Se uma assinatura for esquecida devido a inexperiência do competidor, ela pode ser adicionada a qualquer momento, a critério do Delegado da WCA. Se não for mais possível que a súmula seja assinada fisicamente pelo competidor ou pelo juiz, uma declaração de que o resultado foi registrado corretamente pode ser aceita como assinatura, a critério do Delegado da WCA.
     - A7f) Quando a súmula de um competidor em uma rodada estiver completa, o juiz a entrega para o anotador de resultados.
     - A7g) A critério do Delegado da WCA, um incidente ou pena causados pela falta de experiência de um competidor pode ser substituído por uma tentativa adicional.
 
