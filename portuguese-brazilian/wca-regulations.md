@@ -442,7 +442,7 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
 - A7) Registrando resultados:
     - A7a) O juiz diz ao competidor o resultado.
         - A7a1) O juiz deve indicar ao competido que o quebra-cabeça está resolvido, ou que uma penalidade será aplicada.
-    - A7b) O juiz anota o resultado em uma súmula e assina ao lado do resultado para atestar que o resultado está correto, completo, formatado corretamente e legível. É recomendado que a assinatura do juiz seja consistente durante toda a competição e que, através dela, seja possível identificar o juiz.
+    - A7b) O juiz anota o resultado em uma súmula e assina ao lado do resultado para atestar que o resultado está correto, completo, formatado corretamente e legível. É recomendável que a assinatura do juiz seja consistente durante toda a competição e que, através dela, seja possível identificar o juiz.
         - A7b1) Se alguma pena for aplicada, o juiz anota o resultado original mostrado no timer, juntamente com quaisquer penas. O formato deve ser "X + T + Y = F", em que X representa a soma das penas de tempo antes/no início da resolução, T representa o tempo mostrado no timer, Y representa a soma das  de tempo durante/depois da resolução, e F representa o resultado final (p. ex. 2 + 17,65 + 2 = 21,65). Se X e/ou Y forem 0, os termos 0 são omitidos (p. ex. 17,65 + 2 = 19,65).
     - A7c) O competidor precisa verificar o resultado registrado e assinar (ou colocar sua inicial) a súmula para reconhecer que o resultado está correto, completo, devidamente formatado e claramente legível. Isso conclui a tentativa.
         - A7c1) Se o competidor ou o juiz se recusar a aceitar e assinar a súmula, o Delegado da WCA tem que resolver a disputa.
