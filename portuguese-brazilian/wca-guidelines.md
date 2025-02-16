@@ -185,7 +185,7 @@ Para ser mais informativa, cada Orientação é classificada com um dos seguinte
 - A4d2+) [ESCLARECIMENTO] Se a inspeção levou exatos 17 segundos (isso é. 17.00), haverá desqualificação da tentativa (DNF).
 - A5b+) [ESCLARECIMENTO] Enquanto estiver inspecionando ou resolvendo o quebra-cabeça, o competidor pode tocar o quebra-cabeça com qualquer parte do corpo. Exceção: 3x3x3 com Uma Mão (ver [Regra C1b](regulations:regulation:C1b)).
 - A5b++) [ESCLARECIMENTO] Se uma parte do quebra-cabeça do competidor se solta (ver [Regra 5a](regulations:regulation:5a)), o competidor não deve pedir por assistência em recuperar ou localizar a parte e é recomendável que o juiz tente prevenir de que outros auxiliem. Se alguém pegar a parte solta para o competidor, o juiz ou o competidor podem pedir para que ele a coloque na estação de resolução e para que ele não auxilie mais.
-- A5b+++) [ESCLARECIMENTO] Não é recomendado que o delegado da WCA conceda ao competidor uma tentativa extra somente com base na possibilidade de alguém ter pego a parte solta so quebra-cabeça do competidor.
+- A5b+++) [ESCLARECIMENTO] Não é recomendável que o Delegado da WCA conceda ao competidor uma tentativa extra somente com base na possibilidade de alguém ter pego a parte solta do quebra-cabeça do competidor.
 - A6b+) [EXPLICAÇÃO] O valor arbitrário de 0,06 foi escolhido para levar em conta imprecisões devidas ao mau funcionamento do timer Stackmat.
 - A6b1+) [EXPLICAÇÃO] O valor arbitrário de 0,06 foi escolhido para levar em conta imprecisões devidas ao mau funcionamento do timer Stackmat.
 - A6e+) [ESCLARECIMENTO] Se o quebra-cabeça cair no colo do competidor após este ter parado o timer, isso é considerado como tocar o quebra-cabeça.
