@@ -326,10 +326,10 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
 - 11h) Um Delegado da WCA pode exigir que competidores em violação severa da [Regra 2k3](regulations:regulation:2k3) deixem o local da competição, considerando a gravidade da situação e o melhor caminho de ação possível. Se o competidor se recusar a fazer isso, ele pode enfrentar ação disciplinar na WCA.
 - 11i)
     - 11i2)
-        - 11i2a) Se uma tentativa extra geraria um resultado significativamente mais justo, a tentativa original é considerada inválida (ver [Regra 9l](regulations:regulation:9l))
-        - 11i2b) Se uma tentativa extra por um embaralhamento incorreto que gerou um resultado significativamente injusto não puder ser realizada (por exemplo, porque o embaralhamento incorreto foi descoberto após a competição), o resultado será considerado DNS.
+        - 11i2a) Se uma tentativa extra resultar em um resultado significativamente mais justo, a tentativa original é considerada inválida (ver [Regra 9l](regulations:regulation:9l))
+        - 11i2b) Se uma tentativa extra, por um embaralhamento incorreto que gerou um resultado significativamente injusto, não puder ser realizada (por exemplo, porque o embaralhamento incorreto foi descoberto após a competição), o resultado será considerado DNS.
 - 11j) Se um competidor receber incorretamente um embaralhamento que ele já recebeu (isso é, um embaralhamento repetido), as regras a seguir se aplicam:
-    - 11j1) Se um competidor percebe e acredita que recebeu um embaralhamento repetido durante a inspeção, é recomendado que ele pare a tentativa e chame um Delegado da WCA sem aplicar movimentos no quebra-cabeça. Não é recomendado que um competidor seja punido por reportar incorretamente um embaralhamento repetido de forma genuína, a critério do Delegado da WCA.
+    - 11j1) Se um competidor perceber que recebeu um embaralhamento repetido durante a inspeção, é recomendado que ele pare a tentativa e chame um Delegado da WCA sem aplicar movimentos no quebra-cabeça. Não é recomendado que um competidor seja punido por reportar incorretamente um embaralhamento repetido de forma genuína, a critério do Delegado da WCA.
     - 11j2) Se o erro for percebido durante o grupo, é recomendado que o Delegado da WCA tente fornecer o embaralhamento correto ao competidor. Uma tentativa extra pode ser dada se o Delegado da WCA não tiver certeza de qual embaralhamento é o correto.
     - 11j3) Se o erro for percebido durante a competição mas após o grupo, a tentativa que falta deve ser substituída por uma tentativa extra.
     - 11j4) Se o erro for percebido apenas após a competição, o resultado será considerado DNS.
@@ -379,7 +379,7 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
     - 12h1) O quebra-cabeça é orientado com três faces totalmente visíveis, das quais a face superior está no topo.
     - 12h2) Sentido horário, 120 graus: R (a camada ao redor do vértice inferior-direito visível mais distante), U (a camada ao redor do vértice superior visível mais distante), L (a camada ao redor do vértice inferior-esquerdo visível mais distante), B (a camada ao redor do vértice posterior visível mais distante).
     - 12h3) Sentido anti-horário, 120 graus: R’ (a camada ao redor do vértice inferior-direito visível mais distante), U’ (a camada ao redor do vértice superior visível mais distante), L’ (a camada ao redor do vértice inferior-esquerdo visível mais distante), B’ (a camada ao redor do vértice posterior visível mais distante).
-- 12i) Um movimento é considerado como toda modificação ao estado do quebra-cabeça nos termos das notações definidas acima, incluindo desalinhamentos além dos limites descritos na [Regra 10f](regulations:regulation:10f)
+- 12i) Definição: Um movimento é considerado como toda modificação ao estado do quebra-cabeça nos termos das notações definidas acima, incluindo desalinhamentos além dos limites descritos na [Regra 10f](regulations:regulation:10f)
     - 12i1) Exceção: Para o Clock, apenas mudanças na posição das faces internas dos relógios são consideradas movimentos. Mudanças nos estados dos pinos não são consideradas movimentos.
 
 
@@ -407,16 +407,16 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
         - A2c1) O embaralhador posiciona um pote sobre o quebra-cabeça embaralhado, de forma que seja impossível a qualquer competidor ou espectador ver qualquer parte do quebra-cabeça. O pote permanece sobre o quebra-cabeça até o início da tentativa.
         - A2c2) Enquanto estiverem competindo, competidores não devem tentar ativamente assistir outro competidor completar uma tentativa oficial. Se o competidor assistir outro competidor realizar uma tentativa em um embaralhamento que ele ainda não recebeu, a tentativa correspondente é considerada DNF.
     - A2d) Ao receber um quebra-cabeça do embaralhador, o juiz rapidamente inspeciona-o para assegurar que foi embaralhado corretamente. Em caso de dúvida, o juiz contata o embaralhador, que faz uma conferência detalhada.
-        - A2d1) O embaralhador ou um juiz autorizado deve checar o quebra-cabeça embaralhado, e assinar na súmula para afirmar que ele aplicou a sequência de embaralhamento de número corrreto e chechou que ele corresponde à imagem (ver [Regra 4g](regulations:regulation:4g)). Exceção: para o Cubo 6x6x6, o Cubo 7x7x7, e o Megaminx o embaralhador pode assinar para afirmar que o quebra-cabeça está embaralhado suficientemente (ver [Regra 4g1](regulations:regulation:4g1)). É recomendado que as assinaturas dos embaralhadores sejam consistentes durante a competição, e identifiquem o embaralhador.
+        - A2d1) O embaralhador ou um juiz autorizado deve checar o quebra-cabeça embaralhado, e assinar na súmula para afirmar que ele aplicou a sequência de embaralhamento de número corrreto e chechou que ele corresponde à imagem (ver [Regra 4g](regulations:regulation:4g)). Exceção: para o Cubo 6x6x6, o Cubo 7x7x7, e o Megaminx o embaralhador pode assinar para afirmar que o quebra-cabeça está suficientemente embaralhado (ver [Regra 4g1](regulations:regulation:4g1)). É recomendado que as assinaturas dos embaralhadores sejam consistentes durante a competição, e identifiquem o embaralhador.
     - A2e) O juiz posiciona o quebra-cabeça sobre o tapete em uma posição aleatória e certifica-se de que ele esteja completamente coberto.
         - A2e1) O competidor não pode solicitar uma orientação específica, e o juiz não pode influenciar a orientação do quebra-cabeça baseado no que sabe ou espera a respeito do estado do quebra-cabeça.
         - A2e2) O competidor não deve remover o pote por conta própria. Penalidade: desqualificação da tentativa (DNF).
 - A3) Inspeção:
     - A3a) O competidor pode inspecionar o quebra-cabeça no início de cada tentativa.
-        - A3a1) O competidor tem até 15 segundos para inspecionar o quebra-cabeça e iniciar a resolução.
-    - A3b) O juiz prepara o timer ligando-o e zerando-o se necessário. Se o Timer Geração 5 Pro estiver em utilização, o juiz deve assegurar que ele está no modo 2-pad. Separadamente, o juiz também prepara um cronômetro para marcar o tempo de inspeção (Ver [Regra A4d](regulations:regulation:A4d)).
+        - A3a1) O competidor tem estritamente menos de 15 segundos para inspecionar o puzzle e começar a resolução.
+    - A3b) O juiz prepara o timer ligando-o e zerando-o se necessário. Se o Timer Geração 5 Pro estiver sendo usado, o juiz deve assegurar que ele está no modo 2-pad. Separadamente, o juiz também prepara um cronômetro para marcar o tempo de inspeção (Ver [Regra A4d](regulations:regulation:A4d)).
         - A3b1) Quando o juiz acredita que o competidor está pronto, ele pergunta "PRONTO?". O competidor deve estar pronto para iniciar a tentativa dentro de um minuto após ter sido chamado, senão perde o direito à tentativa (DNS), a critério do juiz.
-        - A3b2) O competidor inicia a tentativa confirmando que está pronto, e então o juiz descobre o quebra-cabeça e começa a marcar o tempo de inspeção.
+        - A3b2) O competidor inicia a tentativa confirmando que está pronto, e então o juiz retira o pote de cima do quebra-cabeça e começa a marcar o tempo de inspeção.
         - A3b3) Quando 8 segundos de inspeção tiverem passado, o juíz diz "8 SEGUNDOS".
         - A3b4) Quando 12 segundos de inspeção tiverem passado, o juíz diz "12 SEGUNDOS".
     - A3c) O competidor pode pegar o quebra-cabeça durante a inspeção.
