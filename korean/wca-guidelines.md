@@ -108,7 +108,7 @@ WCA 지침은 [WCA 규정](regulations:top)을 보완한다. WCA에 대한 자�
 
 ## <article-5><puzzle-defects><puzzledefects> 제5조: 퍼즐 파손
 
--   5b5+) [예시] Examples of parts physically detached, resulting in a solved state: one 3x3x3 center cap, one big cube center piece, an inner piece of a big cube.
+-   5b5+) [예시] 부품이 물리적으로 떨어졌지만 맞추어진 상태로 간주되는 예시: 하나의 3x3x3 센터 캡, 하나의 빅큐브 센터 조각, 하나의 빅큐브 내부 조각.
 -   5b5++) [예시] 부품이 물리적으로 떨어져 있으며 DNF로 처리되는 경우의 예: 두 개의 3x3x3 센터 캡, 두 개의 빅큐브 센터 조각, 하나의 3x3x3 엣지 조각, 하나의 4x4x4 엣지 조각("윙"), 색이 있는 두 조각의 조합.
 -   5b5f+) [예시] [규정 5b5f](regulations:regulation:5b5f)에 대한 [시각적 가이드](https://drive.google.com/file/d/15XszaCGNvy3Dk6X6qERzZWZaDH1RH04z/view)가 제공된다.
 -   5b5f++) [예시] 4x4x4 큐브의 엣지 "윙"이 제자리에서 뒤틀린 경우, 맞추어진 것으로 간주한다.
