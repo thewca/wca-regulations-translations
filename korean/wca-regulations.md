@@ -2,6 +2,7 @@
 
 <version>버전: 2025년 1월 1일
 
+
 ## 참고
 
 ### 번역
@@ -43,11 +44,13 @@ WCA 규정 및 지침의 변천은 [GitHub](https://github.com/thewca/wca-regula
 질문 및 피드백은 [WCA 규정 위원회(WRC)](mailto:wrc@worldcubeassociation.org)로 연락한다.
 규정 및 지침 번역본에 대한 질문 및 피드백은 [한국큐브문화진흥회(KCCU)](mailto:KoreaCubeCultureUnited@gmail.com)로 연락한다.
 
+
 ## <contents> [목차](regulations:contents)
 
 참고: 규정이 삭제되어도 조항 및 규정 번호는 재할당되지 않으므로, 번호 간에 차이가 있을 수 있다.
 
 <table-of-contents>
+
 
 ## <article-1><officials><officials> 제1조: 운영진
 
@@ -70,6 +73,7 @@ WCA 규정 및 지침의 변천은 [GitHub](https://github.com/thewca/wca-regula
         -   1h1b) 3x3x3 눈 가리고 맞추기(복수) 종목에서, 선수는 자신의 시도를 끝낸 후에 자신이 속한 조의 선수에 대해 심판 업무를 할 수 있다.
 -   1j) 모든 운영진은 대회에 참가할 수 있다.
 -   1k) 운영진은 여러 역할을 수행할 수 있다(예: 운영진, WCA 파견위원, 심판, 기록 입력자, 스크램블러).
+
 
 ## <article-2><competitors><competitors> 제2조: 선수
 
@@ -130,6 +134,7 @@ WCA 규정 및 지침의 변천은 [GitHub](https://github.com/thewca/wca-regula
     -   2u1) 예외: 개별적으로 예정된 시도(예: 3x3x3 최소회전 시도, 3x3x3 눈 가리고 맞추기(복수) 시도)에 제시간에 출석하지 않은 선수는 WCA 파견위원의 재량에 따라 해당 시도를 거부한 것(DNS)으로 간주할 수 있다.
     -   2u2) 예외: 누적 기록 제한이 있는 라운드에서, 대회장에 늦게 도착한 선수는 WCA 파견위원의 재량에 따라 축소된 누적 기록 제한으로 기록을 측정할 수 있다.
 
+
 ## <article-3><puzzles><puzzles> 제3조: 퍼즐
 
 -   3a) 선수는 대회를 위한 퍼즐을 직접 준비할 책임이 있다.
@@ -170,6 +175,7 @@ WCA 규정 및 지침의 변천은 [GitHub](https://github.com/thewca/wca-regula
     -   3l2) 로고는 음각, 양각이 가능하며 덧붙이는 스티커로 구성될 수 있다.
 -   3m) 위 WCA 규정을 모두 만족하는 모든 브랜드의 퍼즐 및 부품들은 허용된다.
 
+
 ## <article-4><scrambling><scrambling> 제4조: 스크램블링
 
 -   4a) 스크램블러는 퍼즐에 스크램블 시퀀스를 적용한다.
@@ -197,6 +203,7 @@ WCA 규정 및 지침의 변천은 [GitHub](https://github.com/thewca/wca-regula
         -   4g1b) 5x5x5 큐브 종목은 스크램블러가 퍼즐의 상태를 정정하여야 한다. 퍼즐의 상태를 정정하는 것이 대회 일정에 심각한 지장을 줄 경우, WCA 파견위원에 재량에 따라 퍼즐의 상태를 정정하지 않아도 된다.
     -   4g2) 눈 가리고 맞추기(복수) 솔빙에서는, 모든 큐브의 스크램블링을 마친 후 중복된 스크램블이 없는 것을 반드시 스크램블러가 확인해야 한다.
 
+
 ## <article-5><puzzle-defects><puzzledefects> 제5조: 퍼즐 파손
 
 -   5a) 퍼즐 파손의 예시는 다음을 포함한다.: 튀어나온 조각, 제자리에서 뒤틀린 조각, 분리된 나사/캡/스티커.
@@ -217,6 +224,7 @@ WCA 규정 및 지침의 변천은 [GitHub](https://github.com/thewca/wca-regula
         -   5b5f) 만약 부품이 부분적으로 떨어져 있거나 제자리에 완전히 위치하지 못하면, 해당 부품의 최종 위치는 퍼즐의 현재 상태를 고려할 때 영향을 받은 조각이 퍼즐 메커니즘 안에서 정상적으로 맞을 수 있는 가장 가까운 위치이다. 최종 위치가 조각이 맞추어진 것으로 만들게 한다면, 해당 조각은 퍼즐 파손으로부터 영향을 받지 않은 것으로 여긴다.
     -   5b6) 정의: 부품이란 퍼즐의 일반적인 작동 중에 서로 연결되어 있고 서로에 대해 움직이지 않는, 퍼즐 구성 요소 그룹에서 완전히 연결된 하나 이상의 구성 요소이다(예: 3x3x3 센터 캡, 피라밍크스 팁, 한 면이 없는 3x3x3 코너 조각, 3x3x3 코너 조각의 한 면).
 
+
 ## <article-7><environment><environment> 제7조: 환경
 
 -   7b) 관람객은 기록 측정석과 반드시 최소 1.5 미터 이상 떨어져 있어야 한다.
@@ -233,6 +241,7 @@ WCA 규정 및 지침의 변천은 [GitHub](https://github.com/thewca/wca-regula
     -   7f4) Generation 5 Pro 타이머는 반드시 2-pad 모드로 사용되어야 한다.
 -   7h) 선수가 한 라운드의 모든 시도 동안 동일한 측정석에서 머물지 않는 경우, 대회 구역에는 하나 이상의 선수 대기 구역이 반드시 있어야 한다. 예외: 개별적으로 일정이 지정된 시도가 있는 라운드.
     -   7h2) 정의: 선수 대기 구역은 조에 속한 선수들이 기록 측정석으로 호출되기 위해 대기하는 구역이다.
+
 
 ## <article-9><events><events> 제9조: 종목
 
@@ -304,6 +313,7 @@ WCA 규정 및 지침의 변천은 [GitHub](https://github.com/thewca/wca-regula
         -   9u2a) 등재된 모든 WCA 파견위원이 대회 장소를 영구적으로 떠난 경우.
         -   9u2b) 대회의 마지막 달력 표시 일자가 종료되었을 때.
 
+
 ## <article-10><solved-state><solvedstate> 제10조: 맞추어진 상태
 
 -   10b) 타이머가 멈춘 후의 퍼즐의 멈춘 상태만 고려된다.
@@ -322,6 +332,7 @@ WCA 규정 및 지침의 변천은 [GitHub](https://github.com/thewca/wca-regula
 -   10h) 이 문서에 명시되지 않은 퍼즐은 일반적으로 통용되는 퍼즐의 목적에 의해 정의된 맞추어진 상태에 따라 판단된다.
     -   10h1) 클락의 맞추어진 상태는 18개의 모든 내부 시계 면이 12시를 가리킬 때 달성된다.
         -   10h1a) 내부 시계 면이 특정 시각 눈금을 명확히 가리키지 않을 경우, 가장 가까운 시각 눈금을 가리키는 것으로 간주한다.
+
 
 ## <article-11><incidents><incidents> 제11조: 사건
 
@@ -362,6 +373,7 @@ WCA 규정 및 지침의 변천은 [GitHub](https://github.com/thewca/wca-regula
     -   11j2) 해당 그룹의 경기 진행 중에 오류가 발견되면 WCA 파견위원은 선수가 올바른 스크램블을 받을 수 있도록 노력해야 한다. 올바른 스크램블이 무엇인지 WCA 파견위원이 확신하지 못하는 경우 엑스트라 시도가 제공될 수 있다.
     -   11j3) 오류가 대회 도중이지만 해당 그룹의 경기가 끝난 후에 발견되었다면, 누락된 시도는 반드시 엑스트라 시도로 대체되어야 한다.
     -   11j4) 오류가 대회 이후에만 발견된 경우, 결과는 DNS로 간주한다.
+
 
 ## <article-12><notation><notation> 제12조: 표기법
 
@@ -409,6 +421,7 @@ WCA 규정 및 지침의 변천은 [GitHub](https://github.com/thewca/wca-regula
     -   12h3) 반시계 방향으로 120도: R'(보이는 꼭지 중 가장 먼 오른쪽 아래 꼭지 주변의 층), U'(보이는 꼭지 중 가장 먼 위쪽 꼭지 주변의 층), L'(보이는 꼭지 중 가장 먼 왼쪽 아래 꼭지 주변의 층), B'(보이지 않는 꼭지 중 가장 먼 뒤쪽 꼭지 주변의 층).
 -   12i) 정의: 회전은 [규정 10f](regulations:regulation:10f)에서 서술된 허용 범위를 벗어난 오정렬을 포함하여 위에 정의된 표기법에 따른 퍼즐 상태에 대한 어떠한 변화로 간주한다.
     -   12i1) 예외: 클락 종목에서는 내부 시계 면에서의 위치 변경만 회전으로 간주한다. 핀 상태의 변경은 회전으로 간주하지 않는다.
+
 
 ## <article-A><speedsolving><speedsolving> 제A조: 스피드 솔빙
 
@@ -499,6 +512,7 @@ WCA 규정 및 지침의 변천은 [GitHub](https://github.com/thewca/wca-regula
     -   A7f) 한 라운드에서 선수의 기록지가 완성되면, 심판은 기록 입력자에게 기록지를 전달한다.
     -   A7g) WCA 파견위원의 재량에 따라, 선수의 경험 부족으로 인한 사건 혹은 페널티는 엑스트라 시도로 대체될 수 있다.
 
+
 ## <article-B><blindfolded><blindfoldedsolving> 제B조: 눈 가리고 맞추기
 
 -   B1) [제A조](regulations:article:A)(스피드 솔빙)에 설명된 대로, 기본 스피드 솔빙 절차를 따른다. [제A조](regulations:article:A)의 절차를 대체하는 추가적인 규정은 아래와 같다.
@@ -533,6 +547,7 @@ WCA 규정 및 지침의 변천은 [GitHub](https://github.com/thewca/wca-regula
         -   B5b1) 선수의 기본 알림 신호는 퍼즐을 본인의 손에서부터 놓고 손바닥이 아래로 향한 채 표면에 손바닥을 놓는 것으로 구성된다. 선수와 심판은 시도의 시작 전에 이 외의 적절한 알림 신호에 대해 합의할 수 있다.
     -   B5c) 선수가 퍼즐을 만지고 있지 않은 경우, 타이머를 멈추기 전에 안대를 벗을 수 있다. 선수는 솔브가 끝날 때까지 퍼즐을 절대로 만져서는 안 된다. 퍼즐 접촉에 대한 페널티: 해당 시도의 실격(DNF).
 
+
 ## <article-C><one-handed><onehandedsolving> 제C조: 한 손으로 맞추기
 
 -   C1) [제A조](regulations:article:A)(스피드 솔빙)에 설명된 대로, 기본 스피드 솔빙 절차를 따른다. [제A조](regulations:article:A)의 절차를 대체하는 추가적인 규정은 아래와 같다.
@@ -541,6 +556,7 @@ WCA 규정 및 지침의 변천은 [GitHub](https://github.com/thewca/wca-regula
         -   C1b3) 선수의 다른 신체 부위가 퍼즐 혹은 퍼즐의 일부와 우발적으로 접촉하게 되고 회전이 적용되지 않았다면, 이는 심판의 재량에 따라 퍼즐을 조작한 것으로 간주하지 않는다.
         -   C1b4) 솔브 동안, 선수는 퍼즐 조작에 도움을 받기 위해 퍼즐을 표면에 대고 있을 수 있다([규정 7f1d](regulations:regulation:7f1d) 참고).
     -   C1c) 솔브 동안, 선수가 한 손으로 퍼즐을 조작하기 시작했다면 다른 한 손으로는 절대로 퍼즐을 조작해서는 안 된다. 페널티: 해당 시도의 실격(DNF).
+
 
 ## <article-E><fewest-moves><fewestmovessolving> 제E조: 최소회전
 
@@ -575,6 +591,7 @@ WCA 규정 및 지침의 변천은 [GitHub](https://github.com/thewca/wca-regula
     -   E6a) 어떠한 선수가 이미 시도를 마친 경우([지침 E2b+](guidelines:guideline:E2b+) 참고).
     -   E6b) 시도가 물리적으로 여러 장소에서 진행되는 대회에서 시행되는 경우(예: "3x3x3 최소회전 동시 대회").
     -   E6c) 스크램블에 대한 정보가 참여하려는 선수에게 이미 알려졌을 가능성이 있는 경우.
+
 
 ## <article-H><multiple-blindfolded><multipleblindfoldedsolving> 제H조: 눈 가리고 맞추기(복수)
 
