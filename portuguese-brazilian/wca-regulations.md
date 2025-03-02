@@ -434,7 +434,7 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
     - A6e) Depois de soltar o quebra-cabeça, o competidor não deve tocar, aplicar um movimento, ou qualquer mudança no alinhamento do quebra-cabeça até que o juiz o tenha inspecionado.
         - A6e1) Penalidade para aplicar um movimento ao quebra-cabeça após parar o timer: desqualificação da tentativa (DNF).
         - A6e2) Penalidade para tocar o quebra-cabeça após parar o timer sem aplicar nenhum movimento: pena de tempo (+2 segundos). Exceção: Se, imediatamente após tocar o quebra-cabeça, o competidor brevemente tocar o quebra-cabeça sem afetar o seu estado, a pena de tempo deve ser desconsiderada, a critério do juiz (ver [Regra 11f](regulations:regulation:11f)).
-    - A6f) O competidor não deve zerar o timer até que o ambos competidor juíz tenham assinado a súmula. Pena: desqualificação da tentativa (DNF), a critério do juiz. Exceção: ver [Regra A7c5](regulations:regulation:A7c5).
+    - A6f) O competidor não deve zerar o timer até que ambos competidor e juíz tenham assinado a súmula. Pena: desqualificação da tentativa (DNF), a critério do juiz. Exceção: ver [Regra A7c5](regulations:regulation:A7c5).
         - A6f1) Se o competidor zerar o timer antes que o resultado tenha sido registrado completamente, o juiz não deve escrever o resultado a partir de sua memória ou de evidência fotográfica, e deve desqualificar a tentativa (DNF).
     - A6g) O juiz determina se o quebra-cabeça está resolvido. Se o quebra-cabeça estiver desalinhado, este não pode ser tocado antes que o juiz tenha determinado o seu estado final.
     - A6h) Em caso de disputa, nenhum movimento ou alinhamento pode ser aplicado ao quebra-cabeça até que a disputa seja resolvida.
