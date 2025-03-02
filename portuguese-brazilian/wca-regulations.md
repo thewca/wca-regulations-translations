@@ -413,7 +413,7 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
     - A3d) No final da inspeção, o competidor coloca o quebra-cabeça sobre o tapete, em qualquer orientação. O quebra-cabeça deve estar inteiramente em cima do tapete e não deve estar inteiramente ou parcialmente sobre o Stackmat timer. Pena: pena de tempo (+2 segundos).
 - A4) Iniciando a resolução:
     - A4b) O competidor usa seus dedos para tocar a parte elevada do timer Stackmat. Suas palmas devem estar para baixo, e posicionadas no lado do timer mais próximo dele. Pena: pena de tempo (+2 segundos).
-        - A4b1) O competidor não pode ter contato físico com o quebra-cabeça enquanto estiver começando a resolução. Pena: pena de tempo (+2 segundos).
+        - A4b1) O competidor não deve ter contato físico com o quebra-cabeça enquanto estiver começando a resolução. Pena: pena de tempo (+2 segundos).
     - A4d) Se o timer Stackmat estiver sendo usado, é recomendável que o competidor mantenha suas mãos no timer até que ele veja uma luz verde no timer. Ele inicia a resolução removendo sua(s) mão(s) do timer. O competidor começa a resolução quando o timer for iniciado.
         - A4d1) O competidor deve iniciar a resolução dentro de 15 segundos após o início da inspeção. Pena: pena de tempo (+2 segundos).
         - A4d2) O competidor deve iniciar a resolução dentro de 17 segundos após o início da inspeção. Pena: desqualificação da tentativa (DNF).
