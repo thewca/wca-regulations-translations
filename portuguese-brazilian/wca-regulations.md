@@ -437,7 +437,7 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
     - A6f) O competidor não deve zerar o timer até que ambos competidor e juíz tenham assinado a súmula. Pena: desqualificação da tentativa (DNF), a critério do juiz. Exceção: ver [Regra A7c5](regulations:regulation:A7c5).
         - A6f1) Se o competidor zerar o timer antes que o resultado tenha sido registrado completamente, o juiz não deve escrever o resultado a partir de sua memória ou de evidência fotográfica, e deve desqualificar a tentativa (DNF).
     - A6g) O juiz determina se o quebra-cabeça está resolvido. Se o quebra-cabeça estiver desalinhado, este não deve ser tocado antes que o juiz tenha determinado o seu estado final.
-    - A6h) Em caso de disputa, nenhum movimento ou alinhamento pode ser aplicado ao quebra-cabeça até que a disputa seja resolvida.
+    - A6h) Em caso de disputa, nenhum movimento ou alinhamento deve ser aplicado ao quebra-cabeça até que a disputa seja resolvida.
     - A6i) Penas de tempo para a parte de terminar a resolução são cumulativas.
 - A7) Registrando resultados:
     - A7a) O juiz diz ao competidor o resultado.
