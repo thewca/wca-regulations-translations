@@ -425,7 +425,7 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
     - A5c) O competidor pode segurar o quebra-cabeça contra a superfície para ajudá-lo a operá-lo (ver [Regra 71fd](regulations:regulation:71fd)).
 - A6) Finalizando a resolução:
     - A6a) O competidor solta o quebra-cabeça antes de parar a resolução, e para a resolução parando o timer. Se um cronômetro estiver sendo usado, o juiz para o cronômetro assim que o competidor fizer isso.
-        - A6a1) Se o juíz não estiver imediatamente disponível para parar o cronômetro quando dado cronômetro estiver em uso, o competidor pode pará-lo.
+        - A6a1) Se o juiz não estiver imediatamente disponível para parar o cronômetro quando o cronômetro estiver em uso, o competidor pode pará-lo.
     - A6b) O competidor é responsável por parar o timer Stackmat corretamente.
         - A6b1) Se o timer parar antes do competidor ter resolvido o quebra-cabeça e mostrar um tempo abaixo de 0,06 segundos, a tentativa é substituída por uma tentativa adicional. Exceção: Nenhuma tentativa extra será necessária se o Delegado da WCA determinar que o cronômetro foi parado deliberadamente ou como resultado de interação com o cronômetro de forma incomum (p. ex., fazendo apenas contato mínimo com o cronômetro, não levantando as mãos do cronômetro de forma limpa).
         - A6b2) Se o timer parar antes do competidor ter resolvido o quebra-cabeça e mostrar um tempo de 0,06 segundos ou maior, a tentativa é desqualificada (DNF). Exceção: o Delegado da WCA pode dar uma tentativa extra para o competidor se acreditar que o cronômetro pode ter apresentado defeito e que o competidor não o parou deliberadamente.
