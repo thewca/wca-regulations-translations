@@ -420,7 +420,7 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
         - A4d3) Se um cronômetro estiver sendo usado, o juiz inicia o cronômetro no momento em que o competidor iniciar a resolução.
     - A4e) Pena de tempo para o início da resolução são cumulativas.
 - A5) Durante a resolução:
-    - A5a) Enquanto estiver inspecionando ou resolvendo o quebra-cabeça, o competidor não pode se comunicar com ninguém além do juiz ou Delegado da WCA. Pena: desqualificação da tentativa (DNF). Exceção: Se o competidor não ganhar nenhuma vantagem por se comunicar com qualquer outra pessoa além do juiz ou do Delegado da WCA, o resultado pode permanecer, a critério do Delegado da WCA.
+    - A5a) Enquanto estiver inspecionando ou resolvendo o quebra-cabeça, o competidor não deve se comunicar com ninguém além do juiz ou Delegado da WCA. Pena: desqualificação da tentativa (DNF). Exceção: Se o competidor não ganhar nenhuma vantagem por se comunicar com qualquer outra pessoa além do juiz ou do Delegado da WCA, o resultado pode permanecer, a critério do Delegado da WCA.
     - A5b) Enquanto estiver inspecionando ou resolvendo o quebra-cabeça, o competidor não deve receber assistência de ninguém ou de nenhum objeto além da superfície (ver também [Regra 2i](regulations:regulation:2i)). Pena: desqualificação da tentativa (DNF).
     - A5c) O competidor pode segurar o quebra-cabeça contra a superfície para ajudá-lo a operá-lo (ver [Regra 71fd](regulations:regulation:71fd)).
 - A6) Finalizando a resolução:
