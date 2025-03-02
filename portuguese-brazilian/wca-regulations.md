@@ -409,7 +409,7 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
         - A3c2) Se as peças do quebra-cabeça não estiverem totalmente alinhadas quando o pote for removido, o competidor pode alinhar as faces, contanto que os desalinhamentos estejam dentro dos limites da [Regra 10f](regulations:regulation:10f).
         - A3c3) O competidor pode zerar o timer antes de começar a resolver.
         - A3c4) Para o Square-1, se o uso de um objeto fino foi determinado pela equipe de organização (ver [Regra A2b1](regulations:regulation:A2b1)), o competidor pode remover o objeto do quebra-cabeça durante a inspeção.
-        - A3c5) Para o Square-1, o competidor não deve ser penalizado por qualquer movimento acidental dentro dos limites da [Regra 10f](regulations:regulations:10f).
+        - A3c5) Para o Square-1, é recomendável que o competidor não seja penalizado por qualquer movimento acidental dentro dos limites da [Regra 10f](regulations:regulations:10f).
     - A3d) No final da inspeção, o competidor coloca o quebra-cabeça sobre o tapete, em qualquer orientação. O quebra-cabeça deve estar inteiramente em cima do tapete e não deve estar inteiramente ou parcialmente sobre o Stackmat timer. Pena: pena de tempo (+2 segundos).
 - A4) Iniciando a resolução:
     - A4b) O competidor usa seus dedos para tocar a parte elevada do timer Stackmat. Suas palmas têm que estar para baixo, e posicionadas no lado do timer mais próximo dele. Pena: pena de tempo (+2 segundos).
