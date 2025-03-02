@@ -182,7 +182,7 @@ Para ser mais informativa, cada Orientação é classificada com um dos seguinte
 - A3c4+) [ESCLARECIMENTO] Se foi determinado o uso de um objeto fino, o juiz não deve remover o objeto ao invés do competidor.
 - A3c4++) [ESCLARECIMENTO] O competidor pode remover o objeto durante a resolução, se não o tiver feito durante a inspeção (p. ex. esqueceu-se).
 - A4d1+) [ESCLARECIMENTO] Se a inspeção levou exatos 15 segundos (isso é, 15.00), a penalidade de tempo (+2 segundos) deve ser aplicada.
-- A4d2+) [ESCLARECIMENTO] Se a inspeção levou exatos 17 segundos (isso é. 17.00), haverá desqualificação da tentativa (DNF).
+- A4d2+) [ESCLARECIMENTO] Se a inspeção levou exatos 17 segundos (isso é. 17.00), a tentativa deve ser desqualificada (DNF).
 - A5b+) [ESCLARECIMENTO] Enquanto estiver inspecionando ou resolvendo o quebra-cabeça, o competidor pode tocar o quebra-cabeça com qualquer parte do corpo. Exceção: 3x3x3 com Uma Mão (ver [Regra C1b](regulations:regulation:C1b)).
 - A5b++) [ESCLARECIMENTO] Se uma parte do quebra-cabeça do competidor se solta (ver [Regra 5a](regulations:regulation:5a)), o competidor não deve pedir por assistência em recuperar ou localizar a parte e é recomendável que o juiz tente prevenir de que outros auxiliem. Se alguém pegar a parte solta para o competidor, o juiz ou o competidor podem pedir para que ele a coloque na estação de resolução e para que ele não auxilie mais.
 - A5b+++) [ESCLARECIMENTO] Não é recomendável que o Delegado da WCA conceda ao competidor uma tentativa extra somente com base na possibilidade de alguém ter pego a parte solta do quebra-cabeça do competidor.
