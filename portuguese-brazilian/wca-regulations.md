@@ -321,6 +321,7 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
     - 10f4) Square-1: no máximo 45 graus (U/D) ou 90 graus (/).
 - 10h) Quebra-cabeças não especificados neste artigo são julgados de acordo com o estado resolvido geralmente aceito como objetivo do quebra-cabeça.
     - 10h1) O estado resolvido do Clock é obtido quando todos os dezoito relógios internos apontam para 12 horas.
+       - 10h1a) Os mostradores internos que não apontam claramente para um marcador de hora específico são considerados como apontando para o marcador de hora mais próximo.
 
 
 ## <article-11><incidents><incidents> Artigo 11: Incidentes
