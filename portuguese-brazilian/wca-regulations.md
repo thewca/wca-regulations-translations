@@ -195,7 +195,7 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
 - 4g) Depois de embaralhar o quebra-cabeça, o embaralhador precisa verificar que ele foi embaralhado corretamente. Se o estado do quebra-cabeça estiver errado, o embaralhador precisa corrigi-lo (p. ex. resolvendo o quebra-cabeça e aplicando a sequência de embaralhamento novamente).
     - 4g1) As seguintes exceções se aplicam:
         - 4g1a) Para o Cubo 6x6x6, Cubo 7x7x7 e Megaminx, não é necessário corrigir o estado do quebra-cabeça, a critério do Delegado da WCA.
-        - 4g1b) Para o Cubo 5x5x5, o embaralhador deve corrigir o estado do quebra-cabeça. Se a correção do estado do quebra-cabeça causar um prejuízo severo ao cronograma, não é necessário corrigí-lo, a critério do Delegado da WCA.
+        - 4g1b) Para o Cubo 5x5x5, é recomendável que o embaralhador corrigija o estado do quebra-cabeça. Se a correção do estado do quebra-cabeça causar um prejuízo severo ao cronograma, não é necessário corrigí-lo, a critério do Delegado da WCA.
     - 4g2) Para o 3x3x3 Multi-Vendado, após embaralhar todos os cubos, o embaralhador deve verificar se não há embaralhamentos duplicados.
 
 
@@ -235,6 +235,7 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
     - 7f3) A equipe de organização deve modificar o timer Stackmat para que ele seja mais robusto em face de incidentes comuns, fazendo com que os botões sejam mais difíceis de apertar por acidente (p. ex. acoplando anéis de borracha ao redor dos botões) e prendendo a bateria mais firmemente (p. ex. preenchendo o compartimento da bateria).
     - 7f4) Timers Geração 5 Pro tem que ser usados no modo 2-pad.
 - 7h) Se os competidores não permanecerem na mesma estação para todas as suas tentativas em uma rodada, a área de competição deve ter uma ou mais Áreas de Espera de Competidores. Exceção: rodadas com tentativas programadas individualmente.
+    - 7h2) Definição: Uma Área de Espera de Competidor é uma área na qual competidores em um grupo esperam ser chamados para uma estação de resolução.
 
 
 ## <article-9><events><events> Artigo 9: Eventos
@@ -259,6 +260,7 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
 - 9f) Os resultados de uma rodada são medidos da seguinte forma:
     - 9f1) Todos os resultados cronometrados abaixo de 10 minutos, com exceção de 3x3x3 Multi-Vendado, são truncados em centésimos de segundo. Todas as médias cronometradas abaixo de 10 minutos são arredondadas para o centésimo de segundo mais próximo.
     - 9f2) Todos os resultados e médias cronometrados acima de 10 minutos, incluindo todos os tempos para resultados de 3x3x3 Multi-Vendado, são truncados em segundos.
+    - 9f3) Todas as médias e means cronometrados acima de 10 minutos são medidos e arredondados para o segundo mais próximo (p. ex., X.49 se torna X, X.50 se torna X+1).
     - 9f4) O resultado de uma tentativa é registrado como DNF (Did Not Finish) se a tentativa foi desqualificada ou não foi completada.
         - 9f4a) Se um competidor violar uma regra claramente de modo que a tentativa será, com certeza, desqualificada, o juiz deve interromper imedaitamente a tentativa. Se o juiz estiver incerto ou se uma disputa puder ser disruptiva (p. ex. porque uma tentativa extra poderia atrasar a competição), o juiz deve consultar o Delegado da WCA.
     - 9f5) O resultado de uma tentativa é registrado como DNS (Did Not Start) se o competidor tem direito a uma tentativa mas desiste dela.
