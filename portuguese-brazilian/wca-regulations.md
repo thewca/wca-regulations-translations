@@ -69,7 +69,7 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
     - 1g2) Altereções do resultado em uma súmula somente são permitidas a critério do Delegado da WCA.
 - 1h) Os competidores em uma mesma rodada de um evento podem competir como um único grupo ou ser dividos em múltiplos grupos.
     - 1h1) Embaralhadores e juízes de uma rodada não devem embaralhar/serem juízes de competidores em seu próprio grupo antes que tenham terminado todas as suas tentativas na rodada. As seguintes exceções se aplicam:
-        - 1h1a) Para 3x3x3 em Menos Movimentos, juizes podem ser juízes de competidores em seu próprio grupo antes de terem terminado as suas tentativas (isso é, enquanto estiverem competindo).
+        - 1h1a) Para 3x3x3 em Menos Movimentos, juízes podem ser juízes de competidores em seu próprio grupo antes de terem terminado as suas tentativas (isso é, enquanto estiverem competindo).
         - 1h1b) Para 3x3x3 Multi-Vendado, competidores podem ser juízes de outros competidores em seu próprio grupo depois que tiverem terminado a sua tentativa.
 - 1j) Todos os oficiais podem competir na competição.
 - 1k) Os oficiais podem exercer várias funções (p. ex. equipe de organização, Delegado da WCA, juiz, anotador de resultado, embaralhador).
