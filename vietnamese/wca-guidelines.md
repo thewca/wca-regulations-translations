@@ -130,8 +130,8 @@ Mỗi quy định được phân loại bằng một trong các nhãn sau để 
 - 9f2+) [BỔ SUNG] Đối với nội dung Giải Bịt mắt nhiều 3x3x3, trọng tài nên ghi số khối hình đã giải xong, tổng số khối hình, và thời gian cuối cùng. Ví dụ, nếu thí sinh giải xong 3 trên 5 khối hình trong 40 phút 30 giây, kết quả ghi lại là 3/5 40:30.
 - 9f4+) [LÀM RÕ] Kết quả lượt thi nên là DNF nếu thí sinh đã bắt đầu lượt thi bằng cách xác nhận đã sẵn sàng (xem [Quy định A3b2](regulations:regulation:A3b2)) nhưng kết quả bị hủy.
 - 9f5+) [LÀM RÕ] Nếu thí sinh không đạt điều kiện để thực hiện lượt thi (VD: vòng thi có cutoff) thì thí sinh không có kết quả cho lượt thi đó.
-- 9l1+) [LÀM RÕ] Kết quả DNF được coi là kết quả hợp lệ. Không được phép cho lượt thi bổ sung nếu việc thí sinh dùng khối hình phạm quy được phát hiện sau khi vòng thi đã kết thúc (xem [Quy định 3k2a](regulations:regulation:3k2a))
-- 9l1++) [VÍ DỤ] Ví dụ cho lượt thi không hợp lệ: khối hình bị tráo sai, kết quả không thể tìm được nữa (VD: thất lạc phiếu điểm). 
+- 9l1+) [LÀM RÕ] Kết quả DNF được coi là kết quả hợp lệ. Không được phép cho lượt thi bổ sung nếu việc thí sinh dùng khối hình phạm quy được phát hiện sau khi vòng thi đã kết thúc (xem [Quy định 3k2a](regulations:regulation:3k2a)).
+- 9l1++) [VÍ DỤ] Ví dụ cho lượt thi không hợp lệ: khối hình bị tráo sai, kết quả không thể tìm được nữa (VD: thất lạc phiếu điểm).
 - 9p2+) [LÀM RÕ] "Kết quả" chỉ kết quả đơn hoặc trung bình xác định thứ hạng của thí sinh cho vòng thi đó.
 - 9p2b+) [BỔ SUNG] Nếu không đủ thí sinh đại diện cho khu vực cho các vị trí được giữ riêng, các vị trí này được dành cho các thí sinh có kết quả tốt nhất đại diện cho bất kì khu vực nào.
 - 9p2b++) [BỔ SUNG] Ngoại lệ này không áp dụng với các giải đấu cùng lúc được chỉ định là giải Vô địch Thế giới và giải Vô địch Châu lục và/hoặc giải Vô địch Quốc gia. Với các giải đấu cùng lúc được chỉ định là giải Vô địch Châu lục và Vô địch Quốc gia, chỉ được phép giữ riêng các vị trí dành cho các thí sinh đại diện cho châu lục tương ứng.
@@ -166,10 +166,10 @@ Mỗi quy định được phân loại bằng một trong các nhãn sau để 
 - 11e2+) [BỔ SUNG] Nếu lượt thi bổ sung dẫn đến một lượt thi bổ sung khác, thí sinh sẽ tiếp tục thi các lượt bổ sung cho đến khi có một lượt hợp lệ để thay thế lượt thi gốc.
 - 11e2++) [VÍ DỤ] Giả sử thí sinh có 5 lượt thi thường, và lượt số 2 dẫn đến lượt thi bổ sung. Thí sinh nên tiếp tục thi các lượt bổ sung cho đến khi có lượt thi hợp lệ thay thế lượt thi số 2. Giả sử lại có một lượt thi thường khác dẫn đến lượt thi bổ sung, thí sinh lại tiến hành quy trình giống như lượt thi số 2.
 - 11f1+) [KHUYẾN CÁO] Ủy ban Quy định WCA nên được liên hệ trong trường cần phải phân tích video bằng hình thức quay chậm hoặc phân tích từng khung hình.
- - 11i1+) [KHUYẾN CÁO] Các thí sinh có khả năng sẽ đạt các tiêu chí này nên có hai người tráo kiểm tra khối hình cho mỗi lượt thi (xem [Quy định 4g+](guidelines:guideline:4g+)).
- - 11i2+) [KHUYẾN CÁO] Nếu WCA Delegate không chắc chắn rằng lượt tráo sai có dẫn đến kết quả thiếu công bằng nghiêm trọng so với công thức tráo đúng hay không, thì WCA Delegate nên cho thí sinh thi lượt bổ sung dự phòng.
- - 11i2++) [KHUYẾN CÁO] Mặc dù các lượt giải sử dụng công thức tráo sai có thể vẫn sẽ hợp lệ, WCA Delegate phải đảm bảo giới hạn nhất có thể trường hợp này.
- - 11j3+) [KHUYẾN CÁO] Công thức tráo cho lượt thi bổ sung không được phép lấy từ các nhóm thi trước.
+- 11i1+) [KHUYẾN CÁO] Các thí sinh có khả năng sẽ đạt các tiêu chí này nên có hai người tráo kiểm tra khối hình cho mỗi lượt thi (xem [Quy định 4g+](guidelines:guideline:4g+)).
+- 11i2+) [KHUYẾN CÁO] Nếu WCA Delegate không chắc chắn rằng lượt tráo sai có dẫn đến kết quả thiếu công bằng nghiêm trọng so với công thức tráo đúng hay không, thì WCA Delegate nên cho thí sinh thi lượt bổ sung dự phòng.
+- 11i2++) [KHUYẾN CÁO] Mặc dù các lượt giải sử dụng công thức tráo sai có thể vẫn sẽ hợp lệ, WCA Delegate phải đảm bảo giới hạn nhất có thể trường hợp này.
+- 11j3+) [KHUYẾN CÁO] Công thức tráo cho lượt thi bổ sung không được phép lấy từ các nhóm thi trước.
  
 
 
