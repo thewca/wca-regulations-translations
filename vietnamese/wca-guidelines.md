@@ -172,7 +172,6 @@ Mỗi quy định được phân loại bằng một trong các nhãn sau để 
 - 11j3+) [KHUYẾN CÁO] Công thức tráo cho lượt thi bổ sung không được phép lấy từ các nhóm thi trước.
  
 
-
 ## <article-12><notation><notation> Mục 12: Ký hiệu bước
 
 - 12a2+) [LÀM RÕ] Ví dụ, Rw và 2Rw là ký hiệu hợp lệ cho cùng một bước trên Khối 3x3x3. 1Rw không phải là ký hiệu hợp lệ cho bất kì Khối NxNxN nào, và 3Rw không phải là ký hiệu hợp lệ cho Khối 2x2x2 và Khối 3x3x3 (nhưng lại là ký hiệu hợp lệ cho các Khối NxNxN từ 4x4x4 trở lên).
