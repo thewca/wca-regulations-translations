@@ -170,7 +170,7 @@ Mỗi quy định được phân loại bằng một trong các nhãn sau để 
 - 11i2+) [KHUYẾN CÁO] Nếu WCA Delegate không chắc chắn rằng lượt tráo sai có dẫn đến kết quả thiếu công bằng nghiêm trọng so với công thức tráo đúng hay không, thì WCA Delegate nên cho thí sinh thi lượt bổ sung dự phòng.
 - 11i2++) [KHUYẾN CÁO] Mặc dù các lượt giải sử dụng công thức tráo sai có thể vẫn sẽ hợp lệ, WCA Delegate phải đảm bảo giới hạn nhất có thể trường hợp này.
 - 11j3+) [KHUYẾN CÁO] Công thức tráo cho lượt thi bổ sung không được phép lấy từ các nhóm thi trước.
- 
+
 
 ## <article-12><notation><notation> Mục 12: Ký hiệu bước
 
