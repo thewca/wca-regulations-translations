@@ -62,7 +62,7 @@ Para ser mais informativa, cada Orientação é classificada com um dos seguinte
 - 2k6+) [ESCLARECIMENTO] Delegados da WCA devem apenas usar seu arbítrio para evitar que competidores sejam um detrimento severo à competição (p. ex. desperdiçar tempo e/ou recursos da competição). Competidores não devem ser desqualificados por um resultado "ruim" quando estão competindo com o seu maior esforço.
 - 2n3+) [ADIÇÃO] O competidor pode escalar sua contestação depois da competição seguindo o processo descrito na Moção de Contestações.
 - 2s+) [LEMBRETE] Acomodações especiais precisam ser informadas no relatório do Delegado.
-- 2s++) [EXEMPLO] Competidores cujas circunstâncias (por exemplo, religião) não os permitem competir em uma data ou horário específico podem ser permitidos competir em um outro momento a critério do Delegado da WCA. É recomendado que o Delegado da WCA considere a disponibilidade dos recursos da competição quando considerando pedidos desse cunho. Isso inclui a possibilidade de competir provisionalmente em rodadas subsequentes antes que as rodadas anteriores sejam finalizadas.
+- 2s++) [EXEMPLO] Competidores cujas circunstâncias (p. ex. religião) não os permitem competir em uma data ou horário específico podem ser permitidos competir em um outro momento a critério do Delegado da WCA. É recomendado que o Delegado da WCA considere a disponibilidade dos recursos da competição quando considerando pedidos desse cunho. Isso inclui a possibilidade de competir provisionalmente em rodadas subsequentes antes que as rodadas anteriores sejam finalizadas.
 - 2s+++) [EXEMPLO] O competidor que não é capaz de utilizar uma de suas mãos para começar o timer pode receber auxílio do juiz para começar e parar o timer, ou um competidor que é surdo pode receber seus avisos durante a inspeção de uma forma diferente.
 - 2s1+) [EXEMPLO] Exemplos de tais acomodações incluem: um competidor cego utilizando uma segunda mão para sentir as peças em 3x3x3 com Uma Mão ou utilizando um segundo quebra-cabeça com peças especiais durante a fase de memorização em 3x3x3 Vendado.
 - 2u1+) [ADIÇÃO] O competidor pode competir a critério do Delegado da WCA. O Delegado da WCA precisa considerar com cuidado a justiça desta decisão.
@@ -92,7 +92,7 @@ Para ser mais informativa, cada Orientação é classificada com um dos seguinte
 
 ## <article-4><scrambling><scrambling> Artigo 4: Embaralhamento
 
-- 4b+) [RECOMENDAÇÃO] É recomendado que o Delegado da WCA gere embaralhamentos suficientes para a competição toda com antecedência, incluindo embaralhamentos sobressalentes para tentativas adicionais
+- 4b+) [RECOMENDAÇÃO] É recomendado que o Delegado da WCA gere embaralhamentos suficientes para a competição toda com antecedência, incluindo embaralhamentos sobressalentes para tentativas adicionais.
 - 4b++) [LEMBRETE] Se o Delegado da WCA gera algum embaralhamento adicional durante a competição, os embaralhamentos devem ser salvos.
 - 4b1+) [LEMBRETE] O Delegado da WCA nunca pode gerar novamente qualquer sequência de embaralhamento para substituir outras com propósito de filtragem. Por exemplo, não é permitido ver as sequências de embaralhamento de uma competição e gerar o conjunto todo de novo para obter sequências “mais justas”.
 - 4b2+) [ESCLARECIMENTO] Em geral, todas as sequências de embaralhamento devem ser mantidas em sigilo durante a competição e publicadas juntas após o fim da competição. Em alguns casos (p. ex. recordes mundiais), a equipe de organização pode querer divulgar sequências de embaralhamentos específicas mais cedo, após o final de um grupo.
