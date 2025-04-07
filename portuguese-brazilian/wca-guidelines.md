@@ -1,6 +1,6 @@
 # <wca-title>Orientações Adicionais da WCA
 
-<version>Versão: 1 de agosto de 2023
+<version>Versão: 1 de Janeiro de 2025
 
 
 ## Notas
@@ -91,16 +91,9 @@ Para ser mais informativa, cada Orientação é classificada com um dos seguinte
 - 4b4+) [ESCLARECIMENTO] Todas as tentativas que foram iniciadas dentro do intervalo de tempo seguem o procedimento padrão de resolução (isto é: não são interrompidas quando o intervalo de tempo da sequência de embaralhamento terminar).
 - 4d+) [ESCLARECIMENTO] Alguns quebra-cabeças usam um esquema de cores padrão, com exceção do branco substituído pelo preto. Neste caso, o preto é a cor mais escura e não pode ser tratado como branco.
 - 4d++) [ADIÇÃO] É permitido que a orientação do quebra-cabeça seja alterada quando ele é movido do embaralhador para a estação de resolução, contanto que ninguém tente influenciar a aleatoriedade da orientação (ver [Regra A2e1](regulations:regulation:A2e1)).
-- 4f+) [RECOMENDAÇÃO] O Delegado da WCA deve gerar sequências de embaralhamento suficientes para toda a competição previamente, incluindo sequências para tentativas adicionais.
-- 4f++) [LEMBRETE] Se o Delegado da WCA gerar qualquer sequência de embaralhamento adicional durante a competição, as sequências de embaralhamento precisam ser salvas.
-- 4g2+) [ESCLARECIMENTO] O embaralhador ainda tem que verificar se o Clock está embaralhado corretamente
-- 4g2++) [ESCLARECIMENTO] Se o Clock cair durante a retirada do pote, uma tentativa adicional tem que ser dada.
-- 4g2+++) [RECOMENDAÇÃO] O embaralhador deve deixar as súmulas de fora do pote ao invés de coloca-las dentro do pote.
-
 
 ## <article-5><puzzle-defects><puzzledefects> Artigo 5: Defeitos nos quebra-cabeças
 
-- 5b+) [ADIÇÃO] O competidor não tem permissão de causar um defeito no quebra-cabeça intencionalmente, a não ser corrigindo um defeito prévio do quebra-cabeça (ver [Regra 5b3b](regulations:regulation:5b3b) e [Regra 5b3c](regulations:regulation:5b3c)). Exemplos de causar defeitos intencionais no quebra-cabeça: remover uma tampa de centro acoplada, girar uma peça de quina, remover um adesivo.
 - 5b5+) [EXEMPLO] Exemplos de partes fisicamente soltas, resultando em um estado resolvido: uma tampa de centro do 3x3x3, uma peça de centro de um cubo com mais camadas, uma peça interna de um cubo com mais camadas.
 - 5b5++) [EXEMPLO] Exemplos de peças fisicamente soltas, resultando em DNF: duas tampas de centro do 3x3x3, duas peças de centro de um cubo com mais camadas, uma peça de meio do 3x3x3, uma peça de meio (“wing”) do 4x4x4, qualquer combinação de duas peças que tenham partes coloridas.
 - 5b5f+) [EXEMPLO] Há um [Guia Visual](https://drive.google.com/file/d/15XszaCGNvy3Dk6X6qERzZWZaDH1RH04z/view) disponível para a [Regra 5b5f](regulations:regulation:5b5f)
@@ -117,7 +110,6 @@ Para ser mais informativa, cada Orientação é classificada com um dos seguinte
 
 ## <article-9><events><events> Artigo 9: Eventos
 
-- 9b+) [ADIÇÃO] Para um evento com mais de uma rodada, cada rodada depois da primeira (especialmente a rodada final) deve ser “Média de 5” ou “Média de 3” se um desses for um formato válido.
 - 9b++) [ADIÇÃO] Outros eventos não especificados na [Regra 9b](regulations:regulation:9b) podem acontecer durante a competição, mas serão considerados não-oficiais e não serão incluídos nos resultados oficiais da competição.
 - 9b3b+) [ESCLARECIMENTO] A estatística “Média de 3” não afeta o posicionamento do competidor em uma rodada “Melhor de 3” (que é baseado no melhor resultado). A WCA reconhece esta estatística separadamente do formato da competição.
 - 9f1+) [EXEMPLO] Se o timer mostrar 12.678 em uma tentativa, o tempo original registrado é 12.67 (desconsiderar qualquer dígito além dos centésimos de segundo). O juiz pode escrever o tempo com precisão integral (três dígitos decimais) na súmula (e mantê-la no cálculo de penas), contanto que o anotador de resultados faça o ajuste nos resultados oficiais.
@@ -193,12 +185,13 @@ Para ser mais informativa, cada Orientação é classificada com um dos seguinte
 
 ## <article-B><blindfolded><blindfoldedsolving> Artigo B: Resolução Vendada
 
-- B1+) [LEMBRETE] O competidor tem que usar um quebra-cabeça sem logos (ver [Regra 3l](egulations:regulation:3l)), texturas, marcas ou outras características que diferenciem peças similares (ver [Regra 3k](regulations:regulation:3k)). Deve ser dada especial atenção a esta regra para Resolução Vendada.
-- B1b+) [RECOMENDAÇÃO] As vendas devem ser verificadas pelo Delegado da WCA antes de serem usadas na competição.
-- B2d+) [ADIÇÃO] Por padrão, o competidor inicia a resolução na primeira vez em que iniciam o "timer" depois que o juiz indicou que ele está pronto (ver [Regra B2a](regulations:regulation:B2a)). Se ele quer conferir que o timer está em funcionamento normal, ele tem que (perguntar e) receber confirmação do juiz cada vez antes de iniciar/resetar o timer durante essa fase. Pena por começar e resetar um timer sem confirmação do juiz: desqualificação da tentativa (DNF).
+- B1+) [LEMBRETE] O competidor deve usar um quebra-cabeça sem logotipos (ver [Regra 3l](regulations:regulation:3l)), texturas, marcas ou outras características que diferenciem peças similares (ver [Regra 3k](regulations:regulation:3k)). É recomendável que seja dada especial atenção a esta regra para Resolução Vendada.
+- B1b+) [RECOMENDAÇÃO] É recomendável que as vendas sejam verificadas pelo Delegado da WCA antes de serem usadas na competição.
+- B2d+) [ADIÇÃO] Por padrão, o competidor inicia a resolução na primeira vez em que iniciam o "timer" depois que o juiz indicou que ele está pronto (ver [Regra B2a](regulations:regulation:B2a)). Se ele quer conferir que o timer está em funcionamento normal, ele deve (perguntar e) receber confirmação do juiz cada vez antes de iniciar/resetar o timer durante essa fase. Pena por começar e resetar um timer sem confirmação do juiz: desqualificação da tentativa (DNF).
 - B2f+) [ESCLARECIMENTO] Já que o competidor começa a resolução ao remover o pote, penalidades para começar a tentativa e tocar o pote enquanto a tentativa é iniciada não são aplicadas (ver [Regra B2b](regulations:regulation:B2b) e [Regra B2c](regulations:regulation:B2c)).
-- B4c+) [ADIÇÃO] Se o juíz se esquecer de colocar um bloqueador de visão ou o colocar de uma maneira que a visão do competidor não esitver completamente bloqueada, o Delegado da WCA deve dar uma tentativa adicional.
-- B4c++) [ADIÇÃO] Se o Delegado da WCA não suspeitar que o competidor intencionalmente violou qualquer Regra da WCA, a tentativa original pode permanecer.
+- B4c+) [ADIÇÃO] Se o juíz se esquecer de colocar um bloqueador de visão ou o colocar de uma maneira que a visão do competidor não esitver completamente bloqueada, é recomendável que o Delegado da WCA dê uma tentativa adicional.
+- B4c++) [ADIÇÃO] Se o juiz se esquecer de colocar um bloqueador de visão e o Delegado da WCA não suspeitar que o competidor intencionalmente violou qualquer Regra da WCA, a tentativa original pode permanecer.
+- B4d+) [ESCLARECIMENTO] Para 3x3x3 Vendado, os competidores têm permissão de determinar a localização de um logotipo permitido (ver [Regra 3l](regulations:regulation:3l)) pelo tato durante a fase vendada.
 
 
 ## <article-C><one-handed><onehandedsolving> Artigo C: Resolução com uma mão
@@ -209,29 +202,28 @@ Para ser mais informativa, cada Orientação é classificada com um dos seguinte
 
 ## <article-E><fewest-moves><fewestmovessolving> Artigo E: Resolução em Menos Movimentos
 
-- E2a1+) [RECOMENDAÇÃO] Se um juiz encontrar uma solução submetida que não aparenta ter informação para identificar a tentativa, ele deve checar ambos os lados do papal.
+- E2a1+) [RECOMENDAÇÃO] Se um juiz encontrar uma solução submetida que não aparenta ter informação para identificar a tentativa, é recomendável que ele cheque ambos os lados do papel.
 - E2b+) [ESCLARECIMENTO] O competidor pode escolher terminar a tentativa antecipadamente e entregar uma solução antes do limite de tempo.
-- E2b++) [ADIÇÃO] Um competidor pode se juntar a uma tentativa de 3x3x3 em Menos Movimentos que já está acontecendo, a critério do Delegado da WCA. Nesse caso, o seu limite de tempo é o tempo restante (ou seja, ele deve terminar quando os outros competidores alcançarem seu limite de 60 minutos). Exceção: um competidor não pode ser permitido de se juntar a uma tentativa de 3x3x3 em Menos Movimentos se um competidor já tiver terminado sua tentativa (ver [Orientação E2b+](guidelines:guideline:E2b+)), ou se tem qualquer outro risco de que informação sobre o embaralhamento possa se ter tornado disponível para o competidor que deseja se juntar.
 - E2c+) [ESCLARECIMENTO] Apesar de o juiz poder fornecer uma folha padronizada para os competidores entregarem a solução, o competidor pode entregar a solução em uma outra folha de papel (Observe que a folha de papel precisa ser fornecida pelo juiz, de acordo com a [Regra E3a](regulations:regulation:E3a)).
-- E2c1+) [EXPLICAÇÃO] Um ID de registrado em competição é um identificador (p. ex. um número) designado a uma pessoa para a competição. Algumas competições usam isso para rastrear súmulas e registrar resultados.
-- E2c1++) [ADIÇÃO] Se o competidor esqueceu de escrever a informação para identificar a tentativa na sua folha de solução pretendida, ele pode adicioná-la na frente de um juiz depois do limite de tempo. Nesse caso, o competidor deve pedir isso para o juiz enquanto estiver entregando a sua solução e então imediatamente escrever a informação para identificar a tentativa (sem fazer outras alterações) sob supervisão direta do juiz. Uma vez que o competidor tenha terminado de entregar sua solução (p. ex. a colocando na mão do juiz e permitindo que o juiz siga para o próximo competidor, a colocando na mesa do juiz e indo embora), ele não pode adicionar nenhuma informação. Se o competidor escrever qualquer depois do limite de tempo mas antes de perguntar para o juiz, a tentativa continua desqualificada (DNF).
 - E2c1+++) [EXPLICAÇÃO] O competidor não é obrigado a escrever o nome da competição, a rodada, e/ou o número da tentativa na folha de solução que entregar, mas pode querer fazer isso para ajudar o time de organização a organizar as soluções entregues.
-- E2c1++++) [ADIÇÃO] Se um juiz encontrar uma solução entregue sem a informação para identificar a tentativa, (p. ex. enquanto estiver corrigindo a tentativa), ele deve descobrir qual competidor escreveu a solução para lhe atribuir um DNF (invés de um DNS). Observe que o competidor não pode escrever a informação para identificar a tentativa nesse momento, então ele tem que receber um resultado DNF.
 - E2c2+) [EXEMPLO] Exemplos que não são considerados uma única e não-ambígua sequência de movimentos: muitas sequências de solução sem exatamente uma solução claramente indicada, uma solução com símbolos ambíguos (p. ex. uma letra que é parecida com "B" e "R" mas que não é claramente nem uma nem outra), uma solução com estrelas ou setas indicando movimentos a serem feitas fora da ordem escrita (p. ex. "inserções" que não estão escritas na linha com o resto da sequência de movimentos, "pré-movimentos" que não estão incorporados na sequência de movimentos usando notação válida), uma sequência de movimentos que não está escrita aproximadamente como uma série de linhas em ordem de leitura, qualquer configuração de símbolos que não pode ser interpretada como uma não-ambígua sequência de movimentos. Exceções dos exemplos acima: correções tipográficas pequenas (p. ex. ocultar movimentos e escrever movimentos acima deles claramente destinados a substituí-los, movimentos escritos em subscrito ou sobrescrito para caber entre outros movimentos).
 - E2c2++) [LEMBRETE] No passado, notação com colchetes (p. ex. [r] ou [u2]) eram permitidas para Menos Movimentos. Apenas rotação baseada em x, y ou z são permitidas agora (ver [Regra 12a4a](regulations:regulation:12a4a).
-- E2c3+) [ESCLARECIMENTO] Se um movimento não está claramente ocultado/riscado e não está claro se o movimento é parte da solução, o juiz deve considerá-la como uma sequência de movimentos ambígua (ver [Regra E2c2](regulations:regulation:E2c2) e [Orientação E2c2+](guidelines:guideline:E2c2+)).
-- E2c4+) [ESCLARECIMENTO] Exemplos de símbolos ou combinação de símbolos que não são permitidos em solução de 3x3x3 em Menos Movimentos: M, e, r, Y (em letra maiúscula), T, U1, Ui, U3, U-, R++, R2', R'2, L'w, 1R, 2U, 2f, 2-3r, 1Rw, 3Rw, 2-3Rw, rw, Rr, *, →, ⮐, /, ., ?, [r], [r u], [F], <f>, [f]', [f]2, [x], (x), (L), 2(Rw), (U)2, (U)', (R U)', (R U R'), [R, U], [R: U].
-- E2e+) [ESCLARECIMENTO] Os competidores não podem derivar soluções de nenhuma parte da sequência de embaralhamento, e as soluções não devem conter partes significativas da sequência inversa de embaralhamento.
-- E2e++) [EXEMPLO] Exemplo de solução que deve resultar em desqualificação (DNF): aquela que comece com 4 ou mais movimentos invertidos do embaralhamento.
-- E3d+) [ESCLARECIMENTO] Qualquer cronômetro ou relógio usado por um competidor não pode ter quaisquer funções que possam ajudar o competidor a encontrar uma solução.
-- E3d++) [ESCLARECIMENTO] Os competidores não devem considerar um cronômetro ou relógio pessoal como o tempo oficial, e têm que entregar sua solução quando o juiz disser “PAREM”.
+- E2c3+) [ESCLARECIMENTO] Se um movimento não está claramente ocultado/riscado e não está claro se o movimento é parte da solução, é recomendável que o juiz considerê-la como uma sequência de movimentos ambígua (ver [Regra E2c2](regulations:regulation:E2c2) e [Orientação E2c2+](guidelines:guideline:E2c2+)).
+- E2c4+) [EXEMPLO] Exemplos de interpretação de símbolos ou combinações de símbolos que não estão definidos na [Regra 12a](regulations:regulation:12a): É recomendável que [x] seja interpretado como x. É recomendável que (R * U', * = F2) seja interpretado como R U' F2. É recomendável que (R U)' seja interpretado como R U'. É recomendável que R++ seja interpretado como R.R3' não é permitido.
+- E2c4++) [ADIÇÃO] É recomendável que movimentos com um apóstrofo e um 2 sejam interpretados como se não houvesse apóstrofo (p. ex., é recomendável que R2' seja interpretado como R2).
+- E2c6+) [EXEMPLO] É recomendável que Y seja interpretado como y. É recomendável que UW, uw e uW sejam interpretados como Uw. É recomendável que r seja interpretado como R, não como Rw.
+- E2e+) [ESCLARECIMENTO] Os competidores não devem derivar soluções de nenhuma parte da sequência de embaralhamento, e é recomendável que as soluções não contenham partes significativas da sequência inversa de embaralhamento.
+- E2e++) [EXEMPLO] É recomendável que resulte em desqualificação (DNF) uma solução que comece com 4 ou mais movimentos invertidos do embaralhamento.
+- E3b+) [ESCLARECIMENTO] Não é necessário que os quebra-cabeças estejam resolvidos no início da tentativa.
+- E3d+) [ESCLARECIMENTO] Qualquer cronômetro ou relógio usado por um competidor não deve ter quaisquer funções que possam ajudar o competidor a encontrar uma solução.
+- E3d++) [ESCLARECIMENTO] É recomendável que os competidores não considerem um cronômetro ou relógio pessoal como o tempo oficial, e devem entregar sua solução quando o juiz disser “PAREM”.
 
 
 ## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Artigo H: Resolvendo Múltiplos Vendados
 
 - H1+) [ADIÇÃO] Se um quebra-cabeça com um embaralhamento duplicado for encontrado durante uma tentativa, o quebra-cabeça pode ser re-embaralhado usando uma sequência de embaralhamento diferente, a critério do Delegado da WCA.
-- H1b+) [ADIÇÃO] Um competidor pode participar de uma tentativa de Múltiplos Vendados que já está em andamento, a critério do Delegado da WCA. Nesse caso, o seu limite de tempo é o tempo restante (isso é, ele precisa acabar quando outros competidores atingirem o seu limite). Exceção: um competidor não pode ser autorizado a participar de uma tentativa de Múltiplos Vendados se qualquer dos competidores já tiver terminado a sua tentativa, ou se existe qualquer outro risco de que informações sobre o embaralhamento tenham chegado ao competidor que deseja participar.
+- H1b+) [ADIÇÃO] Um competidor pode participar de uma tentativa de Múltiplos Vendados que já está em andamento, a critério do Delegado da WCA. Nesse caso, o seu limite de tempo é o tempo restante (isso é, ele deve acabar quando outros competidores atingirem o seu limite). Exceção: um competidor não deve ser permitido a participar de uma tentativa de Múltiplos Vendados se qualquer dos competidores já tiver terminado a sua tentativa, ou se existe qualquer outro risco de que informações sobre o embaralhamento tenham chegado ao competidor que deseja participar.
 - H1b1+) [LEMBRETE] A tentativa não é desqualificada por atingir o tempo limite, devido às exceções para Resolução de Múltiplos Cubos Vendado (ver [Regra A1a4](regulations:regulation:A1a4) e [Regra A1a5](regulations:regulation:A1a5)).
-- H1b1++) [ADIÇÃO] O juiz pode permitir ao competidor continuar a tentativa extra-oficialmente, mas esta tem que ser interrompida e julgada primeiro, de acordo com o Regulamento.
+- H1b1++) [ADIÇÃO] O juiz pode permitir ao competidor continuar a tentativa extra-oficialmente, a tentativa deve ser interrompida e julgada primeiro, de acordo com o Regulamento.
 - H1d+) [EXEMPLO] Exemplo: Suponha que um competidor tente 10 cubos, termine a resolução com um tempo de 59:57 e tenha duas penas de tempo. O resultado final é 59:57 +2 +2 = 60:01 (ver também [Regra A1a5](regulations:regulation:A1a5)).
 - H1d++) [EXEMPLO] Exemplo: Suponha que um competidor tente 10 cubos, o juiz o interrompa em 60 minutos, e a tentativa tenha duas penas de tempo. O resultado final é 60:00 + 2 + 2 = 60:04.
