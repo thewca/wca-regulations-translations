@@ -91,6 +91,8 @@ Para ser mais informativa, cada Orientação é classificada com um dos seguinte
 - 4b4+) [ESCLARECIMENTO] Todas as tentativas que foram iniciadas dentro do intervalo de tempo seguem o procedimento padrão de resolução (isto é: não são interrompidas quando o intervalo de tempo da sequência de embaralhamento terminar).
 - 4d+) [ESCLARECIMENTO] Alguns quebra-cabeças usam um esquema de cores padrão, com exceção do branco substituído pelo preto. Neste caso, o preto é a cor mais escura e não pode ser tratado como branco.
 - 4d++) [ADIÇÃO] É permitido que a orientação do quebra-cabeça seja alterada quando ele é movido do embaralhador para a estação de resolução, contanto que ninguém tente influenciar a aleatoriedade da orientação (ver [Regra A2e1](regulations:regulation:A2e1)).
+- 4g1b+) [ESCLARECIMENTO] Para o 5x5x5 Vendado, estados incorretos do quebra-cabeça devem sempre ser corrigidos.
+- 4g1b++) [RECOMENDAÇÃO] É recomendável que o Delegado da WCA use critérios mais rigorosos ao determinar se estados incorretos para o 5x5x5 Vendado precisam ser corrigidos.
 
 ## <article-5><puzzle-defects><puzzledefects> Artigo 5: Defeitos nos quebra-cabeças
 
@@ -99,6 +101,7 @@ Para ser mais informativa, cada Orientação é classificada com um dos seguinte
 - 5b5f+) [EXEMPLO] Há um [Guia Visual](https://drive.google.com/file/d/15XszaCGNvy3Dk6X6qERzZWZaDH1RH04z/view) disponível para a [Regra 5b5f](regulations:regulation:5b5f)
 - 5b5f++) [EXEMPLO] Um cubo 4x4x4 com uma peça de meio "wing" girada no lugar é considerado resolvido
 - 5b5f+++) [EXEMPLO] Uma peça de canto girada em seu lugar é considerada uma peça em uma posição válida, mas esta posição não faz esta peça estar resolvida.
+- 5b5f++++) [ESCLARECIMENTO] Se houver várias peças parcialmente destacadas ou não completamente colocadas, sua posição final é avaliada uma de cada vez. A peça que estiver mais próxima de uma posição aberta é avaliada primeiro, e então é considerada como ocupante dessa posição. Esse processo é repetido até que todas as peças parcialmente destacadas ou não completamente colocadas tenham sido avaliadas.
 - 5c+) [LEMBRETE] Se um competidor tem um defeito no quebra-cabeça, isso não dá a ele o direito de uma tentativa adicional.
 
 
@@ -115,14 +118,20 @@ Para ser mais informativa, cada Orientação é classificada com um dos seguinte
 - 9f1+) [EXEMPLO] Se o timer mostrar 12.678 em uma tentativa, o tempo original registrado é 12.67 (desconsiderar qualquer dígito além dos centésimos de segundo). O juiz pode escrever o tempo com precisão integral (três dígitos decimais) na súmula (e mantê-la no cálculo de penas), contanto que o anotador de resultados faça o ajuste nos resultados oficiais.
 - 9f2+) [ADIÇÃO] Para o 3x3x3 Múltiplos Cubos Vendados, o juiz deve registrar o número de quebras-cabeças resolvidos, o número de quebra-cabeças tentados e o tempo final. Por exemplo, se o competidor resolver 3 cubos de 5 cubos tentados em 40 minutos e 30 segundos, o juíz deve escrever 3/5 40:30.
 - 9f4+) [EXPLICAÇÃO] O resultado de uma tentativa deve ser DNF somente se o competidor iniciou a tentativa indicando que estava pronto (ver [Regra A3b2](regulations:regulation:A3b2)) mas a tentativa foi desqualificada.
-- 9f5+) [ESCLARECIMENTO] O resultado de uma tentativa é DNS se o competidor tinha direito à tentativa mas não a iniciou (ver [Regra A3b2](regulations:regulation:A3b2)). Se o competidor não tiver se qualificado para uma tentativa (p. ex. numa Rodada de Corte), ele não tem nenhum resultado para aquela tentativa.
+- 9f5+) [ESCLARECIMENTO] Se o competidor não se qualificar para uma tentativa (por exemplo: em uma Rodada de Corte), ele não tem resultado para a tentativa.
+- 9l1+) [ESCLARECIMENTO] Um resultado DNF é geralmente considerado um resultado válido. Tentativas extras não devem ser dadas por utilizar um quebra-cabeça não permitido que só é descoberto após a rodada ser concluída (ver [Regra 3k2a](regulations:regulation:3k2a)).
+- 9l1++) [EXEMPLO] Exemplos de uma tentativa inválida: uma tentativa que foi embaralhada incorretamente, tentativas em que os resultados não podem ser recuperados (por exemplo: uma súmula ausente).
 - 9p2+) [ESCLARECIMENTO] "Resultado" se refere ao tempo único ou média que determina a posição dos competidores naquela rodada.
+- 9p2b+) [ADIÇÃO] Se não houver competidores suficientes representando a região relevante para preencher as vagas reservadas, eles serão substituídos pelos melhores competidores representando qualquer região.
+- 9p2b++) [ADIÇÃO] Para uma competição designada como Campeonato Mundial e Campeonato Continental e/ou Campeonato Nacional, esta exceção não se aplica. Para uma competição designada como Campeonato Continental e Campeonato Nacional, as vagas só podem ser reservados para competidores representando o continente relevante.
+- 9p2b+++) [RECOMENDAÇÃO] É recomendável que qualquer uso de vagas reservadas seja claramente anunciado antes da competição.
+- 9p3+) [ESCLARECIMENTO] Se um competidor não qualificado substituir um competidor qualificado dessa forma, ele também pode desistir, permitindo que o próximo competidor melhor qualificado fique em seu lugar.
 - 9q+) [RECOMENDAÇÃO] Eventos e rodadas devem ter no mínimo 2 competidores.
 - 9t+) [EXPLICAÇÃO] Por conta do [9t1](regulations:regulation:9t1) e [9t2](regulations:regulation:9t2), as rodadas podem aparentemente não cumprir [9p1](regulations:regulation:9p1), [9m1](regulations:regulation:9m1), [9m2](regulations:regulation:9m2) ou [9m3](regulations:regulation:9m3). No entanto, fazer mudanças para cumprir estas regras afetaria competidores inocentes, o que justifica que os resultados sejam mantidos os mesmos.
 - 9t++) [ADIÇÃO] Se a mudança dos resultados acontecer durante a competição, esta regra também pode ser aplicada. Neste caso, [9t1](regulations:regulation:9t1), [9t2](regulations:regulation:9t2) e [9t3](regulations:regulation:9t3) devem também ser seguidos, a critério do Delegado da WCA.
 - 9t3+) [EXEMPLO] Supondo que o competidor A obtenha uma média de 10,00 e o competidor B obtenha uma média de 10,05 na primeira rodada de uma modalidade, de modo que o competidor A avance para a final mas o competidor B, não. Se um erro de anotação dos resultados for descoberto, e o competidor B tenha, na verdade, obtido uma média de 9.95 (e devesse ter avançado no lugar de A), o competidor A terá o seu resultado da final mantido.
-- 9u+) [ADIÇÃO] Para competições em múltiplos lugares (por exemplo: "Competições simultâneas de 3x3x3 em Menos Movimentos") todos os requisitos precisam ser satisfeitos em todos os lugares para que se considere a competição como terminada
-- 9u2+) [RECOMENDAÇÃO] O Delegado da WCA deve anunciar o fim da competição (por exemplo: antes do fim da cerimônia de premiação)
+- 9u+) [ADIÇÃO] Para competições em múltiplos lugares (em outras palavras, "Competições simultâneas de 3x3x3 em Menos Movimentos") todos os requisitos devem ser satisfeitos em todos os lugares para que se considere a competição como terminada.
+- 9u2+) [RECOMENDAÇÃO] O Delegado da WCA deve anunciar o fim da competição (por exemplo: antes do fim da cerimônia de premiação).
 - 9u2b+) [ADIÇÃO] A data de calendário do fim da competição é determinada pela hora local do lugar em que a competição ocorreu.
 
 

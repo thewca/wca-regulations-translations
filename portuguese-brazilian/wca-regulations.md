@@ -191,19 +191,22 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
     - 4d4) O Clock é embaralhado começando com qualquer dos lados na frente e a posição de 12 horas para cima.
     - 4d5) O Skewb é embaralhado começando com a face branca (se não for possível, a face mais clara) no topo e a face verde (se não for possível, a face adjacente mais escura) na frente-esquerda.
 - 4g) Depois de embaralhar o quebra-cabeça, o embaralhador precisa verificar que ele foi embaralhado corretamente. Se o estado do quebra-cabeça estiver errado, o embaralhador precisa corrigi-lo (p. ex. resolvendo o quebra-cabeça e aplicando a sequência de embaralhamento novamente).
-    - 4g1) Exceção: Para o Cubo 6x6x6, o Cubo 7x7x7 e oMegaminx, não é necessário corrigir o estado do quebra-cabeça, a critério do Delegado da WCA.
+    - 4g1) As seguintes exceções se aplicam:
+        - 4g1a) Para o Cubo 6x6x6, Cubo 7x7x7 e Megaminx, não é necessário corrigir o estado do quebra-cabeça, a critério do Delegado da WCA.
+        - 4g1b) Para o Cubo 5x5x5, é recomendável que o embaralhador corrigija o estado do quebra-cabeça. Se a correção do estado do quebra-cabeça causar um prejuízo severo ao cronograma, não é necessário corrigí-lo, a critério do Delegado da WCA.
+    - 4g2) Para o 3x3x3 Multi-Vendado, após embaralhar todos os cubos, o embaralhador deve verificar se não há embaralhamentos duplicados.
 
 
 ## <article-5><puzzle-defects><puzzledefects> Artigo 5: Defeitos nos quebra-cabeças
 
 - 5a) Exemplos de defeitos nos quebra-cabeças incluem: peças soltas, peças giradas no lugar e parafusos/tampas/adesivos destacados.
-- 5b) Se um defeito no quebra-cabeça ocorrer durante uma tentativa, o competidor pode escolher entre reparar o defeito e continuar a tentativa ou parar a tentativa.
+- 5b) Se um defeito no quebra-cabeça ocorrer durante uma tentativa, o competidor pode escolher entre reparar o defeito e continuar a tentativa ou parar a tentativa. O competidor não pode causar um defeito no quebra-cabeça intencionalmente, a não ser que esteja corrigindo um defeito anterior no quebra-cabeça (ver [Regra 5b3b](regulations:regulation:5b3b) e [Regra 5b3c](regulations:regulation:5b3c)). Exemplos de causar um defeito no quebra-cabeça intencionalmente: remover uma tampa de um centro de um 3x3x3, girar uma quina, remover um adesivo.
     - 5b1) Se o competidor escolher reparar o quebra-cabeça, ele tem que reparar somente as peças defeituosas. Ferramentas e/ou peças de outros quebra-cabeças não podem ser usadas para reparar o quebra-cabeça original. Pena: desqualificação da tentativa (DNF).
     - 5b2) Qualquer reparo ao quebra-cabeça não pode dar ao competidor uma vantagem na resolução do quebra-cabeça. Pena: desqualificação da tentativa (DNF).
     - 5b3) Reparos permitidos:
         - 5b3a) Se quaisquer peças se soltaram ou saíram do lugar, o competidor pode colocá-las de volta.
         - 5b3b) Se o competidor reparar o quebra-cabeça mas perceber que o quebra-cabeça está insolúvel mais tarde na resolução, ele pode desmontar e remontar um máximo de 4 peças para tornar o quebra-cabeça solúvel.
-        - 5b3c) Se o quebra-cabeça está insolúvel, e pode ser tornado solúvel rotacionando-se uma única peça de canto, o competidor pode corrigir essa peça girando-a no lugar, sem desmontar o quebra-cabeça.
+        - 5b3c) Se o quebra-cabeça está insolúvel, e pode ser tornado solúvel rotacionando-se uma única peça de canto, o competidor pode corrigir essa peça girando-a no lugar, sem desmontar o quebra-cabeça. Se várias peças de quina tiverem sido rotacionadas como resultado de defeitos no quebra-cabeça, o competidor pode corrigir essas rotações, desde que o número de peças corrigidas pelo competidor não exceda o número de peças rotacionadas por defeitos no quebra-cabeça.
     - 5b4) Durante um fase vendada (ver [Regra B4](regulations:regulation:B4)) todos os reparos tem que ser feitos vendados. Pena: desqualificação da tentativa (DNF).
     - 5b5) Se algumas partes do quebra-cabeça estiverem fisicamente desconectadas ou não posicionadas totalmente ao final da tentativa, as seguintes regras se aplicam:
         - 5b5a) Se uma ou mais partes sem faces coloridas forem afetadas, o quebra-cabeça é considerado resolvido.
@@ -211,7 +214,7 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
         - 5b5c) Se mais de uma parte com uma face colorida for afetada, o quebra-cabeça é considerado não resolvido (DNF).
         - 5b5d) Se uma ou mais partes com mais de uma face colorida forem afetadas, o quebra-cabeça é considerado não resolvido (DNF).
         - 5b5e) As Regras [5b5c](regulations:regulation:5b5c) e [5b5d](regulations:regulation:5b5d) sobrepõem-se às [5b5a](regulations:regulation:5b5a) e [5b5b](regulations:regulation:5b5b).
-        - 5b5f) Se uma peça estiver parcialmente desconectada ou não posicionada completamente, a sua posição final é a mais próxima posição em que a peça afetada poderia se encaixar normalmente no mecanismo do quebra-cabeça, considerando o estado atual do quebra-cabeça. Se a posição final resultar na peça resolvida, a peça não é considerada como afetada pelo defeito do quebra-cabeça.
+        - 5b5f) Se uma parte estiver parcialmente desconectada ou não posicionada completamente, a sua posição final é a mais próxima posição em que a peça afetada poderia se encaixar normalmente no mecanismo do quebra-cabeça, considerando o estado atual do quebra-cabeça. Se a posição final resultar na peça resolvida, a peça não é considerada como afetada pelo defeito do quebra-cabeça.
     - 5b6) Definição: Uma parte é um ou mais componente totalmente conectados de um grupo de componentes de um quebra-cabeça que mantêm-se conectados e não se movem em relação uns aos outros durante operações normais em um quebra-cabeça (p. ex. uma tampa de centro de um 3x3x3, uma peça de ponta de um Pyraminx, uma peça de canto de um 3x3x3 faltando apenas uma face, uma face de uma peça de canto de um 3x3x3).
 
 
@@ -229,9 +232,8 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
     - 7f2) O timer Stackmat tem que estar preso ao tapete e posicionado na superfície, com o timer na parte do tapete mais próxima ao competidor.
     - 7f3) A equipe de organização deve modificar o timer Stackmat para que ele seja mais robusto em face de incidentes comuns, fazendo com que os botões sejam mais difíceis de apertar por acidente (p. ex. acoplando anéis de borracha ao redor dos botões) e prendendo a bateria mais firmemente (p. ex. preenchendo o compartimento da bateria).
     - 7f4) Timers Geração 5 Pro tem que ser usados no modo 2-pad.
-- 7h) O local de competição deve ter uma ou mais Áreas de Espera de Competidores.
-    - 7h1) A equipe de organização pode exigir que um competidor que foi chamado para competir permaneça dentro da Área de Espera de Competidores designada até que tenha terminado todas as suas tentativas da rodada.
-    - 7h2) Definição: Uma Área de Espera de Competidores é uma área na qual os competidores de um grupo esperam até serem chamados para uma estação de resolução.
+- 7h) Se os competidores não permanecerem na mesma estação para todas as suas tentativas em uma rodada, a área de competição deve ter uma ou mais Áreas de Espera de Competidores. Exceção: rodadas com tentativas programadas individualmente.
+    - 7h2) Definição: Uma Área de Espera de Competidor é uma área na qual competidores em um grupo esperam ser chamados para uma estação de resolução.
 
 
 ## <article-9><events><events> Artigo 9: Eventos
@@ -254,8 +256,9 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
         - 9b5a) Formato de rodada completa para esse evento: "Melhor de X" (onde X é 1, 2 ou 3).
         - 9b5b) Formato de corte para esses eventos: fase de corte de "Melhor de X" (onde X é 1 ou 2) para "Melhor de Y" (onde Y é 2 ou 3, e Y > X).
 - 9f) Os resultados de uma rodada são medidos da seguinte forma:
-    - 9f1) Todos os resultados cronometrados abaixo de 10 minutos, com exceção de 3x3x3 Multi-Vendado, são truncados para baixo em centésimos de segundo. Todas as médias cronometradas abaixo de 10 minutos são arredondadas para o centésimo de segundo mais próximo.
-    - 9f2) Todos os resultados e médias cronometrados acima de 10 minutos, incluindo todos os tempos para resultados de 3x3x3 Multi-Vendado, são arredondados para o segundo mais próximo (p. ex. X.49 se torna X e X.50 se torna X+1).
+    - 9f1) Todos os resultados cronometrados abaixo de 10 minutos, com exceção de 3x3x3 Multi-Vendado, são truncados em centésimos de segundo. Todas as médias cronometradas abaixo de 10 minutos são arredondadas para o centésimo de segundo mais próximo.
+    - 9f2) Todos os resultados e médias cronometrados acima de 10 minutos, incluindo todos os tempos para resultados de 3x3x3 Multi-Vendado, são truncados em segundos.
+    - 9f3) Todas as médias e means cronometrados acima de 10 minutos são medidos e arredondados para o segundo mais próximo (p. ex., X.49 se torna X, X.50 se torna X+1).
     - 9f4) O resultado de uma tentativa é registrado como DNF (Did Not Finish) se a tentativa foi desqualificada ou não foi completada.
         - 9f4a) Se um competidor violar uma regra claramente de modo que a tentativa será, com certeza, desqualificada, o juiz deve interromper imedaitamente a tentativa. Se o juiz estiver incerto ou se uma disputa puder ser disruptiva (p. ex. porque uma tentativa extra poderia atrasar a competição), o juiz deve consultar o Delegado da WCA.
     - 9f5) O resultado de uma tentativa é registrado como DNS (Did Not Start) se o competidor tem direito a uma tentativa mas desiste dela.
@@ -280,6 +283,7 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
 - 9j) Cada evento só pode acontecer uma vez por competição.
 - 9k) Todos os competidores podem participar em todos os eventos de uma competição, exceto em casos especificamente aprovados pelo Equipe de Anúncios de Competições da WCA.
 - 9l) Cada rodada precisa ser completada antes que qualquer rodada seguinte do mesmo evento possa começar. Exceção: Tentativas adicionais podem ser dadas a qualquer momento durante a competição para substituir uma tentativa que era inicialmente inválida.
+    - 9l1) Uma tentativa é considerada inválida se é necessário conceder uma tentativa extra.
 - 9m) Os eventos podem ter no máximo quatro rodadas.
     - 9m1) Rodadas com 99 competidores ou menos podem ter no máximo duas rodadas subsequentes.
     - 9m2) Rodadas com 15 competidores ou menos podem ter no máximo uma rodada subsequente.
@@ -289,7 +293,9 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
     - 9p1) No mínimo 25% dos competidores têm que ser eliminados entre rodadas consecutivas do mesmo evento.
     - 9p2) Os competidores que avançam para a próxima rodada têm que ser determinados por uma posição (melhores X competidores) ou por resultado (todos os competidores com um resultado melhor que X) na rodada anterior.
         - 9p2a) Para cada rodada, as condições de avanço precisam ser anunciadas antes que a rodada comece, e não devem ser alteradas depois disso. Alterações somente podem ser feitas a critério do Delegado da WCA, que precisa considerar cuidadosamente se a mudança é justa.
+        - 9p2b) Exceção: Para competições designadas como Campeonato Nacional ou Campeonato Continental, a equipe organizadora pode alterar as condições de avanço para reservar vagas para competidores representando a região relevante. Um máximo de 8 vagas ou 50% das vagas na rodada seguinte, o que for menor, pode ser reservado dessa forma. Para uma rodada com vagas reservadas, os competidores que avançam da rodada anterior são um número reservado dos melhores competidores representando a região relevante, seguidos pelos melhores competidores restantes representando qualquer região. 
     - 9p3) Se um competidor classificado se retira de uma rodada, ele pode ser substituído pelo competidor melhor classificado abaixo do corte na rodada anterior.
+    - 9p4) Um competidor com resultados apenas DNF e/ou DNS não é elegível para avançar. 
 - 9s) Cada rodada de um evento precisa ter um limite de tempo (ver [Regra A1a](regulations:regulation:A1a)).
 - 9t) Se qualquer mudança ocorrer aos resultados de um competidor após o término da competição (p. ex. erro de anotação de resultados, penalidade retroativa), de modo que este competidor não devesse ter avançado para a rodada seguinte (ou não tenha sido autorizado a participar da rodada), todos os resultados deste competidor de todos as rodadas subsequentes têm que ser removidos (Ver [Regra 9u](regulations:regulation:9u)).
     - 9t1) Se isto fizer com que uma rodada não atenda à [Regra 9p1](regulations:regulation:9p1), resultados de outros competidores não podem ser removidos.
