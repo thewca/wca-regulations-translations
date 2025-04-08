@@ -96,18 +96,19 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
     - 2i1) Os competidores podem usar certas assistências não-eletrônicas que não dêem a eles uma vantagem injusta, a critério do Delegado da WCA. Isso inclui:
         - 2i1a) Assistência médica ou física usada pelo competidor (p. ex. óculos, munhequeira). Como exceção à [Regra 2i](regulations:regulation:2i), assistência médica eletrônica pode ser utilizada caso o competidor não tenha alternativas não-eletrônicas confortáveis (p. ex. se o competidor usa um aparelho auditivo ou marcapasso).
         - 2i1b) Tampões e protetores de ouvido (mas não fones de ouvido eletrônicos).
-        - 2i1c) Aquecedores de mão.
+        - 2i1c) Aquecedores de mão não eletrônicos.
         - 2i1d) Comida e bebida.
-    - 2i2) Os competidores podem usar câmeras na estação de resolução a critério do Delegado da WCA, mas as seguintes restrições se aplicam do início da tentativa até que o competidor termine a resolução. Pena por violar uma restrição: desqualificação da tentativa (DNF).
-        - 2i2a) Todos os monitores da câmera têm que estar em branco ou fora do campo de visão do competidor (ver [Regra A5b](regulations:regulation:A5b)).
+    - 2i2) Competidores podem usar câmeras e/ou microfones na estação de resolução, a critério do Delegado da WCA, mas as seguintes restrições se aplicam do início da tentativa até o competidor parar a resolução. Penalidade por infringir uma restrição: desqualificação da tentativa (DNF).
+        - 2i2a) 2i2a) Cada tela da câmera deve estar em branco ou não estar visível para o competidor. Exceção: se uma tela visível com vídeo é descoberta, tentativas finalizadas não precisam ser desqualificadas se o competidor não recebeu auxílio da tela, a critério do Delegado da WCA (ver o Regulamento A5b), porém o competidor não deve ser permitido fazer nenhuma outra tentativa com tal tela.
         - 2i2b) O competidor não pode usar (p. ex. operar, vestir) nenhuma câmera ativa. Exceção: o competidor pode usar uma câmera presa à sua cabeça, contanto que esteja fora de seu campo de visão e que esteja claro que ele não está interagindo com ela (além de estar vestindo ela).
+        - 2i2c) O competidor não deve pressionar nenhum botão desses aparelhos (por exemplo, para começar ou parar uma gravação).
     - 2i3) O competidor pode ter um celular no seu bolso, contanto que esteja claro que o competidor não está de alguma forma interagindo com o celular.
     - 2i4) Competidores devem desligar todas as notificações do celular enquanto estiverem competindo para evitar atrapalhar a competição.
 - 2j) O Delegado da WCA pode desqualificar um competidor de uma tentativa e/ou eventos específicos.
     - 2j1) Se um competidor for desqualificado de um evento por qualquer motivo, ele não tem direito a mais nenhuma tentativa naquele evento.
         - 2j1a) Se o competidor já tiver começado pelo menos uma tentativa em uma rodada antes de ser desqualificado dela, os resultados de todas as tentativas restantes no evento são registrados como DNF. Se o competidor não tiver começado nenhuma tentativa (isso é, não tiver nenhum resultado ou apenas resultados DNS), nenhum resultado é registrado.
     - 2j2) Resultados de tentativas que já foram completadas quando a desqualificação é aplicada não devem ser desqualificadas. Exceção: trapaças ou fraudes (ver [Regra 2k2a](regulations:regulation:2k2a)).
-    - 2j3) Tentativas específicas já completadas podem ser desqualificadas dentro das circunstâncias descritas na [Regra 2k](regulations:regulation:2k), apenas se o incidente em questão tiver ocorrido durante a tentativa.
+    - 2j3) Tentativas finalizadas específicas podem ser desqualificadas sob as circunstâncias descritas no Regulamento 2k somente se o incidente relevante ocorreu durante a tentativa.
 - 2k) A critério do Delegado da WCA, um competidor pode ser desqualificado de tentativas e/ou eventos específicos (um único evento, vários eventos ou todos os eventos) se ele:
     - 2k1) Não se apresentar ou se inscrever a tempo para a competição.
     - 2k2) For suspeito de trapacear ou fraudar os oficiais durante a competição.
@@ -119,10 +120,11 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
 - 2l) Um competidor pode ser desqualificado imediatamente, ou depois de uma advertência, dependendo da natureza e severidade da infração.
     - 2l1) Um competidor desqualificado não tem direito a reembolso de nenhuma despesa decorrente da participação na competição.
 - 2n) Os competidores podem disputar verbalmente uma decisão com o Delegado da WCA.
-    - 2n1) Disputas somente são permitidas durante a competição (ver [Regra 9u](regulations:regulation:9u)), num prazo de 30 minutos depois que o incidente disputado aconteceu ou antes do início de qualquer rodada seguinte do evento em questão.
+    - 2n1) Contestações só são permitidas durante a competição (ver o [Regulamento 9u](regulations:regulation:9u)), dentro de 30 minutos do incidente contestado e antes do início de qualquer uma das rodadas subsequentes do evento relevante.
     - 2n2) O Delegado da WCA precisa resolver a disputa antes do início da próxima rodada do evento.
     - 2n3) O competidor precisa aceitar as decisões finais do Delegado da WCA. Pena: desqualificação da competição.
 - 2s) Os competidores com excepcionalidades (p. ex. deficiência) que os impeçam de cumprir uma ou mais Regras da WCA podem solicitar atendimento especial ao Delegado da WCA. Esses competidores devem contatar a equipe de organização e o Delegado da WCA no mínimo duas semanas antes da competição.
+    - 2s1) Competidores cujas circunstâncias tornam seguir os procedimentos regulares da competição impossível podem receber acomodações especiais. É recomendado que esses casos sejam tragos ao Comitê de Regulamento da WCA antes de serem implementados.
 - 2t) Todos os competidores precisam estar familiarizados e entender o Regulamento da WCA antes da competição.
 - 2u) Os competidores têm que estar presentes e preparados quando forem chamados para competir em uma tentativa. Pena: desqualificação do evento.
     - 2u1) Exceção: Um competidor que não estiver presente na hora marcada para uma tentativa individual (p. ex. uma tentativa de 3x3x3 em Menos Movimentos ou de 3x3x3 Multi-Vendado) pode ter aquela tentativa considerada como declinada (DNS), a critério do Delegado da WCA.
@@ -131,7 +133,7 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
 
 ## <article-3><puzzles><puzzles> Artigo 3: Quebra-cabeças
 
-- 3a) Os competidores têm que fornecer seus próprios quebra-cabeças para a competição.
+- 3a) Competidores são responsáveis por providenciar seus próprios quebra-cabeças para a competição.
     - 3a1) Os competidores precisam estar prontos para entregar seus quebra-cabeças quando forem chamados para competir (ver [Regra 2u](regulations:regulation:2u)).
     - 3a2) Os quebra-cabeças precisam funcionar normalmente, de forma que o embaralhamento normal seja possível.
     - 3a3) Quebra-cabeças poliédricos têm que usar um esquema de cores com uma única cor por face no estado resolvido. Cada variação de quebra-cabeças precisa ter movimentos, estados e soluções funcionalmente idênticas ao quebra-cabeça original.
@@ -147,13 +149,14 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
         - 3h2a) Quebra-cabeças com partes transparentes que podem revelar mais informações sobre o estado do quebra-cabeça. Exceção: um adesivo sobreposto ou um logotipo (ver [Regra 3l](regulations:regulation:3l)).
     - 3h3) Quaisquer modificações em um quebra-cabeça que resultem em desempenho ruim por um competidor não são razão para tentativas adicionais.
     - 3h4) Para o Clock, as seguintes modificações são permitidas:
-        - 3h4a) Inserções customizadas (do mesmo formato e tamanho que as inserções de papel tradicionais) são permitidos, a critério do Delegado da WCA. As inserções tem que ter uma clara indicação das 12 horas que coincida com a das inserções originais.
+        - 3h4a) Fundos personalizados (do mesmo tamanho e formato do fundo de papel tradicional) são permitidos, a critério do Delegado da WCA. Os fundos devem ter uma indicação clara das 12 horas que coincide com a do fundo original.
         - 3h4b) Customizações no design do quebra-cabeça que não garantam nenhuma vantagem desleal são permitidas, a critério do Delegado da WCA (p. ex. relógios em padrão de cores xadrez, faces com um design customizado, fita nos lados do Clock).
         - 3h4c) Customizações que distinguam pinos de outros pinos do mesmo lado são permitidas, a critério do Delegado da WCA.
         - 3h4d) Logos em qualquer lugar do puzzle, contanto que as faces de relógios internas se mantenha descobertas.
-    - 3h5) No Clock, pinos folgados (isto é, pinos que possam subir ou descer com o uso da gravidade ao invés de sendo pressionados diretamente) não são considerados um desgaste razoável, e estes puzzles não podem ser permitidos.
+    - 3h5) No Clock, pinos soltos (isto é, pinos cuja posição pode ser mudada pela gravidade ao invés de serem diretamente pressionados) não são considerados um desgaste razoável, e os clocks com tais pinos não devem ser permitidos.
 - 3j) Os quebra-cabeças precisam estar limpos, e não podem ter nenhuma marca, peças elevadas, danos ou outras diferenças que diferenciem significativamente uma peça de outra peça similar. Exceção: um logotipo (ver [Regra 3l](regulations:regulation:3l));
     - 3j1) Os quebra-cabeças podem ter desgaste razoável, a critério do Delegado da WCA.
+        - 3j1a) É recomendado que um desgaste seja considerado razoável se é o resultado de uso normal do quebra-cabeça e se não fornece informação adicional significativa sobre o estado do quebra-cabeça (por exemplo, sobre a localização de peças específicas).
     - 3j2) Definição: Duas peças são similares entre si se forem idênticas em forma e tamanho, ou espelhadas em forma e idênticas em tamanho.
     - 3j3) Partes texturizadas/corrugadas que permitam distinguir a orientação pelo tato não são permitidas nos eventos vendados.
 - 3k) Os quebra-cabeças devem ser aprovados pelo Delegado da WCA antes de serem usados na competição.
@@ -161,7 +164,7 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
     - 3k2) Pena por tentativas feitas com quebra-cabeças não permitidos: desqualificação da tentativa (DNF). As seguintes exceções se aplicam:
         - 3k2a) Se um quebra-cabeça não permitido for encontrado antes de que uma rodada termine, os resultados afetados na rodada podem ser substituídos com tentativas extras, a critério do Delegado da WCA.
         - 3k2b) 3x3x3 Multi-Vendado: Se qualquer quebra-cabeça não for permitido, esse quebra-cabeça pode ser individualmente considerado não resolvido (sem desqualificar a tentativa inteira), a critério do Delegado da WCA.
-- 3l) Um quebra-cabeça pode ter um logotipo em uma parte colorida. Neste caso, pode ter no máximo uma parte colorida com um logotipo. Exceção: Para eventos vendados, um quebra-cabeça não pode ter um logotipo.
+- 3l) Um quebra-cabeça pode ter uma ou mais logos em uma parte colorida. Se ele tem, ele deve ter no máximo uma parte colorida com uma ou mais logos. Exceção: Para 4x4x4 Vendado, 5x5x5 Vendado e 3x3x3 Multi-Vendado, um quebra-cabeça não deve ter nenhuma logo.
     - 3l1) O logotipo tem que ser colocado em uma peça de centro. Exceções para quebra-cabeças que não têm peças de centro:
         - 3l1a) Para o Pyraminx e o 2x2x2, o logotipo pode estar em qualquer peça.
         - 3l1b) Para o Square-1, o logotipo tem que estar numa peça na camada equatorial.
@@ -172,7 +175,7 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
 ## <article-4><scrambling><scrambling> Artigo 4: Embaralhamento
 
 - 4a) Um embaralhador aplica as sequências de embaralhamento aos quebra-cabeças.
-- 4b) Os quebra-cabeças têm que ser embaralhados usando sequências de embaralhamento aleatórios geradas por computador.
+- 4b) Embaralhamentos da competição devem ser gerados utilizando uma versão oficial atual de um programa de embaralhamento oficial da WCA (disponível no site da WCA).
     - 4b1) As sequências de embaralhamento geradas não podem ser inspecionadas antes da competição, e não podem ser filtradas ou selecionadas de qualquer maneira pelo Delegado da WCA.
     - 4b2) As sequências de embaralhamento de um grupo podem estar disponíveis apenas para o Delegado da WCA antes do início desse grupo, e disponíveis apenas para o Delegado da WCA e para os embaralhadores do grupo até que ele termine. Exceção: Para 3x3x3 em Menos Movimentos, os competidores recebem as sequências de embaralhamento durante a rodada (ver [Artigo E](regulations:article:E)).
         - 4b2a) O Delegado da WCA designado para a WCA tem que conceder acesso às sequências de embaralhamento de grupos futuros para outros membros apenas se ele vai estar temporariamente indisponível (p. ex. ele mesmo competindo), e deve conceder a outros acesso ao mínimo possível de embaralhamentos nesse caso.
