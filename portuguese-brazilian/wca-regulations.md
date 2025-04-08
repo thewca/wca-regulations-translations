@@ -121,7 +121,7 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
 - 2l) Um competidor pode ser desqualificado imediatamente, ou depois de uma advertência, dependendo da natureza e severidade da infração.
     - 2l1) Um competidor desqualificado não tem direito a reembolso de nenhuma despesa decorrente da participação na competição.
 - 2n) Os competidores podem disputar verbalmente uma decisão com o Delegado da WCA.
-    - 2n1) Contestações só são permitidas durante a competição (ver o Regulamento 9u), dentro de 30 minutos do incidente contestado e antes do início de qualquer uma das rodadas subsequentes do evento relevante.
+    - 2n1) Contestações só são permitidas durante a competição (ver o [Regulamento 9u](regulations:regulation:9u)), dentro de 30 minutos do incidente contestado e antes do início de qualquer uma das rodadas subsequentes do evento relevante.
     - 2n2) O Delegado da WCA precisa resolver a disputa antes do início da próxima rodada do evento.
     - 2n3) O competidor precisa aceitar as decisões finais do Delegado da WCA. Pena: desqualificação da competição.
 - 2s) Os competidores com excepcionalidades (p. ex. deficiência) que os impeçam de cumprir uma ou mais Regras da WCA podem solicitar atendimento especial ao Delegado da WCA. Esses competidores devem contatar a equipe de organização e o Delegado da WCA no mínimo duas semanas antes da competição.
