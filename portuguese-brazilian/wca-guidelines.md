@@ -86,7 +86,7 @@ Para ser mais informativa, cada Orientação é classificada com um dos seguinte
 - 3k2b+) [ESCLARECIMENTO] Se um quebra-cabeça não permitido for descoberto durante uma tentativa de 3x3x3 Múltiplos Cubos Vendado, o quebra-cabeça não deve ser trocado ou removido da tentativa e deverá ser contado como não resolvido se a tentativa inteira não for desqualificada.
 - 3k2b++) [EXEMPLO] Supondo que o competidor tente 10 quebra-cabeças e consiga resolver 8. Se for descoberto que dois quebra-cabeças resolvidos e um não resolvido não se enquadrem como quebra-cabeças permitidos, o competidor tem seu resultado considerado como seis quebra-cabeças resolvidos de dez (ou seja, não um DNF) à critério do Delegado da WCA.
 - 3l+) [ADIÇÃO] Logotipos podem ter qualquer desenho razoável que não dê uma vantagem notável (p. ex. informação codificada que poderia ser usada para fraude), e que deixe a parte colorida claramente reconhecível. Logotipos não-convencionais somente são permitidos a critério do Delegado da WCA.
-- 3l++) [ESCLARECIMENTO]  Logos são permitidas para 3x3x3 Vendado, mas não para nenhum outro evento vendado, incluindo 3x3x3 Multi-Vendado.
+- 3l++) [ESCLARECIMENTO] Logos são permitidas para 3x3x3 Vendado, mas não para nenhum outro evento vendado, incluindo 3x3x3 Multi-Vendado.
 - 3l1+) [ESCLARECIMENTO] Nos quebra-cabeças NxNxN, uma peça central é qualquer peça com uma única parte colorida. Por exemplo, o cubo 5x5x5 tem 9 peças centrais em cada face.
 
 
