@@ -367,6 +367,12 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
 
 11i2a) Se uma tentativa extra resultar em um resultado significativamente mais justo, a tentativa original será considerada inválida (ver Regra 9l).
 11i2b) Se uma tentativa extra não puder ser concedida para um embaralhamento incorreto que resulte em um resultado significativamente injusto (por exemplo, porque o embaralhamento incorreto foi descoberto após a competição), o resultado será considerado DNS.
+                          
+- 11j) Se um competidor receber incorretamente um embaralhamento que ele já recebeu (isso é, um embaralhamento repetido), as regras a seguir se aplicam:
+    - 11j1) Se um competidor perceber que recebeu um embaralhamento repetido durante a inspeção, é recomendado que ele pare a tentativa e chame um Delegado da WCA sem aplicar movimentos no quebra-cabeça. Não é recomendado que um competidor seja punido por reportar incorretamente um embaralhamento repetido de forma genuína, a critério do Delegado da WCA.
+    - 11j2) Se o erro for percebido durante o grupo, é recomendado que o Delegado da WCA tente fornecer o embaralhamento correto ao competidor. Uma tentativa extra pode ser dada se o Delegado da WCA não tiver certeza de qual embaralhamento é o correto.
+    - 11j3) Se o erro for percebido durante a competição mas após o grupo, a tentativa que falta deve ser substituída por uma tentativa extra.
+    - 11j4) Se o erro for percebido apenas após a competição, o resultado será considerado DNS.
 
 ## <article-12><notation><notation> Artigo 12: Notação
 
@@ -406,44 +412,50 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
 - 12g) Notação para o Clock:
     - 12g1) O quebra-cabeça é orientado com a marca de 12 horas em cima, e qualquer um dos lados na frente.
     - 12g2) Mover os pinos para cima: UR (superior-direito), DR (inferior-direito), DL (inferior-esquerdo), UL (superior-esquerdo), U (os dois de cima), R (os dois da direita), D (os dois de baixo), L (os dois da esquerda), ALL (todos).
-    - 12g3) Girar uma roda próxima a pino levantado e mover todos os pinos para baixo depois: x+ (x giros no sentido horário), x- (x giros no sentido anti-horário).
+    - 12g3) Girar uma roda próxima a pino levantado e mover todos os pinos para baixo depois: X+ (X giros no sentido horário), X- (X giros no sentido anti-horário).
     - 12g4) Girar o quebra-cabeça em torno de si mesmo, de forma que a marca de 12 horas continue em cima, e então mover todos os pinos para baixo: y2.
 - 12h) Notação para o Skewb:
     - 12h1) O quebra-cabeça é orientado com três faces totalmente visíveis, das quais a face superior está no topo.
     - 12h2) Sentido horário, 120 graus: R (a camada ao redor do vértice inferior-direito visível mais distante), U (a camada ao redor do vértice superior visível mais distante), L (a camada ao redor do vértice inferior-esquerdo visível mais distante), B (a camada ao redor do vértice posterior visível mais distante).
     - 12h3) Sentido anti-horário, 120 graus: R’ (a camada ao redor do vértice inferior-direito visível mais distante), U’ (a camada ao redor do vértice superior visível mais distante), L’ (a camada ao redor do vértice inferior-esquerdo visível mais distante), B’ (a camada ao redor do vértice posterior visível mais distante).
-- 12i) Um movimento é considerado como toda modificação ao estado do quebra-cabeça nos termos das notações definidas acima, incluindo desalinhamentos além dos limites descritos na [Regra 10f](regulations:regulation:10f)
+- 12i) Definição: Um movimento é considerado como toda modificação ao estado do quebra-cabeça nos termos das notações definidas acima, incluindo desalinhamentos além dos limites descritos na [Regra 10f](regulations:regulation:10f)
+    - 12i1) Exceção: Para o Clock, apenas mudanças na posição das faces internas dos relógios são consideradas movimentos. Mudanças nos estados dos pinos não são consideradas movimentos.
 
 
 ## <article-A><speedsolving><speedsolving> Artigo A: Resolução por Velocidade
 
-- A1) Tentativas de Resolução por Velocidade têm que seguir os seguintes procedimentos.
-    - A1a) A equipe de organização precisa estabelecer pelo menos um tipo de limite de tempo (limite de tempo por tentativa e/ou limite de tempo cumulativo) para cada rodada.
-        - A1a1) O tempo limite padrão por tentativa é de 10 minutos em uma rodada, mas a equipe de organização pode anunciar um limite maior ou menor por tentativa. Nesse caso, o limite tem que ser o mesmo para todas as tentativas em uma rodada.
-        - A1a2) Para eventos que não 3x3x3 em Menos Movimentos e 3x3x3 Multi-Vendado, a equipe de organização pode definir um limite de tempo cumulativo. O limite de tempo cumulativo pode se aplicar para todas as tentativas em uma rodada (p. ex. 3 resoluções com um limite de tempo cumulativo de 20 minutos), ou para todas as tentativas numa combinação de rodadas para eventos diferentes. Nesse caso, o limite de tempo para uma tentativa particular é o limite de tempo ou limite de tempo cumulativo menos o total de tempo de todas as outras tentativas contando para o limite de tempo até o momento (ver [Regra A1a5](regulations:regulation:A1a5)), aquele que for mais baixo. Se uma rodada tem um limite de tempo aplicável, ela deve ter no máximo um.
-        - A1a3) Os limites de tempo para todas as rodadas têm que ser anunciados antes da competição, e não devem ser alterados depois que quaisquer rodadas afetadas começarem. Mudanças têm que ser feitas a critério do Delegado da WCA, que precisa analisar cuidadosamente se a mudança é justa.
-        - A1a4) O competidor precisa terminar cada resolução antes do limite de tempo ser atingido. Se o timer de um competidor atingir o limite de tempo para uma tentativa, o juiz interrompe a resolução imediatamente e registra o resultado como DNF. Exceção: 3x3x3 Multi-Vendado (ver [Regra H1b1](regulations:regulation:H1b1)).
+- A1) Tentativas de Resolução por Velocidade devem seguir os seguintes procedimentos.
+    - A1a) A equipe de organização deve estabelecer pelo menos um tipo de limite de tempo (limite de tempo por tentativa e/ou limite de tempo cumulativo) para cada rodada.
+        - A1a1) O tempo limite padrão por tentativa é de 10 minutos em uma rodada, mas a equipe de organização pode anunciar um limite maior ou menor por tentativa. Nesse caso, o limite deve ser o mesmo para todas as tentativas em uma rodada.
+        - A1a2) Para eventos que não 3x3x3 em Menos Movimentos e 3x3x3 Multi-Vendado, a equipe de organização pode definir um limite de tempo cumulativo. O limite de tempo cumulativo deve se aplicar ou para todas as tentativas em uma rodada (p. ex. 3 resoluções com um limite de tempo cumulativo de 20 minutos), ou para todas as tentativas numa combinação de rodadas para eventos diferentes. Nesse caso, o limite de tempo para uma tentativa particular é o limite de tempo ou limite de tempo cumulativo menos o total de tempo de todas as outras tentativas contando para o limite de tempo até o momento (ver [Regra A1a5](regulations:regulation:A1a5)), aquele que for mais baixo. Se uma rodada tem um limite de tempo aplicável, ela deve ter no máximo um.
+        - A1a3) Os limites de tempo para todas as rodadas devem ser anunciados antes da competição, e não é recomendado que sejam alterados depois que quaisquer rodadas afetadas começarem. Mudanças devem ser feitas a critério do Delegado da WCA, que deve analisar cuidadosamente se a mudança é justa.
+        - A1a4) O competidor deve terminar cada resolução antes do limite de tempo ser atingido. Se o timer de um competidor atingir o limite de tempo para uma tentativa, o juiz interrompe a resolução imediatamente e registra o resultado como DNF. Exceção: 3x3x3 Multi-Vendado (ver [Regra H1b1](regulations:regulation:H1b1)).
         - A1a5) O tempo contando para o limite de tempo de uma tentativa é ou o resultado depois que penas de tempo são aplicadas (se o resultado não for DNF) ou o tempo decorrido na resolução (se o resultado foi DNF).
-    - A1b) Se o tempo limite para uma tentativa for maior que 10 minutos, um cronômetro tem que ser usado para medir o tempo.
-        - A1b1) Um Stackmat precisa ser usado além do cronômetro. Exceção: Para eventos sem inspeção nos quais é esperado que o competidor exceda 10 minutos, o uso de um Stackmat é opcional.
+    - A1b) Se o tempo limite para uma tentativa for maior que 10 minutos, um cronômetro deve ser usado para medir o tempo.
+        - A1b1) Um timer Stackmat deve ser usado juntamente com o cronômetro. Exceção: Para eventos sem inspeção nos quais é esperado que o competidor exceda 10 minutos, o uso de um Stackmat é opcional.
         - A1b2) Se um tempo medido pelo timer Stackmat estiver disponível, ele será o tempo original registrado. Caso contrário (p. ex. o timer Stackmat parou de funcionar, passou de 10 minutos ou não foi usado), o tempo do cronômetro é o tempo original registrado.
-    - A1c) Um competidor participando em um evento precisa ser capaz de cumprir as exigências do evento (ver [Regra 2k6](regulations:regulation:2k6)).
+    - A1c) Um competidor participando em um evento deve ser capaz de cumprir as exigências do evento (ver [Regra 2k6](regulations:regulation:2k6)).
 - A2) Embaralhamento:
-    - A2a) Quando for chamado para uma rodada, o competidor entrega o quebra-cabeça, no estado resolvido, para o embaralhador e espera na sua Área de Espera de Competidores designada até que seja chamado para competir.
+    - A2a) Quando for chamado para uma rodada, o competidor entrega o quebra-cabeça resolvido para o embaralhador.
+        - A2a1) Se uma Área de Espera de Competidores estiver sendo utilizada, o competidor deve ficar dentro da Área de Espera designada até que seja chamado para realizar uma tentativa. O competidor deve retornar à Área de Espera designada após completar cada tentativa se ele ainda tiver mais tentativas naquela rodada. Exceção: competidores podem deixar a Área de Espera de Competidores com permissão de um Delegado da WCA. Penalidade: disqualificação das tentativas restantes (DNF), a critério do Delegado da WCA.
+        - A2a2) Se uma Área de Espera de Competidores não estiver sendo utilizada, o competidor deve ficar em sua estação de resolução designada até que complete todas as tentativas na rodada. Exceção: competidores podem deixar sua estação de resolução designada com permissão de um Delegado da WCA. Penalidade: disqualificação das tentativas restantes (DNF), a critério do Delegado da WCA.
+        - A2a3) Após ser chamado para uma rodada, o competidor não deve tentar entrar em qualquer área designada para embaralhamento até que todos os competidores de seu grupo finalizem todas as suas tentativas, a não ser que o Delegado da WCA permita.
     - A2b) Um embaralhador embaralha o quebra-cabeça de acordo com as regras do [Artigo 4](regulations:article:4).
-        - A2b1) Para o Square-1, a equipe de organização pode determinar a colocação de um objeto fino no quebra-cabeça para evitar que movimentos acidentais sejam aplicados antes do início da tentativa. Se tais objetos forem usados, isto deve ser anunciado antes do início da rodada.
-    - A2c) Depois que o embaralhador começa a embaralhar o quebra-cabeça, o competidor não pode ver o quebra-cabeça até que a fase de inspeção comece.
-        - A2c1) O embaralhador posiciona um pote sobre o quebra-cabeça embaralhado, de forma que seja impossível a qualquer competidor ou espectador ver qualquer parte do quebra-cabeça. O pote deve permanecer sobre o quebra-cabeça até o início da tentativa.
+        - A2b1) Para o Square-1, a equipe de organização pode determinar a colocação de um objeto fino no quebra-cabeça para evitar que movimentos acidentais sejam aplicados antes do início da tentativa. Se tais objetos forem usados, é recomendado que isso seja anunciado pelo time de organização antes do início da rodada.
+    - A2c) Depois que o embaralhador começa a embaralhar o quebra-cabeça, o competidor não deve ver o quebra-cabeça até que a fase de inspeção comece.
+        - A2c1) O embaralhador posiciona um pote sobre o quebra-cabeça embaralhado, de forma que seja impossível a qualquer competidor ou espectador ver qualquer parte do quebra-cabeça. O pote permanece sobre o quebra-cabeça até o início da tentativa.
+        - A2c2) Enquanto estiverem competindo, competidores não devem tentar ativamente assistir outro competidor completar uma tentativa oficial. Se o competidor assistir outro competidor realizar uma tentativa em um embaralhamento que ele ainda não recebeu, a tentativa correspondente é considerada DNF.
     - A2d) Ao receber um quebra-cabeça do embaralhador, o juiz rapidamente inspeciona-o para assegurar que foi embaralhado corretamente. Em caso de dúvida, o juiz contata o embaralhador, que faz uma conferência detalhada.
-        - A2d1) O embaralhador ou um juiz autorizado tem que checar o quebra-cabeça embaralhado, e assinar (ou colocar suas iniciais) na súmula para afirmar que ele aplicou a sequência de embaralhamento de número corrreto e chechou que ele corresponde à imagem (ver [Regra 4g](regulations:regulation:4g)). Exceção: para o Cubo 6x6x6, o Cubo 6x6x6, o Cubo 7x7x7, e o Megaminx o embaralhador pode assinar (ou colocar suas iniciais) para afirmar que o quebra-cabeça está embaralhado suficientemente (ver [Regra 4g1](regulations:regulation:4g1)).
+        - A2d1) O embaralhador ou um juiz autorizado deve checar o quebra-cabeça embaralhado, e assinar na súmula para afirmar que ele aplicou a sequência de embaralhamento de número corrreto e chechou que ele corresponde à imagem (ver [Regra 4g](regulations:regulation:4g)). Exceção: para o Cubo 6x6x6, o Cubo 7x7x7, e o Megaminx o embaralhador pode assinar para afirmar que o quebra-cabeça está suficientemente embaralhado (ver [Regra 4g1](regulations:regulation:4g1)). É recomendado que as assinaturas dos embaralhadores sejam consistentes durante a competição, e identifiquem o embaralhador.
     - A2e) O juiz posiciona o quebra-cabeça sobre o tapete em uma posição aleatória e certifica-se de que ele esteja completamente coberto.
         - A2e1) O competidor não pode solicitar uma orientação específica, e o juiz não pode influenciar a orientação do quebra-cabeça baseado no que sabe ou espera a respeito do estado do quebra-cabeça.
+        - A2e2) O competidor não deve remover o pote por conta própria. Penalidade: desqualificação da tentativa (DNF).
 - A3) Inspeção:
     - A3a) O competidor pode inspecionar o quebra-cabeça no início de cada tentativa.
-        - A3a1) O competidor tem um tempo máximo de 15 segundos para inspecionar o quebra-cabeça e iniciar a resolução.
-    - A3b) O juiz prepara o timer ligando-o e zerando-o se necessário. Se o Timer Geração 5 Pro estiver em utilização, o juiz tem que assegurar que ele está no modo 2-pad. Separadamente, o juiz também prepara um cronômetro para marcar o tempo de inspeção.
-        - A3b1) Quando o juiz acredita que o competidor está pronto, ele pergunta "PRONTO?". O competidor tem que estar pronto para iniciar a tentativa dentro de um minuto após ter sido chamado, senão perde o direito à tentativa (DNS), a critério do juiz.
-        - A3b2) O competidor inicia a tentativa confirmando que está pronto, e então o juiz descobre o quebra-cabeça e começa a marcar o tempo de inspeção.
+        - A3a1) O competidor tem estritamente menos de 15 segundos para inspecionar o puzzle e começar a resolução.
+    - A3b) O juiz prepara o timer ligando-o e zerando-o se necessário. Se o Timer Geração 5 Pro estiver sendo usado, o juiz deve assegurar que ele está no modo 2-pad. Separadamente, o juiz também prepara um cronômetro para marcar o tempo de inspeção (Ver [Regra A4d](regulations:regulation:A4d)).
+        - A3b1) Quando o juiz acredita que o competidor está pronto, ele pergunta "PRONTO?". O competidor deve estar pronto para iniciar a tentativa dentro de um minuto após ter sido chamado, senão perde o direito à tentativa (DNS), a critério do juiz.
+        - A3b2) O competidor inicia a tentativa confirmando que está pronto, e então o juiz retira o pote de cima do quebra-cabeça e começa a marcar o tempo de inspeção.
         - A3b3) Quando 8 segundos de inspeção tiverem passado, o juíz diz "8 SEGUNDOS".
         - A3b4) Quando 12 segundos de inspeção tiverem passado, o juíz diz "12 SEGUNDOS".
         - A3b5) O juiz para a cronometragem do tempo de inspeção assim que o competidor levanta as mãos do timer, iniciando-o. (Ver [Regra A4d](regulations:regulation:A4d)).
