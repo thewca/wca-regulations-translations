@@ -1,6 +1,6 @@
 # <wca-title>Regulamento da WCA (Português Brasileiro)
 
-<version>Versão: 1 de agosto de 2023
+<version>Versão: 1 de Janeiro de 2025
 
 
 ## Notas
@@ -9,7 +9,21 @@
 
 Por favor atente-se para o fato de que essa tradução não é uma versão oficial (embora seja disponibilizada no site da WCA): ela pode ser útil, mas não vem com nenhuma garantia. Se houver diferenças entre uma tradução e a versão em inglês (atualmente oficial), esta última deve ser usada.
 
-A WCA usa as palavras "must" e "should", sendo que a primeira indica obrigatoriedade e a segunda uma forte recomendação. O mesmo vale para "must not" (algo que não pode ocorrer) e "should not" (recomendado que não ocorra). A tradução para o português nos dois casos é "deve", mas dessa forma o entendimento fica prejudicado. Assim, "deve" foi usado no lugar de "should", nos casos de "must" foi usado "precisa" ou "tem que", e nos casos de "should not" foi usado "não pode", para adequar a tradução ao conteúdo original.
+A WCA usa as palavras "must", "should", "must not", "should not" e "may", sendo que cada uma possui um significado específico:
+
+- "Must": deve, indicando obrigatoriedade.  
+- "Should": é recomendável que, indicando uma forte recomendação.  
+- "Must not": não deve, indicando algo que não deve ocorrer.  
+- "Should not": não é recomendável que, indicando algo que é recomendado a não ocorrer.  
+- "May": pode, significando permissão.  
+
+A tradução para o português foi ajustada para manter o significado original:
+
+- "Must": deve  
+- "Must not": não deve  
+- "Should": é recomendável que  
+- "Should not": não é recomendável que  
+- "May": pode
 
 ### Regulamento e Orientações da WCA
 
@@ -42,7 +56,6 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
 - 1a) Uma competição precisa ter um Delegado da WCA e uma equipe de organização (composta por um ou mais membros) com os seguintes oficiais: juízes, embaralhadores e anotadores de resultados.
 - 1b) A equipe de organização de uma competição é responsável pela logística antes, durante e depois da competição.
 - 1c) O Delegado da WCA é responsável por assegurar que a competição segue o Regulamento da WCA a qualquer política ou requisito da WCA aplicáveis. O Delegado da WCA pode delegar responsabilidades para outros membros da equipe de organização, mas é responsável em última instância pela forma como elas são conduzidas.
-    - 1c1) O Delegado da WCA deve garantir que a competição siga a [Política de Confidencialidade de Embaralhamentos da WCA](https://documents.worldcubeassociation.org/documents/policies/external/Scramble%20Accountability.pdf).
 - 1e) Cada evento precisa ter um ou mais juízes.
     - 1e1) Um juiz é responsável por executar os procedimentos do evento.
         - 1e1a) Um juiz pode fiscalizar vários competidores simultaneamente a critério do Delegado da WCA, contanto que o juiz seja capaz de assegurar que todo o Regulamento da WCA seja seguido em todos os momentos.
@@ -177,21 +190,23 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
     - 4d3) O Square-1 é embaralhado começando com a face mais escura na frente (dentre as 2 orientações possíveis para embaralhamento).
     - 4d4) O Clock é embaralhado começando com qualquer dos lados na frente e a posição de 12 horas para cima.
     - 4d5) O Skewb é embaralhado começando com a face branca (se não for possível, a face mais clara) no topo e a face verde (se não for possível, a face adjacente mais escura) na frente-esquerda.
-- 4f) As sequências de embaralhamento da competição têm que ser geradas usando uma versão oficial atual de um programa de embaralhamento oficial da WCA (disponível [no site da WCA](https://www.worldcubeassociation.org/regulations/scrambles/)).
 - 4g) Depois de embaralhar o quebra-cabeça, o embaralhador precisa verificar que ele foi embaralhado corretamente. Se o estado do quebra-cabeça estiver errado, o embaralhador precisa corrigi-lo (p. ex. resolvendo o quebra-cabeça e aplicando a sequência de embaralhamento novamente).
-    - 4g1) Exceção: Para o Cubo 6x6x6, o Cubo 7x7x7 e oMegaminx, não é necessário corrigir o estado do quebra-cabeça, a critério do Delegado da WCA.
+    - 4g1) As seguintes exceções se aplicam:
+        - 4g1a) Para o Cubo 6x6x6, Cubo 7x7x7 e Megaminx, não é necessário corrigir o estado do quebra-cabeça, a critério do Delegado da WCA.
+        - 4g1b) Para o Cubo 5x5x5, é recomendável que o embaralhador corrigija o estado do quebra-cabeça. Se a correção do estado do quebra-cabeça causar um prejuízo severo ao cronograma, não é necessário corrigí-lo, a critério do Delegado da WCA.
+    - 4g2) Para o 3x3x3 Multi-Vendado, após embaralhar todos os cubos, o embaralhador deve verificar se não há embaralhamentos duplicados.
 
 
 ## <article-5><puzzle-defects><puzzledefects> Artigo 5: Defeitos nos quebra-cabeças
 
 - 5a) Exemplos de defeitos nos quebra-cabeças incluem: peças soltas, peças giradas no lugar e parafusos/tampas/adesivos destacados.
-- 5b) Se um defeito no quebra-cabeça ocorrer durante uma tentativa, o competidor pode escolher entre reparar o defeito e continuar a tentativa ou parar a tentativa.
+- 5b) Se um defeito no quebra-cabeça ocorrer durante uma tentativa, o competidor pode escolher entre reparar o defeito e continuar a tentativa ou parar a tentativa. O competidor não pode causar um defeito no quebra-cabeça intencionalmente, a não ser que esteja corrigindo um defeito anterior no quebra-cabeça (ver [Regra 5b3b](regulations:regulation:5b3b) e [Regra 5b3c](regulations:regulation:5b3c)). Exemplos de causar um defeito no quebra-cabeça intencionalmente: remover uma tampa de um centro de um 3x3x3, girar uma quina, remover um adesivo.
     - 5b1) Se o competidor escolher reparar o quebra-cabeça, ele tem que reparar somente as peças defeituosas. Ferramentas e/ou peças de outros quebra-cabeças não podem ser usadas para reparar o quebra-cabeça original. Pena: desqualificação da tentativa (DNF).
     - 5b2) Qualquer reparo ao quebra-cabeça não pode dar ao competidor uma vantagem na resolução do quebra-cabeça. Pena: desqualificação da tentativa (DNF).
     - 5b3) Reparos permitidos:
         - 5b3a) Se quaisquer peças se soltaram ou saíram do lugar, o competidor pode colocá-las de volta.
         - 5b3b) Se o competidor reparar o quebra-cabeça mas perceber que o quebra-cabeça está insolúvel mais tarde na resolução, ele pode desmontar e remontar um máximo de 4 peças para tornar o quebra-cabeça solúvel.
-        - 5b3c) Se o quebra-cabeça está insolúvel, e pode ser tornado solúvel rotacionando-se uma única peça de canto, o competidor pode corrigir essa peça girando-a no lugar, sem desmontar o quebra-cabeça.
+        - 5b3c) Se o quebra-cabeça está insolúvel, e pode ser tornado solúvel rotacionando-se uma única peça de canto, o competidor pode corrigir essa peça girando-a no lugar, sem desmontar o quebra-cabeça. Se várias peças de quina tiverem sido rotacionadas como resultado de defeitos no quebra-cabeça, o competidor pode corrigir essas rotações, desde que o número de peças corrigidas pelo competidor não exceda o número de peças rotacionadas por defeitos no quebra-cabeça.
     - 5b4) Durante um fase vendada (ver [Regra B4](regulations:regulation:B4)) todos os reparos tem que ser feitos vendados. Pena: desqualificação da tentativa (DNF).
     - 5b5) Se algumas partes do quebra-cabeça estiverem fisicamente desconectadas ou não posicionadas totalmente ao final da tentativa, as seguintes regras se aplicam:
         - 5b5a) Se uma ou mais partes sem faces coloridas forem afetadas, o quebra-cabeça é considerado resolvido.
@@ -199,7 +214,7 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
         - 5b5c) Se mais de uma parte com uma face colorida for afetada, o quebra-cabeça é considerado não resolvido (DNF).
         - 5b5d) Se uma ou mais partes com mais de uma face colorida forem afetadas, o quebra-cabeça é considerado não resolvido (DNF).
         - 5b5e) As Regras [5b5c](regulations:regulation:5b5c) e [5b5d](regulations:regulation:5b5d) sobrepõem-se às [5b5a](regulations:regulation:5b5a) e [5b5b](regulations:regulation:5b5b).
-        - 5b5f) Se uma peça estiver parcialmente desconectada ou não posicionada completamente, a sua posição final é a mais próxima posição em que a peça afetada poderia se encaixar normalmente no mecanismo do quebra-cabeça, considerando o estado atual do quebra-cabeça. Se a posição final resultar na peça resolvida, a peça não é considerada como afetada pelo defeito do quebra-cabeça.
+        - 5b5f) Se uma parte estiver parcialmente desconectada ou não posicionada completamente, a sua posição final é a mais próxima posição em que a peça afetada poderia se encaixar normalmente no mecanismo do quebra-cabeça, considerando o estado atual do quebra-cabeça. Se a posição final resultar na peça resolvida, a peça não é considerada como afetada pelo defeito do quebra-cabeça.
     - 5b6) Definição: Uma parte é um ou mais componente totalmente conectados de um grupo de componentes de um quebra-cabeça que mantêm-se conectados e não se movem em relação uns aos outros durante operações normais em um quebra-cabeça (p. ex. uma tampa de centro de um 3x3x3, uma peça de ponta de um Pyraminx, uma peça de canto de um 3x3x3 faltando apenas uma face, uma face de uma peça de canto de um 3x3x3).
 
 
@@ -217,9 +232,8 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
     - 7f2) O timer Stackmat tem que estar preso ao tapete e posicionado na superfície, com o timer na parte do tapete mais próxima ao competidor.
     - 7f3) A equipe de organização deve modificar o timer Stackmat para que ele seja mais robusto em face de incidentes comuns, fazendo com que os botões sejam mais difíceis de apertar por acidente (p. ex. acoplando anéis de borracha ao redor dos botões) e prendendo a bateria mais firmemente (p. ex. preenchendo o compartimento da bateria).
     - 7f4) Timers Geração 5 Pro tem que ser usados no modo 2-pad.
-- 7h) O local de competição deve ter uma ou mais Áreas de Espera de Competidores.
-    - 7h1) A equipe de organização pode exigir que um competidor que foi chamado para competir permaneça dentro da Área de Espera de Competidores designada até que tenha terminado todas as suas tentativas da rodada.
-    - 7h2) Definição: Uma Área de Espera de Competidores é uma área na qual os competidores de um grupo esperam até serem chamados para uma estação de resolução.
+- 7h) Se os competidores não permanecerem na mesma estação para todas as suas tentativas em uma rodada, a área de competição deve ter uma ou mais Áreas de Espera de Competidores. Exceção: rodadas com tentativas programadas individualmente.
+    - 7h2) Definição: Uma Área de Espera de Competidor é uma área na qual competidores em um grupo esperam ser chamados para uma estação de resolução.
 
 
 ## <article-9><events><events> Artigo 9: Eventos
@@ -242,8 +256,9 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
         - 9b5a) Formato de rodada completa para esse evento: "Melhor de X" (onde X é 1, 2 ou 3).
         - 9b5b) Formato de corte para esses eventos: fase de corte de "Melhor de X" (onde X é 1 ou 2) para "Melhor de Y" (onde Y é 2 ou 3, e Y > X).
 - 9f) Os resultados de uma rodada são medidos da seguinte forma:
-    - 9f1) Todos os resultados cronometrados abaixo de 10 minutos, com exceção de 3x3x3 Multi-Vendado, são truncados para baixo em centésimos de segundo. Todas as médias cronometradas abaixo de 10 minutos são arredondadas para o centésimo de segundo mais próximo.
-    - 9f2) Todos os resultados e médias cronometrados acima de 10 minutos, incluindo todos os tempos para resultados de 3x3x3 Multi-Vendado, são arredondados para o segundo mais próximo (p. ex. X.49 se torna X e X.50 se torna X+1).
+    - 9f1) Todos os resultados cronometrados abaixo de 10 minutos, com exceção de 3x3x3 Multi-Vendado, são truncados em centésimos de segundo. Todas as médias cronometradas abaixo de 10 minutos são arredondadas para o centésimo de segundo mais próximo.
+    - 9f2) Todos os resultados e médias cronometrados acima de 10 minutos, incluindo todos os tempos para resultados de 3x3x3 Multi-Vendado, são truncados em segundos.
+    - 9f3) Todas as médias e means cronometrados acima de 10 minutos são medidos e arredondados para o segundo mais próximo (p. ex., X.49 se torna X, X.50 se torna X+1).
     - 9f4) O resultado de uma tentativa é registrado como DNF (Did Not Finish) se a tentativa foi desqualificada ou não foi completada.
         - 9f4a) Se um competidor violar uma regra claramente de modo que a tentativa será, com certeza, desqualificada, o juiz deve interromper imedaitamente a tentativa. Se o juiz estiver incerto ou se uma disputa puder ser disruptiva (p. ex. porque uma tentativa extra poderia atrasar a competição), o juiz deve consultar o Delegado da WCA.
     - 9f5) O resultado de uma tentativa é registrado como DNS (Did Not Start) se o competidor tem direito a uma tentativa mas desiste dela.
@@ -268,6 +283,7 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
 - 9j) Cada evento só pode acontecer uma vez por competição.
 - 9k) Todos os competidores podem participar em todos os eventos de uma competição, exceto em casos especificamente aprovados pelo Equipe de Anúncios de Competições da WCA.
 - 9l) Cada rodada precisa ser completada antes que qualquer rodada seguinte do mesmo evento possa começar. Exceção: Tentativas adicionais podem ser dadas a qualquer momento durante a competição para substituir uma tentativa que era inicialmente inválida.
+    - 9l1) Uma tentativa é considerada inválida se é necessário conceder uma tentativa extra.
 - 9m) Os eventos podem ter no máximo quatro rodadas.
     - 9m1) Rodadas com 99 competidores ou menos podem ter no máximo duas rodadas subsequentes.
     - 9m2) Rodadas com 15 competidores ou menos podem ter no máximo uma rodada subsequente.
@@ -277,7 +293,9 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
     - 9p1) No mínimo 25% dos competidores têm que ser eliminados entre rodadas consecutivas do mesmo evento.
     - 9p2) Os competidores que avançam para a próxima rodada têm que ser determinados por uma posição (melhores X competidores) ou por resultado (todos os competidores com um resultado melhor que X) na rodada anterior.
         - 9p2a) Para cada rodada, as condições de avanço precisam ser anunciadas antes que a rodada comece, e não devem ser alteradas depois disso. Alterações somente podem ser feitas a critério do Delegado da WCA, que precisa considerar cuidadosamente se a mudança é justa.
+        - 9p2b) Exceção: Para competições designadas como Campeonato Nacional ou Campeonato Continental, a equipe organizadora pode alterar as condições de avanço para reservar vagas para competidores representando a região relevante. Um máximo de 8 vagas ou 50% das vagas na rodada seguinte, o que for menor, pode ser reservado dessa forma. Para uma rodada com vagas reservadas, os competidores que avançam da rodada anterior são um número reservado dos melhores competidores representando a região relevante, seguidos pelos melhores competidores restantes representando qualquer região. 
     - 9p3) Se um competidor classificado se retira de uma rodada, ele pode ser substituído pelo competidor melhor classificado abaixo do corte na rodada anterior.
+    - 9p4) Um competidor com resultados apenas DNF e/ou DNS não é elegível para avançar. 
 - 9s) Cada rodada de um evento precisa ter um limite de tempo (ver [Regra A1a](regulations:regulation:A1a)).
 - 9t) Se qualquer mudança ocorrer aos resultados de um competidor após o término da competição (p. ex. erro de anotação de resultados, penalidade retroativa), de modo que este competidor não devesse ter avançado para a rodada seguinte (ou não tenha sido autorizado a participar da rodada), todos os resultados deste competidor de todos as rodadas subsequentes têm que ser removidos (Ver [Regra 9u](regulations:regulation:9u)).
     - 9t1) Se isto fizer com que uma rodada não atenda à [Regra 9p1](regulations:regulation:9p1), resultados de outros competidores não podem ser removidos.
@@ -307,6 +325,7 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
     - 10f4) Square-1: no máximo 45 graus (U/D) ou 90 graus (/).
 - 10h) Quebra-cabeças não especificados neste artigo são julgados de acordo com o estado resolvido geralmente aceito como objetivo do quebra-cabeça.
     - 10h1) O estado resolvido do Clock é obtido quando todos os dezoito relógios internos apontam para 12 horas.
+       - 10h1a) Os mostradores internos que não apontam claramente para um marcador de hora específico são considerados como apontando para o marcador de hora mais próximo.
 
 
 ## <article-11><incidents><incidents> Artigo 11: Incidentes
@@ -321,9 +340,30 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
     - 11e1) Se um competidor recebe uma tentativa adicional, esta precisa ser embaralhada usando-se um embaralhamento diferente. Esse embaralhamento tem que ser gerado usando-se uma versão oficial atual do programa de embaralhamento da WCA (ver [Regra 4f](regulations:regulation:4f)).
     - 11e2) Se um competidor recebe uma tentativa adicional, esta deve ser feita logo após a tentativa que será substituída, e tem que substituir a tentativa original de número regular.
     - 11e3) Se não estiver claro se um incidente resulta em uma tentativa adicional ou não, o competidor pode receber uma tentativa adicional provisória, que será usada somente se posteriormente for determinado que uma tentativa adicional era apropriada (p. ex. por uma decisão do WRC).
-- 11f) Decisões sobre um incidente podem ser baseadas em evidência de vídeo ou fotografia, a critério do Delegado da WCA.
+- 11f) Decisões sobre um incidente podem ser apoiadas por evidências em vídeo, fotográficas ou de áudio, a critério do Delegado da WCA.
+    - 11f1) Para vídeos e formas semelhantes de evidência gravada, é recomendável que sejam analisados em tempo real. Exceção: a análise em câmera lenta ou quadro a quadro pode ser usada nas seguintes circunstâncias:
+        - 11f1a) O resultado individual é um recorde regional ou um recorde pessoal entre os 50 melhores resultados do ranking mundial.
+        - 11f1b) A média ou o mean do resultado faz parte de um recorde regional ou um recorde pessoal entre os 50 melhores resultados do ranking mundial.
+        - 11f1c) O resultado é alcançado em uma rodada final de um Campeonato Nacional, Campeonato Continental ou Campeonato Mundial.
+        - 11f1d) Para apoiar a remoção de qualquer pena originalmente aplicada pelo juiz ou Delegado da WCA, ver Regra 11f2a.
+    - 11f2) Evidências obtidas por meio de análise em câmera lenta ou quadro a quadro podem ser usadas apenas para apoiar as seguintes decisões:
+        - 11f2a) A remoção de qualquer pena originalmente aplicada pelo juiz ou Delegado da WCA.
+        - 11f2b) A aplicação de uma pena de acordo com a Regra A3c1, Regra A4b ou Regra A4b1.
+        - 11f2c) Para investigar trapaça (ver Regra 2k).
 - 11g) O Delegado da WCA deve garantir que cópias do Regulamento e das Orientações estejam disponíveis (p. ex. impressas, digitais ou acessíveis via internet) para consultar para quaisquer incidentes.
 - 11h) Um Delegado da WCA pode exigir que competidores em violação severa da [Regra 2k3](regulations:regulation:2k3) deixem o local da competição, considerando a gravidade da situação e o melhor caminho de ação possível. Se o competidor se recusar a fazer isso, ele pode enfrentar ação disciplinar na WCA.
+- 11i) Se for constatado que o quebra-cabeça de um competidor não foi embaralhado corretamente após a conclusão de sua resolução, as seguintes regras se aplicam:
+    - 11i1) Nos seguintes casos, uma tentativa extra deve ser concedida para substituir a tentativa afetada. Se nenhuma tentativa extra for concedida, o resultado será considerado DNS:
+        - 11i1a) O resultado individual é um recorde regional ou um recorde pessoal entre os 50 melhores competidores do ranking mundial.
+        - 11i1b) A média ou o mean do resultado faz parte de um recorde regional ou de um recorde pessoal entre os 50 melhores competidores do ranking mundial.
+        - 11i1c) O resultado foi alcançado em uma rodada final de um Campeonato Nacional, Campeonato Continental ou Campeonato Mundial.
+        - 11i1d) O resultado foi alcançado resolvendo o quebra-cabeça em menos movimentos do que os limites definidos na Regra 4b3.
+        - 11i1e) Exceção: Para 5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube, Megaminx e 3x3x3 Multi-Blind, não é necessário conceder uma tentativa extra nas circunstâncias descritas acima.
+
+11i2) Para todos os outros casos, o resultado pode permanecer. Exceção: o Delegado da WCA pode conceder uma tentativa extra a critério dele se acreditar que isso proporcionará um resultado significativamente mais justo (p. ex., o embaralhamento incorreto recebido foi extremamente fácil e o competidor alcançou um novo recorde pessoal, o embaralhamento incorreto impactou o pódio de um evento, ou o quebra-cabeça foi deliberadamente embaralhado incorretamente).
+
+11i2a) Se uma tentativa extra resultar em um resultado significativamente mais justo, a tentativa original será considerada inválida (ver Regra 9l).
+11i2b) Se uma tentativa extra não puder ser concedida para um embaralhamento incorreto que resulte em um resultado significativamente injusto (por exemplo, porque o embaralhamento incorreto foi descoberto após a competição), o resultado será considerado DNS.
 
 ## <article-12><notation><notation> Artigo 12: Notação
 
@@ -463,42 +503,43 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
     - B1a) Não há período de inspeção. (isto é, a resolução começa ao mesmo tempo que a tentativa)
     - B1b) O competidor fornece sua própria venda.
 - B2) Iniciando a tentativa:
-    - B2a) O juiz zera o(s) timer(s) como na [Regra A3b](regulations:regulation:A3b) e indica que está pronto para que o competidor inicie a tentativa (p. ex. colocando o pote na frente do competidor, dizendo "PRONTO" e dando um sinal de joinha"). O competidor precisa começar a tentativa dentro de um minuto, senão perde o direito à tentativa (DNS), a critério do juiz.
-    - B2b) Quando estiver usando o timer Stackmat, o competidor usa seus dedos para tocar a parte elevada do timer. Suas palmas têm que estar para baixo, e posicionadas no lado do timer mais próximo dele. Pena: +2 segundos no tempo.
-    - B2c) Quando estiver usando o timer Stackmat, o competidor não pode ter contato físico com o quebra-cabeça ou o pote enquanto estiver iniciando a tentativa. Pena: pena de tempo (+2 segundos).
-    - B2d) Quando estiver usando o timer Stackmat, o competidor inicia a tentativa removendo suas mãos do timer, iniciando-o. (Isso também inicia a resolução.)
+    - B2a) O juiz zera o(s) timer(s) como na [Regra A3b](regulations:regulation:A3b) e indica que está pronto para que o competidor inicie a tentativa (p. ex. colocando o pote na frente do competidor, dizendo "PRONTO" e dando um sinal de joinha"). O competidor deve começar a tentativa dentro de um minuto, senão perde o direito à tentativa (DNS), a critério do juiz.
+    - B2b) Quando estiver usando o timer Stackmat, o competidor usa seus dedos para tocar a parte elevada do timer. Suas palmas devem estar para baixo, e posicionadas no lado do timer mais próximo dele. Pena: +2 segundos no tempo.
+    - B2c) Quando estiver usando o timer Stackmat, o competidor não deve ter contato físico com o quebra-cabeça ou o pote enquanto estiver iniciando a tentativa. Pena: pena de tempo (+2 segundos).
+    - B2d) Quando estiver usando o timer Stackmat, é recomendável que o competidor mantenha as mãos sobre o timer até que veja a luz verde do timer. O timer é iniciado quando o competidor remove sua(s) mão(s) do timer. O competidor inicia a tentativa e a resolução ao iniciar o timer.
         - B2d1) O competidor remove o pote do quebra-cabeça depois de ter iniciado o timer.
         - B2d2) Se um cronômetro estiver sendo usado além do timer Stackmat, o juiz o inicia no momento em que o competidor inicia a resolução.
     - B2f) Quando um cronômetro estiver sendo usado como único marcador de tempo, o competidor confirma que está pronto e inicia a resolução levantando o pote. O juiz inicia o cronômetro assim que o competidor iniciar a resolução.
 - B3) Fase de memorização:
     - B3a) O competidor pode pegar o quebra-cabeça durante a fase de memorização.
-    - B3b) O competidor não pode fazer anotações. Pena: desqualificação da tentativa (DNF).
-    - B3c) O competidor não pode aplicar movimentos ou mudanças de alinhamento intencionais (ver [Regra A3c2](regulations:regulation:A3c2)) ao quebra-cabeça durante a fase de memorização.
+    - B3b) O competidor não deve fazer anotações físicas. Pena: desqualificação da tentativa (DNF).
+    - B3c) O competidor não deve aplicar movimentos ou mudanças de alinhamento intencionais (ver [Regra A3c2](regulations:regulation:A3c2)) ao quebra-cabeça durante a fase de memorização.
     - B3d) Se as partes do quebra-cabeça não estiverem completamente alinhadas, então o competidor pode alinhar as faces, contanto que os desalinhamentos estejam dentro dos limites da [Regra 10f](regulations:regulation:10f).
 - B4) Fase vendada:
     - B4a) O competidor coloca a venda para iniciar a fase vendada.
         - B4a1) Até que o competidor aplique o primeiro movimento ao quebra-cabeça, ele pode remover a venda e retornar à fase de memorização.
-    - B4b) O competidor não pode aplicar movimentos ou mudanças de alinhamento intencionais ao quebra-cabeça antes de ter colocado totalmente a venda. Pena: desqualificação da tentativa (DNF).
-    - B4c) Assim que o competidor aplicar o primeiro movimento no quebra-cabeça, o juiz precisa garantir que há um bloqueador de visão (p. ex. uma folha de papel ou papelão) entre o quebra-cabeça e o rosto do competidor enquanto ele estiver resolvendo.
-        - B4c1) Em todos os casos, o competidor precisa usar a venda de forma que sua visão do quebra-cabeça ainda estaria claramente bloqueada se o bloqueador de visão não estivesse no caminho.
-        - B4c3) Se o juiz e o competidor concordarem anteriormente, o competidor pode escolher posicionar ele mesmo o quebra-cabeça atrás de um objeto apropriado (p. ex. uma estante de partitura, a superfície da mesa) durante a fase vendada.
-    - B4d) O competidor não pode ver o quebra-cabeça em nenhum momento durante a fase vendada. Pena: desqualificação da tentativa (DNF).
+    - B4b) O competidor não deve aplicar movimentos ou mudanças de alinhamento intencionais ao quebra-cabeça antes de ter colocado totalmente a venda. Pena: desqualificação da tentativa (DNF).
+    - B4c) Assim que o competidor aplicar o primeiro movimento no quebra-cabeça, o juiz deve garantir que há um bloqueador de visão (p. ex. uma folha de papel ou papelão) entre o quebra-cabeça e o rosto do competidor enquanto ele estiver resolvendo.
+        - B4c1) Em todos os casos, o competidor deve usar a venda de forma que sua visão do quebra-cabeça ainda estaria claramente bloqueada se o bloqueador de visão não estivesse no caminho.
+        - B4c2) Um bloqueador de visão deve ser posicionado de forma que a visão do competidor do quebra-cabeça ainda estaria claramente bloqueada se ele não estivesse usando a venda.  
+        - B4c3) Se o juiz e o competidor concordarem anteriormente, ou se for exigido pela equipe de organização, um objeto apropriado (p. ex. uma estante de partitura, a superfície da mesa) posicionado pelo competidor pode ser usado como bloqueador de visão. O competidor deve fazer uma tentativa razoável de posicionar o bloqueador de visão ele mesmo. Penalidade: desclassificação da tentativa (DNF). Se o bloqueador de visão não for posicionado de forma que a visão do competidor do quebra-cabeça ainda estaria claramente bloqueada se ele não estivesse usando a venda, é recomendável que um bloqueador de visão adicional seja colocado pelo juiz.  
+    - B4d) O competidor não deve ver o quebra-cabeça em nenhum momento durante a fase vendada. Pena: desqualificação da tentativa (DNF).
 - B5) Finalizando a resolução:
     - B5a) Quando estiver usando o timer Stackmat, o competidor finaliza a tentativa soltando o quebra-cabeça e parando o timer.
         - B5a1) Se um cronômetro de mão estiver sendo usado em adição ao timer Stackmat, o juiz para o cronômetro de mão assim que o competidor para a resolução.
     - B5b) Quando estiver usando um cronômetro como único crônometro, o competidor finaliza a tentativa colocando o quebra-cabeça de volta na superfície e avisando ao juiz que ele terminou a tentativa. O juiz para o cronômetro assim que o competidor fizer isso.
         - B5b1) O sinal de notificação padrão do competidor consiste em soltar o(s) quebra-cabeça(s) de suas mãos e coloca-las sobre a superfícies com as palmas para baixo. O competidor e o juíz podem concordar com outra notificação apropriada antes do começo da tentativa.
-    - B5c) Se ele não estiver tocando o quebra-cabeça, o competidor pode remover a venda antes de parar o timer. Ele não pode tocar o quebra-cabeça até o fim da resolução. Pena: desqualificação da tentativa (DNF).
+    - B5c) Se ele não estiver tocando o quebra-cabeça, o competidor pode remover a venda antes de parar o timer. Ele não deve tocar o quebra-cabeça até o fim da resolução. Pena: desqualificação da tentativa (DNF).
 
 
 ## <article-C><one-handed><onehandedsolving> Artigo C: Resolução Com Uma Mão
 
 - C1) O procedimento padrão de resolução por velocidade é seguido, como descrito no [Artigo A](regulations:article:A) (Resolução por Velocidade). Regras adicionais que se sobrepõem aos procedimentos correspondentes do [Artigo A](regulations:article:A) estão descritas abaixo.
-    - C1b) Durante a resolução, o competidor só pode usar uma mão para operar o quebra-cabeça. Pena: desqualificação da tentativa (DNF).
-        - C1b2) Se um defeito no quebra-cabeça ocorrer, e o competidor escolher repará-lo, ele precisa fazer o reparo usando apenas a mão usada na resolução. Pena: desqualificação da tentativa (DNF).
+    - C1b) Durante a resolução, o competidor só deve usar uma mão para operar o quebra-cabeça. Pena: desqualificação da tentativa (DNF).
+        - C1b2) Se um defeito no quebra-cabeça ocorrer, e o competidor escolher repará-lo, ele deve fazer o reparo usando apenas a mão usada na resolução. Pena: desqualificação da tentativa (DNF).
         - C1b3) Se outras partes do corpo do competidor entrarem em contato com o quebra-cabeça ou partes dele de forma não intencional e sem que movimentos tenham sido aplicados, isso não é considerado como operar o quebra-cabeça, a critério do juiz.
         - C1b4) Durante a resolução, o competidor pode segurar o quebra-cabeça contra a superfície para ajudá-lo a operá-lo (ver Regra 7f1d (regulations:regulation 71fd)).
-    - C1c) Durante a resolução, uma vez que o competidor operar o quebra-cabeça com uma mão, ele não pode operá-lo com a outra mão. Pena: desqualificação da tentativa (DNF).
+    - C1c) Durante a resolução, uma vez que o competidor operar o quebra-cabeça com uma mão, ele não deve operá-lo com a outra mão. Pena: desqualificação da tentativa (DNF).
 
 
 ## <article-E><fewest-moves><fewestmovessolving> Artigo E: Resolução em Menos Movimentos
@@ -507,47 +548,43 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
     - E2a) O juiz distribui um embaralhamento para todos os competidores. Ele então inicia o cronômetro e diz "VAI".
         - E2a1) Antes que a tentativa tenha começado, o competidor não deve escrever em nenhum papel relacionado à tentativa. Exceção: o competidor pode escrever informações para identificar a tentativa (ver [Regra E2c1](regulations:regulation:E2c1)). Se ele escrever essa informação no papel que contenha a sequência de embaralhamento, ele deve escrever somente no lado sem a sequência de embaralhamento antes da tentativa. Pena para escrever qualquer outra coisa que não informações para identificar a tentativa: desqualificação da tentativa (DNF).
     - E2b) Todos os competidores têm um limite total de tempo de 60 minutos para encontrar uma solução.
-        - E2b1) O juiz deve anunciar "5 MINUTOS RESTANTES" quanto o tempo atingir 55 minutos, e precisa dizer "PAREM" quando o tempo atingir 60 minutos.
-    - E2c) Ao final dos 60 minutos, cada competidor deve entregar ao juiz um único pedaço de papel com uma solução escrita e informação para identificar a tentativa.
-        - E2c1) Informação para identificar a tentativa é definida como: o nome do competidor, ID da WCA ou ID do competidor naquela competição (pelo menos um, opcionalmente múltiplos), e opcionalmente o nome da competição, round ou número da tentativa. Pena para uma solução entregue sem nome, ID da WCA ou do competidor naquela competição: desqualificação da tentativa (DNF).
-        - E2c2) A solução deve ser uma única e não-ambígua sequência de movimentos com cada movimento individual escrito em uma ordem sequencial. Pena para uma solução ambígua: desqualificação da tentativa (DNF).
-        - E2c3) O competidor deve claramente ocultar ou rabiscar todos os movimentos no papel que não são parte da solução.
-        - E2c4) A solução do competidor deve usar apenas movimentos que são definidos exatamente como notação para o Cubo 3x3x3 na [Regra 12a](regulations:regulation:12a), e não devem usar quaisquer símbolos ou combinações de símbolos que não sejam especificamente definidos nesta regra. Pena: desqualificação da tentativa (DNF).
-        - E2c5) A solução do competidor é considerada correta se começando com um quebra-cabeça resolvido e aplicando a sequência de embaralhamento seguida pela solução o quebra-cabeça terminar resolvido. Pena para uma solução incorreta: desqualificação da tentativa (DNF).
+        - E2b1) É recomendável que o juiz anuncie "5 MINUTOS RESTANTES" quanto o tempo atingir 55 minutos, e deve dizer "PAREM" quando o tempo atingir 60 minutos.
+- E2c) Ao final dos 60 minutos, cada competidor deve entregar ao juiz uma única folha de papel com uma solução escrita e informações para identificar a tentativa. A solução do competidor é considerada correta se, começando com um quebra-cabeça resolvido e aplicando a sequência de embaralhamento seguida pela solução, o quebra-cabeça terminar resolvido. Pena para uma solução incorreta: desqualificação da tentativa (DNF).
+    - E2c1) Informações para identificar a tentativa incluem: o nome do competidor, ID da WCA ou ID do competidor naquela competição (pelo menos uma, opcionalmente múltiplas), e opcionalmente o nome da competição, rodada ou número da tentativa. Pena para uma solução entregue sem informações para identificar a tentativa: desqualificação da tentativa (DNF). As informações para identificar a tentativa podem ser adicionadas pelo competidor após a entrega da tentativa, mas antes do final da competição, a critério do Delegado da WCA e sob supervisão direta de um juiz. O competidor não deve escrever nada após o limite de tempo sem a supervisão do juiz e não deve fazer alterações na solução. Pena: desqualificação da tentativa (DNF).
+    - E2c2) A solução deve ser uma sequência de movimentos não ambígua, com cada movimento escrito em ordem sequencial. Pena para uma solução ambígua: desqualificação da tentativa (DNF).
+    - E2c3) É recomendável que o competidor deixe claro quais movimentos fazem parte da solução, apagando ou rabiscando qualquer movimento que queira excluir ou desenhando um único contorno ao redor da solução.
+    - E2c4) Somente números, letras e apóstrofos são considerados como parte da solução do competidor. Outros símbolos são desconsiderados. A solução restante deve usar apenas movimentos exatamente definidos como notação para o Cubo 3x3x3 na [Regra 12a](regulations:regulation:12a). Pena: desqualificação da tentativa (DNF).
+    - E2c6) Caso um competidor utilize capitalização incorreta para um movimento definido na [Regra 12a](regulations:regulation:12a), é recomendável que  ele seja interpretado como se estivesse com a capitalização correta e aceito como notação válida.
+    - E2c7) Qualquer escrita ou outra marcação na folha de solução que claramente não faça parte da solução pretendida pelo competidor pode ser desconsiderada, a critério do juiz.
+    - E2c8) Os competidores não devem intencionalmente dificultar a avaliação da solução utilizando movimentos ou símbolos não definidos como notação para o Cubo 3x3x3, capitalização incorreta, ou por qualquer outro meio. Pena: desqualificação da tentativa (DNF), a critério do Delegado da WCA.
     - E2d) O tamanho da solução é calculado usando-se a "Outer Block Turn Metric" (ver [Regra 12a](regulations:regulation:12a)).
-        - E2d1) O tamanho máximo permitido para a solução é de 80 (movimentos e rotações).
-    - E2e) A solução do competidor não pode ser diretamente derivada de qualquer parte da sequência de embaralhamento. Pena: desqualificação da tentativa (DNF).
+        - E2d1) A solução do competidor não pode exceder 80 movimentos (incluindo rotações) quando calculada usando a Métrica de Movimentos de Execução (ver [Regra 12a6](regulations:regulation:12a6)). Pena: desqualificação da tentativa (DNF).
+    - E2e) A solução do competidor não deve ser diretamente derivada de qualquer parte da sequência de embaralhamento. Pena: desqualificação da tentativa (DNF).
         - E2e1) O Delegado da WCA pode pedir ao competidor que explique o propósito de cada movimento em sua solução, independentemente da sequência de embaralhamento. Se o competidor não puder dar uma explicação válida, a tentativa é desqualificada (DNF).
 - E3) O competidor pode usar os seguintes objetos durante a tentativa. Pena por usar objetos não-autorizados: desqualificação da tentativa (DNF).
     - E3a) Papel (fornecido pelo juiz), a folha de solução (fornecida pelo juiz), uma foto do embaralhamento para aquela tentativa (que pode ser inclusa no paper ou na folha de resolução) e canetas/lápis ou similar (fornecido pelo juiz, ou opcionalmente auto-fornecido).
-    - E3b) Cubos 3x3x3 (no máximo 3, fornecidos pelo competidor), conforme descrito no [Artigo 3](regulations:regulation:3).
+    - E3b) Cubos 3x3x3 (no máximo 3, fornecidos pelo competidor), que devem estar conforme descrito no [Artigo 3](regulations:regulation:3) antes de iniciar a tentativa.
     - E3c) Adesivos coloridos (fornecidos pelo competidor).
     - E3d) Cronômetro ou relógio (fornecido pelo competidor) para acompanhar o tempo decorrido, se aprovado pelo Delegado da WCA.
     - E3e) Outros aparelhos eletrônicos que não dêem uma vantagem injusta, a critério do Delegado da WCA (ver [Regra 2i1](regulations:regulation:2i1)).
     - E3f) Ferramentas para remover marcações (fornecidas pelo competidor), como líquido corretivo, fita corretiva ou borrachas.
 - E4) O Delegado da WCA pode optar por publicar as soluções (p. ex. foto da súmula ou transcrição das soluções).
-- E5) O competidor não pode se comunicar com ninguém além do Delegado da WCA ou do juiz. Esta comunicação deve ser sobre Regras da WCA e o competidor não pode receber assistência em sua solução. Penalidade: desqualificação da tentativa (DNF).
-
-
-## <article-F><clock><clocksolving> Artigo F: Resolução de Clock
-
-- F1) O procedimento padrão de resolução por velocidade é seguido, como descrito no [Artigo A](regulations:article:A) (Resolução por Velocidade). Regras adicionais que se sobrepõem aos procedimentos correspondentes do [Artigo A](regulations:article:A) estão descritas abaixo.
-- F2) O juiz posiciona o quebra-cabeça embaralhado sobre o tapete na posição "em pé".
-    - F2a) A equipe de organização pode impor o uso de uma base para o quebra-cabeça para prevenir que ele caia antes do início da tentativa. Se essas bases forem utilizadas, a equipe de organização deve fazer um anúncio antes da rodada começar.
-        - F2a1) O juiz deve remover a base do tapete imediatamente depois do competidor remover o quebra-cabeça dele.
-- F3) Ao final do período de inspeção, o competidor posiciona o quebra-cabeça sobre o tapete na posição "em pé". Pena: desqualificação da tentativa (DNF).
-    - F3a) O competidor não pode mudar a posição de nenhum dos pinos antes do início da resolução. Pena: desqualificação (DNF).
+- E5) O competidor não deve se comunicar com ninguém além do Delegado da WCA ou do juiz. É recomendável que esta comunicação seja sobre Regras da WCA e o competidor não deve receber assistência em sua solução. Penalidade: desqualificação da tentativa (DNF).
+- E6) Um competidor pode participar de uma tentativa de 3x3x3 Menos Movimentos que já esteja em progresso, a critério do Delegado da WCA. Exceção: não deve ser permitido que um competidor participe de uma tentativa em progresso nos seguintes casos:
+    - E6a) O competidor já terminou sua tentativa (ver [Diretriz E2b+](guidelines:guideline:E2b+)).
+    - E6b) A tentativa ocorre em uma competição com múltiplos locais físicos (isso é "competições simultâneas de 3x3x3 Menos Movimentos").
+    - E6c) Existe qualquer risco de que informações sobre o embaralhamento possam ter sido conhecidas pelo competidor que deseja participar.
 
 
 ## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Artigo H: Resolução Multi-Vendada
 
 - H1) O procedimento padrão de resolução vendada é seguido, como descrito no [Artigo B](regulations:article:B) (Resolução Vendada). Regras adicionais que se sobrepõem aos procedimentos correspondentes do [Artigo B](regulations:article:B) estão descritas abaixo.
-    - H1a) Antes da tentativa, o competidor tem que informar à equipe de organização o número de cubos (no mínimo 2) que ele deseja tentar.
+    - H1a) Antes da tentativa, o competidor deve informar à equipe de organização o número de cubos (no mínimo 2) que ele deseja tentar.
         - H1a1) O competidor não pode mudar o número de cubos depois de ter informado o número à equipe de organização.
         - H1a2) O competidor pode solicitar que sua informação seja mantida em sigilo até que todos os competidores tenham informado seu número de cubos. Assim que todos os competidores tiverem informado seu número, a informação se torna pública (p. ex. um competidor pode perguntar pelos números de qualquer outro competidor antes de iniciar a tentativa).
-        - H1a3) Antes da tentativa, os cubos embaralhados têm que ser posicionados na mesa numa orientação arbitrária e totalmente cobertos. Estes devem ser arranjados num formato mais próximo possível de um quadrado (p. ex. 8 quebra-cabeças devem ser arranjados em 2 linhas com 3 quebra-cabeças e 1 linha com 2 quebra-cabeças).
+        - H1a3) Antes da tentativa, os cubos embaralhados devem ser posicionados na mesa numa orientação arbitrária, garantindo que permaneçam completamente cobertos. É recomendável que os cubos sejam dispostos no formato mais próximo possível de um quadrado e não sejam empilhados (p. ex. é recomendável que 8 cubos sejam dispostos em 2 linhas com 3 cubos e 1 linha com 2 cubos, em apenas uma camada).
     - H1b) Se o competidor estiver tentando menos de 6 cubos, ele tem um limite de tempo igual a 10 minutos vezes o número de cubos na tentativa; caso contrário o limite de tempo é de 60 minutos.
         - H1b1) O competidor pode sinalizar o fim da resolução a qualquer momento. Se e quando o limite de tempo for atingido, o juiz para a tentativa e ela é pontuada; o limite de tempo conta como o tempo original registrado
     - H1d) Penas de tempo para os quebra-cabeças da tentativa são cumulativas.
-    - H1e) O competidor não pode aplicar qualquer movimento à um ou mais quebra-cabeças durante a fase de memorização: Pena: desqualificação da tentativa (DNF). Exceção: estes quebra-cabeças individuais podem ser considerados como não-resolvidos ao fim da tentativa, ao invés de desqualificar a tentativa inteira, a critério do Delegado da WCA.
+    - H1e) O competidor não deve aplicar qualquer movimento à um ou mais quebra-cabeças durante a fase de memorização: Pena: desqualificação da tentativa (DNF). Exceção: estes quebra-cabeças individuais podem ser considerados como não-resolvidos ao fim da tentativa, ao invés de desqualificar a tentativa inteira, a critério do Delegado da WCA.
 - H2) O competidor pode fornecer uma cobertura plana (p. ex. um tapete ou um pano) para a superfície, a critério do Delegado da WCA. Se o competidor desejar fazê-lo, o pedido deve ser feito na mesma hora em que os quebra-cabeças forem entregues (ver [Regra H1a](regulations:regulation:H1a)).
