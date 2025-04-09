@@ -51,7 +51,7 @@ Nota: Uma vez que os números dos artigos não são atualizados quando algum del
     - 1g2) Alterações de resultados feitas nas folhas de resultados são apenas permitidas segundo critério do Delegado da WCA.
 - 1h) Os competidores numa mesma ronda de uma modalidade podem competir em um só grupo ou ser divididos em vários grupos.
     - 1h1) Embaralhadores e juízes de uma ronda não devem embaralhar ou ajuizar competidores do seu próprio grupo antes de terem terminado todas as suas tentativas dessa ronda.
-        - 1h1a) Para 3x3x3 em Menos Movimentos, juizes podem ajuizar competidores no seu grupo antes de terem terminado a sua tentativa (enquanto quanto estão a competir).
+        - 1h1a) Para 3x3x3 em Menos Movimentos, juizes podem ajuizar competidores no seu grupo antes de terem terminado a sua tentativa (enquanto estão a competir).
         - 1h1b) Para 3x3x3 Vários Cubos Vendado, competidores podem ajuizar outros competidores no seu grupo após terem terminado a sua tentativa.
 - 1j) Todos os oficiais podem participar na competição.
 - 1k) Os oficiais podem acumular várias funções (Ex.: equipa de organização, Delegado da WCA, juiz, registador de resultados, embaralhador).
@@ -116,7 +116,7 @@ Nota: Uma vez que os números dos artigos não são atualizados quando algum del
     - 2u2) Exceção: Para rondas com um tempo limite cumulativo, um competidor que chegue atrasado pode competir com um tempo limite cumulativo reduzido, a critério do Delegado da WCA.
 
 
-## <article-3><puzzles><puzzles> Artigo 3: Quebra-cabeças
+## <article-3><puzzles><puzzles> Artigo 3: puzzles
 
 - 3a) Os competidores devem fornecer os seus próprios puzzles para a competição.
     - 3a1) O competidor deve estar preparado para submeter o seu puzzle quando for chamado (ver [Regra 2u](regulations:regulation:2u)).
@@ -130,7 +130,7 @@ Nota: Uma vez que os números dos artigos não são atualizados quando algum del
     - 3d2) As cores dos puzzles devem ser sólidas, com uma cor uniforme por face. Cada cor no puzzle deve ser claramente distinguível das outras cores.
 - 3h) Modificações que alterem o conceito básico do puzzle não são permitidas. Versões modificadas de puzzles só são permitidas se a modificação não disponibilizar qualquer informação adicional ao competidor (Ex.: orientação ou identidade das peças), comparando-se com uma versão não-modificada do mesmo puzzle.
     - 3h1) Puzzles "almofadados" são permitidos.
-    - 3h2) Puzzles com plástico colorido visível no seu interior (Ex.: puzzles sem autocolantes) são permitidos. Isto não inclui os quebra-cabeças seguintes.
+    - 3h2) Puzzles com plástico colorido visível no seu interior (Ex.: puzzles sem autocolantes) são permitidos. Isto não inclui os puzzles seguintes.
         - 3h2a) Puzzles com partes transparentes que podem revelar mais informação sobre o estado do puzzle. Exceção: Autocolante sobreposto (ver [Regra 3l](regulations:regulation:3l)).
     - 3h3) Quaisquer modificações feitas pelo competidor num puzzle que resultem num mau desempenho, não são razão para tentativas adicionais.
     - 3h4) Para Clock, as seguintes modificações são permitidas:
@@ -150,7 +150,7 @@ Nota: Uma vez que os números dos artigos não são atualizados quando algum del
         - 3k2a) Se um puzzle não-permitido é encontrado antes de uma ronda estar completada, resultados afetados na ronda poderão ser repostos com tentativas extras, a critério do Delegado da WCA.
         - 3k2b) 3x3x3 Vários Cubos Vendado: se algum puzzle é descoberto como sendo não-permitido, tais puzzles devem ser individualmente contados como não resolvidos (sem desqualifcar a tentativa inteira), a critério do Delegado da WCA.
 - 3l) Um puzzle pode ter um ou mais logótipo numa parte colorida. Se tiver, só pode ter, no máximo, uma parte colorida com um logótipo ou vários logótipos. Exceção: Para 4x4x4 Vendado, 5x5x5 Vendado, e 3x3x3 Vários Cubos Vendado, o puzzle não pode ter nenhum logótipo.
-    - 3l1) O logótipo deve estar colocado numa peça central. Exceções para quebra-cabeças que não têm peças centrais:
+    - 3l1) O logótipo deve estar colocado numa peça central. Exceções para puzzles que não têm peças centrais:
         - 3l1a) Para Pyraminx e 2x2x2, o logótipo pode estar em qualquer peça.
         - 3l1b) Para Square-1, o logotipo tem que estar numa peça da camada equatorial.
     - 3l2) O logótipo pode ser ser cunhado, gravado ou consistir num autocolante sobreposto.
@@ -178,7 +178,7 @@ Nota: Uma vez que os números dos artigos não são atualizados quando algum del
     - 4d3) O Square-1 é embaralhado com a face mais escura na frente (dentre as 2 orientações possíveis para embaralhamento).
     - 4d4) O Clock é embaralhado começando por qualquer uma das faces com os ponteiros nas 12 horas a apontar para cima.
     - 4d5) O Skewb é embaralhado começando com a face branca (se não for possível, usa-se a face mais clara) no topo e a face verde (se não for possível, usa-se a face adjacente mais escura) na frente-esquerda.
-- 4g) Depois de embaralhar o puzzle, o embaralhador deve verificar se este foi embaralhado corretamente. Se o estado do quebra-cabeças estiver incorreto, o embaralhador deve corrigi-lo (ou seja, resolvendo o quebra-cabeças e aplicando o embaralhamento novamente).
+- 4g) Depois de embaralhar o puzzle, o embaralhador deve verificar se este foi embaralhado corretamente. Se o estado do puzzles estiver incorreto, o embaralhador deve corrigi-lo (ou seja, resolvendo o puzzles e aplicando o embaralhamento novamente).
     - 4g1) As seguintes exceções aplicam-se:
         - 4g1a) Para o Cubo 6x6x6, Cubo 7x7x7 e Megaminx não é necessário corrigir o embaralhamento, a critério do Delegado da WCA.
         - 4g1b) para o Cubo 5x5x5, o embaralhador deverá corrigir o estado puzzle. Se corrigir o estado do puzzle fosse causar um severo detrimento do cronograma, então não é necessário corrigi-lo, a critério do Delegado da WCA.
@@ -189,18 +189,18 @@ Nota: Uma vez que os números dos artigos não são atualizados quando algum del
 
 - 5a) Exemplos de defeitos nos puzzles incluem: peças soltas, peças giradas no lugar e parafusos/tampas/autocolantes destacados.
 - 5b) Se um defeito no puzzle ocorrer durante uma tentativa, o competidor pode escolher entre reparar o defeito e continuar a tentativa, ou pará-la. Ao competidor não lhe é permitido causar um defeito intencional no puzzle, a menos que corrigir um defeito do puzzle anterior (ver [Regra 5b3b](regulations:regulation:5b3b) e [regra 5b3c](regulations:regulation:5b3c)). Exemplos de defeitos em puzzles intencionais: remoção de uma capa de centro, rodar uma peça de canto, remoção de um autocolante)
-    - 5b1) Se o competidor escolhe reparar o puzzle, este deve reparar somente as peças afetadas. Ferramentas e/ou peças de outros quebra-cabeças não podem ser usadas para reparar o puzzle original. Penalidade: desqualificação da tentativa (DNF).
+    - 5b1) Se o competidor escolhe reparar o puzzle, este deve reparar somente as peças afetadas. Ferramentas e/ou peças de outros puzzles não podem ser usadas para reparar o puzzle original. Penalidade: desqualificação da tentativa (DNF).
     - 5b2) Qualquer reparação no puzzle não pode dar ao competidor nenhuma vantagem na resolução. Penalidade: desqualificação da tentativa (DNF).
     - 5b3) Reparações permitidas:
         - 5b3a) Se alguma peça se soltou ou saiu do lugar, o competidor pode colocá-la de volta.
         - 5b3b) Se, depois de reparar o puzzle, mas antes do fim da resolução, o competidor perceber que o puzzle está num estado impossível de resolver, este pode desmontar e remontar um máximo de 4 peças para colocar o puzzle num estado possível de resolver.
         - 5b3c) Se o puzzle está impossível de se resolver, e pode ser resolvido rodando uma peça de canto, o competidor pode corrigir essa peça girando-a no lugar, sem desmontar o puzzle.
-    - 5b4) Durante a fase vendada de tentativas de eventos vendados, (ver [Regra B4](regulations:regulation:B4)), todos os defeitos no quebra-cabeças devem ser reparados pelo competidor enquanto vendado. Penalidade: desqualificação da tentativa (DNF).
-    - 5b5) Se no final da resolução alguma peça do quebra-cabeças estiver fisicamente desligada ou não totalmente colocada, aplicam-se as seguintes regras:
-        - 5b5a) Se uma ou mais peças sem faces coloridas forem afetadas, o quebra-cabeças é considerado resolvido.
-        - 5b5b) Se uma peça com uma face colorida for afetada, o quebra-cabeças é considerado resolvido.
-        - 5b5c) Se mais do que uma peça com uma face colorida for afetada, o quebra-cabeças é considerado não resolvido (DNF).
-        - 5b5d) Se uma ou mais peças com mais de uma face colorida forem afetadas, o quebra-cabeças é considerado não resolvido (DNF).
+    - 5b4) Durante a fase vendada de tentativas de eventos vendados, (ver [Regra B4](regulations:regulation:B4)), todos os defeitos no puzzle devem ser reparados pelo competidor enquanto vendado. Penalidade: desqualificação da tentativa (DNF).
+    - 5b5) Se no final da resolução alguma peça do puzzle estiver fisicamente desligada ou não totalmente colocada, aplicam-se as seguintes regras:
+        - 5b5a) Se uma ou mais peças sem faces coloridas forem afetadas, o puzzle é considerado resolvido.
+        - 5b5b) Se uma peça com uma face colorida for afetada, o puzzle é considerado resolvido.
+        - 5b5c) Se mais do que uma peça com uma face colorida for afetada, o puzzle é considerado não resolvido (DNF).
+        - 5b5d) Se uma ou mais peças com mais de uma face colorida forem afetadas, o puzzle é considerado não resolvido (DNF).
         - 5b5e) As regras [5b5c](regulations:regulation:5b5c) e [5b5d](regulations:regulation:5b5d) sobrepõe-se à [5b5a](regulations:regulation:5b5a) e [5b5b](regulations:regulation:5b5b).
         - 5b5f) Se uma parte está parcialmente desligada ou não totalmente colocada, a sua posição final é a posição na qual a peça afetada estaria normalmente tendo em conta o mecanismo do puzzle, considerando o atual estado do puzzle. Se a posição final considera a peça como resolvida, a peça não é considerada com afetada pelo defeito do puzzle
     - 5b6) Definição: Uma parte é uma ou mais componentes totalmente conectadas de entre um grupo de componentes de peças do puzzle que continuam conectadas e não movem relativamente entre si durante uma operação ordinal do puzzle (Ex.: uma capa de centro de um 3x3x3, a ponta de um Pyraminx, uma peça de canto de um 3x3x3 à qual falte uma face, uma face de uma peça de canto de um 3x3x3).
@@ -423,7 +423,7 @@ Nota: Uma vez que os números dos artigos não são atualizados quando algum del
     - A2b) Um embaralhador embaralha o puzzle de acordo com as regras do [Artigo 4](regulations:article:4).
         - A2b1) Para Square-1, a organização pode colocar um objeto fino no puzzle para prevenir movimentos acidentais de serem aplicados antes do início da tentativa. Se esses objetos forem usados, tem que ser anunciado pela equipa de organização antes do início da ronda.
     - A2c) Após o embaralhador começar a embaralhar o puzzle, o competidor não pode ver o puzzle até que se inicie a fase de inspeção.
-        - A2c1) O embaralhador coloca uma cobertura sobre o puzzle embaralhado, de forma a que seja impossível a qualquer competidor ou espetador ver qualquer parte do quebra-cabeças. A cobertura deve permanecer sobre o quebra-cabeças até ao início da tentativa.
+        - A2c1) O embaralhador coloca uma cobertura sobre o puzzle embaralhado, de forma a que seja impossível a qualquer competidor ou espetador ver qualquer parte do puzzles. A cobertura deve permanecer sobre o puzzles até ao início da tentativa.
         - A2c2) Enquanto estiver a competir, o competidor não deve estar ativamente a tentar a olhar para outro competidor a completar uma tentativa oficial. Se um competidor vir outro competidor resolver um embaralhamento que o mesmo ainda não recebeu, a tentativa correspondente é registada como DNF.
     - A2d) Ao receber um puzzle do embaralhador, o juiz deve inspecioná-lo rapidamente para assegurar que foi embaralhado. Em caso de dúvida, o juiz contacta o embaralhador, que faz uma verificação detalhada.
         - A2d1) O embaralhador ou juiz autorizado deve verificar o puzzle embaralhado, e assinar a folha de registo para confirmar que aplicou a corretamente-numerada sequência de embaralhamento e verificar que está igual à imagem (ver [Regra 4g](regulations:regulation:4g)). Exceção: para o Cubo 6x6x6, o Cubo 7x7x7, e o Megaminx o embaralhador pode assinar para confirmar que o puzzle está suficientemente embaralhado (ver [Regra 4g1](regulations:regulation:4g1)). Assinaturas de embaralhadores devem ser consistentes no decorrer da competição e devem identificar o embaralhador.
@@ -435,18 +435,18 @@ Nota: Uma vez que os números dos artigos não são atualizados quando algum del
         - A3a1) O competidor tem um tempo estrito de menos 15 segundos para inspecionar o puzzle e iniciar a resolução.
     - A3b) O juiz prepara o temporizador o temporizador desligando-o e ligando-o e resetando se necessário. Se um temportizador Generation 5 Pro estiver em uso, o juiz deve assegurar que está no mod 2-Pad. Separadamente, o juiz também prepara o cronómetro para medir o tempo de inspeção.
         - A3b1) Quando o juiz considerar que o competidor está pronto, o juiz pergunta "PRONTO?". O competidor tem que estar pronto para iniciar a resolução dentro de um minuto após ter sido chamado. Caso contrário, o competidor desiste da tentativa (DNS), ao critério do juiz.
-        - A3b2) O competidor inicia a tentativa ao confirmar que está pronto e o juiz destapa o quebra-cabeças e inicia a cronometragem da inspeção.
+        - A3b2) O competidor inicia a tentativa ao confirmar que está pronto e o juiz destapa o puzzle e inicia a cronometragem da inspeção.
         - A3b3) Quando o tempo de inspeção atingir 8 segundos, o juiz diz "8 SEGUNDOS".
         - A3b4) Quando o tempo de inspeção atingir 12 segundos, o juiz diz "12 SEGUNDOS".
         - A3b5) O juiz pára o tempo de inspeção, a partir do momento em que o competidor levanta as mãos do temporizador (ver [Regra A4d](regulations:regulation:A4d))
     - A3c) O competidor pode pegar no puzzle durante a inspeção.
         - A3c1) O competidor não pode aplicar movimentos ou alterações intencionais no alinhamento durante a inspeção. Penalidade: desqualificação da resolução (DNF). Exceção: ver [Regra A3c2](regulations:regulation:A3c2) e [Regra A3c5](regulations:regulation:A3c5).
-        - A3c2) Se as peças do quebra-cabeças não estiverem totalmente alinhadas, o competidor pode alinhar as faces, assegurando que os desalinhamentos estejam dentro dos limites da [Regra 10f](regulations:regulation:10f)
+        - A3c2) Se as peças do puzzle não estiverem totalmente alinhadas, o competidor pode alinhar as faces, assegurando que os desalinhamentos estejam dentro dos limites da [Regra 10f](regulations:regulation:10f)
         - A3c3) O competidor pode colocar resetar o temporizador antes de começar a resolução.
-        - A3c4) Para Square-1, se estiver definida a utilização de um objeto fino pela equipa de organização (ver [Regra A2b1](regulations:regulation:A2b1)), o competidor tem de remover esse objeto do quebra-cabeças durante a inspeção.
+        - A3c4) Para Square-1, se estiver definida a utilização de um objeto fino pela equipa de organização (ver [Regra A2b1](regulations:regulation:A2b1)), o competidor tem de remover esse objeto do puzzle durante a inspeção.
         - A3c5) Para Square-1, o competidor não deve ser penalizado por nenhum movimento acidental realizado entra os limites da [Regra 10f](regulations:regulation:10f)
     - A3d) No final da inspeção, o competidor coloca o puzzle sobre o yapete, em qualquer orientação. O puzzle deve estar totalmente sobre o tapete e não pode estar em parte ou totalmente apoiado no temporizador Stackmat. Penalidade: penalidade de tempo (+2 segundos)
-        - A3d1) O quebra-cabeças não pode ficar sobre o Cronómetro Speed Stacks. Penalidade: de tempo (+2 segundos).
+        - A3d1) O puzzle não pode ficar sobre o temporizador Stackmat. Penalidade: de tempo (+2 segundos).
         - A3d2) Quando o tempo de inspeção atingir 8 segundos, o juiz diz "8 SEGUNDOS".
         - A3d3) Quando o tempo de inspeção atingir 12 segundos, o juiz diz "12 SEGUNDOS".
 - A4) Ao início da resolução:
@@ -458,8 +458,8 @@ Nota: Uma vez que os números dos artigos não são atualizados quando algum del
         - A4d3) Se um cronómetro estiver a ser usado, o juiz inicia a contagem assim que se inicia a resolução.
     - A4e) Penalizações de tempo para o início da resolução são cumulativas.
 - A5) Durante a resolução:
-    - A5a) Enquanto estiver a inspecionar ou a resolver o quebra-cabeças, o competidor não pode receber assistência de ninguém ou de nenhum objeto além da superfície (ver também [Regra 2i](regulations:regulation:2i)). Penalidade: desqualificação da resolução (DNF). Exceção: Se o competidor não ganha vantagem em comunicar com alguém para além do juiz e do Delegado da WCA, o resultado pode permanecer, a critério do Delegado da WCA.
-    - A5b) Enquanto estiver a inspecionar ou a resolver o quebra-cabeças, o competidor não pode receber assistência de ninguém ou de nenhum objeto além da superfície (ver também [Regra 2i](regulations:regulation:2i)). Penalidade: desqualificação da resolução (DNF).
+    - A5a) Enquanto estiver a inspecionar ou a resolver o puzzle, o competidor não pode receber assistência de ninguém ou de nenhum objeto além da superfície (ver também [Regra 2i](regulations:regulation:2i)). Penalidade: desqualificação da resolução (DNF). Exceção: Se o competidor não ganha vantagem em comunicar com alguém para além do juiz e do Delegado da WCA, o resultado pode permanecer, a critério do Delegado da WCA.
+    - A5b) Enquanto estiver a inspecionar ou a resolver o puzzle, o competidor não pode receber assistência de ninguém ou de nenhum objeto além da superfície (ver também [Regra 2i](regulations:regulation:2i)). Penalidade: desqualificação da resolução (DNF).
     - A5c) O competidor pode segurar o puzzle contra a superfície para ajudar na operação do puzzle (ver [Regra 7f1d](regulations:regulation:7f1d))
 - A6) Finalizando a resolução:
     - A6a) O competidor finaliza a resolução largando o puzzle e parando o temporizador Stackmat corretamente. Se um cronómetro estiver a ser usado, o juiz pára-o assim que o competidor fizer o referido.
@@ -503,7 +503,7 @@ Nota: Uma vez que os números dos artigos não são atualizados quando algum del
 - B2) Início da resolução:
     - B2a) O juiz reseta o(s) cronómetro(s) como na [Regra A3b1](regulations:regulation:A3b1) e indica que está pronto para o competidor começar a tentativa (Ex.: coloca a capa do puzzle em frente do competidor, dizendo "PRONTO", dar um sinal de "fixe" com polegar para cima). O competidor deve estar pronto a começar a tentativa dentro de um minuto, caso contrário este desiste da tentativa (DNS), a critério do juiz.
     - B2b) Se um temporizador Stackmat estiver em uso, o competidor usa os seus dedos para tocar nas superfícies do sensor elevado do temporizador. As palmas do competidor devem voltadas para baixo do lado do cronómetro mais próximo para o competidor. Penalidade: penalidade de tempo (+2 segundos).
-    - B2c)  Se um temporizador Stackmat estiver em uso, o competidor não pode ter contacto físico com o quebra-cabeças entre o período de inspeção e o início da resolução. Penalidade: de tempo (+2 segundos).
+    - B2c)  Se um temporizador Stackmat estiver em uso, o competidor não pode ter contacto físico com o puzzle entre o período de inspeção e o início da resolução. Penalidade: de tempo (+2 segundos).
     - B2d)  Se um temporizador Stackmat estiver em uso, o competidor deve manter as suas mãos no temporizador até ver uma luz verde no temporizador. O temporizador começa quando remover a(s) mão(s) do temporizador. O competidor começa a tentativa e a resolução a partir do momento em que o temporizador começa a contar o tempo.
         - B2d1) O competidor destapa o puzzle depois de ter iniciado o temporizador Stackmat.
         - B2d2) Se um cronómetro estiver em uso como complemento ao temporizador Stackmat, o juiz começa o cronómetro mal o competidor começe a resolução.
