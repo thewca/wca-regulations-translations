@@ -32,11 +32,11 @@ Mỗi quy định được phân loại bằng một trong các nhãn sau để 
 
 ## <article-1><officials><officials> Mục 1: Ủy viên chính thức
 
-- 1c+) [LÀM RÕ] Thuật ngữ "WCA Delegate" nói đến bất kì WCA Delegate nào được chỉ định cho một giải đấu trong trường hợp một giải đấu có nhiều WCA Delegate. Cụm từ "WCA Delegate" cũng nói đến những người được WCA Delegate ủy nhiệm thực hiện một số nhiệm vụ của WCA Delegate tại giải đấu.
-- 1c++) [LÀM RÕ] WCA Delegate có thể tham gia thi đấu mà không làm nhiệm vụ của WCA Delegate tại giải đấu đó. Trong trường hợp này, cụm từ "WCA Delegate" không nói đến họ, trừ khi họ được Delegate được chỉ định cho giải đấu đó ủy nhiệm thực hiện một số nhiệm vụ của WCA Delegate (xem [Hướng dẫn 1c+](guidelines:guideline:1c+)).
+- 1c+) [LÀM RÕ] Thuật ngữ "WCA Delegate" nói đến bất kì WCA Delegate nào được chỉ định cho một giải đấu trong trường hợp một giải đấu có nhiều WCA Delegate. Thuật ngữ "WCA Delegate" cũng nói đến những người được WCA Delegate ủy nhiệm thực hiện một số nhiệm vụ của WCA Delegate tại giải đấu.
+- 1c++) [LÀM RÕ] WCA Delegate có thể tham gia thi đấu mà không làm nhiệm vụ của WCA Delegate tại giải đấu đó. Trong trường hợp này, thuật ngữ "WCA Delegate" không nói đến họ, trừ khi họ được Delegate được chỉ định cho giải đấu đó ủy nhiệm thực hiện một số nhiệm vụ của WCA Delegate (xem [Hướng dẫn 1c+](guidelines:guideline:1c+)).
 - 1h+) [KHUYẾN CÁO] Các thí sinh cùng nhóm thi nên thi bằng cùng một bộ công thức tráo, và các nhóm thi khác nhau nên thi bằng các bộ công thức tráo khác nhau.
 - 1h++) [KHUYẾN CÁO] Các lượt thi của các vòng chung kết và toàn bộ các lượt thi Giải Tối ưu 3x3x3 nên sử dụng cùng một bộ công thức tráo cho toàn bộ thí sinh (chỉ có duy nhất 1 nhóm thi).
-- 1h+++) [BỔ SUNG] Thí sinh có thể yêu cầu được thi vào thời gian khác với lịch trình gốc bằng cách xếp thí sinh vào một nhóm thi riêng. WCA Delegate nên cân nhắc xem việc này có công bằng hay không và tình hình hiện tại của giải đấu có cho phép hay không, và đảm bảo tất cả lượt thi tuân thủ [Quy định 9l](regulations:regulation:9l) (phải bắt đầu thi khi tất cả các thí sinh khác đã hoàn thành các vòng thi trước đó, và hoàn thành vòng thi trước khi có bất kì thí sinh nào bắt đầu lượt thi của vòng kế tiếp). Các thí sinh muốn xếp lịch thi riêng nên liên hệ ban tổ chức và WCA Delegate trước giải đấu. Ngoại lệ: Thí sinh không được yêu cầu xếp lịch riêng đối với nội dung Giải Tối ưu 3x3x3; nội dung này có biện pháp hỗ trợ riêng được nêu tại [Hướng dẫn E6](guidelines:guideline:E6).
+- 1h+++) [BỔ SUNG] Thí sinh có thể yêu cầu được thi vào thời gian khác với lịch trình gốc bằng cách xếp thí sinh vào một nhóm thi riêng. WCA Delegate nên cân nhắc xem việc này có công bằng hay không và tình hình hiện tại của giải đấu có cho phép hay không, và đảm bảo tất cả lượt thi tuân thủ [Quy định 9l](regulations:regulation:9l) (phải bắt đầu thi khi tất cả các thí sinh khác đã hoàn thành các vòng thi trước đó, và hoàn thành vòng thi trước khi có bất kì thí sinh nào bắt đầu lượt thi của vòng kế tiếp). Các thí sinh muốn xếp lịch thi riêng nên liên hệ ban tổ chức và WCA Delegate trước giải đấu. Ngoại lệ: Thí sinh không được yêu cầu xếp lịch riêng đối với nội dung Giải Tối ưu 3x3x3; nội dung này có biện pháp hỗ trợ riêng được nêu tại [Quy định E6](regulations:regulation:E6).
 - 1h1a+) [LÀM RÕ] Nếu trọng tài đang vừa làm nhiệm vụ vừa tham gia thi một lượt thi Giải Tối ưu 3x3x3, trọng tài này không được phép chấm bài thi cho các thí sinh khác khi chưa hoàn thành bài thi của mình. Trọng tài được phép chấm bài thi cho các thí sinh khác trước khi hết 60 phút làm bài nếu trọng tài nộp bài sớm (xem [Hướng dẫn E2b+](guidelines:guideline:E2b+)). Trọng tài này nên nhờ một người trọng tài khác chấm bài thi của mình.
 
 
@@ -49,7 +49,7 @@ Mỗi quy định được phân loại bằng một trong các nhãn sau để 
 - 2e+) [LÀM RÕ] Nếu thí sinh có nhiều quốc tịch, thí sinh được phép chọn sẽ đại diện cho khu vực nào tại giải đấu đầu tiên của thí sinh.
 - 2e++) [BỔ SUNG] WCA Delegate nên xác minh họ và tên và ngày sinh của các thí sinh mới thông qua giấy tờ tùy thân hoặc ảnh chụp giấy tờ tùy thân (VD: hộ chiếu) tại giải đấu đầu tiên của thí sinh.
 - 2e3+) [LÀM RÕ] Các thí sinh không quốc tịch không có kỷ lục và thứ hạng quốc gia, và cũng không có kỷ lục và thứ hạng châu lục.
-- 2i+) [BỔ SUNG] Mặc dù thí sinh được phép cầm đồng hồ bấm giờ lên để xem thời gian đã trôi qua (khi chưa đeo bịt mắt), thí sinh không được phép bắt đầu chạy, dừng, tạm dừng, hay can thiệp tới việc tính giờ của đồng hồ dưới bất kì hình thức nào. Ngoại lệ: Thí sinh được phép tự dừng đồng hồ khi hết lượt thi nếu trọng tài không có mặt tại thời điểm đó (xem [Quy định A6a1](regulations:regulation:A6a1))
+- 2i+) [BỔ SUNG] Mặc dù thí sinh được phép cầm đồng hồ bấm giờ lên để xem thời gian đã trôi qua (khi chưa đeo bịt mắt), thí sinh không được phép bắt đầu chạy, dừng, tạm dừng, hay can thiệp tới việc tính giờ của đồng hồ dưới bất kì hình thức nào. Ngoại lệ: Thí sinh được phép tự dừng đồng hồ khi hết lượt thi nếu trọng tài không có mặt tại thời điểm đó (xem [Quy định A6a1](regulations:regulation:A6a1)).
 - 2i++) [BỔ SUNG] Ban tổ chức có thể phát cho thí sinh đồng bồ bấm giờ (được bắt đầu chạy cùng lúc với đồng hồ chính thức) khác để xem thời gian đã trôi qua. Trong trường hợp này, thí sinh không được chạm vào đồng hồ chính thức. Ngoại lệ: Xem ngoại lệ tại [Hướng dẫn 2i+](guidelines:guideline:2i+).
 - 2i+++) [NHẮC NHỞ] Các khối hình kết nối Bluetooth được coi là thiết bị điện tử.
 - 2i++++) [LÀM RÕ] Thí sinh chỉ được coi là đang sử dụng thiết bị điện tử nếu đang sử dụng thiết bị theo đúng mục đích của nó.
@@ -61,7 +61,7 @@ Mỗi quy định được phân loại bằng một trong các nhãn sau để 
 - 2j2+) [VÍ DỤ] Ví dụ, nếu thí sinh bị truất quyền thi đấu khỏi nội dung vì không đến tham gia thi vòng chung kết, các kết quả của thí sinh này tại các vòng trước vẫn hợp lệ.
 - 2j2++) [VÍ DỤ] Nếu thí sinh bị WCA Delegate truất quyền thi đấu vào lượt thi thứ 3, chỉ có kết quả của lượt thứ 3 này và các lượt sau đó bị hủy, kể cả nếu sự việc dẫn đến việc truất quyền xảy ra trước lượt thi này.
 - 2k6+) [LÀM RÕ] WCA Delegate chỉ nên sử dụng quyền truất quyền thi đấu để ngăn thí sinh gây cản trở trầm trọng cho giải đấu (VD: lãng phí thời gian/tài nguyên của giải đấu). Thí sinh không nên bị truất quyền thi đấu do kết quả "kém" mặc dù đang thi đấu hết khả năng của mình.
-- 2n3+) [BỔ SUNG] Thí sinh có thể đề đơn về khiếu nại cho cấp cao hơn xem xét bằng cách làm theo quy trình được mô tả trong [Kiến nghị về Khiếu nại](https://documents.worldcubeassociation.org/documents/motions/16.2024.1%20-%20Disputes.pdf).
+- 2n3+) [BỔ SUNG] Thí sinh có thể đệ đơn khiếu nại cho cấp cao hơn xem xét bằng cách làm theo quy trình được mô tả trong [Kiến nghị về Khiếu nại](https://documents.worldcubeassociation.org/documents/motions/16.2024.1%20-%20Disputes.pdf).
 - 2s+) [NHẮC NHỞ] Các trường hợp hỗ trợ đặc biệt phải được ghi chú trong Báo cáo của Delegate.
 - 2s++) [VÍ DỤ] Các thí sinh gặp phải các hoàn cảnh (VD: tín ngưỡng tôn giáo) không cho phép thí sinh tham gia thi vào khoảng thời gian hoặc các ngày nhất định có thể được tham gia thi vào thời điểm khác, tùy theo quyết định của WCA Delegate. WCA Delegate nên xét xem giải đấu có đủ tài nguyên không khi cân nhắc những yêu cầu này. Những biện pháp hỗ trợ này bao gồm việc thi "trước" các vòng thi tiếp theo trước khi kết thúc các vòng trước.
 - 2s+++) [VÍ DỤ] Thí sinh không thể sử dụng một trong hai tay để bắt đầu chạy đồng hồ có thể nhờ trọng tài hỗ trợ việc bắt đầu và dừng đồng hồ, hoặc các thí sinh khiếm thính có thể nhờ trọng tài thông báo thời gian quan sát đã trôi qua bằng cách khác.
@@ -86,7 +86,7 @@ Mỗi quy định được phân loại bằng một trong các nhãn sau để 
 - 3k2b+) [LÀM RÕ] Nếu khối hình phạm quy bị phát hiện giữa lượt thi Giải Bịt mắt nhiều 3x3x3, không được phép thay thế hay bỏ khối hình ra ngoài, và khối hình phải được tính là chưa giải xong nếu cả lượt thi không bị hủy kết quả.
 - 3k2b++) [VÍ DỤ] Giả sử thí sinh sử dụng 10 khối hình và giải xong 8 khối. Nếu thí sinh có 2 khối đã giải xong và 1 khối chưa giải xong bị phạm quy, kết quả của thí sinh là 6 khối hình giải xong trên 10 khối (thay vì DNF), tùy theo quyết định của WCA Delegate.
 - 3l+) [BỔ SUNG] Logo được phép có bất kì thiết kế nào hợp lý và không tạo lợi thế ẩn cho thí sinh (VD: có thông tin ẩn dùng để gian lận), sao cho bộ phận có màu vẫn có thể nhìn rõ được. Các thiết kế logo bất thường phải có sự cho phép của WCA Delegate mới được sử dụng.
-- 3l++) [LÀM RÕ] Các khối hình có logo được phép sử dụng cho Giải Bịt mắt 3x3x3, nhưng không được phép sử dụng cho các môn thi khác, bao gồm Giải Bịt mắt nhiều 3x3x3.
+- 3l++) [LÀM RÕ] Các khối hình có logo được phép sử dụng cho Giải Bịt mắt 3x3x3, nhưng không được phép sử dụng cho các môn thi bịt mắt khác, bao gồm Giải Bịt mắt nhiều 3x3x3.
 - 3l1+) [LÀM RÕ] Đối với các Khối NxNxN, viên tâm là tất cả các viên có một mặt có màu. Ví dụ, Khối 5x5x5 có 9 viên tâm ở mỗi mặt.
 
 
@@ -102,13 +102,13 @@ Mỗi quy định được phân loại bằng một trong các nhãn sau để 
 - 4d++) [BỔ SUNG] Khối hình được phép thay đổi hướng khi được đưa từ bàn tráo đề đến bàn thi đấu, miễn sao không có ai cố can thiệp vào xác suất ngẫu nhiên của từng hướng của khối hình (xem [Quy định A2e1](regulations:regulation:A2e1)).
 - 4g+) [KHUYẾN CÁO] Sau khi xác nhận khối hình đã được tráo đúng, người tráo có thể đưa khối hình cho một người tráo khác xác nhận lại. Trong trường hợp này, cả hai người tráo nên cùng ký xác nhận vào phiếu điểm.
 - 4g1b+) [LÀM RÕ] Đối với nội dung Giải Bịt mắt 5x5x5, người tráo phải sửa khối hình bị tráo sai.
-- 4g1b++) [KHUYẾN CÁO] WCA Delegate nên cân nhắc kĩ hơn khi quyết định xem các Khối 5x5x5 bị tráo sai có cần phải sửa hay không,
+- 4g1b++) [KHUYẾN CÁO] WCA Delegate nên cân nhắc kĩ hơn khi quyết định xem các Khối 5x5x5 bị tráo sai có cần phải sửa hay không.
 
 
 ## <article-5><puzzle-defects><puzzledefects> Mục 5: Hư hỏng khối hình
 
 - 5b5+) [VÍ DỤ] Ví dụ của các bộ phận bị bung ra, dẫn đến trạng thái giải: một nắp viên tâm 3x3x3, một viên tâm của khối NxNxN lớn, viên nhỏ bên trong khối NxNxN lớn.
-- 5b5++) [VÍ DỤ] Ví dụ của các bộ phận bị bung ra: dẫn đến kết quả DNF: hai nắp viên tâm 3x3x3, hai viên tâm của khối NxNxN lớn, một viên cạnh 3x3x3, một viên cạnh 4x4x4, bất kì hai viên nào cùng có mặt có màu.
+- 5b5++) [VÍ DỤ] Ví dụ của các bộ phận bị bung ra, dẫn đến kết quả DNF: hai nắp viên tâm 3x3x3, hai viên tâm của khối NxNxN lớn, một viên cạnh 3x3x3, một viên cạnh 4x4x4, bất kì hai viên nào cùng có mặt có màu.
 - 5b5f+) [VÍ DỤ] Hướng dẫn Trực quan của [Quy định 5b5f](regulations:regulation:5b5f) ở tại [link này](https://drive.google.com/file/d/1pIdek0ciDwcurygCtgAcgLs96h96YGLZ/view).
 - 5b5f++) [VÍ DỤ] Viên cạnh 4x4x4 bị vặn tại chỗ được tính là đã giải xong.
 - 5b5f+++) [VÍ DỤ] Viên góc bị vặn tại chỗ được tính là đang ở vị trí hợp lệ, nhưng vị trí hợp lệ này khiến cho viên này bị tính là chưa giải xong.
@@ -138,7 +138,7 @@ Mỗi quy định được phân loại bằng một trong các nhãn sau để 
 - 9p2b+++) [KHUYẾN CÁO] Việc giữ riêng các vị trí đặc biệt trong vòng thi nên được thông báo rõ ràng trước khi giải đấu diễn ra.
 - 9p3+) [LÀM RÕ] Nếu một thí sinh không đủ điều kiện vào vòng thi thay thế một thí sinh đủ điều kiện, thí sinh này cũng có thể tự rút khỏi vòng thi, và thí sinh có vị trí tiếp theo sẽ có thể thế chỗ thí sinh này.
 - 9q+) [KHUYẾN CÁO] Các nội dung và vòng thi nên có ít nhất hai thí sinh.
-- 9t+) [GIẢI THÍCH] Do các Quy định [9t1](regulations:regulation:9t1) và [9t2](regulations:regulation:9t2), các vòng thi có thể sẽ trông có vẻ không tuân thủ các quy định [9p1](regulations:regulation:9p1), [9m1](regulations:regulation:9m1), [9m2](regulations:regulation:9m2) hoặc [9m3](regulations:regulation:9m3). Bởi vì việc thay đổi kết quả các vòng thi để tuân thủ các Quy định này sẽ gây ảnh hưởng đến các thí sinh không liên quan đến sự cố, những kết quả này không được phép thay đổi.
+- 9t+) [GIẢI THÍCH] Do các Quy định [9t1](regulations:regulation:9t1) và [9t2](regulations:regulation:9t2), các vòng thi có thể sẽ trông có vẻ không tuân thủ các Quy định [9p1](regulations:regulation:9p1), [9m1](regulations:regulation:9m1), [9m2](regulations:regulation:9m2) hoặc [9m3](regulations:regulation:9m3). Bởi vì việc thay đổi kết quả các vòng thi để tuân thủ các Quy định này sẽ gây ảnh hưởng đến các thí sinh không liên quan đến sự cố, những kết quả này không được phép thay đổi.
 - 9t++) [BỔ SUNG] Nếu việc thay đổi kết quả xảy ra khi giải đấu đang diễn ra, Quy định này cũng phải được áp dụng. Trong trường hợp này, các Quy định [9t1](regulations:regulation:9t1), [9t2](regulations:regulation:9t2) và [9t3](regulations:regulation:9t3) cũng nên được tuân thủ, tùy theo quyết định của WCA Delegate.
 - 9t3+) [VÍ DỤ] Giả sử tại vòng thi thứ nhất của một nội dung, thí sinh A đạt kết quả trung bình là 10.00 và thí sinh B đạt kết quả trung bình là 10.05, khiến cho thí sinh A vào vòng chung kết chứ không phải B. Nếu về sau có phát hiện ra lỗi nhập liệu, và thí sinh B đạt kết quả trung bình là 9.95 (và đáng lẽ ra phải vào vòng chung kết chứ không phải A), thí sinh A được giữ nguyên kết quả vòng chung kết.
 - 9u+) [BỔ SUNG] Đối với những giải đấu diễn ra tại nhiều địa điểm (các "giải đấu Giải Tối ưu 3x3x3 nhiều địa điểm"), tất cả điều kiện phải được đáp ứng ở tất cả địa điểm để giải đấu có thể kết thúc.
@@ -162,14 +162,14 @@ Mỗi quy định được phân loại bằng một trong các nhãn sau để 
 - 11e+++++) [BỔ SUNG] Nếu WCA Delegate không có thời gian điều tra kĩ khiếu nại trong khi giải đấu đang diễn ra, WCA Delegate nên cho thí sinh thi một lượt bổ sung dự phòng.
 - 11e++++++) [BỔ SUNG] Lượt thi bổ sung được coi như đã được thực hiện vào cùng thời điểm với lượt thi gốc. Ví dụ, nếu vòng thi diễn ra vào ngày 21 tháng 1 và thí sinh thi lượt bổ sung vào ngày 22 tháng 1, thì lượt thi bổ sung này được coi như đã được thực hiện vào ngày 21 tháng 1.
 - 11e+++++++) [KHUYẾN CÁO] Nếu lượt thi bổ sung thay thế vào một vòng thi sau khi vòng thi kế tiếp đã kết thúc, và lượt bổ sung này làm cho thí sinh đủ điều kiện vào vòng sau, thì thí sinh này không nên tham gia thi trong vòng thi kế tiếp, tùy theo quyết định của WCA Delegate.
-- 11e1+) [NHẮC NHỞ] Lượt thi bổ sung phải sử dụng công thức tráo tạo bằng phiên bản hiện hành của chương trình tạo công thức tráo chính thức (xem [Quy định 4f](regulations:regulation:4b), [Hướng dẫn 4b+](guidelines:guideline:4b+)).
+- 11e1+) [NHẮC NHỞ] Lượt thi bổ sung phải sử dụng công thức tráo tạo bằng phiên bản hiện hành của chương trình tạo công thức tráo chính thức (xem [Quy định 4b](regulations:regulation:4b), [Hướng dẫn 4b+](guidelines:guideline:4b+)).
 - 11e2+) [BỔ SUNG] Nếu lượt thi bổ sung dẫn đến một lượt thi bổ sung khác, thí sinh sẽ tiếp tục thi các lượt bổ sung cho đến khi có một lượt hợp lệ để thay thế lượt thi gốc.
 - 11e2++) [VÍ DỤ] Giả sử thí sinh có 5 lượt thi thường, và lượt số 2 dẫn đến lượt thi bổ sung. Thí sinh nên tiếp tục thi các lượt bổ sung cho đến khi có lượt thi hợp lệ thay thế lượt thi số 2. Giả sử lại có một lượt thi thường khác dẫn đến lượt thi bổ sung, thí sinh lại tiến hành quy trình giống như lượt thi số 2.
-- 11f1+) [KHUYẾN CÁO] Ủy ban Quy định WCA nên được liên hệ trong trường cần phải phân tích video bằng hình thức quay chậm hoặc phân tích từng khung hình.
-- 11i1+) [KHUYẾN CÁO] Các thí sinh có khả năng sẽ đạt các tiêu chí này nên có hai người tráo kiểm tra khối hình cho mỗi lượt thi (xem [Quy định 4g+](guidelines:guideline:4g+)).
+- 11f1+) [KHUYẾN CÁO] Ủy ban Quy định WCA nên được liên hệ trong trường hợp cần phải phân tích video bằng hình thức quay chậm hoặc phân tích từng khung hình.
+- 11i1+) [KHUYẾN CÁO] Các thí sinh có khả năng sẽ đạt các tiêu chí này nên có hai người tráo kiểm tra khối hình cho mỗi lượt thi (xem [Hướng dẫn 4g+](guidelines:guideline:4g+)).
 - 11i2+) [KHUYẾN CÁO] Nếu WCA Delegate không chắc chắn rằng lượt tráo sai có dẫn đến kết quả thiếu công bằng nghiêm trọng so với công thức tráo đúng hay không, thì WCA Delegate nên cho thí sinh thi lượt bổ sung dự phòng.
-- 11i2++) [KHUYẾN CÁO] Mặc dù các lượt giải sử dụng công thức tráo sai có thể vẫn sẽ hợp lệ, WCA Delegate phải đảm bảo giới hạn nhất có thể trường hợp này.
-- 11j3+) [KHUYẾN CÁO] Công thức tráo cho lượt thi bổ sung không được phép lấy từ các nhóm thi trước.
+- 11i2++) [NHẮC NHỞ] Mặc dù các lượt giải sử dụng công thức tráo sai có thể vẫn sẽ hợp lệ, WCA Delegate phải đảm bảo giới hạn nhất trường hợp này nhiều nhất có thể.
+- 11j3+) [NHẮC NHỞ] Công thức tráo cho lượt thi bổ sung không được phép lấy từ các nhóm thi trước.
 
 
 ## <article-12><notation><notation> Mục 12: Ký hiệu bước
@@ -225,7 +225,7 @@ Mỗi quy định được phân loại bằng một trong các nhãn sau để 
 - B1b+) [KHUYẾN CÁO] Bịt mắt của thí sinh nên được WCA Delegate kiểm tra trước khi sử dụng trong thi đấu.
 - B2d+) [BỔ SUNG] Theo mặc định, thí sinh bắt đầu quá trình giải bằng cách bắt đầu chạy đồng hồ lần đầu tiên sau khi trọng tài thông báo đã sẵn sàng (xem [Quy định B2a](regulations:regulation:B2a)). Nếu thí sinh muốn kiểm tra xem đồng hồ có chạy bình thường hay không, thi sinh phải được trọng tài đồng ý mỗi lần bắt đầu chạy/reset đồng hồ. Hình phạt nếu bắt đầu chạy và reset đồng hồ khi chưa được trọng tài đồng ý: hủy kết quả lượt thi (DNF).
 - B2f+) [LÀM RÕ] Bởi vì thí sinh bắt đầu quá trình giải bằng cách nhấc hộp đậy ra ngoài, hình phạt do việc bắt đầu chạy đồng hồ và do chạm vào hộp đậy khi đang bắt đầu quá trình giải không được áp dụng (xem [Quy định B2b](regulations:regulation:B2b) và [Quy định B2c](regulations:regulation:B2c)).
-- B4c+) [BỔ SUNG] Nếu trọng tài quên đặt tấm chắn tầm nhìn và WCA Delegate cho rằng không có trường hợp thí sinh cố tình vi phạm Quy định WCA, lượt thi có thể được coi là hợp lệ.
+- B4c++) [BỔ SUNG] Nếu trọng tài quên đặt tấm chắn tầm nhìn và WCA Delegate cho rằng không có trường hợp thí sinh cố tình vi phạm Quy định WCA, lượt thi có thể được coi là hợp lệ.
 - B4d+) [LÀM RÕ] Đối với Giải Bịt mắt 3x3x3, thí sinh được phép sờ khối hình để xác định vị trí của logo được cho phép sử dụng (xem [Quy định 3l](regulations:regulation:3l)) trong giai đoạn bịt mắt. 
 
 
@@ -241,11 +241,11 @@ Mỗi quy định được phân loại bằng một trong các nhãn sau để 
 - E2b+) [LÀM RÕ] Thí sinh được phép kết thúc lượt thi trước khi hết giờ làm bài bằng cách nộp bài thi sớm.
 - E2c+) [LÀM RÕ] Mặc dù trọng tài có thể phát cho thí sinh giấy thi in theo mẫu, thí sinh có thể nộp bài thi viết trên một tờ giấy khác. (Lưu ý rằng tờ giấy này phải do trọng tài cung cấp theo [Quy định E3a](regulations:regulation:E3a).)
 - E2c1+++) [GIẢI THÍCH] Thí sinh không bắt buộc phải ghi tên giải đấu, số thứ tự vòng thi hay số thứ tự lượt thi trên tờ giấy thi nộp cho trọng tài, nhưng có thể ghi thêm để ban tổ chức dễ sắp xếp các bài thi đã nộp.
-- E2c2+) [VÍ DỤ] Ví dụ của các công thức giải không được coi là duy nhất một chuỗi các bước rõ ràng: nhiều công thức giải mà không có đánh dấu chỉ một công thức duy nhất, công thức giải có các ký hiệu không rõ ràng (VD: chữ cái nhìn giống cả hai chữ "B" và "R" mà không rõ là chữ nào), công thức giải có đánh dấu sao hoặc mũi tên để biểu thị các bước thực hiện trái với thứ tự được viết trên giấy (các cụm "insertion" không viết cùng với chuỗi bước còn lại, các bước "pre-move" không được ghi vào chuỗi bước bằng ký hiệu hợp lệ), chuỗi bước không được viết dưới dạng từng dòng một theo thứ tự từ trái sang phải, từ trên xuống dưới, hoặc tất cả các tổ hợp ký hiệu không thể coi là một chuỗi bước rõ ràng. Ngoại lệ các trường hợp trên: sửa chữa chữ viết (VD: tô đen các bước và viết thay vào đó các bước rõ ràng là để thay thế các bước bị tô đen, các bước viết bằng chữ nhỏ ở giữa các bước khác).
+- E2c2+) [VÍ DỤ] Ví dụ của các công thức giải không được coi là duy nhất một chuỗi các bước rõ ràng: nhiều công thức giải mà không có đánh dấu chỉ một công thức duy nhất, công thức giải có các ký hiệu không rõ ràng (VD: chữ cái nhìn giống cả hai chữ "B" và "R" mà không rõ là chữ nào), công thức giải có đánh dấu sao hoặc mũi tên để biểu thị các bước thực hiện trái với thứ tự được viết trên giấy (các cụm "insertion" không viết cùng với chuỗi bước còn lại, các bước "pre-move" không được ghi vào chuỗi bước bằng ký hiệu hợp lệ), chuỗi bước không được viết dưới dạng từng dòng một theo thứ tự từ trái sang phải, từ trên xuống dưới, hoặc tất cả các tổ hợp ký hiệu không thể coi là một chuỗi bước rõ ràng. Ngoại lệ cho các ví dụ trên: sửa chữa chữ viết (VD: tô đen các bước và viết thay vào đó các bước rõ ràng là để thay thế các bước bị tô đen, các bước viết bằng chữ nhỏ ở giữa các bước khác).
 - E2c2++) [NHẮC NHỞ] Trước đây, ký hiệu xoay toàn bộ khối sử dụng ngoặc vuông (VD: [r] hoặc [u2]) được phép sử dụng trong nội dung Giải Tối ưu 3x3x3. Hiện tại các bước xoay toàn bộ khối phải sử dụng ký hiệu dựa trên các chữ cái x, y và z (xem [Quy định 12a4a](regulations:regulation:12a4a)).
 - E2c3+) [LÀM RÕ] Nếu một bước không được tô đen hoặc gạch đi rõ ràng và trọng tài không chắc chắn bước đó có phải một phần của công thức giải hay không, trọng tài nên coi cả công thức tráo là chuỗi bước không rõ ràng (xem [Quy định E2c2](regulations:regulation:E2c2) và [Hướng dẫn E2c2+](guidelines:guideline:E2c2+)).
-- E2c4+) [LÀM RÕ] Ví dụ cho các cách đọc các ký hiệu hoặc tổ hợp ký hiệu không được liệt kê tại [Quy định 12a](regulations:regulation:12a): [x] được coi là x. (R * U', * = F2) được coi là R U' F2. (R U)' được coi là R U'. R++ được coi là R. R3' không được coi là ký hiệu hợp lệ.
-- E2c4++) [BỔ SUNG] Các bước có cả dấu tích và số 2 nên được đọc như không có dấu tích (VD: R2' được coi là R2)
+- E2c4+) [VÍ DỤ] Ví dụ cho các cách đọc các ký hiệu hoặc tổ hợp ký hiệu không được liệt kê tại [Quy định 12a](regulations:regulation:12a): [x] được coi là x. (R * U', * = F2) được coi là R U' F2. (R U)' được coi là R U'. R++ được coi là R. R3' không được coi là ký hiệu hợp lệ.
+- E2c4++) [BỔ SUNG] Các bước có cả dấu tích và số 2 nên được đọc như không có dấu tích (VD: R2' được coi là R2).
 - E2c6+) [VÍ DỤ] Ký hiệu Y được coi là y. UW, uw, và uW được coi là Uw. r được coi là R, chứ không phải Rw.
 - E2e+) [LÀM RÕ] Thí sinh không được trích thẳng bất kì phần nào của công thức tráo vào công thức giải của mình, và không nên trích dẫn nhiều phần từ công thức tráo đảo ngược.
 - E2e++) [VÍ DỤ] Ví dụ các công thức giải nên dẫn đến hủy kết quả (DNF): các công thức giải bắt đầu với 4 bước từ công thức tráo đảo ngược trở lên.
@@ -255,7 +255,7 @@ Mỗi quy định được phân loại bằng một trong các nhãn sau để 
 
 
 ## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Mục H: Giải Bịt mắt nhiều khối 
-- H1+) [BỔ SUNG] Nếu khối hình bị phát hiện bị lặp công thức tráo khi lượt thi đang diễn ra, khối hình có thể được tráo lại bằng công thức tráo khác, tùy theo quyết định của WCA Delegate.
+- H1+) [BỔ SUNG] Trong trường hợp phát hiện khối hình bị lặp công thức tráo khi lượt thi đang diễn ra, khối hình có thể được tráo lại bằng công thức tráo khác, tùy theo quyết định của WCA Delegate.
 - H1b+) [BỔ SUNG] Thí sinh được tham gia thi một lượt thi Giải Bịt mắt nhiều 3x3x3 đang diễn ra, tùy theo quyết định của WCA Delegate. Trong trường hợp này, giới hạn thời gian của thí sinh là thời gian còn lại (thí sinh phải kết thúc lượt thi khi các thí sinh khác đạt giới hạn thời gian). Ngoại lệ: thí sinh không được tham gia thi lượt thi Giải Bịt mắt nhiều 3x3x3 đang diễn ra nếu đã có thí sinh hoàn thành lượt thi, hoặc nếu có nguy cơ thông tin về công thức tráo đã đến tai thí sinh muốn tham gia thi.
 - H1b1+) [NHẮC NHỞ] Lượt thi không bị hủy kết quả do đạt đến giới hạn thời gian, vì nội dung Giải Bịt mắt nhiều 3x3x3 có các ngoại lệ riêng (xem [Quy định A1a4](regulations:regulation:A1a4) và [Quy định A1a5](regulations:regulation:A1a5)).
 - H1b1++) [BỔ SUNG] Trọng tài có thể cho phép thí sinh tiếp tục lượt thi (ngoài khuôn khổ thể thức thi đấu chính thức), nhưng trước tiên lượt thi phải được tạm dừng và tính điểm theo đúng Quy định WCA.
