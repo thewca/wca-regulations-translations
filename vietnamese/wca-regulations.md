@@ -7,6 +7,8 @@
 
 ### Bản dịch
 
+Đây là bản dịch tiếng Việt của Quy định WCA, được dịch bởi [Nguyễn Hải Dương](mailto:nduong@worldcubeassociation.org). Mọi phản hồi xin gửi qua email.
+
 Lưu ý rằng, mặc dù được cung cấp trên website WCA, bản dịch không phải văn bản chính thức. Nếu có khác biệt giữa bản dịch và bản tiếng Anh hiện hành, bản tiếng Anh phải được sử dụng.
 
 ### Quy định và Hướng dẫn WCA
