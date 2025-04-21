@@ -142,8 +142,8 @@ Let op:  Omdat Artikel- en Reglementnummers niet opnieuw worden toegewezen wanne
     - 3h4) Voor de Clock zijn de volgende wijzigingen toegestaan: 
        - 3h4a) Custom inlegsjablonen (dezelfde vorm en grootte als de traditionele papieren inlegsjablonen) zijn toegestaan, ter beoordeling van de WCA Delegate. De inlegsjablonen moeten een duidelijke indicatie van 12 uur hebben die overeenkomt met de originele inlegsjablonen.
         - 3h4b) Puzzels met een custom design die geen oneerlijk voordeel opleveren kunnen worden toegestaan, ter beoordeling van de WCA Delegate (bijvoorbeeld dambordpatroon klokken, zijdes met een custom design, tape aan de zijkant van de Clock).
-        - 3h4c) Aanpassingen die pinnen onderscheiden van andere pinnen van dezelfde zijde zijn toegestaan, ter beoordeling van de WCA Delegate. 
-       - 3h4d) Logo's overal op de puzzel, zolang de binnenste wijzerplaten van de klok onbedekt blijven.
+        - 3h4c) Aanpassingen die pinnen onderscheiden van andere pinnen van dezelfde zijde zijn toegestaan, ter beoordeling van de WCA Delegate.
+        - 3h4d) Logo's overal op de puzzel, zolang de binnenste wijzerplaten van de klok onbedekt blijven.
     - 3h5) Voor de Clock worden losse pinnen (d.w.z. pinnen die met behulp van de zwaartekracht kunnen bewegen in plaats van direct te worden ingedrukt) niet als redelijke slijtage beschouwd en puzzels met dergelijke pinnen mogen niet worden toegestaan.
 - 3j) Puzzels moeten schoon zijn en mogen geen markeringen, verheven stukken, schade of andere verschillen hebben die één stuk significant onderscheiden van een vergelijkbaar stuk. Uitzondering: een logo (zie [Reglement 3l](regulations:regulation:3l)).
     - 3j1) Puzzels mogen redelijke slijtage vertonen, ter beoordeling van de WCA Delegate.
@@ -171,8 +171,8 @@ Let op:  Omdat Artikel- en Reglementnummers niet opnieuw worden toegewezen wanne
     - 4b2) Scramble-reeksen voor een groep mogen alleen beschikbaar zijn voor de WCA Delegate vóór de start van deze groep, en alleen beschikbaar voor de WCA Delegate en de scramblers voor de groep tot het einde ervan. Uitzondering: Voor 3x3x3 Met minste draaien krijgen deelnemers tijdens de ronde scramble-reeksen (zie [Artikel E](regulations:article:E)).
         - 4b2a) De aangewezen WCA Delegate voor de wedstrijd mag alleen toegang tot scramble-reeksen voor toekomstige groepen geven aan andere leden van het organisatieteam als zij tijdelijk niet beschikbaar zijn (bijvoorbeeld omdat ze zelf deelnemen) en dienen anderen in dit geval toegang te geven tot het minimaal mogelijke aantal scrambles.
     - 4b3) Specificatie voor een scramble-programma: Een officiële scramble-reeks moet een willekeurige toestand genereren van alle toestanden waarvoor ten minste 2 draaien vereist zijn om deze op te lossen (gelijke waarschijnlijkheid voor elke toestand).  De volgende toevoegingen/uitzonderingen zijn van toepassing:
-        - 4b3a) Voor geblinddoekte wedstrijdonderdelen moet de scramble-reeks de puzzel willekeurig oriënteren (gelijke waarschijnlijkheid voor elke oriëntatie). 
-       - 4b3b) 2x2x2 Kubus: De (willekeurige) toestand vereist minstens 4 draaien om deze op te lossen.
+        - 4b3a) Voor geblinddoekte wedstrijdonderdelen moet de scramble-reeks de puzzel willekeurig oriënteren (gelijke waarschijnlijkheid voor elke oriëntatie).
+        - 4b3b) 2x2x2 Kubus: De (willekeurige) toestand vereist minstens 4 draaien om deze op te lossen.
         - 4b3c) Skewb: De (willekeurige) toestand vereist minstens 7 draaien om deze op te lossen.
         - 4b3d) Square-1: De (willekeurige) toestand vereist minstens 11 draaien om deze op te lossen.
         - 4b3e) 5x5x5 Kubus, 6x6x6 Kubus, 7x7x7 Kubus en Megaminx: voldoende veel willekeurige draaien (in plaats van willekeurige toestand), minstens 2 draaien om deze op te lossen.
