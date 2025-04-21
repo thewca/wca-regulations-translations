@@ -140,7 +140,7 @@ Let op:  Omdat Artikel- en Reglementnummers niet opnieuw worden toegewezen wanne
         - 3h2a) Puzzels met transparante delen die informatie onthullen over de toestand van de puzzel. Uitzondering: Een overlay-sticker of een logo (zie [Reglement 3l](regulations:regulation:3l)).
     - 3h3) Wijzigingen aan een puzzel die resulteren in slechte prestaties door een deelnemer zijn geen reden voor extra pogingen.
     - 3h4) Voor de Clock zijn de volgende wijzigingen toegestaan:
-       - 3h4a) Custom inlegsjablonen (dezelfde vorm en grootte als de traditionele papieren inlegsjablonen) zijn toegestaan, ter beoordeling van de WCA Delegate. De inlegsjablonen moeten een duidelijke indicatie van 12 uur hebben die overeenkomt met de originele inlegsjablonen.
+        - 3h4a) Custom inlegsjablonen (dezelfde vorm en grootte als de traditionele papieren inlegsjablonen) zijn toegestaan, ter beoordeling van de WCA Delegate. De inlegsjablonen moeten een duidelijke indicatie van 12 uur hebben die overeenkomt met de originele inlegsjablonen.
         - 3h4b) Puzzels met een custom design die geen oneerlijk voordeel opleveren kunnen worden toegestaan, ter beoordeling van de WCA Delegate (bijvoorbeeld dambordpatroon klokken, zijdes met een custom design, tape aan de zijkant van de Clock).
         - 3h4c) Aanpassingen die pinnen onderscheiden van andere pinnen van dezelfde zijde zijn toegestaan, ter beoordeling van de WCA Delegate.
         - 3h4d) Logo's overal op de puzzel, zolang de binnenste wijzerplaten van de klok onbedekt blijven.
@@ -509,9 +509,9 @@ Let op:  Omdat Artikel- en Reglementnummers niet opnieuw worden toegewezen wanne
     - B2a) De judge reset de timer(s) zoals in [Reglement A3b](regulations:regulation:A3b) en geeft aan klaar te zijn voor de deelnemer om te poging te starten (bijvoorbeeld door de puzzelcover voor de deelnemer te plaatsen en te zeggen "KLAAR", wat aangeeft klaar te zijn). De deelnemer moet klaar zijn om de poging te starten binnen één minuut nadat hij/zij is opgeroepen voor de poging. Anders verliest de deelnemer de poging (DNS), ter beoordeling van de judge.
     - B2b) Wanneer de Stackmat-timer wordt gebruikt, gebruikt de deelnemer zijn vingers om de verhoogde sensorvlakken van de timer aan te raken. De handpalmen van de deelnemer moeten naar beneden gericht zijn en zich aan de zijkant van de timer bevinden die zich dichter hem/haar bevindt. Straf: tijdstraf (+2 seconden).
     - B2c) Wanneer de Stackmat-timer wordt gebruikt, mag de deelnemer geen fysiek contact hebben met de puzzel vóór het begin van de poging. Straf: tijdstraf (+2 seconden).
-    - A4d) Wanneer de Stackmat-timer wordt gebruikt, dient de deelnemer de handen op de timer te houden tot er een groen lampje te zien is. De timer start zodra de handen van de timer worden gehaald. De deelnemer start de poging en de oplossing door de timer te starten.
+    - B2d) Wanneer de Stackmat-timer wordt gebruikt, dient de deelnemer de handen op de timer te houden tot er een groen lampje te zien is. De timer start zodra de handen van de timer worden gehaald. De deelnemer start de poging en de oplossing door de timer te starten.
         - B2d1) De deelnemer verwijdert de cover van de puzzel nadat de timer is gestart.
-        - A4d3) Als een stopwatch wordt gebruikt in aanvulling op de Stackmat-timer, start de judge de stopwatch zodra de deelnemer begint met oplossen.
+        - B2d2) Als een stopwatch wordt gebruikt in aanvulling op de Stackmat-timer, start de judge de stopwatch zodra de deelnemer begint met oplossen.
     - B2f) Als een stopwatch in gebruik is als de enige timer, bevestigt de deelnemer klaar te zijn en begint de deelnemer door de cover te verwijderen. De judge start de stopwatch zodra de deelnemer begint met oplossen.
 - B3) Memorisatiefase:
     - B3a) De deelnemer mag de puzzel oppakken tijdens de memorisatiefase.
@@ -527,7 +527,7 @@ Let op:  Omdat Artikel- en Reglementnummers niet opnieuw worden toegewezen wanne
         - B4c2) Een zichtblokkering moet zo geplaatst worden dat het zicht van de deelnemer op de puzzel nog steeds duidelijk geblokkeerd zou zijn als hij/zij geen blinddoek droeg.
         - B4c3) Als de judge en de deelnemer het van tevoren eens zijn, of als het organisatieteam dit vereist, kan een geschikt voorwerp (bijvoorbeeld: een muziekstandaard, het oppervlak van de tafel) dat door de deelnemer is geplaatst, worden gebruikt als zichtblokkering. De deelnemer moet een redelijke poging doen om de zichtblokkering zelf te plaatsen. Straf: diskwalificatie van de poging (DNF). Als de zichtblokkering niet zo geplaatst is dat het zicht van de deelnemer op de puzzel nog steeds duidelijk geblokkeerd zou zijn als hij/zij geen blinddoek droeg, dient er een extra zichtblokkering geplaatst te worden door de judge.
     - B4d) De deelnemer mag de puzzel op geen enkel moment tijdens de geblinddoekte fase bekijken. Straf: diskwalificatie van de poging (DNF).
-- B6) Stoppen met oplossen:
+- B5) Stoppen met oplossen:
     - B5a) Wanneer de Stackmat-timer wordt gebruikt, stopt de deelnemer het oplossen door de puzzel los te laten en vervolgens de timer te stoppen.
         - B5a1) Als een stopwatch wordt gebruikt in aanvulling op de Stackmat-timer, stopt de judge de stopwatch zodra de deelnemer stopt met oplossen.
     - B5b) Als een stopwatch in gebruik is als de enige timer, stopt de deelnemer het oplossen door de puzzel los te laten en de judge te melden klaar te zijn met het oplossen. De judge stopt de stopwatch zodra de deelnemer dit doet.
