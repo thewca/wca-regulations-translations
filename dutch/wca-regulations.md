@@ -139,7 +139,7 @@ Let op:  Omdat Artikel- en Reglementnummers niet opnieuw worden toegewezen wanne
     - 3h2) Puzzels waarvan het gekleurd plastic zichtbaar is binnen in de puzzel (bijvoorbeeld “stickerloze” puzzels) zijn toegestaan. Dit omvat niet de volgende puzzels:
         - 3h2a) Puzzels met transparante delen die informatie onthullen over de toestand van de puzzel. Uitzondering: Een overlay-sticker of een logo (zie [Reglement 3l](regulations:regulation:3l)).
     - 3h3) Wijzigingen aan een puzzel die resulteren in slechte prestaties door een deelnemer zijn geen reden voor extra pogingen.
-    - 3h4) Voor de Clock zijn de volgende wijzigingen toegestaan: 
+    - 3h4) Voor de Clock zijn de volgende wijzigingen toegestaan:
        - 3h4a) Custom inlegsjablonen (dezelfde vorm en grootte als de traditionele papieren inlegsjablonen) zijn toegestaan, ter beoordeling van de WCA Delegate. De inlegsjablonen moeten een duidelijke indicatie van 12 uur hebben die overeenkomt met de originele inlegsjablonen.
         - 3h4b) Puzzels met een custom design die geen oneerlijk voordeel opleveren kunnen worden toegestaan, ter beoordeling van de WCA Delegate (bijvoorbeeld dambordpatroon klokken, zijdes met een custom design, tape aan de zijkant van de Clock).
         - 3h4c) Aanpassingen die pinnen onderscheiden van andere pinnen van dezelfde zijde zijn toegestaan, ter beoordeling van de WCA Delegate.
@@ -463,7 +463,7 @@ Let op:  Omdat Artikel- en Reglementnummers niet opnieuw worden toegewezen wanne
         - A4d3) Als een stopwatch wordt gebruikt, start de judge de stopwatch zodra de deelnemer begint met oplossen.
     - A4e) Tijdstraffen voor het starten van het oplossen zijn cumulatief.
 - A5) Tijdens het oplossen:
-    A5a) Tijdens het inspecteren of oplossen van de puzzel mag de deelnemer niet communiceren met iemand anders dan de judge of de WCA Delegate. Straf: diskwalificatie van de poging (DNF). Uitzondering: Als de deelnemer geen voordeel behaalt door te communiceren met iemand anders dan de judge of de WCA Delegate, mag het resultaat behouden blijven, ter beoordeling van de WCA Delegate.
+    - A5a) Tijdens het inspecteren of oplossen van de puzzel mag de deelnemer niet communiceren met iemand anders dan de judge of de WCA Delegate. Straf: diskwalificatie van de poging (DNF). Uitzondering: Als de deelnemer geen voordeel behaalt door te communiceren met iemand anders dan de judge of de WCA Delegate, mag het resultaat behouden blijven, ter beoordeling van de WCA Delegate.
     - A5b) Tijdens het inspecteren of oplossen van de puzzel mag de deelnemer geen assistentie krijgen van iemand of een ander object dan het oppervlak (zie ook [Reglement 2i](regulations:regulation:2i)). Straf: diskwalificatie van de poging (DNF).
     - A5c) De deelnemer mag de puzzel tegen het oppervlak houden om de puzzel te manipuleren (zie [Reglement 7f1d](regulations:regulation:7f1d)).
 - A6) Stoppen met oplossen:
