@@ -352,7 +352,7 @@ Nota: Uma vez que os números dos artigos não são atualizados quando algum del
     - 11j1) Se o competidor acredita que recebeu um embaralhamento duplicado na inspeção, o mesmo deverá parar a sua tentativa e chamar um Delegado de WCA sem aplicar nenhum movimento ao puzzle. Um competidor não deve ser penalizado por receber um embaralhamento incorretamente, a critério do Delegado da WCA.
     - 11j2) Se erro for descoberto durante o grupo, o Delegado da WCA deverá fazer um esforço para atribuir aos competidor o embaralhamento correto. Uma tentativa extra pode ser atribuída se o Delegado da WCA não tem a certeza de qual seria o embaralhamento correto a atribuir.
     - 11j3) Se o erro for descoberto durante a competição mas depois do grupo, a tentativa em falta deve ser reposta por uma tentativa extra.
-    -  11j4) Se o erro for descoberto apenas após o fim da competição, o resultado será considerado com DNS.
+    - 11j4) Se o erro for descoberto apenas após o fim da competição, o resultado será considerado com DNS.
 
 
 ## <article-12><notation><notation> Artigo 12: Notação
@@ -556,7 +556,7 @@ Nota: Uma vez que os números dos artigos não são atualizados quando algum del
         - E2c6) Se um competidor usar capitalização incorreta para um movimento definido na [Regra 12a](regulations:regulation:12a), esta deve ser interpretada como se tivesse a capitalização correta e ser aceite como notação válida.
         - E2c7) Quaisquer  outras marcar ou escrita na folha de solução que claramente não fazem parte da solução pretendida pelo competidor podem ser descartadas, a critério do Delegado da WCA.
         - E2c8) Competidores não podem tornar a sua solução intencionalmente difícil de ajuizar usando movimentos ou símbolos não definidos como notação para o Cubo 3x3x3, capitalização incorreta, ou qualquer outro tipo. Penalidade: desqualificação da tentativa (DNF) a critério do Delegado da WCA.
-    - E2d) O tamanho da solução é calculado usando a "Medida de Movimentos de Blocos Externos" (ver [Regra 12a5](regulations:regulation:12a5)). 
+    - E2d) O tamanho da solução é calculado usando a "Medida de Movimentos de Blocos Externos" (ver [Regra 12a5](regulations:regulation:12a5)).
         - E2d1) O tamanho máximo permitido para a solução é de 80 (incluindo rotações) quando calculado usando a Medida de Movimentos de Execução (ver [Regra 12a6](regulations:regulation:12a6)). Penalidade: desqualificação da tentativa (DNF).
     - E2e) A solução do competidor não pode ser diretamente retirada de alguma parte da sequência de embaralhamento. Penalidade: desqualificação da tentativa (DNF). Penalidade: desqualificação da tentativa (DNF), a critério do Delegado da WCA.
         - E2e1) O Delegado da WCA pode pedir ao competidor que explique o propósito de cada movimento da sua solução, independentemente da sequência de embaralhamento. Se o competidor não puder dar uma explicação válida, a tentativa é desqualificada (DNF).
