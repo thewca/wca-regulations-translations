@@ -86,7 +86,7 @@ Wytyczne są numerowane odpowiednio do punktów regulaminu, które uzupełniają
 - 3k2b+) [WYJAŚNIENIE] Jeśli niedozwolona układanka zostanie znaleziona w trakcie próby 3x3x3 Multi-Blind, nie może ona zostać wymieniona ani usunięta z próby i musi zostać zaliczona jako nierozwiązana, jeśli cała próba nie zostanie zdyskwalifikowana.
 - 3k2b++) [PRZYKŁAD] Załóżmy, że zawodnik podjął próbę rozwiązania 10 łamigłówek i pomyślnie rozwiązał 8. Jeśli okaże się, że dwie rozwiązane układanki i jedna nierozwiązana są niedozwolone, zawodnik zostanie uznany za zawodnika z wynikiem 6 rozwiązanych układanek na 10 (zamiast DNF), według uznania Delegata WCA.
 - 3l+) [DODATEK] Logo mogą mieć jakikolwiek rozsądny wzorek, który nie daje wyraźnej korzyści (np. kodowanie informacji, które mogą być użyte do oszukiwania) i pozwala na bezproblemowe rozpoznanie koloru pod nim. Niekonwencjonalne logo są dozwolone według uznania Delegata WCA.
-- 3l++) [WYJAŚNIENIE] Loga w 3x3x3 są dozwolone, lecz nie są one dozwolone dla innych konkurencji bez patrzenia, w tym 3x3x3 Wiele Kostke Bez Patrzenia
+- 3l++) [WYJAŚNIENIE] Loga w konkurencji 3x3x3 bez patrzenia są dozwolone, lecz nie są one dozwolone dla innych konkurencji bez patrzenia, w tym 3x3x3 Wiele kostek bez patrzenia.
 - 3l1+) [WYJAŚNIENIE] W układankach NxNxN środkowy element to dowolny element z pojedynczą kolorową częścią. Na przykład kostka 5x5x5 ma 9 elementów środkowych na każdej ściance.
 
 
