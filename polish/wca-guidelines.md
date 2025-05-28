@@ -64,7 +64,7 @@ Wytyczne są numerowane odpowiednio do punktów regulaminu, które uzupełniają
 - 2n3+) [DODATEK] Zawodnik może przekazać spór do rozstrzygnięcia po zakończeniu zawodów, postępując zgodnie z procedurą opisaną w [Wniosku w sprawie sporów](https://documents.worldcubeassociation.org/documents/motions/16.2024.1%20-%20Disputes.pdf).
 - 2s+) [PRZYPOMNIENIE] Specjalne udogodnienia muszą być wzięte pod uwagę w Raporcie Delegata.
 - 2s++) [PRZYKŁAD] Zawodnicy, którym okoliczności (np. religia) nie pozwalają na udział w rundzie w określonym dniu lub o określonej godzinie, mogą uzyskać zgodę na udział w rundzie w innym terminie według uznania Delegata WCA. Delegat WCA powinien wziąć pod uwagę dostępność zasobów zawodów podczas rozpatrywania takich próśb. Obejmuje to możliwość prowizorycznego startu w kolejnej rundzie (rundach) przed zakończeniem poprzedniej rundy (rund).
-- 2s+++) [PRZYKŁAD] Zawodnik, który nie może użyć jednej z rąk do uruchomienia timera, może otrzymać pomoc od sędziego w uruchomieniu i zatrzymaniu timera lub zawodnik, który nie słyszy, może otrzymać ostrzeżenia podaczas inspekcji w inny sposób.
+- 2s+++) [PRZYKŁAD] Zawodnik, który nie może użyć jednej z rąk do uruchomienia timera, może otrzymać pomoc od sędziego w uruchomieniu i zatrzymaniu timera lub zawodnik, który nie słyszy, może otrzymać komunikaty podczas inspekcji w inny sposób.
 - 2s1+) [PRZYKŁAD] Przykłady takich udogodnień obejmują: używanie przez niewidomego zawodnika drugiej ręki do wyczuwania elementów w 3x3x3 One-Handed lub używanie drugiej układanki ze specjalnymi elementami podczas fazy zapamiętywania w 3x3x3 Blindfolded.
 - 2u1+) [DODATEK] Zawodnik może rywalizować zgodnie z decyzją Delegata WCA. Delegat WCA musi dokładnie rozważyć sprawiedliwość takiej decyzji.
 
