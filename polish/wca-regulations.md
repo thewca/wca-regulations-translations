@@ -336,7 +336,7 @@ Uwaga: Ponieważ numery artykułów i regulaminów nie są zmieniane, gdy regula
         - 11f1c) Wynik jest osiągany w finałowej rundzie mistrzostw krajowych, mistrzostw kontynentalnych lub mistrzostw świata.
         - 11f1d) Aby poprzeć usunięcie jakiejkolwiek kary pierwotnie nałożonej przez sędziego lub delegata WCA, patrz [Punkt 11f2a](regulations:regulation:11f2a).
     - 11f2) Dowody uzyskane z analizy zwolnionego tempa lub analizy poklatkowej mogą być wykorzystane wyłącznie w celu wsparcia następujących decyzji:
-        - 11f2a) Usunięcie wszelkich kar pierwotnie nałożonych przez sędziego lub delegata WCA.
+        - 11f2a) Usunięcie wszelkich kar pierwotnie nałożonych przez sędziego lub Delegata WCA.
         - 11f2b) Zastosowanie kary zgodnie z [Punktem A3c1](regulations:regulation:A3c1), [Punktem A4b](regulations:regulation:A4b) lub [Punktem A4b1](regulations:regulation:A4b1).
         - 11f2c) Dochodzenie w sprawie oszustw (patrz [Punkt 2k](regulations:regulation:2k))
 - 11g) Delegat WCA musi zapewnić, że kopie Regulaminu i Wytycznych są dostępne (np. w formie drukowanej, cyfrowej lub dostępnej przez Internet) dla sędziów i zawodników do konsultacji w przypadku jakichkolwiek incydentów.
