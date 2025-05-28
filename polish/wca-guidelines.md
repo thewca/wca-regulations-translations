@@ -53,7 +53,7 @@ Wytyczne są numerowane odpowiednio do punktów regulaminu, które uzupełniają
 - 2i+++) [PRZYPOMNIENIE] Kostki bluetooth są urządzeniem elektronicznym.
 - 2i++++) [WYJAŚNIENIE] Zawodnik uważany jest za osobę wykorzystująca urządzenie elektroniczne tylko wtedy, gdy używa go w jakimś konkretnym celu.
 - 2i+++++) [PRZYKŁAD] Przykładami nie używania urządzenia elektronicznego są: przesuwanie kamery, obracanie telefonu, noszenie smartwatcha.
-- 2i++++++) [PRZYKŁAD] Przykładami używania urządzenia elektrycznego są: naciskanie przycisku na kamerze, sprawdzanie wiadomości za pomocą telefonu lub smartwatcha.
+- 2i++++++) [PRZYKŁAD] Przykładami używania urządzenia elektronicznego są: naciskanie przycisku na kamerze, sprawdzanie wiadomości za pomocą telefonu lub smartwatcha.
 - 2i+++++++) [WYJAŚNIENIE] Urządzenia, które wcześniej były elektroniczne, ale ich części elektroniczne zostały usunięte, mogą być dozwolone według uznania Delegata WCA.
 - 2i1b+) [WYJAŚNIENIE] Obejmuje to urządzenia, które są wyłączone lub odłączone.
 - 2i1c+) [WYJAŚNIENIE] Elektroniczne ogrzewacze do rąk są uznawane za urządzenie elektroniczne, przez co nie mogą być używane w trakcie inspekcji lub układania, natomiast nieelektroniczne ogrzewacze do rąk mogą być używane w dowolnym momencie w trakcie próby.
