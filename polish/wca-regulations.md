@@ -345,7 +345,7 @@ Uwaga: Ponieważ numery artykułów i regulaminów nie są zmieniane, gdy regula
     - 11i1) W następujących przypadkach musi zostać przyznana dodatkowa próba w celu zastąpienia próby, której dotyczy nieprawidłowość. Jeśli nie zostanie przyznana dodatkowa próba, wynik zostanie uznany za DNS:
         - 11i1a) Indywidualny wynik jest rekordem regionu lub osobistym rekordem w 50 najlepszych zawodnikach światowych rankingów.
         - 11i1b) Próba jest częścią średniej, która jest rekordem regionu lub rekordem osobistym w 50 najlepszych wynikach światowych rankingów.
-        - 11i1c) Wynik jest osiągany w finałowej rundzie mistrzostw krajowych, mistrzostw kontynentalnych lub mistrzostw świata.
+        - 11i1c) Wynik jest osiągany w finałowej rundzie Mistrzostw Kraju, Mistrzostw Kontynentu lub Mistrzostw Świata.
         - 11i1d) Wynik został osiągnięty na skutek układania łamigłówki w mniejszej liczbie ruchów niż limity określone w [Punkt 4b3](regulations:regulation:4b3).
         - 11i1e) Wyjątek: W przypadku kostek 5x5x5, 6x6x6, 7x7x7, Megaminx oraz 3x3x3 Multi-Blind, dodatkowa próba nie jest konieczna.
     - 11i2) W pozostałych przypadkach wynik może zostać niezmieniony. Wyjątek: Delegat WCA może przyznać dodatkową próbę według własnego uznania, jeśli uzna, że zapewni to znacznie bardziej sprawiedliwy wynik (np. otrzymane pomieszanie łamigłówki było wyjątkowo łatwe, a zawodnik osiągnął nowy rekord osobisty, nieprawidłowo pomieszana łamigłówka wpłynęła na podium zawodów lub łamigłówka została z premedytacją pomieszana nieprawidłowo).
