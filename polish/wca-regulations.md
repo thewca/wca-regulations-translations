@@ -575,15 +575,6 @@ Uwaga: Ponieważ numery artykułów i regulaminów nie są zmieniane, gdy regula
     - E6c) Istnieje ryzyko, że informacje o sekwencji mieszającej mogą być znane zawodnikowi, który chce dołączyć do próby.
 
 
-## <article-F><clock><clocksolving> Artykuł F: Układanie Rubik's Clock
-
-- F1) Standardowe procedury szybkiego układania opisane w [Artykule A](regulations:article:A) (Układanie Na Czas) mają tutaj zastosowanie. Dodatkowe przepisy, które zastępują procedury [Artykułu A](regulations:article:A), są opisane poniżej:
-- F2) Zespół organizacyjny może użyć specjalnych pudełek na układankę, aby zapobiec jej upadkowi przed rozpoczęciem próby. Jeśli takie pudełka są używane, zespół organizacyjny powinien ogłosić to przed rozpoczęciem rundy.
-- F3) Zawodnik może manipulować pinami w trakcie inspekcji. Wciśnięcie pina nie jest liczone jako ruch.
-- F4) Zawodnik nie może zmieniać stanu wewnętrznych zegarów w trakcie inspekcji.
-Kara: Dyskwalifikacja ułożenia (DNF)
-
-
 ## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Artykuł H: Układanie Wielu Kostek Bez Patrzenia
 
 - H1) Standardowe procedury układania bez patrzenia opisane w [Artykule B](regulations:article:B) (Układanie Bez Patrzenia) mają tutaj zastosowanie. Dodatkowe przepisy, które zastępują procedury [Artykułem B](regulations:article:B), są opisane poniżej.
