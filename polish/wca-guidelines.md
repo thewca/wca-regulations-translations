@@ -93,7 +93,7 @@ Wytyczne są numerowane odpowiednio do punktów regulaminu, które uzupełniają
 ## <article-4><scrambling><scrambling> Artykuł 4: Mieszanie
 
 - 4b+) [REKOMENDACJA] Delegat WCA powinien z wyprzedzeniem wygenerować sekwencje mieszające wystarczające na całe zawody, w tym zapasowe sekwencje mieszające na potrzeby dodatkowych prób.
-- 4b++) [PRZYPOMNIENIE] Jeśli delegat WCA wygeneruje dodatkowe sekwencje mieszające podczas zawodów, sekwencje mieszające muszą zostać zapisane.
+- 4b++) [PRZYPOMNIENIE] Jeśli Delegat WCA wygeneruje dodatkowe sekwencje mieszające podczas zawodów, sekwencje mieszające muszą zostać zapisane.
 - 4b1+) [PRZYPOMNIENIE] Delegat WCA nigdy nie może ponownie generować algorytmów mieszających w celu ich filtracji. Przykładowo, nie jest dozwolone oglądanie algorytmów mieszających dla zawodów i generowanie nowego zestawu w celu uzyskania „bardziej uczciwych” algorytmów mieszających.
 - 4b2+) [WYJAŚNIENIE] Generalnie, wszystkie algorytmy mieszające powinny być trzymane w sekrecie podczas zawodów i publikowane wszystkie razem po zawodach. W niektórych przypadkach (np. rekord świata), zespół organizacyjny może poprosić o opublikowanie danego algorytmu mieszającego po zakończeniu rundy.
 - 4b2++) [DODATEK] Organizatorzy zawodów powinni upewnić się, że mieszacze, sekwencje mieszające oraz częściowo/całkowicie zakodowane łamigłówki są wizualnie odizolowane od zawodników (zob. [Punkt A2c](regulations:regulation:A2c)). Na przykład, mieszacze mogą znajdować się za ścianą lub można użyć wystarczająco wysokiej przegrody (np. kartonowej przegrody umieszczonej wokół boków stołu, przy którym siedzą mieszacze), aby zawodnicy nie byli w stanie zobaczyć układanek, gdy mieszacze stosują sekwencje mieszające.
