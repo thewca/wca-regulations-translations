@@ -52,7 +52,7 @@ Wytyczne są numerowane odpowiednio do punktów regulaminu, które uzupełniają
 - 2i++) [DODATEK] Zespół organizujący może zapewnić drugi stoper do sprawdzania czasu od rozpoczęcia próby (wystartowany jednocześnie z głównym stoperem). W tej sytuacji zawodnik nie może dotykać stopera głównego. Wyjątek: Zob. wyjątek w [Wytycznej 2i+](guidelines:guideline:2i+).
 - 2i+++) [PRZYPOMNIENIE] Kostki bluetooth są urządzeniem elektronicznym.
 - 2i++++) [WYJAŚNIENIE] Zawodnik uważany jest za osobę wykorzystująca urządzenie elektroniczne tylko wtedy, gdy używa go w jakimś konkretnym celu.
-- 2i+++++) [PRZYKŁAD] Przykładami nie używania urządzenia elektrycznego są: przesuwanie kamery, obracanie telefonu, noszenie smartwatcha.
+- 2i+++++) [PRZYKŁAD] Przykładami nie używania urządzenia elektronicznego są: przesuwanie kamery, obracanie telefonu, noszenie smartwatcha.
 - 2i++++++) [PRZYKŁAD] Przykładami używania urządzenia elektrycznego są: naciskanie przycisku na kamerze, sprawdzanie wiadomości za pomocą telefonu lub smartwatcha.
 - 2i+++++++) [WYJAŚNIENIE] Urządzenia, które wcześniej były elektroniczne, ale ich części elektroniczne zostały usunięte, mogą być dozwolone według uznania Delegata WCA.
 - 2i1b+) [WYJAŚNIENIE] Obejmuje to urządzenia, które są wyłączone lub odłączone.
