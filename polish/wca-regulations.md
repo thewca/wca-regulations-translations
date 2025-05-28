@@ -109,7 +109,7 @@ Uwaga: Ponieważ numery artykułów i regulaminów nie są zmieniane, gdy regula
 - 2l) Zawodnik może być zdyskwalifikowany natychmiast lub po ostrzeżeniu, w zależności od natury wykroczenia
     - 2l1) Zdyskwalifikowany zawodnik nie ma prawa do zwrotu kosztów związanych z udziałem w zawodach.
 - 2n) Zawodnik może słownie zakwestionować decyzję Delegata WCA.
-    - 2n1) Dyskusje są możliwe tylko w czasie zawodów (zob. [Punkt 9u](regulations:regulation:9u)), w ciągu 30 minut od zaistnienia incydentu i przed rozpoczęciem kolejnych rund danej konkurencji.
+    - 2n1) Odwołanie się od decyzji jest możliwe tylko w czasie zawodów (zob. [Punkt 9u](regulations:regulation:9u)), w ciągu 30 minut od zaistnienia incydentu i przed rozpoczęciem kolejnych rund danej konkurencji.
     - 2n2) Delegat WCA musi rozwiązać spór przed rozpoczęciem kolejnej rundy danej konkurencji.
     - 2n3) Zawodnik musi zaakceptować ostateczną decyzję Delegata WCA. Kara: dyskwalifikacja z zawodów.
 - 2s) Zawodnicy, u których występują okoliczności (np. niepełnosprawność), które uniemożliwiają przestrzeganie jednego bądź wielu punktów Regulaminu WCA, mogą poprosić Delegata WCA o specjalne udogodnienia. Tacy zawodnicy powinni skontaktować się z zespołem organizacyjnym oraz z Delegatem WCA przynajmniej 2 tygodnie przed zawodami.
