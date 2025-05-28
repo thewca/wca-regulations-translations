@@ -87,7 +87,7 @@ Uwaga: Ponieważ numery artykułów i regulaminów nie są zmieniane, gdy regula
     - 2i1) Zawodnik może korzystać z niektórych nieelektronicznych form pomocy, które nie dają mu nieuczciwej przewagi, według uznania Delegata WCA. W tym:
         - 2i1a) Lekarskie/fizyczne pomoce noszone przez zawodnika (np. okulary, orteza nadgarstka, aparat słuchowy) Jako wyjątek dla [Punktu 2i](regulations:regulation:2i), medyczne pomoce mogą być elektroniczne jeśli zawodnik nie posiada nieelektronicznych alternatyw (np. aparat słuchowy).
         - 2i1b) Zatyczki do uszu i nauszniki (ale nie elektroniczne, wygłuszające słuchawki).
-        - 2i1c) Nieelektryczne ogrzewacze do rąk.
+        - 2i1c) Nieelektroniczne ogrzewacze do rąk.
         - 2i1d) Jedzenie oraz napoje.
     - 2i2) Zawodnicy mogą korzystać z kamer i/lub mikrofonów na stanowisku układania według uznania Delegata WCA, ale poniższe ograniczenia obowiązują od momentu rozpoczęcia próby do momentu zakończenia układania przez zawodnika. Kara za łamanie ograniczeń: dyskwalifikacja próby (DNF).
         - 2i2a) Każdy monitor kamery musi być wygaszony lub poza zasięgiem wzroku zawodnika. Wyjątek: jeśli widoczny monitor zostanie wykryty, zakończone próby nie muszą być zdyskwalifikowane, jeśli zawodnik nie uzyskał przewagi z tego powodu, za uznaniem Delegata WCA (zob. [Punkt A5b](regulations:regulation:A5b)), nie mniej jednak zawodnik nie może uzyskać pozwolenia na dalsze układanie z takim monitorem.
