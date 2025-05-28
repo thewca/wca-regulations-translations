@@ -90,7 +90,7 @@ Uwaga: Ponieważ numery artykułów i regulaminów nie są zmieniane, gdy regula
         - 2i1c) Nieelektroniczne ogrzewacze do rąk.
         - 2i1d) Jedzenie oraz napoje.
     - 2i2) Zawodnicy mogą korzystać z kamer i/lub mikrofonów na stanowisku układania według uznania Delegata WCA, ale poniższe ograniczenia obowiązują od momentu rozpoczęcia próby do momentu zakończenia układania przez zawodnika. Kara za łamanie ograniczeń: dyskwalifikacja próby (DNF).
-        - 2i2a) Każdy monitor kamery musi być wygaszony lub poza zasięgiem wzroku zawodnika. Wyjątek: jeśli widoczny monitor zostanie wykryty, zakończone próby nie muszą być zdyskwalifikowane, jeśli zawodnik nie uzyskał przewagi z tego powodu, za uznaniem Delegata WCA (zob. [Punkt A5b](regulations:regulation:A5b)), nie mniej jednak zawodnik nie może uzyskać pozwolenia na dalsze układanie z takim monitorem.
+        - 2i2a) Każdy monitor kamery musi być wygaszony lub poza zasięgiem wzroku zawodnika. Wyjątek: jeśli widoczny monitor zostanie wykryty, zakończone próby nie muszą być zdyskwalifikowane, jeśli zawodnik nie uzyskał przewagi z tego powodu, według uznania Delegata WCA (zob. [Punkt A5b](regulations:regulation:A5b)), nie mniej jednak zawodnik nie może uzyskać pozwolenia na dalsze układanie z takim monitorem.
         - 2i2c) Zawodnik nie może klikać przycisków na urządzeniu (np. zaczynanie lub zatrzymywanie nagrywania).
     - 2i4) Zawodnik powinien wyciszyć telefon żeby uniknąć rozpraszania innych zawodników.
 - 2j) Delegat WCA może zdyskwalifikować zawodnika z określonej konkurencji.
