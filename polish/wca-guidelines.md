@@ -50,7 +50,7 @@ Wytyczne są numerowane odpowiednio do punktów regulaminu, które uzupełniają
 - 2e3+) [WYJAŚNIENIE] Zawodnik bezpaństwowy nie posiada rekordów oraz rankingów kraju, nie posiada również rekordów i rankingów kontynentu.
 - 2i+) [DODATEK] Zawodnik może podnieść stoper w celu sprawdzenia czasu jaki upłynął (gdy nie ma zasłoniętych oczu), nie może on go startować, wyłączać, wstrzymywać lub w inny sposób wchodzić w interakcję z mechanizmem mierzenia czasu. Wyjątek: Zawodnik może zatrzymać stoper po zakończeniu swojej próby, jeśli sędzia nie jest natychmiast dostępny (zob. [Punkt A6a1](regulations:regulation:A6a1)).
 - 2i++) [DODATEK] Zespół organizujący może zapewnić drugi stoper do sprawdzania czasu od rozpoczęcia próby (wystartowany jednocześnie z głównym stoperem). W tej sytuacji zawodnik nie może dotykać stopera głównego. Wyjątek: Zob. wyjątek w [Wytycznej 2i+](guidelines:guideline:2i+).
-- 2i+++) [PRZYPOMNIENIE] Kostki bluetooth są urządzeniem elektrycznym.
+- 2i+++) [PRZYPOMNIENIE] Kostki bluetooth są urządzeniem elektronicznym.
 - 2i++++) [WYJAŚNIENIE] Zawodnik uważny jest za osobę wykorzystująca urządzenie elektryczne wtedy, gdy używa go w jakimś konkretnym celu.
 - 2i+++++) [PRZYKŁAD] Przykładami nie używania urządzenia elektrycznego są: przesuwanie kamery, obracanie telefonu, noszenie smartwatcha.
 - 2i++++++) [PRZYKŁAD] Przykładami używania urządzenia elektrycznego są: naciskanie przycisku na kamerze, sprawdzanie wiadomości za pomocą telefonu lub smartwatcha.
