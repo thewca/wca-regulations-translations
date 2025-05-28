@@ -330,7 +330,7 @@ Uwaga: Ponieważ numery artykułów i regulaminów nie są zmieniane, gdy regula
     - 11e2) Jeśli zawodnikowi zostanie przyznana dodatkowa próba, powinna ona zostać wykonana zaraz po próbie, która ją spowodowała i musi zastąpić pierwotną regularnie numerowaną próbę.
     - 11e3) Jeżeli nie jest jasne czy dany incydent powinien zakończyć się dodatkowym ułożeniem, zawodnik może zostać poproszony o wykonanie prowizorycznej dodatkowej próby. Wynik ten zostanie uznany tylko w przypadku potwierdzenia, że dodatkowe ułożenie było uzasadnione.(np. po decyzji WRC).
 - 11f) Decyzja o incydencie może zostać podjęta przy pomocy nagrania, zdjęcia, lub nagrania audio, według uznania Delegata WCA.
-    - 11f1) Nagrania wideo i podobne formy zarejestrowanego materiału dowodowego powinny być analizowane w czasie rzeczywistym. Wyjątek: analiza w zwolnionym tempie lub analizie poklatkowej może być stosowana w następujących okolicznościach:
+    - 11f1) Nagrania wideo i podobne formy zarejestrowanego materiału dowodowego powinny być analizowane w czasie rzeczywistym. Wyjątek: analiza w zwolnionym tempie lub analiza poklaktowa może być stosowana w następujących okolicznościach:
         - 11f1a) Indywidualny wynik jest rekordem regionu lub osobistym rekordem w 50 najlepszych wynikach światowych rankingów.
         - 11f1b) Próba jest częścią średniej, która jest rekordem regionu lub rekordem osobistym w 50 najlepszych wynikach światowych rankingów.
         - 11f1c) Wynik jest osiągany w finałowej rundzie mistrzostw krajowych, mistrzostw kontynentalnych lub mistrzostw świata.
