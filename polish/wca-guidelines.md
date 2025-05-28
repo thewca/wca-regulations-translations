@@ -125,7 +125,7 @@ Wytyczne są numerowane odpowiednio do punktów regulaminu, które uzupełniają
 
 
 ## <article-9><events><events> Artykuł 9: Konkurencje
- 
+
 - 9b++) [DODATEK] Inne konkurencje niż wymienione w [Punktem 9b](regulations:regulation:9b) mogą być prowadzone podczas zawodów, ale będą uważane jako nieoficjalne i co za tym idzie, nie będą uwzględnione w oficjalnych wynikach z zawodów.
 - 9b3b+) [WYJAŚNIENIE] „Średnia z 3” nie wpływa na pozycję zawodnika w rankingu rundy z formatem „Najlepszy z 3”. WCA bierze pod uwagę ten wynik całkowicie poza formatem zawodów.
 - 9f1+) [PRZYKŁAD] Jeżeli wyświetlacz pokazuje czas 12.678, wpisywany czas to 12.67 (odrzucamy trzecie miejsce po przecinku). Sędzia może wpisać czas z dokładnością do tysiącznych sekundy (oraz pamiętać o dokładności w liczeniu kar), dopóki rejestrator wyników sam wyrzuci trzecią cyfrę po przecinku.
