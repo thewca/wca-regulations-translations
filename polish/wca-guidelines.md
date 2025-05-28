@@ -231,7 +231,7 @@ Wytyczne są numerowane odpowiednio do punktów regulaminu, które uzupełniają
 - B2d+) [DODATEK] Domyślnie zawodnik rozpoczyna rozwiązywanie za pierwszym razem, gdy uruchomi timer po tym, jak sędzia zasygnalizował, że jest gotowy (zob. [Punkt B2a](regulations:regulation:B2a)). Jeśli chce sprawdzić, czy timer jest sprawny, musi (poprosić i) otrzymać potwierdzenie od sędziego za każdym razem przed uruchomieniem/zresetowaniem timera w tej fazie. Kara za uruchomienie i zresetowanie timera bez potwierdzenia sędziego: dyskwalifikacja próby (DNF).
 - B2f+) [WYJAŚNIENIE] Ponieważ zawodnik rozpoczyna rozwiązywanie poprzez podniesienie pokrywki, kary za uruchomienie timera i za dotknięcie pokrywki podczas rozpoczynania próby nie mają zastosowania (zob. [Punkt B2b](regulations:regulation:B2b) i [Punkt B2c](regulations:regulation:B2c)).
 - B4c++) [DODATEK] Jeśli sędzia zapomniał umieścić bloker wzroku, a Delegat WCA nie podejrzewa, że zawodnik celowo naruszył jakiekolwiek przepisy WCA, pierwotna próba może zostać uznana.
-- B4d+) [WYJAŚNIENIE] Dla 3x3x3 Bez Patrzenia, zawodnicy mogą określić lokacje loga (zob. [Punkt 3l](regulations:regulation:3l)) za pomocą dotyku w trakcie fazy układania.
+- B4d+) [WYJAŚNIENIE] Dla 3x3x3 Bez Patrzenia, zawodnicy mogą określić lokalizację loga (zob. [Punkt 3l](regulations:regulation:3l)) za pomocą dotyku w trakcie fazy układania.
 
 
 ## <article-C><one-handed><onehandedsolving> Artykuł C: Układanie Jedną Ręką
