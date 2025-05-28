@@ -46,7 +46,7 @@ Wytyczne są numerowane odpowiednio do punktów regulaminu, które uzupełniają
 - 2d+) [DODATEK] Data urodzenia oraz informacje kontaktowe powinny być szczególnie chronione.
 - 2d++) [PRZYPOMNIENIE] Jeżeli osoba trzecia (np. dziennikarz) poprosi zespół organizacyjny o informacje kontaktowe do któregokolwiek zawodnika, zawodnik musi być najpierw poproszony o wyrażenie zgody.
 - 2e+) [WYJAŚNIENIE] Jeśli zawodnik posiada wiele obywatelstw, może wybrać region, który będzie reprezentował na swoich pierwszych zawodach.
-- 2e++) [DODATEK] Delegat WCA powinien zweryfikować nazwisko i datę urodzenia za pomocą dokumentów lub ich zdjęcia (np. paszportu) każdego nowego zawodnika na jego pierwszych zawodach.
+- 2e++) [DODATEK] Delegat WCA powinien zweryfikować imię, nazwisko i datę urodzenia za pomocą dokumentów lub ich zdjęcia (np. paszportu) każdego nowego zawodnika na jego pierwszych zawodach.
 - 2e3+) [WYJAŚNIENIE] Zawodnik bezpaństwowy nie posiada rekordów oraz rankingów kraju, nie posiada również rekordów i rankingów kontynentu.
 - 2i+) [DODATEK] Zawodnik może podnieść stoper w celu sprawdzenia czasu jaki upłynął (gdy nie ma zasłoniętych oczu), nie może on go startować, wyłączać, wstrzymywać lub w inny sposób wchodzić w interakcję z mechanizmem mierzenia czasu. Wyjątek: Zawodnik może zatrzymać stoper po zakończeniu swojej próby, jeśli sędzia nie jest natychmiast dostępny (zob. [Punkt A6a1](regulations:regulation:A6a1)).
 - 2i++) [DODATEK] Zespół organizujący może zapewnić drugi stoper do sprawdzania czasu od rozpoczęcia próby (wystartowany jednocześnie z głównym stoperem). W tej sytuacji zawodnik nie może dotykać stopera głównego. Wyjątek: Zob. wyjątek w [Wytycznej 2i+](guidelines:guideline:2i+).
