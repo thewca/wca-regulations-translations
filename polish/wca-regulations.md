@@ -41,7 +41,7 @@ Uwaga: Ponieważ numery artykułów i regulaminów nie są zmieniane, gdy regula
 
 - 1a) Zawody muszą posiadać następujące osoby funkcyjne: delegata WCA i zespół organizacyjny (z jednym bądź kilkoma członkami) wraz z sędziami, mieszaczami i osobami zapisującymi wyniki.
 - 1b) Zespół organizacyjny jest odpowiedzialny za wszelkie przygotowania przed, w trakcie i po zawodach.
-- 1c) Delegat WCA jest odpowiedzialny za zapewnienie przestrzegania regulacji WCA oraz stosownych wytycznych lub wymagań WCA. Delegat WCA może wyznaczyć innego członka zespołu organizacyjnego do pełnienia konkretnego obowiązku w jego imieniu, ale ostatecznie ponosi odpowiedzialność za sposób wykonywania tych obowiązków.
+- 1c) Delegat WCA jest odpowiedzialny za zapewnienie przestrzegania Regulaminu WCA oraz stosownych wytycznych lub wymagań WCA. Delegat WCA może wyznaczyć innego członka zespołu organizacyjnego do pełnienia konkretnego obowiązku w jego imieniu, ale ostatecznie ponosi odpowiedzialność za sposób wykonywania tych obowiązków.
 - 1e) Każda konkurencja musi posiadać co najmniej jednego sędziego.
     - 1e1) Sędzia konkurencji jest odpowiedzialny za wypełnianie procedur danej konkurencji.
         - 1e1a) Sędzia może sędziować jednocześnie kilku zawodników za zgodą delegata WCA, tak długo jak sędzia jest w stanie zagwarantować przestrzeganie regulaminu WCA przez cały czas.
