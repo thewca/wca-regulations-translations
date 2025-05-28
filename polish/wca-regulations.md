@@ -191,7 +191,7 @@ Uwaga: Ponieważ numery artykułów i regulaminów nie są zmieniane, gdy regula
 ## <article-5><puzzle-defects><puzzledefects> Artykuł 5: Uszkodzenia Kostek
 
 - 5a) Przykłady uszkodzeń kostek: element wypadł, element obrócony na swoim miejscu, oderwana śróbka/zaślepka/naklejka.
-- 5b) Jeżeli uszkodzenie kostki zdarzy się podczas ułożenia, zawodnik może naprawić uszkodzenie i kontynuować ułożenie, bądź zakończyć ułożenie. Zawodnik nie może intencjonalnie spowodować kolejnego uszkodzenia kostki, chyba, że ma na celu naprawienie poprzedniego uszkodzenia. 
+- 5b) Jeżeli uszkodzenie kostki zdarzy się podczas ułożenia, zawodnik może naprawić uszkodzenie i kontynuować ułożenie, bądź zakończyć ułożenie. Zawodnik nie może intencjonalnie spowodować kolejnego uszkodzenia kostki, chyba, że ma na celu naprawienie poprzedniego uszkodzenia.
     - 5b1) Jeżeli zawodnik wybierze naprawę uszkodzenia, musi naprawić tylko wadliwą część. Narzędzia lub/i części z innych kostek nie mogą być użyte no naprawy kostki. Kara: dyskwalifikacja ułożenia (DNF).
     - 5b2) Żadna naprawa kostki nie może dać zawodnikowi korzyści w układaniu kostki. Kara. Dyskwalifikacja ułożenia (DNF).
     - 5b3) Dozwolone naprawy:
