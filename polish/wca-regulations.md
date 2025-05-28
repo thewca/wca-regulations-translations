@@ -432,7 +432,7 @@ Uwaga: Ponieważ numery artykułów i regulaminów nie są zmieniane, gdy regula
     - A2d) Sędzia odbierający kostkę od mieszacza powinien sprawdzić poprawność wymieszania kostki. W przypadku wątpliwości zgłasza je mieszaczowi, który dokładnie sprawdza poprawność wymieszania.
         - A2d1) Mieszacz lub autoryzowany sędzia musi sprawdzić wymieszaną łamigłówkę oraz podpisać kartę z wynikami, żeby potwierdzić użycie odpowiedniej sekwencji mieszającej i sprawdził poprawność pomieszania z obrazkiem (patrz [Punkt 4g](regulations:regulation:4g)) Wyjątek: dla 6x6x6, 7x7x7, oraz Megaminx mieszacz może podpisać może podpisać kartę startową, żeby potwierdzić, że kostka jest odpowiednio pomieszana (patrz [Punkt 4g1](regulations:regulation:4g1)). Podpisy mieszacza powinny być konsekwentny i powinny jednoznacznie identyfikować danego mieszacza. 
     - A2e) Sędzia umieszcza kostkę na macie w losowej orientacji upewniając się przy tym, że kostka jest całkowicie zakryta.
-        - A2e2) Zawodnik nie może samodzielnie odsłonić pudełka na kostke. Kara: dyskwalifikacja ułożenia (DNF)
+        - A2e2) Zawodnik nie może samodzielnie odsłonić pudełka na kostkę. Kara: dyskwalifikacja ułożenia (DNF).
         - A2e1) Zawodnik nie może prosić sędziego o ustawienie określonej orientacji kostki pod przykrywką. Sędzia nie może w żaden sposób wpływać na orientacje kostki pod przykrywką.
 - A3) Preinspekcja:
     - A3a) Zawodnik może obejrzeć kostkę przed każdym ułożeniem.
