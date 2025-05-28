@@ -170,7 +170,7 @@ Wytyczne są numerowane odpowiednio do punktów regulaminu, które uzupełniają
 - 11e2++) [PRZYKŁAD] Przypuśćmy, że zawodnik ma 5 pierwotnie zaplanowanych ułożeń, a 2 próbie wystąpił incydent, za który przysługuje dodatkowe ułożenie. Zawodnik od razu wykonuje dodatkową próbę wymieniając 2 ułożenie. Jeżeli później wystąpi kolejny incydent, należy rozwiązać go w podobny sposób.
 - 11f1+) [REKOMENDACJA] Jeśli wymagana jest analiza w zwolnionym tempie lub analiza poklatkowa, należy skonsultować się z Komitetem do spraw Regulaminu WCA.
 - 11i1+) [REKOMENDACJA] Zawodnicy, po których oczekuje się spełnienia tych kryteriów, powinni mieć sprawdzone pomieszanie łamigłówki przez drugiego mieszacza (zob. [Punkt 4g+](guidelines:guideline:4g+))
-- 11i2+) [REKOMENDACJA] Jeśli delegat WCA nie jest pewien, czy nieprawidłowy scramble zapewnił znacznie mniej sprawiedliwy wynik niż oryginalny scramble, należy przyznać prowizoryczną dodatkową próbę.
+- 11i2+) [REKOMENDACJA] Jeśli Delegat WCA nie jest pewien, czy nieprawidłowy scramble zapewnił znacznie mniej sprawiedliwy wynik niż oryginalny scramble, należy przyznać prowizoryczną dodatkową próbę.
 - 11i2++) [PRZYPOMNIENIE] Chociaż indywidualne wyniki osiągnięte na nieprawidłowo wymieszanych łamigłówkach mogą zostać uznane, ale Delegat WCA musi zapewnić, że nieprawidłowe pomieszania łamigłówek nie staną się powszechne.
 - 11j3+) [PRZYPOMNIENIE] Sekwencja mieszająca użyta w dodatkowej próbie nie może pochodzić z poprzedniej grupy.
 
