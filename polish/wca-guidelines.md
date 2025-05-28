@@ -44,7 +44,7 @@ Wytyczne są numerowane odpowiednio do punktów regulaminu, które uzupełniają
 - 2c+) [DODATEK] Zawodnicy biorący udział w zawodach po raz pierwszy, rejestrując się muszą użyć swojego prawdziwego imienia lub imienia, które preferują w prawdziwym życiu. Podane nazwisko musi zgadzać się z nazwiskiem prawnym.
 - 2c2+) [WYJAŚNIENIE] Profil WCA jest zbiorem danych związanych z zawodnikiem, zawiera on dane osobowe (imię, kraj, płeć, oraz datę urodzenia) oraz wszystkie ich wyniki z oficjalnych zawodów WCA.
 - 2d+) [DODATEK] Data urodzenia oraz informacje kontaktowe powinny być szczególnie chronione.
-- 2d++) [PRZYPOMNIENIE] Jeżeli osoba trzecia (np. dziennikarz) poprosi zespół organizacyjny o informacje kontaktowe do któregokolwiek zawodnika, zawodnik najpierw musi być poproszony o wyrażenie zgody.
+- 2d++) [PRZYPOMNIENIE] Jeżeli osoba trzecia (np. dziennikarz) poprosi zespół organizacyjny o informacje kontaktowe do któregokolwiek zawodnika, zawodnik musi być najpierw poproszony o wyrażenie zgody.
 - 2e+) [WYJAŚNIENIE] Jeśli zawodnik posiada wiele obywatelstw, może wybrać region, który będzie reprezentował na swoich pierwszych zawodach.
 - 2e++) [DODATEK] Delegat WCA powinien zweryfikować nazwisko i datę urodzenia za pomocą dokumentów lub ich zdjęcia (np. paszportu) każdego nowego zawodnika na jego pierwszych zawodach.
 - 2e3+) [WYJAŚNIENIE] Zawodnik bezpaństwowy nie posiada rekordów oraz rankingów kraju, nie posiada również rekordów i rankingów kontynentu.
