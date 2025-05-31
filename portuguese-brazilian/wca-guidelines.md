@@ -86,7 +86,7 @@ Para ser mais informativa, cada Orientação é classificada com um dos seguinte
 - 3h2a+) [ADIÇÃO] Exemplos de partes transparentes que não revelam mais informações quanto ao estado do quebra-cabeça: partes internas do mecanismo do quebra-cabeça, estojos de Clock transparentes.
 - 3h4+) [ESCLARECIMENTO] No Clock, modificações visuais que melhorem a capacidade de determinar a orientação do quebra-cabeça são permitidas, pois os designs de quebra-cabeça tradicionais já fornecem essa informação.
 - 3j+) [LEMBRETE] No passado, peças gravadas ou com relevo eram permitidas. Tais peças não são mais permitidas.
-- 3j++) Existe um Guia Visual disponível para o Regulamento 3j.
+- 3j++) [EXEMPLO] Existe um Guia Visual disponível para o Regulamento 3j.
 - 3k2+) [ADIÇÃO] O Delegado da WCA não deve aplicar uma das exceções listadas caso acredite que o competidor tentou utilizar um quebra-cabeça não permitido de propósito.
 - 3k2b+) [ESCLARECIMENTO] Se um quebra-cabeça não permitido for descoberto durante uma tentativa de 3x3x3 Múltiplos Cubos Vendado, o quebra-cabeça não deve ser trocado ou removido da tentativa e deverá ser contado como não resolvido se a tentativa inteira não for desqualificada.
 - 3k2b++) [EXEMPLO] Supondo que o competidor tente 10 quebra-cabeças e consiga resolver 8. Se for descoberto que dois quebra-cabeças resolvidos e um não resolvido não se enquadrem como quebra-cabeças permitidos, o competidor tem seu resultado considerado como seis quebra-cabeças resolvidos de dez (ou seja, não um DNF) à critério do Delegado da WCA.
