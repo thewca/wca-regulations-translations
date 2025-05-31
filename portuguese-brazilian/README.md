@@ -7,21 +7,27 @@ the official [World Cube Association Competition Regulations](https://worldcubea
 
 The following people helped with the translation:
 
+* [Barbara Guerra](https://www.worldcubeassociation.org/persons/2019RIBE11) (contributed in 2025)
+* [Bruno Damacena](https://www.worldcubeassociation.org/persons/2017DAMA01) (contributed in 2025)
 * [Daniel Buck Silva](https://www.worldcubeassociation.org/persons/2012SILV10) (contributed in 2013)
-* [João Vinícius de Andrade Santos](https://www.worldcubeassociation.org/persons/2016SANT66) (contributed in 2020, 2022 and 2023)
+* [Davi Dias de Oliveira](https://www.worldcubeassociation.org/persons/2016OLIV10) (contributed in 2025)
+* [Felipe Cardim](https://www.worldcubeassociation.org/persons/2016CARD06) (contributed in 2025)
+* [Hevelyn Sato](https://www.worldcubeassociation.org/persons/2011SATO02) (contributed in 2025)
+* [João Vinícius de Andrade Santos](https://www.worldcubeassociation.org/persons/2016SANT66) (contributed in 2020, 2022. 2023, and 2025)
 * [Matheus Oliveira Silva](https://www.worldcubeassociation.org/persons/2012SILV10) (contributed in 2013 and 2014)
 * [Pedro Miranda Moreira](https://www.worldcubeassociation.org/persons/2014MORE05) (contributed in 2020, 2022 and 2023)
 * [Pedro Santos Guimarães](https://www.worldcubeassociation.org/persons/2007GUIM01) (contributed in 2013, 2014, 2016, and 2018)
+* [Samuel Baird](https://www.worldcubeassociation.org/persons/2016BAIR01) (contributed in 2025)
 
 
 ## Terminologies / Terminologias
 
 | English | Português |
 |-|-|
-|must|tem que (ou precisa)|
-|must not|não pode|
-|should|deve|
-|should not|não deve|
+|must|deve|
+|must not|não deve|
+|should|É recomendável que|
+|should not|não é recomendável que|
 |may|pode|
 |i.e.|isso é|
 |e.g.|p. ex.|
@@ -52,7 +58,7 @@ The following people helped with the translation:
 |piece|peça|
 |penalty|pena|
 |puzzle|quebra-cabeça|
-|Regulation (espific section of the Regulations)|Regra|
+|Regulation (specific section of the Regulations)|Regra|
 |Regulations (name of the document)|Regulamento|
 |round|rodada|
 |score taker|anotador de resultado|
@@ -60,7 +66,7 @@ The following people helped with the translation:
 |scramble|embaralhamento|
 |scramble sequence|sequência de embaralhamento|
 |scrambler|embaralhador|
-|see|veja|
+|see|ver|
 |solution|solução|
 |solve|resolução|
 |solved state|estado resolvido|
