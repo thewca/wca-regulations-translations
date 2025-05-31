@@ -367,11 +367,9 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
         - 11i1c) O resultado foi alcançado em uma rodada final de um Campeonato Nacional, Campeonato Continental ou Campeonato Mundial.
         - 11i1d) O resultado foi alcançado resolvendo o quebra-cabeça em menos movimentos do que os limites definidos na Regra 4b3.
         - 11i1e) Exceção: Para 5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube, Megaminx e 3x3x3 Multi-Blind, não é necessário conceder uma tentativa extra nas circunstâncias descritas acima.
-
-11i2) Para todos os outros casos, o resultado pode permanecer. Exceção: o Delegado da WCA pode conceder uma tentativa extra a critério dele se acreditar que isso proporcionará um resultado significativamente mais justo (p. ex., o embaralhamento incorreto recebido foi extremamente fácil e o competidor alcançou um novo recorde pessoal, o embaralhamento incorreto impactou o pódio de um evento, ou o quebra-cabeça foi deliberadamente embaralhado incorretamente).
-
-11i2a) Se uma tentativa extra resultar em um resultado significativamente mais justo, a tentativa original será considerada inválida (ver Regra 9l).
-11i2b) Se uma tentativa extra não puder ser concedida para um embaralhamento incorreto que resulte em um resultado significativamente injusto (por exemplo, porque o embaralhamento incorreto foi descoberto após a competição), o resultado será considerado DNS.
+    - 11i2) Para todos os outros casos, o resultado pode permanecer. Exceção: o Delegado da WCA pode conceder uma tentativa extra a critério dele se acreditar que isso proporcionará um resultado significativamente mais justo (p. ex., o embaralhamento incorreto recebido foi extremamente fácil e o competidor alcançou um novo recorde pessoal, o embaralhamento incorreto impactou o pódio de um evento, ou o quebra-cabeça foi deliberadamente embaralhado incorretamente).
+        - 11i2a) Se uma tentativa extra resultar em um resultado significativamente mais justo, a tentativa original será considerada inválida (ver Regra 9l).
+        - 11i2b) Se uma tentativa extra não puder ser concedida para um embaralhamento incorreto que resulte em um resultado significativamente injusto (por exemplo, porque o embaralhamento incorreto foi descoberto após a competição), o resultado será considerado DNS.
                           
 - 11j) Se um competidor receber incorretamente um embaralhamento que ele já recebeu (isso é, um embaralhamento repetido), as regras a seguir se aplicam:
     - 11j1) Se um competidor perceber que recebeu um embaralhamento repetido durante a inspeção, é recomendado que ele pare a tentativa e chame um Delegado da WCA sem aplicar movimentos no quebra-cabeça. Não é recomendado que um competidor seja punido por reportar incorretamente um embaralhamento repetido de forma genuína, a critério do Delegado da WCA.
