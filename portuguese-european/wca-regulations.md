@@ -1,6 +1,6 @@
-# <wca-title>Regulamento da WCA
+# Regulamento da WCA
 
-<version>Versão: 1 de janeiro de 2025
+Versão: 1 de janeiro de 2025
 
 ## Notas
 
@@ -14,7 +14,7 @@ O Regulamento da WCA contém o conjunto de regras que se aplicam a todas as comp
 O Regulamento da WCA é também complementado pelas [Orientações Adicionais](guidelines:top). O Regulamento deve ser considerado um documento completo, mas as Orientações Adicionais contêm esclarecimentos e explicações extra.
 
 ### Vocabulário
-O uso das palavras "requer", "deve", "não deve", "recomendado", "não recomendado", "pode" e "não pode" está de acordo com o [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt).
+O uso das palavras "requer", "deve", "não deve", "recomendado", "não recomendado", "pode" e "não pode" corresponde com o [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt).
 
 ### Informação na Internet
 Sítio web da World Cube Association: [www.worldcubeassociation.org](https://www.worldcubeassociation.org/)
@@ -25,20 +25,20 @@ Regulamento da WCA em [Formato PDF](link:pdf)
 O desenvolvimento do Regulamento e Orientações da WCA é público no [GitHub](https://github.com/thewca/wca-documents).
 
 ### Contacto
-Para questões e sugestões, por favor contate o [Comité Regulador da WCA (WRC)](mailto:wrc@worldcubeassociation.org).
+Para questões e sugestões, por favor contacte o [Comité Regulador da WCA (WRC)](mailto:wrc@worldcubeassociation.org).
 
-## <contents> [Conteúdo](regulations:contents)
+##  [Conteúdo](regulations:contents)
 
 Nota: Uma vez que os números dos artigos não são atualizados quando algum deles é apagado, podem existir saltos na numeração.
 
-<table-of-contents>
+
 
 
 ## <article-1><officials><officials> Artigo 1: Oficiais
 
 - 1a) Uma competição requer a presença de um Delegado da WCA e uma equipa de organização (composta por um ou mais elementos) com os seguintes oficiais: juízes, embaralhadores e registadores de resultados.
 - 1b) A equipa de organização de uma competição é responsável pela logística antes, durante e depois da competição.
-- 1c) O Delegado da WCA é responsável por assegurar que a competição vai ao encontro do Regulamento da WCA e/ou qualquer política ou requerimento da aplicável da WCA. O Delegado da WCA pode designar outros membros da Equipa de Organização para levar a cabo responsabilidades na sua vez, mas em último caso é responsável pela forma como as reponsabilidades são levadas a cabo.
+- 1c) O Delegado da WCA é responsável por assegurar que a competição vai ao encontro do Regulamento da WCA e/ou qualquer política, ou requerimento da aplicável da WCA. O Delegado da WCA pode designar outros membros da Equipa de Organização para levar a cabo responsabilidades na sua vez, mas em último caso é responsável pela forma como as reponsabilidades são levadas a cabo.
 - 1e) Cada evento deverá ter um ou mais juízes.
     - 1e1) Um juiz é responsável por executar os procedimentos do evento.
         - 1e1a) Um juiz pode ajuizar vários competidores simultaneamente segundo o critério do Delegado da WCA, desde que o juiz seja capaz de assegurar que todo o Regulamento da WCA, seja seguido em todos os momentos.
@@ -73,16 +73,16 @@ Nota: Uma vez que os números dos artigos não são atualizados quando algum del
     - 2e1) Os países elegíveis são definidos pela Lista de Países Reconhecidos pela WCA.
     - 2e2) Competidores podem alterar o seu país em qualquer ponto entre competições (ver [Regra 2c2](regulations:regulation:2c2)), desde que tenha passado, pelo menos, um ano desde a alteração anterior.
         - 2e2a) Exceção: Se um competidor perder a cidadania do país que previamente representava, ele deverá alterar o seu país antes ou depois da sua próxima competição.
-        - 2e2b) Exceção: Se o concorrente tiver adquirido uma nova cidadania dentro do ano civil, poderá alterar o seu país para a sua nova cidadania antes ou na sua próxima competição.
+        - 2e2b) Exceção: Se o concorrente tiver adquirido uma nova cidadania no ano civil, poderá alterar o seu país para a sua nova cidadania antes ou na sua próxima competição.
     - 2e3) Competidores que não possuem nenhuma cidadania podem competir como "Sem Nação".
 - 2f) Competidores devem obedecer às regras do local da competição e comportar-se de maneira apropriada.
-- 2g) Os competidores devem permanecer em silêncio quando estiverem dentro da área designada para a competição. É permitido conversar, mas deverá ser mantido num nível razoável e distante dos competidores que estiverem a competir naquele momento.
+- 2g) Os competidores devem permanecer em silêncio quando estiverem na área designada para a competição. É permitido conversar, mas deverá ser mantido num nível razoável e distante dos competidores que estiverem a competir naquele momento.
     - 2g3) Os competidores num mesmo grupo não podem comunicar entre si sobre os embaralhamentos dos puzzles do grupo em progresso. Penalidade: desqualificação do(s) competidor(es) desse evento, a critério do Delegado da WCA. Exceção: Para 3x3x3 em Menos Movimentos e 3x3x3 Vários Cubos Vendado, competidores que já tenham acabado a sua tentativa de resolução podem partilhar e discutir a(s) sequência(s) de embaralhamento com outros competidores do grupo que já tenham terminado ou desistido dessa tentativa.
         - 2g3a) Para rondas onde os resultados estejam a ser registados em direto, a equipa de organização poderá obrigar que não seja permitido aos competidores ver os resultados publicados do seu grupo até terem acabado as suas tentativas.
 - 2h) Os competidores devem estar apropriadamente vestidos no local da competição. A critério do Delegado da WCA, competidores podem ser desqualificados da competição por se vestir de maneira inadequada.
 - 2i) Enquanto estiverem a inspecionar ou competir, os competidores não podem usar equipamentos eletrónicos (Ex.: telemóveis, auscultadores, iluminação adicional) à parte do temporizador Stackmat ou do cronómetro. Penalidade: desqualificação da tentativa (DNF). Qualquer artigo que possua qualquer componente eletrónica é considerado eletrónico.
     - 2i1) Os competidores podem usar ajudas não eletrónicas que não deem uma vantagem injusta, a critério do Delegado da WCA. Isto inclui:
-        - 2i1a) Assistência/auxiliares médicos ou físicos usados pelo competidor (Ex.: óculos, talas para pulsos). Como uma exceção ao [Regra 2i](regulations:regulation:2i), ajudas médicas podem ser eletrónicas se o competidor não tiver alternativas não eletrónicas confortáveis (ex: se o competidor tiver um aparelho auditivo pessoal ou pacemaker).
+        - 2i1a) Assistência/auxiliares médicos ou físicos usados pelo competidor (Ex.: óculos, talas para pulsos). Como uma exceção ao [Regra 2i](regulations:regulation:2i), ajudas médicas podem ser eletrónicas se o competidor não tiver alternativas não eletrónicas confortáveis (Ex.: se o competidor tiver um aparelho auditivo pessoal ou pacemaker).
         - 2i1b) Tampões e protetores de ouvido (mas não auriculares de ouvido com cancelamento eletrónico de ruído).
         - 2i1c) Aquecedores de mão não eletrónicos.
         - 2i1d) Comida e bebida.
@@ -94,7 +94,7 @@ Nota: Uma vez que os números dos artigos não são atualizados quando algum del
     - 2j1) Se um competidor for desqualificado de um evento por alguma razão, este não tem direito a mais nenhuma tentativa nesse evento.
         - 2j1a) Se o competidor já começou, pelo menos, uma tentativa numa ronda antes de ser desqualificado da mesma, os resultados posteriores devem ser registados como DNF. Se o competidor ainda não começou nenhuma tentativa (não tem resultados ou só resultados como DNS), nenhum resultado é registado.
     - 2j2) Resultados de tentativas anteriores que são completados quando a desqualificação é aplicada, não podem ser desqualificados. Exceção: batota ou fraude (ver [Regra 2k2a](regulations:regulation:2k2a)).
-    - 2j3) Tentativas específicas completadas podem ser desqualificas dentro das circunstâncias descritas em [Regra 2k](regulations:regulation:2k)
+    - 2j3) Tentativas específicas completadas podem ser desqualificas nas circunstâncias descritas em [Regra 2k](regulations:regulation:2k)
 - 2k) Segundo critério do Delegado da WCA, um competidor pode ser desqualificado de algumas tentativas e/ou eventos específicos (um único evento, vários eventos, ou todos os eventos) se este:
     - 2k1) Não se apresentar ou se inscrever a tempo para a competição.
     - 2k2) For suspeito de batota ou defraudar os oficiais durante a competição.
@@ -109,7 +109,7 @@ Nota: Uma vez que os números dos artigos não são atualizados quando algum del
     - 2n1) Disputas somente são permitidas durante a competição (ver [Regra 9u](regulations:regulation:9u)), num prazo de 30 minutos após o incidente e antes do início de rondas seguintes do evento em questão.
     - 2n2) O Delegado da WCA deve resolver a disputa antes do início da próxima ronda do mesmo evento.
     - 2n3) O competidor deve aceitar as decisões finais do Delegado da WCA. Penalidade: desqualificação da competição.
-- 2s) Competidores com circunstâncias (Ex.: deficiência) que os impeçam de cumprir uma ou mais regras da WCA podem solicitar acomodações especiais ao Delegado da WCA. Esses competidores devem contatar a equipa de organização e o Delegado da WCA, no mínimo, duas semanas antes da competição.
+- 2s) Competidores com circunstâncias (Ex.: deficiência) que os impeçam de cumprir uma ou mais regras da WCA podem solicitar acomodações especiais ao Delegado da WCA. Esses competidores devem contactar a equipa de organização e o Delegado da WCA, no mínimo, duas semanas antes da competição.
     - 2s1) Competidores cujas circunstâncias resultem na impossibilidade de seguir procedimentos regulares de competição podem ter acomodações especiais. Estes casos devem ser trazidos ao Comité de Regulamentos da WCA antes de serem aplicados.
 - 2t) Cada competidor devem estar familiarizado e entender o Regulamento da WCA antes da competição.
 - 2u) Os competidores têm que estar presentes e preparados para competir quando são chamados para uma tentativa. Penalidade: desqualificação do evento.
@@ -153,7 +153,7 @@ Nota: Uma vez que os números dos artigos não são atualizados quando algum del
 - 3l) Um puzzle pode ter um ou mais logótipo numa parte colorida. Se tiver, só pode ter, no máximo, uma parte colorida com um logótipo ou vários logótipos. Exceção: Para 4x4x4 Vendado, 5x5x5 Vendado, e 3x3x3 Vários Cubos Vendado, o puzzle não pode ter nenhum logótipo.
     - 3l1) O logótipo deve estar colocado numa peça central. Exceções para puzzles que não têm peças centrais:
         - 3l1a) Para Pyraminx e 2x2x2, o logótipo pode estar em qualquer peça.
-        - 3l1b) Para Square-1, o logotipo tem que estar numa peça da camada equatorial.
+        - 3l1b) Para Square-1, o logótipo tem que estar numa peça da camada equatorial.
     - 3l2) O logótipo pode ser cunhado, gravado ou consistir num autocolante sobreposto.
 - 3m) Todas as marcas de puzzles e partes de puzzle são permitidas, desde que o puzzle esteja em conformidade com todo o Regulamento da WCA.
 
@@ -179,7 +179,7 @@ Nota: Uma vez que os números dos artigos não são atualizados quando algum del
     - 4d3) O Square-1 é embaralhado com a face mais escura na frente (dentre as 2 orientações possíveis para embaralhamento).
     - 4d4) O Clock é embaralhado começando por qualquer uma das faces com os ponteiros nas 12 horas a apontar para cima.
     - 4d5) O Skewb é embaralhado começando com a face branca (se não for possível, usa-se a face mais clara) no topo e a face verde (se não for possível, usa-se a face adjacente mais escura) na frente-esquerda.
-- 4g) Depois de embaralhar o puzzle, o embaralhador deve verificar se este foi embaralhado corretamente. Se o estado do puzzles estiver incorreto, o embaralhador deve corrigi-lo (ou seja, resolvendo o puzzles e aplicando o embaralhamento novamente).
+- 4g) Após embaralhar o puzzle, o embaralhador deve verificar se este foi embaralhado corretamente. Se o estado dos puzzles estiver incorreto, o embaralhador deve corrigi-lo (ou seja, resolvendo os puzzles e aplicando o embaralhamento novamente).
     - 4g1) As seguintes exceções aplicam-se:
         - 4g1a) Para o Cubo 6x6x6, Cubo 7x7x7 e Megaminx não é necessário corrigir o embaralhamento, a critério do Delegado da WCA.
         - 4g1b) para o Cubo 5x5x5, o embaralhador deverá corrigir o estado puzzle. Se corrigir o estado do puzzle fosse causar um severo detrimento do cronograma, então não é necessário corrigi-lo, a critério do Delegado da WCA.
