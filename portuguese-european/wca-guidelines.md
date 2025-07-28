@@ -266,6 +266,3 @@ Para ser mais informativo, algumas Regras são classificadas usando uma das segu
 - H1b1++) [ADIÇÃO] O juiz pode permitir que o competidor continue a tentativa não oficialmente, mas a tentativa deve ser interrompida e ajuizada primeiro, em total conformidade com o Regulamento da WCA.
 - H1d+) [EXEMPLO] Exemplo: Suponha que um competidor tente 10 cubos, acabe a resolução com um tempo de 59:57 e tenha duas penalidades de tempo. O resultado final é 59:57 + 2*2 = 60:01 (ver também [Regra A1a5](regulations:regulation:A1a5)).
 - H1d++) [EXEMPLO] Exemplo: Suponha que um competidor tente 10 cubos, o juiz interrompa o competidor aos 60 minutos e a tentativa tenha duas penalidades de tempo. O resultado final é 60:00 + 2*2 = 60:04.
-- H1d+) [EXEMPLO] Exemplo: Suponha-se que um competidor tenta 10 cubos e pára o cronómetro com um tempo de 59:57 e tem duas penalidades de tempo. O resultado final será 59:57 + 2*2 = 60:01 (ver também a [Regra A1a5](regulations:regulation:A1a5)).
-- H1d++) [EXEMPLO] Exemplo: Suponha-se que um competidor tenta 10 cubos e o juiz o interrompe aos 60 minutos e existem duas penalidades de tempo. O resultado final será 60:00 + 2*2 = 60:04.
-
