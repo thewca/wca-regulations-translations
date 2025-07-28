@@ -45,7 +45,7 @@ Para ser mais informativo, algumas Regras são classificadas usando uma das segu
 
 
 - 2c+) [ADIÇÃO] Competidores principiantes devem registar o seu nome legal ou o nome pelo qual preferem ser chamados. Apelidos devem ser apelidos legais.
-- 2c2+) [ESCLARECIMENTO] Um perfil da WCA é a coleção de dados relativos a um competidor, e inclui informação pessoal (nome, país, género e data de nascimento) como também todos os seus resultados em competições oficiais da WCA).
+- 2c2+) [ESCLARECIMENTO] Um perfil da WCA é a coleção de dados relativos a um competidor, e inclui informação pessoal (nome, país, género e data de nascimento) como também todos os seus resultados em competições oficiais da WCA.
 - 2d+) [ADIÇÃO] Data de nascimento e informações para contacto devem estar especialmente seguras.
 - 2d++) [LEMBRETE] Se um terceiro (Ex.: jornalista) perguntar à equipa de organização para entrar em contacto com qualquer(isquer) competidor(es), o(s) competidor(es) devem ser primeiro contactados para consentimento.
 - 2e+) [ESCLARECIMENTO] Se um competidor tiver várias cidadanias, o mesmo pode escolher que região pretende representar na sua primeira competição.
