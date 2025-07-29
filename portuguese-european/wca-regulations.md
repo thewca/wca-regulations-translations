@@ -243,7 +243,7 @@ Nota: Uma vez que os números dos artigos não são atualizados quando algum del
         - 9b4b) O formato de tempo de corte para este evento: "Melhor de 1" fase de tempo de corte para "Melhor de 2" ou "Melhor de X" (onde X é 1 ou 2) fase de tempo de corte para "Média de 3".
     - 9b5) 3x3x3 Vários Cubos Vendado
         - 9b5a) O formato de rondas completas para este evento: "Melhor de X" (onde X é 1, 2 ou 3).
-        - 9b5b) O formato de tempo de corte para este evento: "Melhor de X" (onde X é 1 ou 2) fase de tempo de corte para "Melhor de Y" (onde Y é 2 ou 3, e Y  X).
+        - 9b5b) O formato de tempo de corte para este evento: "Melhor de X" (onde X é 1 ou 2) fase de tempo de corte para "Melhor de Y" (onde Y é 2 ou 3, e Y > X).
 - 9f) Os resultados de uma ronda são medidos da seguinte forma:
     - 9f1) Todos os resultados cronometrados abaixo de 10 minutos são arredondados por defeito ao centésimo de segundo. Todas as médias calculadas abaixo de 10 minutos são arredondas ao centésimo de segundo mais próximo.
     - 9f2) Todos os resultados cronometrados e médias calculadas acima de 10 minutos são arredondados para o segundo mais próximo (Ex.: X.49 torna-se X, X.50 se torna X+1).
@@ -579,7 +579,7 @@ Nota: Uma vez que os números dos artigos não são atualizados quando algum del
 
 - H1) É seguido o procedimento comum da Resolução Vendada, como descrito no [Artigo B](regulations:article:B) (Resolução Vendada). Regras adicionais que se sobrepões aos procedimentos correspondentes do [Artigo B](regulations:article:B) são descritas em seguida.
     - H1a) Antes da resolução, o competidor deve comunicar à equipa de organização o número de puzzles (pelo menos 2) que quer tentar resolver vendado.
-        - H1a1) O competidor não pode mudar o número de após ter submetido o número à equipa de organização.
+        - H1a1) O competidor não pode mudar o número de puzzles após ter submetido o número à equipa de organização.
         - H1a2) Um competidor pode pedir para manter o número de puzzles privado até que todos os competidores tenham submetido os seus números. Assim que todos tenham dado o número de puzzles a resolver, essa informação passa a ser pública (Ex.: um competidor pode perguntar qual o número de puzzles que outro competidor pretende resolver antes de iniciar a sua tentativa).
         - H1a3) Antes da tentativa, os puzzles embaralhados têm de ser colocados numa orientação aleatória enquanto se assegura que permanecem completamente tapados. Os puzzles devem estar arranjados numa forma o mais quadrada possível e não devem estar empilhados (Ex.: 8 puzzles devem estar arranjados em 2 linhas com 3 puzzles e 1 linha com 2 puzzles e numa só camada).
     - H1b) Se um competidor estiver a tentar resolver menos de 6 puzzles, é-lhe atribuído um limite de tempo de 10 minutos, multiplicado pelo número de puzzles na tentativa, caso contrário, o tempo limite é de 60 minutos.
