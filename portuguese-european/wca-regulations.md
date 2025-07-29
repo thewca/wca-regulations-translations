@@ -243,7 +243,7 @@ Nota: Uma vez que os números dos artigos não são atualizados quando algum del
         - 9b4b) O formato de tempo de corte para este evento: "Melhor de 1" fase de tempo de corte para "Melhor de 2" ou "Melhor de X" (onde X é 1 ou 2) fase de tempo de corte para "Média de 3".
     - 9b5) 3x3x3 Vários Cubos Vendado
         - 9b5a) O formato de rondas completas para este evento: "Melhor de X" (onde X é 1, 2 ou 3).
-        - 9b5b) O formato de tempo de corte para este evento: "Melhor de X" (onde X é 1 ou 2) fase de tempo de corte para "Melhor de Y" (onde Y é 2 ou 3, e Y > X).
+        - 9b5b) O formato de tempo de corte para este evento: "Melhor de X" (onde X é 1 ou 2) fase de tempo de corte para "Melhor de Y" (onde Y é 2 ou 3, e Y  X).
 - 9f) Os resultados de uma ronda são medidos da seguinte forma:
     - 9f1) Todos os resultados cronometrados abaixo de 10 minutos são arredondados por defeito ao centésimo de segundo. Todas as médias calculadas abaixo de 10 minutos são arredondas ao centésimo de segundo mais próximo.
     - 9f2) Todos os resultados cronometrados e médias calculadas acima de 10 minutos são arredondados para o segundo mais próximo (Ex.: X.49 torna-se X, X.50 se torna X+1).
@@ -254,7 +254,7 @@ Nota: Uma vez que os números dos artigos não são atualizados quando algum del
     - 9f7) Nas rondas "Melhor de X", um DNF ou DNS é o pior resultado possível.
     - 9f8) Nas rondas "Média de 5", os competidores têm direito a 5 tentativas. Dessas 5, a melhor e a pior são removidas, e a média aritmética das 3 resoluções restantes conta para a posição do competidor na ronda.
     - 9f9) Nas rondas "Média de 5", um DNF ou DNS é permitido como o pior resultado do competidor na ronda. Se um competidor tem mais de um DNF e/ou DNS na ronda, a sua média nessa ronda será DNF.
-    - 9f10) Nas rondas "Média de 3", os competidores têm direito a 3 tentativas. A média aritmética das 3 conta para a posição do competidor na ronda.
+    - 9f10) Nas rondas "Média de 3", os competidores têm direito a 3 tentativas. A média aritmética das 3 resoluções conta para a posição do competidor na ronda.
     - 9f11) Nas rondas "Média de 3", se um competidor tiver um resultado DNF ou DNS, a sua média nessa ronda será DNF.
     - 9f12) Nas rondas "Melhor de X", a ordem dos resultados é definida pelo melhor resultado por competidor. Os seguintes critérios são usados para comparar resultados:
         - 9f12a) Para resultados cronometrados, "melhor" é definido como o menor tempo.
@@ -301,7 +301,7 @@ Nota: Uma vez que os números dos artigos não são atualizados quando algum del
 - 10b) Só o estado do puzzle em repouso, após o cronómetro ter sido parado, é que é considerado.
 - 10c) O puzzle pode estar em qualquer orientação no final da resolução.
 - 10d) Todas as partes do puzzle devem estar totalmente fixas a este, na posição devida. Exceção: ver [Regra 5b5](regulations:regulation:5b5).
-- 10e) Um puzzle está resolvido quando todas as partes coloridas forem reconstruídas e todas as partes estão alinhadas, dentro dos limites especificados abaixo:
+- 10e) Um puzzle está resolvido quando todas as partes coloridas forem reconstruídas e todas as partes estão alinhadas, nos limites especificados abaixo:
     - 10e1) Para cada duas partes adjacentes (por exemplo, duas camadas paralelas, adjacentes de um cubo) do puzzle que estejam desalinhadas além do limite descrito na [Regra 10f](regulations:regulation:10f), o puzzle é considerado que precisa de um movimento adicional para ser resolvido (ver "Medida de Giro do Bloco Exterior" no [Artigo 12](regulations:article:12)).
     - 10e2) Se nenhum movimento adicional é necessário para levar o puzzle ao seu estado resolvido, ele é considerado resolvido sem qualquer penalidade.
     - 10e3) Se um movimento for necessário, o puzzle é considerado resolvido, com uma penalidade de tempo (+2 segundos).
@@ -352,7 +352,7 @@ Nota: Uma vez que os números dos artigos não são atualizados quando algum del
         - 11i2b) Se uma tentativa extra para um embaralhamento incorreto não consegue ser atribuída devido a causar um resultado significativamente injusto (Ex.: porque o embaralhamento incorreto foi encontrado após a competição) o resultado será considerado com DNS.
 - 11j) Se um competidor recebe incorretamente um embaralhamento que já recebeu previamente, as seguintes regras aplicam-se:
     - 11j1) Se o competidor acredita que recebeu um embaralhamento duplicado na inspeção, o mesmo deverá parar a sua tentativa e chamar um Delegado de WCA sem aplicar nenhum movimento ao puzzle. Um competidor não deve ser penalizado por receber um embaralhamento incorretamente, a critério do Delegado da WCA.
-    - 11j2) Se erro for descoberto durante o grupo, o Delegado da WCA deverá fazer um esforço para atribuir aos competidor o embaralhamento correto. Uma tentativa extra pode ser atribuída se o Delegado da WCA não tem a certeza de qual seria o embaralhamento correto a atribuir.
+    - 11j2) Se erro for descoberto durante o grupo, o Delegado da WCA deverá fazer um esforço para atribuir aos competidores o embaralhamento correto. Uma tentativa extra pode ser atribuída se o Delegado da WCA não tem a certeza de qual seria o embaralhamento correto a atribuir.
     - 11j3) Se o erro for descoberto durante a competição, mas depois do grupo, a tentativa em falta deve ser reposta por uma tentativa extra.
     -  11j4) Se o erro for descoberto apenas após o fim da competição, o resultado será considerado com DNS.
 
@@ -364,7 +364,7 @@ Nota: Uma vez que os números dos artigos não são atualizados quando algum del
         - 12a1a) Sentido horário, 90 graus: F (face da frente), B (face de trás), R (face da direita), L (face da esquerda), U (face de cima), D (face de baixo).
         - 12a1b) Sentido anti-horário, 90 graus: F', B', R', L', U', D'.
         - 12a1c) 180 graus: F2, B2, R2, L2, U2, D2.
-    - 12a2) Movimentos de Camadas Múltiplas Externas (camada externa mais as camadas internas adjacentes; n é definido como o número total de camadas a mover, que deve estar no intervalo 1 < n < N (onde N é o número de camadas do puzzle). n pode ser omitido, para um valor implícito de n = 2 camadas. Movimentos de Camadas Múltiplas Externa são:
+    - 12a2) Movimentos de Camadas Múltiplas Externas (camada externa mais as camadas internas adjacentes; n é definido como o número total de camadas a mover, que deve estar no intervalo 1 < n < N (onde N é o número de camadas do puzzle). n pode ser omisso, para um valor implícito de n = 2 camadas. Movimentos de Camadas Múltiplas Externa são:
         - 12a2a) Sentido horário, 90 graus: nFW, nBw, nRw, nLw, nUw, nDw.
         - 12a2b) Sentido anti-horário, 90 graus: nFw', nBw', nRw', nLw', nUw', nDw'.
         - 12a2c) 180 graus: nFw2, nBw2, nRw2, nLw2, nUw2, nDw2.
@@ -378,7 +378,7 @@ Nota: Uma vez que os números dos artigos não são atualizados quando algum del
     - 12a6) Medida de Movimentos de Execução (ETM) é definido como: Cada movimento das categorias Movimentos de Face, Movimentos de Blocos Externos, e Rotações são contados como 1 movimento.
 - 12c) Notação para o Square-1:
     - 12c1) Os movimentos são aplicados com uma das duas parte menores da camada equatorial do lado esquerdo da face da frente.
-    - 12c2) (X,Y) significa: girar a camada superior X vezes 30 graus no sentido horário, girar a camada inferior Y vezes 30 graus no sentido horário. X e Y têm de ser números inteiros entre -5 e 6 e não podem ser ambos igual a 0.
+    - 12c2) (X,Y) significa: girar a camada superior X vezes 30 graus no sentido horário, girar a camada inferior Y vezes 30 graus no sentido horário. X e Y têm de ser números inteiros entre -5 e 6 e não podem ser ambos iguais a 0.
     - 12c3) "/" significa: girar a metade da direita do puzzle 180 graus.
     - 12c4) Métrica para o Square-1: (X, Y) conta como um movimento, “/” conta como um movimento.
 - 12d) Notação para o Megaminx (notação somente para embaralhamento):
@@ -402,18 +402,18 @@ Nota: Uma vez que os números dos artigos não são atualizados quando algum del
     - 12h2) No sentido horário, 120 graus: R (a camada em redor do vértice visível mais afastado à direta-baixo), U (a camada em redor do vértice mais afastado na face superior), L (a camada em redor do vértice visível mais afastado à esquerda-baixo), B (a camada em redor do vértice não visível mais afastado em baixo).
     - 12h3) No sentido anti-horário, 120 graus: R' (a camada em redor do vértice visível mais afastado à direta-baixo), U' (a camada em redor do vértice mais afastado na face superior), L' (a camada em redor do vértice visível mais afastado à esquerda-baixo), B' (a camada em redor do vértice não visível mais afastado em baixo).
 - 12i) Definição: Um movimento é considerado qualquer alteração ao estado do puzzle em termos da notação definida em cima, incluindo desalinhamentos para lá dos limites descritos em [Regra 10f](regulations:regulation:10f).
-    - 12i1) Exceção: Para Clock, apenas alterações na posição dos relógios interiores são considerados movimentos. Alterações ao estados dos pinos não são consideradas movimentos.
+    - 12i1) Exceção: Para Clock, apenas alterações na posição dos relógios interiores são considerados movimentos. Alterações ao estado dos pinos não são consideradas movimentos.
 
 
 ## <article-A><speedsolving><speedsolving> Artigo A: Resolução em Velocidade ("Speed Solving")
 
 - A1) Resoluções em velocidade devem seguir o procedimento seguinte.
-    - A1a) A equipa de organização tem que estabelecer pelo menos um limites de tempo (tempo limite por tentativa e/ou tempo limite cumulativo) para cada ronda.
+    - A1a) A equipa de organização tem que estabelecer pelo menos um limite de tempo (tempo limite por tentativa e/ou tempo limite cumulativo) para cada ronda.
         - A1a1) O tempo limite padrão por resolução numa ronda é de 10 minutos, mas a equipa de organização pode anunciar um limite maior ou menor por tentativa. Neste caso, o limite deve ser o mesmo para todas as tentativas numa ronda.
         - A1a2) Para eventos para além de 3x3x3 em Menos Movimentos e 3x3x3 Vários Cubos Vendado, a equipa de organização pode definir um limite de tempo cumulativo. O limite de tempo cumulativo deve aplicar-se a todas as tentativas numa ronda (Ex.: 3 tentativas com um tempo limite cumulativo de 20 minutos), ou para todas as tentativas numa combinação de rondas para eventos diferentes. Neste caso, o tempo limite para uma tentativa em particular é o tempo limite ou o tempo limite cumulativo menos o tempo total noutras tentativas que contam para o tempo limite até ao momento (ver [Regra A1a5](regulations:regulation:A1a5)), o menor dos dois. Se uma ronda tem um tempo limite cumulativo aplicado, a mesma deve ter no máximo um.
         - A1a3) Os tempos limites para todas as rondas devem ser anunciados antes da competição, e não devem ser alterados após uma ronda afetada já ter começado. Alterações devem ser feitas a critério do Delegado da WCA, que deve considerar cuidadosamente a justiça da alteração.
         - A1a4) O competidor deve terminar cada resolução dentro antes que o tempo limite para uma tentativa acabe. Se o temporizador de um competidor atingir o tempo limite numa tentativa, o juiz para a resolução imediatamente e regista o resultado como DNF. Exceção: 3x3x3 Vários Cubos Vendado (ver [Regra H1b1](regulations:regulation:H1b1)).
-        - A1a5) Uma resolução é considerada como tendo atendido ao tempo limite se e somente se o resultado final, depois da aplicação de quaisquer punições, for menor do que o tempo limite. Exceção: Vários Cubos Vendado (ver [Regra H1b1](regulations:regulation:H1b1)).
+        - A1a5) Uma resolução é considerada como tendo atendido ao tempo limite se e somente se o resultado final, depois da aplicação de quaisquer punições, for menor que o tempo limite. Exceção: Vários Cubos Vendado (ver [Regra H1b1](regulations:regulation:H1b1)).
     - A1b) Se o tempo limite para uma resolução for maior que 10 minutos, um cronómetro manual é usado para medir o tempo.
         - A1b1) Um temporizador Stackmat deve ser usado em complemento com um cronómetro. Para eventos sem inspeção, onde o competidor é esperado que exceda 10 minutos, o uso de um temporizador Stackmat é opcional.
         - A1b2) Se um tempo medido pelo temporizador Stackmat estiver disponível, esse é o tempo original registado. Caso contrário (Ex.: o temporizador Stackmat não funcionou corretamente, ultrapassou os 10 minutos ou não foi sequer utilizado), o tempo do cronómetro é o tempo original registado.
@@ -426,7 +426,7 @@ Nota: Uma vez que os números dos artigos não são atualizados quando algum del
     - A2b) Um embaralhador embaralha o puzzle conforme as regras do [Artigo 4](regulations:article:4).
         - A2b1) Para Square-1, a organização pode colocar um objeto fino no puzzle para prevenir movimentos acidentais de serem aplicados antes do início da tentativa. Se esses objetos forem usados, tem que ser anunciado pela equipa de organização antes do início da ronda.
     - A2c) Após o embaralhador começar a embaralhar o puzzle, o competidor não pode ver o puzzle até que se inicie a fase de inspeção.
-        - A2c1) O embaralhador coloca uma cobertura sobre o puzzle embaralhado, de forma a que seja impossível a qualquer competidor ou espetador ver qualquer parte do puzzles. A cobertura deve permanecer sobre o puzzles até ao início da tentativa.
+        - A2c1) O embaralhador coloca uma cobertura sobre o puzzle embaralhado, de forma a que seja impossível a qualquer competidor ou espetador ver qualquer parte dos puzzles. A cobertura deve permanecer sobre o puzzle até ao início da tentativa.
         - A2c2) Enquanto estiver a competir, o competidor não deve estar ativamente a tentar a olhar para outro competidor a completar uma tentativa oficial. Se um competidor vir outro competidor resolver um embaralhamento que o mesmo ainda não recebeu, a tentativa correspondente é registada como DNF.
     - A2d) Ao receber um puzzle do embaralhador, o juiz deve inspecioná-lo rapidamente para assegurar que foi embaralhado. Em caso de dúvida, o juiz contacta o embaralhador, que faz uma verificação detalhada.
         - A2d1) O embaralhador ou juiz autorizado deve verificar o puzzle embaralhado, e assinar a folha de registo para confirmar que aplicou a corretamente numerada sequência de embaralhamento e verificar que está igual à imagem (ver [Regra 4g](regulations:regulation:4g)). Exceção: para o Cubo 6x6x6, o Cubo 7x7x7, e o Megaminx o embaralhador pode assinar para confirmar que o puzzle está suficientemente embaralhado (ver [Regra 4g1](regulations:regulation:4g1)). Assinaturas de embaralhadores devem ser consistentes no decorrer da competição e devem identificar o embaralhador.
@@ -444,13 +444,13 @@ Nota: Uma vez que os números dos artigos não são atualizados quando algum del
         - A3b5) O juiz para o tempo de inspeção, a partir do momento em que o competidor levanta as mãos do temporizador (ver [Regra A4d](regulations:regulation:A4d))
     - A3c) O competidor pode pegar no puzzle durante a inspeção.
         - A3c1) O competidor não pode aplicar movimentos ou alterações intencionais no alinhamento durante a inspeção. Penalidade: desqualificação da resolução (DNF). Exceção: ver [Regra A3c2](regulations:regulation:A3c2) e [Regra A3c5](regulations:regulation:A3c5).
-        - A3c2) Se as peças do puzzle não estiverem totalmente alinhadas, o competidor pode alinhar as faces, assegurando que os desalinhamentos estejam dentro dos limites da [Regra 10f](regulations:regulation:10f)
+        - A3c2) Se as peças do puzzle não estiverem totalmente alinhadas, o competidor pode alinhar as faces, assegurando que os desalinhamentos estejam nos limites da [Regra 10f](regulations:regulation:10f)
         - A3c3) O competidor pode colocar resetar o temporizador antes de começar a resolução.
         - A3c4) Para Square-1, se estiver definida a utilização de um objeto fino pela equipa de organização (ver [Regra A2b1](regulations:regulation:A2b1)), o competidor tem de remover esse objeto do puzzle durante a inspeção.
         - A3c5) Para Square-1, o competidor não deve ser penalizado por nenhum movimento acidental realizado entre os limites da [Regra 10f](regulations:regulation:10f).
     - A3d) No final da inspeção, o competidor coloca o puzzle sobre o tapete, em qualquer orientação. O puzzle deve estar totalmente sobre o tapete e não pode estar em parte ou totalmente apoiado no temporizador Stackmat. Penalidade: penalidade de tempo (+2 segundos).
 - A4) Ao início da resolução:
-    - A4b) O competidor usa os dedos para tocar na superfície elevada de sensores do temporizador Stackmat. As palmas do competidor dem estar voltadas para baixo do lado do cronómetro mais próximo ao competidor. Penalidade: penalidade de tempo (+2 segundos).
+    - A4b) O competidor usa os dedos para tocar na superfície elevada de sensores do temporizador Stackmat. As palmas do competidor devem estar voltadas para baixo do lado do cronómetro mais próximo ao competidor. Penalidade: penalidade de tempo (+2 segundos).
         - A4b1) O competidor não pode ter contacto físico com o puzzle entre o período de inspeção e o início da resolução. Penalidade: de tempo (+2 segundos).
     - A4d) O competidor inicia a resolução certificando-se de que a luz do temporizador Stackmat está verde e, então, retirando as suas mãos do temporizador Stackmat (iniciando-o desta forma).
         - A4d1) O competidor deve iniciar a resolução dentro de 15 segundos após o início da inspeção. Penalidade: penalidade de tempo (+2 segundos).
@@ -472,12 +472,12 @@ Nota: Uma vez que os números dos artigos não são atualizados quando algum del
     - A6e) O competidor não pode tocar, realizar um movimento, ou fazer uma alteração no alinhamento do, puzzle até que o juiz o tenha inspecionado.
         - A6e1) Penalidade para aplicar um movimento após parar o temporizador: desqualificação da resolução (DNF).
         - A6e2) Penalidade para tocar no puzzle após para o temporizador sem aplicar nenhum movimento: penalidade de tempo (+2 segundos). Exceção: se imediatamente após parar o temporizador, o competidor levemente toca no puzzle sem afetar o seu estado, a penalidade de tempo pode ser ignorada, a critério do juiz.
-    - A6f) O competidor não pode resetar o temporizador Stackmat até que o juiz e o competidor tenham ambos assinado a folha de resultados. Penalidade: desqualificação da resolução (DNF), a critério do juiz. Exceção: ver [Regra A7c5](regulations:regulation:A7c5).
-        - A6f1) Se o competidor resetar o temporizador antes que o resultado tenha sida totalmente registado, o juiz não pode registar o resultado por memório ou por provas de vídeo e fotográficas, e tem de desqualificar a tentativa em vez de escrever (DNF).
-    - A6g) O juiz determina se o puzzle está resolvido. Se o puzzle estiver desalinhado, este não deve ser tocado antes do juiz ter determinado o seu estado final.
+    - A6f) O competidor não pode reiniciar o temporizador Stackmat até que o juiz e o competidor tenham ambos assinado a folha de resultados. Penalidade: desqualificação da resolução (DNF), a critério do juiz. Exceção: ver [Regra A7c5](regulations:regulation:A7c5).
+        - A6f1) Se o competidor reiniciar o temporizador antes que o resultado tenha sida totalmente registado, o juiz não pode registar o resultado por memório ou por provas de vídeo e fotográficas, e tem de desqualificar a tentativa em vez de escrever (DNF).
+    - A6g) O juiz determina se o puzzle está resolvido. Se o puzzle estiver desalinhado, este não deve ser tocado antes de o juiz ter determinado o seu estado final.
     - A6h) Em caso de disputa, nenhum movimento ou alinhamento pode ser aplicado ao puzzle até que a disputa seja resolvida.
     - A6i) Penalidades de tempo referentes à conclusão da resolução são cumulativas.
-- A7) Registro de resultados:
+- A7) Registo de resultados:
     - A7a) O juiz comunica ao competidor o resultado.
         - A7a1) O juiz indica que o puzzle está resolvido, ou se uma penalidade vai ser aplicada.
     - A7b) O juiz anota o resultado na folha de resultados e assina a seguir ao resultado para confirmar que o resultado está correto, completo, corretamente formatado, e claramente legível. Assinaturas de juízes devem ser consistentes durante a competição e devem identificar o juiz.
@@ -501,7 +501,7 @@ Nota: Uma vez que os números dos artigos não são atualizados quando algum del
     - B1a) Não há período de inspeção (a resolução começa ao mesmo tempo que a tentativa).
     - B1b) O competidor fornece a sua própria venda.
 - B2) Início da resolução:
-    - B2a) O juiz reseta o(s) cronómetro(s) como na [Regra A3b1](regulations:regulation:A3b1) e indica que está pronto para o competidor começar a tentativa (Ex.: coloca a capa do puzzle em frente do competidor, dizendo "PRONTO", dar um sinal de "fixe" com polegar para cima). O competidor deve estar pronto a começar a tentativa num minuto, caso contrário este desiste da tentativa (DNS), a critério do juiz.
+    - B2a) O juiz reinicia o(s) cronómetro(s) como na [Regra A3b1](regulations:regulation:A3b1) e indica que está pronto para o competidor começar a tentativa (Ex.: coloca a capa do puzzle em frente do competidor, dizendo "PRONTO", dar um sinal de "fixe" com polegar para cima). O competidor deve estar pronto a começar a tentativa num minuto, caso contrário este desiste da tentativa (DNS), a critério do juiz.
     - B2b) Se um temporizador Stackmat estiver em uso, o competidor usa os seus dedos para tocar nas superfícies do sensor elevado do temporizador. As palmas do competidor devem voltadas para baixo do lado do cronómetro mais próximo para o competidor. Penalidade: penalidade de tempo (+2 segundos).
     - B2c) Se um temporizador Stackmat estiver em uso, o competidor não pode ter contacto físico com o puzzle entre o período de inspeção e o início da resolução. Penalidade: de tempo (+2 segundos).
     - B2d) Se um temporizador Stackmat estiver em uso, o competidor deve manter as suas mãos no temporizador até ver uma luz verde no temporizador. O temporizador começa quando remover a(s) mão(s) do temporizador. O competidor começa a tentativa e a resolução a partir do momento em que o temporizador começa a contar o tempo.
@@ -520,7 +520,7 @@ Nota: Uma vez que os números dos artigos não são atualizados quando algum del
     - B4c) Mal o competidor aplique o primeiro movimento ao puzzle, o juiz deve assegurar-se de que há um bloqueador de visão (Ex.: uma folha de papel ou cartão) entre o puzzle e o rosto do competidor.
         - B4c1) Em todos os casos, o competidor deve usar a venda de forma a que a sua visão do puzzle ainda estaria claramente bloqueada se o objeto opaco não estivesse no caminho.
         - B4c2) Um bloqueador de visão deve estar posicionado de forma que a visão do competidor sobre o puzzle estaria claramente bloqueada, se o mesmo não estivesse a usar uma venda.
-        - B4c3) Se o juiz e o competidor combinarem anteriormente, ou se for pedido pela equipa de organização, um objeto apropriado (Ex.: uma estante de partitura, a superfície da mesa) pode ser usado como bloqueador de visão. O competidor deve faxer uma tentativa razoável de colocar o bloqueador de visão ele mesmo. Penalidade: desqualificação da tentativa (DNF). Se o bloqueador de visão não estiver posicionado de maneira que a visão do competidor estaria totalmente bloqueada se o mesmo não estivesse a usar uma venda, um bloqueador de visão extra deve ser colocado pelo juiz.
+        - B4c3) Se o juiz e o competidor combinarem anteriormente, ou se for pedido pela equipa de organização, um objeto apropriado (Ex.: uma estante de partitura, a superfície da mesa) pode ser usado como bloqueador de visão. O competidor deve fazer uma tentativa razoável de colocar o bloqueador de visão ele mesmo. Penalidade: desqualificação da tentativa (DNF). Se o bloqueador de visão não estiver posicionado de maneira que a visão do competidor estaria totalmente bloqueada se o mesmo não estivesse a usar uma venda, um bloqueador de visão extra deve ser colocado pelo juiz.
     - B4d) O competidor não pode olhar para o puzzle em nenhum momento durante a fase vendada. Penalidade: desqualificação da tentativa (DNF).
 - B5) Terminar a resolução:
     - B5a) Quando estiver em uso o temporizador Stackmat, o competidor finaliza a resolução largando o puzzle e depois parando o cronómetro.
@@ -579,10 +579,10 @@ Nota: Uma vez que os números dos artigos não são atualizados quando algum del
 
 - H1) É seguido o procedimento comum da Resolução Vendada, como descrito no [Artigo B](regulations:article:B) (Resolução Vendada). Regras adicionais que se sobrepões aos procedimentos correspondentes do [Artigo B](regulations:article:B) são descritas em seguida.
     - H1a) Antes da resolução, o competidor deve comunicar à equipa de organização o número de puzzles (pelo menos 2) que quer tentar resolver vendado.
-        - H1a1) O competidor não pode mudar o número de após após ter submetido o número à equipa de organização.
+        - H1a1) O competidor não pode mudar o número de após ter submetido o número à equipa de organização.
         - H1a2) Um competidor pode pedir para manter o número de puzzles privado até que todos os competidores tenham submetido os seus números. Assim que todos tenham dado o número de puzzles a resolver, essa informação passa a ser pública (Ex.: um competidor pode perguntar qual o número de puzzles que outro competidor pretende resolver antes de iniciar a sua tentativa).
         - H1a3) Antes da tentativa, os puzzles embaralhados têm de ser colocados numa orientação aleatória enquanto se assegura que permanecem completamente tapados. Os puzzles devem estar arranjados numa forma o mais quadrada possível e não devem estar empilhados (Ex.: 8 puzzles devem estar arranjados em 2 linhas com 3 puzzles e 1 linha com 2 puzzles e numa só camada).
-    - H1b) Se um competidor estiver a tentar resolver menos de 6 puzzles, é-lhe atribuído um limite de tempo de 10 minutos multiplicado pelo número de puzzles na tentativa, caso contrário, o tempo limite é de 60 minutos.
+    - H1b) Se um competidor estiver a tentar resolver menos de 6 puzzles, é-lhe atribuído um limite de tempo de 10 minutos, multiplicado pelo número de puzzles na tentativa, caso contrário, o tempo limite é de 60 minutos.
       - H1b1) O competidor pode sinalizar o fim da resolução a qualquer momento. Se e quando o limite de tempo for atingido, o juiz interrompe a tentativa e a tentativa é então registada; o tempo limite para a tentativa conta como o tempo original registado.
     - H1d) As penalidades de tempo para os puzzles da tentativa são cumulativas.
     - H1e) O competidor não deve aplicar nenhum movimento a um ou mais puzzles durante a fase de memorização. Penalidade: desqualificação da tentativa (DNF). Exceção: esses puzzles individuais podem ser considerados não resolvidos no final da tentativa, em vez de desqualificar toda a tentativa, a critério do Delegado da WCA.
