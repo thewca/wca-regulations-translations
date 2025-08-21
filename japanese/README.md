@@ -3,6 +3,8 @@
 This directory contains the Japanese version of
 the official [World Cube Association Competition Regulations](https://worldcubeassociation.org/regulations/) repository.
 
+At this time, no further updates of the Japanese version are requested. For more information, please contact the [Regional Delegate for Japan](https://www.worldcubeassociation.org/delegates#asia-east-southeast).
+
 ## Credits
 
 The following people helped with the translation or by giving valuable feedback:
