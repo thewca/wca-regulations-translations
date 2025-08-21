@@ -9,6 +9,7 @@
 
 If you'd like to (re)-translate the Regulations, please use the following process:
 
+- Contact your local WCA Delegates to communicate that you would like to translate the Regulations. They may already have a process in place they will involve you in, or may have other considerations that you need to be aware of before working on a translation.
 - Download the [source of the current official Regulations](https://github.com/thewca/wca-regulations/archive/official.zip).
     - When you do this, please also visit [the GitHub page](https://github.com/thewca/wca-regulations) and record the current "latest commit" value so we can tell which version you translated.
     - If you're updating an existing translation, you can instead download the current translations [here](https://github.com/thewca/wca-regulations-translations/archive/master.zip/).
