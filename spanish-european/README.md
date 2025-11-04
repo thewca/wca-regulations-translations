@@ -9,7 +9,7 @@ Credits
 The following people helped with the translation:
 * [Koen Van Poucke](https://www.worldcubeassociation.org/persons/2024POUC01)
 * [Rubén López de Juan](https://www.worldcubeassociation.org/persons/2016LOPE37)
-* []()
+* [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18)
 * [Luis J. Iáñez](https://www.worldcubeassociation.org/persons/2009PARE02)
 * [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02)
 * [Raúl Morales](https://www.worldcubeassociation.org/persons/2013MORA02)
