@@ -9,6 +9,7 @@
 
 If you'd like to (re)-translate the Regulations, please use the following process:
 
+- Contact your local WCA Delegates to communicate that you would like to translate the Regulations. They may already have a process in place they will involve you in, or may have other considerations that you need to be aware of before working on a translation.
 - Download the [source of the current official Regulations](https://github.com/thewca/wca-regulations/archive/official.zip).
     - When you do this, please also visit [the GitHub page](https://github.com/thewca/wca-regulations) and record the current "latest commit" value so we can tell which version you translated.
     - If you're updating an existing translation, you can instead download the current translations [here](https://github.com/thewca/wca-regulations-translations/archive/master.zip/).
@@ -19,7 +20,7 @@ If you'd like to (re)-translate the Regulations, please use the following proces
 
 > Please note that this translation is not an official version (even though it is provided on the WCA website): it may be useful, but it does not come with any guarantees. If there is a difference between a translation and the (current official) English version, the English version must be used.
 
- - Contact the [WRC](https://www.worldcubeassociation.org/contact) for adding your translations to the GitHub repository and uploading them to the WCA website. Please send us:
+ - Contact the [WRC](mailto:regulations@worldcubeassociation.org) for adding your translations to the GitHub repository and uploading them to the WCA website. Please send us:
     - The translated Regulations and Guidelines.
     - The "latest commit" value your translation is based on.
     - The names of the translators, along with WCA IDs, and (optionally) personal homepages to link from this page.
