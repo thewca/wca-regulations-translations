@@ -41,8 +41,7 @@ Uwaga: Ponieważ numery artykułów i regulaminów nie są zmieniane, gdy regula
 
 - 1a) Zawody muszą posiadać następujące osoby funkcyjne: delegata WCA i zespół organizacyjny (z jednym bądź kilkoma członkami) wraz z sędziami, mieszaczami i osobami zapisującymi wyniki.
 - 1b) Zespół organizacyjny jest odpowiedzialny za wszelkie przygotowania przed, w trakcie i po zawodach.
-- 1c) Delegat WCA jest odpowiedzialny za zapewnienie przestrzegania regulacji WCA oraz stosownych wytycznych lub wymagań WCA. Delegat WCA może wyznaczyć innego członka zespołu organizacyjnego do pełnienia konkretnego obowiązku w jego imieniu, ale ostatecznie ponosi odpowiedzialność za sposób wykonywania tych obowiązków
-    - 1c1) Delegat WCA musi zapewnić, że zawody są zgodne z [Polityka odpowiedzialności za scramble WCA](https://documents.worldcubeassociation.org/documents/policies/external/Scramble%20Accountability.pdf).
+- 1c) Delegat WCA jest odpowiedzialny za zapewnienie przestrzegania Regulaminu WCA oraz stosownych wytycznych lub wymagań WCA. Delegat WCA może wyznaczyć innego członka zespołu organizacyjnego do pełnienia konkretnego obowiązku w jego imieniu, ale ostatecznie ponosi odpowiedzialność za sposób wykonywania tych obowiązków.
 - 1e) Każda konkurencja musi posiadać co najmniej jednego sędziego.
     - 1e1) Sędzia konkurencji jest odpowiedzialny za wypełnianie procedur danej konkurencji.
         - 1e1a) Sędzia może sędziować jednocześnie kilku zawodników za zgodą delegata WCA, tak długo jak sędzia jest w stanie zagwarantować przestrzeganie regulaminu WCA przez cały czas.
@@ -54,7 +53,9 @@ Uwaga: Ponieważ numery artykułów i regulaminów nie są zmieniane, gdy regula
     - 1g1) Osoba zapisująca wyniki jest odpowiedzialna za rejestrowanie wyników konkurencji.
     - 1g2) Zmiany w karcie wyników mogą być zrobione tylko w porozumieniu i za zgodą delegata WCA.
 - 1h) Zawodnicy tej samej konkurencji i tej samej rundy mogą wystartować w jednej grupie lub być podzieleni na wiele grupy.
-    - 1h1) SMieszacze i sędziowie uczestniczący w danej rundzie nie mogą sędziować ani mieszać w swojej rundzie, dopóki nie ukończą wszystkich swoich ułożeń w danej rundzie. Mogą mieszać i sędziować zawodnikom w swojej grupie za zgodą delegata WCA i przy zapewnieniu przez zespół organizacyjny, że nie zobaczą żadnych scrambli przed ułożeniami, których jeszcze nie wykonywali. (zob. [Punkt 4b2](regulations:regulation:4b2)).
+    - 1h1) Mieszacze i sędziowie danej rundy nie mogą mieszać lub sędziować zawodnika własnej grupy zanim nie zakończyli wszystkich prób w danej rundzie. Obowiązują następujące wyjątki:
+        - 1h1a) W przypadku 3x3x3 najmniejszą liczbą ruchów, sędzia może sędziować zawodników swojej grupy przed zakończeniem własnych prób (tj. w trakcie gdy sami uczestniczą w próbie)
+        - 1h1b) W przypadku 3x3x3 wiele kostek bez patrzenia, zawodnicy mogą sędziować innych zawodników w ich własnej grupie po zakończeniu ich próby.
 - 1j) Wszystkie osoby funkcyjne mogą uczestniczyć w zawodach.
 - 1k) Osoby funkcyjne mogą pełnić jednocześnie kilka ról (zespół organizacyjny, delegat WCA, sędzia, osoba zapisująca wyniki, mieszacz).
 
@@ -67,30 +68,32 @@ Uwaga: Ponieważ numery artykułów i regulaminów nie są zmieniane, gdy regula
     - 2a3) Nie jest zawieszony przez Zarząd WCA.
     - 2a4) Zgadza się z wszystkimi rozsądnymi środkami bezpieczeństwa uważanych z konieczne przez Delegata WCA, które muszą być jasno ogłoszone przed zawodami.
 - 2b) Zawodnicy poniżej 18 roku życia muszą uzyskać zgodę od rodziców/opiekunów na rejestrację oraz udział w zawodach.
-- 2c) Rejestrując się, zawodnik podaje wszystkie informacje wymagane przez zespół organizacyjny (w tym: imię i nazwisko, region który reprezentują, data urodzenia, płeć, informacje kontaktowe, wybrane konkurencje)
+- 2c) Rejestrując się, zawodnik podaje wszystkie informacje wymagane przez zespół organizacyjny (w tym: imię i nazwisko, kraj, data urodzenia, płeć, informacje kontaktowe, wybrane konkurencje)
     - 2c1) Zawodnik nie może wystartować w zawodach bez kompletnej rejestracji, zgodnie z ustaleniami zespołu organizacyjnego i Delegata WCA.
-    - 2c2) Zawodnicy którzy brali już udział w zawodach muszą podawać informacje zgodne z ich profilem WCA. Jeśli zawodnik chce zmienić lub uaktualnić swoje informacje personalne między zawodami (np. zmiana regionu który reprezentują, imienia, lub płci) musi [skontaktować się z WCA Results Team](https://www.worldcubeassociation.org/contact?contactRecipient=wrt) albo bezpośrednio lub za pośrednictwem Delegata WCA.
-- 2d) Imię i nazwisko zawodnika, region który reprezentują, płeć i wyniki z zawodów są informacjami publicznymi. Wszystkie inne informacje o zawodniku są poufne i nie mogą być przekazywane dalej bez zgody zawodnika.
-- 2e) Zawodnik musi reprezentować region, którego obywatelstwo posiada. Delegat WCA powinien zweryfikować obywatelstwo zawodnika na podstawie dokumentu (np. paszportu). Jeżeli zawodnik okaże się nie być obywatelem regionu, który reprezentuje, może być zdyskwalifikowany (również wstecz) i/lub zawieszony, według uznania Zarządu WCA.
-    - 2e1) Dostępne regiony, które zawodnik może reprezentować są zdefiniowane przez [Lista uznanych regionów WCA](https://www.worldcubeassociation.org/regulations/countries/).
-    - 2e2) Po zmianie obywatelstwa, zawodnik może zmienić region, który reprezentuje na swoich pierwszych zawodach w roku kalendarzowym.
-        - 2e2a) Wyjątek: Jeśli zawodnik straci obywatelstwo regionu, który wcześniej reprezentował, musi zmienić region reprezentowania przed lub na następnych zawodach (zob. [Punkt 2c2](regulations:regulation:2c2)).
-        - 2e2b) Wyjątek: Jeśli zawodnik uzyskał nowe obywatelstwo w ciągu roku kalendarzowego, może zmienić region reprezentacji na swoje nowe obywatelstwo w dowolnym momencie pomiędzy zawodami.
+    - 2c2) Zawodnicy którzy brali już udział w zawodach muszą podawać informacje zgodne z ich profilem WCA. Jeśli zawodnik chce zmienić lub uaktualnić swoje informacje personalne między zawodami (np. zmiana kraju, imienia, lub płci) musi [skontaktować się z Zespołem ds. wyników WCA](https://www.worldcubeassociation.org/contact?contactRecipient=wrt) albo bezpośrednio lub za pośrednictwem Delegata WCA.
+- 2d) Imię i nazwisko zawodnika, kraj, płeć i wyniki z zawodów są informacjami publicznymi. Wszystkie inne informacje o zawodniku są poufne i nie mogą być przekazywane dalej bez zgody zawodnika.
+- 2e) Zawodnik musi reprezentować kraj, którego obywatelstwo posiada. Delegat WCA powinien zweryfikować obywatelstwo zawodnika na podstawie dokumentu lub zdjęć dokumentu (np. paszportu). Jeżeli zawodnik okaże się nie być obywatelem kraju, który reprezentuje, może być zdyskwalifikowany (również wstecz) i/lub zawieszony, według uznania Zarządu WCA.
+    - 2e1) Dostępne kraje, które zawodnik może reprezentować są zdefiniowane przez [Lista Uznanych Krajów WCA](https://www.worldcubeassociation.org/regulations/countries/).
+    - 2e2) Po zmianie obywatelstwa, zawodnik może zmienić kraj w dowolnym momencie pomiędzy zawodami (zob. [Punkt 2x2](regulations:regulation:2c2)), tylko wtedy gdy minał minimum jeden rok od poprzedniej zmiany.
+        - 2e2a) Wyjątek: Jeśli zawodnik straci obywatelstwo kraju, który wcześniej reprezentował, musi zmienić kraj reprezentowania przed lub na następnych zawodach (zob. [Punkt 2c2](regulations:regulation:2c2)).
+        - 2e2b) Wyjątek: Jeśli zawodnik uzyskał nowe obywatelstwo w ciągu roku kalendarzowego, może zmienić kraj, który reprezentuje na swoje nowe obywatelstwo przed lub w trakcie następnych zawodów.
     - 2e3) Zawodnicy nieposiadający obywatelstwa mogą rywalizować jako „bezpaństwowcy”.
 - 2f) Zawodnicy muszą przestrzegać zasad miejsca zawodów i odpowiednio się zachowywać.
 - 2g) Przebywając w miejscu zawodów, zawodnicy muszą zachować ciszę. Rozmowy są dozwolone, ale muszą być utrzymane na rozsądnym poziomie, z dala od układających.
-    - 2g3) Zawodnicy przebywający w strefie dla zawodników nie mogą rozmawiać o tzw. scramblach trwającej rundy. Kara: dyskwalifikacja zawodnika z konkurencji, według uznania Delegata WCA. Wyjątek: W przypadku 3x3x3 Najmniejszą liczbą ruchów, zawodnicy, którzy ukończyli swoją próbę, mogą udostępnić sekwencję mieszającą każdemu, kto nie bierze aktywnego udziału w danej próbie.
-- 2h) Zawodnicy przebywający w miejscu zawodów muszą być odpowiednio ubrani. Według uznania Delegata WCA, zawodnik może być zdyskwalifikowany z zawodów, jeżeli jest ubrany         nieodpowiednio.
-- 2i) Podczas układania, zawodnik nie może używać urządzeń dźwiękowych ani elektronicznych (np. telefon komórkowy, odtwarzacz MP3, dyktafon, dodatkowe oświetlenie) oprócz timera lub stopera.
+    - 2g3) Zawodnicy w grupie w trakcie jej trwania nie mogą komunikować się z innymi zawodnikami w grupie na temat stanów pomieszań w danej grupie, chyba że wszyscy tacy zawodnicy nie kwalifikują się do dalszych prób w grupie. Kara: dyskwalifikacja zawodnika(ów) z zawodów, według uznania Delegata WCA. Wyjątek: W przypadku 3x3x3 Najmniejszą Liczbą Ruchów i 3x3x3 Wiele Kostek Bez Patrzenia, zawodnicy, którzy ukończyli swoją próbę, mogą dzielić się i omawiać sekwencję (sekwencje) mieszającą(e) z innymi zawodnikami w grupie, którzy albo ukończyli swoją próbę, albo zrezygnowali z próby.
+        - 2g3a) W przypadku rund, w których wyniki wprowadzane są na bieżąco w trakcie trwania rundy, zespół organizacyjny może narzucić zawodniką zakaz sprawdzania wprowadzanych wyników własnej grupy do czasu zakończenia wszystkich prób w danej grupie.
+- 2h) Zawodnicy przebywający w miejscu zawodów muszą być odpowiednio ubrani. Według uznania Delegata WCA, zawodnik może być zdyskwalifikowany z zawodów, jeżeli jest ubrany nieodpowiednio.
+- 2i) Podczas układania, zawodnik nie może używać urządzeń elektronicznych (np. telefon komórkowy, słuchawki, dodatkowe oświetlenie) oprócz timera lub stopera.
     - 2i1) Zawodnik może korzystać z niektórych nieelektronicznych form pomocy, które nie dają mu nieuczciwej przewagi, według uznania Delegata WCA. W tym:
         - 2i1a) Lekarskie/fizyczne pomoce noszone przez zawodnika (np. okulary, orteza nadgarstka, aparat słuchowy) Jako wyjątek dla [Punktu 2i](regulations:regulation:2i), medyczne pomoce mogą być elektroniczne jeśli zawodnik nie posiada nieelektronicznych alternatyw (np. aparat słuchowy).
         - 2i1b) Zatyczki do uszu i nauszniki (ale nie elektroniczne, wygłuszające słuchawki).
-        - 2i1c) Ogrzewacze do rąk.
+        - 2i1c) Nieelektroniczne ogrzewacze do rąk.
         - 2i1d) Jedzenie oraz napoje.
-    - 2i2) Zawodnik może korzystać z kamery na stanowisku startowym za zgodą Delegata WCA, pod warunkiem zastosowania poniższych zasad podczas pełnej próby. Kara: Dyskwalifikacja ułożenia.
-        - 2i2a) Każdy monitor kamery musi być wygaszony lub poza zasięgiem wzroku zawodnika (zob. [Punkt A5b](regulations:regulation:A5b)).
+    - 2i2) Zawodnicy mogą korzystać z kamer i/lub mikrofonów na stanowisku układania według uznania Delegata WCA, ale poniższe ograniczenia obowiązują od momentu rozpoczęcia próby do momentu zakończenia układania przez zawodnika. Kara za łamanie ograniczeń: dyskwalifikacja próby (DNF).
+        - 2i2a) Każdy monitor kamery musi być wygaszony lub poza zasięgiem wzroku zawodnika. Wyjątek: jeśli widoczny monitor zostanie wykryty, zakończone próby nie muszą być zdyskwalifikowane, jeśli zawodnik nie uzyskał przewagi z tego powodu, według uznania Delegata WCA (zob. [Punkt A5b](regulations:regulation:A5b)), nie mniej jednak zawodnik nie może uzyskać pozwolenia na dalsze układanie z takim monitorem.
+        - 2i2c) Zawodnik nie może klikać przycisków na urządzeniu (np. zaczynanie lub zatrzymywanie nagrywania).
     - 2i4) Zawodnik powinien wyciszyć telefon żeby uniknąć rozpraszania innych zawodników.
-- 2j) Delegat WCA może zdyskwalifikować zawodnika z określonej konkurencji
+- 2j) Delegat WCA może zdyskwalifikować zawodnika z określonej konkurencji.
     - 2j1) Jeśli zawodnik został zdyskwalifikowany z danej konkurencji, nie mogą przystąpić do następnych prób tej konkurencji.
         - 2j1a)  Jeśli zawodnik przystąpił już do próby danej konkurencji przed zostaniem zdyskwalifikowanym, pozostałe wyniki zostają odnotowane jako DNF. Jeżeli zawodnik nie rozpoczął prób (tj. nie posiada wyników lub posiada wynik DNS) żadne wyniki nie zostają przypisane.
     - 2j2) Jeżeli zawodnik został zdyskwalifikowany z konkurencji podczas jej trwania, jego dotychczasowe wyniki pozostają ważne. Wyjątek: oszukiwanie (zob. [Punkt 2k2a](regulations:regulation:2k2a)).
@@ -106,7 +109,7 @@ Uwaga: Ponieważ numery artykułów i regulaminów nie są zmieniane, gdy regula
 - 2l) Zawodnik może być zdyskwalifikowany natychmiast lub po ostrzeżeniu, w zależności od natury wykroczenia
     - 2l1) Zdyskwalifikowany zawodnik nie ma prawa do zwrotu kosztów związanych z udziałem w zawodach.
 - 2n) Zawodnik może słownie zakwestionować decyzję Delegata WCA.
-    - 2n1) Dyskusje są możliwe tylko w czasie zawodów (zob. [Punkt 9u](regulations:regulation:9u)), w ciągu 30 minut od zaistnienia incydentu lub przed rozpoczęciem kolejnych rund danej konkurencji.
+    - 2n1) Odwołanie się od decyzji jest możliwe tylko w czasie zawodów (zob. [Punkt 9u](regulations:regulation:9u)), w ciągu 30 minut od zaistnienia incydentu i przed rozpoczęciem kolejnych rund danej konkurencji.
     - 2n2) Delegat WCA musi rozwiązać spór przed rozpoczęciem kolejnej rundy danej konkurencji.
     - 2n3) Zawodnik musi zaakceptować ostateczną decyzję Delegata WCA. Kara: dyskwalifikacja z zawodów.
 - 2s) Zawodnicy, u których występują okoliczności (np. niepełnosprawność), które uniemożliwiają przestrzeganie jednego bądź wielu punktów Regulaminu WCA, mogą poprosić Delegata WCA o specjalne udogodnienia. Tacy zawodnicy powinni skontaktować się z zespołem organizacyjnym oraz z Delegatem WCA przynajmniej 2 tygodnie przed zawodami.
@@ -119,7 +122,7 @@ Uwaga: Ponieważ numery artykułów i regulaminów nie są zmieniane, gdy regula
 
 ## <article-3><puzzles><puzzles> Artykuł 3: Kostki
 
-- 3a) Zawodnicy muszą dostarczyć swoje własne kostki
+- 3a) Zawodnicy są odpowiedzialni za dostarczenie swojej własne kostki
     - 3a1) Zawodnicy muszą być gotowi do przedstawienia swoich łamigłówek, gdy zostaną wezwani (zob. [Punkt 2u](regulations:regulation:2u)).
     - 3a2) Kostki muszą być w pełni sprawne, tak aby normalne mieszanie było możliwe.
     - 3a3) Wielościenne kostki w pozycji ułożonej muszą mieć taki schemat kolorów, aby dla jednej ściany był przypisany jeden, unikalny kolor. Każda odmiana kostki musi mieć ruchy, pozycje oraz rozwiązania funkcjonalnie identyczne jak oryginalna kostka.
@@ -150,7 +153,7 @@ Uwaga: Ponieważ numery artykułów i regulaminów nie są zmieniane, gdy regula
     - 3k2) Kara za próby z układankami, które nie są dozwolone: dyskwalifikacja próby (DNF). Obowiązują następujące wyjątki:
         - 3k2a) Jeśli niedozwolona łamigłówka zostanie znaleziona przed zakończeniem rundy, wyniki w rundzie mogą zostać zastąpione dodatkowymi próbami, według uznania Delegata WCA.
         - 3k2b) 3x3x3 Multi-Blind: jeśli jakiekolwiek układanki zostaną uznane za niedozwolone, takie układanki mogą zostać indywidualnie zaliczone jako nierozwiązane (bez dyskwalifikacji całej próby), według uznania Delegata WCA.
-- 3l) Układanka może mieć logo lub wiele log na kolorowej części. Jeśli tak, musi mieć co najwyżej jedną kolorową część z logo lub wieloma logami. Wyjątek: W przypadku konkurencji bez patrzenia łamigłówka nie może mieć logo.
+- 3l) Układanka może mieć logo lub wiele log na kolorowej części. Jeśli tak, musi mieć co najwyżej jedną kolorową część z logo lub wieloma logami. Wyjątek: W przypadku konkurencji 4x4x4 Bez Patrzenia, 5x5x5 Bez Patrzenia oraz 3x3x3 Wiele Kostek Bez Patrzenia kostki nie mogą posiadać loga.
     - 3l1) Logo musi być umieszczone na centrze. Wyjątki dla kostek, które nie mają centrów:
         - 3l1a) Pyraminx i 2x2x2: logo może być na którymkolwiek elemencie.
         - 3l1b) Square-1: logo musi być na środkowej warstwie.
@@ -161,7 +164,7 @@ Uwaga: Ponieważ numery artykułów i regulaminów nie są zmieniane, gdy regula
 ## <article-4><scrambling><scrambling> Artykuł 4: Mieszanie
 
 - 4a) Mieszacz stosuje algorytm mieszający.
-- 4b) Kostki muszą być wymieszane używając losowych, wygenerowanych komputerowo algorytmów mieszających
+- 4b) Sekwencje mieszające używane na zawodach muszą być generowane używając aktualnej wersji oficjalnego programu WCA do generowania sekwencji mieszających (dostępne [Za Pośrednictwem Strony WCA](https://www.worldcubeassociation.org/regulations/scrambles/))
     - 4b1) Wygenerowane algorytmy mieszające nie mogą być oglądane przed zawodami, ani wybierane lub filtrowane w żaden sposób przez Delegata WCA.
     - 4b2) Algorytmy mieszające do danej rundy mogą być dostępne tylko dla Delegata WCA i mieszaczy aż do końca tej rundy. Wyjątek: w konkurencji Fewest Moves, zawodnicy dostają algorytmy mieszające podczas rundy (zob. [Artykuł E](regulations:article:E)).
         - 4b2a) Wyznaczony delegat WCA na zawody musi udzielić dostępu do sekwencji mieszającej dla przyszłych grup innym członkom zespołu organizacyjnego tylko wtedy, gdy będą oni tymczasowo niedostępni (np. sami startują w danej rundzie) i powinien w takim przypadku udzielić innym dostępu do minimalnej możliwej liczby sekwencji mieszających.
@@ -179,7 +182,6 @@ Uwaga: Ponieważ numery artykułów i regulaminów nie są zmieniane, gdy regula
     - 4d3) Square-1 jest mieszany z najciemniejszym kolorem z przodu (z dwóch możliwych orientacji mieszania)
     - 4d4) Zegar jest mieszany, zaczynając od dowolnej strony z przodu, a godzina 12 jest skierowana do góry.
     - 4d5) Skewb jest mieszany z białą ścianą (jeżeli niemożliwe - najjaśniejszą) u góry i zieloną ścianą (jeżeli niemożliwe – najciemniejszą) z przodu po lewej.
-- 4f) Oficjalne algorytmy mieszające muszą być wygenerowane używając aktualnej wersji oficjalnego programu mieszającego (dostępne [przez strone WCA](https://www.worldcubeassociation.org/regulations/scrambles/)).
 - 4g) Po pomieszaniu kostki, mieszacz musi się upewnić, że zrobił to poprawnie. Jeżeli nie, musi to poprawić (np. przez ułożenie kostki i pomieszanie jej ponownie).
     - 4g1) Następujace wyjątki dotyczą:
         - 4g1a) Wyjątek: w przypadku 6x6x6, 7x7x7 i Megaminksa nie jest wymagane poprawianie źle pomieszanej kostki, według uznania Delegata WCA.
@@ -189,13 +191,13 @@ Uwaga: Ponieważ numery artykułów i regulaminów nie są zmieniane, gdy regula
 ## <article-5><puzzle-defects><puzzledefects> Artykuł 5: Uszkodzenia Kostek
 
 - 5a) Przykłady uszkodzeń kostek: element wypadł, element obrócony na swoim miejscu, oderwana śróbka/zaślepka/naklejka.
-- 5b) Jeżeli uszkodzenie kostki zdarzy się podczas ułożenia, zawodnik może naprawić uszkodzenie i kontynuować ułożenie, bądź zakończyć ułożenie.
+- 5b) Jeżeli uszkodzenie kostki zdarzy się podczas ułożenia, zawodnik może naprawić uszkodzenie i kontynuować ułożenie, bądź zakończyć ułożenie. Zawodnik nie może intencjonalnie spowodować kolejnego uszkodzenia kostki, chyba, że ma na celu naprawienie poprzedniego uszkodzenia.
     - 5b1) Jeżeli zawodnik wybierze naprawę uszkodzenia, musi naprawić tylko wadliwą część. Narzędzia lub/i części z innych kostek nie mogą być użyte no naprawy kostki. Kara: dyskwalifikacja ułożenia (DNF).
     - 5b2) Żadna naprawa kostki nie może dać zawodnikowi korzyści w układaniu kostki. Kara. Dyskwalifikacja ułożenia (DNF).
     - 5b3) Dozwolone naprawy:
         - 5b3a) Jeżeli jakikolwiek element wypadł, zawodnik może go włożyć z powrotem.
         - 5b3b) Jeżeli po naprawie kostki, przed zakończeniem ułożenia zawodnik zauważa, że kostki nie da się ułożyć, może wyciągnąć i włożyć z powrotem maksymalnie 4 elementy w celu umożliwienia dokończenia ułożenia.
-        - 5b3c) Jeżeli kostki nie da się ułożyć, ponieważ jeden róg jest obrócony, zawodnik może obrócić ten róg bez rozbierania kostki.
+        - 5b3c) Jeżeli kostki nie da się ułożyć, ponieważ jeden róg jest obrócony, zawodnik może obrócić ten róg bez rozbierania kostki. Jeśli wiele rogów zostało obróconych, zawodnik może naprawić te obroty, wtedy i tylko wtedy gdy liczba elementów poprawionych przez zawodnika nie jest wieksza niż liczba rogów które zostały obrócone poprzez uszkodzenie kostki.
     - 5b4) Podczas fazy układania bez patrzenia (zob. [Punkt B4](regulations:regulation:B4)), wszystkie naprawy muszą być wykonywane bez patrzenia. Kara: dyskwalifikacja ułożenia (DNF).
     - 5b5) Jeżeli po zakończeniu ułożenia niektóre elementy kostki nie są na miejscu, lub nie są do końca włożone, stosuje się następujące zasady:
         - 5b5a) Jeżeli jedna lub więcej części bez koloru jest naruszona, kostka jest uważana za ułożoną.
@@ -220,8 +222,7 @@ Uwaga: Ponieważ numery artykułów i regulaminów nie są zmieniane, gdy regula
     - 7f2) Stoper musi być przymocowany do maty i umieszczony na powierzchni, ze stoperem na krawędzi maty bliższej zawodnikowi.
     - 7f3) Zespół organizacyjny powinien zmodyfikować timery Stackmat, aby były bardziej odporne na typowe incydenty, utrudniając przypadkowe naciśnięcie przycisków (np. poprzez przymocowanie O-ringów wokół przycisków) i mocniej zabezpieczając baterię (np. poprzez wyściełanie komory baterii).
     - 7f4) Generation 5 Pro Timer musi być używany w trybie 2-pad.
-- 7h) Miejsce zawodów musi posiadać jedną lub więcej stref dla Zawodników.
-    - 7h1) Zespół organizacyjny może wymagać od zawodnika wywołanego do układania, aby został w strefie dla Zawodników aż ukończy wszystkie próby w rundzie.
+- 7h) Jeśli zawodnicy nie pozostają na tym samym stanowisku podczas wszystkich swoich prób w rundzie, miejsce zawodów musi posiadać jedno lub więcej poczekalni dla zawodników. Wyjątek: rundy z indywidualnie zaplanowanymi próbami.
     - 7h2) Definicja: Strefa dla Zawodników to obszar, w którym zawodnicy w grupie oczekują na wezwanie do stacji rozstrzygania.
 
 
@@ -246,10 +247,10 @@ Uwaga: Ponieważ numery artykułów i regulaminów nie są zmieniane, gdy regula
         - 9b5b) Formaty cutoff dla tej konkurencji: " Najlepszy z X" (gdzie X wynosi 1 lub 2) faza cutoff dla "Najlepszy z Y" (gdzie Y wynosi 2 lub 3, i Y > X).
 - 9f) Wyniki rund są mierzone następująco:
     - 9f1) Wszystkie zmierzone czasy poniżej 10 minut są mierzone i obcinane do setnej sekundy. Wszystkie zmierzone średnie poniżej 10 minut są mierzone i zaokrąglane do setnej sekundy.
-    - 9f2) Wszystkie wyniki , średnie i średnie powyżej 10 minut, a także wszystkie czasy dla wyników 3x3x3 Multi-Blind są mierzone i zaokrąglane do najbliższej sekundy (np. X.49 staje się X, X.50 staje się X+1).
+    - 9f2) Wszystkie wyniki , średnie i średnie powyżej 10 minut, a także wszystkie czasy dla wyników 3x3x3 Multi-Blind są mierzone i zaokrąglane do sekund.
     - 9f4) Wynik jest zapisywany jako DNF (Did Not Finish) jeżeli ułożenie zostało zdyskwalifikowane, zakończone przed ułożeniem kostki, lub nieukończone.
         - 9f4a) Jeśli zawodnik naruszy przepisy na tyle wyraźnie, że próba z pewnością zostanie zdyskwalifikowana, sędzia powinien natychmiast przerwać próbę. Jeśli sędzia nie ma pewności lub spór mógłby zakłócić przebieg zawodów (np. ponieważ dodatkowa próba mogłaby opóźnić zawody), powinien skonsultować się z Delegatem WCA.
-    - 9f5) Wynik jest zapisywany jako DNS (Did Not Start) jeżeli zawodnik może wystartować, ale z tego rezygnuje.
+    - 9f5) Wynik jest zapisywany jako DNS (Did Not Start) jeżeli zawodnik mógł wystartować, ale z tego zrezygnował (zob. [Punkt A3b2](regulations:regulation:A3b2)).
     - 9f6) Dla rund z formatem „Najlepszy z X”, zawodnikowi przydziela się X prób. Miejsce zawodnika w rankingu ustalane jest na podstawie najlepszego ułożenia.
     - 9f7) Dla rund z formatem „Najlepszy z X”, DNF lub DNS liczy się jako najgorszy wynik.
     - 9f8) Dla rund z formatem „Średnia z 5”, zawodnikowi przydziela się 5 prób, z których najgorszy i najlepszy są odrzucane, a wynik to średnia arytmetyczna z pozostałych trzech wyników.
@@ -271,6 +272,7 @@ Uwaga: Ponieważ numery artykułów i regulaminów nie są zmieniane, gdy regula
 - 9j) Każda konkurencja może być przeprowadzona maksymalnie raz podczas zawodów.
 - 9k) Wszyscy zawodnicy mogą brać udział we wszystkich konkurencjach na zawodach z wyjątkiem szczególnych przypadków zatwierdzonych przez WCA Competition Announcement Team.
 - 9l) Każda runda musi być zakończona zanim kolejna runda tej samej konkurencji się zacznie. Wyjątek: Dodatkowe próby mogą zostać przyznane w dowolnym momencie zawodów w celu zastąpienia próby, która początkowo była nieważna.
+    - 9l1) Próba jest uważana za nieważną, jeśli wymaga przyznania dodatkowego ułożenia.
 - 9m) Konkurencje mogą mieć maksymalnie 4 rundy.
     - 9m1) Konkurencje, w których udział bierze 99 lub mniej osób mogą mieć co najwyżej 2 następne rundy.
     - 9m2) Konkurencje, w których udział bierze 15 lub mniej osób mogą mieć jedną następnej rundy.
@@ -280,7 +282,9 @@ Uwaga: Ponieważ numery artykułów i regulaminów nie są zmieniane, gdy regula
     - 9p1) Co najmniej 25% zawodników musi być wyeliminowanych między rundami.
     - 9p2) Zawodnicy którzy przechodzą do następnych muszą być określeni na podstawie rankingu (X najlepszych zawodników) lub na podstawie wyniku (wszyscy zawodnicy z wynikiem lepszym niż X) do następnej rundy.
         - 9p2a) Jeżeli zakwalifikowany zawodnik wycofuje się z udziału w danej rundzie, może być zastąpiony przez innego zawodnika, który w rankingu poprzedniej rundy był najbliżej kwalifikacji.
+        - 9p2b) Wyjątek: W przypadku zawodów wskazanych jako Mistrzostwa Krajowe lub Mistrzostwa Kontynentalne, zespół organizacyjny może zmienić warunki awansu, aby zarezerwować miejsca dla zawodników reprezentujących dany region. W ten sposób można zarezerwować maksymalnie 8 miejsc lub 50% miejsc w następnej rundzie, w zależności od tego, która z tych wartości jest niższa. W przypadku rundy z zarezerwowanymi miejscami, zawodnicy awansujący z poprzedniej rundy to zarezerwowana liczba najlepszych zawodników reprezentujących dany region, a następnie pozostali najlepsi zawodnicy reprezentujący dowolny region.
     - 9p3) Jeżeli zakwalifikowany zawodnik wycofuje się z udziału w danej rundzie, może być zastąpiony przez innego zawodnika, który w rankingu poprzedniej rundy był najbliżej kwalifikacji.
+    - 9p4) zawodnik posiadający tylko DNF lub DNS jako wynik nie może awansować do następnej rundy.
 - 9s) Każda runda każdej konkurencji musi mieć limit czasowy (zob. [Punkt A1a](regulations:regulation:A1a)).
 - 9t) Jeśli po zakończeniu zawodów nastąpi jakakolwiek zmiana w wynikach zawodnika (np. błąd w punktacji, kara retroaktywna), w wyniku której zawodnik nie powinien awansować do następnej rundy (lub nie został dopuszczony do udziału w rundzie), wszystkie wyniki tego zawodnika we wszystkich kolejnych rundach muszą zostać usunięte (zob. [Punkt 9u](regulations:regulation:9u)).
     - 9t1) Jeśli spowoduje to, że runda przestanie być zgodna z [Punktem 9p1](regulations:regulation:9p1), wyniki innych zawodników nie mogą zostać usunięte.
@@ -310,6 +314,7 @@ Uwaga: Ponieważ numery artykułów i regulaminów nie są zmieniane, gdy regula
     - 10f4) Square-1: maksymalnie 45 stopni (U/D), lub 90 stopni (/)
 - 10h) Łamigłówki niewymienione w tym artykule, są sędziowane zgodnie ze statusem ułożenia, przyjętym w ogólnych założeniach danej łamigłówki.
     - 10h1) Clock jest ułożony wtedy, kiedy wszystkie 18 wewnętrznych zegarów wskazuje na godzinę 12.
+        - 10h1a) Wewnętrzne zegary, które nie jasno wskazują konkretny znacznik godziny, uznaje się za wskazujące najbliższy znacznik godzinowy.
 
 
 ## <article-11><incidents><incidents> Artykuł 11: Incydenty
@@ -321,12 +326,36 @@ Uwaga: Ponieważ numery artykułów i regulaminów nie są zmieniane, gdy regula
 - 11b) Jeżeli incydent ma miejsce, Delegat określa bezstronny i właściwy sposób działania.
 - 11d) Jeśli Regulamin WCA nie jest w pełni jasny lub jeśli incydent nie jest objęty Regulaminem WCA, wówczas Delegat WCA musi podjąć decyzję w oparciu o zasady fairplay (zob. również [Punkt 11e3](regulations:regulation:11e3)).
 - 11e) Jeżeli incydent ma miejsce podczas oficjalnego ułożenia, Delegat WCA może przydzielić zawodnikowi dodatkowe ułożenie, zastępujące te, podczas którego miał miejsce incydent. Aby być upoważnionym do dodatkowego ułożenia, zawodnik musi się zwrócić do sędziego i Delegata WCA słownie lub na piśmie w czasie incydentu, przed zakończeniem ułożenia. Nie jest to jednak gwarancja uzyskania dodatkowego ułożenia.
-    - 11e1) ) Jeżeli zawodnikowi zostało przydzielone dodatkowe ułożenie, kostka musi być pomieszana innym algorytmem mieszającym. Algorytm mieszający musi być wygenerowany używając aktualnego programu mieszającego (zob. [Punkt 4f](regulations:regulation:4f)).
+    - 11e1) Jeżeli zawodnikowi zostało przydzielone dodatkowe ułożenie, kostka musi być pomieszana innym algorytmem mieszającym. Algorytm mieszający musi być wygenerowany używając aktualnego programu mieszającego (zob. [Punkt 4f](regulations:regulation:4f)).
     - 11e2) Jeśli zawodnikowi zostanie przyznana dodatkowa próba, powinna ona zostać wykonana zaraz po próbie, która ją spowodowała i musi zastąpić pierwotną regularnie numerowaną próbę.
     - 11e3) Jeżeli nie jest jasne czy dany incydent powinien zakończyć się dodatkowym ułożeniem, zawodnik może zostać poproszony o wykonanie prowizorycznej dodatkowej próby. Wynik ten zostanie uznany tylko w przypadku potwierdzenia, że dodatkowe ułożenie było uzasadnione.(np. po decyzji WRC).
-- 11f) Decyzje o incydencie mogą być wsparte materiałem wideo lub analizą fotografii, według uznania Delegata WCA.
+- 11f) Decyzja o incydencie może zostać podjęta przy pomocy nagrania, zdjęcia, lub nagrania audio, według uznania Delegata WCA.
+    - 11f1) Nagrania wideo i podobne formy zarejestrowanego materiału dowodowego powinny być analizowane w czasie rzeczywistym. Wyjątek: analiza w zwolnionym tempie lub analiza poklaktowa może być stosowana w następujących okolicznościach:
+        - 11f1a) Indywidualny wynik jest rekordem regionu lub osobistym rekordem w 50 najlepszych wynikach światowych rankingów.
+        - 11f1b) Próba jest częścią średniej, która jest rekordem regionu lub rekordem osobistym w 50 najlepszych wynikach światowych rankingów.
+        - 11f1c) Wynik jest osiągany w finałowej rundzie mistrzostw krajowych, mistrzostw kontynentalnych lub mistrzostw świata.
+        - 11f1d) Aby poprzeć usunięcie jakiejkolwiek kary pierwotnie nałożonej przez sędziego lub delegata WCA, patrz [Punkt 11f2a](regulations:regulation:11f2a).
+    - 11f2) Dowody uzyskane z analizy zwolnionego tempa lub analizy poklatkowej mogą być wykorzystane wyłącznie w celu wsparcia następujących decyzji:
+        - 11f2a) Usunięcie wszelkich kar pierwotnie nałożonych przez sędziego lub Delegata WCA.
+        - 11f2b) Zastosowanie kary zgodnie z [Punktem A3c1](regulations:regulation:A3c1), [Punktem A4b](regulations:regulation:A4b) lub [Punktem A4b1](regulations:regulation:A4b1).
+        - 11f2c) Dochodzenie w sprawie oszustw (patrz [Punkt 2k](regulations:regulation:2k))
 - 11g) Delegat WCA musi zapewnić, że kopie Regulaminu i Wytycznych są dostępne (np. w formie drukowanej, cyfrowej lub dostępnej przez Internet) dla sędziów i zawodników do konsultacji w przypadku jakichkolwiek incydentów.
 - 11h) Delegat WCA może zażądać od zawodników, którzy poważnie naruszyli  [Punkt 2k3](regulations:regulation:2k3) aby opuścili miejsce zawodów, biorąc pod uwagę powagę sytuacji i najlepszy możliwy sposób działania. Jeśli zawodnik odmówi, może zostać ukarany dyscyplinarnie przez WCA.
+- 11i) Jeśli okaże się, że łamigłówka zawodnika nie została poprawnie wymieszana po zakończeniu jej układania, zastosowanie mają następujące przepisy:
+    - 11i1) W następujących przypadkach musi zostać przyznana dodatkowa próba w celu zastąpienia próby, której dotyczy nieprawidłowość. Jeśli nie zostanie przyznana dodatkowa próba, wynik zostanie uznany za DNS:
+        - 11i1a) Indywidualny wynik jest rekordem regionu lub osobistym rekordem w 50 najlepszych zawodnikach światowych rankingów.
+        - 11i1b) Próba jest częścią średniej, która jest rekordem regionu lub rekordem osobistym w 50 najlepszych wynikach światowych rankingów.
+        - 11i1c) Wynik jest osiągany w finałowej rundzie Mistrzostw Kraju, Mistrzostw Kontynentu lub Mistrzostw Świata.
+        - 11i1d) Wynik został osiągnięty na skutek układania łamigłówki w mniejszej liczbie ruchów niż limity określone w [Punkt 4b3](regulations:regulation:4b3).
+        - 11i1e) Wyjątek: W przypadku kostek 5x5x5, 6x6x6, 7x7x7, Megaminx oraz 3x3x3 Multi-Blind, dodatkowa próba nie jest konieczna.
+    - 11i2) W pozostałych przypadkach wynik może zostać niezmieniony. Wyjątek: Delegat WCA może przyznać dodatkową próbę według własnego uznania, jeśli uzna, że zapewni to znacznie bardziej sprawiedliwy wynik (np. otrzymane pomieszanie łamigłówki było wyjątkowo łatwe, a zawodnik osiągnął nowy rekord osobisty, nieprawidłowo pomieszana łamigłówka wpłynęła na podium zawodów lub łamigłówka została z premedytacją pomieszana nieprawidłowo).
+        - 11i2a) Jeśli dodatkowa próba przyniosłaby znacznie bardziej sprawiedliwy wynik, pierwotna próba jest uznawana za nieważną (patrz [Punkt 9l](regulations:regulation:9l)).
+        - 11i2b) Jeśli dodatkowa próba nie może zostać przyznana za nieprawidłowe pomieszanie prowadzące do znacząco niesprawiedliwego wyniku (na przykład, ponieważ nieprawidłowe pomieszanie zostało odkryte po zawodach), wynik zostanie uznany za DNS.
+- 11j) Jeśli zawodnik otrzyma pomieszanie, które już otrzymał (tj. duplikat), zastosowanie mają następujące regulacje:
+    - 11j1) Jeśli zawodnik uważa, że podczas inspekcji otrzymał duplikat, powinien przerwać swoją próbę i wezwać Delegata WCA bez wykonywania żadnych ruchów w łamigłówce. Zawodnik nie powinien zostać ukarany za nieprawidłowe zgłoszenie zduplikowanej łamigłówki, według uznania Delegata WCA.
+    - 11j2) Jeśli błąd zostanie zauważony w trakcie trwania grupy, Delegat WCA powinien dołożyć starań, aby zawodnik otrzymał poprawne pomieszanie. Może zostać przyznana dodatkowa próba, jeśli Delegat WCA nie jest pewien, jakie powinno być poprawne pomieszanie.
+    - 11j3) Jeśli błąd zostanie zauważony podczas zawodów, ale po zakończeniu grupy, brakująca próba musi zostać zastąpiona dodatkową próbą.
+    - 11j4) Jeśli błąd zostanie zauważony dopiero po zawodach, wynik zostanie uznany za DNS.
 
 
 ## <article-12><notation><notation> Artykuł 12: Notacja
@@ -374,6 +403,7 @@ Uwaga: Ponieważ numery artykułów i regulaminów nie są zmieniane, gdy regula
     - 12h2) Zgodnie z ruchem wskazówek zegara, 120 stopni: R (Warstwa wokół najdalszego widocznego wierzchołka po prawej-dolnej stronie), U (Warstwa wokół najdalszego widocznego górnego wierzchołka), L (Warstwa wokół najdalszego widocznego wierzchołka po lewego-dolnej stronie) , B (Warstwa wokół niewidocznego, tylnego wierzchołka).
     - 12h3) Odwrotnie do ruchu wskazówek zegara, 120 stopni: R’ (Warstwa wokół najdalszego widocznego wierzchołka po prawej-dolnej stronie), U’ (Warstwa wokół najdalszego widocznego górnego wierzchołka), L’ (Warstwa wokół najdalszego widocznego wierzchołka po lewego-dolnej stronie) , B’ (Warstwa wokół niewidocznego, tylnego wierzchołka).
 - 12i) Definicja: Za ruch uważa się każdą zmianę stanu układanki w rozumieniu notacji zdefiniowanej powyżej, w tym niedopasowanie wykraczające poza limity opisane w [Punkcie 10f](regulations:regulation:10f).
+    - 12i1) Wyjątek: W przypadku Clock tylko zmiany położenia wewnętrznych tarcz zegara są uznawane za ruchy. Zmiany stanu pinów nie są uważane za ruchy.
 
 
 ## <article-A><speedsolving><speedsolving> Artykuł A: Układanie Na Czas
@@ -390,15 +420,20 @@ Uwaga: Ponieważ numery artykułów i regulaminów nie są zmieniane, gdy regula
         - A1b2) Jeśli dostępny jest czas ze timera, jest to oryginalny zarejestrowany czas. W przeciwnym razie (np. gdy timer działał nieprawidłowo, przez ponad 10 minut lub nie był w ogóle używany), czas stopera jest oryginalnym zarejestrowanym czasem.
     - A1c) Zawodnik biorący udział w konkurencji musi być w stanie spełnić jej wymagania. (zob. [Punkt 2k6](regulations:regulation:2k6)).
 - A2) Mieszanie:
-    - A2a) Po wezwaniu do układania, zawodnik musi dostarczyć ułożoną kostkę do strefy mieszaczy. Następnie udaje się do poczekalni, gdzie czeka, aż zostanie wezwany do startu.
+    - A2a) Po wezwaniu na rundę, zawodnik dostarcza ułożoną łamigłówkę do stanowiska mieszaczy.
+        - A2a1)  Jeśli jest używany system z poczekalnią, zawodnik musi pozostać w wyznaczonej poczekalni, dopóki nie zostanie wezwany do wykonania próby. Zawodnik musi powrócić do wyznaczonej poczekalni po zakończeniu każdej próby, jeśli ma więcej prób w rundzie. Wyjątek: zawodnicy mogą opuścić poczekalnie za zgodą Delegata WCA. Kara: dyskwalifikacja pozostałych prób (DNF), według uznania Delegata WCA.
+        - A2a2) Jeśli system z poczekalnią nie jest używany, zawodnik musi pozostać na wyznaczonym stanowisku układania do momentu ukończenia wszystkich prób w rundzie. Wyjątek: zawodnicy mogą opuścić wyznaczone stanowisko układania za zgodą Delegata WCA. Kara: dyskwalifikacja pozostałych prób (DNF), według uznania Delegata WCA.
+        - A2a3) Po owywołaniu rundy, zawodnik nie może podejmować prób wejścia do obszaru wyznaczonego do mieszania, dopóki wszyscy zawodnicy w jego grupie nie zakończą wszystkich prób, chyba że Delegat WCA wyrazi na to zgodę.
     - A2b) Mieszanie, mieszają kostki zgodnie z [Artykułem 4](regulations:article:4).
         - A2b1) W konkurencji Square-1, zespół organizacyjny może zadecydować o dopuszczeniu wsunięcia cienkiego przedmiotu w łamigłówkę aby zabezpieczyć ją przed przypadkowymi ruchami przed rozpoczęciem ułożenia. Jeżeli taka decyzja zapadnie musi to zostać ogłoszone przed startem konkurencji.
     - A2c) Zawodnik nie może mieć kontaktu wzrokowego z kostką od momentu rozpoczęcia mieszania do czasu rozpoczęcia preinspekcji.
         - A2c1) Mieszacz umieszcza przykrywkę nad wymieszaną kostką tak, aby żaden element łamigłówki nie był widoczny dla zawodników ani widzów. Przykrywka pozostaje nad kostką do czasu rozpoczęcia próby.
+        - A2c2) Podczas trwania rundy, zawodnicy nie mogą aktywnie obserwować, jak inny zawodnik wykonuje oficjalną próbę. Jeśli zawodnik obserwuje innego zawodnika wykonującego ułożenie na danym pomieszaniu, którego jeszcze nie otrzymał, odpowiednia próba jest traktowana jako DNF.
     - A2d) Sędzia odbierający kostkę od mieszacza powinien sprawdzić poprawność wymieszania kostki. W przypadku wątpliwości zgłasza je mieszaczowi, który dokładnie sprawdza poprawność wymieszania.
-        - A2d1) Mieszacz lub upoważniony sędzia musi sprawdzić pomieszaną łamigłówkę i podpisać (lub parafować) kartę wyników, aby potwierdzić, że zastosował prawidłowo pomieszaną i sprawdził, czy pasuje ona do obrazka (zob. [Punkt 4g](regulations:regulation:4g)). Wyjątki: dla 6x6x6, 7x7x7, oraz Megaminx mieszacz może podpisać (lub paraować) że kostka jest pomieszana wystarczająco (zob. [Punkt 4g1](regulations:regulation:4g1)).
+        - A2d1) Mieszacz lub autoryzowany sędzia musi sprawdzić wymieszaną łamigłówkę oraz podpisać kartę z wynikami, żeby potwierdzić użycie odpowiedniej sekwencji mieszającej i sprawdził poprawność pomieszania z obrazkiem (patrz [Punkt 4g](regulations:regulation:4g)) Wyjątek: dla 6x6x6, 7x7x7, oraz Megaminx mieszacz może podpisać może podpisać kartę startową, żeby potwierdzić, że kostka jest odpowiednio pomieszana (patrz [Punkt 4g1](regulations:regulation:4g1)). Podpisy mieszacza powinny być konsekwentny i powinny jednoznacznie identyfikować danego mieszacza.
     - A2e) Sędzia umieszcza kostkę na macie w losowej orientacji upewniając się przy tym, że kostka jest całkowicie zakryta.
         - A2e1) Zawodnik nie może prosić sędziego o ustawienie określonej orientacji kostki pod przykrywką. Sędzia nie może w żaden sposób wpływać na orientacje kostki pod przykrywką.
+        - A2e2) Zawodnik nie może samodzielnie odsłonić pudełka na kostkę. Kara: dyskwalifikacja ułożenia (DNF).
 - A3) Preinspekcja:
     - A3a) Zawodnik może obejrzeć kostkę przed każdym ułożeniem.
         - A3a1) Zawodnik ma dokładnie 14.99 sekund na sprawdzenie zagadki i rozpoczęcie jej rozwiązywania.
@@ -414,7 +449,7 @@ Uwaga: Ponieważ numery artykułów i regulaminów nie są zmieniane, gdy regula
         - A3c3) Zawodnik może zresetować timer przed rozpoczęciem ułożenia.
         - A3c4) W konkurencji Square-1: jeżeli łamigłówka jest zabezpieczona dodatkowym przedmiotem wprowadzonym przez zespół organizacyjny, (zob.[Punkt A2b1](regulations:regulation:A2b1)), zawodnik może go usunąć w trakcie preinspekcji.
         - A3c5) W przypadku Square-1 zawodnik nie powinien być karany za żadne przypadkowe ruchy wykonane w granicach [Punktu 10f](regulations:regulation:10f).
-    - A3d) Pod koniec preinspekcji zawodnik odkłada kostkę na macie w dowolnej orientacji. Kara za odłożenie kostki poza matą: Kara czasowa (+2 sekundy)
+    - A3d) Pod koniec preinspekcji zawodnik odkłada kostkę na macie w dowolnej orientacji. Łamigłówka musi być w pełni umieszczona na macie i nie może w całości lub częściowo spoczywać na timerze Stackmat. Kara: kara czasowa (+2 sekundy).
 - A4) Rozpoczęcie ułożenia:
     - A4b) Zawodnik aktywuje licznik poprzez położenie palców na czujnikach timera. Dłonie zawodnika muszą być skierowane w dół oraz położone na timerze od strony zawodnika. Kara: Kara czasowa (+2 sekundy)
         - A4b1) Zawodnik nie może dotykać kostki pomiędzy zakończoną preinspekcją, a początkiem ułożenia. Kara: Kara czasowa (+2 sekundy)
@@ -429,15 +464,16 @@ Uwaga: Ponieważ numery artykułów i regulaminów nie są zmieniane, gdy regula
     - A5c) Zawodnik może przytrzymać łamigłówkę przy powierzchni, aby pomóc w jej układaniu (zob. [Regulation 7f1d](regulations:regulation:7f1d)).
 - A6) Zatrzymywanie ułożenia:
     - A6a) Zawodnik wypuszcza łamigłówkę przed zatrzymaniem rozwiązywania i zatrzymuje rozwiązywanie poprzez zatrzymanie stopera. Jeśli używany jest stoper, sędzia zatrzymuje stoper, gdy tylko zawodnik to zrobi.
+        - A6a1) Jeśli sędzia nie jest natychmiast dostępny, aby zatrzymać stoper, gdy stoper jest w użyciu, zawodnik może zatrzymać stoper.
     - A6b) Zawodnik odpowiada za prawidłowe zatrzymanie timera.
-        - A6b1) Jeżeli timer zatrzyma się przed zakończeniem ułożenia i pokazuje czas poniżej 0,06, wówczas zawodnik otrzymuje dodatkowe ułożenie. Zawodnik traci prawo do dodatkowego ułożenia jeżeli delegat stwierdzi, że zawodnik celowo zatrzymał timer w taki sposób.
-        - A6b2) Jeżeli timer zatrzyma się przed zakończeniem ułożenia i pokazuje czas 0,06 lub wyższy, wówczas ułożenie zostaje zdyskwalifikowane (DNF). Wyjątek: Jeżeli zawodnik zademonstruje, że timer jest uszkodzony, delegat może przyznać dodatkowe ułożenie.
+        - A6b1) Jeżeli timer zatrzyma się przed zakończeniem ułożenia i pokazuje czas poniżej 0,06, wówczas zawodnik otrzymuje dodatkowe ułożenie. Wyjątek: Nie jest wymagane dodatkowe ułożenie, jeśli Delegat WCA stwierdzi, że zawodnik celowo zatrzymał timer w taki sposób lub niepoprawne działanie timera Stackmat jest wynikiem interakcji z timerem Stackmat w nietypowy sposób (np. minimalny kontakt z timerem Stackmat, niepodniesienie rąk w odpowiedni sposób z czujników timera Stackmat).
+        - A6b2) Jeżeli timer zatrzyma się przed zakończeniem ułożenia i pokazuje czas 0,06 lub wyższy, wówczas ułożenie zostaje zdyskwalifikowane (DNF). Wyjątek: Delegat WCA może przyznać dodatkową próbę, jeśli uzna, że timer Stackmat mógł działać nieprawidłowo, a zawodnik nie zatrzymał go celowo.
     - A6c) Zawodnik musi całkowicie zwolnić łamigłówkę przed zatrzymaniem stopera. Kara: dyskwalifikacja próby (DNF). Wyjątek: Jeśli po zatrzymaniu stopera, a przed zwolnieniem łamigłówki, nie zastosowano żadnego ruchu lub jakiejkolwiek zmiany w ustawieniu, zamiast tego może zostać przyznana kara czasowa (+2 sekundy), według uznania sędziego.
     - A6d) Zawodnik musi zatrzymać ułożenie używając wewnętrznych części obu dłoni, układając je płasko na czujnikach timera. Kara: Kara czasowa (+2 sekundy)
     - A6e) Po zatrzymaniu timera zawodnik nie może dotykać łamigłówki, wykonywać nią ruchów ani dokonywać żadnych zmian w jej ułożeniu, dopóki sędzia nie sprawdzi łamigłówki.
         - A6e1) Kara za wykonanie ruchu na łamigłówce po zatrzymaniu timera: dyskwalifikacja próby (DNF).
         - A6e2) Kara za dotknięcie łamigłówki po zatrzymaniu timera bez wykonania żadnego ruchu: kara czasowa (+2 sekundy). Wyjątek: jeśli natychmiast po zatrzymaniu stopera zawodnik dotknie łamigłówki bez wpływu na jej stan, kara czasowa może zostać zniesiona, według uznania sędziego (zob. [Punkt 11f](regulations:regulation:11f)).
-    - A6f) Zawodnik nie może zresetować timera dopóki sędzia nie zapisze wyniku na karcie startowej. Kara: Dyskwalifikacja ułożenia (DNF) według uznania sędziego.
+    - A6f) Zawodnik nie może zresetować timera dopóki sędzia nie zapisze wyniku na karcie startowej. Kara: Dyskwalifikacja ułożenia (DNF) według uznania sędziego. Wyjątek: patrz [Punkt A7c5](regulations:regulation:A7c5).
         - A6f1) Jeśli zawodnik zresetuje timer przed całkowitym zapisaniem wyniku, sędzia nie może zapisać wyniku z pamięci ani z materiału wideo lub fotograficznego, a zamiast tego musi zdyskwalifikować próbę (DNF).
     - A6g) Sędzia określa, czy układanka została ułożona. Jeśli łamigłówka jest nieprawidłowo dokręcona, nie wolno jej dotykać, zanim sędzia nie określi jej ostatecznego stanu.
     - A6h) W przypadku sporu na temat ruchów czy przekręceń, nie mogą one zostać naprawione do czasu rozstrzygnięcia sporu.
@@ -445,14 +481,17 @@ Uwaga: Ponieważ numery artykułów i regulaminów nie są zmieniane, gdy regula
 - A7) Zapisywanie wyników:
     - A7a) Sędzia ustnie informuje zawodnika o osiągniętym wyniku.
         - A7a1) Sędzia powinien wskazać zawodnikowi, że łamigłówka została rozwiązana lub że zostanie nałożona kara.
-    - A7b) Sędzia zapisuje wynik na karcie wyników i podpisuje się obok wyniku, aby potwierdzić, że wynik jest poprawny, kompletny, odpowiednio sformatowany i czytelny.
+    - A7b) Sędzia zapisuje wynik na karcie wyników i podpisuje się obok wyniku, aby potwierdzić, że wynik jest poprawny, kompletny, odpowiednio sformatowany i czytelny. Podpisy sędziów powinny być konsekwentne przez cały czas trwania zawodów i powinny identyfikować sędziego.
         - A7b1) Jeżeli zostały przyznane kary, sędzia zapisuje widoczny na wyświetlaczu wynik razem ze wszystkimi karami. Należy to zrobić według poniższego wzoru: „T + X = F, T to widoczny na timerze wynik, X to suma kar w trakcie i po próbie, a F to wynik końcowy po zsumowaniu. Jeżeli nie wystąpiły kary X lub Y ( O) wówczas sędzia pomija to miejsce. (np. 17.65 + 4 = 21,65)
     - A7c) Sędzia oraz zawodnik muszą za każdym razem sprawdzić poprawność zapisanego wyniku, po czym podpisać kartę startową aby zatwierdzić poprawność, kompletność oraz czytelność wyniku. Ta procedura kończy ułożenie.
         - A7c1) ) Jeżeli zawodnik lub sędzia odmawia akceptacji i podpisu karty startowej, delegat WCA musi rozwiązać spór.
-        - A7c2) Jeśli zawodnik celowo podpisze (lub w inny sposób oznaczy) próbę przed jej rozpoczęciem, rezygnuje z próby, a wynik zostanie uznany za DNS.
+        - A7c2) Jeśli zawodnik celowo podpisze (lub w inny sposób oznaczy) próbę przed jej rozpoczęciem, rezygnuje z próby, a wynik zostanie uznany za DNS. Wyjątek: dla 3x3x3 Wiele Kostek Bez Patrzenia, zawodnik może zapisać na karcie startowej liczbe kostek, którą zadeklarował.
         - A7c3) Jeśli zawodnik podpisze (lub w inny sposób oznaczy) próbę po jej rozpoczęciu, ale przed zakończeniem zapisywania wyniku przez sędziego, próba zostanie uznana za nieukończoną (DNF).
         - A7c4) Zawodnik nie powinien podpisywać próby przed jej zapisaniem i podpisaniem przez sędziego. Zawodnik jest ostatecznie odpowiedzialny za upewnienie się, że on i sędzia podpisali próbę. Jeśli okaże się, że w próbie brakuje jednego lub obu podpisów po tym, jak sędzia dostarczył kartę wyników do osoby zapisującej wyniki (zob. [Punkt A7f](regulations:regulation:A7f)), próba zostanie uznana za nieukończoną (DNF).
         - A7c5) Brakujące podpisy znalezione przed zakończeniem zawodów (zob. [Punkt 9u](regulations:regulation:9u)) mogą zostać dodane przez sędziego i/lub zawodnika, według uznania Delegata WCA.
+        - A7c6) Podpisy zawodników powinny być spójne przez cały czas trwania zawodów i powinny identyfikować zawodnika. Zawodnicy nie mogą celowo składać nieprawidłowych podpisów. Kara: dyskwalifikacja próby (DNF), według uznania Delegata WCA.
+        - A7c7) Zawodnik nie powinien zaznaczać na karcie wyników niczego poza miejscem przeznaczonym na jego podpis.
+        - A7c8) Jeśli podpis został pominięty z powodu braku doświadczenia zawodnika, może on zostać dodany w dowolnym momencie, według uznania Delegata WCA. Jeśli nie ma możliwości fizycznego podpisania karty wyników przez zawodnika lub sędziego, zaświadczenie o prawidłowym zapisie wyniku może zostać zaakceptowane jako podpis, według uznania Delegata WCA.
     - A7f) Jeżeli karta zawodnicza w danej rundzie jest wypełniona, wówczas sędzia zanosi ją do rejestratora wyników.
     - A7g) W przypadku incydentów spowodowanych brakiem doświadczenia początkujących zawodników, delegat WCA może zdecydować o przyznaniu dodatkowego ułożenia.
 
@@ -481,7 +520,8 @@ Uwaga: Ponieważ numery artykułów i regulaminów nie są zmieniane, gdy regula
     - B4b) Zawodnik nie może wykonywać ruchów ani celowo zmieniać ustawienia łamigłówki przed całkowitym założeniem opaski na oczy. Kara: dyskwalifikacja próby (DNF).
     - B4c) Sędzia musi się upewnić, że w trakcie układania między twarzą zawodnika, a łamigłówką znajduje się nieprzezroczysty przedmiot.
         - B4c1) We wszystkich przypadkach, zawodnik musi nosić opaskę w taki sposób, aby całkowicie zasłaniała widok na łamigłówkę. Zwłaszcza w sytuacji, nieprawidłowego trzymania przedmiotu blokującego widok.
-        - B4c3) Po wstępnej akceptacji zawodnika i sędziego, zawodnik może samodzielnie schować łamigłówkę za inny obiekt (np. stojak muzyczny, blat stołu).
+        - B4c2) Bloker wizji musi być umieszczony w taki sposób, aby widoczność łamigłówki przez zawodnika była nadal wyraźnie zablokowana, gdyby nie miał on opaski na oczach.
+        - B4c3) Jeśli sędzia i zawodnik uzgodnią to wcześniej lub jeśli jest to wymagane przez zespół organizacyjny, odpowiedni przedmiot (np. statyw muzyczny, powierzchnia stołu) umieszczony przez zawodnika może być użyty jako bloker wizji. Zawodnik musi podjąć rozsądną próbę samodzielnego umieszczenia blokera. Kara: dyskwalifikacja próby (DNF). Jeśli bloker wizji nie jest umieszczona w taki sposób, że widok zawodnika na układankę byłby nadal wyraźnie zablokowany, gdyby nie nosił opaski na oczy, sędzia powinien umieścić dodatkowy bloker wizji.
     - B4d) Zawodnik w żadnej sytuacji nie może patrzeć na kostkę w trakcie fazy układania bez patrzenia. Kara: Dyskwalifikacja ułożenia (DNF)
 - B5) Zatrzymywanie ułozenia:
     - B5a) Jeżeli używany jest timer Speedstack, zawodnik zatrzymuje ułożenie poprzez wypuszczenie kostki z rąk i położenie rąk na czujnikach timera, zatrzymując czas.
@@ -508,34 +548,31 @@ Uwaga: Ponieważ numery artykułów i regulaminów nie są zmieniane, gdy regula
         - E2a1) Przed rozpoczęciem próby zawodnik nie może pisać na żadnym papierze przeznaczonym do próby. Wyjątek: zawodnik może napisać informacje identyfikujące próbę (zob. [Punkt E2c1](regulations:regulation:E2c1)). Jeśli napisze te informacje na papierze zawierającym sekwencję mieszającą, musi pisać tylko na stronie bez sekwencji mieszającej przed rozpoczęciem próby. Kara za napisanie czegokolwiek innego niż informacje identyfikujące próbę: dyskwalifikacja próby (DNF).
     - E2b) Wszyscy zawodnicy mają czas 60 min na zapisanie rozwiązania.
         - E2b1) Sędzia powinien podać komunikat: „POZOSTAŁO 5 MINUT” po upływie 55 minut. Dodatkowo musi powiedzieć „STOP” po upływie 60 minut.
-    - E2c) Po upływie 60 minut każdy zawodnik musi przedłożyć sędziemu pojedynczą kartkę papieru z zapisanym rozwiązaniem i informacjami umożliwiającymi identyfikację próby.
-        - E2c1) Informacje umożliwiające identyfikację próby to: imię i nazwisko zawodnika, identyfikator WCA ID lub identyfikator zarejestrowanego uczestnika zawodów (co najmniej jeden, opcjonalnie kilka) oraz opcjonalnie nazwa zawodów, runda lub numer próby. Kara za przedłożenie rozwiązania bez imienia i nazwiska, identyfikatora WCA lub identyfikatora zarejestrowanego zawodnika: dyskwalifikacja próby (DNF).
-        - E2c2) Rozwiązanie musi być pojedynczą, jednoznaczną sekwencją ruchów z każdym pojedynczym ruchem zapisanym w kolejności. Kara za niejednoznaczne rozwiązanie: dyskwalifikacja próby (DNF).
-        - E2c3) Zawodnik powinien wyraźnie zaczernić/zakreślić wszystkie ruchy na papierze, które nie są częścią jego zamierzonego rozwiązania.
-        - E2c4) Rozwiązanie zawodnika musi wykorzystywać wyłącznie ruchy, które są dokładnie zdefiniowane jako notacja dla kostki 3x3x3 w [Punkcie 12a](regulations:regulation:12a) i nie może wykorzystywać żadnych symboli ani kombinacji symboli, które nie są tam wyraźnie zdefiniowane. Kara: dyskwalifikacja próby (DNF).
-        - E2c5) Rozwiązanie zawodnika uznaje się za prawidłowe, jeśli zaczynając od rozwiązanej łamigłówki i stosując sekwencję pomieszaną, po której następuje rozwiązanie, uzyskuje się rozwiązaną łamigłówkę. Kara za nieprawidłowe rozwiązanie: dyskwalifikacja próby (DNF).
+    - E2c) Po upływie 60 minut, każdy zawodnik musi przedłożyć sędziemu pojedynczą kartkę papieru z zapisanym rozwiązaniem i informacjami identyfikującymi próbę. Rozwiązanie zawodnika uznaje się za poprawne, jeśli zaczynając od rozwiązanej łamigłówki i stosując sekwencję mieszającą, po której następuje rozwiązanie, uzyskuje się ułożoną łamigłówkę. Kara za nieprawidłowe rozwiązanie: dyskwalifikacja próby (DNF).
+        - E2c1) Informacje umożliwiające identyfikację próby to: imię i nazwisko zawodnika, WCA ID lub ID zarejestrowanego uczestnika zawodów (co najmniej jeden, opcjonalnie kilka) oraz opcjonalnie nazwa zawodów, runda lub numer próby. Kara za oddanie rozwiązania bez informacji identyfikujących próbę: dyskwalifikacja próby (DNF). Informacje identyfikujące próbę mogą zostać dodane przez zawodnika po oddaniu próby, ale przed zakończeniem zawodów, według uznania Delegata WCA i pod bezpośrednim nadzorem sędziego. Zawodnik nie może dopisywać niczego po upływie limitu czasu bez nadzoru sędziego i nie może dokonywać żadnych zmian w rozwiązaniu. Kara: dyskwalifikacja próby (DNF).
+        - E2c2) Rozwiązanie musi być jednoznaczną sekwencją ruchów z każdym ruchem zapisanym w kolejności. Kara za niejednoznaczne rozwiązanie: dyskwalifikacja próby (DNF).
+        - E2c3) Zawodnik powinien jasno określić, które ruchy mają być częścią jego rozwiązania, wyraźnie zaczerniając/wykreślając ruchy, które mają zostać wykluczone, lub rysując pojedynczy kontur wokół swojego rozwiązania.
+        - E2c4) Tylko cyfry, litery i apostrofy są brane pod uwagę jako część rozwiązania zawodnika. Inne symbole nie są brane pod uwagę. Pozostałe symbole muszą wykorzystywać wyłącznie ruchy, które są dokładnie zdefiniowane jako notacja dla kostki 3x3x3 w [punkcie 12a](regulations:regulation:12a). Kara: dyskwalifikacja próby (DNF).
+        - E2c6) Jeśli zawodnik użył nieprawidłowej wielkości liter dla ruchu zdefiniowanego w [punkcie 12a](regulations:regulation:12a), powinien być interpretowany tak, jakby miał prawidłową wielkość liter i akceptowany jako prawidłowy zapis.
+        - E2c7) Wszelkie napisy lub inne oznaczenia na arkuszu rozwiązania, które wyraźnie nie są częścią zamierzonego rozwiązania zawodnika, mogą zostać pominięte, według uznania sędziego.
+        - E2c8) Zawodnicy nie mogą celowo utrudniać oceny swojego rozwiązania poprzez używanie ruchów lub symboli niezdefiniowanych jako notacja dla kostki 3x3x3, nieprawidłową pisownię lub w jakikolwiek inny sposób. Kara: dyskwalifikacja próby (DNF) według uznania Delegata WCA.
     - E2d) Długość rozwiązania ustalana jest na podstawie systemu OBTM (zob. [Punkt 12a5](regulations:regulation:12a5)).
         - E2d1) Rozwiązanie zawodnika nie może przekraczać 80 ruchów (łącznie z obrotami), jeśli jest obliczane przy użyciu metryki Execution Turn (zob. [Punkt 12a6](regulations:regulation:12a6)). Kara: dyskwalifikacja próby (DNF).
     - E2e) Rozwiązanie w żadnej części nie może nawiązywać do algorytmu mieszającego. Kara: Dyskwalifikacja ułożenia (DNF) na podstawie decyzji delegata.
         - E2e1) Delegat WCA może poprosić zawodnika o wyjaśnienie celu każdego ruchu w rozwiązaniu, niezależnie od algorytmu mieszającego. Jeżeli zawodnik nie potrafi podać rzetelnego wyjaśnienia, próba zostaje zdyskwalifikowana (DNF).
 - E3) Zawodnik może używać następujących przedmiotów podczas próby. Kara za używanie niedozwolonych przedmiotów: dyskwalifikacja próby (DNF).
     - E3a) Papier (dostarczony przez sędziego), arkusz rozwiązania (dostarczony przez sędziego), ilustracja scramble'a dla danej próby (która może być umieszczona na papierze lub arkuszu rozwiązania) oraz długopisy/ołówki lub podobne (dostarczone przez sędziego lub opcjonalnie dostarczone samodzielnie).
-    - E3b) Kostki Rubika (maksymalnie 3, własne), które muszą być zgodne z  [Artykułem 3](regulations:article:3) przed rozpoczęciem próby.
+    - E3b) Kostki Rubika (maksymalnie 3, własne), które muszą być zgodne z [Artykułem 3](regulations:article:3) przed rozpoczęciem próby.
     - E3c) Naklejki (własne)
     - E3d) Stoper ręczny lub zegarek (własny) do mierzenie czasu, po akceptacji delegata WCA.
     - E3e) Inne pomoce nieelektroniczne, które nie dają nieuczciwej przewagi, według uznania Delegata WCA (zob. [Punkt 2i1](regulations:regulation:2i1)).
     - E3f) Narzędzia do usuwania oznaczeń (we własnym zakresie), takie jak korektor (w płynie lub taśmowy) lub gumki do ścierania.
 - E4) Delegat WCA może zdecydować się na publikację rozwiązań (np. zdjęcie kart wyników lub transkrypcje rozwiązań).
 - E5) Zawodnik nie może komunikować się z nikim innym niż Delegat WCA lub sędzia. Komunikacja ta powinna dotyczyć punktów regulaminu WCA, a zawodnik nie może otrzymywać pomocy w uzyskaniu rozwiązania. Kara: dyskwalifikacja próby (DNF).
-
-
-## <article-F><clock><clocksolving> Artykuł F: Układanie Rubik's Clock
-
-- F1) Standardowe procedury szybkiego układania opisane w [Artykule A](regulations:article:A) (Układanie Na Czas) mają tutaj zastosowanie. Dodatkowe przepisy, które zastępują procedury [Artykułu A](regulations:article:A), są opisane poniżej:
-- F2) Zespół organizacyjny może użyć specjalnych pudełek na układankę, aby zapobiec jej upadkowi przed rozpoczęciem próby. Jeśli takie pudełka są używane, zespół organizacyjny powinien ogłosić to przed rozpoczęciem rundy.
-- F3) Zawodnik może manipulować pinami w trakcie inspekcji. Wciśnięcie pina nie jest liczone jako ruch.
-- F4) Zawodnik nie może zmieniać stanu wewnętrznych zegarów w trakcie inspekcji.
-Kara: Dyskwalifikacja ułożenia (DNF)
+- E6) Zawodnik może dołączyć do próby 3x3x3 Najmniejszą Liczbą Ruchów, która już trwa, według uznania Delegata WCA. Wyjątek: Zawodnik nie może dołączyć do trwającej próby w następujących przypadkach:
+    - E6a) Zawodnik zakończył już swoją próbę (zob. [Punkt E2b+](guidelines:guideline:E2b+))
+    - E6b) Próba ma miejsce w zawodach z wieloma lokalizacjami (np. „Zawody 3x3x3 Fewest Moves symultaniczne”).
+    - E6c) Istnieje ryzyko, że informacje o sekwencji mieszającej mogą być znane zawodnikowi, który chce dołączyć do próby.
 
 
 ## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Artykuł H: Układanie Wielu Kostek Bez Patrzenia
@@ -544,7 +581,7 @@ Kara: Dyskwalifikacja ułożenia (DNF)
     - H1a) Przed rozpoczęciem próby, zawodnik musi zadeklarować zespołowi organizacyjnemu liczbę kostek (minimum 2) jakie zamierza ułożyć.
         - H1a1) Zawodnik nie możne zmieniać liczby zadeklarowanych kostek.
         - H1a2) Zawodnik może poprosić o zatajenie tej informacji do czasu kiedy wszyscy zawodnicy zadeklarują liczbę układanych kostek. Po zebraniu deklaracji wszystkich zawodników informacja staje się jawna. (np. przed startem własnego ułożenia, zawodnik może poprosić o ujawnienie liczby kostek zadeklarowanych przez innych zawodników)
-        - H1a3) Przed przystąpieniem do próby, pomieszane łamigłówki należy umieścić na stole w dowolnej orientacji, upewniając się jednocześnie, że pozostają one całkowicie zakryte. Łamigłówki powinny być ułożone w kształcie jak najbardziej zbliżonym do kwadratu (np. 8 łamigłówek powinno być ułożonych w 2 rzędach z 3 łamigłówkami i 1 rzędzie z 2 łamigłówkami).
+        - H1a3) Przed przystąpieniem do próby, pomieszane łamigłówki należy umieścić na stole w dowolnej orientacji, upewniając się jednocześnie, że pozostają one całkowicie zakryte. Łamigłówki powinny być ułożone w kształcie jak najbardziej zbliżonym do kwadratu oraz nie powinny być układane na sobie (np. 8 łamigłówek powinno być ułożonych w 2 rzędach z 3 łamigłówkami i 1 rzędzie z 2 łamigłówkami oraz ułożone jako jedna warstwa).
     - H1b) Jeżeli zawodnik zadeklarował mniej niż 6 kostek, obowiązuje limit 10 min na każdą kostkę. Limit konkurencji wynosi 60 minut.
         - H1b1) Zawodnik może zasygnalizować zakończenie ułożenia w dowolnym czasie. W sytuacji osiągnięcia limitu czasowego, zatrzymuje próbę i zapisuje wynik na karcie startowej. Limit czasowy zapisywany jest jako finalnie osiągnięty czas.
     - H1d) Kary czasowe dla każdej kostki są kumulowane.
