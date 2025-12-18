@@ -43,7 +43,7 @@ Mỗi quy định được phân loại bằng một trong các nhãn sau để 
 ## <article-2><competitors><competitors> Mục 2: Thí sinh
 
 - 2c+) [BỔ SUNG] Thí sinh mới phải đăng ký bằng tên trên giấy tờ hoặc tên mà thí sinh thường dùng ngoài đời. Tên họ của thí sinh phải giống tên họ trên giấy tờ.
-- 2c2+) [LÀM RÕ] Hồ sơ WCA là bộ dữ liệu liên quan đến thí sinh, bao gồm thông tin cá nhân (tên, quốc tịch, giới tính, ngày tháng năm sinh) và kết quả thi đấu tại các giải đấu WCA chính thức.
+- 2c2+) [LÀM RÕ] Hồ sơ WCA là bộ dữ liệu liên quan đến thí sinh, bao gồm thông tin cá nhân (tên, quốc tịch, giới tính, ngày tháng năm sinh) và kết quả thi đấu tại các giải đấu được WCA chính thức công nhận.
 - 2d+) [BỔ SUNG] Thông tin về ngày sinh và thông tin liên lạc nên được bảo mật cẩn trọng.
 - 2d++) [NHẮC NHỞ] Nếu bên thứ ba (VD: cơ quan báo chí) muốn ban tổ chức cung cấp thông tin liên lạc của thí sinh thì ban tổ chức phải xin phép các thí sinh liên quan trước.
 - 2e+) [LÀM RÕ] Nếu thí sinh có nhiều quốc tịch, thí sinh được phép chọn sẽ đại diện cho khu vực nào tại giải đấu đầu tiên của thí sinh.
@@ -58,7 +58,7 @@ Mỗi quy định được phân loại bằng một trong các nhãn sau để 
 - 2i+++++++) [LÀM RÕ] Các thiết bị điện tử đã tháo bỏ hết toàn bộ các linh kiện điện tử được phép sử dụng, tùy theo quyết định của WCA Delegate.
 - 2i1b+) [LÀM RÕ] Bao gồm cả các thiết bị đã ngắt kết nối hoặc tắt nguồn.
 - 2i2+) [LÀM RÕ] Thí sinh được cầm máy quay hoặc đeo máy quay hoặc microphone ở bất cứ đâu trên cơ thể, miễn sao màn hình hiển thị nguồn quay trực tiếp của máy quay ở ngoài tầm nhìn của thí sinh.
-- 2j2+) [VÍ DỤ] Ví dụ, nếu thí sinh bị truất quyền thi đấu khỏi nội dung vì không đến tham gia thi vòng chung kết, các kết quả của thí sinh này tại các vòng trước vẫn hợp lệ.
+- 2j2+) [VÍ DỤ] Ví dụ, nếu thí sinh bị truất quyền thi đấu khỏi một nội dung vì không tham gia thi vòng chung kết, các kết quả của thí sinh này tại các vòng trước vẫn hợp lệ.
 - 2j2++) [VÍ DỤ] Nếu thí sinh bị WCA Delegate truất quyền thi đấu vào lượt thi thứ 3, chỉ có kết quả của lượt thứ 3 này và các lượt sau đó bị hủy, kể cả nếu sự việc dẫn đến việc truất quyền xảy ra trước lượt thi này.
 - 2k6+) [LÀM RÕ] WCA Delegate chỉ nên sử dụng quyền truất quyền thi đấu để ngăn thí sinh gây cản trở trầm trọng cho giải đấu (VD: lãng phí thời gian/tài nguyên của giải đấu). Thí sinh không nên bị truất quyền thi đấu do kết quả "kém" mặc dù đang thi đấu hết khả năng của mình.
 - 2n3+) [BỔ SUNG] Thí sinh có thể đệ đơn khiếu nại cho cấp cao hơn xem xét bằng cách làm theo quy trình được mô tả trong [Kiến nghị về Khiếu nại](https://documents.worldcubeassociation.org/documents/motions/16.2024.1%20-%20Disputes.pdf).
@@ -130,7 +130,7 @@ Mỗi quy định được phân loại bằng một trong các nhãn sau để 
 - 9f2+) [BỔ SUNG] Đối với nội dung Giải Bịt mắt nhiều 3x3x3, trọng tài nên ghi số khối hình đã giải xong, tổng số khối hình, và thời gian cuối cùng. Ví dụ, nếu thí sinh giải xong 3 trên 5 khối hình trong 40 phút 30 giây, kết quả ghi lại là 3/5 40:30.
 - 9f4+) [LÀM RÕ] Kết quả lượt thi nên là DNF nếu thí sinh đã bắt đầu lượt thi bằng cách xác nhận đã sẵn sàng (xem [Quy định A3b2](regulations:regulation:A3b2)) nhưng kết quả bị hủy.
 - 9f5+) [LÀM RÕ] Nếu thí sinh không đạt điều kiện để thực hiện lượt thi (VD: vòng thi có cutoff) thì thí sinh không có kết quả cho lượt thi đó.
-- 9l1+) [LÀM RÕ] Kết quả DNF được coi là kết quả hợp lệ. Không được phép cho lượt thi bổ sung nếu việc thí sinh dùng khối hình phạm quy được phát hiện sau khi vòng thi đã kết thúc (xem [Quy định 3k2a](regulations:regulation:3k2a)).
+- 9l1+) [LÀM RÕ] Kết quả DNF thường được coi là kết quả hợp lệ. Không được phép cho lượt thi bổ sung nếu việc thí sinh dùng khối hình phạm quy được phát hiện sau khi vòng thi đã kết thúc (xem [Quy định 3k2a](regulations:regulation:3k2a)).
 - 9l1++) [VÍ DỤ] Ví dụ cho lượt thi không hợp lệ: khối hình bị tráo sai, kết quả không thể tìm được nữa (VD: thất lạc phiếu điểm).
 - 9p2+) [LÀM RÕ] "Kết quả" chỉ kết quả đơn hoặc trung bình xác định thứ hạng của thí sinh cho vòng thi đó.
 - 9p2b+) [BỔ SUNG] Nếu không đủ thí sinh đại diện cho khu vực cho các vị trí được giữ riêng, các vị trí này được dành cho các thí sinh có kết quả tốt nhất đại diện cho bất kì khu vực nào.
@@ -207,7 +207,7 @@ Mỗi quy định được phân loại bằng một trong các nhãn sau để 
 - A5b++) [LÀM RÕ] Nếu một bộ phận của khối hình bị bung ra (xem [Quy định 5a](regulations:regulation:5a)), thí sinh không được nhờ người khác tìm hoặc nhặt bộ phận đó lên, và trọng tài nên ngăn không cho người khác hỗ trợ thí sinh. Nếu có người nhặt bộ phận bị bung ra cho thí sinh, trọng tài hoặc thí sinh có thể yêu cầu người đó đặt bộ phận lên trên bàn thi đấu và không hỗ trợ thêm gì nữa.
 - A5b+++) [LÀM RÕ] WCA Delegate không nên cho thí sinh thi lượt bổ sung chỉ vì đã có người nhặt một bộ phận khối hình bị bung ra lên giúp thí sinh.
 - A6b1+) [GIẢI THÍCH] Giới hạn 0.06 giây được chọn để dễ dàng xử lý các trường hợp đồng hồ Stackmat bị lỗi.
-- A6e+) [LÀM RÕ] Nếu khối hình rơi vào lòng thí sinh sau khi dừng đồng hồ, thí sinh bị tính là đã chạm vào khối hình.
+- A6e+) [LÀM RÕ] Nếu khối hình rơi vào giữa đùi thí sinh sau khi dừng đồng hồ, thí sinh bị tính là đã chạm vào khối hình.
 - A6e++) [LÀM RÕ] Nếu [Quy định A6c](regulations:regulation:A6c) được dùng để áp dụng hình phạt cho một lượt thi, các hình phạt trong [Quy định A6e](regulations:regulation:A6e) chỉ nên áp dụng nếu thí sinh thả khối hình ra, sau đó lại chạm tay vào trước khi trọng tài kịp kiểm tra khối hình.
 - A7c+) [BỔ SUNG] Nếu kết quả đã có chữ ký của thí sinh không hoàn thiện hoặc không thể đọc được, kết quả sẽ được hiểu theo cách sao cho kết quả kém nhất có thể (VD: "1:05" được tính là 1:05.99, "25.X3" được tính là 25.73 nếu số X có thể là 1 hoặc 7). Bởi vì đồng hồ Stackmat hiển thị thời gian dưới dạng X:0Y.ss thành X:Y.ss, chữ số hàng chục thường sẽ dễ bị thiếu hơn chữ số hàng đơn vị (VD: "1:2.27" được tính là 1:02.27). Trọng tài ký xác nhận kết quả chưa rõ ràng có thể được yêu cầu làm rõ kết quả này, tùy theo quyết định của người nhập liệu.
 - A7c6+) [VÍ DỤ] Ví dụ các dạng chữ ký nhận dạng thí sinh: Họ tên (bao gồm viết tắt), WCA ID, số báo danh thí sinh, biệt danh của thí sinh.
