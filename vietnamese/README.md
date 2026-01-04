@@ -63,6 +63,7 @@ The following people have contributed to the translation throughout the years:
 |Speed Solving|Giải Tốc độ|
 |Stackmat|Stackmat|
 |Stackmat timer|đồng hồ Stackmat|
+|Speedsolving timer|đồng hồ tính thời gian giải|
 |stopwatch|đồng hồ bấm giờ|
 |surface|mặt bàn|
 |timer|đồng hồ|
