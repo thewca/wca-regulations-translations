@@ -14,7 +14,7 @@ mkdir "build"
 for l in $LANGUAGES; do
   INPUTDIR=${l}
   echo "Doing check for language "${l}
-  wrc --target=check $INPUTDIR
+  wrc $INPUTDIR/wca-regulations.md --target=check
   RET=$(($RET+$?))
 done
 echo "================================="
