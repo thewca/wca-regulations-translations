@@ -250,8 +250,8 @@ Let op:  Omdat Artikel- en Reglementnummers niet opnieuw worden toegewezen wanne
 
 ## <article-5><puzzle-defects><puzzledefects> Artikel 5: Puzzeldefecten
 
-- 5a) Voorbeelden van puzzeldefecten zijn losgekomen onderdelen, verdraaide stukjes op hun plaats en loszittende schroeven/kapjes/stickers.-
- 5b) Als er tijdens een poging een puzzeldefect optreedt, kan de deelnemer ervoor kiezen om het defect te herstellen en de poging voort te zetten, of om de poging te stoppen.
+- 5a) Voorbeelden van puzzeldefecten zijn losgekomen onderdelen, verdraaide stukjes op hun plaats en loszittende schroeven/kapjes/stickers.
+- 5b) Als er tijdens een poging een puzzeldefect optreedt, kan de deelnemer ervoor kiezen om het defect te herstellen en de poging voort te zetten, of om de poging te stoppen.
     - 5b1) Als een deelnemer ervoor kiest om de puzzel te herstellen, mogen alleen de defecte onderdelen hersteld worden. Gereedschap en/of delen van andere puzzels mogen niet worden gebruikt om de originele puzzel te herstellen.  Straf: diskwalificatie van de poging (DNF).
     - 5b2) Herstelacties aan een puzzel mogen de deelnemer geen enkel voordeel opleveren bij het oplossen van de puzzel. Straf: diskwalificatie van de poging (DNF).
     - 5b3) Toegestane herstellingen:
@@ -632,7 +632,7 @@ Let op:  Omdat Artikel- en Reglementnummers niet opnieuw worden toegewezen wanne
     - A4e) Tijdstraffen voor het starten van het oplossen zijn cumulatief.
     - A4f) De deelnemer is verantwoordelijk voor het correct starten van de speedsolving timer.
 - A5) Tijdens het oplossen:
-    A5a) Tijdens het inspecteren of oplossen van de puzzel mag de deelnemer niet communiceren met iemand anders dan de judge of de WCA Delegate. Straf: diskwalificatie van de poging (DNF). Uitzondering: Als de deelnemer geen voordeel behaalt door te communiceren met iemand anders dan de judge of de WCA Delegate, mag het resultaat behouden blijven, ter beoordeling van de WCA Delegate.
+    - A5a) Tijdens het inspecteren of oplossen van de puzzel mag de deelnemer niet communiceren met iemand anders dan de judge of de WCA Delegate. Straf: diskwalificatie van de poging (DNF). Uitzondering: Als de deelnemer geen voordeel behaalt door te communiceren met iemand anders dan de judge of de WCA Delegate, mag het resultaat behouden blijven, ter beoordeling van de WCA Delegate.
     - A5b) Tijdens het inspecteren of oplossen van de puzzel mag de deelnemer geen assistentie bij het oplossen van de puzzel krijgen van iemand of een ander object dan het oppervlak (zie ook [Reglement 2i](regulations:regulation:2i)). Straf: diskwalificatie van de poging (DNF).
     - A5b+) [VERDUIDELIJKING] Tijdens het inspecteren of het oplossen van de puzzel, kan de deelnemer de puzzel met elk deel van zijn lichaam aanraken. Uitzondering: 3x3x3 Met één hand (zie [Reglement C1b](regulations:regulation:C1b)).
     - A5b++) [VERDUIDELIJKING] Als een deel van de puzzel van een deelnemer eruit springt of losraakt (zie [Reglement 5a](regulations:regulation:5a)), mag de deelnemer niet om hulp vragen om het deel terug te vinden en de jury dient te proberen voorkomen dat anderen helpen. Als iemand een losgekomen deel voor de deelnemer opraapt, mag de judge of de deelnemer hem/haar vragen om het deel op de wedstrijdtafel te leggen en niet verder te helpen.
