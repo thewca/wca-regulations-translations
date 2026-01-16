@@ -115,7 +115,7 @@ Lưu ý: Vì số thứ tự của các Mục và Quy định không được s�
         - 2i1b) Chụp tai hoặc nút bịt tai không có linh kiện điện tử, không bao gồm tai nghe điện tử chụp tai hoặc nhét tai (xem [Quy định 2i2a](regulations:regulation:2i2a)).
         - 2i1c) Thức ăn và thức uống.
         - 2i1d) Túi chườm làm ấm tay, kể cả các loại túi chườm có linh kiện điện tử.
-        - 211e) Máy quay, bao gồm điện thoại di động được sử dụng để ghi hình. Màn hình máy quay phải tắt hoặc ngoài tầm nhìn của thí sinh.
+        - 2i1e) Máy quay, bao gồm điện thoại di động được sử dụng để ghi hình. Màn hình máy quay phải tắt hoặc ngoài tầm nhìn của thí sinh.
     - 2i2) Không được phép sử dụng các vật dụng sau đây trong khi lượt thi đang diễn ra:
         - 2i2a) Các thiết bị có khả năng phát âm thanh mà chỉ có thí sinh có thể nghe được, nhưng trọng tài lại không thể nghe được (VD: tai nghe điện tử chụp tai, hoặc nhét tai), bao gồm các thiết bị đã tắt hoặc ngắt kết nối. Ngoại lệ: thí sinh được phép sử dụng các thiết bị hỗ trợ y tế thuộc vào diện này (VD: máy trợ thính) nếu không có thiết bị phù hợp thay thế.
         - 2i2b) Các thiết bị hiển thị thông tin bằng màn hình trong tầm nhìn của thí sinh (VD: điện thoại di động, máy tính bảng)
