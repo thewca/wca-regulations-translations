@@ -1,6 +1,164 @@
+Conversation unstarred. Conversation opened. 7 messages. All messages read.
+
+Skip to content
+Using World Cube Association Mail with screen readers
+label:0.ongoing 
+
+1 of 14
+Regulations 2026 (UPDATE) Translation Dutch
+Inbox
+0.ONGOING
+
+koenvanpoucke@telenet.be
+Attachments
+Jan 6, 2026, 5:42 PM (12 days ago)
+to rjuan, me
+
+Hi,
+
+Best wishes for 2026 :-)
+
+There was a mistake in my Dutch translation (article "I2a4" was incorrect).
+Here is the updated version for publication.
+
+Greetings,
+Koen
+
+
+Van: koenvanpoucke@telenet.be
+Aan: "rjuan" <rjuan@worldcubeassociation.org>
+Cc: "Han Wu" <hwu@worldcubeassociation.org>
+Verzonden: Vrijdag 12 december 2025 15:02:38
+Onderwerp: Regulations 2026 - Translation Dutch
+
+Hi,
+
+Here is the Dutch translation of version 2026 of the Regulations.
+It has been checked by delegate Manu so OK to publish.
+
+I changed the Version date on top to "1 januari 2026".
+
+French and Spanish updates will follow when I have time for it :-)
+
+Best regards,
+Koen
+
+ One attachment
+  •  Scanned by Gmail
+
+Han Wu <hwu@worldcubeassociation.org>
+Jan 11, 2026, 5:32 PM (7 days ago)
+to Regulations, koenvanpoucke, rjuan
+
+hi Koen,
+
++WRC
+
+Thank you very much for the file.
+I assume this file has been reviewed by a local Delegate?
+--
+Han Wu
+Member of WCA Regulations Committee
+Junior Delegate, Japan
+
+koenvanpoucke@telenet.be
+Jan 11, 2026, 6:13 PM (7 days ago)
+to me, rjuan, Regulations
+
+Hi,
+ 
+Yes. Belgian delegate Manu has checked it and he had no remarks.
+ 
+Please note for art. E2c1: I've just noticed that t doesn't start on a new line so you have to add an ENTER.
+ 
+The Spanish update is in progress and next will be the French version (I also have to merge the French Regulations and Guidelines so this will take some more time to do).
+ 
+Kind regards,
+Koen
+ 
+ 
+ 
+ 
+ 
+Van: Han <hwu@worldcubeassociation.org>
+naar: koenvanpoucke <koenvanpoucke@telenet.be>
+CC: rjuan <rjuan@worldcubeassociation.org>; Regulations <wrc@worldcubeassociation.org>
+datum: zondag 11 januari 2026 09:33 CET
+Onderwerp: Re: Regulations 2026 (UPDATE) Translation Dutch
+
+ 
+World Cube Association
+https://www.worldcubeassociation.org/
+ 
+The content of this email is confidential and intended for the recipients specified in the message only. It is strictly forbidden to share any part of this message with any third party, without a written consent of the sender. If you received this message by mistake, please reply to this message and follow with its deletion, so that we can ensure such a mistake does not occur in the future.
+
+Han Wu <hwu@worldcubeassociation.org>
+Jan 11, 2026, 9:32 PM (7 days ago)
+to koenvanpoucke, rjuan, Regulations
+
+Hi Koen
+
+Understood, thanks!
+
+koenvanpoucke@telenet.be
+Jan 13, 2026, 4:52 PM (5 days ago)
+to me, rjuan, Regulations
+
+Hi,
+
+There is a small typo in the English Regulations:
+
+- A7b1) (...) 3x3x3 Mulit-Blind (...)
+
+Koen
+
+
+Van: "Han Wu" <hwu@worldcubeassociation.org>
+Aan: koenvanpoucke@telenet.be
+Cc: "rjuan" <rjuan@worldcubeassociation.org>, "Regulations Committee" <wrc@worldcubeassociation.org>
+Verzonden: Zondag 11 januari 2026 13:32:29
+
+Oliver Hexter
+Jan 13, 2026, 5:02 PM (5 days ago)
+to koenvanpoucke, me, rjuan, Regulations
+
+Hi Koen,
+
+This typo was present in the announced version of the January 2026 Regulations, but was fixed, along with a few other small issues, for the deployed version. You can see the late changes here.
+
+Kind regards,
+Oliver
+--
+Oliver Hexter
+WCA Regulations Committee Senior Member
+WCA Delegate (London, UK)
+
+
+koenvanpoucke@telenet.be
+Attachments
+Jan 13, 2026, 5:49 PM (5 days ago)
+to Oliver, me, rjuan, Regulations
+
+Thanks.
+
+I looked at it and saw a few minor adjustments that I updated in the Dutch translation. You can delete my previous Dutch translation.
+
+This email contains the latest update to the Dutch translation, which now corresponds to the deployed version 2026.
+
+Kind regards,
+Koen
+
+
+Van: "Oliver Hexter" <ohexter@worldcubeassociation.org>
+Aan: koenvanpoucke@telenet.be
+Cc: "Han Wu" <hwu@worldcubeassociation.org>, "rjuan" <rjuan@worldcubeassociation.org>, "Regulations Committee" <wrc@worldcubeassociation.org>
+Verzonden: Dinsdag 13 januari 2026 09:02:42
+ One attachment
+  •  Scanned by Gmail
+New
 # <wca-title>WCA Reglementen
 
-<version>Versie: 01 januari 2026
+<version>Versie: 1 januari 2026
 
 
 ## Opmerkingen
@@ -15,20 +173,15 @@ Als er een verschil is tussen de vertaling en de (huidige officiële) Engelse ve
 De WCA Reglementen bevatten de volledige set Reglementen die van toepassing zijn op alle officiële wedstrijden die worden gesanctioneerd door de World Cube Association.
 Van 1 januari 2013 tot 1 januari 2025 waren de WCA-Reglementen opgesplitst in de WCA-Reglementen en de WCA-Richtlijnen. De inhoud van beide documenten werd samengevoegd in de WCA-reglementen van 17 juli 2025.
 
-### Woordgebruik
-Het gebruik van de woorden 'moet' (must), 'moet niet' (must not), 'dient' (should), 'mogen niet' (should not), 'kan' (may) komt overeen met [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt).
+### WoordgebruikHet gebruik van de woorden 'moet' (must), 'moet niet' (must not), 'dient' (should), 'mogen niet' (should not), 'kan' (may) komt overeen met [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt).
 
-### Informatie op internet
-Website van de World Cube Association: [www.worldcubeassociation.org](https://www.worldcubeassociation.org/)Oorspronkelijke bron van de WCA Reglementen: [www.worldcubeassociation.org/regulations](https://www.worldcubeassociation.org/regulations/)WCA Reglementen in [PDF-formaat](link:pdf)
+### Informatie op internetWebsite van de World Cube Association: [www.worldcubeassociation.org](https://www.worldcubeassociation.org/)Oorspronkelijke bron van de WCA Reglementen: [www.worldcubeassociation.org/regulations](https://www.worldcubeassociation.org/regulations/)WCA Reglementen in [PDF-formaat](link:pdf)
 
-### Bron
-De ontwikkeling van de WCA Reglementen is openbaar [op GitHub](https://github.com/thewca/wca-regulations) en de discussie is openbaar [op het WCA Forum](https://forum.worldcubeassociation.org/c/regulations).
+### BronDe ontwikkeling van de WCA Reglementen is openbaar [op GitHub](https://github.com/thewca/wca-regulations) en de discussie is openbaar [op het WCA Forum](https://forum.worldcubeassociation.org/c/regulations).
 
-### Contact
-Voor vragen en feedback kunt u contact opnemen met het [WCA Regulations Committee (WRC)](mailto:wrc@worldcubeassociation.org).
+### ContactVoor vragen en feedback kunt u contact opnemen met het [WCA Regulations Committee (WRC)](mailto:wrc@worldcubeassociation.org).
 
-### Labels
-Om informatiever te zijn worden sommige reglementen geclassificeerd met één van de volgende labels. Let op: dit dient te worden behandeld als metadata, niet als een beschrijving van het belang.
+### LabelsOm informatiever te zijn worden sommige reglementen geclassificeerd met één van de volgende labels. Let op: dit dient te worden behandeld als metadata, niet als een beschrijving van het belang.
 
 - <label>[AANVULLING] Aanvullende informatie ter aanvulling op de Reglementen.
 - <label>[VERDUIDELIJKING] Informatie om mogelijke vragen over de interpretatie van de Reglementen te beantwoorden.
@@ -219,9 +372,9 @@ Let op:  Omdat Artikel- en Reglementnummers niet opnieuw worden toegewezen wanne
     - 4b1+) [HERINNERING] De WCA Delegate mag nooit scramble-reeksen opnieuw genereren om andere reeksen te filteren. Het is bijvoorbeeld niet toegestaan om de scramble-reeksen voor een wedstrijd te bekijken en de volledige set opnieuw te genereren om 'rechtvaardigere' scramble-reeksen te genereren.
     - 4b2) Scramble-reeksen voor een groep mogen alleen beschikbaar zijn voor de WCA Delegate vóór de start van deze groep, en alleen beschikbaar voor de WCA Delegate en de scramblers voor de groep tot het einde ervan. Uitzondering: voor 3x3x3 Met minste draaien krijgen deelnemers tijdens de ronde scramble-reeksen (zie [Artikel E](regulations:article:E)).
     - 4b2+) [VERDUIDELIJKING] In het algemeen dienen alle officiële scramble-reeksen geheim te worden gehouden tijdens de wedstrijd en samen worden gepubliceerd na het einde van de wedstrijd. In sommige gevallen (bijvoorbeeld wereldrecords) kan het organisatieteam specifieke scramble-reeksen eerder na het einde van een groep vrijgeven.
-        - 4b2a) Deelnemers, officials en toeschouwers mogen geen foto's maken of anderszins scramble-reeksen opnemen, tenzij hiervoor toestemming is verleend door de WCA Delegate. Dit omvat scramble-reeksen voor voltooide groepen. Uitzondering: aangezien de deelnemer direct de scramble-reeks krijgt voor een poging 3x3x3 Met minste draaien, mag hij/zij deze na het indienen van de poging fotograferen.
     - 4b2++) [AANVULLING] Wedstrijdorganisatoren dienen ervoor te zorgen dat scramblers, scramble-reeksen en gedeeltelijk/geheel gescramblede puzzels visueel geïsoleerd zijn van de deelnemers (zie [Reglement A2c](regulations:regulation:A2c)). De scramblers kunnen zich bijvoorbeeld achter een muur bevinden, of er kan een voldoende hoge scheidingswand (bijv. een kartonnen scheidingswand geplaatst rond de zijkanten van een tafel waar de scramblers zitten) worden gebruikt zodat de deelnemers de puzzels niet kunnen zien terwijl de scramblers de scramble-reeksen toepassen.
         - 4b2a) De aangewezen WCA Delegate voor de wedstrijd mag alleen toegang tot scramble-reeksen voor toekomstige groepen geven aan andere leden van het organisatieteam als zij tijdelijk niet beschikbaar zijn (bijvoorbeeld omdat ze zelf deelnemen) en dienen anderen in dit geval toegang te geven tot het minimaal mogelijke aantal scrambles.
+        - 4b2b) Deelnemers, officials en toeschouwers mogen geen foto's maken of anderszins scramble-reeksen opnemen, tenzij hiervoor toestemming is verleend door de WCA Delegate. Dit omvat scramble-reeksen voor voltooide groepen. Uitzondering: aangezien de deelnemer direct de scramble-reeks krijgt voor een poging 3x3x3 Met minste draaien, mag hij/zij deze na het indienen van de poging fotograferen.
     - 4b3) Specificatie voor een scramble-programma: Een officiële scramble-reeks moet een willekeurige toestand genereren van alle toestanden waarvoor ten minste 2 draaien vereist zijn om deze op te lossen (gelijke waarschijnlijkheid voor elke toestand).  De volgende toevoegingen/uitzonderingen zijn van toepassing:
         - 4b3a) Voor geblinddoekte wedstrijdonderdelen moet de scramble-reeks de puzzel willekeurig oriënteren (gelijke waarschijnlijkheid voor elke oriëntatie).
         - 4b3b) 2x2x2 Kubus: De (willekeurige) toestand vereist minstens 4 draaien om deze op te lossen.
@@ -333,9 +486,9 @@ Let op:  Omdat Artikel- en Reglementnummers niet opnieuw worden toegewezen wanne
     - 9f4+) [VERDUIDELIJKING] Het resultaat van een poging dient DNF te zijn als de deelnemer de poging is begonnen door aan te geven klaar te zijn (zie [Reglement A3b2](regulations:regulation:A3b2)) maar de poging werd gediskwalificeerd.
         - 9f4a) Als een deelnemer een reglement zo overduidelijk overtreedt dat de poging zeker gediskwalificeerd zal worden, dient de judge de poging onmiddellijk te staken. Als de judge onzeker is of een geschil storend zou kunnen zijn (bijvoorbeeld omdat een extra poging de wedstrijd zou kunnen vertragen), dient de judge de WCA Delegate te raadplegen.
     - 9f5) Het resultaat van een poging wordt geregistreerd als DNS (Did Not Start) als de deelnemer in aanmerking komt voor een poging maar deze niet start (zie [Reglement A3b2](regulations:regulation:A3b2)).
-        - 9f5a) Als een deelnemer geen resultaten heeft of alleen DNS-resultaten voor een ronde, worden er geen resultaten geregistreerd.
-        - 9f5b) In een Head to Head-ronde, als de deelnemer geen pogingen start, worden er geen resultaten voor deze partij geregistreerd voor dezedeelnemer of voor zijn tegenstander (zie [Reglement I2h](regulations:regulation:I2h)).
     - 9f5+) [VERDUIDELIJKING] Als de deelnemer zich niet heeft gekwalificeerd voor een poging (bijvoorbeeld in een cutoff-ronde), heeft hij geen resultaat voor de poging.
+        - 9f5a) Als een deelnemer geen resultaten heeft of alleen DNS-resultaten voor een ronde, worden er geen resultaten geregistreerd.
+        - 9f5b) In een Head to Head-ronde, als de deelnemer geen pogingen start, worden er geen resultaten voor deze partij geregistreerd voor deze deelnemer of voor zijn tegenstander (zie [Reglement I2h](regulations:regulation:I2h)).
     - 9f6) Voor formats "Best of X" krijgt elke deelnemer X pogingen. Het beste resultaat van deze pogingen bepaalt de rangorde van de deelnemer in de ronde. Uitzondering: voor Dubbele rondes (zie [Reglement 9v4](regulations:regulation:9v4)) bepaalt het beste resultaat van één van beide rondes de rangorde van de deelnemer.
     - 9f7) Voor formats "Best of X" is een DNF of DNS het slechtst mogelijke resultaat.
     - 9f8) Voor format "Average of 5" krijgen de deelnemers 5 pogingen. Van deze 5 pogingen worden de beste en slechtste pogingen verwijderd en het rekenkundig gemiddelde van de resterende 3 pogingen bepaalt de rangorde van de deelnemer in de ronde. Uitzondering: voor Dubbele rondes (zie [Reglement 9v4](regulations:regulation:9v4)) bepaalt het beste gemiddelde van één van beide rondes de rangorde van de deelnemer.
@@ -457,6 +610,7 @@ Let op:  Omdat Artikel- en Reglementnummers niet opnieuw worden toegewezen wanne
 - 11e++++++) [AANVULLING] Een extra poging wordt beschouwd als gedaan op het moment dat de oorspronkelijke oplossing plaatsvond. Bijvoorbeeld: als een ronde oorspronkelijk gepland was voor 21 januari en een deelnemer krijgt een extra poging op 22 januari, wordt de extra oplossing beschouwd als gedaan op 21 januari.
 - 11e+++++++) [AANBEVELING] Als een extra poging wordt gegeven voor een ronde nadat een volgende ronde is afgelopen en de extra poging zorgt ervoor dat de deelnemer doorgaat naar de volgende ronde, mag de deelnemer niet deelnemen aan de volgende ronde, ter beoordeling van de WCA Delegate.
     - 11e1) Als een deelnemer een extra poging krijgt, dient er voor deze extra poging een andere scramble-reeks gebruikt te worden. De scramble-reeks moet worden gegenereerd met behulp van een actuele officiële versie van een officieel WCA scramble-programma (zie [Reglement 4b](regulations:regulation:4b)).
+    - 11e1+) [HERINNERING] De extra poging moet worden gescrambled met behulp van een ongewijzigde scramble-reeks, gegenereerd door een officieel scramble-programma (zie [Reglement 4b](regulations:regulation:4b), [Regulation 4b+](regulations:regulation:4b+)).
     - 11e2) Als een deelnemer een extra poging krijgt, dient de extra poging direct na de poging die de extra poging veroorzaakte te worden uitgevoerd en moet de extra poging de originele regelmatig genummerde poging vervangen.
     - 11e2+) [AANVULLING] Als een extra poging zelf tot nog een extra poging leidt, dient de deelnemer extra pogingen te blijven doen totdat er een geldige extra poging is om de oorspronkelijke, regelmatig genummerde poging te vervangen.
     - 11e2++) [VOORBEELD] Stel dat een deelnemer 5 regelmatig genummerde pogingen heeft en nr. 2 tot extra pogingen leidt. De deelnemer dient extra pogingen te doen totdat er een geldige extra poging is om nr. 2 te vervangen. Stel dat later een andere poging leidt tot extra pogingen, dan dient de deelnemer op dezelfde manier te werk te gaan als bij #2.
@@ -591,7 +745,7 @@ Let op:  Omdat Artikel- en Reglementnummers niet opnieuw worden toegewezen wanne
         - A2c2) Tijdens een wedstrijd mogen deelnemers niet actief proberen te kijken naar een andere deelnemer die een officiële poging voltooit. Als de deelnemer toekijkt hoe een andere deelnemer een scramble probeert die hij/zij nog niet heeft ontvangen, wordt de betreffende poging geregistreerd als DNF. Uitzondering: deze straf is niet van toepassing op deelnemers in Head to Head-rondes (zie [Artikel I](regulations:article:I)).
         - A2c2+) [HERINNERING] Als de deelnemer per ongeluk een scramble ziet die hij nog niet heeft ontvangen, mag de deelnemer die scramble niet ontvangen voor zijn eigen poging en moet in plaats daarvan een extra poging worden toegekend.
     - A2d) Bij het overnemen van een puzzel van de scrambler inspecteert de judge kort de puzzel om te zien of de puzzel grondig gescrambled is. De judge meldt elke twijfel bij de scrambler die vervolgens een gedetailleerde controle uitvoert.
-        - A2d1) De scrambler of een bevoegde judge moet de gescramblede puzzel controleren en het scoreformulier ondertekenen om te bevestigen dat ze de correct genummerde scramble-reeks hebben toegepast en hebben gecontroleerd of deze overeenkomt met de afbeelding (zie [Reglement 4g](regulations:regulation:4g)). Uitzondering: voor 6x6x6 Kubus, 7x7x7 Kubus en Megaminx mag de scrambler tekenen om te bevestigen dat de puzzel voldoende gescrambled is (zie [Reglement 4g1](regulations:regulation:4g1)). De handtekeningen van de scramblers dienen consistent zijn doorheen de wedstrijd en dienen de scramblers te identificeren.
+        - A2d1) De scrambler of een bevoegde judge moet de gescramblede puzzel controleren en het scoreformulier ondertekenen om te bevestigen dat ze de correct genummerde scramble-reeks hebben toegepast en hebben gecontroleerd of deze overeenkomt met de afbeelding (zie [Reglement 4g](regulations:regulation:4g)). Uitzondering: voor 5x5x5 Kubus, 6x6x6 Kubus, 7x7x7 Kubus en Megaminx mag de scrambler tekenen om te bevestigen dat de puzzel voldoende gescrambled is (zie [Reglement 4g1](regulations:regulation:4g1)). De handtekeningen van de scramblers dienen consistent zijn doorheen de wedstrijd en dienen de scramblers te identificeren.
         - A2d1+) [AANVULLING] Als de scramble-handtekening ontbreekt voor een poging, dient de puzzel onmiddellijk teruggegeven te worden aan een scrambler voor controle en een overeenkomstige handtekening.
         - A2d1++) [AANVULLING] Een poging mag niet gediskwalificeerd worden enkel en alleen door een ontbrekende scramble-handtekening. Als een scramble-handtekening ontbreekt na het begin van een poging, moet de judge toestaan dat de poging doorgaat (als deze nog bezig is) en de WCA Delegate dient toe te staan dat het resultaat behouden blijft.
         - A2d1+++) [HERINNERING] Hoewel de WCA Delegate meerdere individuele pogingen met ontbrekende scramble-handtekeningen mag laten tellen, dient hij/zij ervoor te zorgen dat ontbrekende scramble-handtekeningen geen gewoonte worden.
@@ -632,7 +786,7 @@ Let op:  Omdat Artikel- en Reglementnummers niet opnieuw worden toegewezen wanne
     - A4e) Tijdstraffen voor het starten van het oplossen zijn cumulatief.
     - A4f) De deelnemer is verantwoordelijk voor het correct starten van de speedsolving timer.
 - A5) Tijdens het oplossen:
-    - A5a) Tijdens het inspecteren of oplossen van de puzzel mag de deelnemer niet communiceren met iemand anders dan de judge of de WCA Delegate. Straf: diskwalificatie van de poging (DNF). Uitzondering: Als de deelnemer geen voordeel behaalt door te communiceren met iemand anders dan de judge of de WCA Delegate, mag het resultaat behouden blijven, ter beoordeling van de WCA Delegate.
+    A5a) Tijdens het inspecteren of oplossen van de puzzel mag de deelnemer niet communiceren met iemand anders dan de judge of de WCA Delegate. Straf: diskwalificatie van de poging (DNF). Uitzondering: Als de deelnemer geen voordeel behaalt door te communiceren met iemand anders dan de judge of de WCA Delegate, mag het resultaat behouden blijven, ter beoordeling van de WCA Delegate.
     - A5b) Tijdens het inspecteren of oplossen van de puzzel mag de deelnemer geen assistentie bij het oplossen van de puzzel krijgen van iemand of een ander object dan het oppervlak (zie ook [Reglement 2i](regulations:regulation:2i)). Straf: diskwalificatie van de poging (DNF).
     - A5b+) [VERDUIDELIJKING] Tijdens het inspecteren of het oplossen van de puzzel, kan de deelnemer de puzzel met elk deel van zijn lichaam aanraken. Uitzondering: 3x3x3 Met één hand (zie [Reglement C1b](regulations:regulation:C1b)).
     - A5b++) [VERDUIDELIJKING] Als een deel van de puzzel van een deelnemer eruit springt of losraakt (zie [Reglement 5a](regulations:regulation:5a)), mag de deelnemer niet om hulp vragen om het deel terug te vinden en de jury dient te proberen voorkomen dat anderen helpen. Als iemand een losgekomen deel voor de deelnemer opraapt, mag de judge of de deelnemer hem/haar vragen om het deel op de wedstrijdtafel te leggen en niet verder te helpen.
@@ -643,7 +797,7 @@ Let op:  Omdat Artikel- en Reglementnummers niet opnieuw worden toegewezen wanne
         - A6a1) Als de judge niet onmiddellijk beschikbaar is om de stopwatch te stoppen wanneer een stopwatch in gebruik is, mag de deelnemer de stopwatch stoppen.
     - A6b) De deelnemer is verantwoordelijk voor het correct stoppen van de speedsolving timer.
         - A6b1) Als de timer stopt vóór het einde van de oplossing en de timer een tijd duidelijk onder 0,06 seconden laat zien, wordt de poging vervangen door een extra poging. Uitzondering: Er is geen extra poging nodig als de WCA Delegate vaststelt dat de timer opzettelijk werd gestopt, of als gevolg van een ongewone interactie met de timer (bijv. slechts minimaal contact maken met de timer, de handen niet netjes van de timer weghalen).
-        - A6b1+) [UITLEG] De arbitraire waarde van 0,06 seconden werd gekozen om tegemoet te komen aan zorgen over storingen van de speedsolving timer.
+        - A6b+) [UITLEG] De arbitraire waarde van 0,06 seconden werd gekozen om tegemoet te komen aan zorgen over storingen van de speedsolving timer.
         - A6b2) Als de timer stopt vóór het einde van de oplossing en een tijd van 0,06 seconden of meer aangeeft, wordt de poging gediskwalificeerd (DNF). Uitzondering: De WCA Delegate kan een extra poging toekennen als zij denken dat de timer misschien niet goed werkte en de deelnemer de timer niet opzettelijk stopte.
     - A6c) De deelnemer moet de puzzel volledig loslaten voordat hij/zij de timer stopt. Straf: tijdstraf (+2 seconden). Uitzondering: als de judge niet in staat is om vast te stellen of een draaibeweging of een verandering in uitlijning is toegepast nadat de timer is gestopt en voordat de puzzel wordt losgelaten, kan de poging worden gediskwalificeerd (DNF), ter beoordeling van de judge.
     - A6d) De deelnemer moet de speedsolving timer met beide handen stoppen, plat op de sensoren met de handpalmen naar beneden. Straf: tijdstraf (+2 seconden).
@@ -661,7 +815,7 @@ Let op:  Omdat Artikel- en Reglementnummers niet opnieuw worden toegewezen wanne
     - A7a) De judge vertelt de deelnemer het resultaat.
         - A7a1) De judge dient aan de deelnemer mee te delen dat de puzzel is opgelost, of dat er een straf wordt toegekend.
     - A7b) De judge noteert het resultaat op een scorebriefje en ondertekent naast het resultaat om te bevestigen dat het resultaat correct, volledig, correct geformatteerd en duidelijk leesbaar is. De handtekeningen van de judges dienen consistent zijn doorheen de wedstrijd en dienen de judges te identificeren.
-        - A7b1) Een correct geformatteerde tijd volgt het formaat "h:mm:ss.cc", waarbij "h" staat voor uren, "mm" voor minuten, "ss" voor seconden en "cc" voor honderdsten van seconden. Voor tijden van tien minuten of meer en alle tijden in 3x3x3 Meervoudig geblinddoelt mogen honderdsten van seconden worden weggelaten (zie [Reglement 9f2](regulations:regulation:9f2)). Kleine variaties in de opmaak van de resultaten in overeenstemming met de regionale gebruiken (bijvoorbeeld het gebruik van een komma in plaats van een punt, het gebruik van "60:00.00" in plaats van "1:00:00.00") kunnen worden toegestaan ter beoordeling van de WCA Delegate.
+        - A7b1) Een correct geformatteerde tijd volgt het formaat "h:mm:ss.cc", waarbij "h" staat voor uren, "mm" voor minuten, "ss" voor seconden en "cc" voor honderdsten van seconden. Voor tijden van tien minuten of meer en alle tijden in 3x3x3 Meervoudig geblinddoekt mogen honderdsten van seconden worden weggelaten (zie [Reglement 9f2](regulations:regulation:9f2)). Kleine variaties in de opmaak van de resultaten in overeenstemming met de regionale gebruiken (bijvoorbeeld het gebruik van een komma in plaats van een punt, het gebruik van "60:00.00" in plaats van "1:00:00.00") kunnen worden toegestaan ter beoordeling van de WCA Delegate.
         - A7b2) De judge kan eventuele extra decimalen noteren die op de speedsolving timer staan maar deze worden niet opgenomen in het officiële resultaat (zie [Reglement 9f](regulations:regulation:9f)). Voorbeeld: als de speedsolving timer 12,678 aangeeft voor een poging, dan is de correct geformatteerde tijd 12,67 hoewel de judge 12,678 mag nonteren indien gewenst.
         - A7b3) Voorloopnullen, maar geen nullen die volgen op een cijfer zonder nul, worden weggelaten. Voorbeeld: een tijd van drie seconden en dertig honderdsten van seconden wordt geregistreerd als 3.30, niet 0:00:03.30 of 3.3.
         - A7b4) Als er straffen worden toegekend, registreert de judge de originele geregistreerde tijd die wordt weergegeven op de timer, samen met eventuele straffen. Het formaat dient 'T + X + Y = F' te zijn, waarbij T staat voor de tijd zoals weergegeven op de timer (de 'originele geregistreerde tijd'), X voor een som van tijdstraffen tijdens de poging en F voor het eindresultaat (bijvoorbeeld 17,65 + 4 = 21,65).
@@ -720,7 +874,7 @@ Let op:  Omdat Artikel- en Reglementnummers niet opnieuw worden toegewezen wanne
         - B4c3) Als de judge en de deelnemer het van tevoren eens zijn, of als het organisatieteam dit vereist, kan een geschikt voorwerp (bijvoorbeeld: een muziekstandaard, het oppervlak van de tafel) dat door de deelnemer is geplaatst, worden gebruikt als zichtblokkering. De deelnemer moet een redelijke poging doen om de zichtblokkering zelf te plaatsen. Straf: diskwalificatie van de poging (DNF). Als de zichtblokkering niet zo geplaatst is dat het zicht van de deelnemer op de puzzel nog steeds duidelijk geblokkeerd zou zijn als hij/zij geen blinddoek droeg, dient er een extra zichtblokkering geplaatst te worden door de judge.
     - B4d) De deelnemer mag de puzzel op geen enkel moment tijdens de geblinddoekte fase bekijken. Straf: diskwalificatie van de poging (DNF).
     - B4d+) [VERDUIDELIJKING] Voor 3x3x3 Geblinddoekt mogen deelnemers de locatie van een toegestaan logo (zie [Reglement 3l](regulations:regulation:3l)) bepalen door aanraking tijdens de geblinddoekte fase.
-- B5) Stoppen met oplossen:
+- B6) Stoppen met oplossen:
     - B5a) Wanneer de speedsolving timer wordt gebruikt, stopt de deelnemer het oplossen door de puzzel los te laten en vervolgens de timer te stoppen.
         - B5a1) Als een stopwatch wordt gebruikt in aanvulling op de speedsolving timer, stopt de judge de stopwatch zodra de deelnemer stopt met oplossen.
     - B5b) Als een stopwatch in gebruik is als de enige timer, stopt de deelnemer het oplossen door de puzzel los te laten en de judge te melden klaar te zijn met het oplossen. De judge stopt de stopwatch zodra de deelnemer dit doet.
@@ -752,8 +906,7 @@ Let op:  Omdat Artikel- en Reglementnummers niet opnieuw worden toegewezen wanne
         - E2b1) De judge dient na 55 minuten 'NOG 5 MINUTEN' aan te kondigen en moet 'STOP' roepen na 60 minuten.
         - E2b2) Als een deelnemer zich aansluit bij een poging die al bezig is (zie [Reglement E6](regulations:regulation:E6)), is zijn tijdslimiet de resterende tijd (d.w.z. hij moet finishen als andere deelnemers hun tijdslimiet van 60 minuten hebben bereikt).
     - E2c) Na 60 minuten moet elke deelnemer aan de jury één blad papier overhandigen met een geschreven oplossing en informatie om de poging te identificeren. De oplossing van de deelnemer wordt als correct beschouwd als een bij aanvang opgeloste puzzel na het toepassen van de scramble-reeks en de oplossing resulteert in een opgeloste puzzel. Straf voor een onjuiste oplossing: diskwalificatie van de poging (DNF).
-    - E2c+) [VERDUIDELIJKING] Hoewel de judge een standaardblad kan aanbieden aan deelnemers om oplossingen in te dienen, mag een deelnemer een oplossing op een ander stuk papier indienen. Merk op dat het papier van de judge moet komen, volgens [Reglement E3a](regulations:regulation:E3a).)
-        - E2c1) Informatie om de poging te identificeren is: de naam van de deelnemer, WCA ID of wedstrijdregistratie-ID (min. één, meerdere optioneel), en optioneel de naam van de wedstrijd, de ronde, of het nummer van de poging. Straf voor een ingediende oplossing zonder informatie om de poging te identificeren: diskwalificatie van de poging (DNF). Informatie om de poging te identificeren kan worden toegevoegd door de deelnemer nadat de poging werd ingediend maar voor het einde van de competitie, ter beoordeling van de WCA Delegate en onder direct toezicht van een judge. De deelnemer mag niets schrijven na de tijdslimiet zonder toezicht van de judge en mag geen wijzigingen aanbrengen aan de oplossing. Straf: diskwalificatie van de poging (DNF).
+    - E2c+) [VERDUIDELIJKING] Hoewel de judge een standaardblad kan aanbieden aan deelnemers om oplossingen in te dienen, mag een deelnemer een oplossing op een ander stuk papier indienen. Merk op dat het papier van de judge moet komen, volgens [Reglement E3a](regulations:regulation:E3a).)        - E2c1) Informatie om de poging te identificeren is: de naam van de deelnemer, WCA ID of wedstrijdregistratie-ID (min. één, meerdere optioneel), en optioneel de naam van de wedstrijd, de ronde, of het nummer van de poging. Straf voor een ingediende oplossing zonder informatie om de poging te identificeren: diskwalificatie van de poging (DNF). Informatie om de poging te identificeren kan worden toegevoegd door de deelnemer nadat de poging werd ingediend maar voor het einde van de competitie, ter beoordeling van de WCA Delegate en onder direct toezicht van een judge. De deelnemer mag niets schrijven na de tijdslimiet zonder toezicht van de judge en mag geen wijzigingen aanbrengen aan de oplossing. Straf: diskwalificatie van de poging (DNF).
         - E2c1+++) [UITLEG] De deelnemer is niet verplicht om de naam van de wedstrijd, de ronde en/of het nummer van de poging op het ingediende blad te schrijven maar wil dit misschien wel doen om het organisatieteam te helpen bij het bijhouden van de ingeleverde oplossingen.
         - E2c2) De oplossing moet een ondubbelzinnige reeks draaibewegingen zijn met elke draaibeweging uitgeschreven in opeenvolgende volgorde. Straf voor een onduidelijke oplossing: diskwalificatie van de poging (DNF).
         - E2c2+) [VOORBEELD] Voorbeelden die niet beschouwd worden als een enkele ondubbelzinnige draaibewegingenreeks: meerdere oplossingenreeksen zonder precies één duidelijk aangegeven oplossing, een oplossing met dubbelzinnige symbolen (bijvoorbeeld een letter die lijkt op “B” en “R” maar niet duidelijk de ene of de andere is), een oplossing met sterren of pijlen die draaibewegingen aangeven die buiten de geschreven volgorde moeten worden uitgevoerd (bijvoorbeeld “tussenvoegsels” die niet in lijn met de rest van de draaibewegingenreeks zijn geschreven, “pre-draaibewegingen” die niet in de draaibewegingenreeks zijn opgenomen met gebruik van een geldige notatie), een draaibewegingenreeks die niet ruwweg is uitgeschreven als een reeks regels in leesvolgorde, elke rangschikking van symbolen die niet kan worden geïnterpreteerd als een ondubbelzinnige draaibewegingenreeks.  Uitzonderingen op de bovenstaande voorbeelden: kleine typografische correcties (bijvoorbeeld draaibewegingen zwart maken en er draaibewegingen boven schrijven die duidelijk bedoeld zijn om ze te vervangen, draaibewegingen geschreven in subscript of superscript om tussen andere draaibewegingen te passen).
@@ -806,7 +959,9 @@ Let op:  Omdat Artikel- en Reglementnummers niet opnieuw worden toegewezen wanne
     - H1d+) [VOORBEELD] Voorbeeld: Stel dat een deelnemer 10 puzzels probeert, het oplossen stopt met een tijd van 59:57 en twee tijdstraffen heeft. Het eindresultaat is 59:57 + 2*2 = 60:01 (zie ook [Reglement A1a5](regulations:regulation:A1a5)).
     - H1d++) [VOORBEELD] Voorbeeld: Stel dat een deelnemer 10 puzzels probeert, de judge de deelnemer na 60 minuten stopt en de poging twee tijdstraffen heeft. Het eindresultaat is 60:00 + 2*2 = 60:04.
     - H1e) Elke diskwalificatiestraf tijdens een poging geldt voor de hele poging (DNF). Uitzondering: voor straffen met betrekking tot individuele puzzels (bijv. een draaibeweging doen tijdens de memorisatiefase, een illegale puzzel gebruiken), kunnen deze puzzels aan het einde van de poging als onopgelost worden beschouwd in plaats van de hele poging te diskwalificeren, ter beoordeling van de WCA Delegate.
+    - H1f) Als het de bedoeling is dat deelnemers op significant verschillende tijdstippen starten, zodat er een risico bestaat dat informatie over de scrambles bekend is bij de deelnemers, moeten pogingen die later starten verschillende scramble-reeksen gebruiken.
 - H2) De deelnemer mag zelf zorgen voor een vlakke bedekking (bijvoorbeeld een mat of een doek) voor het oppervlak, ter beoordeling van de WCA Delegate. Als de deelnemer dit wenst, moet het verzoek op hetzelfde moment worden ingediend als het aantal puzzels (zie [Reglement H1a](regulations:regulation:H1a)).
+
 
 ## <article-I><headtohead><headtoheadsolving> Artikel I: Head to Head-solving
 
@@ -820,7 +975,7 @@ Let op:  Omdat Artikel- en Reglementnummers niet opnieuw worden toegewezen wanne
         - I2a1) Voor rondes met 4 plaatsen: Halve finale en finale.
         - I2a2) Voor rondes met 8 plaatsen: Kwartfinale, halve finale en finale.
         - I2a3) Voor rondes met 12 plaatsen: Fase met 12, kwartfinale, halve finale en finale.
-        - I2a4) Voor rondes met 16 plaatsen: Fase met 16, kwartfinale, halve finale en finale.
+        - I2a1) Voor rondes met 16 plaatsen: Fase met 16, kwartfinale, halve finale en finale.
     - I2b) Elke fase bestaat uit een aantal partijen tussen 2 deelnemers:
         - I2b1) Eindfase: 2 partijen: de finalepartij en de partij voor de derde plaats.
         - I2b2) Halve finale: 2 partijen.
@@ -849,16 +1004,18 @@ Let op:  Omdat Artikel- en Reglementnummers niet opnieuw worden toegewezen wanne
     - I4c) Inspectie:
         - I4c1) Wanneer beide deelnemers aanwezig zijn bij het solving station en wanneer elke judge klaar is, vraagt de omroeper "KLAAR?".
         - I4c2) Wanneer beide deelnemers hebben bevestigd klaar te zijn, of wanneer ten minste 15 seconden zijn verstreken, roept de omroeper "START" en start de tijdmeting van de inspectie, waarbij het punt begint.
-        - I4c3) Wanneer 8 seconden inspectietijd zijn verstreken, zegt de omroeper "8 SECONDEN".
+        - A3b3) Wanneer 8 seconden inspectietijd zijn verstreken, zegt de omroeper "8 SECONDEN".
         - I4c4) Als 11 seconden, 12 seconden en 13 seconden van de inspectie zijn verstreken, roept de omroeper respectievelijk "3", "2" en "1".
         - I4c5) Wanneer 14 seconden inspectietijd zijn verstreken, zegt de omroeper "START". De deelnemer moet op dit punt de oplossing starten (zie [Reglement A4d](reglement:reglement:A4d)). Straf voor het opzettelijk vertragen van het begin van het oplossen: diskwalificatie van de poging (DNF), ter beoordeling van de judge.
         - I4c6) Vanwege gewijzigde inspectieprocedures zijn de gebruikelijke straffen voor het niet starten binnen de 15 seconden (zie [Reglement A4d1](reglement:reglement:A4d1) en [Reglement A4d2](reglement:reglement:A4d2)) niet van toepassing in Head to Head-rondes.
         - I4c7) De deelnemer mag de oplossing niet starten voordat de omroeper "START" roept. Straf: diskwalificatie van de poging (DNF), ter beoordeling van de judge.
-    - I4d) Vastlegging van resultaten:
+    - A7) Vastlegging van resultaten:
         - I4d1) Bij het noteren van het resultaat noteert de judge ook of een deelnemer een punt won of verloor, of dat er geen winnaar was, op het scorebriefje.
-- I5) Head to Head geblinddoekt speedsolving procedures:
+- I4) Head to Head geblinddoekt speedsolving procedures:
     - I5a) Standaardprocedures voor speedsolving (zoals beschreven in [Artikel A](regulations:article:A)), geblinddoekt solving procedures (zoals beschreven in [Artikel B](regulations:article:B)) en Head to Head speedsolving procedures (zoals beschreven in [Reglement I4](regulations:regulation:I4)) worden gevolgd. Aanvullende reglementen die de overeenkomstige procedures vervangen worden hieronder beschreven.
     - I5b) Starten van de poging:
         - I5b1) Wanneer beide deelnemers aan het solving station zitten en wanneer elke judge klaar is, vraagt de omroeper "KLAAR?".
-        - I5b2) Als beide deelnemers hebben bevestigd klaar te zijn, of als er minstens 15 seconden zijn verstreken, roept de omroeper "3, 2, 1, START". De deelnemer moet op dit punt de oplossing starten (zie [Reglement B2d). Straf voor het opzettelijk vertragen van het begin van het oplossen: diskwalificatie van de poging (DNF), ter beoordeling van de judge.
+        - I5b2) Als beide deelnemers hebben bevestigd klaar te zijn, of als er minstens 15 seconden zijn verstreken, roept de omroeper "3, 2, 1, START". De deelnemer moet op dit punt de oplossing starten (zie [Reglement B2d](regulations:regulation:B2d)). Straf voor het opzettelijk vertragen van het begin van het oplossen: diskwalificatie van de poging (DNF), ter beoordeling van de judge.
         - I5b3) De deelnemer mag de oplossing niet starten voordat de omroeper "START" roept. Straf: diskwalificatie van de poging (DNF), ter beoordeling van de judge.
+wca-regulations.md
+Displaying wca-regulations.md.
