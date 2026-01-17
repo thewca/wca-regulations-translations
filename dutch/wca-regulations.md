@@ -716,7 +716,7 @@ Let op:  Omdat Artikel- en Reglementnummers niet opnieuw worden toegewezen wanne
         - B4c3) Als de judge en de deelnemer het van tevoren eens zijn, of als het organisatieteam dit vereist, kan een geschikt voorwerp (bijvoorbeeld: een muziekstandaard, het oppervlak van de tafel) dat door de deelnemer is geplaatst, worden gebruikt als zichtblokkering. De deelnemer moet een redelijke poging doen om de zichtblokkering zelf te plaatsen. Straf: diskwalificatie van de poging (DNF). Als de zichtblokkering niet zo geplaatst is dat het zicht van de deelnemer op de puzzel nog steeds duidelijk geblokkeerd zou zijn als hij/zij geen blinddoek droeg, dient er een extra zichtblokkering geplaatst te worden door de judge.
     - B4d) De deelnemer mag de puzzel op geen enkel moment tijdens de geblinddoekte fase bekijken. Straf: diskwalificatie van de poging (DNF).
     - B4d+) [VERDUIDELIJKING] Voor 3x3x3 Geblinddoekt mogen deelnemers de locatie van een toegestaan logo (zie [Reglement 3l](regulations:regulation:3l)) bepalen door aanraking tijdens de geblinddoekte fase.
-- B6) Stoppen met oplossen:
+- B5) Stoppen met oplossen:
     - B5a) Wanneer de speedsolving timer wordt gebruikt, stopt de deelnemer het oplossen door de puzzel los te laten en vervolgens de timer te stoppen.
         - B5a1) Als een stopwatch wordt gebruikt in aanvulling op de speedsolving timer, stopt de judge de stopwatch zodra de deelnemer stopt met oplossen.
     - B5b) Als een stopwatch in gebruik is als de enige timer, stopt de deelnemer het oplossen door de puzzel los te laten en de judge te melden klaar te zijn met het oplossen. De judge stopt de stopwatch zodra de deelnemer dit doet.
@@ -846,14 +846,14 @@ Let op:  Omdat Artikel- en Reglementnummers niet opnieuw worden toegewezen wanne
     - I4c) Inspectie:
         - I4c1) Wanneer beide deelnemers aanwezig zijn bij het solving station en wanneer elke judge klaar is, vraagt de omroeper "KLAAR?".
         - I4c2) Wanneer beide deelnemers hebben bevestigd klaar te zijn, of wanneer ten minste 15 seconden zijn verstreken, roept de omroeper "START" en start de tijdmeting van de inspectie, waarbij het punt begint.
-        - A3b3) Wanneer 8 seconden inspectietijd zijn verstreken, zegt de omroeper "8 SECONDEN".
+        - I4c3) Wanneer 8 seconden inspectietijd zijn verstreken, zegt de omroeper "8 SECONDEN".
         - I4c4) Als 11 seconden, 12 seconden en 13 seconden van de inspectie zijn verstreken, roept de omroeper respectievelijk "3", "2" en "1".
         - I4c5) Wanneer 14 seconden inspectietijd zijn verstreken, zegt de omroeper "START". De deelnemer moet op dit punt de oplossing starten (zie [Reglement A4d](reglement:reglement:A4d)). Straf voor het opzettelijk vertragen van het begin van het oplossen: diskwalificatie van de poging (DNF), ter beoordeling van de judge.
         - I4c6) Vanwege gewijzigde inspectieprocedures zijn de gebruikelijke straffen voor het niet starten binnen de 15 seconden (zie [Reglement A4d1](reglement:reglement:A4d1) en [Reglement A4d2](reglement:reglement:A4d2)) niet van toepassing in Head to Head-rondes.
         - I4c7) De deelnemer mag de oplossing niet starten voordat de omroeper "START" roept. Straf: diskwalificatie van de poging (DNF), ter beoordeling van de judge.
-    - A7) Vastlegging van resultaten:
+    - I4d) Vastlegging van resultaten:
         - I4d1) Bij het noteren van het resultaat noteert de judge ook of een deelnemer een punt won of verloor, of dat er geen winnaar was, op het scorebriefje.
-- I4) Head to Head geblinddoekt speedsolving procedures:
+- I5) Head to Head geblinddoekt speedsolving procedures:
     - I5a) Standaardprocedures voor speedsolving (zoals beschreven in [Artikel A](regulations:article:A)), geblinddoekt solving procedures (zoals beschreven in [Artikel B](regulations:article:B)) en Head to Head speedsolving procedures (zoals beschreven in [Reglement I4](regulations:regulation:I4)) worden gevolgd. Aanvullende reglementen die de overeenkomstige procedures vervangen worden hieronder beschreven.
     - I5b) Starten van de poging:
         - I5b1) Wanneer beide deelnemers aan het solving station zitten en wanneer elke judge klaar is, vraagt de omroeper "KLAAR?".
