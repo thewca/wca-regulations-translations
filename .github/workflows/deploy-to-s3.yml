@@ -47,7 +47,12 @@ jobs:
               lang_outputdir=$outputdir/${l}
               mkdir -p $lang_outputdir
               echo "Generating ${kind} for language ${l}"
-              wrc --target=$kind -g $git_hash -l $l -o $lang_outputdir $lang_inputdir
+              # There are some translations that don't have merged regulations yet
+              if [ -f $lang_inputdir/wca-guidelines.md ]; then
+                  wrc --target=$kind -g $git_hash -l $l -o $lang_outputdir $lang_inputdir
+              else
+                  wrc --target=$kind -g $git_hash -l $l -o $lang_outputdir $lang_inputdir/wca-regulations.md
+              fi
               # Update timestamp for semi-automatic computation of translations index
               cp $lang_inputdir/metadata.json $lang_outputdir/
             done
