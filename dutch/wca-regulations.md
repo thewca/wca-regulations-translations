@@ -15,15 +15,25 @@ Als er een verschil is tussen de vertaling en de (huidige officiële) Engelse ve
 De WCA Reglementen bevatten de volledige set Reglementen die van toepassing zijn op alle officiële wedstrijden die worden gesanctioneerd door de World Cube Association.
 Van 1 januari 2013 tot 1 januari 2025 waren de WCA-Reglementen opgesplitst in de WCA-Reglementen en de WCA-Richtlijnen. De inhoud van beide documenten werd samengevoegd in de WCA-reglementen van 17 juli 2025.
 
-### WoordgebruikHet gebruik van de woorden 'moet' (must), 'moet niet' (must not), 'dient' (should), 'mogen niet' (should not), 'kan' (may) komt overeen met [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt).
+### WoordgebruikHet 
 
-### Informatie op internetWebsite van de World Cube Association: [www.worldcubeassociation.org](https://www.worldcubeassociation.org/)Oorspronkelijke bron van de WCA Reglementen: [www.worldcubeassociation.org/regulations](https://www.worldcubeassociation.org/regulations/)WCA Reglementen in [PDF-formaat](link:pdf)
+gebruik van de woorden 'moet' (must), 'moet niet' (must not), 'dient' (should), 'mogen niet' (should not), 'kan' (may) komt overeen met [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt).
 
-### BronDe ontwikkeling van de WCA Reglementen is openbaar [op GitHub](https://github.com/thewca/wca-regulations) en de discussie is openbaar [op het WCA Forum](https://forum.worldcubeassociation.org/c/regulations).
+### Informatie 
 
-### ContactVoor vragen en feedback kunt u contact opnemen met het [WCA Regulations Committee (WRC)](mailto:wrc@worldcubeassociation.org).
+op internetWebsite van de World Cube Association: [www.worldcubeassociation.org](https://www.worldcubeassociation.org/)Oorspronkelijke bron van de WCA Reglementen: [www.worldcubeassociation.org/regulations](https://www.worldcubeassociation.org/regulations/)WCA Reglementen in [PDF-formaat](link:pdf)
 
-### LabelsOm informatiever te zijn worden sommige reglementen geclassificeerd met één van de volgende labels. Let op: dit dient te worden behandeld als metadata, niet als een beschrijving van het belang.
+### BronDe 
+
+ontwikkeling van de WCA Reglementen is openbaar [op GitHub](https://github.com/thewca/wca-regulations) en de discussie is openbaar [op het WCA Forum](https://forum.worldcubeassociation.org/c/regulations).
+
+### ContactVoor 
+
+vragen en feedback kunt u contact opnemen met het [WCA Regulations Committee (WRC)](mailto:wrc@worldcubeassociation.org).
+
+### LabelsOm 
+
+informatiever te zijn worden sommige reglementen geclassificeerd met één van de volgende labels. Let op: dit dient te worden behandeld als metadata, niet als een beschrijving van het belang.
 
 - <label>[AANVULLING] Aanvullende informatie ter aanvulling op de Reglementen.
 - <label>[VERDUIDELIJKING] Informatie om mogelijke vragen over de interpretatie van de Reglementen te beantwoorden.
