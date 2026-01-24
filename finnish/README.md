@@ -1,8 +1,8 @@
 WCA Regulations (Finnish version)
 ================================
 
-This git repository contains the Finnish translation of the [WCA Regulations](http://worldcubeassociation.org/regulations/) and [WCA Guidelines](http://worldcubeassociation.org/regulations/guidelines/).
+This directory contains the Finnish translation of the [WCA Regulations](http://worldcubeassociation.org/regulations/).
 
-The translation is being maintained by [Timo Norrkniivilä](https://www.worldcubeassociation.org/persons/2017NORR01) (contact tnorrkniivila@worldcubeassociation.org).
+The translation is currently being maintained by [Timo Norrkniivilä](https://www.worldcubeassociation.org/persons/2017NORR01) and Speedcubing Finland ry. Contact [Speedcubing Finland ry](mailto:hallitus@speedcubingfinland.fi) for questions and inquiries regarding the translation.
 
-Original translation by [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) and [Kim Jokinen](https://www.worldcubeassociation.org/persons/2013JOKI01) in June 2016.
+Previous contributors: [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) and [Kim Jokinen](https://www.worldcubeassociation.org/persons/2013JOKI01) (original translation in June 2016).
