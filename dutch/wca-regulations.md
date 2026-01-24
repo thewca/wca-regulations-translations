@@ -15,25 +15,24 @@ Als er een verschil is tussen de vertaling en de (huidige officiële) Engelse ve
 De WCA Reglementen bevatten de volledige set Reglementen die van toepassing zijn op alle officiële wedstrijden die worden gesanctioneerd door de World Cube Association.
 Van 1 januari 2013 tot 1 januari 2025 waren de WCA-Reglementen opgesplitst in de WCA-Reglementen en de WCA-Richtlijnen. De inhoud van beide documenten werd samengevoegd in de WCA-reglementen van 17 juli 2025.
 
-### WoordgebruikHet 
+### Woordgebruik
+Het gebruik van de woorden 'moet' (must), 'moet niet' (must not), 'dient' (should), 'mogen niet' (should not), 'kan' (may) komt overeen met [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt).
 
-gebruik van de woorden 'moet' (must), 'moet niet' (must not), 'dient' (should), 'mogen niet' (should not), 'kan' (may) komt overeen met [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt).
+### Informatie op internet
+Website van de World Cube Association: [www.worldcubeassociation.org](https://www.worldcubeassociation.org/)
 
-### Informatie 
+Oorspronkelijke bron van de WCA Reglementen: [www.worldcubeassociation.org/regulations](https://www.worldcubeassociation.org/regulations/)
 
-op internetWebsite van de World Cube Association: [www.worldcubeassociation.org](https://www.worldcubeassociation.org/)Oorspronkelijke bron van de WCA Reglementen: [www.worldcubeassociation.org/regulations](https://www.worldcubeassociation.org/regulations/)WCA Reglementen in [PDF-formaat](link:pdf)
+WCA Reglementen in [PDF-formaat](link:pdf)
 
-### BronDe 
+### Bron
+De ontwikkeling van de WCA Reglementen is openbaar [op GitHub](https://github.com/thewca/wca-regulations) en de discussie is openbaar [op het WCA Forum](https://forum.worldcubeassociation.org/c/regulations).
 
-ontwikkeling van de WCA Reglementen is openbaar [op GitHub](https://github.com/thewca/wca-regulations) en de discussie is openbaar [op het WCA Forum](https://forum.worldcubeassociation.org/c/regulations).
+### Contact
+Voor vragen en feedback kunt u contact opnemen met het [WCA Regulations Committee (WRC)](mailto:wrc@worldcubeassociation.org).
 
-### ContactVoor 
-
-vragen en feedback kunt u contact opnemen met het [WCA Regulations Committee (WRC)](mailto:wrc@worldcubeassociation.org).
-
-### LabelsOm 
-
-informatiever te zijn worden sommige reglementen geclassificeerd met één van de volgende labels. Let op: dit dient te worden behandeld als metadata, niet als een beschrijving van het belang.
+### Labels
+Om informatiever te zijn worden sommige reglementen geclassificeerd met één van de volgende labels. Let op: dit dient te worden behandeld als metadata, niet als een beschrijving van het belang.
 
 - <label>[AANVULLING] Aanvullende informatie ter aanvulling op de Reglementen.
 - <label>[VERDUIDELIJKING] Informatie om mogelijke vragen over de interpretatie van de Reglementen te beantwoorden.
@@ -45,7 +44,7 @@ informatiever te zijn worden sommige reglementen geclassificeerd met één van d
 
 ## <contents> [Inhoudsopgave](regulations:contents)
 
-Let op:  Omdat Artikel- en Reglementnummers niet opnieuw worden toegewezen wanneer Reglementen worden verwijderd, kunnen er gaten in de nummering zitten.
+Let op:  Omdat Artikel-en Reglementnummers niet opnieuw worden toegewezen wanneer Reglementen worden verwijderd, kunnen er gaten in de nummering zitten.
 
 <table-of-contents>
 
