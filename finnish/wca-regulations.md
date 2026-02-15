@@ -112,7 +112,7 @@ Huomautus: Koska artikloille ja säännöille ei määrätä uusia numeroita, ku
         - 2i1b) Korvatulpat ja kuulosuojaimet (ei koske elektronisia kuulokkeita, ks. [sääntö 2i2a](regulations:regulation:2i2a)).
         - 2i1c) Ruoka ja juoma.
         - 2i1d) Kädenlämmittimet (myös elektroniset).
-        - 2i2e) Kamerat, mukaanlukien matkapuhelimet, joita käytetään kuvaamiseen. Kameran näytön täytyy olla pois päältä tai kilpailijan näkökentän ulkopuolella.
+        - 2i1e) Kamerat, mukaanlukien matkapuhelimet, joita käytetään kuvaamiseen. Kameran näytön täytyy olla pois päältä tai kilpailijan näkökentän ulkopuolella.
     - 2i2) Seuraavia esineitä ei saa käyttää ratkaisuyrityksen aikana:
         - 2i2a) Laitteet, joiden kautta on mahdollista toistaa ääntä siten, että kilpailija kuulee sen, mutta tuomari ei (esim. kuulokkeet). Tämä koskee näitä laitteita myös, vaikka ne olisivat pois päältä tai kytkemättä. Poikkeus: mainitun kaltaiset lääketieteelliset apuvälineet (esim. kuulolaitteet) voidaan sallia, jos kilpailijalla ei ole järkeviä vaihtoehtoja.
         - 2i2b) Laitteet, joiden näytöltä kilpailija näkee mitä tahansa tietoa (esim. matkapuhelin tai tablettitietokone).
