@@ -685,7 +685,7 @@ Note : Les numéros des articles et des règles ne sont pas réassignés lors d'
     - A7f) Quand la feuille de score d'un compétiteur pour un tour est complète, le juge confie la feuille de score au teneur de score.
     - A7g) Un incident ou une pénalité causée par un compétiteur inexpérimenté peut être remplacée par un essai supplémentaire, à la discrétion du Délégué WCA.
     - A7g+) [EXEMPLE] Exemple d'incidents qui pourraient donner lieu à un essai supplémentaire pour un nouveau compétiteur : démarrer ou arrêter le chronomètre de manière irrégulière, dépasser le temps d'inspection suite à une incompréhension sur la procédure de démarrage de la résolution, ou tout autre pénalité de temps issue d'une erreur de procédure.
-    .- A7g++) [ECLAIRCISSEMENT] Des pénalités individuelles ne peuvent pas être levées. Un essai supplémentaire complet doit être donné.
+    - A7g++) [ECLAIRCISSEMENT] Des pénalités individuelles ne peuvent pas être levées. Un essai supplémentaire complet doit être donné.
     - A7g+++) [CONSEIL] Le Délégué WCA devrait faire preuve d'une plus grande réflexion lorsqu'il accorde un essai supplémentaire pour un même nouveau compétiteur, en particulier pour le même type d'incident.e
     - A7g++++) [ECLAIRCISSEMENT] Un compétiteur peut être considéré comme inexpérimenté s'il est un nouveau compétiteur, s'il participe pour la première fois à une épreuve spécifique ou s'il n'a pas participé à une épreuve spécifique pendant une longue période. L'inexpérience doit être liée à l'incident.
 
