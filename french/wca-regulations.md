@@ -715,7 +715,6 @@ Note : Les numéros des articles et des règles ne sont pas réassignés lors d'
 - B4) Phase de résolution à l'aveugle :
     - B4a) Le compétiteur place son bandeau sur les yeux pour démarrer la phase de résolution à l'aveugle.
         - B4a1) Tant que le compétiteur n'a pas appliqué le premier mouvement au casse-tête, il peut retirer le bandeau pour revenir à la phase de mémorisation.
-    - B4b) Le compétiteur ne doit pas réaliser des mouvements ou des changements intentionnels de l'alignement avant l'application parfaite du bandeau.
     - B4b) Le compétiteur ne doit pas réaliser des mouvements ou des changements intentionnels de l'alignement avant l'application parfaite du bandeau. Pénalité : disqualification de l'essai (DNF).
     - B4c) Dès que le compétiteur applique le premier mouvement au casse-tête, le juge doit s'assurer qu'un objet opaque (par exemple une feuille de papier ou de carton) se situe entre le visage du compétiteur et le casse-tête.
     - B4c++) [AJOUT] Si le juge a oublié de mettre un bloqueur de vue et le Délégué WCA ne soupçonne pas que le compétiteur a intentionnellement violé des règles de la WCA, l’essai initial peut être maintenu.-
@@ -727,10 +726,8 @@ Note : Les numéros des articles et des règles ne sont pas réassignés lors d'
 - B5) Fin de la résolution :
     - B5a) En utilisant le chronomètre speedsolving, le compétiteur termine sa résolution en relâchant le casse-tête puis en arrêtant le chronomètre.
         - B5a1) Quand un chronomètre portatif est utilisé en plus du chronomètre speedsolving, le juge l’arrête dès que le compétiteur arrête sa résolution.
-    - B5b) En utilisant un chronomètre portatif, le compétiteur termine sa résolution en relâchant le casse-tête tout en notifiant au juge que la résolution est terminée.
     - B5b) En utilisant un chronomètre portatif, le compétiteur termine sa résolution en relâchant le casse-tête tout en notifiant au juge que la résolution est terminée. Le juge arrête le chronomètre portatif dès que le compétiteur termine la résolution.
         - B5b1) Le signal de notification par défaut du compétiteur consiste à relâcher le(s) casse-tête(s) et à poser les mains sur la surface, les paumes vers le bas. Le compétiteur et le juge peuvent convenir d'une autre notification appropriée avant le début de l’essai.
-    - B5c) Le compétiteur peut retirer son bandeau avant l'arrêt du chronomètre, à condition de ne pas toucher le casse-tête.
     - B5c) Le compétiteur peut retirer son bandeau avant l'arrêt du chronomètre, à condition de ne pas toucher le casse-tête. Il ne doit pas non plus toucher le casse-tête avant la fin de l'essai. Pénalité pour toucher le casse-tête : disqualification de l'essai (DNF).
 
 
