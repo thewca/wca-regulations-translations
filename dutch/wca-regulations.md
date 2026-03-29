@@ -868,5 +868,3 @@ Let op:  omdat Artikel-&nbsp;en Reglementnummers niet opnieuw worden toegewezen 
         - I5b1) Wanneer beide deelnemers aan het solving station zitten en wanneer elke judge klaar is, vraagt de omroeper "KLAAR?".
         - I5b2) Als beide deelnemers hebben bevestigd klaar te zijn, of als er minstens 15 seconden zijn verstreken, roept de omroeper "3, 2, 1, START". De deelnemer moet op dit punt de oplossing starten (zie [Reglement B2d](regulations:regulation:B2d)). Straf voor het opzettelijk vertragen van het begin van het oplossen: diskwalificatie van de poging (DNF), ter beoordeling van de judge.
         - I5b3) De deelnemer mag de oplossing niet starten voordat de omroeper "START" roept. Straf: diskwalificatie van de poging (DNF), ter beoordeling van de judge.
-wca-regulations.md
-Displaying wca-regulations.md.
