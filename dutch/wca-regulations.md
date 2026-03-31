@@ -1,6 +1,6 @@
 # <wca-title>WCA Reglementen
 
-<version>Versie: 1 januari 2026
+<version>Versie: 1 april 2026
 
 
 ## Opmerkingen
