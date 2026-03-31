@@ -1,6 +1,6 @@
 # <wca-title>Règlement WCA
 
-<version>Version: 1er janvier 2026
+<version>Version: 1er avril 2026
 
 
 ## Notes
