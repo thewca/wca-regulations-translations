@@ -863,9 +863,9 @@ Let op:  Omdat Artikel- en Reglementnummers niet opnieuw worden toegewezen wanne
         - I4c5) Wanneer 14 seconden inspectietijd zijn verstreken, zegt de omroeper "START". De deelnemer moet op dit punt de oplossing starten (zie [Reglement A4d](reglement:reglement:A4d)). Straf voor het opzettelijk vertragen van het begin van het oplossen: diskwalificatie van de poging (DNF), ter beoordeling van de judge.
         - I4c6) Vanwege gewijzigde inspectieprocedures zijn de gebruikelijke straffen voor het niet starten binnen de 15 seconden (zie [Reglement A4d1](reglement:reglement:A4d1) en [Reglement A4d2](reglement:reglement:A4d2)) niet van toepassing in Head to Head-rondes.
         - I4c7) De deelnemer mag de oplossing niet starten voordat de omroeper "START" roept. Straf: diskwalificatie van de poging (DNF), ter beoordeling van de judge.
-    - A7) Vastlegging van resultaten:
+    - I4d) Vastlegging van resultaten:
         - I4d1) Bij het noteren van het resultaat noteert de judge ook of een deelnemer een punt won of verloor, of dat er geen winnaar was, op het scorebriefje.
-- I4) Head to Head geblinddoekt speedsolving procedures:
+- I5) Head to Head geblinddoekt speedsolving procedures:
     - I5a) Standaardprocedures voor speedsolving (zoals beschreven in [Artikel A](regulations:article:A)), geblinddoekt solving procedures (zoals beschreven in [Artikel B](regulations:article:B)) en Head to Head speedsolving procedures (zoals beschreven in [Reglement I4](regulations:regulation:I4)) worden gevolgd. Aanvullende reglementen die de overeenkomstige procedures vervangen worden hieronder beschreven.
     - I5b) Starten van de poging:
         - I5b1) Wanneer beide deelnemers aan het solving station zitten en wanneer elke judge klaar is, vraagt de omroeper "KLAAR?".
