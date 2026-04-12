@@ -650,7 +650,7 @@ Let op:  Omdat Artikel- en Reglementnummers niet opnieuw worden toegewezen wanne
         - A6a1) Als de judge niet onmiddellijk beschikbaar is om de stopwatch te stoppen wanneer een stopwatch in gebruik is, mag de deelnemer de stopwatch stoppen.
     - A6b) De deelnemer is verantwoordelijk voor het correct stoppen van de speedsolving timer.
         - A6b1) Als de timer stopt vóór het einde van de oplossing en de timer een tijd duidelijk onder 0,06 seconden laat zien, wordt de poging vervangen door een extra poging. Uitzondering: Er is geen extra poging nodig als de WCA Delegate vaststelt dat de timer opzettelijk werd gestopt, of als gevolg van een ongewone interactie met de timer (bijv. slechts minimaal contact maken met de timer, de handen niet netjes van de timer weghalen).
-        - A6b+) [UITLEG] De arbitraire waarde van 0,06 seconden werd gekozen om tegemoet te komen aan zorgen over storingen van de speedsolving timer.
+        - A6b1+) [UITLEG] De arbitraire waarde van 0,06 seconden werd gekozen om tegemoet te komen aan zorgen over storingen van de speedsolving timer.
         - A6b2) Als de timer stopt vóór het einde van de oplossing en een tijd van 0,06 seconden of meer aangeeft, wordt de poging gediskwalificeerd (DNF). Uitzondering: De WCA Delegate kan een extra poging toekennen als zij denken dat de timer misschien niet goed werkte en de deelnemer de timer niet opzettelijk stopte.
     - A6c) De deelnemer moet de puzzel volledig loslaten voordat hij/zij de timer stopt. Straf: tijdstraf (+2 seconden). Uitzondering: als de judge niet in staat is om vast te stellen of een draaibeweging of een verandering in uitlijning is toegepast nadat de timer is gestopt en voordat de puzzel wordt losgelaten, kan de poging worden gediskwalificeerd (DNF), ter beoordeling van de judge.
     - A6d) De deelnemer moet de speedsolving timer met beide handen stoppen, plat op de sensoren met de handpalmen naar beneden. Straf: tijdstraf (+2 seconden).
@@ -829,7 +829,7 @@ Let op:  Omdat Artikel- en Reglementnummers niet opnieuw worden toegewezen wanne
         - I2a1) Voor rondes met 4 plaatsen: Halve finale en finale.
         - I2a2) Voor rondes met 8 plaatsen: Kwartfinale, halve finale en finale.
         - I2a3) Voor rondes met 12 plaatsen: Fase met 12, kwartfinale, halve finale en finale.
-        - I2a1) Voor rondes met 16 plaatsen: Fase met 16, kwartfinale, halve finale en finale.
+        - I2a4) Voor rondes met 16 plaatsen: Fase met 16, kwartfinale, halve finale en finale.
     - I2b) Elke fase bestaat uit een aantal partijen tussen 2 deelnemers:
         - I2b1) Eindfase: 2 partijen: de finalepartij en de partij voor de derde plaats.
         - I2b2) Halve finale: 2 partijen.
@@ -858,7 +858,7 @@ Let op:  Omdat Artikel- en Reglementnummers niet opnieuw worden toegewezen wanne
     - I4c) Inspectie:
         - I4c1) Wanneer beide deelnemers aanwezig zijn bij het solving station en wanneer elke judge klaar is, vraagt de omroeper "KLAAR?".
         - I4c2) Wanneer beide deelnemers hebben bevestigd klaar te zijn, of wanneer ten minste 15 seconden zijn verstreken, roept de omroeper "START" en start de tijdmeting van de inspectie, waarbij het punt begint.
-        - A3b3) Wanneer 8 seconden inspectietijd zijn verstreken, zegt de omroeper "8 SECONDEN".
+        - I4c3) Wanneer 8 seconden inspectietijd zijn verstreken, zegt de omroeper "8 SECONDEN".
         - I4c4) Als 11 seconden, 12 seconden en 13 seconden van de inspectie zijn verstreken, roept de omroeper respectievelijk "3", "2" en "1".
         - I4c5) Wanneer 14 seconden inspectietijd zijn verstreken, zegt de omroeper "START". De deelnemer moet op dit punt de oplossing starten (zie [Reglement A4d](reglement:reglement:A4d)). Straf voor het opzettelijk vertragen van het begin van het oplossen: diskwalificatie van de poging (DNF), ter beoordeling van de judge.
         - I4c6) Vanwege gewijzigde inspectieprocedures zijn de gebruikelijke straffen voor het niet starten binnen de 15 seconden (zie [Reglement A4d1](reglement:reglement:A4d1) en [Reglement A4d2](reglement:reglement:A4d2)) niet van toepassing in Head to Head-rondes.
