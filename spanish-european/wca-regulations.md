@@ -649,7 +649,7 @@ Nota: Debido a que los números de artículos o de Reglas no se han reasignado a
         - A6a1) Si el juez no está disponible de inmediato para detener el cronómetro de mano cuando este está en uso, el competidor puede detenerlo.
     - A6b) El competidor es responsable de detener el cronómetro de speedsolving correctamente.
         - A6b1) Si el cronómetro se detiene antes del fin de la resolución y muestra un tiempo estrictamente inferior a 0.06 segundos, se concede un intento extra. Excepción: No se concede ningún intento extra si el delegado de la WCA determina que el cronómetro se detuvo deliberadamente o como resultado de interactuar con el cronómetro de una manera inusual (p.ej., hacer un contacto mínimo con el cronómetro, no levantar las manos completamente del cronómetro).
-        - A6b+) [EXPLICACIÓN] El valor arbitrario de 0.06 segundos ha sido elegido en respuesta a los errores de funcionamiento de los cronómetros speedsolving.
+        - A6b1+) [EXPLICACIÓN] El valor arbitrario de 0.06 segundos ha sido elegido en respuesta a los errores de funcionamiento de los cronómetros speedsolving.
         - A6b2) Si el cronómetro se detiene antes del fin de la resolución y muestra un tiempo de 0.06 segundos o superior, el intento es descalificado (DNF). Excepción: El delegado de la WCA puede conceder un intento extra si cree que el cronómetro puede haber funcionado mal y el competidor no lo detuvo deliberadamente.
     - A6c) El competidor debe soltar el puzzle completamente antes de detener el cronómetro. Penalización: penalización de tiempo (+2 segundos). Excepción: si el juez no puede determinar si se ha aplicado algún movimiento o cambio en la alineación después de detener el cronómetro y antes de soltar el puzzle, el intento puede ser descalificado (DNF), a discreción del juez.
     - A6d) El competidor debe detener el cronómetro de speedsolving con las dos manos, colocándolas planas sobre los sensores y con las palmas hacia abajo. Penalización: penalización de tiempo (+2 segundos).
@@ -791,7 +791,7 @@ Nota: Debido a que los números de artículos o de Reglas no se han reasignado a
     - E3f) Útiles para remover marcas (auto-suministrados), como puede ser líquido corrector, cinta correctora o goma de borrar.
 - E4) El delegado de la WCA puede optar por hacer públicas las soluciones (p.ej. con una foto de la hoja de resultados o una transcripción de las soluciones).
 - E5) El competidor no debe comunicarse con nadie más que el delegado de la WCA o el juez. La comunicación debería ser solo sobre el Reglamento de la WCA y el competidor no debe recibir ayuda con su solución. Penalización: descalificación del intento (DNF). Excepción: si el competidor no obtiene ninguna ventaja por comunicarse con cualquiera que no sea el juez o el delegado de la WCA, el resultado del intento puede permanecer, a discreción del delegado de la WCA.
-E6) Un competidor puede unirse a un intento de 3x3x3 Menos movimientos que ya esté en curso, a discreción del delegado de la WCA. Excepción: no se debe permitir que un competidor se una a un intento en curso en los siguientes casos:
+- E6) Un competidor puede unirse a un intento de 3x3x3 Menos movimientos que ya esté en curso, a discreción del delegado de la WCA. Excepción: no se debe permitir que un competidor se una a un intento en curso en los siguientes casos:
     - E6a) Un competidor ya ha terminado su intento (ver [Regla E2b+](regulations:regulation:E2b+)).
     - E6b) El intento tiene lugar en una competición con múltiples lugares físicos (p.ej., competiciones simultáneas de 3x3x3 Menos movimientos).
     - E6c) Existe el riesgo de que la información sobre la mezcla haya llegado a conocimiento del competidor que desea participar.
@@ -828,7 +828,7 @@ E6) Un competidor puede unirse a un intento de 3x3x3 Menos movimientos que ya es
         - I2a1) Para rondas con 4 plazas: Semifinales y Fase Final.
         - I2a2) Para rondas con 8 plazas: Cuartos de final, semifinales y Fase Final.
         - I2a3) Para rondas con 12 plazas: Fase de 12, Cuartos de final, Semifinales y Fase Final.
-        - I2a1) Para rondas con 16 plazas: Fase de 16, Cuartos de final, Semifinales y Fase Final.
+        - I2a4) Para rondas con 16 plazas: Fase de 16, Cuartos de final, Semifinales y Fase Final.
     - I2b) Cada fase comprende un número de enfrentamientos entre 2 competidores:
         - I2b1) Fase final: 2 enfrentamientos : la Final y el enfrentamiento por el Tercer Puesto.
         - I2b2) Semifinales: 2 enfrentamientos.
@@ -859,12 +859,12 @@ E6) Un competidor puede unirse a un intento de 3x3x3 Menos movimientos que ya es
         - I4c2) Cuando ambos competidores hayan confirmado que están listos, o una vez que hayan pasado al menos 15 segundos, el anunciador dice "START" y comienza a cronometrar la inspección, comenzando el punto.
         - I4c3) Cuando ya han pasado 8 segundos de inspección, el juez dice «8 SEGUNDOS».
         - I4c4) Cuando han pasado 11 segundos, 12 segundos y 13 segundos de inspección, el anunciador dice "3", "2" y "1" respectivamente.
-        - I4c3) Cuando ya han pasado 14 segundos de inspección, el anunciador dice «START». El competidor debe iniciar la resolución (ver [Regla A4d](regulations:regulation:A4d)) en este momento. Penalización por retrasar intencionadamente el inicio de la resolución: descalificación del intento (DNF) a discreción del juez.
+        - I4c5) Cuando ya han pasado 14 segundos de inspección, el anunciador dice «START». El competidor debe iniciar la resolución (ver [Regla A4d](regulations:regulation:A4d)) en este momento. Penalización por retrasar intencionadamente el inicio de la resolución: descalificación del intento (DNF) a discreción del juez.
         - I4c6) Debido a los procedimientos de inspección modificados, las penalizaciones habituales por no comenzar antes de 15 segundos (ver [Regla A4d1](regulations:regulation:A4d1) y [Regla A4d2](regulations:regulation:A4d2)) no se aplican en las rondas «Head to Head»
         - I4c7) El competidor no debe comenzar la resolución antes de que el anunciador diga "START". Penalización: descalificación del intento (DNF) a discreción del juez.
     - I4d) Anotación de los resultados:
         - I4d1) Al registrar el resultado, el juez también anota en la hoja de tiempos si un competidor ganó o perdió un punto, o si no hubo ganador.
-- I4) Procedimientos de resolución «Head to Head» a ciegas:
+- I5) Procedimientos de resolución «Head to Head» a ciegas:
     - I5a) Se siguen los procedimientos estándar de Pruebas de Velocidad, descritos en el [Artículo A](regulations:article:A)), los procedimientos de Pruebas a ciegas (descritos en el [Artículo B](regulations:article:B)) y los procedimientos de «Head to Head» (descritos en la [Regla I4](regulations:regulation:I4)). Las reglas adicionales que reemplazan a los correspondientes procedimientos se describen a continuación.
     - I5b) Comienzo del intento:
         - I5b1) Cuando ambos competidores están presentes en la estación de resolución y cuando cada juez está listo, el anunciador pregunta "¿READY?".
