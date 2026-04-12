@@ -404,7 +404,7 @@ Note : Les numéros des articles et des règles ne sont pas réassignés lors d'
     - 9t4) Cette règle ne s'applique pas entre les phases d’un tour « Head to Head ».
     - 9t5) Exception : les résultats des tours suivants ne sont pas supprimés si un compétiteur n'aurait plus avancé à la suite d'un changement de résultat en DNS après la compétition en raison de la [Règle 11i1](regulations:regulation:11i1).
 - 9u) Une compétition est considérée comme terminée si toutes les conditions suivantes sont remplies simultanément :
-- 9u+) [Pour les compétitions se déroulant dans plusieurs lieux physiques (par exemple « 3x3x3 Résolution optimisée compétitions simultanées »), toutes les exigeances doivent être remplies dans chaque lieu pour que la compétition soit considérée comme terminée.
+- 9u+) [AJOUT] Pour les compétitions se déroulant dans plusieurs lieux physiques (par exemple « 3x3x3 Résolution optimisée compétitions simultanées »), toutes les exigeances doivent être remplies dans chaque lieu pour que la compétition soit considérée comme terminée.
     - 9u1) Tous les tours prévus sur le site web de la WCA sont terminés.
     - 9u2) Le Délégué WCA a annoncé la fin de la compétition. Si le Délégué WCA n'annonce pas la fin de la compétition, l'un des deux cas suivants se substitue à cette annonce (selon ce qui arrive en premier :
     - 9u2+) [CONSEIL] Le Délégué WCA devrait annoncer la fin de la compétition (par exemple avant la cérémonie de remise des prix).
@@ -667,7 +667,7 @@ Note : Les numéros des articles et des règles ne sont pas réassignés lors d'
 - A7) Écriture du temps :
     - A7a) Le juge annonce le résultat au compétiteur.
         - A7a1) Le juge devrait indiquer au compétiteur que le casse-tête est résolue ou qu'une pénalité sera appliquée.
-    A7b) Le juge écrit le temps sur la feuille de score et signe (ou paraphe) à côté du résultat pour valider que le résultat est correct, complet, écrit dans le bon format et clairement lisible.  Les signatures des juges devraient être cohérentes tout au long de la compétition et devraient identifier le juge.
+    - A7b) Le juge écrit le temps sur la feuille de score et signe (ou paraphe) à côté du résultat pour valider que le résultat est correct, complet, écrit dans le bon format et clairement lisible.  Les signatures des juges devraient être cohérentes tout au long de la compétition et devraient identifier le juge.
         - A7b1) Un temps correctement formaté suit le format « h:mm:ss.cc », où « h » représente les heures, « mm » représente les minutes, « ss » représente les secondes et « cc » représente les centièmes de seconde. Pour les temps de dix minutes ou plus, et tous les temps du 3x3x3 Résolutions multiples à l'aveugle, les centièmes de seconde peuvent être omis (voir la [Règle 9f2](regulations:regulation:9f2)). Des variations mineures dans le format des résultats en accord avec les pratiques régionales (par exemple l'utilisation d'une virgule au lieu d'un point, l'utilisation de "60:00.00" au lieu de "1:00:00.00") peuvent être autorisées à la discrétion du Délégué WCA.
         - A7b2) Le juge peut noter les décimales supplémentaires affichées sur le chronomètre speedsolving, mais celles-ci ne sont pas prises en compte dans le résultat officiel (voir la [Règle 9f](regulations:regulation:9f)). Exemple : si le chronomètre speedsolving affiche 12,678 pour un essai, le temps correctement formaté est 12,67, bien que le juge puisse écrire 12,678 s'il le souhaite.
         - A7b3) Les zéros initiaux, mais pas les zéros suivant un chiffre non nul, sont omis. Exemple : un temps de trois secondes et trente centisecondes est enregistré sous la forme 3.30, et non 0:00:03.30 ou 3.3.
@@ -689,7 +689,6 @@ Note : Les numéros des articles et des règles ne sont pas réassignés lors d'
     - A7f) Quand la feuille de score d'un compétiteur pour un tour est complète, le juge confie la feuille de score au teneur de score.
     - A7g) Un incident ou une pénalité causée par un compétiteur inexpérimenté peut être remplacée par un essai supplémentaire, à la discrétion du Délégué WCA.
     - A7g+) [EXEMPLE] Exemple d'incidents qui pourraient donner lieu à un essai supplémentaire pour un nouveau compétiteur : démarrer ou arrêter le chronomètre de manière irrégulière, dépasser le temps d'inspection suite à une incompréhension sur la procédure de démarrage de la résolution, ou tout autre pénalité de temps issue d'une erreur de procédure.
-    .
 - A7g++) [ECLAIRCISSEMENT] Des pénalités individuelles ne peuvent pas être levées. Un essai supplémentaire complet doit être donné.
     - A7g+++) [CONSEIL] Le Délégué WCA devrait faire preuve d'une plus grande réflexion lorsqu'il accorde un essai supplémentaire pour un même nouveau compétiteur, en particulier pour le même type d'incident.e
     - A7g++++) [ECLAIRCISSEMENT] Un compétiteur peut être considéré comme inexpérimenté s'il est un nouveau compétiteur, s'il participe pour la première fois à une épreuve spécifique ou s'il n'a pas participé à une épreuve spécifique pendant une longue période. L'inexpérience doit être liée à l'incident.
