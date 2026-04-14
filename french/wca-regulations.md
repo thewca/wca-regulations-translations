@@ -841,7 +841,7 @@ Note : Les numéros des articles et des règles ne sont pas réassignés lors d'
     - I2d) Le vainqueur de chaque partie de la Phase à 16, de la Phase à 12 et de la phase Quarts de finale accède à la phase suivante. Le perdant est éliminé.
     - I2e) Le vainqueur de chaque partie de la phase Demi-finale participe à la Partie finale pendant la phase Finale. Le perdant de chaque partie de la phase Demi-finale participe à la Partie pour la troisième place de la phase Finale.
     - I2f) Pour les phases suivantes, les compétiteurs sont appariés de telle sorte que, en supposant que la tête de série la plus élevée ait gagné tous les parties précédentes, le total des têtes de série soit égal au nombre de compétiteurs restants plus 1.
-    - I2g) Un [Guide visuel] (https://drive.google.com/file/d/1dGy7DZZqPNuf8dDHJIJUw5vzwgoRjz1G/view) illustre la structure complète pour les tours avec 4, 8, 12 et 16 compétiteurs.
+    - I2g) Un [Guide visuel](https://drive.google.com/file/d/1dGy7DZZqPNuf8dDHJIJUw5vzwgoRjz1G/view) illustre la structure complète pour les tours avec 4, 8, 12 et 16 compétiteurs.
     - I2h) Si un compétiteur se retire d'une partie avant qu'elle ne commence, son adversaire est considéré comme ayant gagné la partie aux fins de la progression (Phase à 16, Phase à 12, phase Quarts de finale, phase Demi-finale) ou du classement général dans le tour (phase Finale), mais aucun résultat n'est enregistré pour la partie (voir la [Règle 9f5b](regulations:regulation:9f5b)).
 - I3) Structure de la partie :
     - I3a) Chaque partie comprend un certain nombre de sets. Le vainqueur de la partie est le premier compétiteir à remporter X sets (où X est 1, 2 ou 3).
