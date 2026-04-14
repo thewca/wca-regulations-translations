@@ -42,7 +42,7 @@ Om informatiever te zijn worden sommige reglementen geclassificeerd met één va
 
 ## <contents> [Inhoudsopgave](regulations:contents)
 
-Let op:  Omdat Artikel- en Reglementnummers niet opnieuw worden toegewezen wanneer Reglementen worden verwijderd, kunnen er gaten in de nummering zitten.
+Let op:  Omdat Artikel-&nbsp;en Reglementnummers niet opnieuw worden toegewezen wanneer Reglementen worden verwijderd, kunnen er gaten in de nummering zitten.
 
 <table-of-contents>
 
