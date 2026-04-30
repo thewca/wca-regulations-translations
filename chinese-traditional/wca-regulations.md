@@ -101,7 +101,7 @@ WCA競賽規則公開在[GitHub](https://github.com/thewca/wca-regulations-trans
     - 2i1) 應該被允許的物品範例：
         - 2i1a) 參賽者佩戴的醫療/身體輔助用品（例如：眼鏡、護腕）。
         - 2i1b) 非電子式耳塞與耳罩，但不包含電子是耳罩/耳道式耳機（參見[規則 2i2a](regulations:regulation:2i2a)）。
-        - 2i1c) 食物和飲料。 
+        - 2i1c) 食物和飲料。
         - 2i1d) 電子式或非電子式手用暖暖包。
         - 2i1e) 相機，包括用作相機的手機。相機螢幕必須為空白或位於參賽者的視線範圍外。
     - 2i2) 在還原期間禁止允許使用以下物品：
@@ -315,7 +315,7 @@ WCA競賽規則公開在[GitHub](https://github.com/thewca/wca-regulations-trans
         - 9b4b) 門檻制的比賽當中，第一階段為「1次取最佳(Best of 1)」，第二階段為「2次取最佳(Best of 2)」，或者是第一階段為「X次取最佳(Best of X)」（X為1或2），第二階段為「3次平均(Mean of 3)」。
     - 9b5) 3x3x3多顆盲解。
         - 9b5a) 這個比賽項目的比賽型式為：「X次取最佳(Best of X)」（X為1、2或3）。
-        - 9b5b) 門檻制的比賽當中，第一階段為「X次取最佳(Best of X)」（X為1或2），第二階段為「Y次取最佳(Best of Y)」（Y為2或3，且Y>X）。 
+        - 9b5b) 門檻制的比賽當中，第一階段為「X次取最佳(Best of X)」（X為1或2），第二階段為「Y次取最佳(Best of Y)」（Y為2或3，且Y>X）。
     - 9b6) 4x4x4盲解和5x5x5盲解。
         - 9b6a) 這些比賽項目的比賽型式為：「3次取最佳(Best of 3)」。
         - 9b6b) WCA同時承認這些比賽項目由「3次取最佳(Best of 3)」該輪當中產生的「3次平均(Mean of 3)」排名與紀錄。「3次平均(Mean of 3)」統計不會影響「3次取最佳(Best of 3)」回合中的參賽者排名，該排名是依據最佳成績決定（參見[規則 9f6](regulations:regulation:9f6)及[規則 9f12](regulations:regulation:9f12)）。
@@ -482,7 +482,7 @@ WCA競賽規則公開在[GitHub](https://github.com/thewca/wca-regulations-trans
         - 11i1b) 該平均或平均值所屬的結果為區域紀錄，或為世界排名前50名的個人紀錄。
         - 11i1d) 該成績是在少於[規則 4b3](regulations:regulation:4b3)所定義的步數限制下而取得的。
         - 11i1e) [11i1a](regulations:regulation:11i1a)及[11i1b](regulations:regulation:11i1b)的例外：在5x5x5方塊、6x6x6方塊、7x7x7方塊、12面體Megaminx以及3x3x3多顆盲解項目，改適用[規則 11i2](regulations:regulation:11i2)。
-        - 11i1f) [11i1a](regulations:regulation:11i1a)及[11i1b](regulations:regulation:11i1b)的例外：在國家錦標賽、洲錦標賽或世界錦標賽中取得的成績，若有兩位轉亂確認轉亂正確並於成績單上簽名（參見[規則 4g3](regulations:regulation:4g3)），則改適用[規則 11i2](regulations:regulation:11i2)。  
+        - 11i1f) [11i1a](regulations:regulation:11i1a)及[11i1b](regulations:regulation:11i1b)的例外：在國家錦標賽、洲錦標賽或世界錦標賽中取得的成績，若有兩位轉亂確認轉亂正確並於成績單上簽名（參見[規則 4g3](regulations:regulation:4g3)），則改適用[規則 11i2](regulations:regulation:11i2)。
     - 11i2) 對於所有其他情況，該成績可以保留。例外：若WCA代表認為給予額外的還原機會能帶來明顯更公平的結果，則可以由WCA代表決定給予額外的還原機會（例如：所使用的錯誤轉亂步驟極為簡單，且參賽者因此取得新的個人紀錄；錯誤轉亂步驟影響該項目的頒獎台排名結果；或方塊被刻意錯誤轉亂）。
     - 11i2+) [建議] 若WCA代表不確定所提供的錯誤轉亂步驟是否相較原始轉亂步驟造成明顯較不公平的結果，應該給予暫時的額外還原機會。
     - 11i2++) [提醒] 雖然在錯誤轉亂步驟下取得的單次成績可以允許被保留，但WCA代表必須確保錯誤轉亂步驟不會變成常態。
@@ -859,5 +859,5 @@ WCA競賽規則公開在[GitHub](https://github.com/thewca/wca-regulations-trans
     - I5a) 依照[章節A](regulations:article:A)所述的標準速解流程、[章節B](regulations:article:B)所述的盲解流程，以及[規則 I4](regulations:regulation:I4)所述的Head to Head速解流程。追加且優先於上述章節的流程規定如下。
     - I5b) 開始還原：
         - I5b1) 當雙方參賽者皆已在還原區域就位且各自的裁判準備就緒時，發令員會詢問「準備好了嗎？(Ready?)」。
-        - I5b2) 當雙方參賽者皆確認已準備好，或至少經過15秒後，發令員會喊「3, 2, 1, GO」。參賽者必須在此時開始解方塊（參見[規則 B2d](regulations:regulation:B2d)）。若故意延遲開始還原，判定該次還原為未完成（DNF），由裁判決定。     
+        - I5b2) 當雙方參賽者皆確認已準備好，或至少經過15秒後，發令員會喊「3, 2, 1, GO」。參賽者必須在此時開始解方塊（參見[規則 B2d](regulations:regulation:B2d)）。若故意延遲開始還原，判定該次還原為未完成（DNF），由裁判決定。
         - I5b3) 參賽者禁止在發令員喊「GO」之前開始解方塊。處罰：判定該次還原為未完成（DNF），由裁判決定。
