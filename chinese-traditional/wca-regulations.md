@@ -814,7 +814,7 @@ WCA競賽規則公開在[GitHub](https://github.com/thewca/wca-regulations-trans
     - I1b) 對於有前一輪的Head to Head回合，種子排序依據參賽者在前一輪的排名。
     - I1c) 對於沒有前一輪的Head to Head回合，種子排序依據該比賽的資格要求。
     - I1d) 若參賽者有相同的種子順位，則這些參賽者之間的排序採隨機決定。
-  - I2) 賽制結構：
+- I2) 賽制結構：
     - I2a) Head to Head回合採單淘汰制，包含數個階段：
         - I2a1) 4名回合：準決賽階段及決賽階段。
         - I2a2) 8名回合：八強階段、準決賽階段及決賽階段。
