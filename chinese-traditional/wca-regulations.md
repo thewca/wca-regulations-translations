@@ -106,7 +106,7 @@ WCA競賽規則公開在[GitHub](https://github.com/thewca/wca-regulations-trans
         - 2i1e) 相機，包括用作相機的手機。相機螢幕必須為空白或位於參賽者的視線範圍外。
     - 2i2) 在還原期間禁止允許使用以下物品：
         - 2i2a) 能向參賽者播放裁判無法聽見之音訊的裝置（例如：電子式耳機）。其中也包含已關閉電源或未連接的裝置。例外：如果參賽者沒有舒適的非電子替代品，可以允許使用此類醫療輔助用品（例如：助聽器）。
-        - 2i2b) Devices used to display information through an active screen visible to the competitor (e.g. a cellphone or tablet computer).
+        - 2i2b) 參賽者可見的可更新顯示資訊的螢幕裝置（例如：手機或平板電腦）。
         - 2i2c) 包含如何解方塊之資訊的書面筆記或其他參考資料。
         - 2i2d) 其他方塊。
         - 2i2e) 額外的照明。
@@ -271,7 +271,7 @@ WCA競賽規則公開在[GitHub](https://github.com/thewca/wca-regulations-trans
 - 5c+) [提醒] 方塊發生故障不能作為參賽者獲得額外還原機會的理由。
 - 5d) 參賽者不允許故意造成方塊故障。故意造成方塊故障的例子包括：移除已固定的中心蓋、旋轉角塊、撕除貼紙。
     - 5d1) 例外： 參賽者為了修正先前的方塊故障時，可以故意造成新的方塊"故障"（參見[規則 5b3b](regulations:regulation:5b3b)及[規則 5b3c](regulations:regulation:5b3c)）。
-    - 5d2) Exception: if a competitor incorrectly fixes an existing puzzle defect, for example by rotating a corner piece in the wrong direction (see [Regulation 5b3c](regulations:regulation:5b3c)), this is not considered intentionally causing a puzzle defect.例外：若參賽者錯誤地修復既有的方塊故障，例如以錯誤方向旋轉了角塊（參見[規則 5b3c](regulations:regulation:5b3c)），則不視為故意造成方塊故障。
+    - 5d2) 例外：若參賽者錯誤地修復既有的方塊故障，例如以錯誤方向旋轉了角塊（參見[規則 5b3c](regulations:regulation:5b3c)），則不視為故意造成方塊故障。
     - 5d3) 故意造成方塊故障的處罰：判定該次還原未完成（DNF）。
 
 
