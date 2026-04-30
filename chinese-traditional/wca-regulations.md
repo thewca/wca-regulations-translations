@@ -848,7 +848,7 @@ WCA競賽規則公開在[GitHub](https://github.com/thewca/wca-regulations-trans
     - I4c) 觀察：
         - I4c1) 當雙方參賽者皆已在還原區域就位且各自的裁判準備就緒時，發令員會詢問「準備好了嗎？(Ready?)」。
         - I4c2) 當雙方參賽者皆確認已準備好，或至少經過15秒後，發令員會喊「開始(START)」並開始計時觀察時間，同時開始這一分。
-        - I4c3) 當觀察時間達到8秒時，發令員會喊「8秒(8 SECONDS)」。
+        - I4c3) 當觀察時間達到8秒時，發令員會喊「8秒(8 seconds)」。
         - I4c4) 當觀察時間達到11秒、12秒及13秒時，發令員會分別喊「3」、「2」、「1」。
         - I4c5) 當觀察時間達到14秒時，發令員會喊「GO」。參賽者必須在此時開始解方塊（參見[規則 A4d](regulations:regulation:A4d)）。若故意延遲開始還原，判定該次還原為未完成（DNF），由裁判決定。
         - I4c6) 由於觀察流程有所調整，Head to Head回合中不適用未在15秒內開始解方塊的相關處罰（參見[規則 A4d1](regulations:regulation:A4d1)及[規則 A4d2](regulations:regulation:A4d2)）。
