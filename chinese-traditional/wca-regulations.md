@@ -132,7 +132,7 @@ WCA競賽規則公開在[GitHub](https://github.com/thewca/wca-regulations-trans
     - 2n1) 抗議只能在該場比賽期間提出，並且需要在爭議事件發生後的30分鐘內且該比賽項目下一輪開始前。(參見[規則 9u](regulations:regulation:9u))
     - 2n2) WCA代表必須要在該項目下一輪比賽開始前解決爭議判決。
     - 2n3) 參賽者必須接受WCA代表所做出的最後判決。處罰：取消比賽資格。
-    - 2n3+) [附加] 參賽者可以在比賽結束後依照[爭議動議](https://documents.worldcubeassociation.org/documents/motions/16.2024.1%20-%20Disputes.pdf)中所描述的流程升級其爭議。
+    - 2n3+) [附加] 參賽者可以在比賽結束後依照[爭議動議]((https://documents.worldcubeassociation.org/documents/motions/16.2025.1%20-%20Disputes.pdf))中所描述的流程升級其爭議。
 - 2s) 有特殊狀況（例如：身心障礙）的參賽者無法遵守一條或多條WCA競賽規則時，可以向WCA代表請求特別協助。有此需求的參賽者應該要在比賽開始前至少兩週聯絡主辦團隊和WCA代表。
 - 2s+) [提醒] 特別協助的案例必須要加入在WCA代表的比賽報告中。
 - 2s++) [舉例] 參賽者的特殊狀況（例如：宗教信仰）讓他們無法在某一日或某個時間比賽，WCA代表可以允許讓他們在不同的時間參賽。WCA代表在應對這種特殊請求時，應該要考量到執行比賽流程所需要的額外投入。包含先讓該參賽者在前幾輪未結束前暫時比下幾輪的可能性。參賽者不應該被允許在不屬於或未緊接於既有比賽時程的時間或日期進行比賽。參賽者不應該被允許在比賽場地之外進行比賽。
@@ -211,7 +211,7 @@ WCA競賽規則公開在[GitHub](https://github.com/thewca/wca-regulations-trans
 - 4b++) [提醒] 若WCA代表在比賽期間生成任何額外的轉亂步驟，則這些轉亂步驟必須被保存。
     - 4b1) 比賽前禁止檢查所產生的轉亂步驟，且WCA代表不能用任何方式過濾或選擇。
     - 4b1+) [提醒] WCA代表禁止以過濾轉亂內容為理由來重新產生新的轉亂步驟。例如：不得事先看過轉亂步驟，然後以「更公平」為由，重新產生一組新的轉亂步驟。
-    - 4b2) 直到該輪比賽開始前，轉亂步驟必須只能讓WCA代表檢視。直到該輪比賽結束前，轉亂步驟必須只能讓WCA代表和轉亂員檢視。例外：對於最少步數解，參賽者在比賽中會拿到轉亂步驟。(參見[規則 E](regulations:article:E))
+    - 4b2) 直到該輪比賽開始前，轉亂步驟必須只能讓WCA代表檢視。直到該輪比賽結束前，轉亂步驟必須只能讓WCA代表和轉亂員檢視。例外：對於最少步數解，參賽者在比賽中會拿到轉亂步驟。(參見[章節E](regulations:article:E))
     - 4b2+) [釐清] 一般來說，所有的轉亂步驟應該在比賽過程中保密，並在比賽結束後一併公布。在某些情況下（例如：破世界紀錄），主辦團隊可以在該輪結束後就公布特定的轉亂步驟。
     - 4b2++) [附加]  比賽的主辦團隊應該要確認轉亂員、轉亂步驟、部分轉亂方塊、轉亂完成方塊，不能被參賽者看到。(參見[規則 A2c](regulations:regulation:A2c))例如：轉亂人員可以在一面牆後面或是可以使用夠高的隔板（比如在轉亂員使用的桌子四周擺放紙板），這樣參賽者看不到正在轉亂的方塊。
         - 4b2a) 只有在WCA代表暫時離開時的情況下（例如：WCA代表自己要比賽），WCA代表才能把尚未使用的轉亂步驟交由比賽團隊的人保管，在這種情況下，應該要交出越少轉亂步驟越好。
@@ -419,7 +419,7 @@ WCA競賽規則公開在[GitHub](https://github.com/thewca/wca-regulations-trans
 - 10c) 完成時的方塊，任何一面朝上皆可。
 - 10d) 一顆方塊的所有零件必須要依附在方塊上，且歸位在該有的位置上。例外：參見[規則 5b5](regulations:regulation:5b5)。
 - 10e) 當方塊每一面的顏色都已歸位，且所有的零件都在以下所述的限度內時，視為完成。
-    - 10e1) 當方塊中兩個相鄰零件（例如：方塊中兩個平行相鄰的層）之間未對齊，並超過[規則 10f](regulations:regulation:10f)所描述的限度時，則此方塊視為需要再一步才能完成。(參見[第12章](regulations:article:12)的「外層轉動計數(OBTM)」)
+    - 10e1) 當方塊中兩個相鄰零件（例如：方塊中兩個平行相鄰的層）之間未對齊，並超過[規則 10f](regulations:regulation:10f)所描述的限度時，則此方塊視為需要再一步才能完成。(參見[章節12](regulations:article:12)的「外層轉動計數(OBTM)」)
     - 10e1+) [釐清] 對於Square-1，由於其方塊外型變換的特性，定義在[規則 10f4](regulations:regulation:10f4)的對齊判罰標準與定義在[規則 12c4](regulations:regulation:12c4)由轉亂程式所使用的轉動代號計數不同。
     - 10e2) 如果不需要完整的一步轉動，就能使方塊變成完成狀態，則方塊判定完成且不用處罰。
     - 10e3) 如果需要再轉動一步才能完成，則方塊判定完成外加兩秒的處罰（+2秒）。
@@ -551,7 +551,7 @@ WCA競賽規則公開在[GitHub](https://github.com/thewca/wca-regulations-trans
     - 12i1) 例外：在魔錶Clock，僅內部時鐘面的位置變化視為轉動。針對按鈕狀態的變化不視為步數。
 
 
-## <article-A><speedsolving><speedsolving> 規則 A：速解
+## <article-A><speedsolving><speedsolving> 章節 A：速解
 
 - A1) 以速解為目標的比賽還原必須要遵守以下流程：
     - A1a) 主辦團隊必須對每一輪做出至少一種時間限制（單次時間限制和/或累積時間限制）。
@@ -581,7 +581,7 @@ WCA競賽規則公開在[GitHub](https://github.com/thewca/wca-regulations-trans
         - A2a2) 若未使用參賽者預備區，參賽者必須留在其指定的還原區域，直到完成該輪所有還原。例外：參賽者可以在取得WCA代表許可的情況下離開其指定的還原區域。處罰：判定剩餘的還原未完成（DNF），由WCA代表決定。
         - A2a3) 一旦被叫到參加某輪，參賽者禁止在其所屬組別所有參賽者完成所有還原之前進入任何指定用於轉亂的區域，除非已獲得WCA代表許可。
         - A2a3+) [提醒] 參賽者在完成其所有還原後，仍不應該被允許查看其所屬組別的轉亂步驟，除非已獲得WCA代表許可（參見[規則 4b2+](guidelines:guideline:4b2+))。
-    - A2b) 轉亂員依據[第4章](regulations:article:4)的規定來對方塊做轉亂。
+    - A2b) 轉亂員依據[章節4](regulations:article:4)的規定來對方塊做轉亂。
         - A2b1) 在Square-1項目，主辦團隊可以強制在方塊中放置一片物體，避免方塊在還原之前被意外地轉動。一旦決定要使用該物體，主辦團隊應該在該輪開始前向參賽者公告。
     - A2c) 從轉亂員開始轉亂方塊到參賽者開始觀察方塊的這段時間內，禁止參賽者看到方塊。
         - A2c1) 轉亂員用蓋子罩住整顆方塊，讓參賽者或觀眾無法看到方塊的任何一部分，直到開始還原為止。
@@ -685,9 +685,9 @@ WCA競賽規則公開在[GitHub](https://github.com/thewca/wca-regulations-trans
     - A7g++++) [釐清] 一位參賽者在以下情況可以被視為比賽經驗不足：第一次參加某一個比賽項目，或是很長的時間沒有在某一個比賽項目參賽。意外事件必須要跟經驗不足有所關聯。
 
 
-## <article-B><blindfolded><blindfoldedsolving> 規則 B：盲解
+## <article-B><blindfolded><blindfoldedsolving> 章節 B：盲解
 
-- B1) 標準速解流程如同[規則 A](regulations:article:A)（速解）。相異且優先於[規則 A](regulations:article:A)的流程如下：
+- B1) 標準速解流程如同[章節A](regulations:article:A)（速解）。相異且優先於[章節A](regulations:article:A)的流程如下：
 - B1+) [提醒] 參賽者禁止使用有凸起、記號或是其他可區分各部位特徵的方塊(參見[規則 3k](regulations:regulation:3k))。盲解項目時應該要特別留意此事。例外：在3x3x3盲解，方塊可以包含[規則 3l](regulations:regulation:3l)所允許的任何Logo。
     - B1a) 沒有觀察階段。（也就是還原階段開始時沒有觀察階段直接開始解方塊階段）
     - B1b) 參賽者需自備眼罩。
@@ -725,9 +725,9 @@ WCA競賽規則公開在[GitHub](https://github.com/thewca/wca-regulations-trans
     - B5c) 在停止計時器前，只要參賽者不碰觸方塊，參賽者可以移除眼罩。在解方塊階段結束前，參賽者禁止碰觸方塊。處罰：判定該次還原未完成（DNF）。
 
 
-## <article-C><one-handed><onehandedsolving> 規則 C：單手解
+## <article-C><one-handed><onehandedsolving> 章節 C：單手解
 
-- C1) 標準速解流程如同[規則 A](regulations:article:A)（速解）。相異且優先於[規則 A](regulations:article:A)的流程如下：
+- C1) 標準速解流程如同[章節A](regulations:article:A)（速解）。相異且優先於[章節A](regulations:article:A)的流程如下：
     - C1b) 在解方塊的過程中，參賽者只能用一隻手操作方塊。處罰：判定該次還原未完成（DNF）。
     - C1b+) [釐清] 觀察時，參賽者可以使用雙手。
     - C1b++) [釐清] 在同一輪的不同還原中，參賽者並不一定要用同一隻手。
@@ -737,7 +737,7 @@ WCA競賽規則公開在[GitHub](https://github.com/thewca/wca-regulations-trans
     - C1c) 在解方塊當中，一旦參賽者以其中一隻手操作方塊，他就不能用另一隻手操作方塊。處罰：判定該次還原未完成（DNF）。
 
 
-## <article-E><fewest-moves><fewestmovessolving> 規則 E：最少步數解
+## <article-E><fewest-moves><fewestmovessolving> 章節 E：最少步數解
 
 - E2) 最少步數解的流程如下：
     - E2a) 裁判將一份轉亂步驟和白紙交給所有參賽者。裁判啟動碼錶並喊「開始(Go)」。
@@ -771,7 +771,7 @@ WCA競賽規則公開在[GitHub](https://github.com/thewca/wca-regulations-trans
         - E2e1) WCA代表可以要求參賽者解釋解法中任何的轉法，且要與轉亂步驟無關。如果參賽者無法提供有效的解釋，判定該次還原未完成（DNF）。
 - E3) 參賽者可以使用以下的物品。擅自使用其他物品的處罰：判定該次還原未完成（DNF）。例外：若參賽者使用未授權物品未帶來任何優勢，則成績可以被保留，由WCA代表決定。
     - E3a) 紙（由裁判提供）、答案卷（由裁判提供）、該次還原的轉亂圖示（可能在紙或答案卷上）和筆或類似書寫用的文具（由裁判提供，或自行準備）。
-    - E3b) 3x3x3方塊（最多三顆，自行準備），必須要在還原開始前準備好且必須符合[第3章](regulations:article:3)所描述的內容。
+    - E3b) 3x3x3方塊（最多三顆，自行準備），必須要在還原開始前準備好且必須符合[章節3](regulations:article:3)所描述的內容。
     - E3b+) [釐清] 方塊在還原開始時不需要處於已完成狀態。
     - E3c) 貼紙（自行準備）。
     - E3d) 用於確認比賽剩餘時間的碼錶或手錶（自行準備），需要由WCA代表認可。
@@ -787,9 +787,9 @@ WCA競賽規則公開在[GitHub](https://github.com/thewca/wca-regulations-trans
     - E6c) 存在任何轉亂步驟資訊可能已被欲加入之參賽者得知的風險。
 
 
-## <article-H><multiple-blindfolded><multipleblindfoldedsolving> 規則 H：多顆盲解
+## <article-H><multiple-blindfolded><multipleblindfoldedsolving> 章節 H：多顆盲解
 
-- H1) 標準盲解流程如同[規則 B](regulations:article:B)（盲解）。相異且優先於[規則 B](regulations:article:B)的流程如下：
+- H1) 標準盲解流程如同[章節B](regulations:article:B)（盲解）。相異且優先於[章節B](regulations:article:B)的流程如下：
     - H1+) [附加] 如果在還原過程中（翻譯備註：記憶階段），發現有轉亂重複的方塊。該方塊可以使用不同的轉亂內容重新轉亂，由WCA代表決定。
     - H1a) 在每一次還原開始之前，參賽者必須要提交想要還原的方塊數量（至少兩顆）給主辦團隊。
         - H1a1) 當參賽者提交要還原的方塊數量給主辦團隊後，就不允許再改變還原的方塊數量。
