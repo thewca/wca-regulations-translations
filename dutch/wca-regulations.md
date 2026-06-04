@@ -484,7 +484,7 @@ Let op:  Omdat Artikel-&nbsp;en Reglementnummers niet opnieuw worden toegewezen 
     - 11i1) In de volgende gevallen moet een extra poging worden toegekend om de getroffen poging te vervangen. Als er geen extra poging wordt toegestaan, wordt het resultaat als DNS beschouwd:
     - 11i1+) [AANBEVELING] Deelnemers van wie verwacht wordt dat ze aan deze criteria voldoen, dienen hun scrambles te laten controleren door een tweede scrambler voordat ze uitgezonden worden (zie [Reglement 4g3](regulations:regulation:4g3)).
     - 11i1++) [AANBEVELING] Voor resultaten die aan deze criteria voldoen, zou de WCA Delegate moeten proberen om verder te verifiëren, bijvoorbeeld met behulp van beschikbaar videobewijs, dat de puzzel correct werd gescrambled, vóór het einde van de wedstrijd.
-    - 11i1+++) [AAANVULLING] Indien gevraagd door deelnemers met resultaten die aan deze criteria voldoen, moet de WCA Delegate toegang verlenen tot de relevante scramble-reeksen vóór het einde van de wedstrijd.
+    - 11i1+++) [AANVULLING] Indien gevraagd door deelnemers met resultaten die aan deze criteria voldoen, moet de WCA Delegate toegang verlenen tot de relevante scramble-reeksen vóór het einde van de wedstrijd.
         - 11i1a) Het individuele resultaat is een regionaal record of een persoonlijk record in de top 50 van de wereldranglijst.
         - 11i1b) Het gemiddelde waar het resultaat deel van uitmaakt is een regionaal record of van een persoonlijk record in de top 50 van de wereldranglijst.
         - 11i1d) Het resultaat werd behaald door de puzzel op te lossen in minder draaibewegingen dan de limieten gedefinieerd in [Reglement 4b3](regulations:regulation:4b3).
@@ -744,7 +744,7 @@ Let op:  Omdat Artikel-&nbsp;en Reglementnummers niet opnieuw worden toegewezen 
         - C1b2) Als er een defect aan de puzzel optreedt en de deelnemer kiest ervoor om het te herstellen, mag de puzzel enkel hersteld worden met de oplossende hand. Straf: diskwalificatie van de poging (DNF).
         - C1b3) Als er andere lichaamsdelen van de deelnemer in contact komen met de puzzel of delen van de puzzel zonder de bedoeling van de deelnemer en zonder draaibewegingen uit te voeren, wordt dit niet beschouwd als het manipuleren van de puzzel, ter beoordeling van de judge.
         - C1b4) Tijdens het oplossen mag de deelnemer de puzzel tegen het oppervlak houden om de puzzel te manipuleren (zie [Reglement 7f1d](regulations:regulation:7f1d)).
-    - C1c) Tijdens het oplossen, als een deelnemer de puzzel met één hand oplost, mag de puzzel niet met de andere hand aangeraakt worden. Straf: diskwalificatie van de poging (DNF).
+    - C1c) Tijdens het oplossen, als een deelnemer de puzzel met één hand oplost, mag de puzzel niet met de andere hand opgelost worden. Straf: diskwalificatie van de poging (DNF).
 
 
 ## <article-E><fewest-moves><fewestmovessolving> Artikel E: Oplossen met minste draaien
