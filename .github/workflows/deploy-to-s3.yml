@@ -28,11 +28,15 @@ jobs:
           # install font libraries
           sudo apt-get update -qq && \
           sudo apt-get install --no-install-recommends -y \
+          fonts-dejavu \
           fonts-unfonts-core \
           fonts-wqy-microhei \
           fonts-ipafont \
-          lmodern \
+          fonts-thai-tlwg \
+          fonts-lmodern \
           libxrender1
+          # Regenerate font cache
+          fc-cache -f -v
           # install wkhtmltopdf
           wget https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.4/wkhtmltox-0.12.4_linux-generic-amd64.tar.xz -O wkhtml.tar.xz && sudo tar -xf wkhtml.tar.xz --strip-components=1 -C /usr/local
       - name: Build and deploy to S3
@@ -47,7 +51,12 @@ jobs:
               lang_outputdir=$outputdir/${l}
               mkdir -p $lang_outputdir
               echo "Generating ${kind} for language ${l}"
-              wrc --target=$kind -g $git_hash -l $l -o $lang_outputdir $lang_inputdir
+              # There are some translations that don't have merged regulations yet
+              if [ -f $lang_inputdir/wca-guidelines.md ]; then
+                  wrc --target=$kind -g $git_hash -l $l -o $lang_outputdir $lang_inputdir
+              else
+                  wrc --target=$kind -g $git_hash -l $l -o $lang_outputdir $lang_inputdir/wca-regulations.md
+              fi
               # Update timestamp for semi-automatic computation of translations index
               cp $lang_inputdir/metadata.json $lang_outputdir/
             done
