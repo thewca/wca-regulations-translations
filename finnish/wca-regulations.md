@@ -1,6 +1,6 @@
 # <wca-title>WCA-säännöt
 
-<version>Versio: 1. tammikuuta 2026
+<version>Versio: 1. huhtikuuta 2026
 
 
 ## Huomioitavaa
@@ -242,12 +242,13 @@ Huomautus: Koska artikloille ja säännöille ei määrätä uusia numeroita, ku
     - 4d4) Clock sekoitetaan aloittaen kummalta tahansa sivulta ja kello 12 ylhäällä.
     - 4d5) Skewb sekoitetaan siten, että valkoinen tahko (jos ei mahdollista, niin vaalein tahko) on päällä ja vihreä tahko (jos ei mahdollista, niin tummin viereinen tahko) on edessä vasemmalla.
 - 4g) Pulmapelin sekoittamisen jälkeen sekoittajan on varmistettava, että pulmapeli on sekoitettu oikein. Jos pulmapelin asema on väärin, sekoittajan täytyy korjata se (esim. ratkaisemalla pulmapeli ja sekoittamalla uudestaan).
-- 4g+) [SUOSITUS] Kun sekoittaja on varmistanut, että pulmapeli on sekoitettu oikein, hän voi antaa pulmapelin toiselle sekoittajalle varmistettavaksi. Tässä tapauksessa molempien sekoittajien pitäisi allekirjoittaa tuloskortti.
     - 4g1) Seuraavat poikkeukset ovat voimassa:
         - 4g1a) 5x5x5-kuution, 6x6x6-kuution, 7x7x7-kuution ja Megaminxin asemaa ei tarvitse korjata, WCA-delegaatin harkinnan mukaan.
         - 4g1a+) [SELVENNYS] 5x5x5 sokkona -lajissa pulmapelin asema täytyy aina korjata.
         - 4g1a++) [SUOSITUS] WCA-delegaatin pitäisi käyttää vahvempaa harkintaa arvioidessaan, täytyykö 5x5x5-kuution ja Megaminxin väärä asema korjata.
     - 4g2) 3x3x3 multisokko -yrityksen sekoittajan täytyy sekoitettuaan kaikki kuutiot varmistaa, että kahta kuutiota ei ole epähuomiossa sekoitettu samalla tavalla (samaa sekoitussarjaa käyttäen).
+    - 4g3) Kun sekoittaja on varmistanut, että pulmapeli on sekoitettu oikein, hän voi antaa pulmapelin toiselle sekoittajalle varmistettavaksi. Tässä tapauksessa molempien sekoittajien pitäisi allekirjoittaa tuloskortti.
+    - 4g3+) [SUOSITUS] Kaikki sekoitetut pulmapelit kansallisten mestaruuskilpailujen, maanosan mestaruuskilpailujen tai maailmanmestaruuskilpailujen finaalikierroksella pitäisi varmistaa toisen sekoittajan toimesta.
 
 
 ## <article-5><puzzle-defects><puzzledefects> Artikla 5: Pulmapelin viat
@@ -401,6 +402,7 @@ Huomautus: Koska artikloille ja säännöille ei määrätä uusia numeroita, ku
     - 9t3) Jos kilpailijan tuloksiin tehdään muutos, joka huomioiden toinen kilpailija ei olisi päässyt seuraavalle kierrokselle, tämän toisen kilpailijan tuloksia ei saa poistaa.
     - 9t3+) [ESIMERKKI] Oletetaan, että kilpailija A saa keskiarvon 10.00 ja kilpailija B keskiarvon 10.05 lajin ensimmäisellä kierroksella, niin että kilpailija A jatkaa finaalikierrokselle, mutta kilpailija B ei. Jos havaitaan virhe tulosten tallennuksessa, ja kilpailijan B oikea keskiarvo on 9.95 (jolloin hänen olisi kuulunut päästä finaalikierrokselle kilpailijan A sijaan), kilpailijan A tulokset finaalikierrokselta säilyvät voimassa.
     - 9t4) Tämä sääntö ei ole voimassa kaksinkamppailukierroksen eri vaiheiden välisissä siirtymissä.
+    - 9t5) Poikkeus: tuloksia seuraavalta kierrokselta ei poisteta, mikäli kyseessä oli kilpailijan tuloksen muuttaminen DNS-tulokseksi [säännön 11i1](regulations:regulation:11i1) nojalla kilpailun päättymisen jälkeen.
 - 9u) Kilpailu katsotaan päättyneeksi, kun kaikki seuraavista ehdoista täyttyvät:
 - 9u+) [LISÄYS] Jos kilpailu käydään useassa eri kilpailupaikassa (3x3x3 vähiten siirtoja -kilpailu samanaikaisesti useassa eri sijainnissa), kaikkien ehtojen tulee täyttyä kaikissa kilpailupaikoissa, jotta kilpailu katsotaan päättyneeksi.
     - 9u1) Kaikki WCA-sivuston aikataulun mukaiset kierrokset on saatettu päätökseen.
@@ -480,12 +482,15 @@ Huomautus: Koska artikloille ja säännöille ei määrätä uusia numeroita, ku
 - 11h) WCA-delegaatti voi vaatia kilpailijoita, jotka rikkovat [sääntöä 2k3](regulations:regulation:2k3) vakavasti, poistumaan kilpailupaikalta, ottaen huomioon tilanteen vakavuuden ja sen vaatimat seuraukset. Jos kilpailija kieltäytyy tästä, WCA voi aloittaa kurinpitotoimenpiteet tätä kohtaan.
 - 11i) Jos kilpailijan ratkaisun päätyttyä huomataan, että pulmapeliä ei oltu sekoitettu oikein, sovelletaan seuraavia sääntöjä:
     - 11i1) Seuraavissa tapauksissa täytyy myöntää ylimääräinen ratkaisuyritys korvaamaan alkuperäinen ratkaisuyritys. Jos ylimääräistä ratkaisuyritystä ei myönnetä, tulos on DNS:
-    - 11i1+) [SUOSITUS] Kilpailijoiden, joiden odotetaan täyttävän jokin lueteltu kriteeri, sekoitukset pitäisi tarkastaa kahden eri sekoittajan toimesta (ks. [sääntö 4g+](guidelines:guideline:4g+)).
+    - 11i1+) [SUOSITUS] Kilpailijoiden, joiden odotetaan täyttävän jokin lueteltu kriteeri, sekoitukset pitäisi tarkastaa kahden eri sekoittajan toimesta (ks. [sääntö 4g3](guidelines:guideline:4g3)).
+    - 11i1++) [SUOSITUS] Aina jos tulos täyttää jonkin näistä kriteereistä, WCA-delegaatin pitäisi ennen kilpailun loppua yrittää varmistaa, esimerkiksi videoaineistoa hyödyntäen, että pulmapeli oli oikein sekoitettu.
+    - 11i1+++) [LISÄYS] Mikäli kilpailija, joka saavutti tuloksen, joka täytti jonkin näistä kriteereistä, pyytää saada nähdä tuloksen sekoitussarjat, täytyy WCA-delegaatin antaa kyseiset sekoitussarjat ennen kilpailun loppua.
         - 11i1a) Yksittäinen tulos on alueellinen ennätys tai henkilökohtainen ennätys, joka sijoittuu maailmanrankingin 50 parhaan joukkoon.
         - 11i1b) Keskiarvo, johon tulos kuuluu, on alueellinen ennätys tai osa henkilökohtaista ennätystä, joka sijoittuu maailmanrankingin 50 parhaan joukkoon.
         - 11i1c) Tulos saavutettiin kansallisten mestaruuskilpailujen, maanosan mestaruuskilpailujen tai maailmanmestaruuskilpailujen finaalikierroksella.
         - 11i1d) Tulos saavutettiin ratkaisemalla pulmapeli vähemmillä siirroilla kuin [säännössä 4b3](regulations:regulation:4b3) on määritelty rajaksi.
-        - 11i1e) Poikkeus: lajeissa 5x5x5-kuutio, 6x6x6-kuutio, 7x7x7-kuutio, Megaminx ja 3x3x3 multisokko, ylimääräistä ratkaisuyritystä ei ole välttämätöntä myöntää yllä mainituissa tapauksissa.
+        - 11i1e) Poikkeus sääntöihin [11i1a](regulations:regulation:11i1a) ja [11i1b](regulations:regulation:11i1b): lajeissa 5x5x5-kuutio, 6x6x6-kuutio, 7x7x7-kuutio, Megaminx ja 3x3x3 multisokko, kyseiseen tapaukseen sovelletaan [sääntöä 11i2](regulations:regulation:11i2).
+        - 11i1f) Poikkeus sääntöihin [11i1a](regulations:regulation:11i1a) ja [11i1b](regulations:regulation:11i1b): jos tulos saavutettiin kansallisten mestaruuskilpailujen, maanosan mestaruuskilpailujen tai maailmanmestaruuskilpailujen finaalikierroksella, [sääntöä 11i2](regulations:regulation:11i2) sovelletaan, mikäli kaksi sekoittajaa varmisti, että pulmapeli oli sekoitettu oikein, ja allekirjoitti tuloskortin sen merkiksi (ks. [sääntö 4g3](regulations:regulation:4g3)).
     - 11i2) Kaikissa muissa tapauksissa tulos voi jäädä voimaan. Poikkeus: WCA-delegaatti voi myöntää ylimääräisen ratkaisuyrityksen harkintansa mukaan, jos hän uskoo sen johtavan huomattavasti reilumpaan lopputulokseen (esim. väärin sekoitettu sekoitussarja oli erittäin helppo ja kilpailija teki uuden henkilökohtaisen ennätyksen, väärä sekoitus vaikutti lajin mitalisijoituksiin, tai pulmapeli sekoitettiin tahallaan väärin).
     - 11i2+) [SUOSITUS] Jos WCA-delegaatti on epävarma, johtiko väärä sekoitus huomattavasti epäreilumpaan lopputulokseen kuin alkuperäinen sekoitus, pitäisi myöntää tilapäinen ylimääräinen ratkaisuyritys.
     - 11i2++) [MUISTUTUS] Vaikka väärin sekoitetuilla pulmapeleillä saavutettuja yksittäisiä tuloksia voidaan sallia, WCA-delegaatin täytyy varmistaa, että väärät sekoitukset eivät ole yleisiä.
@@ -865,5 +870,5 @@ Huomautus: Koska artikloille ja säännöille ei määrätä uusia numeroita, ku
     - I5a) [Artiklassa A](regulations:article:A) määriteltyjä nopeusratkaisun vakiomenettelytapoja, [Artiklassa B](regulations:article:B) määriteltyjä sokkoratkaisun menettelytapoja sekä [säännössä I4](regulations:regulation:I4) määriteltyjä kaksinkamppailukierroksen menettelytapoja noudatetaan. Lisäsäännöt, jotka syrjäyttävät vastaavat menettelytavat, on määritelty alla.
     - I5b) Ratkaisuyrityksen aloittaminen:
         - I5b1) Kun molemmat kilpailijat ovat läsnä ratkaisupaikalla ja kun tuomarit ovat valmiita, kuuluttaja kysyy "VALMIS?" tai "READY?".
-        - I5b2) Kun molemmat kilpailijat ovat vahvistaneet olevansa valmiita, tai kun vähintään 15 sekuntia on kulunut, kuuluttaja sanoo "3, 2, 1, NYT/GO". Kilpailijan täytyy aloittaa ratkaisu (see [sääntö B2d](regulations:regulation:B2d)) tässä kohtaa. Rangaistus ratkaisun aloittamisen tarkoituksellisesta viivyttämisestä: ratkaisuyrityksen hylkäys (DNF) tuomarin harkinnan mukaan.
+        - I5b2) Kun molemmat kilpailijat ovat vahvistaneet olevansa valmiita, tai kun vähintään 15 sekuntia on kulunut, kuuluttaja sanoo "3, 2, 1, NYT/GO". Kilpailijan täytyy aloittaa ratkaisu (ks. [sääntö B2d](regulations:regulation:B2d)) tässä kohtaa. Rangaistus ratkaisun aloittamisen tarkoituksellisesta viivyttämisestä: ratkaisuyrityksen hylkäys (DNF) tuomarin harkinnan mukaan.
         - I5b3) Kilpailija ei saa aloittaa ratkaisua ennen kuin kuuluttaja sanoo "NYT" tai "GO". Rangaistus: ratkaisuyrityksen hylkäys (DNF) tuomarin harkinnan mukaan.
