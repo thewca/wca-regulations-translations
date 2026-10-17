@@ -1,5 +1,4 @@
 #!/bin/bash
-#comment: This script is used to run the wrc tool on the wca-regulations.md and wca-guidelines.md files in the repository. It checks for changes in these files and runs a diff against the official regulations. It also checks all translations of the regulations for errors.
 RET=0
 for file in `git diff --name-only thewca/master`; do
   if [[ $file == */wca-regulations.md || $file == */wca-guidelines.md ]]; then
