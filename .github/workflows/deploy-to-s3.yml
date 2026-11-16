@@ -26,7 +26,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install wrc
+          pip install wrc==1.7.1
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
           # install font libraries
           sudo apt-get update -qq && \
@@ -41,7 +41,9 @@ jobs:
           # Regenerate font cache
           fc-cache -f -v
           # install wkhtmltopdf
-          wget https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.4/wkhtmltox-0.12.4_linux-generic-amd64.tar.xz -O wkhtml.tar.xz && sudo tar -xf wkhtml.tar.xz --strip-components=1 -C /usr/local
+          wget https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.4/wkhtmltox-0.12.4_linux-generic-amd64.tar.xz -O wkhtml.tar.xz
+          sha256sum wkhtml.tar.xz | head -n 1 | grep "^049b2cdec9a8254f0ef8ac273afaf54f7e25459a273e27189591edc7d7cf29db"
+          sudo tar -xf wkhtml.tar.xz --strip-components=1 -C /usr/local
       - name: Build and deploy to S3
         run: |
           outputdir=/tmp/translations
